@@ -13,7 +13,45 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
-  <link href="../allbooks/allbooks_M_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 of 11)" />
+  <entry>
+    <title>La memoria del alambre</title>
+    <id>calibre:book:987</id>
+    <updated>2023-08-23T02:48:22Z</updated>
+    <link href="../../Barbara%20Blasco/La%20memoria%20del%20alambre%20%28987%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Barbara%20Blasco/La%20memoria%20del%20alambre%20%28987%29/La%20memoria%20del%20alambre%20-%20Barbara%20Blasco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="564 KB" />
+    <author>
+      <name>Bárbara Blasco</name>
+      <uri>../authors_0/authors_732_Page_1.xml</uri>
+    </author>
+    <published>2020-08-11T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Novela. Realista" />
+    <category term="Lang:es" />
+    <summary>El alambre posee memoria. Una vez doblado tenderá a su posición combada, no importan los esfuerzos que se hagan por enderezarlo. La protagonista, una cantante de orquesta que reniega de las canciones comerciales que difunden como virus, recibe un men...</summary>
+    <link href="../book_0/book_987.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las memorias de Sherlock Holmes</title>
+    <id>calibre:book:2332</id>
+    <updated>2024-09-09T10:34:09Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/Las%20memorias%20de%20Sherlock%20Holmes%20%282332%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/Las%20memorias%20de%20Sherlock%20Holmes%20%282332%29/Las%20memorias%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="312 KB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Intriga" />
+    <category term="Policíaco" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [119]:</summary>
+    <link href="../book_2/book_2332.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El mensaje de Pandora</title>
     <id>calibre:book:1582</id>
@@ -431,44 +469,7 @@ Hubo un tiempo en que los libros podían descubrir nuev...</summary>
     <summary>En otro tiempo España estuvo al frente de las naciones, en cuanto a títulos de posesión y conquista, en lo que geográficamente fue medio mundo. Eso no sucedió por casualidad: al término de ocho siglos de reconquista en la Península, los españoles lle...</summary>
     <link href="../book_0/book_139.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>La mitología contada a los niños</title>
-    <id>calibre:book:2060</id>
-    <updated>2024-09-06T02:09:05Z</updated>
-    <link href="../../Fernan%20Caballero/La%20mitologia%20contada%20a%20los%20ninos%20%282060%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fernan%20Caballero/La%20mitologia%20contada%20a%20los%20ninos%20%282060%29/La%20mitologia%20contada%20a%20los%20nino%20-%20Fernan%20Caballero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="176 KB" />
-    <author>
-      <name>Fernán Caballero</name>
-      <uri>../authors_1/authors_1466_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Otros" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [195]:</summary>
-    <link href="../book_2/book_2060.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La mitología en cómic</title>
-    <id>calibre:book:1201</id>
-    <updated>2024-02-05T06:12:10Z</updated>
-    <link href="../../Sandrine%20Mirza/La%20mitologia%20en%20comic%20%281201%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sandrine%20Mirza/La%20mitologia%20en%20comic%20%281201%29/La%20mitologia%20en%20comic%20-%20Sandrine%20Mirza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="110 MB" />
-    <author>
-      <name>Sandrine Mirza</name>
-      <uri>../authors_0/authors_871_Page_1.xml</uri>
-    </author>
-    <published>2023-03-17T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grupo Anaya</dcterms:publisher>
-    <category term="Comic" />
-    <category term="Lang:es" />
-    <summary>¡Todos los episodios esenciales de la mitología en cómic!Desde el nacimiento del mundo hasta la fundación de Roma, pasando por los mitos más emblemáticos, como los Doce Trabajos de Heracles, Jasón y el Vellocino de Oro, la Guerra de Troya... y protag...</summary>
-    <link href="../book_1/book_1201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_M_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 10)" />
-  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
-  <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 11)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />
+  <link href="../allbooks/allbooks_M_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

@@ -13,7 +13,25 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
-  <link href="../allbooks/allbooks_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 11)" />
+  <entry>
+    <title>Memoria de la Unidad Temporal COVID-19</title>
+    <id>calibre:book:2238</id>
+    <updated>2024-09-09T10:33:51Z</updated>
+    <link href="../../Fundacion%20Carlos%20Slim/Memoria%20de%20la%20Unidad%20Temporal%20COVID%20%282238%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fundacion%20Carlos%20Slim/Memoria%20de%20la%20Unidad%20Temporal%20COVID%20%282238%29/Memoria%20de%20la%20Unidad%20Temporal%20C%20-%20Fundacion%20Carlos%20Slim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="35 MB" />
+    <author>
+      <name>Fundación Carlos Slim</name>
+      <uri>../authors_1/authors_1574_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [106]:</summary>
+    <link href="../book_2/book_2238.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Memoria del comunismo</title>
     <id>calibre:book:1393</id>
@@ -449,24 +467,7 @@
     <summary>Casos criminales complejos [1]: Es el primer día para Alexis Carter en el Departamento de Homicidios de Wichita. Siente que no encaja en ese lugar y ha decidido mantener ocultas sus capacidades de empatía que le ayudan a vislumbrar cosas que otros no...</summary>
     <link href="../book_1/book_1848.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Miedo en tu cadáver</title>
-    <id>calibre:book:1810</id>
-    <updated>2024-08-27T09:07:35Z</updated>
-    <link href="../../Raul%20Garbantes/Miedo%20en%20tu%20cadaver%20%281810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Garbantes/Miedo%20en%20tu%20cadaver%20%281810%29/Miedo%20en%20tu%20cadaver%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="530 KB" />
-    <author>
-      <name>Raúl Garbantes</name>
-      <uri>../authors_0/authors_58_Page_1.xml</uri>
-    </author>
-    <published>2022-08-14T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <category term="Casos criminales complejos" />
-    <summary>Casos criminales complejos [2]: Un escritor asesinado. Una amiga que ha huido sin dejar rastro. Una detective que debe descubrir el misterio. Siete pasajeros a bordo de un bus disfrutan de un tour fotográfico en Dakota del Sur. Sin embargo, al cabo d...</summary>
-    <link href="../book_1/book_1810.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 10)" />
-  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
-  <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 11)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />
+  <link href="../allbooks/allbooks_M_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

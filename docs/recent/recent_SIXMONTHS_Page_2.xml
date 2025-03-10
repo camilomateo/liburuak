@@ -13,7 +13,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous six months" />
-  <link href="../recent/recent_SIXMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 7)" />
+  <link href="../recent/recent_SIXMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 5)" />
   <entry>
     <title>Mi querida Lucía [October 22, 2024]</title>
     <id>calibre:book:2684</id>
@@ -510,6 +510,6 @@ Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magn�
     <summary>¿Sabes de cine?: Este novelista norteamericano, escritor de novelas y relatos cortos, cuyos libros han alcanzado un gran éxito popular, es ya un clásico de la ficción y el terror desde los años setenta.  El papel de este escritor moderno puede compar...</summary>
     <link href="../book_2/book_2651.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 7)" />
-  <link href="../recent/recent_SIXMONTHS_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (7 of 7)" />
+  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 5)" />
+  <link href="../recent/recent_SIXMONTHS_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
 </feed>

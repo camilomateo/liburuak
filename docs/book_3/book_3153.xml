@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Buenas noches, lechuza</title>
+  <id>urn:book:43a31aa5-ec70-4a67-8909-4cca445da21b</id>
+  <updated>2025-03-10T04:00:51Z</updated>
+  <link href="./book_3153.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Buenas noches, lechuza" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <link href="../../Jordi%20Ibanez%20Fanes/Buenas%20noches%2C%20lechuza%20%283153%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jordi%20Ibanez%20Fanes/Buenas%20noches%2C%20lechuza%20%283153%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jordi%20Ibanez%20Fanes/Buenas%20noches%2C%20lechuza%20%283153%29/Buenas%20noches%2C%20lechuza%20-%20Jordi%20Ibanez%20Fanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="655 KB" />
+  <author>
+    <name>Jordi Ibáñez Fanés</name>
+    <uri>../authors_1/authors_1989_Page_1.xml</uri>
+  </author>
+  <published>2025-01-20T04:34:35Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Tusquets Editores S.A</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>Un viejo profesor de filosofía con un pasado
+      inconfesable y unas ataduras presentes no menos oscuras forma
+      parte de un grupo de ancianos que representan una
+      rebelión. ¿Es un instigador? ¿Es un mero
+      observador? ¿Forma todo parte de un plan, o nada es lo
+      que parece y al mismo tiempo todo es peor? Jordi
+      Ibáñez construye una enigmática historia de
+      espías al servicio de Rusia en la Barcelona actual, con
+      sujetos que juegan peligrosamente a ser lo que no son, con
+      charlas crepusculares entre viejos agentes atiborrados de
+      alcohol y mala conciencia, con alguna que otra monja
+      planteando preguntas difíciles, con jueces adormilados,
+      y con ese viejo filósofo lúcido y avergonzado de su
+      pasado poniéndose discretamente al servicio de una
+      jovencísima muchacha caída del cielo. Este es un
+      libro sobre las posibilidades que ofrece la vejez. El juego,
+      el complot, la amistad, la conversación, el cuidado y
+      los afectos liberados del deseo, la actuación —los
+      viejos actores, los saltimbanquis resistentes— tejen el
+      complejo tapiz de voces y saberes que el autor ofrece sin
+      esquivar la cuestión más decisiva de todas: que
+      envejecer es una oportunidad para asomarse al fin a la
+      sabiduría.</p>
+    </div>
+  </content>
+  <link href="../authors_1/authors_1989_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Jordi Ibáñez Fanés" />
+</entry>

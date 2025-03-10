@@ -14,86 +14,191 @@
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <link href="./recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous month" />
   <entry>
-    <title>El recluso [February 2, 2025]</title>
-    <id>calibre:book:2864</id>
-    <updated>2025-02-02T01:10:15Z</updated>
-    <link href="../../Freida%20McFadden/El%20recluso%20%282864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Freida%20McFadden/El%20recluso%20%282864%29/El%20recluso%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="485 KB" />
+    <title>Páginas escogidas [February 10, 2025]</title>
+    <id>calibre:book:2898</id>
+    <updated>2025-02-10T05:14:59Z</updated>
+    <link href="../../Carmen%20Martin%20Gaite/Paginas%20escogidas%20%282898%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carmen%20Martin%20Gaite/Paginas%20escogidas%20%282898%29/Paginas%20escogidas%20-%20Carmen%20Martin%20Gaite.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="504 KB" />
     <author>
-      <name>Freida McFadden</name>
-      <uri>../authors_1/authors_1108_Page_1.xml</uri>
+      <name>Carmen Martín Gaite</name>
+      <uri>../authors_1/authors_1890_Page_1.xml</uri>
     </author>
-    <published>2024-11-15T00:01:08Z</published>
+    <published>2024-11-04T06:51:44Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <dcterms:publisher>Siruela</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>De la autora superventas de La asistenta, llega un nuevo y adictivo thriller lleno de giros imprevistos y ecos de Rebeca.Victoria Barnett lo tiene todo. Una brillante carrera como enfermera. Un marido guapo y cariñoso. Un bonito hogar en las afueras ...</summary>
-    <link href="../book_2/book_2864.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Despertar la curiosidad de nuevos lectores y renovar el interés de los incondicionales de la escritora es el primer propósito de estas Páginas escogidas. Por encima de géneros (poemas, cuentos, novelas, ensayos y cuadernos personales), esta esencial ...</summary>
+    <link href="../book_2/book_2898.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La reina de las bandidas [February 2, 2025]</title>
-    <id>calibre:book:2866</id>
-    <updated>2025-02-02T01:10:16Z</updated>
-    <link href="../../Parini%20Shroff/La%20reina%20de%20las%20bandidas%20%282866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Parini%20Shroff/La%20reina%20de%20las%20bandidas%20%282866%29/La%20reina%20de%20las%20bandidas%20-%20Parini%20Shroff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="413 KB" />
+    <title>La biblioteca de Córdoba [February 10, 2025]</title>
+    <id>calibre:book:2892</id>
+    <updated>2025-02-10T05:14:58Z</updated>
+    <link href="../../Andrea%20D.%20Morales/La%20biblioteca%20de%20Cordoba%20%282892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andrea%20D.%20Morales/La%20biblioteca%20de%20Cordoba%20%282892%29/La%20biblioteca%20de%20Cordoba%20-%20Andrea%20D.%20Morales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="699 KB" />
     <author>
-      <name>Parini Shroff</name>
-      <uri>../authors_1/authors_1875_Page_1.xml</uri>
+      <name>Andrea D. Morales</name>
+      <uri>../authors_0/authors_665_Page_1.xml</uri>
     </author>
-    <published>2024-01-15T00:00:00Z</published>
+    <published>2025-01-23T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>RBA</dcterms:publisher>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>UNA COMEDIA NEGRA SOBRE SOBRE MUJERES QUE QUIEREN DESHACERSE DE SUS MARIDOS
- «Una historia reconfortante sobre un elenco de mujeres con la idea de asesinar a sus indeseables maridos. Una historia que demuestra que el antídoto contra cualquier circuns...</summary>
-    <link href="../book_2/book_2866.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Año 973 d. C. Hubo un tiempo en que solo los libros podían custodiar la sabiduría, y por ello se convirtieron en tesoros. Para protegerlos, nació en Córdoba la mayor biblioteca de la Historia de Occidente. Será allí donde llegue Nasir, un joven médic...</summary>
+    <link href="../book_2/book_2892.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El ritmo de Harlem [February 2, 2025]</title>
-    <id>calibre:book:2865</id>
-    <updated>2025-02-02T01:10:15Z</updated>
-    <link href="../../Colson%20Whitehead/El%20ritmo%20de%20Harlem%20%282865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colson%20Whitehead/El%20ritmo%20de%20Harlem%20%282865%29/El%20ritmo%20de%20Harlem%20-%20Colson%20Whitehead.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="550 KB" />
+    <title>Cruce de damas [February 10, 2025]</title>
+    <id>calibre:book:2893</id>
+    <updated>2025-02-10T05:14:58Z</updated>
+    <link href="../../Maria%20Boado%20Olabarrieta/Cruce%20de%20damas%20%282893%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Boado%20Olabarrieta/Cruce%20de%20damas%20%282893%29/Cruce%20de%20damas%20-%20Maria%20Boado%20Olabarrieta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="384 KB" />
     <author>
-      <name>Colson Whitehead</name>
-      <uri>../authors_1/authors_1874_Page_1.xml</uri>
+      <name>María Boado Olabarrieta</name>
+      <uri>../authors_1/authors_1887_Page_1.xml</uri>
     </author>
-    <published>2023-03-23T06:00:00Z</published>
+    <published>2025-01-23T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Random House</dcterms:publisher>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="Ray Carney" />
-    <summary>Ray Carney [1]: «Un autor que roza la maestría [...]. Whitehead se ha convertido en uno de los mejores novelistas de Estados Unidos».Sam Sacks, The Wall Street JournalRay Carney, hijo de un miembro de la mafia local y padre de familia modélico, regen...</summary>
-    <link href="../book_2/book_2865.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Un thriller judicial en el que la pugna entre dos mujeres destapará los mecanismos y entresijos de la justicia.Verano de 1991. Las fiestas de la pequeña localidad de Oña, en Burgos, se tiñen de un aire ominoso cuando una joven es encontrada en su coc...</summary>
+    <link href="../book_2/book_2893.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Gladiadores, bestias y condenados [February 2, 2025]</title>
-    <id>calibre:book:2863</id>
-    <updated>2025-02-02T01:10:14Z</updated>
-    <link href="../../Alfonso%20Manas/Gladiadores%2C%20bestias%20y%20condenados%20%282863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alfonso%20Manas/Gladiadores%2C%20bestias%20y%20condenados%20%282863%29/Gladiadores%2C%20bestias%20y%20condenad%20-%20Alfonso%20Manas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="239 KB" />
+    <title>Hasta el próximo café [February 10, 2025]</title>
+    <id>calibre:book:2896</id>
+    <updated>2025-02-10T05:14:58Z</updated>
+    <link href="../../Toshikazu%20Kawaguchi/Hasta%20el%20proximo%20cafe%20%282896%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Toshikazu%20Kawaguchi/Hasta%20el%20proximo%20cafe%20%282896%29/Hasta%20el%20proximo%20cafe%20-%20Toshikazu%20Kawaguchi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="744 KB" />
     <author>
-      <name>Alfonso Mañas</name>
-      <uri>../authors_1/authors_1873_Page_1.xml</uri>
+      <name>Toshikazu Kawaguchi</name>
+      <uri>../authors_0/authors_526_Page_1.xml</uri>
     </author>
-    <published>2024-10-02T00:00:00Z</published>
+    <published>2025-01-23T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Almuzara</dcterms:publisher>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Las crónicas brutales del Coliseo
-
-
-
-Los testimonios de los espectáculos que durante siete siglos estremecieron a Roma.
-
-
-
-Salimos del cine de ver Gladiator 2 y la duda nos asalta a todos ¿eran realmente así los espectáculos del Coliseo?
-
-
-
-El único ...</summary>
-    <link href="../book_2/book_2863.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Una nueva entrega del fenómeno feel-good japonés que ha enamorado a más de 5.000.000 de lectores en todo el mundo.Una historia llena de esperanza y optimismo que nos enseña quesiempre podemos reescribir nuestras vidas.En Japón se oculta un lugar lege...</summary>
+    <link href="../book_2/book_2896.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Me limitaba a amarte [February 10, 2025]</title>
+    <id>calibre:book:2895</id>
+    <updated>2025-02-10T05:14:58Z</updated>
+    <link href="../../Rosella%20Postorino/Me%20limitaba%20a%20amarte%20%282895%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rosella%20Postorino/Me%20limitaba%20a%20amarte%20%282895%29/Me%20limitaba%20a%20amarte%20-%20Rosella%20Postorino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="451 KB" />
+    <author>
+      <name>Rosella Postorino</name>
+      <uri>../authors_1/authors_1888_Page_1.xml</uri>
+    </author>
+    <published>2024-12-05T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Omar tiene diez años y pasa los días junto a la ventana, esperando a que su madre vuelva. Hace tanto tiempo que no la ve que ni siquiera sabe si está viva. Su hermano intenta animarlo, pero es incapaz: sin su madre, el mundo se desmorona. Solo le con...</summary>
+    <link href="../book_2/book_2895.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Normas aparte [February 10, 2025]</title>
+    <id>calibre:book:2894</id>
+    <updated>2025-02-10T05:14:58Z</updated>
+    <link href="../../Kate%20Atkinson/Normas%20aparte%20%282894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kate%20Atkinson/Normas%20aparte%20%282894%29/Normas%20aparte%20-%20Kate%20Atkinson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="365 KB" />
+    <author>
+      <name>Kate Atkinson</name>
+      <uri>../authors_1/authors_1305_Page_1.xml</uri>
+    </author>
+    <published>2024-11-27T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>AdN Editorial Grupo Anaya</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En esta recopilación de relatos conoceremos a una reina que se compromete a algo que después no puede cumplir, a una secretaria que repasa la vida que acaba de dejar atrás y a un hombre al que le cambia la suerte después de oír hablar a un caballo.Co...</summary>
+    <link href="../book_2/book_2894.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Orbital [February 10, 2025]</title>
+    <id>calibre:book:2897</id>
+    <updated>2025-02-10T05:14:59Z</updated>
+    <link href="../../Samantha%20Harvey/Orbital%20%282897%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Samantha%20Harvey/Orbital%20%282897%29/Orbital%20-%20Samantha%20Harvey.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="675 KB" />
+    <author>
+      <name>Samantha Harvey</name>
+      <uri>../authors_1/authors_1889_Page_1.xml</uri>
+    </author>
+    <published>2024-12-10T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un himno maravilloso a lo ordinario y lo espectacular narrado a cuatrocientos quilómetros de la Tierra.Premio Booker 2024. Un grupo de seis astronautas lleva a cabo una misión rutinaria en la Estación Espacial Internacional, en la órbita terrestre ba...</summary>
+    <link href="../book_2/book_2897.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A través del pasado [February 10, 2025]</title>
+    <id>calibre:book:2890</id>
+    <updated>2025-02-10T05:14:57Z</updated>
+    <link href="../../Lola%20Montalvo/A%20traves%20del%20pasado%20%282890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lola%20Montalvo/A%20traves%20del%20pasado%20%282890%29/A%20traves%20del%20pasado%20-%20Lola%20Montalvo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="762 KB" />
+    <author>
+      <name>Lola Montalvo</name>
+      <uri>../authors_1/authors_1885_Page_1.xml</uri>
+    </author>
+    <published>2024-12-26T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Edhasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El inspector de policía César Ortega es eficaz e inteligente, pero arrastra mala fama por su difícil carácter. Y, además, se siente aprisionado en un episodio de su pasado que aún hoy lo persigue. En plena crisis personal, se traslada a Madrid para i...</summary>
+    <link href="../book_2/book_2890.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los amantes de Auschwitz [February 10, 2025]</title>
+    <id>calibre:book:2889</id>
+    <updated>2025-02-10T05:14:57Z</updated>
+    <link href="../../Keren%20Blankfeld/Los%20amantes%20de%20Auschwitz%20%282889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Keren%20Blankfeld/Los%20amantes%20de%20Auschwitz%20%282889%29/Los%20amantes%20de%20Auschwitz%20-%20Keren%20Blankfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="10 MB" />
+    <author>
+      <name>Keren Blankfeld</name>
+      <uri>../authors_1/authors_1884_Page_1.xml</uri>
+    </author>
+    <published>2024-11-21T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>1943. En los momentos más oscuros, un apasionado romance nace entre dos jóvenes.No fue hasta setenta años más tarde cuando sus caminos volvieron a cruzarse. Una impactante historia real sobre el amor, la esperanza y la resiliencia.Todo comenzó cuando...</summary>
+    <link href="../book_2/book_2889.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El obrador de la esperanza [February 10, 2025]</title>
+    <id>calibre:book:2891</id>
+    <updated>2025-02-10T05:14:57Z</updated>
+    <link href="../../Montse%20Cazcarra/El%20obrador%20de%20la%20esperanza%20%282891%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Montse%20Cazcarra/El%20obrador%20de%20la%20esperanza%20%282891%29/El%20obrador%20de%20la%20esperanza%20-%20Montse%20Cazcarra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="481 KB" />
+    <author>
+      <name>Montse Cazcarra</name>
+      <uri>../authors_1/authors_1886_Page_1.xml</uri>
+    </author>
+    <published>2025-01-23T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>HAY LUGARES QUE SON UN REFUGIO PARA EL CORAZÓN.HAY NOVELAS QUE TE LLENAN EL ALMA.La primera novela de la psicóloga Montse Cazcarra, autora de Amor sano, amor del bueno«Montse es sabiduría y corazón a la vez». Marta SegrellesUN OBRADOR REPLETO DE AROM...</summary>
+    <link href="../book_2/book_2891.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Strange pictures [February 10, 2025]</title>
+    <id>calibre:book:2888</id>
+    <updated>2025-02-10T05:14:57Z</updated>
+    <link href="../../Uketsu/Strange%20pictures%20%282888%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Uketsu/Strange%20pictures%20%282888%29/Strange%20pictures%20-%20Uketsu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="7 MB" />
+    <author>
+      <name>Uketsu</name>
+      <uri>../authors_1/authors_1883_Page_1.xml</uri>
+    </author>
+    <published>2025-01-23T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>EL FENÓMENO DE MISTERIO QUE ARRASA EN JAPÓN.Más de tres millones de lectores en Japón.Traducido a más de treinta idiomas.¿Un dibujo puede ser suficiente para descubrir a un asesino?Una mujer embarazada, un niño, una casa, un paisaje dibujado por la v...</summary>
+    <link href="../book_2/book_2888.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../recent/recent_MONTH_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 8)" />
   <link href="../recent/recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />

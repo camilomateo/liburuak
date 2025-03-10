@@ -190,6 +190,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Javier Cobo García</title>
+    <id>Calibre2opds:authors:1980</id>
+    <content type="text">Haereditatem</content>
+    <link href="../authors_1/authors_1980_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Xenia García</title>
     <id>Calibre2opds:authors:381</id>
     <content type="text">1 book</content>
@@ -202,14 +210,6 @@
     <id>Calibre2opds:authors:195</id>
     <content type="text">Axel, Loor</content>
     <link href="../authors_0/authors_195_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Alberto García-Salido</title>
-    <id>Calibre2opds:authors:277</id>
-    <content type="text">2 books</content>
-    <link href="../authors_0/authors_277_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

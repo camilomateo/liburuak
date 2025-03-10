@@ -67,6 +67,23 @@
     <link href="../book_1/book_1046.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>El reverso de la utopia. Obra periodística III</title>
+    <id>calibre:book:3133</id>
+    <updated>2025-03-06T05:54:51Z</updated>
+    <link href="../../Mario%20Vargas%20Llosa/El%20reverso%20de%20la%20utopia.%20Obra%20perio%20%283133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Vargas%20Llosa/El%20reverso%20de%20la%20utopia.%20Obra%20perio%20%283133%29/El%20reverso%20de%20la%20utopia.%20Obra%20p%20-%20Mario%20Vargas%20Llosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1010 KB" />
+    <author>
+      <name>Mario Vargas Llosa</name>
+      <uri>../authors_0/authors_71_Page_1.xml</uri>
+    </author>
+    <published>2025-01-28T02:41:16Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Firme defensor de ideales como la libertad y la democracia, durante más de cinco décadas, Mario Vargas Llosa ha reflexionado en su obra literaria y en sus textos periodísticos sobre los problemas que conlleva la utopía política. Las piezas reunidas e...</summary>
+    <link href="../book_3/book_3133.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La tia Julia y el escribidor</title>
     <id>calibre:book:112</id>
     <updated>2023-01-18T00:43:28Z</updated>

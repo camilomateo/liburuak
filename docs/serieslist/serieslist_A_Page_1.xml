@@ -141,6 +141,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Ariel Bloom</title>
+    <id>Calibre2opds::serieslist:Aseries:274</id>
+    <content type="text">Haereditatem</content>
+    <link href="../series_0/series_274_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Asesinato en Smögen</title>
     <id>Calibre2opds::serieslist:Aseries:34</id>
     <content type="text">El barón del arenque</content>
@@ -153,6 +161,14 @@
     <id>Calibre2opds::serieslist:Aseries:211</id>
     <content type="text">Un minuto para la medianoche</content>
     <link href="../series_0/series_211_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Atlántica</title>
+    <id>Calibre2opds::serieslist:Aseries:270</id>
+    <content type="text">Entre el mar y las estrellas</content>
+    <link href="../series_0/series_270_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

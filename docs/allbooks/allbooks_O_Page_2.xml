@@ -13,6 +13,24 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with O" />
+  <link href="../allbooks/allbooks_O_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 3)" />
+  <entry>
+    <title>Os vigila</title>
+    <id>calibre:book:1095</id>
+    <updated>2023-12-12T08:34:17Z</updated>
+    <link href="../../Amelia%20De%20Dios%20Romero/Os%20vigila%20%281095%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Amelia%20De%20Dios%20Romero/Os%20vigila%20%281095%29/Os%20vigila%20-%20Amelia%20De%20Dios%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="507 KB" />
+    <author>
+      <name>Amelia De Dios Romero</name>
+      <uri>../authors_0/authors_798_Page_1.xml</uri>
+    </author>
+    <published>2021-08-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>NOVELA GANADORA DEL PREMIO MONT MARÇAL 2021.Un trepidante thriller psicológico que se desarrolla en las montañas asturianas.Olivia regresa a la casa de Caberu, en las montañas asturianas, un año después del accidente que acabó con la vida de Guillerm...</summary>
+    <link href="../book_1/book_1095.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Oscura es la noche</title>
     <id>calibre:book:770</id>
@@ -277,6 +295,23 @@
     <link href="../book_1/book_1686.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Los ojos de Bruna</title>
+    <id>calibre:book:3135</id>
+    <updated>2025-03-06T05:54:52Z</updated>
+    <link href="../../Inma%20Chacon/Los%20ojos%20de%20Bruna%20%283135%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Inma%20Chacon/Los%20ojos%20de%20Bruna%20%283135%29/Los%20ojos%20de%20Bruna%20-%20Inma%20Chacon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="395 KB" />
+    <author>
+      <name>Inma Chacón</name>
+      <uri>../authors_0/authors_312_Page_1.xml</uri>
+    </author>
+    <published>2025-02-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Contraluz Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La Hacienda de la Cumbre está marcada por la tragedia. Años atrás, su propietario, el vizconde de Altaslomas, perdió a su mujer en un incendio que también arrebató la vista a su hija. Ahora, una noche de diciembre de 1870, un grito desgarrador proced...</summary>
+    <link href="../book_3/book_3135.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El origen de las especies</title>
     <id>calibre:book:1955</id>
     <updated>2024-09-05T06:10:24Z</updated>
@@ -432,40 +467,5 @@
     <summary>ELLA HA SEGUIDO ADELANTE. Tres años después del asesinato de su prometido, Gemma Morgan, por fin, está empezando a seguir adelante con su vida. ÉL YA NO ESTÁ. Pero justo cuando cree que todo ha vuelto a la normalidad, se da cuenta de que el nuevo hom...</summary>
     <link href="../book_3/book_3055.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Órbitas</title>
-    <id>calibre:book:3063</id>
-    <updated>2025-02-19T09:18:46Z</updated>
-    <link href="../../Sara%20Garcia%20Alonso/Orbitas%20%283063%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sara%20Garcia%20Alonso/Orbitas%20%283063%29/Orbitas%20-%20Sara%20Garcia%20Alonso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Sara García Alonso</name>
-      <uri>../authors_1/authors_1930_Page_1.xml</uri>
-    </author>
-    <published>2025-01-23T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones B</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Sara García Alonso -la primera astronauta española de la Agencia Espacial Europea- comparte su particular experiencia para ofrecernos claves sobre cómo plantear y afrontar los desafíos.«Un viaje absolutamente personal a través de seis órbitas que nos...</summary>
-    <link href="../book_3/book_3063.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Órdenes sagradas</title>
-    <id>calibre:book:1550</id>
-    <updated>2024-06-02T10:59:44Z</updated>
-    <link href="../../Benjamin%20Black/Ordenes%20sagradas%20%281550%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benjamin%20Black/Ordenes%20sagradas%20%281550%29/Ordenes%20sagradas%20-%20Benjamin%20Black.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="323 KB" />
-    <author>
-      <name>Benjamin Black</name>
-      <uri>../authors_1/authors_1100_Page_1.xml</uri>
-    </author>
-    <published>2014-12-22T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Quirke" />
-    <summary>Quirke [7]: Tras el éxito de La rubia de ojos negros, llega «la más poderosa de las entregas de Quirke hasta la fecha.» John L. Murphy, PopMattersPremio Príncipe de Asturias de las Letras 2014 a John Banville por «su inteligente, honda y original cre...</summary>
-    <link href="../book_1/book_1550.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+  <link href="../allbooks/allbooks_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 3)" />
 </feed>

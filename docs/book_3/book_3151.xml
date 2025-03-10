@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La costurera de Chanel</title>
+  <id>urn:book:6a597f76-509f-4b53-bf2f-6408b0d983d4</id>
+  <updated>2025-03-10T04:00:50Z</updated>
+  <link href="./book_3151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La costurera de Chanel" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../../Wendy%20Guerra/La%20costurera%20de%20Chanel%20%283151%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Wendy%20Guerra/La%20costurera%20de%20Chanel%20%283151%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Wendy%20Guerra/La%20costurera%20de%20Chanel%20%283151%29/La%20costurera%20de%20Chanel%20-%20Wendy%20Guerra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="490 KB" />
+  <author>
+    <name>Wendy Guerra</name>
+    <uri>../authors_1/authors_1987_Page_1.xml</uri>
+  </author>
+  <published>2025-02-20T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Lumen</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">La premiada Wendy Guerra, elogiada por Eduardo Mendoza y
+    Alejandro González Iñárritu entre otros, regresa
+    con una conmovedora y original novela.«Una escritora
+    fantástica que siempre sorprende». Milena
+    Busquets«Lírica y desenfadada, cómica,
+    tristísima, totalmente inimitable». Alejandro
+    ZambraComienza el verano en Arcachon, una pequeña ciudad
+    de provincias francesa, y Simone Leblanc se propone reabrir el
+    taller de costura fundado por su abuela. Impulsada por la
+    fuerza de su creatividad, y con ayuda de Teresa, su ama de
+    llaves y confidente, trabajan en la remodelación y al
+    inicio de la temporada sus diseños ya están expuestos
+    en el escaparate y el taller vuelve a llenarse de clientes.Pero
+    Simone aspira a más: se libera del corsé, aligera los
+    vestidos, prefiere el lino y el algodón a la seda,
+    experimenta con los trajes de baño, creando patrones
+    simples con géneros rompedores para su época. Hasta
+    que una veraneante parisina, quien se presenta como Gabrielle
+    Chanel, irrumpe en la...</p>
+  </content>
+  <link href="../authors_1/authors_1987_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Wendy Guerra" />
+</entry>

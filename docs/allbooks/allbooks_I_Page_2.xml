@@ -14,6 +14,23 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with I" />
   <entry>
+    <title>Isla negra</title>
+    <id>calibre:book:835</id>
+    <updated>2023-06-09T01:41:44Z</updated>
+    <link href="../../Toni%20Montserrat/Isla%20negra%20%28835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Toni%20Montserrat/Isla%20negra%20%28835%29/Isla%20negra%20-%20Toni%20Montserrat.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="813 KB" />
+    <author>
+      <name>Toni Montserrat</name>
+      <uri>../authors_0/authors_626_Page_1.xml</uri>
+    </author>
+    <published>2023-05-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janes</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Inspirada en un terrible crimen real, Isla negra lleva a la Ibiza rural del siglo XIX una novela policiaca única y sorprendente.La noche del 26 de diciembre de 1863 mueren brutalmente asesinados el párroco de la iglesia rural de Sant Jordi, en Ibiza,...</summary>
+    <link href="../book_0/book_835.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Ivanhoe</title>
     <id>calibre:book:2288</id>
     <updated>2024-09-09T10:34:00Z</updated>

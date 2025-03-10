@@ -63,6 +63,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Carlos María Domínguez</title>
+    <id>Calibre2opds:authors:1983</id>
+    <content type="text">La casa de papel</content>
+    <link href="../authors_1/authors_1983_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>J. L. Domínguez</title>
     <id>Calibre2opds:authors:834</id>
     <content type="text">1 book</content>
@@ -203,14 +211,6 @@
     <id>Calibre2opds:authors:222</id>
     <content type="text">5 books</content>
     <link href="../authors_0/authors_222_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Charles Duhigg</title>
-    <id>Calibre2opds:authors:815</id>
-    <content type="text">El poder de los hábitos</content>
-    <link href="../authors_0/authors_815_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

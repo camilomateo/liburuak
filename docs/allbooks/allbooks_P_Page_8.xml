@@ -15,6 +15,42 @@
   <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
   <link href="../allbooks/allbooks_P_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 of 9)" />
   <entry>
+    <title>La playa de los narcisos</title>
+    <id>calibre:book:1214</id>
+    <updated>2024-02-20T01:04:11Z</updated>
+    <link href="../../Mado%20Martinez/La%20playa%20de%20los%20narcisos%20%281214%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mado%20Martinez/La%20playa%20de%20los%20narcisos%20%281214%29/La%20playa%20de%20los%20narcisos%20-%20Mado%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="592 KB" />
+    <author>
+      <name>Mado Martínez</name>
+      <uri>../authors_0/authors_881_Page_1.xml</uri>
+    </author>
+    <published>2024-02-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Algaida Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Lena, con antecedentes paranoides, se topa con el cuerpo sin vida de una mujer en la playa, una figura que hasta ahora creía que era producto de sus alucinaciones. A pesar de su descubrimiento, decide mantenerlo en secreto por miedo a ser recluida nu...</summary>
+    <link href="../book_1/book_1214.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La playa</title>
+    <id>calibre:book:2409</id>
+    <updated>2024-09-09T10:34:25Z</updated>
+    <link href="../../Cesare%20Pavese/La%20playa%20%282409%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cesare%20Pavese/La%20playa%20%282409%29/La%20playa%20-%20Cesare%20Pavese.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="171 KB" />
+    <author>
+      <name>Cesare Pavese</name>
+      <uri>../authors_1/authors_1421_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [240]:</summary>
+    <link href="../book_2/book_2409.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Una pluma en el aire</title>
     <id>calibre:book:2695</id>
     <updated>2024-10-31T05:50:32Z</updated>
@@ -426,40 +462,6 @@
     <category term="El profesor" />
     <summary>El profesor [1]: León es un joven profesor de literatura en el Liceum Copernicus de Varsovia. Destrozado por su ruptura sentimental, el As de corazones compagina su trabajo con su sueño de convertirse en escritor. Mientras se divierte con otras mujer...</summary>
     <link href="../book_2/book_2572.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El profeta</title>
-    <id>calibre:book:1922</id>
-    <updated>2024-09-05T06:03:54Z</updated>
-    <link href="../../Gibran%20Khalil%20Gibran/El%20profeta%20%281922%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gibran%20Khalil%20Gibran/El%20profeta%20%281922%29/El%20profeta%20-%20Gibran%20Khalil%20Gibran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="121 KB" />
-    <author>
-      <name>Gibran Khalil Gibran</name>
-      <uri>../authors_1/authors_1369_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>it</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:it" />
-    <link href="../book_1/book_1922.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La promesa de Solveig</title>
-    <id>calibre:book:903</id>
-    <updated>2023-06-26T05:25:18Z</updated>
-    <link href="../../Corina%20Bomann/La%20promesa%20de%20Solveig%20%28903%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Corina%20Bomann/La%20promesa%20de%20Solveig%20%28903%29/La%20promesa%20de%20Solveig%20-%20Corina%20Bomann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="682 KB" />
-    <author>
-      <name>Corina Bomann</name>
-      <uri>../authors_0/authors_268_Page_1.xml</uri>
-    </author>
-    <published>2023-06-13T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Maeva</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Los Lejongärd" />
-    <summary>Los Lejongärd [3]: Solveig, la tercera generación de las mujeres Lejongård, no solo debe superar un duro golpe del destino, sino también luchar con firmeza por la supervivencia de su amada finca. En diciembre de 1967, Solveig, la hija de Matilda, una...</summary>
-    <link href="../book_0/book_903.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_P_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 9)" />
   <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

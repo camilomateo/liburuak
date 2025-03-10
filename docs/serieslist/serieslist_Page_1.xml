@@ -14,7 +14,7 @@
   <entry>
     <title>Series starting with A</title>
     <id>Calibre2opds::serieslist:A</id>
-    <content type="text">18 series</content>
+    <content type="text">20 series</content>
     <link href="../serieslist/serieslist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -22,7 +22,7 @@
   <entry>
     <title>Series starting with B</title>
     <id>Calibre2opds::serieslist:B</id>
-    <content type="text">7 series</content>
+    <content type="text">8 series</content>
     <link href="../serieslist/serieslist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -30,7 +30,7 @@
   <entry>
     <title>Series starting with C</title>
     <id>Calibre2opds::serieslist:C</id>
-    <content type="text">28 series</content>
+    <content type="text">29 series</content>
     <link href="../serieslist/serieslist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -102,7 +102,7 @@
   <entry>
     <title>Series starting with L</title>
     <id>Calibre2opds::serieslist:L</id>
-    <content type="text">46 series</content>
+    <content type="text">48 series</content>
     <link href="../serieslist/serieslist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -142,7 +142,7 @@
   <entry>
     <title>Series starting with R</title>
     <id>Calibre2opds::serieslist:R</id>
-    <content type="text">5 series</content>
+    <content type="text">6 series</content>
     <link href="../serieslist/serieslist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -150,7 +150,7 @@
   <entry>
     <title>Series starting with S</title>
     <id>Calibre2opds::serieslist:S</id>
-    <content type="text">16 series</content>
+    <content type="text">17 series</content>
     <link href="../serieslist/serieslist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

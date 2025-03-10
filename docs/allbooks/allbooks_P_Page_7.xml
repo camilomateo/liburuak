@@ -15,6 +15,23 @@
   <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
   <link href="../allbooks/allbooks_P_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 9)" />
   <entry>
+    <title>Los pecados de nuestros padres</title>
+    <id>calibre:book:4</id>
+    <updated>2023-01-17T09:13:58Z</updated>
+    <link href="../../Asa%20Larsson/Los%20pecados%20de%20nuestros%20padres%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Asa%20Larsson/Los%20pecados%20de%20nuestros%20padres%20%284%29/Los%20pecados%20de%20nuestros%20padres%20-%20Asa%20Larsson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Åsa Larsson</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2022-08-29T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Su lectura es puro placer. No quieres que acabe nunca.» Socialpolitik«Un auténtico page-turner.» Gotlands Allehanda«Åsa Larsson regresa en plena forma.» Norra SkåneAl patólogo forense Lars Pohjanen le quedan pocas semanas de vida cuando le pide a Re...</summary>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Los pecados del padre</title>
     <id>calibre:book:495</id>
     <updated>2023-04-01T02:01:58Z</updated>
@@ -54,6 +71,23 @@
     <category term="Biblioteca PruébaT" />
     <summary>Biblioteca PruébaT [199]:</summary>
     <link href="../book_2/book_2383.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El peor año</title>
+    <id>calibre:book:3131</id>
+    <updated>2025-03-06T05:54:51Z</updated>
+    <link href="../../Luis%20Eduardo%20Hoyos/El%20peor%20ano%20%283131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20Eduardo%20Hoyos/El%20peor%20ano%20%283131%29/El%20peor%20ano%20-%20Luis%20Eduardo%20Hoyos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="441 KB" />
+    <author>
+      <name>Luis Eduardo Hoyos</name>
+      <uri>../authors_1/authors_1974_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial Colombia</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>"Es una novela profunda, filosófica, de una minuciosa exploración psicológica, que desemboca en un elogio tácito de la racionalidad impotente". Del acta del jurado del XVI Concurso Nacional de Novela y Cuento de la Cámara de Comercio de Medellín para...</summary>
+    <link href="../book_3/book_3131.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>El pequeño gran libro de la ansiedad</title>
@@ -429,42 +463,6 @@
     <category term="Lang:es" />
     <summary>Isaac Asimov es —junto con Carl Sagan— el más popular de los autores de divulgación científica, temática que —presuntamente árida— adquiere en sus manos el toque mágico necesario para llegar a apasionarnos. La totalidad de los ensayos incluidos en es...</summary>
     <link href="../book_3/book_3041.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La playa de los narcisos</title>
-    <id>calibre:book:1214</id>
-    <updated>2024-02-20T01:04:11Z</updated>
-    <link href="../../Mado%20Martinez/La%20playa%20de%20los%20narcisos%20%281214%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mado%20Martinez/La%20playa%20de%20los%20narcisos%20%281214%29/La%20playa%20de%20los%20narcisos%20-%20Mado%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="592 KB" />
-    <author>
-      <name>Mado Martínez</name>
-      <uri>../authors_0/authors_881_Page_1.xml</uri>
-    </author>
-    <published>2024-02-07T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Algaida Editores</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Lena, con antecedentes paranoides, se topa con el cuerpo sin vida de una mujer en la playa, una figura que hasta ahora creía que era producto de sus alucinaciones. A pesar de su descubrimiento, decide mantenerlo en secreto por miedo a ser recluida nu...</summary>
-    <link href="../book_1/book_1214.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La playa</title>
-    <id>calibre:book:2409</id>
-    <updated>2024-09-09T10:34:25Z</updated>
-    <link href="../../Cesare%20Pavese/La%20playa%20%282409%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Cesare%20Pavese/La%20playa%20%282409%29/La%20playa%20-%20Cesare%20Pavese.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="171 KB" />
-    <author>
-      <name>Cesare Pavese</name>
-      <uri>../authors_1/authors_1421_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Psicológico" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [240]:</summary>
-    <link href="../book_2/book_2409.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_P_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 9)" />
   <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

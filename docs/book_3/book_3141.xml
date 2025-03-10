@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Operación Kerman</title>
+  <id>urn:book:5d5dbd0d-965e-4f7b-b445-f67bda9d966c</id>
+  <updated>2025-03-10T04:00:48Z</updated>
+  <link href="./book_3141.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Operación Kerman" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../../Sama%20Helalli/Operacion%20Kerman%20%283141%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Sama%20Helalli/Operacion%20Kerman%20%283141%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Sama%20Helalli/Operacion%20Kerman%20%283141%29/Operacion%20Kerman%20-%20Sama%20Helalli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <author>
+    <name>Sama Helalli</name>
+    <uri>../authors_1/authors_1979_Page_1.xml</uri>
+  </author>
+  <published>2025-02-27T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Roca Editorial</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Un thriller de acción liderado por mujeres con algo
+    importante que decir sobre el mundo en el que vivimos hoy.Vera
+    y Cloe, dos amigas hartas de ver sus ilusiones, su esfuerzo y
+    su orgullo pisoteados por los más pudientes, deciden tomar
+    cartas en el asunto y llevar a cabo su propio trabajo
+    complementario: el robo a millonarios sin escrúpulos. Tras
+    el éxito de su último atraco, una llamada las pilla
+    por sorpresa. Se trata de Gladys, la mujer de la víctima,
+    que sabe lo que han hecho. Lejos de entregarlas a la
+    cárcel o exigirles la devolución de lo
+    sustraído, les hace una propuesta de trabajo: recuperar
+    para ella una alfombra excepcional valorada en millones de
+    euros. Con este encargo, Vera y Cloe pasarán a formar
+    parte de un equipo de inteligencia secreto creado por Gladys,
+    en el que serán entrenadas para un atraco de alto riesgo
+    en el que todas las piezas deben cuadrar a la
+    perfección... o se atendrán a las consecuencias.</p>
+  </content>
+  <link href="../authors_1/authors_1979_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Sama Helalli" />
+</entry>

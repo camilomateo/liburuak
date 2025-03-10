@@ -13,7 +13,74 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
-  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (13 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (13 of 15)" />
+  <entry>
+    <title>Las cenizas de Angela. Edición 20 aniversario</title>
+    <id>calibre:book:550</id>
+    <updated>2023-04-11T09:33:24Z</updated>
+    <link href="../../Frank%20McCourt/Las%20cenizas%20de%20Angela.%20Edicion%2020%20a%20%28550%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20McCourt/Las%20cenizas%20de%20Angela.%20Edicion%2020%20a%20%28550%29/Las%20cenizas%20de%20Angela.%20Edicion%20-%20Frank%20McCourt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Frank McCourt</name>
+      <uri>../authors_0/authors_406_Page_1.xml</uri>
+    </author>
+    <published>2017-10-25T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <summary>Una edición especial limitada y numerada para celebrar el 20º aniversario de uno de los mayores éxitos de las últimas décadas, con más de 17 millones de ejemplares vendidos. «Cuando recuerdo mi infancia, me pregunto cómo pude sobrevivir siquiera. Fue...</summary>
+    <link href="../book_0/book_550.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La chica cuervo. Los rostros de Victoria Bergman</title>
+    <id>calibre:book:2790</id>
+    <updated>2025-01-09T08:21:55Z</updated>
+    <link href="../../Erik%20Axl%20Sund/La%20chica%20cuervo.%20Los%20rostros%20de%20Vic%20%282790%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Erik%20Axl%20Sund/La%20chica%20cuervo.%20Los%20rostros%20de%20Vic%20%282790%29/La%20chica%20cuervo.%20Los%20rostros%20de%20-%20Erik%20Axl%20Sund.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="727 KB" />
+    <author>
+      <name>Erik Axl Sund</name>
+      <uri>../authors_1/authors_1826_Page_1.xml</uri>
+    </author>
+    <published>2024-11-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La edición omnibus del best seller internacional más oscuro de los últimos años: el psychothriller que lo empezó todo. Ahora, también en serie de TV. «Oscura, poderosa, desasosegante, terrorífica». The Times «Novela negra sueca llevada a su máxima y ...</summary>
+    <link href="../book_2/book_2790.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La chica de la limpieza</title>
+    <id>calibre:book:3049</id>
+    <updated>2025-02-14T11:54:31Z</updated>
+    <link href="../../Loreth%20Anne%20White/La%20chica%20de%20la%20limpieza%20%283049%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Loreth%20Anne%20White/La%20chica%20de%20la%20limpieza%20%283049%29/La%20chica%20de%20la%20limpieza%20-%20Loreth%20Anne%20White.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="693 KB" />
+    <author>
+      <name>Loreth Anne White</name>
+      <uri>../authors_1/authors_1923_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_3/book_3049.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La chica de nieve</title>
+    <id>calibre:book:512</id>
+    <updated>2023-04-05T00:39:58Z</updated>
+    <link href="../../Javier%20Castillo/La%20chica%20de%20nieve%20%28512%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Castillo/La%20chica%20de%20nieve%20%28512%29/La%20chica%20de%20nieve%20-%20Javier%20Castillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="507 KB" />
+    <author>
+      <name>Javier Castillo</name>
+      <uri>../authors_0/authors_165_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Miren Triggs" />
+    <summary>Miren Triggs [1]: La novela más leída del confinamiento.El thriller perfecto que cambia las reglas del género.El desfile más famoso del planeta.Una niña de tres años desaparecida.¿Dónde está Kiera Templeton?Nueva York, 1998, cabalgata de Acción de Gr...</summary>
+    <link href="../book_0/book_512.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>La chica del cumpleaños</title>
     <id>calibre:book:1842</id>
@@ -381,77 +448,7 @@
     <summary>El Club Mefisto es el sexto libro de la afamada serie Rizzoli &amp; Isles y la inspiración detrás de el éxito televisivo.'HE PECADO'Las palabras están escritas con sangre en la escena del crimen más atroz que la patóloga forense Maura Isles y la detectiv...</summary>
     <link href="../book_0/book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>La cocina probiótica</title>
-    <id>calibre:book:297</id>
-    <updated>2023-02-13T08:25:36Z</updated>
-    <link href="../../Nerea%20Zorokiain%20Garin/La%20cocina%20probiotica%20%28297%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nerea%20Zorokiain%20Garin/La%20cocina%20probiotica%20%28297%29/La%20cocina%20probiotica%20-%20Nerea%20Zorokiain%20Garin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="7 MB" />
-    <author>
-      <name>Nerea Zorokiain Garín</name>
-      <uri>../authors_0/authors_205_Page_1.xml</uri>
-    </author>
-    <published>2022-06-08T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grijalbo</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El libro de cocina para cuidar tu microbiota.La alimentación probiótica es aquella que está pensada para preservar el hábitat y las condiciones de vida que los microorganismos beneficiosos para nuestro sistema digestivo necesitan. Gracias a la micro...</summary>
-    <link href="../book_0/book_297.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La cocinera irlandesa</title>
-    <id>calibre:book:864</id>
-    <updated>2023-06-14T05:48:36Z</updated>
-    <link href="../../Mary%20Beth%20Keane/La%20cocinera%20irlandesa%20%28864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mary%20Beth%20Keane/La%20cocinera%20irlandesa%20%28864%29/La%20cocinera%20irlandesa%20-%20Mary%20Beth%20Keane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="586 KB" />
-    <author>
-      <name>Mary Beth Keane</name>
-      <uri>../authors_0/authors_649_Page_1.xml</uri>
-    </author>
-    <published>2019-06-10T10:33:17Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Mary la Tifoidea: ¿un monstruo egoísta o una inocente perseguida?
- 
-La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tifus de sus manos a la comida de aquellos a los que servía. Decían que debía saberlo. Pero Mary no estaba ...</summary>
-    <link href="../book_0/book_864.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las cocineras de Fenley</title>
-    <id>calibre:book:437</id>
-    <updated>2023-03-20T05:50:08Z</updated>
-    <link href="../../Jennifer%20Ryan/Las%20cocineras%20de%20Fenley%20%28437%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jennifer%20Ryan/Las%20cocineras%20de%20Fenley%20%28437%29/Las%20cocineras%20de%20Fenley%20-%20Jennifer%20Ryan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="554 KB" />
-    <author>
-      <name>Jennifer Ryan</name>
-      <uri>../authors_0/authors_326_Page_1.xml</uri>
-    </author>
-    <published>2023-03-15T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Roca Editorial</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una novela inolvidable sobre un concurso de cocina en tiempos de guerra patrocinado por la BBC y la historia de las cuatro mujeres que participan para tener la oportunidad de mejorar sus vidas. Dos años después de la Segunda Guerra Mundial, Gran Bret...</summary>
-    <link href="../book_0/book_437.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La cofradía de las viudas</title>
-    <id>calibre:book:683</id>
-    <updated>2023-05-15T06:09:52Z</updated>
-    <link href="../../Monica%20Hernandez/La%20cofradia%20de%20las%20viudas%20%28683%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Monica%20Hernandez/La%20cofradia%20de%20las%20viudas%20%28683%29/La%20cofradia%20de%20las%20viudas%20-%20Monica%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Mónica Hernández</name>
-      <uri>../authors_0/authors_507_Page_1.xml</uri>
-    </author>
-    <published>2022-03-16T07:05:32Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Planeta México</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Siglo XVII. La pugna por el poder en la Nueva España se intensifica con la llegada de un nuevo virrey. Las prebendas y privilegios otorgados por el antiguo representante de la corona han levantado envidias y enfrentamientos entre la burguesía, el Est...</summary>
-    <link href="../book_0/book_683.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (11 of 14)" />
-  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
-  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (14 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (11 of 15)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />
+  <link href="../allbooks/allbooks_C_Page_15.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (15 of 15)" />
 </feed>

@@ -20,6 +20,22 @@
   <link href="./authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
   <link href="../authorlist/authorlist_C_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 8)" />
   <entry>
+    <title>Óscar Soto Colás</title>
+    <id>Calibre2opds:authors:592</id>
+    <content type="text">Rojo veneciano</content>
+    <link href="../authors_0/authors_592_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Auguste Comte</title>
+    <id>Calibre2opds:authors:1628</id>
+    <content type="text">1 book</content>
+    <link href="../authors_1/authors_1628_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Carmen Conde</title>
     <id>Calibre2opds:authors:1102</id>
     <content type="text">2 books</content>
@@ -70,7 +86,7 @@
   <entry>
     <title>John Connolly</title>
     <id>Calibre2opds:authors:28</id>
-    <content type="text">2 books</content>
+    <content type="text">3 books</content>
     <link href="../authors_0/authors_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -200,22 +216,6 @@
     <id>Calibre2opds:authors:481</id>
     <content type="text">Lágrimas como navajas</content>
     <link href="../authors_0/authors_481_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Elle Cosimano</title>
-    <id>Calibre2opds:authors:889</id>
-    <content type="text">Finlay Donovan los deja KO</content>
-    <link href="../authors_0/authors_889_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Mara Costa</title>
-    <id>Calibre2opds:authors:1325</id>
-    <content type="text">El eco de las Antillas</content>
-    <link href="../authors_1/authors_1325_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

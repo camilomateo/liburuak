@@ -20,6 +20,22 @@
   <link href="./authorlist_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
   <link href="../authorlist/authorlist_M_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 8)" />
   <entry>
+    <title>Toni Montserrat</title>
+    <id>Calibre2opds:authors:626</id>
+    <content type="text">Isla negra</content>
+    <link href="../authors_0/authors_626_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Helena Montufo</title>
+    <id>Calibre2opds:authors:533</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_533_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Carlota Moon</title>
     <id>Calibre2opds:authors:973</id>
     <content type="text">Cómo un TCA te jode la vida</content>
@@ -200,22 +216,6 @@
     <id>Calibre2opds:authors:1960</id>
     <content type="text">Tela de sevoya</content>
     <link href="../authors_1/authors_1960_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Ottessa Moshfegh</title>
-    <id>Calibre2opds:authors:235</id>
-    <content type="text">Lapvona</content>
-    <link href="../authors_0/authors_235_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Josan Mosteiro</title>
-    <id>Calibre2opds:authors:1957</id>
-    <content type="text">La última bestia</content>
-    <link href="../authors_1/authors_1957_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La ansiedad del esquimal</title>
+  <id>urn:book:45a0c2f8-c991-4846-9fbf-d704adaa6085</id>
+  <updated>2025-03-06T05:54:51Z</updated>
+  <link href="./book_3129.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La ansiedad del esquimal" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="../authorlist/authorlist_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="../authorlist/authorlist_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="../../Baltasar%20Rodero/La%20ansiedad%20del%20esquimal%20%283129%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Baltasar%20Rodero/La%20ansiedad%20del%20esquimal%20%283129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Baltasar%20Rodero/La%20ansiedad%20del%20esquimal%20%283129%29/La%20ansiedad%20del%20esquimal%20-%20Baltasar%20Rodero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="981 KB" />
+  <author>
+    <name>Baltasar Rodero</name>
+    <uri>../authors_1/authors_1972_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Bookwire Spain</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p style="font-weight: bold">España lidera el consumo de
+      psicofármacos a nivel mundial, pero ¿es esa la
+      solución al principal problema de salud mental de
+      nuestro tiempo? Un prestigioso psicólogo nos cuenta todo
+      lo que sabe.</p>
+      <p>Planteada con la sencillez de una consulta
+      psicológica, esta guía práctica encara la
+      ansiedad sin medicación. Explica sus causas y efectos,
+      qué estrategias funcionan y cuáles no. El doctor
+      Baltasar Rodero, psicólogo especializado, comparte sus
+      herramientas para entenderla y afrontarla en un primer
+      estadio. Y parte de una sencilla analogía: un esquimal
+      del Ártico no conoce la gripe. Si la cogiera,
+      creería que se está muriendo por tener
+      congestión, tos y fiebre. Eso mismo le sucede a nuestro
+      cerebro cuando sufrimos ansiedad.</p>
+      <p>Esta guía, tan rigurosa en su trasfondo como
+      útil planteamiento, incluye casos clínicos reales,
+      pero, sobre todo, ejercicios prácticos, pautados, y
+      dirigidos a que cualquier persona con problemas de ansiedad,
+      pánico o agorafobia pueda establecer hábitos
+      saludables.</p>
+      <p>Como señala el autor, «este libro contiene las
+      técnicas más eficaces desde un tratamiento
+      cognitivoconductual. Todas, avaladas por la American
+      Psychological Association (APA) y por mi experiencia con
+      miles de pacientes en más de veinte años de
+      ejercicio profesional».</p>
+      <p>«Una guía imprescindible para quienes buscan
+      superar el miedo y reencontrarse con la libertad en su vida
+      diaria». Dr. Tomás Cobo Castro, Unión Europea
+      de Médicos Especialistas</p>
+    </div>
+  </content>
+  <link href="../authors_1/authors_1972_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Baltasar Rodero" />
+</entry>

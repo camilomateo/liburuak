@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Haereditatem</title>
+  <id>urn:book:9efa484f-dfd4-4802-ae85-c68f923ce95d</id>
+  <updated>2025-03-10T04:00:48Z</updated>
+  <link href="./book_3143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Haereditatem" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../authors_1/authors_1980_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Javier Cobo García" />
+  <link href="../../Javier%20Cobo%20Garcia/Haereditatem%20%283143%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Javier%20Cobo%20Garcia/Haereditatem%20%283143%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Javier%20Cobo%20Garcia/Haereditatem%20%283143%29/Haereditatem%20-%20Javier%20Cobo%20Garcia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="598 KB" />
+  <author>
+    <name>Javier Cobo García</name>
+    <uri>../authors_1/authors_1980_Page_1.xml</uri>
+  </author>
+  <published>2023-08-19T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Avant Editorial</dcterms:publisher>
+  <category term="Lang:es" />
+  <category term="Ariel Bloom" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Ariel Bloom series
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>La inspectora Ariel Bloom vuelve para enfrentarse al caso
+      más complicado de su carrera, en su momento personal
+      más frágil. Unos horribles asesinatos tienen en
+      jaque a la ciudad de Burgos. Las víctimas: chicas
+      jóvenes, cuyos cuerpos aparecen mutilados y dispuestos
+      de la manera más grotesca imaginable, casi
+      artística. La investigación la hará sumergirse
+      en las profundidades de la historia de la ciudad, destapando
+      una red de crímenes y sangre que se remonta a la
+      época de la inquisición, a la vez que ve como su
+      mundo se desmorona. El misterio se funde con la
+      mitología y lo sobrenatural en un trepidante relato
+      donde nada es lo que parece. Segunda entrega de la saga Ariel
+      Bloom.</p>
+    </div>
+  </content>
+  <link href="../authors_1/authors_1980_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Javier Cobo García" />
+</entry>

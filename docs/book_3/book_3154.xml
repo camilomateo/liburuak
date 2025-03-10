@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Medea</title>
+  <id>urn:book:6735493f-cb92-4e05-98bc-ac35e1f26a52</id>
+  <updated>2025-03-10T04:02:06Z</updated>
+  <link href="./book_3154.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Medea" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../authorlist/authorlist_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../../Rosie%20Hewlett/Medea%20%283154%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Rosie%20Hewlett/Medea%20%283154%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Rosie%20Hewlett/Medea%20%283154%29/Medea%20-%20Rosie%20Hewlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="924 KB" />
+  <author>
+    <name>Rosie Hewlett</name>
+    <uri>../authors_1/authors_1990_Page_1.xml</uri>
+  </author>
+  <published>2024-10-18T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Martínez Roca México</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p style="font-weight: bold">Rechazada por su madre. Golpeada
+      por su padre. Separada de su hermana. Medea nunca ha
+      encajado porque posee un poder único y peligroso: la
+      brujería.</p>
+      <p>Medea anhela una existencia diferente. Desde pequeña
+      fue atormentada por su familia porque nació con un poder
+      único y, en apariencia, peligroso: la hechicería.
+      Cuando el apuesto Jasón llega al reino del padre de
+      Medea para reclamar el Vellocino de Oro, ella vislumbra una
+      oportunidad única para escapar: a cambio de que
+      Jasón la ayude a huir, ella lo protegerá con su
+      magia para que supere las pruebas que lo separan del famoso
+      vellocino. Esta aventura la pondrá a prueba en todos los
+      sentidos, luchará contra monstruos, destronará
+      reyes y se enamorará de un hombre que nunca podría
+      esperar merecerla… y cuando al final se enfrente a la
+      traición, se verá impulsada a cometer un acto de
+      desesperación tan brutal que destrozará la vida de
+      todos a su alrededor.</p>
+    </div>
+  </content>
+  <link href="../authors_1/authors_1990_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Rosie Hewlett" />
+</entry>

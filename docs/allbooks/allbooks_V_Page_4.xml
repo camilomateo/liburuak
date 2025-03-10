@@ -15,6 +15,23 @@
   <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with V" />
   <link href="../allbooks/allbooks_V_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 5)" />
   <entry>
+    <title>El verdugo de Gaudí</title>
+    <id>calibre:book:555</id>
+    <updated>2023-04-11T09:33:24Z</updated>
+    <link href="../../Aro%20Sainz%20de%20la%20Maza/El%20verdugo%20de%20Gaudi%20%28555%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aro%20Sainz%20de%20la%20Maza/El%20verdugo%20de%20Gaudi%20%28555%29/El%20verdugo%20de%20Gaudi%20-%20Aro%20Sainz%20de%20la%20Maza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="597 KB" />
+    <author>
+      <name>Aro Sainz de la Maza</name>
+      <uri>../authors_0/authors_411_Page_1.xml</uri>
+    </author>
+    <published>2019-12-10T04:17:16Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En una desesperada carrera contrarreloj, Milo está dispuesto a sacrificar lo que sea necesario con tal de pararle los pies al asesino que amenaza con sembrar Barcelona de cadáveres.							En la fachada del emblemático edificio de La Pedrera de Gaudí ...</summary>
+    <link href="../book_0/book_555.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Los versos sueltos del Edén</title>
     <id>calibre:book:2696</id>
     <updated>2024-10-31T05:50:32Z</updated>
@@ -436,23 +453,6 @@ La joven psicóloga Lis de la Serna regresa a su Cantabria natal para ocupar el 
     <category term="Lang:es" />
     <summary>«En un tiempo de fractura, ¿dónde podemos encontrar orden y estabilidad? Debemos fijarnos en los pequeños detalles, pasar del amplio mundo de la política, los mercados y el sistema internacional al mundo más pequeño y más íntimo de la familia, el bar...</summary>
     <link href="../book_0/book_730.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Los virus no entran por los pies</title>
-    <id>calibre:book:1241</id>
-    <updated>2024-02-23T09:41:57Z</updated>
-    <link href="../../Lucia%20Galan/Los%20virus%20no%20entran%20por%20los%20pies%20%281241%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lucia%20Galan/Los%20virus%20no%20entran%20por%20los%20pies%20%281241%29/Los%20virus%20no%20entran%20por%20los%20pie%20-%20Lucia%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Lucía Galán</name>
-      <uri>../authors_0/authors_904_Page_1.xml</uri>
-    </author>
-    <published>2024-01-10T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Salud" />
-    <category term="Lang:es" />
-    <summary>«Aunque a priori te puedas sentir abrumado o abrumada por el exceso de información, te puedo asegurar que siempre es mejor saber que no saber, que el conocimiento no es solo poder, sino que es control y es calma. Y esto, en la maternidad y paternidad...</summary>
-    <link href="../book_1/book_1241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 5)" />
   <link href="../allbooks/allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />

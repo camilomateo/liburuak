@@ -15,6 +15,24 @@
   <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
   <link href="../allbooks/allbooks_E_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 9)" />
   <entry>
+    <title>Evolucion política del pueblo mexicano: Libros Primero y Segundo</title>
+    <id>calibre:book:2026</id>
+    <updated>2024-09-06T01:57:47Z</updated>
+    <link href="../../Justo%20Sierra/Evolucion%20politica%20del%20pueblo%20mexic%20%282026%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Justo%20Sierra/Evolucion%20politica%20del%20pueblo%20mexic%20%282026%29/Evolucion%20politica%20del%20pueblo%20m%20-%20Justo%20Sierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="222 KB" />
+    <author>
+      <name>Justo Sierra</name>
+      <uri>../authors_1/authors_1456_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [96]:</summary>
+    <link href="../book_2/book_2026.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Una Excursión a los Indios Ranqueles</title>
     <id>calibre:book:2186</id>
     <updated>2024-09-06T02:21:31Z</updated>
@@ -450,23 +468,6 @@
     <category term="Lang:es" />
     <summary>Un club de caza junto a un lago. Un fin de semana de tormenta. Un detective privado… y varios cadáveres.«Una novela de suspense muy original, que va más allá del género policiaco —un diabólico misterio en una habitación cerrada, que alterna con una ...</summary>
     <link href="../book_1/book_1529.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El enigma de la habitación 622</title>
-    <id>calibre:book:706</id>
-    <updated>2023-05-17T01:10:24Z</updated>
-    <link href="../../Joel%20Dicker/El%20enigma%20de%20la%20habitacion%20622%20%28706%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Joel%20Dicker/El%20enigma%20de%20la%20habitacion%20622%20%28706%29/El%20enigma%20de%20la%20habitacion%20622%20-%20Joel%20Dicker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="734 KB" />
-    <author>
-      <name>Joël Dicker</name>
-      <uri>../authors_0/authors_34_Page_1.xml</uri>
-    </author>
-    <published>2020-04-24T05:37:34Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una noche de diciembre, un cadáver yace en el suelo de la habitación 622 del Palace de Verbier, un hotel de lujo en los Alpes suizos. La investigación policial no llegará nunca a término y el paso del tiempo hará que muchos olviden lo sucedido. Años ...</summary>
-    <link href="../book_0/book_706.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_E_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 9)" />
   <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

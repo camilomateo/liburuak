@@ -15,6 +15,23 @@
   <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
   <link href="../allbooks/allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (10 of 10)" />
   <entry>
+    <title>El aprendiz</title>
+    <id>calibre:book:2722</id>
+    <updated>2024-11-26T04:34:04Z</updated>
+    <link href="../../Jon%20Echanove/El%20aprendiz%20%282722%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jon%20Echanove/El%20aprendiz%20%282722%29/El%20aprendiz%20-%20Jon%20Echanove.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="445 KB" />
+    <author>
+      <name>Jon Echanove</name>
+      <uri>../authors_1/authors_1781_Page_1.xml</uri>
+    </author>
+    <published>2024-11-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Aventuras, acción y picaresca en una espléndida novela histórica ambientada en la Sevilla del siglo XVII. « Echanove recrea la Sevilla del siglo XVII con todo detalle y la convierte en escenario de una aventura que sabe a clásico y recuerda a Oliver ...</summary>
+    <link href="../book_2/book_2722.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El archivo de Sherlock Holmes</title>
     <id>calibre:book:2338</id>
     <updated>2024-09-09T10:34:10Z</updated>
@@ -443,23 +460,6 @@ El arte de la manifestación es algo más que una conexión con el universo para
     <category term="La asistenta" />
     <summary>La asistenta [1]: Detrás de la puerta, ella lo ve todo.Todos los días friego la preciosa casa de los Winchester de arriba abajo. Recojo a su hija del colegio y preparo deliciosas comidas para toda la familia antes de subir a cenar sola en mi minúscul...</summary>
     <link href="../book_2/book_2665.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El astronauta</title>
-    <id>calibre:book:3097</id>
-    <updated>2025-02-25T08:50:25Z</updated>
-    <link href="../../Pascual%20Perea/El%20astronauta%20%283097%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pascual%20Perea/El%20astronauta%20%283097%29/El%20astronauta%20-%20Pascual%20Perea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="735 KB" />
-    <author>
-      <name>Pascual Perea</name>
-      <uri>../authors_1/authors_1952_Page_1.xml</uri>
-    </author>
-    <published>2025-02-11T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Espasa</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Despertó sin recuerdos. El pasado lo persigue. La verdad podría destruirlo. Después de una noche de juerga para celebrar su flamante licenciatura en Derecho, el joven Ulises despierta en un hospital. Pronto se suceden las señales de alarma que le hac...</summary>
-    <link href="../book_3/book_3097.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_A_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (8 of 10)" />
   <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />

@@ -13,7 +13,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
-  <link href="../allbooks/allbooks_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 11)" />
   <entry>
     <title>Manifiesto criminal</title>
     <id>calibre:book:2867</id>
@@ -358,6 +358,23 @@ La tensión del Brexit y los ataques...</summary>
     <link href="../book_2/book_2431.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Medea</title>
+    <id>calibre:book:3154</id>
+    <updated>2025-03-10T04:02:06Z</updated>
+    <link href="../../Rosie%20Hewlett/Medea%20%283154%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rosie%20Hewlett/Medea%20%283154%29/Medea%20-%20Rosie%20Hewlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="924 KB" />
+    <author>
+      <name>Rosie Hewlett</name>
+      <uri>../authors_1/authors_1990_Page_1.xml</uri>
+    </author>
+    <published>2024-10-18T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Martínez Roca México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Rechazada por su madre. Golpeada por su padre. Separada de su hermana. Medea nunca ha encajado porque posee un poder único y peligroso: la brujería. Medea anhela una existencia diferente. Desde pequeña fue atormentada por su familia porque nació con ...</summary>
+    <link href="../book_3/book_3154.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Media vida</title>
     <id>calibre:book:891</id>
     <updated>2023-06-23T01:09:46Z</updated>
@@ -447,24 +464,6 @@ La tensión del Brexit y los ataques...</summary>
     <summary>Marcela Pieldelobo [3]: La esperada nueva novela de la serie de la inspectora Marcela Pieldelobo, embarcada en una investigación contrarreloj en la que todos mienten y nadie parece tener prisa por dar con un eminente empresario secuestrado. Francisco...</summary>
     <link href="../book_1/book_1286.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Memoria de la Unidad Temporal COVID-19</title>
-    <id>calibre:book:2238</id>
-    <updated>2024-09-09T10:33:51Z</updated>
-    <link href="../../Fundacion%20Carlos%20Slim/Memoria%20de%20la%20Unidad%20Temporal%20COVID%20%282238%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fundacion%20Carlos%20Slim/Memoria%20de%20la%20Unidad%20Temporal%20COVID%20%282238%29/Memoria%20de%20la%20Unidad%20Temporal%20C%20-%20Fundacion%20Carlos%20Slim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="35 MB" />
-    <author>
-      <name>Fundación Carlos Slim</name>
-      <uri>../authors_1/authors_1574_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [106]:</summary>
-    <link href="../book_2/book_2238.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 10)" />
-  <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 11)" />
+  <link href="../allbooks/allbooks_M_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

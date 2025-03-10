@@ -13,7 +13,24 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
-  <link href="../allbooks/allbooks_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 11)" />
+  <entry>
+    <title>Miedo en tu cadáver</title>
+    <id>calibre:book:1810</id>
+    <updated>2024-08-27T09:07:35Z</updated>
+    <link href="../../Raul%20Garbantes/Miedo%20en%20tu%20cadaver%20%281810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raul%20Garbantes/Miedo%20en%20tu%20cadaver%20%281810%29/Miedo%20en%20tu%20cadaver%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="530 KB" />
+    <author>
+      <name>Raúl Garbantes</name>
+      <uri>../authors_0/authors_58_Page_1.xml</uri>
+    </author>
+    <published>2022-08-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Casos criminales complejos" />
+    <summary>Casos criminales complejos [2]: Un escritor asesinado. Una amiga que ha huido sin dejar rastro. Una detective que debe descubrir el misterio. Siete pasajeros a bordo de un bus disfrutan de un tour fotográfico en Dakota del Sur. Sin embargo, al cabo d...</summary>
+    <link href="../book_1/book_1810.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Mientras París dormía</title>
     <id>calibre:book:421</id>
@@ -264,6 +281,24 @@
     <link href="../book_0/book_679.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Misha Zhukov debe morir</title>
+    <id>calibre:book:3132</id>
+    <updated>2025-03-06T05:54:51Z</updated>
+    <link href="../../Myriam%20M.%20Lejardi/Misha%20Zhukov%20debe%20morir%20%283132%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Myriam%20M.%20Lejardi/Misha%20Zhukov%20debe%20morir%20%283132%29/Misha%20Zhukov%20debe%20morir%20-%20Myriam%20M.%20Lejardi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="814 KB" />
+    <author>
+      <name>Myriam M. Lejardi</name>
+      <uri>../authors_1/authors_1975_Page_1.xml</uri>
+    </author>
+    <published>2025-02-03T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Crossbooks</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Reality" />
+    <summary>Reality [2]:  ¡Competición, amor y un reality adrenalítico!OCHO CELEBRITIES.UNA ISLA DESIERTA.DOS MILLONES DE DÓLARES.Tendrán que darse prisa en llegar hasta el tesoro porque… ¡el tiempo es oro!¡1, 2 o 3!¡El reality de supervivencia más interactivo d...</summary>
+    <link href="../book_3/book_3132.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Misión sin retorno</title>
     <id>calibre:book:3084</id>
     <updated>2025-02-23T10:50:03Z</updated>
@@ -427,55 +462,7 @@
     <summary>Biblioteca PruébaT [25]:</summary>
     <link href="../book_2/book_2098.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Moby Dick</title>
-    <id>calibre:book:2035</id>
-    <updated>2024-09-06T02:09:01Z</updated>
-    <link href="../../Herman%20Melville/Moby%20Dick%20%282035%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Herman%20Melville/Moby%20Dick%20%282035%29/Moby%20Dick%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="688 KB" />
-    <author>
-      <name>Herman Melville</name>
-      <uri>../authors_1/authors_1463_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <link href="../book_2/book_2035.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>The Modern Prometheus</title>
-    <id>calibre:book:2071</id>
-    <updated>2024-09-06T02:09:07Z</updated>
-    <link href="../../Mary%20Shelley/The%20Modern%20Prometheus%20%282071%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mary%20Shelley/The%20Modern%20Prometheus%20%282071%29/The%20Modern%20Prometheus%20-%20Mary%20Shelley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="262 KB" />
-    <author>
-      <name>Mary Shelley</name>
-      <uri>../authors_1/authors_1482_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Science" />
-    <category term="Fiction" />
-    <category term="Horror" />
-    <category term="tales" />
-    <category term="Gothic" />
-    <category term="Scientists" />
-    <category term="--" />
-    <category term="Monsters" />
-    <category term="Frankenstein" />
-    <category term="Victor" />
-    <category term="(Fictitious" />
-    <category term="character)" />
-    <category term="Frankenstein's" />
-    <category term="monster" />
-    <category term="Lang:en" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [281]:</summary>
-    <link href="../book_2/book_2071.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 10)" />
-  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
-  <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 11)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />
+  <link href="../allbooks/allbooks_M_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

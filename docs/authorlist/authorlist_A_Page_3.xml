@@ -16,6 +16,14 @@
   <link href="./authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
   <link href="../authorlist/authorlist_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 6)" />
   <entry>
+    <title>Sara García Alonso</title>
+    <id>Calibre2opds:authors:1930</id>
+    <content type="text">Órbitas</content>
+    <link href="../authors_1/authors_1930_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Ellen Alpsten</title>
     <id>Calibre2opds:authors:1344</id>
     <content type="text">La zarina</content>
@@ -36,6 +44,14 @@
     <id>Calibre2opds:authors:1429</id>
     <content type="text">4 books</content>
     <link href="../authors_1/authors_1429_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Maria de Alva</title>
+    <id>Calibre2opds:authors:1986</id>
+    <content type="text">Un corazon extraviado</content>
+    <link href="../authors_1/authors_1986_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
@@ -122,7 +138,7 @@
   <entry>
     <title>Rachel Amphlett</title>
     <id>Calibre2opds:authors:1969</id>
-    <content type="text">Voluntad de vivir</content>
+    <content type="text">2 books</content>
     <link href="../authors_1/authors_1969_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -196,22 +212,6 @@
     <id>Calibre2opds:authors:88</id>
     <content type="text">Narco CDMX</content>
     <link href="../authors_0/authors_88_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>César G. Antón</title>
-    <id>Calibre2opds:authors:675</id>
-    <content type="text">83 segundos</content>
-    <link href="../authors_0/authors_675_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Amor Antúnez</title>
-    <id>Calibre2opds:authors:914</id>
-    <content type="text">Sexo con cinco</content>
-    <link href="../authors_0/authors_914_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

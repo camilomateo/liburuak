@@ -18,6 +18,22 @@
   <link href="./authorlist_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
   <link href="../authorlist/authorlist_A_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 6)" />
   <entry>
+    <title>Juan Luis Arsuaga</title>
+    <id>Calibre2opds:authors:1708</id>
+    <content type="text">3 books</content>
+    <link href="../authors_1/authors_1708_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ricardo Blanco Asenjo</title>
+    <id>Calibre2opds:authors:1536</id>
+    <content type="text">La calavera denunciadora</content>
+    <link href="../authors_1/authors_1536_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Julia de Asensi</title>
     <id>Calibre2opds:authors:1522</id>
     <content type="text">1 book</content>
@@ -198,22 +214,6 @@
     <id>Calibre2opds:authors:1805</id>
     <content type="text">María de Magdala</content>
     <link href="../authors_1/authors_1805_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Víctor de Árbol</title>
-    <id>Calibre2opds:authors:345</id>
-    <content type="text">El hijo del padre</content>
-    <link href="../authors_0/authors_345_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Víctor del Árbol</title>
-    <id>Calibre2opds:authors:180</id>
-    <content type="text">3 books</content>
-    <link href="../authors_0/authors_180_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

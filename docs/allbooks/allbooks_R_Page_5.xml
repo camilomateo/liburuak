@@ -14,6 +14,42 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with R" />
   <entry>
+    <title>La risa asusta al miedo</title>
+    <id>calibre:book:1553</id>
+    <updated>2024-06-02T10:59:45Z</updated>
+    <link href="../../Sergio%20de%20la%20Calle/La%20risa%20asusta%20al%20miedo%20%281553%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sergio%20de%20la%20Calle/La%20risa%20asusta%20al%20miedo%20%281553%29/La%20risa%20asusta%20al%20miedo%20-%20Sergio%20de%20la%20Calle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="375 KB" />
+    <author>
+      <name>Sergio de la Calle</name>
+      <uri>../authors_1/authors_1132_Page_1.xml</uri>
+    </author>
+    <published>2024-03-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Bookwire Spain</dcterms:publisher>
+    <category term="Autoayuda y desarrollo personal" />
+    <category term="Lang:es" />
+    <summary>Pero… ¿es esto cierto? Dondequiera que miremos, parece haber una crisis, ya sea económica, climática, política o bélica. Muchas veces, al mismo tiempo. En este escenario, ¿hay espacio para el humor? SÍ, aunque no sea obvio, los tiempos de crisis son ...</summary>
+    <link href="../book_1/book_1553.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ritmo de Harlem</title>
+    <id>calibre:book:2865</id>
+    <updated>2025-02-02T01:10:15Z</updated>
+    <link href="../../Colson%20Whitehead/El%20ritmo%20de%20Harlem%20%282865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colson%20Whitehead/El%20ritmo%20de%20Harlem%20%282865%29/El%20ritmo%20de%20Harlem%20-%20Colson%20Whitehead.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="550 KB" />
+    <author>
+      <name>Colson Whitehead</name>
+      <uri>../authors_1/authors_1874_Page_1.xml</uri>
+    </author>
+    <published>2023-03-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Ray Carney" />
+    <summary>Ray Carney [1]: «Un autor que roza la maestría [...]. Whitehead se ha convertido en uno de los mejores novelistas de Estados Unidos».Sam Sacks, The Wall Street JournalRay Carney, hijo de un miembro de la mafia local y padre de familia modélico, regen...</summary>
+    <link href="../book_2/book_2865.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El roce de la oscuridad</title>
     <id>calibre:book:575</id>
     <updated>2023-04-28T01:16:48Z</updated>

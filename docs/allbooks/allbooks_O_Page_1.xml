@@ -12,7 +12,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
-  <link href="../allbooks/allbooks_O_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
+  <link href="../allbooks/allbooks_O_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 3)" />
   <entry>
     <title>O César o nada</title>
     <id>calibre:book:2975</id>
@@ -310,6 +310,23 @@
     <link href="../book_2/book_2045.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Operación Kerman</title>
+    <id>calibre:book:3141</id>
+    <updated>2025-03-10T04:00:48Z</updated>
+    <link href="../../Sama%20Helalli/Operacion%20Kerman%20%283141%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sama%20Helalli/Operacion%20Kerman%20%283141%29/Operacion%20Kerman%20-%20Sama%20Helalli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Sama Helalli</name>
+      <uri>../authors_1/authors_1979_Page_1.xml</uri>
+    </author>
+    <published>2025-02-27T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un thriller de acción liderado por mujeres con algo importante que decir sobre el mundo en el que vivimos hoy.Vera y Cloe, dos amigas hartas de ver sus ilusiones, su esfuerzo y su orgullo pisoteados por los más pudientes, deciden tomar cartas en el a...</summary>
+    <link href="../book_3/book_3141.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Operación jaque mate</title>
     <id>calibre:book:1894</id>
     <updated>2024-09-03T09:33:55Z</updated>
@@ -446,21 +463,5 @@
     <summary>Os salvaré la vida es una sólida y emocionante novela que recrea la vida de Melchor Rodríguez, personaje histórico y singular absolutamente apasionante con un papel infravalorado hasta ahora durante la Guerra Civil y en la trayectoria del anarcosindi...</summary>
     <link href="../book_0/book_997.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Os vigila</title>
-    <id>calibre:book:1095</id>
-    <updated>2023-12-12T08:34:17Z</updated>
-    <link href="../../Amelia%20De%20Dios%20Romero/Os%20vigila%20%281095%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Amelia%20De%20Dios%20Romero/Os%20vigila%20%281095%29/Os%20vigila%20-%20Amelia%20De%20Dios%20Romero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="507 KB" />
-    <author>
-      <name>Amelia De Dios Romero</name>
-      <uri>../authors_0/authors_798_Page_1.xml</uri>
-    </author>
-    <published>2021-08-10T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Roca Editorial</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>NOVELA GANADORA DEL PREMIO MONT MARÇAL 2021.Un trepidante thriller psicológico que se desarrolla en las montañas asturianas.Olivia regresa a la casa de Caberu, en las montañas asturianas, un año después del accidente que acabó con la vida de Guillerm...</summary>
-    <link href="../book_1/book_1095.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
+  <link href="../allbooks/allbooks_O_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (3 of 3)" />
 </feed>

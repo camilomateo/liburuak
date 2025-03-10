@@ -16,6 +16,14 @@
   <link href="./authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 5)" />
   <entry>
+    <title>Charlotte Perkins Gilman</title>
+    <id>Calibre2opds:authors:1636</id>
+    <content type="text">2 books</content>
+    <link href="../authors_1/authors_1636_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Laurie Gilmore</title>
     <id>Calibre2opds:authors:1863</id>
     <content type="text">Café con aroma a calabaza</content>
@@ -144,6 +152,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Néstor F. Marqués González</title>
+    <id>Calibre2opds:authors:1982</id>
+    <content type="text">Gladiadores</content>
+    <link href="../authors_1/authors_1982_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Rubén González</title>
     <id>Calibre2opds:authors:356</id>
     <content type="text">Cura tu estómago para siempre</content>
@@ -196,22 +212,6 @@
     <id>Calibre2opds:authors:994</id>
     <content type="text">La casa</content>
     <link href="../authors_0/authors_994_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Claire Gradidge</title>
-    <id>Calibre2opds:authors:752</id>
-    <content type="text">1 book</content>
-    <link href="../authors_0/authors_752_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Lily Graham</title>
-    <id>Calibre2opds:authors:563</id>
-    <content type="text">1 book</content>
-    <link href="../authors_0/authors_563_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

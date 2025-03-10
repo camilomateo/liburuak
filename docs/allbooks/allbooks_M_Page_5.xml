@@ -13,7 +13,55 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
-  <link href="../allbooks/allbooks_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 11)" />
+  <entry>
+    <title>Moby Dick</title>
+    <id>calibre:book:2035</id>
+    <updated>2024-09-06T02:09:01Z</updated>
+    <link href="../../Herman%20Melville/Moby%20Dick%20%282035%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Herman%20Melville/Moby%20Dick%20%282035%29/Moby%20Dick%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="688 KB" />
+    <author>
+      <name>Herman Melville</name>
+      <uri>../authors_1/authors_1463_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2035.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Modern Prometheus</title>
+    <id>calibre:book:2071</id>
+    <updated>2024-09-06T02:09:07Z</updated>
+    <link href="../../Mary%20Shelley/The%20Modern%20Prometheus%20%282071%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mary%20Shelley/The%20Modern%20Prometheus%20%282071%29/The%20Modern%20Prometheus%20-%20Mary%20Shelley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="262 KB" />
+    <author>
+      <name>Mary Shelley</name>
+      <uri>../authors_1/authors_1482_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Science" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="Gothic" />
+    <category term="Scientists" />
+    <category term="--" />
+    <category term="Monsters" />
+    <category term="Frankenstein" />
+    <category term="Victor" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="Frankenstein's" />
+    <category term="monster" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [281]:</summary>
+    <link href="../book_2/book_2071.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Momentos literarios</title>
     <id>calibre:book:227</id>
@@ -407,50 +455,7 @@
     <summary>A veces, despertar en un lugar desconocido es solo el comienzo de una nueva pesadilla.Un secuestro inesperado despierta el instinto de supervivencia en Fosco Merrell. Lo que parecía ser una velada de redención, se transforma en un siniestro juego de ...</summary>
     <link href="../book_2/book_2571.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Muertos prescindibles</title>
-    <id>calibre:book:1666</id>
-    <updated>2024-07-07T03:32:38Z</updated>
-    <link href="../../Michael%20Hjorth/Muertos%20prescindibles%20%281666%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Hjorth/Muertos%20prescindibles%20%281666%29/Muertos%20prescindibles%20-%20Michael%20Hjorth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="568 KB" />
-    <author>
-      <name>Michael Hjorth</name>
-      <uri>../authors_0/authors_852_Page_1.xml</uri>
-    </author>
-    <author>
-      <name>Hans Rosenfeldt</name>
-      <uri>../authors_0/authors_848_Page_1.xml</uri>
-    </author>
-    <published>2012-10-01T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Intriga" />
-    <category term="Policial" />
-    <category term="Lang:es" />
-    <category term="Sebastian Bergman" />
-    <summary>Sebastian Bergman [3]: En las montañas de Jämtland dos mujeres hacen un descubrimiento macabro: del suelo sobresalen los huesos de una mano. La policía local llega a la escena del crimen y no encuentra uno, sino seis cuerpos; entre ellos, el de dos n...</summary>
-    <link href="../book_1/book_1666.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Mujer equivocada</title>
-    <id>calibre:book:928</id>
-    <updated>2023-07-04T02:12:24Z</updated>
-    <link href="../../Mercedes%20Rosende/Mujer%20equivocada%20%28928%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mercedes%20Rosende/Mujer%20equivocada%20%28928%29/Mujer%20equivocada%20-%20Mercedes%20Rosende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Mercedes Rosende</name>
-      <uri>../authors_0/authors_696_Page_1.xml</uri>
-    </author>
-    <published>2023-04-27T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Bookwire Spain</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Úrsula" />
-    <summary>Úrsula [1]: Mercedes Rosende nos sumerge en el particular universo de Úrsula, que con traducciones al italiano, inglés, alemán y francés triunfa en toda Europa. Úrsula está insatisfecha. Demasiado fea, demasiado hambrienta, demasiado sola..., su vida...</summary>
-    <link href="../book_0/book_928.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 10)" />
-  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
-  <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 11)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />
+  <link href="../allbooks/allbooks_M_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cuervo negro</title>
+  <id>urn:book:53dd0c4b-85a7-4b35-b09f-e89651c419d9</id>
+  <updated>2025-03-06T05:54:52Z</updated>
+  <link href="./book_3136.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Cuervo negro" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authors_1/authors_1977_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ann Cleeves" />
+  <link href="../../Ann%20Cleeves/Cuervo%20negro%20%283136%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Ann%20Cleeves/Cuervo%20negro%20%283136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Ann%20Cleeves/Cuervo%20negro%20%283136%29/Cuervo%20negro%20-%20Ann%20Cleeves.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="618 KB" />
+  <author>
+    <name>Ann Cleeves</name>
+    <uri>../authors_1/authors_1977_Page_1.xml</uri>
+  </author>
+  <published>2025-02-16T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+  <category term="Lang:es" />
+  <category term="Shetland" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the Shetland series
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>La novela que ha inspirado la famosa serie Shetland,
+      emitida en Filmin</p>
+      <p>Es 5 de enero. Las islas Shetland amanecen enterradas bajo
+      un blanco manto de nieve. Fran Hunter está volviendo a
+      casa tras dejar a su hija en el colegio cuando ve una bandada
+      de cuervos volar en círculos sobre una mancha de color
+      en la nieve. Es el cuerpo sin vida de Catherine Ross, su
+      vecina adolescente.</p>
+      <p>Los habitantes del pueblecito de Ravenswick tienen claro
+      quién es el asesino: el ermitaño Marcus Tait. Pero
+      el inspector Jimmy Perez cree que la verdad es otra. La
+      posibilidad de que el asesino siga suelto hace que la
+      desconfianza y la sospecha se extiendan por la pequeña
+      comunidad. Por primera vez en años, los vecinos cierran
+      sus puertas con llave y se miran con suspicacia los unos a
+      los otros, recelosos de lo que la investigación del
+      inspector Perez pueda sacar a la luz.</p>
+    </div>
+  </content>
+  <link href="../authors_1/authors_1977_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Ann Cleeves" />
+</entry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El museo de las almas literarias</title>
+  <id>urn:book:98e08034-64b5-4f05-ad6e-5b04c4103ae4</id>
+  <updated>2025-03-10T04:00:50Z</updated>
+  <link href="./book_3150.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El museo de las almas literarias" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authorlist/authorlist_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../authors_0/authors_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="John Connolly" />
+  <link href="../../John%20Connolly/El%20museo%20de%20las%20almas%20literarias%20%283150%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../John%20Connolly/El%20museo%20de%20las%20almas%20literarias%20%283150%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../John%20Connolly/El%20museo%20de%20las%20almas%20literarias%20%283150%29/El%20museo%20de%20las%20almas%20literaria%20-%20John%20Connolly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="338 KB" />
+  <author>
+    <name>John Connolly</name>
+    <uri>../authors_0/authors_28_Page_1.xml</uri>
+  </author>
+  <published>2024-11-06T06:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <category term="Novela" />
+  <category term="Intriga" />
+  <category term="Lang:es" />
+  <category term="Bibliomisterios" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Bibliomisterios series
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Novela, Intriga, Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Una obra ganadora del Premio Edgar, otorgado por la
+    Asociación de Escritores de Misterio de Estados Unidos.
+    Lector voraz, el señor Berger lleva una vida solitaria
+    pero satisfactoria. Prefiere la compañía de los
+    libros a la de las personas y espera disfrutar de su apacible
+    tiempo en la campiña inglesa, entre las páginas de la
+    literatura clásica. Pero su serena rutina empieza a
+    perturbarse cuando ve a una mujer arrojarse delante de un tren.
+    Si el señor Berger no se equivoca, acaba de ser testigo
+    del clímax de Ana Karénina recreado en el ferrocarril
+    de Exeter a Plymouth. Incapaz de olvidarlo, la
+    investigación lo lleva a la Biblioteca Privada y
+    Depósito de Libros Caxton, donde la línea que separa
+    ficción y realidad se difuminará...</p>
+  </content>
+  <link href="../authors_0/authors_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by John Connolly" />
+</entry>

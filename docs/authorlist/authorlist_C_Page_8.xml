@@ -20,6 +20,22 @@
   <link href="./authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
   <link href="./authorlist_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
   <entry>
+    <title>Elle Cosimano</title>
+    <id>Calibre2opds:authors:889</id>
+    <content type="text">Finlay Donovan los deja KO</content>
+    <link href="../authors_0/authors_889_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mara Costa</title>
+    <id>Calibre2opds:authors:1325</id>
+    <content type="text">El eco de las Antillas</content>
+    <link href="../authors_1/authors_1325_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Sandra Moñino Costa</title>
     <id>Calibre2opds:authors:1759</id>
     <content type="text">Adiós a la inflamación</content>
@@ -192,6 +208,14 @@
     <id>Calibre2opds:authors:383</id>
     <content type="text">Solenoide</content>
     <link href="../authors_0/authors_383_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>calibre</title>
+    <id>Calibre2opds:authors:1978</id>
+    <content type="text">Xataka [lu., 10 mar. 2025]</content>
+    <link href="../authors_1/authors_1978_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

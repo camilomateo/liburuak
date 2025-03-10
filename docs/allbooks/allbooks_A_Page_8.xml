@@ -372,6 +372,23 @@
     <link href="../book_1/book_1358.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>La ansiedad del esquimal</title>
+    <id>calibre:book:3129</id>
+    <updated>2025-03-06T05:54:51Z</updated>
+    <link href="../../Baltasar%20Rodero/La%20ansiedad%20del%20esquimal%20%283129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Baltasar%20Rodero/La%20ansiedad%20del%20esquimal%20%283129%29/La%20ansiedad%20del%20esquimal%20-%20Baltasar%20Rodero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="981 KB" />
+    <author>
+      <name>Baltasar Rodero</name>
+      <uri>../authors_1/authors_1972_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Bookwire Spain</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>España lidera el consumo de psicofármacos a nivel mundial, pero ¿es esa la solución al principal problema de salud mental de nuestro tiempo? Un prestigioso psicólogo nos cuenta todo lo que sabe.Planteada con la sencillez de una consulta psicológica, ...</summary>
+    <link href="../book_3/book_3129.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El antropoceno. Una breve introducción</title>
     <id>calibre:book:583</id>
     <updated>2023-04-28T01:16:52Z</updated>
@@ -449,23 +466,6 @@
     <category term="El profesor" />
     <summary>El profesor [2]: Han pasado diez años desde que León abandonó Varsovia, pero ha llegado el momento de volver. Sin embargo, Europa ha cambiado: una revolución calienta las calles y el español caerá atrapado en ella sin desearlo.</summary>
     <link href="../book_2/book_2588.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El aprendiz</title>
-    <id>calibre:book:2722</id>
-    <updated>2024-11-26T04:34:04Z</updated>
-    <link href="../../Jon%20Echanove/El%20aprendiz%20%282722%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jon%20Echanove/El%20aprendiz%20%282722%29/El%20aprendiz%20-%20Jon%20Echanove.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="445 KB" />
-    <author>
-      <name>Jon Echanove</name>
-      <uri>../authors_1/authors_1781_Page_1.xml</uri>
-    </author>
-    <published>2024-11-06T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones B</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Aventuras, acción y picaresca en una espléndida novela histórica ambientada en la Sevilla del siglo XVII. « Echanove recrea la Sevilla del siglo XVII con todo detalle y la convierte en escenario de una aventura que sabe a clásico y recuerda a Oliver ...</summary>
-    <link href="../book_2/book_2722.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_A_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 10)" />
   <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />

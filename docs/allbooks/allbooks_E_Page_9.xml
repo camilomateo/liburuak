@@ -14,6 +14,23 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
   <entry>
+    <title>El excitante señor Lavelle</title>
+    <id>calibre:book:1754</id>
+    <updated>2024-08-26T10:56:08Z</updated>
+    <link href="../../Neil%20Blackmore/El%20excitante%20senor%20Lavelle%20%281754%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Neil%20Blackmore/El%20excitante%20senor%20Lavelle%20%281754%29/El%20excitante%20senor%20Lavelle%20-%20Neil%20Blackmore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="802 KB" />
+    <author>
+      <name>Neil Blackmore</name>
+      <uri>../authors_1/authors_1255_Page_1.xml</uri>
+    </author>
+    <published>2023-09-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plata</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando Benjamin y Edgar Bowen se embarcan en un Grand Tour por Europa, están listos para conocer a Personas de Calidad. Tienen arcones llenos de pelucas doradas y trajes a juego, hambre por experimentar las maravillas arquitectónicas de la Antigua Ro...</summary>
+    <link href="../book_1/book_1754.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El exilio</title>
     <id>calibre:book:1984</id>
     <updated>2024-09-05T06:10:30Z</updated>

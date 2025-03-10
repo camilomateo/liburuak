@@ -31,4 +31,22 @@
     <summary>Los misterios de la detective Kay Hunter [2]: Tu próximo viaje podría ser el último...Cuando un tren lleno de pasajeros atropella un cuerpo en un tramo de vías conocido por los lugareños como "la milla del suicidio", pronto se revela que el hombre fu...</summary>
     <link href="../book_3/book_3121.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
+  <entry>
+    <title>3 - Inocencia mortal</title>
+    <id>calibre:book:3128</id>
+    <updated>2025-03-06T05:54:50Z</updated>
+    <link href="../../Rachel%20Amphlett/Inocencia%20mortal%20%283128%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rachel%20Amphlett/Inocencia%20mortal%20%283128%29/Inocencia%20mortal%20-%20Rachel%20Amphlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="412 KB" />
+    <author>
+      <name>Rachel Amphlett</name>
+      <uri>../authors_1/authors_1969_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Saxon Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Los misterios de la detective Kay Hunter" />
+    <summary>Los misterios de la detective Kay Hunter [3]: Sophie Whittaker compartió un aterrador secreto. Horas después, estaba muerta.La detective Kay Hunter y sus colegas quedan conmocionados por el brutal asesinato de una adolescente durante una fiesta priva...</summary>
+    <link href="../book_3/book_3128.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
 </feed>

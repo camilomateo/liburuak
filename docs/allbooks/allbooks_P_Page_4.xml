@@ -261,6 +261,23 @@
     <link href="../book_2/book_2073.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Prima facie</title>
+    <id>calibre:book:3134</id>
+    <updated>2025-03-06T05:54:51Z</updated>
+    <link href="../../Suzie%20Miller/Prima%20facie%20%283134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Suzie%20Miller/Prima%20facie%20%283134%29/Prima%20facie%20-%20Suzie%20Miller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="414 KB" />
+    <author>
+      <name>Suzie Miller</name>
+      <uri>../authors_1/authors_1976_Page_1.xml</uri>
+    </author>
+    <published>2025-02-04T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Si la duda razonable protege al acusado, ¿cómo se protege a la víctima? «Esta valiente historia de cómo una abogada exitosa y cualificada puede convertirse en víctima del sistema merece ser contada y recontada.» Daily Mail «Apasionante... Con reflexi...</summary>
+    <link href="../book_3/book_3134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Primer amor</title>
     <id>calibre:book:407</id>
     <updated>2023-03-13T09:24:36Z</updated>
@@ -451,25 +468,6 @@
     <published>0101-01-01T00:00:00Z</published>
     <summary> Cuando se descubre el cuerpo de un médico brutalmente asesinado en un bosque local,  la detective Kim Stone  se sorprende al descubrir que la víctima es Gordon Cordell, un hombre vinculado a un caso anterior en el que murió una joven colegiala. Gord...</summary>
     <link href="../book_1/book_1353.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Prometeo encadenado</title>
-    <id>calibre:book:2426</id>
-    <updated>2024-09-09T10:34:29Z</updated>
-    <link href="../../Esquilo/Prometeo%20encadenado%20%282426%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Prometeo%20encadenado%20%282426%29/Prometeo%20encadenado%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="98 KB" />
-    <author>
-      <name>Esquilo</name>
-      <uri>../authors_1/authors_1623_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Drama" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [261]:</summary>
-    <link href="../book_2/book_2426.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_P_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 9)" />
   <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

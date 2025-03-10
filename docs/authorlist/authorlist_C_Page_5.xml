@@ -114,6 +114,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Kristen Ciccarelli</title>
+    <id>Calibre2opds:authors:1971</id>
+    <content type="text">Rebel Witch</content>
+    <link href="../authors_1/authors_1971_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Almudena Cid</title>
     <id>Calibre2opds:authors:394</id>
     <content type="text">Caminar sin punteras</content>
@@ -206,14 +214,6 @@
     <id>Calibre2opds:authors:164</id>
     <content type="text">La mensajera de París</content>
     <link href="../authors_0/authors_164_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>James Clear</title>
-    <id>Calibre2opds:authors:409</id>
-    <content type="text">Hábitos atómicos</content>
-    <link href="../authors_0/authors_409_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

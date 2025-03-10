@@ -13,7 +13,77 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
-  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (14 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (14 of 15)" />
+  <entry>
+    <title>La cocina probiótica</title>
+    <id>calibre:book:297</id>
+    <updated>2023-02-13T08:25:36Z</updated>
+    <link href="../../Nerea%20Zorokiain%20Garin/La%20cocina%20probiotica%20%28297%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nerea%20Zorokiain%20Garin/La%20cocina%20probiotica%20%28297%29/La%20cocina%20probiotica%20-%20Nerea%20Zorokiain%20Garin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="7 MB" />
+    <author>
+      <name>Nerea Zorokiain Garín</name>
+      <uri>../authors_0/authors_205_Page_1.xml</uri>
+    </author>
+    <published>2022-06-08T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El libro de cocina para cuidar tu microbiota.La alimentación probiótica es aquella que está pensada para preservar el hábitat y las condiciones de vida que los microorganismos beneficiosos para nuestro sistema digestivo necesitan. Gracias a la micro...</summary>
+    <link href="../book_0/book_297.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La cocinera irlandesa</title>
+    <id>calibre:book:864</id>
+    <updated>2023-06-14T05:48:36Z</updated>
+    <link href="../../Mary%20Beth%20Keane/La%20cocinera%20irlandesa%20%28864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mary%20Beth%20Keane/La%20cocinera%20irlandesa%20%28864%29/La%20cocinera%20irlandesa%20-%20Mary%20Beth%20Keane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="586 KB" />
+    <author>
+      <name>Mary Beth Keane</name>
+      <uri>../authors_0/authors_649_Page_1.xml</uri>
+    </author>
+    <published>2019-06-10T10:33:17Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Mary la Tifoidea: ¿un monstruo egoísta o una inocente perseguida?
+ 
+La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tifus de sus manos a la comida de aquellos a los que servía. Decían que debía saberlo. Pero Mary no estaba ...</summary>
+    <link href="../book_0/book_864.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las cocineras de Fenley</title>
+    <id>calibre:book:437</id>
+    <updated>2023-03-20T05:50:08Z</updated>
+    <link href="../../Jennifer%20Ryan/Las%20cocineras%20de%20Fenley%20%28437%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jennifer%20Ryan/Las%20cocineras%20de%20Fenley%20%28437%29/Las%20cocineras%20de%20Fenley%20-%20Jennifer%20Ryan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="554 KB" />
+    <author>
+      <name>Jennifer Ryan</name>
+      <uri>../authors_0/authors_326_Page_1.xml</uri>
+    </author>
+    <published>2023-03-15T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela inolvidable sobre un concurso de cocina en tiempos de guerra patrocinado por la BBC y la historia de las cuatro mujeres que participan para tener la oportunidad de mejorar sus vidas. Dos años después de la Segunda Guerra Mundial, Gran Bret...</summary>
+    <link href="../book_0/book_437.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La cofradía de las viudas</title>
+    <id>calibre:book:683</id>
+    <updated>2023-05-15T06:09:52Z</updated>
+    <link href="../../Monica%20Hernandez/La%20cofradia%20de%20las%20viudas%20%28683%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Monica%20Hernandez/La%20cofradia%20de%20las%20viudas%20%28683%29/La%20cofradia%20de%20las%20viudas%20-%20Monica%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Mónica Hernández</name>
+      <uri>../authors_0/authors_507_Page_1.xml</uri>
+    </author>
+    <published>2022-03-16T07:05:32Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Siglo XVII. La pugna por el poder en la Nueva España se intensifica con la llegada de un nuevo virrey. Las prebendas y privilegios otorgados por el antiguo representante de la corona han levantado envidias y enfrentamientos entre la burguesía, el Est...</summary>
+    <link href="../book_0/book_683.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El coleccionista de máscaras</title>
     <id>calibre:book:317</id>
@@ -317,6 +387,23 @@
     <link href="../book_2/book_2177.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Un corazon extraviado</title>
+    <id>calibre:book:3149</id>
+    <updated>2025-03-10T04:00:50Z</updated>
+    <link href="../../Maria%20de%20Alva/Un%20corazon%20extraviado%20%283149%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20de%20Alva/Un%20corazon%20extraviado%20%283149%29/Un%20corazon%20extraviado%20-%20Maria%20de%20Alva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
+    <author>
+      <name>Maria de Alva</name>
+      <uri>../authors_1/authors_1986_Page_1.xml</uri>
+    </author>
+    <published>2024-12-19T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Harpercollins Español</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Esta novela rescata una biograf&amp;#237;a novelada del poeta, Pedro Garfias perteneciente a la Generaci&amp;#243;n del 27, su vida en Espa&amp;#241;a, su paso por la Residencia de Estudiantes y amistad con los miembros de dicho grupo, su participaci&amp;#243;n dent...</summary>
+    <link href="../book_3/book_3149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El corazón de las tinieblas</title>
     <id>calibre:book:2270</id>
     <updated>2024-09-09T10:33:57Z</updated>
@@ -352,108 +439,23 @@
     <link href="../book_0/book_797.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las cosas que nunca se cuentan</title>
-    <id>calibre:book:1534</id>
-    <updated>2024-06-02T10:59:40Z</updated>
-    <link href="../../Antonella%20Lattanzi/Las%20cosas%20que%20nunca%20se%20cuentan%20%281534%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antonella%20Lattanzi/Las%20cosas%20que%20nunca%20se%20cuentan%20%281534%29/Las%20cosas%20que%20nunca%20se%20cuentan%20-%20Antonella%20Lattanzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="273 KB" />
+    <title>Las cosas que nos pasan</title>
+    <id>calibre:book:3152</id>
+    <updated>2025-03-10T04:00:51Z</updated>
+    <link href="../../Guada%20Guerra/Las%20cosas%20que%20nos%20pasan%20%283152%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Guada%20Guerra/Las%20cosas%20que%20nos%20pasan%20%283152%29/Las%20cosas%20que%20nos%20pasan%20-%20Guada%20Guerra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="525 KB" />
     <author>
-      <name>Antonella Lattanzi</name>
-      <uri>../authors_1/authors_1116_Page_1.xml</uri>
+      <name>Guada Guerra</name>
+      <uri>../authors_1/authors_1988_Page_1.xml</uri>
     </author>
-    <published>2024-05-08T10:00:00Z</published>
+    <published>2025-02-20T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>UN RELATO HONESTO, DEVASTADOR, NECESARIO Y «PROFUNDAMENTE CONMOVEDOR» (NICOLA LAGIOIA) SOBRE LOS CLAROSCUROS DE LA MATERNIDAD, INMEDIATAMENTE ACLAMADO POR LA CRÍTICA Y EL MUNDO LITERARIO «Una historia de dolor físico y mental que palpita en cada líne...</summary>
-    <link href="../book_1/book_1534.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>¿Es esta la vida con la que soñabas?¿De verdad quieres ser madre soltera?¿Cómo vas a encontrar un hogar cuando no sabes dónde estar?Sofía, Irene, Julia, Belén y Claudia son un grupo de amigas treintañeras que viven en una negociación constante con su...</summary>
+    <link href="../book_3/book_3152.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Las costuras del agua</title>
-    <id>calibre:book:2839</id>
-    <updated>2025-01-26T11:50:54Z</updated>
-    <link href="../../Jose%20Luis%20Garcia%20Sanchez-Blanco/Las%20costuras%20del%20agua%20%282839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jose%20Luis%20Garcia%20Sanchez-Blanco/Las%20costuras%20del%20agua%20%282839%29/Las%20costuras%20del%20agua%20-%20Jose%20Luis%20Garcia%20Sanchez-Blanco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="488 KB" />
-    <author>
-      <name>José Luis García Sánchez-Blanco</name>
-      <uri>../authors_1/authors_1857_Page_1.xml</uri>
-    </author>
-    <published>2025-01-14T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Almuzara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>En el resplandeciente mundo de la alta costura, donde el lujo y la elegancia brillan tanto como las mentiras que se esconden entre puntadas, una fatal tragedia sacude a una prestigiosa familia italiana. La muerte del patriarca, el famoso diseñador Ce...</summary>
-    <link href="../book_2/book_2839.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las coéforas</title>
-    <id>calibre:book:2342</id>
-    <updated>2024-09-09T10:34:11Z</updated>
-    <link href="../../Esquilo/Las%20coeforas%20%282342%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Las%20coeforas%20%282342%29/Las%20coeforas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="97 KB" />
-    <author>
-      <name>Esquilo</name>
-      <uri>../authors_1/authors_1623_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [150]:</summary>
-    <link href="../book_2/book_2342.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Un crimen bretón</title>
-    <id>calibre:book:1568</id>
-    <updated>2024-06-02T10:59:49Z</updated>
-    <link href="../../Jean-Luc%20Bannalec/Un%20crimen%20breton%20%281568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jean-Luc%20Bannalec/Un%20crimen%20breton%20%281568%29/Un%20crimen%20breton%20-%20Jean-Luc%20Bannalec.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="621 KB" />
-    <author>
-      <name>Jean-Luc Bannalec</name>
-      <uri>../authors_1/authors_1101_Page_1.xml</uri>
-    </author>
-    <published>2015-06-10T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Comisario Dupin" />
-    <summary>Comisario Dupin [3]: Unas salinas donde ronda la muerte, un oscuro secreto y un comisario de ciudad que ha sido desterrado a una pequeña población de la Bretaña francesa.Un crimen Bretón es el tercer caso del comisario Dupin, protagonista de la serie...</summary>
-    <link href="../book_1/book_1568.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Un crimen brillante</title>
-    <id>calibre:book:1776</id>
-    <updated>2024-08-26T10:56:12Z</updated>
-    <link href="../../Pablo%20Poveda/Un%20crimen%20brillante%20%281776%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/Un%20crimen%20brillante%20%281776%29/Un%20crimen%20brillante%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Pablo Poveda</name>
-      <uri>../authors_0/authors_232_Page_1.xml</uri>
-    </author>
-    <published>2021-12-07T03:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <summary>Fama, deudas, amantes y un montón de secretos.La desaparición de un famoso actor de cine pone a Maldonado como principal sospechoso de una investigación.El detective pronto descubrirá que nadie está interesado en encontrar al actor con vida.Dar con é...</summary>
-    <link href="../book_1/book_1776.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Un crimen con clase</title>
-    <id>calibre:book:945</id>
-    <updated>2023-07-14T09:48:40Z</updated>
-    <link href="../../Julia%20Seales/Un%20crimen%20con%20clase%20%28945%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julia%20Seales/Un%20crimen%20con%20clase%20%28945%29/Un%20crimen%20con%20clase%20-%20Julia%20Seales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="562 KB" />
-    <author>
-      <name>Julia Seales</name>
-      <uri>../authors_0/authors_707_Page_1.xml</uri>
-    </author>
-    <published>2023-06-14T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Lumen</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Uno de los debuts más esperados del año: un crimen a puerta cerrada con ecos de Agatha Christie y Jane Austen que ya está siendo adaptado al cine y cuyos derechos de traducción se han vendido a ocho idiomas.Beatrice Steele guarda un oscuro secreto: e...</summary>
-    <link href="../book_0/book_945.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_12.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (12 of 14)" />
-  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_12.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (12 of 15)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />
+  <link href="../allbooks/allbooks_C_Page_15.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (15 of 15)" />
 </feed>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cuando se apagan las luces</title>
+  <id>urn:book:2242a7fc-9977-445b-b86b-3c2ad5a6ca99</id>
+  <updated>2025-03-10T04:00:48Z</updated>
+  <link href="./book_3142.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Cuando se apagan las luces" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../../Care%20Santos/Cuando%20se%20apagan%20las%20luces%20%283142%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Care%20Santos/Cuando%20se%20apagan%20las%20luces%20%283142%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Care%20Santos/Cuando%20se%20apagan%20las%20luces%20%283142%29/Cuando%20se%20apagan%20las%20luces%20-%20Care%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="394 KB" />
+  <author>
+    <name>Care Santos</name>
+    <uri>../authors_0/authors_257_Page_1.xml</uri>
+  </author>
+  <published>2024-11-06T06:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Edebé</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">El joven Eric sale del correccional de menores tras cuatro
+    años de internamiento. Sin embargo, la reinserción en
+    una sociedad cargada de prejuicios resultará una realidad
+    todavía más dura: no volver a caer en la delincuencia
+    cuando el entorno parece empeñado en ello, continuar los
+    estudios, encontrar un trabajo, alejarse de su barrio. Xenia le
+    ayudó a superar unas barreras que creía
+    infranqueables, ¿pero será el amor una fuerza
+    suficiente para superar las dificultades ahora.</p>
+  </content>
+  <link href="../authors_0/authors_257_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Care Santos" />
+</entry>

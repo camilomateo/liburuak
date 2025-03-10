@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Crimson Moth</title>
+  <id>Calibre2opds::serieslist:Cseries:269</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_269_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Crimson Moth" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <link href="../serieslist/serieslist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series starting with C" />
+  <entry>
+    <title>2 - Rebel Witch</title>
+    <id>calibre:book:3127</id>
+    <updated>2025-03-06T05:54:50Z</updated>
+    <link href="../../Kristen%20Ciccarelli/Rebel%20Witch%20%283127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kristen%20Ciccarelli/Rebel%20Witch%20%283127%29/Rebel%20Witch%20-%20Kristen%20Ciccarelli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="697 KB" />
+    <author>
+      <name>Kristen Ciccarelli</name>
+      <uri>../authors_1/authors_1971_Page_1.xml</uri>
+    </author>
+    <published>2025-02-27T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Crimson Moth" />
+    <summary>Crimson Moth [2]: Esta vez, se lo juegan todo. La épica conclusión del romantasy bestseller de The New York Times.UNA BRUJA...Rune Winters está huyendo. Desde que el chico al que amaba, Gideon Sharpe, reveló quién era y la entregó al enemigo, el mund...</summary>
+    <link href="../book_3/book_3127.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

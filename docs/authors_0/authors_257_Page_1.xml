@@ -15,6 +15,23 @@
   <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <entry>
+    <title>Cuando se apagan las luces</title>
+    <id>calibre:book:3142</id>
+    <updated>2025-03-10T04:00:48Z</updated>
+    <link href="../../Care%20Santos/Cuando%20se%20apagan%20las%20luces%20%283142%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Care%20Santos/Cuando%20se%20apagan%20las%20luces%20%283142%29/Cuando%20se%20apagan%20las%20luces%20-%20Care%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="394 KB" />
+    <author>
+      <name>Care Santos</name>
+      <uri>../authors_0/authors_257_Page_1.xml</uri>
+    </author>
+    <published>2024-11-06T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Edebé</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El joven Eric sale del correccional de menores tras cuatro años de internamiento. Sin embargo, la reinserción en una sociedad cargada de prejuicios resultará una realidad todavía más dura: no volver a caer en la delincuencia cuando el entorno parece ...</summary>
+    <link href="../book_3/book_3142.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El loco de los pájaros</title>
     <id>calibre:book:362</id>
     <updated>2023-02-27T01:40:56Z</updated>

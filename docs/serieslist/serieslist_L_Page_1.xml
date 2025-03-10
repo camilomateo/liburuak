@@ -110,6 +110,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>La saga de los longevos</title>
+    <id>Calibre2opds::serieslist:Lseries:273</id>
+    <content type="text">Los hijos de Adán</content>
+    <link href="../series_0/series_273_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>La sonrisa vertical</title>
     <id>Calibre2opds::serieslist:Lseries:122</id>
     <content type="text">Las edades de Lulú</content>
@@ -138,6 +146,14 @@
     <id>Calibre2opds::serieslist:Lseries:229</id>
     <content type="text">1 book</content>
     <link href="../series_0/series_229_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Lara Martinez</title>
+    <id>Calibre2opds::serieslist:Lseries:275</id>
+    <content type="text">El caso Itziar Arregui</content>
+    <link href="../series_0/series_275_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
@@ -194,22 +210,6 @@
     <id>Calibre2opds::serieslist:Lseries:58</id>
     <content type="text">Mírame y bésame</content>
     <link href="../series_0/series_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Las hijas perdidas</title>
-    <id>Calibre2opds::serieslist:Lseries:65</id>
-    <content type="text">2 books</content>
-    <link href="../series_0/series_65_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Libelo de sangre</title>
-    <id>Calibre2opds::serieslist:Lseries:238</id>
-    <content type="text">Estirpe de sangre</content>
-    <link href="../series_0/series_238_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

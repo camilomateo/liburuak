@@ -17,6 +17,22 @@
   <link href="./authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="../authorlist/authorlist_G_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 5)" />
   <entry>
+    <title>Claire Gradidge</title>
+    <id>Calibre2opds:authors:752</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_752_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Lily Graham</title>
+    <id>Calibre2opds:authors:563</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_563_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Almudena Grandes</title>
     <id>Calibre2opds:authors:39</id>
     <content type="text">6 books</content>
@@ -129,6 +145,22 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Guada Guerra</title>
+    <id>Calibre2opds:authors:1988</id>
+    <content type="text">Las cosas que nos pasan</content>
+    <link href="../authors_1/authors_1988_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Wendy Guerra</title>
+    <id>Calibre2opds:authors:1987</id>
+    <content type="text">La costurera de Chanel</content>
+    <link href="../authors_1/authors_1987_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Agustina Guerrero</title>
     <id>Calibre2opds:authors:1246</id>
     <content type="text">La Volátil. Mamma mia!</content>
@@ -181,38 +213,6 @@
     <id>Calibre2opds:authors:1903</id>
     <content type="text">Sangre paga sangre</content>
     <link href="../authors_1/authors_1903_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Daniel Vicente Guisado</title>
-    <id>Calibre2opds:authors:584</id>
-    <content type="text">Salvini &amp; Meloni</content>
-    <link href="../authors_0/authors_584_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Pedro José Guiteras</title>
-    <id>Calibre2opds:authors:1435</id>
-    <content type="text">1 book</content>
-    <link href="../authors_1/authors_1435_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>James E. Gunn</title>
-    <id>Calibre2opds:authors:1914</id>
-    <content type="text">Isaac Asimov Magazine 8</content>
-    <link href="../authors_1/authors_1914_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Xabier Gutiérrez</title>
-    <id>Calibre2opds:authors:24</id>
-    <content type="text">3 books</content>
-    <link href="../authors_0/authors_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

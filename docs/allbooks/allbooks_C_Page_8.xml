@@ -13,7 +13,25 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
-  <link href="../allbooks/allbooks_C_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 of 15)" />
+  <entry>
+    <title>Cuentos completos</title>
+    <id>calibre:book:2392</id>
+    <updated>2024-09-09T10:34:21Z</updated>
+    <link href="../../Oscar%20Wilde/Cuentos%20completos%20%282392%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oscar%20Wilde/Cuentos%20completos%20%282392%29/Cuentos%20completos%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="264 KB" />
+    <author>
+      <name>Oscar Wilde</name>
+      <uri>../authors_0/authors_110_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [235]:</summary>
+    <link href="../book_2/book_2392.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Cuentos completos I</title>
     <id>calibre:book:3032</id>
@@ -267,6 +285,24 @@
     <link href="../book_2/book_2173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Cuervo negro</title>
+    <id>calibre:book:3136</id>
+    <updated>2025-03-06T05:54:52Z</updated>
+    <link href="../../Ann%20Cleeves/Cuervo%20negro%20%283136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ann%20Cleeves/Cuervo%20negro%20%283136%29/Cuervo%20negro%20-%20Ann%20Cleeves.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="618 KB" />
+    <author>
+      <name>Ann Cleeves</name>
+      <uri>../authors_1/authors_1977_Page_1.xml</uri>
+    </author>
+    <published>2025-02-16T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Shetland" />
+    <summary>Shetland [1]: La novela que ha inspirado la famosa serie Shetland, emitida en FilminEs 5 de enero. Las islas Shetland amanecen enterradas bajo un blanco manto de nieve. Fran Hunter está volviendo a casa tras dejar a su hija en el colegio cuando ve un...</summary>
+    <link href="../book_3/book_3136.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Culpa</title>
     <id>calibre:book:1799</id>
     <updated>2024-08-26T10:56:17Z</updated>
@@ -429,43 +465,7 @@
     <summary>Carlos Basso construye una historia repleta de intrigas en una novela que incluye cruentos crímenes, misiones nazis, espías del Vaticano y un grupo secreto de ex agentes de la DINA de inspiración esotérica. El violento crimen simultáneo de unos ancia...</summary>
     <link href="../book_1/book_1823.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Código Nueva York</title>
-    <id>calibre:book:97</id>
-    <updated>2023-01-18T00:09:42Z</updated>
-    <link href="../../Carlos%20Basso%20Prieto/Codigo%20Nueva%20York%20%2897%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Basso%20Prieto/Codigo%20Nueva%20York%20%2897%29/Codigo%20Nueva%20York%20-%20Carlos%20Basso%20Prieto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="642 KB" />
-    <author>
-      <name>Carlos Basso Prieto</name>
-      <uri>../authors_0/authors_66_Page_1.xml</uri>
-    </author>
-    <published>2021-03-31T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Penguin Random House Grupo Editorial Chile</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="El espía del Vaticano" />
-    <summary>El espía del Vaticano [3]: Tercera aventura del espía del Vaticano, Alberto Prat, que sale de su retiro para enfrentar un nuevo misterio que lo llevará de Nueva York a una legendaria cueva al sur de Chile. El exagente secreto Alberto Prat vuelve a po...</summary>
-    <link href="../book_0/book_97.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Cómo adelgazar follando</title>
-    <id>calibre:book:1240</id>
-    <updated>2024-02-23T09:41:57Z</updated>
-    <link href="../../Richard%20Smith/Como%20adelgazar%20follando%20%281240%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Richard%20Smith/Como%20adelgazar%20follando%20%281240%29/Como%20adelgazar%20follando%20-%20Richard%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="776 KB" />
-    <author>
-      <name>Richard Smith</name>
-      <uri>../authors_0/authors_903_Page_1.xml</uri>
-    </author>
-    <published>2017-03-06T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>AGUILAR</dcterms:publisher>
-    <category term="Salud" />
-    <category term="Lang:es" />
-    <summary>El manual más divertido para perder esos kilitos de más y tonificar todo tu cuerpo, en una nueva edición con ilustraciones de Aleix Saló, uno de los autores gráficos más transgresores del momento.¿Alguna vez te has planteado cuántas calorías pierdes ...</summary>
-    <link href="../book_1/book_1240.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 14)" />
-  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
-  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (14 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 15)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />
+  <link href="../allbooks/allbooks_C_Page_15.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (15 of 15)" />
 </feed>

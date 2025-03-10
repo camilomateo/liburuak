@@ -13,6 +13,127 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
+  <link href="../allbooks/allbooks_C_Page_15.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (15 of 15)" />
+  <entry>
+    <title>Las cosas que nunca se cuentan</title>
+    <id>calibre:book:1534</id>
+    <updated>2024-06-02T10:59:40Z</updated>
+    <link href="../../Antonella%20Lattanzi/Las%20cosas%20que%20nunca%20se%20cuentan%20%281534%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonella%20Lattanzi/Las%20cosas%20que%20nunca%20se%20cuentan%20%281534%29/Las%20cosas%20que%20nunca%20se%20cuentan%20-%20Antonella%20Lattanzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="273 KB" />
+    <author>
+      <name>Antonella Lattanzi</name>
+      <uri>../authors_1/authors_1116_Page_1.xml</uri>
+    </author>
+    <published>2024-05-08T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>UN RELATO HONESTO, DEVASTADOR, NECESARIO Y «PROFUNDAMENTE CONMOVEDOR» (NICOLA LAGIOIA) SOBRE LOS CLAROSCUROS DE LA MATERNIDAD, INMEDIATAMENTE ACLAMADO POR LA CRÍTICA Y EL MUNDO LITERARIO «Una historia de dolor físico y mental que palpita en cada líne...</summary>
+    <link href="../book_1/book_1534.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las costuras del agua</title>
+    <id>calibre:book:2839</id>
+    <updated>2025-01-26T11:50:54Z</updated>
+    <link href="../../Jose%20Luis%20Garcia%20Sanchez-Blanco/Las%20costuras%20del%20agua%20%282839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Luis%20Garcia%20Sanchez-Blanco/Las%20costuras%20del%20agua%20%282839%29/Las%20costuras%20del%20agua%20-%20Jose%20Luis%20Garcia%20Sanchez-Blanco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="488 KB" />
+    <author>
+      <name>José Luis García Sánchez-Blanco</name>
+      <uri>../authors_1/authors_1857_Page_1.xml</uri>
+    </author>
+    <published>2025-01-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Almuzara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En el resplandeciente mundo de la alta costura, donde el lujo y la elegancia brillan tanto como las mentiras que se esconden entre puntadas, una fatal tragedia sacude a una prestigiosa familia italiana. La muerte del patriarca, el famoso diseñador Ce...</summary>
+    <link href="../book_2/book_2839.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La costurera de Chanel</title>
+    <id>calibre:book:3151</id>
+    <updated>2025-03-10T04:00:50Z</updated>
+    <link href="../../Wendy%20Guerra/La%20costurera%20de%20Chanel%20%283151%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Wendy%20Guerra/La%20costurera%20de%20Chanel%20%283151%29/La%20costurera%20de%20Chanel%20-%20Wendy%20Guerra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="490 KB" />
+    <author>
+      <name>Wendy Guerra</name>
+      <uri>../authors_1/authors_1987_Page_1.xml</uri>
+    </author>
+    <published>2025-02-20T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La premiada Wendy Guerra, elogiada por Eduardo Mendoza y Alejandro González Iñárritu entre otros, regresa con una conmovedora y original novela.«Una escritora fantástica que siempre sorprende». Milena Busquets«Lírica y desenfadada, cómica, tristísima...</summary>
+    <link href="../book_3/book_3151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las coéforas</title>
+    <id>calibre:book:2342</id>
+    <updated>2024-09-09T10:34:11Z</updated>
+    <link href="../../Esquilo/Las%20coeforas%20%282342%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Esquilo/Las%20coeforas%20%282342%29/Las%20coeforas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="97 KB" />
+    <author>
+      <name>Esquilo</name>
+      <uri>../authors_1/authors_1623_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [150]:</summary>
+    <link href="../book_2/book_2342.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un crimen bretón</title>
+    <id>calibre:book:1568</id>
+    <updated>2024-06-02T10:59:49Z</updated>
+    <link href="../../Jean-Luc%20Bannalec/Un%20crimen%20breton%20%281568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean-Luc%20Bannalec/Un%20crimen%20breton%20%281568%29/Un%20crimen%20breton%20-%20Jean-Luc%20Bannalec.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="621 KB" />
+    <author>
+      <name>Jean-Luc Bannalec</name>
+      <uri>../authors_1/authors_1101_Page_1.xml</uri>
+    </author>
+    <published>2015-06-10T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Comisario Dupin" />
+    <summary>Comisario Dupin [3]: Unas salinas donde ronda la muerte, un oscuro secreto y un comisario de ciudad que ha sido desterrado a una pequeña población de la Bretaña francesa.Un crimen Bretón es el tercer caso del comisario Dupin, protagonista de la serie...</summary>
+    <link href="../book_1/book_1568.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un crimen brillante</title>
+    <id>calibre:book:1776</id>
+    <updated>2024-08-26T10:56:12Z</updated>
+    <link href="../../Pablo%20Poveda/Un%20crimen%20brillante%20%281776%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/Un%20crimen%20brillante%20%281776%29/Un%20crimen%20brillante%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2021-12-07T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Fama, deudas, amantes y un montón de secretos.La desaparición de un famoso actor de cine pone a Maldonado como principal sospechoso de una investigación.El detective pronto descubrirá que nadie está interesado en encontrar al actor con vida.Dar con é...</summary>
+    <link href="../book_1/book_1776.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un crimen con clase</title>
+    <id>calibre:book:945</id>
+    <updated>2023-07-14T09:48:40Z</updated>
+    <link href="../../Julia%20Seales/Un%20crimen%20con%20clase%20%28945%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julia%20Seales/Un%20crimen%20con%20clase%20%28945%29/Un%20crimen%20con%20clase%20-%20Julia%20Seales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="562 KB" />
+    <author>
+      <name>Julia Seales</name>
+      <uri>../authors_0/authors_707_Page_1.xml</uri>
+    </author>
+    <published>2023-06-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Uno de los debuts más esperados del año: un crimen a puerta cerrada con ecos de Agatha Christie y Jane Austen que ya está siendo adaptado al cine y cuyos derechos de traducción se han vendido a ocho idiomas.Beatrice Steele guarda un oscuro secreto: e...</summary>
+    <link href="../book_0/book_945.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El crimen de la habitación 12</title>
     <id>calibre:book:844</id>
@@ -330,78 +451,6 @@
     <summary>PREMIO XERAIS DE NOVELA 2022 Dos mujeres atadas de por vida por un crimen. La historia de una amistad que se transforma en posesión Cada seis meses, como un clavo, los empleados de una pequeña sucursal bancaria reciben la desagradable visita de la se...</summary>
     <link href="../book_0/book_978.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>El curioso caso de Benjamin Button</title>
-    <id>calibre:book:2366</id>
-    <updated>2024-09-09T10:34:16Z</updated>
-    <link href="../../F.%20Scott%20Fitzgerald/El%20curioso%20caso%20de%20Benjamin%20Button%20%282366%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../F.%20Scott%20Fitzgerald/El%20curioso%20caso%20de%20Benjamin%20Button%20%282366%29/El%20curioso%20caso%20de%20Benjamin%20But%20-%20F.%20Scott%20Fitzgerald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="107 KB" />
-    <author>
-      <name>F. Scott Fitzgerald</name>
-      <uri>../authors_1/authors_1406_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Fantástico" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [171]:</summary>
-    <link href="../book_2/book_2366.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El código Da Vinci</title>
-    <id>calibre:book:1137</id>
-    <updated>2024-01-08T09:16:18Z</updated>
-    <link href="../../Dan%20Brown/El%20codigo%20Da%20Vinci%20%281137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dan%20Brown/El%20codigo%20Da%20Vinci%20%281137%29/El%20codigo%20Da%20Vinci%20-%20Dan%20Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
-    <author>
-      <name>Dan Brown</name>
-      <uri>../authors_0/authors_809_Page_1.xml</uri>
-    </author>
-    <published>2012-11-06T08:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El profesor de simbología religiosa de la Universidad de Harvard Robert Langdon se encuentra en París dando una conferencia. En la recepción que tiene lugar a continuación tiene una cita con el prestigioso comisario del museo del Louvre, pero éste n...</summary>
-    <link href="../book_1/book_1137.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El código genético</title>
-    <id>calibre:book:3040</id>
-    <updated>2025-02-12T01:51:57Z</updated>
-    <link href="../../Isaac%20Asimov/El%20codigo%20genetico%20%283040%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/El%20codigo%20genetico%20%283040%29/El%20codigo%20genetico%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
-    </author>
-    <published>1961-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Divulgación" />
-    <category term="Ciencias naturales" />
-    <category term="Lang:es" />
-    <summary>En 1944 se descubrió que un compuesto químico, el ADN (ácido desoxirribonucleico), podía cambiar las bacterias. Posteriormente, descubrimientos acerca del ADN han permitido desde entonces incalculables avances científicos, uno de los cuales es el des...</summary>
-    <link href="../book_3/book_3040.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El código madre</title>
-    <id>calibre:book:1727</id>
-    <updated>2024-08-08T04:59:24Z</updated>
-    <link href="../../Carole%20Stivers/El%20codigo%20madre%20%281727%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carole%20Stivers/El%20codigo%20madre%20%281727%29/El%20codigo%20madre%20-%20Carole%20Stivers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="376 KB" />
-    <author>
-      <name>Carole Stivers</name>
-      <uri>../authors_1/authors_1236_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Roca Editorial</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una novela distópica feminista sobre lo que significa ser humana, y madre, en un mundo que es más escalofriante y precario que nunca después de una crisis pandémicaEs el año 2049. Cuando un arma biológica se propaga descontroladamente por todo el pla...</summary>
-    <link href="../book_1/book_1727.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (13 of 14)" />
-  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (13 of 15)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />
 </feed>

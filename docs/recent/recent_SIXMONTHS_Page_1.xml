@@ -12,7 +12,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
-  <link href="../recent/recent_SIXMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 7)" />
+  <link href="../recent/recent_SIXMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 5)" />
   <entry>
     <title>El aprendiz [November 26, 2024]</title>
     <id>calibre:book:2722</id>
@@ -453,5 +453,5 @@ La joven psicóloga Lis de la Serna regresa a su Cantabria natal para ocupar el 
     <summary>LA NUEVA NOVELA DE ARTURO PÉREZ-REVERTE. Una novela de mar, amor y aventuras en el Egeo durante los años de la Guerra Civil española. Buscaba la boca delhombre con la suya, húmeda de sal. -¿Tienes frío? -preguntó él. -No, no Tengo miedo. -¿A qué? -A ...</summary>
     <link href="../book_2/book_2685.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <link href="../recent/recent_SIXMONTHS_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (7 of 7)" />
+  <link href="../recent/recent_SIXMONTHS_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
 </feed>

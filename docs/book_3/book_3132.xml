@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Misha Zhukov debe morir</title>
+  <id>urn:book:7b4d042f-1aa0-4be1-88a0-b8c80151018b</id>
+  <updated>2025-03-06T05:54:51Z</updated>
+  <link href="./book_3132.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Misha Zhukov debe morir" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authors_1/authors_1975_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Myriam M. Lejardi" />
+  <link href="../../Myriam%20M.%20Lejardi/Misha%20Zhukov%20debe%20morir%20%283132%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Myriam%20M.%20Lejardi/Misha%20Zhukov%20debe%20morir%20%283132%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Myriam%20M.%20Lejardi/Misha%20Zhukov%20debe%20morir%20%283132%29/Misha%20Zhukov%20debe%20morir%20-%20Myriam%20M.%20Lejardi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="814 KB" />
+  <author>
+    <name>Myriam M. Lejardi</name>
+    <uri>../authors_1/authors_1975_Page_1.xml</uri>
+  </author>
+  <published>2025-02-03T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Crossbooks</dcterms:publisher>
+  <category term="Lang:es" />
+  <category term="Reality" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Reality series
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p> </p>
+      <p id="promoPriceBlockMessage_feature_div">¡Competición, amor y un reality
+      adrenalítico!</p>
+      <p>OCHO CELEBRITIES.</p>
+      <p>UNA ISLA DESIERTA.</p>
+      <p>DOS MILLONES DE DÓLARES.</p>
+      <p>Tendrán que darse prisa en llegar hasta el tesoro
+      porque… ¡el tiempo es oro!</p>
+      <p>¡1, 2 o 3!</p>
+      <p>¡El reality de supervivencia más interactivo de
+      la televisión está a punto de empezar!</p>
+      <p>Carrie Brennan y Misha Zhukov se conocieron hace un
+      año, cuando ella se grabó mientras lo besaba para
+      obtener fama a su costa. Después de esa noche, la
+      influencer ganó dinero, fans y oportunidades… y el
+      músico las perdió. Ahora, ambos han decidido
+      participar en ¡1, 2 o 3!, el nuevo reality del que todo
+      el mundo habla.</p>
+      <p>Cuando las cosas se compliquen ¿pesará más
+      el deseo de venganza o el instinto de supervivencia?</p>
+    </div>
+  </content>
+  <link href="../authors_1/authors_1975_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Myriam M. Lejardi" />
+</entry>

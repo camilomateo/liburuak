@@ -13,7 +13,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
-  <link href="../allbooks/allbooks_C_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 15)" />
   <entry>
     <title>Cuando amar demasiado es depender</title>
     <id>calibre:book:1239</id>
@@ -236,6 +236,23 @@
     <link href="../book_0/book_938.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Cuando se apagan las luces</title>
+    <id>calibre:book:3142</id>
+    <updated>2025-03-10T04:00:48Z</updated>
+    <link href="../../Care%20Santos/Cuando%20se%20apagan%20las%20luces%20%283142%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Care%20Santos/Cuando%20se%20apagan%20las%20luces%20%283142%29/Cuando%20se%20apagan%20las%20luces%20-%20Care%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="394 KB" />
+    <author>
+      <name>Care Santos</name>
+      <uri>../authors_0/authors_257_Page_1.xml</uri>
+    </author>
+    <published>2024-11-06T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Edebé</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El joven Eric sale del correccional de menores tras cuatro años de internamiento. Sin embargo, la reinserción en una sociedad cargada de prejuicios resultará una realidad todavía más dura: no volver a caer en la delincuencia cuando el entorno parece ...</summary>
+    <link href="../book_3/book_3142.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Cuando te falte el aire</title>
     <id>calibre:book:563</id>
     <updated>2023-04-17T01:30:22Z</updated>
@@ -440,25 +457,7 @@ Charlie Reade parece un estudiant...</summary>
     <summary>Biblioteca PruébaT [201]:</summary>
     <link href="../book_2/book_2163.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Cuentos completos</title>
-    <id>calibre:book:2392</id>
-    <updated>2024-09-09T10:34:21Z</updated>
-    <link href="../../Oscar%20Wilde/Cuentos%20completos%20%282392%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oscar%20Wilde/Cuentos%20completos%20%282392%29/Cuentos%20completos%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="264 KB" />
-    <author>
-      <name>Oscar Wilde</name>
-      <uri>../authors_0/authors_110_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [235]:</summary>
-    <link href="../book_2/book_2392.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 14)" />
-  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 14)" />
-  <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (14 of 14)" />
+  <link href="../allbooks/allbooks_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 15)" />
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />
+  <link href="../allbooks/allbooks_C_Page_15.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (15 of 15)" />
 </feed>

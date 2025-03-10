@@ -15,6 +15,23 @@
   <link href="./allbooks_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with G" />
   <link href="../allbooks/allbooks_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 3)" />
   <entry>
+    <title>Greta y el misterio de los zapatos rojos</title>
+    <id>calibre:book:834</id>
+    <updated>2023-06-09T01:41:44Z</updated>
+    <link href="../../Lena%20Svensson/Greta%20y%20el%20misterio%20de%20los%20zapatos%20%28834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lena%20Svensson/Greta%20y%20el%20misterio%20de%20los%20zapatos%20%28834%29/Greta%20y%20el%20misterio%20de%20los%20zapa%20-%20Lena%20Svensson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="632 KB" />
+    <author>
+      <name>Lena Svensson</name>
+      <uri>../authors_0/authors_625_Page_1.xml</uri>
+    </author>
+    <published>2023-05-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Andrea Milano, reconocida escritora del género histórico y romántico, se pone el traje de su alter ego, Lena Svensson, para atrapar de principio a fin con una novela protagonizada por Greta Lindberg, la intrépida librera que investiga casos policiale...</summary>
+    <link href="../book_0/book_834.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La Guardia Blanca</title>
     <id>calibre:book:2248</id>
     <updated>2024-09-09T10:33:52Z</updated>
@@ -444,24 +461,6 @@
     <category term="Lang:es" />
     <summary>Mariana Mazzucato y Rosie Collington se adentran con valentía en la opaca y muy poderosa industria de las consultorías y exponen su nefasta influencia en el modo en que se gestionan hoy las empresas y los gobiernos. Demuestran que la actual dependenc...</summary>
     <link href="../book_1/book_1475.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El gran libro de la venta online</title>
-    <id>calibre:book:391</id>
-    <updated>2023-03-04T02:11:48Z</updated>
-    <link href="../../Miquel%20Baixas%20Calafell/El%20gran%20libro%20de%20la%20venta%20online%20%28391%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Miquel%20Baixas%20Calafell/El%20gran%20libro%20de%20la%20venta%20online%20%28391%29/El%20gran%20libro%20de%20la%20venta%20onlin%20-%20Miquel%20Baixas%20Calafell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="14 MB" />
-    <author>
-      <name>Miquel Baixas Calafell</name>
-      <uri>../authors_0/authors_284_Page_1.xml</uri>
-    </author>
-    <published>2021-09-22T05:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Deusto</dcterms:publisher>
-    <category term="Autoayuda" />
-    <category term="Lang:es" />
-    <summary>¿Quieres vender online pero no sabes por donde empezar? Miquel Baixas nos descubre el mundo de los sistemas de venta desde cero, describiendo todas las claves y todos los procesos de una manera sencilla para que acercar nuestro negocio tradicional al...</summary>
-    <link href="../book_0/book_391.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 3)" />
 </feed>

@@ -116,6 +116,24 @@
     <link href="../book_0/book_220.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Rebel Witch</title>
+    <id>calibre:book:3127</id>
+    <updated>2025-03-06T05:54:50Z</updated>
+    <link href="../../Kristen%20Ciccarelli/Rebel%20Witch%20%283127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kristen%20Ciccarelli/Rebel%20Witch%20%283127%29/Rebel%20Witch%20-%20Kristen%20Ciccarelli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="697 KB" />
+    <author>
+      <name>Kristen Ciccarelli</name>
+      <uri>../authors_1/authors_1971_Page_1.xml</uri>
+    </author>
+    <published>2025-02-27T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Montena</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Crimson Moth" />
+    <summary>Crimson Moth [2]: Esta vez, se lo juegan todo. La épica conclusión del romantasy bestseller de The New York Times.UNA BRUJA...Rune Winters está huyendo. Desde que el chico al que amaba, Gideon Sharpe, reveló quién era y la entregó al enemigo, el mund...</summary>
+    <link href="../book_3/book_3127.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Rebelión en la galaxia</title>
     <id>calibre:book:3016</id>
     <updated>2025-02-12T01:51:53Z</updated>
@@ -453,23 +471,6 @@ Apellidos: Mendoza Chávez (a.) La Mejicana
 CARACTERÍSTICAS FÍSICAS: Ojos negros. Cabello negro. Sin marcas ni cicatrices. Complexión delgada. Estatura 1,65.
 HISTORIA CRIMINAL: Nacida en Culiacán, Sinaloa (México). Hija de padre español...</summary>
     <link href="../book_0/book_158.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Rendición</title>
-    <id>calibre:book:880</id>
-    <updated>2023-06-22T03:04:24Z</updated>
-    <link href="../../Ray%20Loriga/Rendicion%20%28880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ray%20Loriga/Rendicion%20%28880%29/Rendicion%20-%20Ray%20Loriga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Ray Loriga</name>
-      <uri>../authors_0/authors_660_Page_1.xml</uri>
-    </author>
-    <published>2017-05-25T07:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una fábula luminosa sobre el destierro, la pérdida, la paternidad y los afectos.XX Premio Alfaguara de novela.¿Quiénes somos cuando nos cambian las circunstancias?La guerra dura una década y nadie sabe a ciencia cierta cómo transcurre, qué bando fue ...</summary>
-    <link href="../book_0/book_880.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_R_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
 </feed>

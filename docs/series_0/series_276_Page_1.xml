@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Bibliomisterios</title>
+  <id>Calibre2opds::serieslist:Bseries:276</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_276_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Bibliomisterios" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <link href="../serieslist/serieslist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series starting with B" />
+  <entry>
+    <title>2 - El museo de las almas literarias</title>
+    <id>calibre:book:3150</id>
+    <updated>2025-03-10T04:00:50Z</updated>
+    <link href="../../John%20Connolly/El%20museo%20de%20las%20almas%20literarias%20%283150%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Connolly/El%20museo%20de%20las%20almas%20literarias%20%283150%29/El%20museo%20de%20las%20almas%20literaria%20-%20John%20Connolly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="338 KB" />
+    <author>
+      <name>John Connolly</name>
+      <uri>../authors_0/authors_28_Page_1.xml</uri>
+    </author>
+    <published>2024-11-06T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Bibliomisterios" />
+    <summary>Bibliomisterios [2]: Una obra ganadora del Premio Edgar, otorgado por la Asociación de Escritores de Misterio de Estados Unidos. Lector voraz, el señor Berger lleva una vida solitaria pero satisfactoria. Prefiere la compañía de los libros a la de las...</summary>
+    <link href="../book_3/book_3150.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

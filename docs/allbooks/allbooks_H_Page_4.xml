@@ -15,6 +15,25 @@
   <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with H" />
   <link href="../allbooks/allbooks_H_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 5)" />
   <entry>
+    <title>La hija del capitán Groc</title>
+    <id>calibre:book:1524</id>
+    <updated>2024-06-02T10:59:37Z</updated>
+    <link href="../../Victor%20Amela/La%20hija%20del%20capitan%20Groc%20%281524%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Victor%20Amela/La%20hija%20del%20capitan%20Groc%20%281524%29/La%20hija%20del%20capitan%20Groc%20-%20Victor%20Amela.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="484 KB" />
+    <author>
+      <name>Víctor Amela</name>
+      <uri>../authors_0/authors_957_Page_1.xml</uri>
+    </author>
+    <published>2016-05-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <summary>Manuela Penarrocha tiene trece años. Sentada en una sillita baja de enea en el portal de su casa, cose las alpargatas como nadie. La niña de ojos grises y cabellos de oro recuerda a su padre. Él, como el resto de carlistas, hombre de alpargata, garro...</summary>
+    <link href="../book_1/book_1524.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La hija del cazador</title>
     <id>calibre:book:2818</id>
     <updated>2025-01-20T11:21:17Z</updated>
@@ -201,6 +220,24 @@
     <category term="Lang:es" />
     <summary>Hay personas a las que dejamos atrás, hay deudas que nunca terminamos de pagar. Tras el éxito de la Trilogía de Illumbe, con más de 500.000 ejemplares vendidos, vuelve Mikel Santiago con un thriller magistral en el corazón del País Vasco. «Deslumbra ...</summary>
     <link href="../book_1/book_1173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los hijos de Adán</title>
+    <id>calibre:book:3137</id>
+    <updated>2025-03-06T05:54:52Z</updated>
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/Los%20hijos%20de%20Adan%20%283137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/Los%20hijos%20de%20Adan%20%283137%29/Los%20hijos%20de%20Adan%20-%20Eva%20Garcia%20Saenz%20de%20Urturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <author>
+      <name>Eva García Sáenz de Urturi</name>
+      <uri>../authors_0/authors_362_Page_1.xml</uri>
+    </author>
+    <published>2025-02-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="La saga de los longevos" />
+    <summary>La saga de los longevos [2]: Para un longevo el pasado siempre vuelve en forma de problemasLA CUENTA ATRÁS ESTÁ LLEGANDO A SU FINNO TE PIERDAS LA SAGA MÁS ESPERADA DE LA AUTORA DE EL SILENCIO DE LA CIUDAD BLANCA La inesperada vuelta de Gunnarr, el hi...</summary>
+    <link href="../book_3/book_3137.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Los hijos de Rachel</title>
@@ -411,40 +448,6 @@
     <category term="Super Ficción" />
     <summary>Super Ficción [35]: Este volumen, publicado en conmemoración de casi medio siglo de trabajo literario de ISAAC ASIMOV, contiene once relatos recientes, incluido el popular EL HOMBRE DEL BICENTENARIO (que a su vez conmemora Sa declaración de la Indepe...</summary>
     <link href="../book_3/book_3013.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El hombre del laberinto</title>
-    <id>calibre:book:291</id>
-    <updated>2023-02-09T11:32:40Z</updated>
-    <link href="../../Donato%20Carrisi/El%20hombre%20del%20laberinto%20%28291%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Donato%20Carrisi/El%20hombre%20del%20laberinto%20%28291%29/El%20hombre%20del%20laberinto%20-%20Donato%20Carrisi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="654 KB" />
-    <author>
-      <name>Donato Carrisi</name>
-      <uri>../authors_0/authors_198_Page_1.xml</uri>
-    </author>
-    <published>2022-12-18T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Duomo ediciones</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La caza del monstruo empieza dentro de tu mente.«Un thriller turbio, oscuro y lleno de enigmas con el que Donato Carrisi se acerca a la perfección.» Javier CastilloEn medio de una ola de calor que altera el ritmo de la vida, Samantha, desaparecida cu...</summary>
-    <link href="../book_0/book_291.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El hombre del rio</title>
-    <id>calibre:book:2628</id>
-    <updated>2024-10-16T09:57:39Z</updated>
-    <link href="../../Javier%20Reverte/El%20hombre%20del%20rio%20%282628%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Reverte/El%20hombre%20del%20rio%20%282628%29/El%20hombre%20del%20rio%20-%20Javier%20Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="330 KB" />
-    <author>
-      <name>Javier Reverte</name>
-      <uri>../authors_1/authors_1724_Page_1.xml</uri>
-    </author>
-    <published>2024-09-05T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Plaza &amp; Janes</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>¿Quién fue Francisco de Orellana?Un relato al más puro estilo Reverte, en el que historia, viaje y memoria se dan la mano para hilvanar un libro especial con el imponente río Amazonas como escenario.El hombre del río es la historia de un joven que pa...</summary>
-    <link href="../book_2/book_2628.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_H_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 5)" />
   <link href="../allbooks/allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />

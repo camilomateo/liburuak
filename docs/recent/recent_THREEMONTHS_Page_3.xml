@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Últimos tres meses</title>
+  <title>Previous three months</title>
   <id>Calibre2opds:recent:THREEMONTHS</id>
   <author>
     <name>David Pierron</name>
@@ -8,121 +8,159 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_THREEMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Últimos tres meses" />
+  <link href="./recent_THREEMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous three months" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
-  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Añadidos recientemente" />
-  <link href="./recent_THREEMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Últimos tres meses" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="./recent_THREEMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous three months" />
   <entry>
-    <title>El secreto del rey cuervo [21 de octubre de 2024]</title>
-    <id>calibre:book:2642</id>
-    <updated>2024-10-21T04:01:17Z</updated>
-    <link href="../../Elly%20Griffiths/El%20secreto%20del%20rey%20cuervo%20%282642%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elly%20Griffiths/El%20secreto%20del%20rey%20cuervo%20%282642%29/El%20secreto%20del%20rey%20cuervo%20-%20Elly%20Griffiths.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <title>En el centro del círculo [December 11, 2024]</title>
+    <id>calibre:book:2733</id>
+    <updated>2024-12-11T08:34:17Z</updated>
+    <link href="../../Arne%20Dahl/En%20el%20centro%20del%20circulo%20%282733%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arne%20Dahl/En%20el%20centro%20del%20circulo%20%282733%29/En%20el%20centro%20del%20circulo%20-%20Arne%20Dahl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="890 KB" />
     <author>
-      <name>Elly Griffiths</name>
-      <uri>../authors_1/authors_1737_Page_1.xml</uri>
+      <name>Arne Dahl</name>
+      <uri>../authors_1/authors_1788_Page_1.xml</uri>
     </author>
-    <published>2024-09-24T06:00:00Z</published>
+    <published>2024-09-17T10:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Maeva</dcterms:publisher>
+    <dcterms:publisher>RBA</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>La arqueóloga forense Ruth Galloway está decidida a hacer justicia tras el asesinato de un amigo de la universidad.Dan Golding, un antiguo compañero de estudios de Ruth, muere en un incendio provocado. Solo dos días después, ella recibe una carta en ...</summary>
-    <link href="../book_2/book_2642.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>UNA TENSA NOVELA POLICÍACA SOBRE LA CAZA DE UN ACTIVISTA CLIMÁTICO CONVERTIDO EN ASESINO. «Arne Dahl demuestra una vez más que es uno de los mejores autores policíacos. No podrás dejar de leer esta novela». RUHR NACHRICHTEN (Alemania) «La novela de A...</summary>
+    <link href="../book_2/book_2733.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>A lomos del tigre [21 de octubre de 2024]</title>
-    <id>calibre:book:2637</id>
-    <updated>2024-10-21T04:01:15Z</updated>
-    <link href="../../Zulfu%20Livaneli/A%20lomos%20del%20tigre%20%282637%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Zulfu%20Livaneli/A%20lomos%20del%20tigre%20%282637%29/A%20lomos%20del%20tigre%20-%20Zulfu%20Livaneli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="658 KB" />
+    <title>La era de la revolución, 1789-1848 [December 11, 2024]</title>
+    <id>calibre:book:2730</id>
+    <updated>2024-12-11T08:23:56Z</updated>
+    <link href="../../Eric%20Hobsbawm/La%20era%20de%20la%20revolucion%2C%201789-1848%20%282730%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eric%20Hobsbawm/La%20era%20de%20la%20revolucion%2C%201789-1848%20%282730%29/La%20era%20de%20la%20revolucion%2C%201789-1%20-%20Eric%20Hobsbawm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
-      <name>Zülfü Livaneli</name>
-      <uri>../authors_1/authors_1732_Page_1.xml</uri>
+      <name>Eric Hobsbawm</name>
+      <uri>../authors_1/authors_1785_Page_1.xml</uri>
     </author>
-    <published>2024-07-11T06:00:00Z</published>
+    <published>1964-01-01T06:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
+    <dcterms:publisher>somosepub</dcterms:publisher>
+    <category term="Crónica" />
+    <category term="Historia" />
     <category term="Lang:es" />
-    <summary>Esta novela es un vívido relato de la vida en el exilio del último gran sultán otomano, así como también una poderosa denuncia de las hipocresías de Occidente.Abdülhamid II gobernó el Imperio otomano durante 33 años, de 1876 a 1909, cuando fue depues...</summary>
-    <link href="../book_2/book_2637.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Las Eras" />
+    <summary>Las Eras [1]: La era de la revolución inicia el panorama de la historia contemporánea del mundo que Eric Hobsbawm comenzó con este libro y concluyó con su Historia del siglo XX. El gran historiador británico nos ofrece en esta obra, reconocida como u...</summary>
+    <link href="../book_2/book_2730.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Guerra de infancia y de España [21 de octubre de 2024]</title>
-    <id>calibre:book:2638</id>
-    <updated>2024-10-21T04:01:15Z</updated>
-    <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/Guerra%20de%20infancia%20y%20de%20Espana%20-%20Fabrizia%20Ramondino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="484 KB" />
+    <title>Únicas [December 11, 2024]</title>
+    <id>calibre:book:2731</id>
+    <updated>2024-12-11T08:23:56Z</updated>
+    <link href="../../Alicia%20Vallina/Unicas%20%282731%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alicia%20Vallina/Unicas%20%282731%29/Unicas%20-%20Alicia%20Vallina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Fabrizia Ramondino</name>
-      <uri>../authors_1/authors_1733_Page_1.xml</uri>
+      <name>Alicia Vallina</name>
+      <uri>../authors_1/authors_1786_Page_1.xml</uri>
     </author>
-    <published>2024-09-04T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Libros del Asteroide</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una joya de la literatura italiana, el relato de una infancia en Mallorca durante la guerra civil. Titita, una niña curiosa y traviesa, hija del nuevo cónsul italiano en Mallorca, pasa sus días en un continuo encuentro y desencuentro con todo aquello...</summary>
-    <link href="../book_2/book_2638.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las horas antiguas [21 de octubre de 2024]</title>
-    <id>calibre:book:2639</id>
-    <updated>2024-10-21T04:01:16Z</updated>
-    <link href="../../Bible%20Michael/Las%20horas%20antiguas%20%282639%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Bible%20Michael/Las%20horas%20antiguas%20%282639%29/Las%20horas%20antiguas%20-%20Bible%20Michael.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
-    <author>
-      <name>Bible Michael</name>
-      <uri>../authors_1/authors_1734_Page_1.xml</uri>
-    </author>
-    <published>2024-04-17T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Gatopardo Ediciones</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Harmony es un pueblo como cualquier otro, un rincón del mundo en el que santos y pecadores matan las tardes en el centro comercial, sucumben al adulterio, juegan a fútbol americano, ven porno o leen a Faulkner en la biblioteca pública. Su historia es...</summary>
-    <link href="../book_2/book_2639.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Aires de libertad [21 de octubre de 2024]</title>
-    <id>calibre:book:2636</id>
-    <updated>2024-10-21T04:01:15Z</updated>
-    <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/Aires%20de%20libertad%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="634 KB" />
-    <author>
-      <name>Anne Jacobs</name>
-      <uri>../authors_0/authors_194_Page_1.xml</uri>
-    </author>
-    <published>2024-08-30T00:00:00Z</published>
+    <published>2024-09-19T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="El Café del Ángel" />
-    <summary>El Café del Ángel [4]: La esperada cuarta entrega de la fascinante saga familiar de Anne Jacobs, autora de La Villa de las Telas.
-Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho cariño y lo regenta con dedicación, de p...</summary>
-    <link href="../book_2/book_2636.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Las apasionantes vidas de cincuenta mujeres olvidadas que construyeron la historia de España.  Una ilustradora antifascista, la pasión femenina de Lorca, la fusilera que fue azote de los franceses durante la guerra de la Independencia, la mejor trap...</summary>
+    <link href="../book_2/book_2731.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Caía una lluvia intensa [21 de octubre de 2024]</title>
-    <id>calibre:book:2634</id>
-    <updated>2024-10-21T04:01:14Z</updated>
-    <link href="../../Don%20Carpenter/Caia%20una%20lluvia%20intensa%20%282634%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Don%20Carpenter/Caia%20una%20lluvia%20intensa%20%282634%29/Caia%20una%20lluvia%20intensa%20-%20Don%20Carpenter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="423 KB" />
+    <title>Alevosía [December 11, 2024]</title>
+    <id>calibre:book:2726</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Pablo%20Illanes/Alevosia%20%282726%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Illanes/Alevosia%20%282726%29/Alevosia%20-%20Pablo%20Illanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="432 KB" />
     <author>
-      <name>Don Carpenter</name>
-      <uri>../authors_1/authors_1730_Page_1.xml</uri>
+      <name>Pablo Illanes</name>
+      <uri>../authors_1/authors_1783_Page_1.xml</uri>
     </author>
-    <published>2024-09-10T02:07:45Z</published>
+    <published>2024-09-09T06:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Bookwire Spain</dcterms:publisher>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Acción y aventura" />
     <category term="Lang:es" />
-    <summary>«Cuando pierdes, pierdes para siempre, y cuando ganas, solo dura un segundo o dos. Así es la vida».Jack Levitt, un adolescente huérfano, crece entre reformatorios, cárceles, los hoteles más decadentes y las subterráneas salas de billar de Oregón. Atr...</summary>
-    <link href="../book_2/book_2634.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>La primera novela policial del creador de Perfil falso, la serie de habla no inglesa más vista de Netflix con más de 76 millones de visualizaciones
+
+La detective Jackie Bravo, del Precinto 9 de la ciudad de Nueva York, deberá enfrentar a un psicópata...</summary>
+    <link href="../book_2/book_2726.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El marido perfecto [21 de octubre de 2024]</title>
-    <id>calibre:book:2635</id>
-    <updated>2024-10-21T04:01:14Z</updated>
-    <link href="../../Lisa%20Gardner/El%20marido%20perfecto%20%282635%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lisa%20Gardner/El%20marido%20perfecto%20%282635%29/El%20marido%20perfecto%20-%20Lisa%20Gardner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="976 KB" />
+    <title>Cuando la persona tóxica eres tú [December 11, 2024]</title>
+    <id>calibre:book:2725</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Juan%20Carlos%20Carrasco%20%28%40seraltamente/Cuando%20la%20persona%20toxica%20eres%20tu%20%282725%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Carlos%20Carrasco%20%28%40seraltamente/Cuando%20la%20persona%20toxica%20eres%20tu%20%282725%29/Cuando%20la%20persona%20toxica%20eres%20t%20-%20Juan%20Carlos%20Carrasco%20%28%40seraltam.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Juan Carlos Carrasco (@seraltamentesensible)</name>
+      <uri>../authors_1/authors_1782_Page_1.xml</uri>
+    </author>
+    <published>2024-07-24T03:16:39Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El método que te ayudará a sustituir los pensamientos negativos y automáticos por una mirada optimista y reflexiva hacia tu propio ser. ¿Te imaginas tener al lado a alguien que te menospreciara cada día, que señalara cada uno de tus defectos, que te ...</summary>
+    <link href="../book_2/book_2725.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La invención de todas las cosas [December 11, 2024]</title>
+    <id>calibre:book:2727</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Jorge%20Volpi/La%20invencion%20de%20todas%20las%20cosas%20%282727%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Volpi/La%20invencion%20de%20todas%20las%20cosas%20%282727%29/La%20invencion%20de%20todas%20las%20cosas%20-%20Jorge%20Volpi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
+    <author>
+      <name>Jorge Volpi</name>
+      <uri>../authors_0/authors_168_Page_1.xml</uri>
+    </author>
+    <published>2024-09-30T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un viaje apasionante y original a la imaginación como origen y motor del mundoPor el ganador del Premio Alfaguara de novela, el Biblioteca Breve y el José Donoso«Un libro que atrapa, nos invita a explorar el mapa genético de nuestras ideas y nos devu...</summary>
+    <link href="../book_2/book_2727.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El misterioso caso del impostor del Titanic [December 11, 2024]</title>
+    <id>calibre:book:2724</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Carmen%20Posadas/El%20misterioso%20caso%20del%20impostor%20del%20%282724%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carmen%20Posadas/El%20misterioso%20caso%20del%20impostor%20del%20%282724%29/El%20misterioso%20caso%20del%20impostor%20-%20Carmen%20Posadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carmen Posadas</name>
+      <uri>../authors_1/authors_1029_Page_1.xml</uri>
+    </author>
+    <published>2024-10-08T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En abril de 1912, la adinerada viuda de Peñasco tuvo un mal presentimiento mientras almorzaba en su palacete de Madrid. Algo les había pasado a su único hijo y su nuera, a quienes en ese momento creía en París, disfrutando de su luna de miel. La dama...</summary>
+    <link href="../book_2/book_2724.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Solo queda silencio [December 11, 2024]</title>
+    <id>calibre:book:2729</id>
+    <updated>2024-12-11T08:23:56Z</updated>
+    <link href="../../Txemi%20Parra/Solo%20queda%20silencio%20%282729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Txemi%20Parra/Solo%20queda%20silencio%20%282729%29/Solo%20queda%20silencio%20-%20Txemi%20Parra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="515 KB" />
+    <author>
+      <name>Txemi Parra</name>
+      <uri>../authors_1/authors_1784_Page_1.xml</uri>
+    </author>
+    <published>2024-10-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Después de la nevada...Después de la confesión...Después de la muerte... SOLO QUEDA SILENCIO En Jaca, el Año Nuevo amanece con una tragedia: han hallado en el río el cadáver de Martín Blasco, un joven abogado. Su último mensaje constaba de una única ...</summary>
+    <link href="../book_2/book_2729.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La tercera víctima [December 11, 2024]</title>
+    <id>calibre:book:2728</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Lisa%20Gardner/La%20tercera%20victima%20%282728%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lisa%20Gardner/La%20tercera%20victima%20%282728%29/La%20tercera%20victima%20-%20Lisa%20Gardner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="979 KB" />
     <author>
       <name>Lisa Gardner</name>
       <uri>../authors_1/authors_1731_Page_1.xml</uri>
@@ -131,42 +169,25 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>Jentas</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>El condecorado policía Jim Beckett era todo lo que Tess había soñado… Pero dos años después de que casarse con él y dar a luz a su hija, descubrió que su marido ocultaba un oscuro secreto y ayudó a meterlo entre rejas por asesinar de forma salvaje a ...</summary>
-    <link href="../book_2/book_2635.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Un acto inenarrable ha destrozado la idílica localidad de Bakersville, en el estado de Oregón, y sus antaño pacíficos habitantes exigen una justicia rápida. Pero, aunque un niño ha confesado el horrendo crimen, las pruebas demuestran que podría no se...</summary>
+    <link href="../book_2/book_2728.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La novia del viento [21 de octubre de 2024]</title>
-    <id>calibre:book:2633</id>
-    <updated>2024-10-21T04:01:14Z</updated>
-    <link href="../../Brenna%20Watson/La%20novia%20del%20viento%20%282633%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Brenna%20Watson/La%20novia%20del%20viento%20%282633%29/La%20novia%20del%20viento%20-%20Brenna%20Watson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="506 KB" />
+    <title>Asesinato en la Academia [December 11, 2024]</title>
+    <id>calibre:book:2723</id>
+    <updated>2024-12-11T08:23:55Z</updated>
+    <link href="../../Riccardo%20Braccaioli/Asesinato%20en%20la%20Academia%20%282723%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Riccardo%20Braccaioli/Asesinato%20en%20la%20Academia%20%282723%29/Asesinato%20en%20la%20Academia%20-%20Riccardo%20Braccaioli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Brenna Watson</name>
-      <uri>../authors_1/authors_1729_Page_1.xml</uri>
+      <name>Riccardo Braccaioli</name>
+      <uri>../authors_1/authors_1084_Page_1.xml</uri>
     </author>
-    <published>2024-08-30T00:00:00Z</published>
+    <published>2024-10-10T03:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <dcterms:publisher>Editorial Escritor Tokenizado</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Apasionada, libre, indómita. Ella es la novia del viento. Una artista que emergió con la fuerza de la naturaleza para cautivar el mundo.Una historia de superación y coraje inspirada en lavida de la pintora Leonora Carrington.Londres, 1937. Si hay alg...</summary>
-    <link href="../book_2/book_2633.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Cama adentro [21 de octubre de 2024]</title>
-    <id>calibre:book:2632</id>
-    <updated>2024-10-21T04:01:14Z</updated>
-    <link href="../../Leticia%20Bianca/Cama%20adentro%20%282632%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Leticia%20Bianca/Cama%20adentro%20%282632%29/Cama%20adentro%20-%20Leticia%20Bianca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="192 KB" />
-    <author>
-      <name>Leticia Bianca</name>
-      <uri>../authors_1/authors_1728_Page_1.xml</uri>
-    </author>
-    <published>2024-06-26T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>AdN</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Argentina, 2002. Mario Montesino ha conseguido ascender de clase social gracias a un matrimonio muy beneficioso y ahora es gerente de la empresa de la poderosa familia de su mujer, Raquel. Pero todo tiene un precio, porque cuidar de una enferma como ...</summary>
-    <link href="../book_2/book_2632.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Olivia Wolf, una aspirante a inspectora, con un agudo ojo analítico y una rebeldía innata, se encuentra en el centro de la tormenta. Junto a su compañero Valentino, Olivia descubre un enigmático caballo de ajedrez que lleva a desenterrar secretos osc...</summary>
+    <link href="../book_2/book_2723.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../recent/recent_THREEMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 3)" />
   <link href="../recent/recent_THREEMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 3)" />

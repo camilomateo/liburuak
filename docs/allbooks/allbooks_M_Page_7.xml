@@ -13,7 +13,45 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
-  <link href="../allbooks/allbooks_M_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 11)" />
+  <entry>
+    <title>La maestra</title>
+    <id>calibre:book:1532</id>
+    <updated>2024-06-02T10:59:40Z</updated>
+    <link href="../../Jose%20Antonio%20Lucero/La%20maestra%20%281532%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Antonio%20Lucero/La%20maestra%20%281532%29/La%20maestra%20-%20Jose%20Antonio%20Lucero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="540 KB" />
+    <author>
+      <name>José Antonio Lucero</name>
+      <uri>../authors_1/authors_1115_Page_1.xml</uri>
+    </author>
+    <published>2024-04-05T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>UN HOMENAJE A AQUELLOS QUE NOS ENSEÑAN A APRENDER
+
+El profesor y creador de La cuna de Halicarnaso escribe una emotiva novela en homenaje a su vocación: la docencia.
+
+«JoséAntonio Lucero deslumbra gracias a una mirada sobre el pasado como la de Almud...</summary>
+    <link href="../book_1/book_1532.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El maestro de la fuga</title>
+    <id>calibre:book:1837</id>
+    <updated>2024-08-30T02:08:02Z</updated>
+    <link href="../../Jonathan%20Freedland/El%20maestro%20de%20la%20fuga%20%281837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jonathan%20Freedland/El%20maestro%20de%20la%20fuga%20%281837%29/El%20maestro%20de%20la%20fuga%20-%20Jonathan%20Freedland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <author>
+      <name>Jonathan Freedland</name>
+      <uri>../authors_1/authors_1314_Page_1.xml</uri>
+    </author>
+    <published>2023-01-26T10:29:56Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La verdadera historia de Rudi Vrba, el judío que escapó de Auschwitz para alertar al mundo de las atrocidades nazis.En abril de 1944, Rudolf Vrba se convirtió uno de los primeros judíos que escapó de Auschwitz. Contra todo pronóstico, tras esquivar p...</summary>
+    <link href="../book_1/book_1837.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El maestro y Margarita</title>
     <id>calibre:book:2435</id>
@@ -423,45 +461,7 @@
     <summary>Una emocionante novela llena de intriga, sobre la ambición y la fama.En el barrio de Salamanca, en pleno centro de Madrid, un taxi se detiene frente a una sala de exposiciones muy cercana a la calle de Alcalá. Del coche se apea un hombre mayor, con e...</summary>
     <link href="../book_1/book_1400.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>La memoria del alambre</title>
-    <id>calibre:book:987</id>
-    <updated>2023-08-23T02:48:22Z</updated>
-    <link href="../../Barbara%20Blasco/La%20memoria%20del%20alambre%20%28987%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Barbara%20Blasco/La%20memoria%20del%20alambre%20%28987%29/La%20memoria%20del%20alambre%20-%20Barbara%20Blasco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="564 KB" />
-    <author>
-      <name>Bárbara Blasco</name>
-      <uri>../authors_0/authors_732_Page_1.xml</uri>
-    </author>
-    <published>2020-08-11T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
-    <category term="Novela. Realista" />
-    <category term="Lang:es" />
-    <summary>El alambre posee memoria. Una vez doblado tenderá a su posición combada, no importan los esfuerzos que se hagan por enderezarlo. La protagonista, una cantante de orquesta que reniega de las canciones comerciales que difunden como virus, recibe un men...</summary>
-    <link href="../book_0/book_987.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las memorias de Sherlock Holmes</title>
-    <id>calibre:book:2332</id>
-    <updated>2024-09-09T10:34:09Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/Las%20memorias%20de%20Sherlock%20Holmes%20%282332%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/Las%20memorias%20de%20Sherlock%20Holmes%20%282332%29/Las%20memorias%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="312 KB" />
-    <author>
-      <name>Arthur Conan Doyle</name>
-      <uri>../authors_0/authors_49_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Intriga" />
-    <category term="Policíaco" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [119]:</summary>
-    <link href="../book_2/book_2332.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 10)" />
-  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
-  <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
+  <link href="../allbooks/allbooks_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 11)" />
+  <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />
+  <link href="../allbooks/allbooks_M_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

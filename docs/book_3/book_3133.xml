@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El reverso de la utopia. Obra periodística III</title>
+  <id>urn:book:ac769bd5-f8ee-4318-b838-6b4ca4f72d01</id>
+  <updated>2025-03-06T05:54:51Z</updated>
+  <link href="./book_3133.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El reverso de la utopia. Obra periodística III" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../../Mario%20Vargas%20Llosa/El%20reverso%20de%20la%20utopia.%20Obra%20perio%20%283133%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Mario%20Vargas%20Llosa/El%20reverso%20de%20la%20utopia.%20Obra%20perio%20%283133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Mario%20Vargas%20Llosa/El%20reverso%20de%20la%20utopia.%20Obra%20perio%20%283133%29/El%20reverso%20de%20la%20utopia.%20Obra%20p%20-%20Mario%20Vargas%20Llosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1010 KB" />
+  <author>
+    <name>Mario Vargas Llosa</name>
+    <uri>../authors_0/authors_71_Page_1.xml</uri>
+  </author>
+  <published>2025-01-28T02:41:16Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Alfaguara</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>Firme defensor de ideales como la libertad y la
+      democracia, durante más de cinco décadas, Mario
+      Vargas Llosa ha reflexionado en su obra literaria y en sus
+      textos periodísticos sobre los problemas que conlleva la
+      utopía política. Las piezas reunidas en este
+      volumen colocan en el foco tres contextos que el autor conoce
+      de primera mano.</p>
+      <p>«Que, entendidas en términos extremos, la
+      libertad y la igualdad sean opciones alérgicas la una a
+      la otra no puede querer decir que estemos condenados a la
+      injusticia. Sino, más sencillamente, que hay que
+      renunciar a las utopías, a las opciones
+      extremas».</p>
+      <p>
+        «A pesar de que América Latina, Israel e Irak
+      son lugares distantes, con historias culturales y
+      políticas difícilmente equiparables, no es tan
+      difícil encontrar un hilo invisible que los une. [ ]
+      Aquel período de tranquilidad ideológica que
+      parecía haber llegado con la caída del comunismo
+      demostró ser una ilusión. La historia seguía
+      viva, más que nunca. El radicalismo islámico, el
+      nacionalismo y el populismo no han dejado en estos años
+      de ser amenazas serias para la libertad y la democracia.
+      Estos ideales se ha alejado un poco más,
+      lamentablemente. América Latina no se convirtió en
+      un oasis purgado de todos los vicios modernos, ni en la
+      región donde surgiría un socialismo humanista y
+      libertario. Al contrario, ha sido la política del resto
+      de Occidente la que ha terminado pareciéndose a la
+      latinoamericana: los demonios incubados en el reverso de la
+      utopía -el fanatismo, el nacionalismo, el odio sectario,
+      el populismo- andan sueltos, y ahora acechan a la humanidad
+      entera».
+        <br />
+        <br />
+        Del prólogo de Carlos Granés
+      </p>
+    </div>
+  </content>
+  <link href="../authors_0/authors_71_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Mario Vargas Llosa" />
+</entry>
