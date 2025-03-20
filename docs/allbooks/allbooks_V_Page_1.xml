@@ -170,6 +170,23 @@
     <link href="../book_2/book_2533.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Ve y dilo en la montaña</title>
+    <id>calibre:book:3172</id>
+    <updated>2025-03-20T02:03:14Z</updated>
+    <link href="../../James%20Baldwin/Ve%20y%20dilo%20en%20la%20montana%20%283172%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Baldwin/Ve%20y%20dilo%20en%20la%20montana%20%283172%29/Ve%20y%20dilo%20en%20la%20montana%20-%20James%20Baldwin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="271 KB" />
+    <author>
+      <name>James Baldwin</name>
+      <uri>../authors_2/authors_2000_Page_1.xml</uri>
+    </author>
+    <published>2025-02-15T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Sexto Piso</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un sábado de marzo de 1935, el día en que cumple catorce años, JohnGrimes deambula por las calles de Nueva York mientras rumia algunosasuntos que lo abruman: la difícil relación con su padre, un autoritariopredicador pentecostal de Harlem, la pobreza...</summary>
+    <link href="../book_3/book_3172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Ve y pon un centinela</title>
     <id>calibre:book:883</id>
     <updated>2023-06-22T03:04:28Z</updated>
@@ -464,24 +481,6 @@ Una novela de suspense a tres tiempos —1975, 1998 y 2008— acerca ...</summar
 Avantages
 Sophie Duguet no entiende qué le sucede: pierde objetos, olvida situaciones, es detenida en un supe...</summary>
     <link href="../book_0/book_114.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Viaje al centro de la Tierra</title>
-    <id>calibre:book:2043</id>
-    <updated>2024-09-06T02:09:02Z</updated>
-    <link href="../../Julio%20Verne/Viaje%20al%20centro%20de%20la%20Tierra%20%282043%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julio%20Verne/Viaje%20al%20centro%20de%20la%20Tierra%20%282043%29/Viaje%20al%20centro%20de%20la%20Tierra%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="325 KB" />
-    <author>
-      <name>Julio Verne</name>
-      <uri>../authors_1/authors_1468_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [17]:</summary>
-    <link href="../book_2/book_2043.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_V_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />
 </feed>

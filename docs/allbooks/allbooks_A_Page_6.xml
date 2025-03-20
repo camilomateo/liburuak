@@ -13,7 +13,42 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
-  <link href="../allbooks/allbooks_A_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 10)" />
+  <link href="../allbooks/allbooks_A_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 11)" />
+  <entry>
+    <title>Arenas movedizas</title>
+    <id>calibre:book:94</id>
+    <updated>2023-01-18T00:09:28Z</updated>
+    <link href="../../Malin%20Persson%20Giolito/Arenas%20movedizas%20%2894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Malin%20Persson%20Giolito/Arenas%20movedizas%20%2894%29/Arenas%20movedizas%20-%20Malin%20Persson%20Giolito.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="500 KB" />
+    <author>
+      <name>Malin Persson Giolito</name>
+      <uri>../authors_0/authors_65_Page_1.xml</uri>
+    </author>
+    <published>2016-05-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Elegido mejor libro de suspense del año en Suecia. Un crimen en un instituto de élite. Una única acusada.Todo el mundo es inocente hasta que se demuestre lo contrario. La masacre en una escuela de uno de los barrios más lujosos de Estocolmo  ha sacud...</summary>
+    <link href="../book_0/book_94.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ariel</title>
+    <id>calibre:book:1958</id>
+    <updated>2024-09-05T06:10:25Z</updated>
+    <link href="../../Jose%20Enrique%20Rodo/Ariel%20%281958%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Enrique%20Rodo/Ariel%20%281958%29/Ariel%20-%20Jose%20Enrique%20Rodo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="121 KB" />
+    <author>
+      <name>José Enrique Rodó</name>
+      <uri>../authors_1/authors_1401_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [23]:</summary>
+    <link href="../book_1/book_1958.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Aritmética recreativa</title>
     <id>calibre:book:1920</id>
@@ -434,42 +469,7 @@
     <summary>El esperado libro de Jordi Wild, uno de los youtubers más populares de España y creador de The Wild Project, el pódcast más escuchado.Ni eres el centro del universo ni todos tus sueños van a cumplirse. Olvídate de las chorradas de los libros de auto...</summary>
     <link href="../book_0/book_225.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Atala</title>
-    <id>calibre:book:2012</id>
-    <updated>2024-09-06T01:57:45Z</updated>
-    <link href="../../Francois-Rene%20de%20Chateaubriand/Atala%20%282012%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francois-Rene%20de%20Chateaubriand/Atala%20%282012%29/Atala%20-%20Francois-Rene%20de%20Chateaubriand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="132 KB" />
-    <author>
-      <name>Francois-René de Chateaubriand</name>
-      <uri>../authors_1/authors_1443_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [40]:</summary>
-    <link href="../book_2/book_2012.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Atormentada</title>
-    <id>calibre:book:2581</id>
-    <updated>2024-09-11T03:29:02Z</updated>
-    <link href="../../Raul%20Garbantes/Atormentada%20%282581%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Raul%20Garbantes/Atormentada%20%282581%29/Atormentada%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="617 KB" />
-    <author>
-      <name>Raúl Garbantes</name>
-      <uri>../authors_0/authors_58_Page_1.xml</uri>
-    </author>
-    <published>2022-01-31T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <category term="Agentes del FBI Julia Stein y Hans Freeman" />
-    <summary>Agentes del FBI Julia Stein y Hans Freeman [5]: No es el mejor momento para Julia Stein y acaban de asignarle un caso difícil. Alguien está asesinando parejas jóvenes en Kansas. El homicida abandona los cuerpos de las víctimas como si hubiesen sido d...</summary>
-    <link href="../book_2/book_2581.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_A_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 10)" />
-  <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
-  <link href="../allbooks/allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
+  <link href="../allbooks/allbooks_A_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 11)" />
+  <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />
+  <link href="../allbooks/allbooks_A_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

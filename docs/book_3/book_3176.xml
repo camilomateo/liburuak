@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Hombre caído</title>
+  <id>urn:book:742e1c52-daf2-4cda-b619-48d4c83071b8</id>
+  <updated>2025-03-20T02:03:15Z</updated>
+  <link href="./book_3176.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Hombre caído" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../authorlist/authorlist_A_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../../Fernando%20Aramburu/Hombre%20caido%20%283176%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Fernando%20Aramburu/Hombre%20caido%20%283176%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Fernando%20Aramburu/Hombre%20caido%20%283176%29/Hombre%20caido%20-%20Fernando%20Aramburu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="498 KB" />
+  <author>
+    <name>Fernando Aramburu</name>
+    <uri>../authors_0/authors_192_Page_1.xml</uri>
+  </author>
+  <published>2025-03-05T08:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p align="justify" style="font-weight: bold">El nuevo libro
+      de un narrador imprescindible. Una inolvidable colección
+      de relatos de Fernando Aramburu.</p>
+      <p align="justify">
+        Una mujer que deja de cuidar a sus padres
+      enfermos para fotografiar ardillas en el parque, un joven que
+      asegura a su hermano que le ha vengado de la paliza que le
+      dieron, un padre que sale a comprar un gran peluche de
+      segunda mano y se encuentra con una historia inesperada, un
+      hombre caído al que no pueden ayudar los
+      transeúntes…
+        <strong>Los cuentos del nuevo libro de Aramburu van de la
+      emoción al terror, del absurdo a la sorpresa y el humor,
+      de la angustia a la más inquietante normalidad, y todas
+      son inolvidables</strong>
+        . El nuevo libro de Fernando
+      Aramburu es una
+        <strong>lúcida inmersión en la naturaleza
+      humana</strong>
+        : desde la soledad de quienes no son
+      comprendidos hasta el comportamiento con nuestros vecinos
+      caídos en desgracia, desde las interioridades de las
+      parejas a rivalidades de por vida, las envidas o los
+      sentimientos más inconfesables.
+      </p>
+      <p align="justify">Sobre las obras de Fernando</p>
+      <p align="justify">
+        «Aramburu consigue llegar al
+      verdadero significado de las cosas y a la fascinación
+      inagotable de la ficción.» **
+        <em>Corriere della Sera</em>
+        **
+      </p>
+      <p align="justify">
+        «Solo un novelista de la talla de
+      Aramburu podría transmitir lo indescriptible.» **
+        <em>La République des Idées</em>
+        **
+      </p>
+      <p align="justify">
+        «Fernando Aramburu es la
+      auténtica revelación de la literatura española
+      de los últimos años.» **
+        <em>La Repubblica</em>
+        **
+      </p>
+      <p align="justify">
+        «Una obra literaria humana,
+      memorable.»
+        <strong>Kirkus Reviews</strong>
+      </p>
+      <p align="justify">
+        «Con su extraordinaria capacidad para
+      ahondar en los pliegues del dolor, este es un libro que
+      interpela. Se lee con una sensación de asombro
+      suspendido.»
+        <strong>Paolo Lepri,</strong>
+        <span style="font-weight: bold; font-style: italic">La
+      Lettura</span>
+      </p>
+    </div>
+  </content>
+  <link href="../authors_0/authors_192_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Fernando Aramburu" />
+</entry>

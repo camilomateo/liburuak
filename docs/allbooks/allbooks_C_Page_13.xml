@@ -15,6 +15,23 @@
   <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
   <link href="../allbooks/allbooks_C_Page_14.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (14 of 15)" />
   <entry>
+    <title>El club mefisto</title>
+    <id>calibre:book:18</id>
+    <updated>2023-01-17T10:11:54Z</updated>
+    <link href="../../Tess%20Gerritsen/El%20club%20mefisto%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tess%20Gerritsen/El%20club%20mefisto%20%2818%29/El%20club%20mefisto%20-%20Tess%20Gerritsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="660 KB" />
+    <author>
+      <name>Tess Gerritsen</name>
+      <uri>../authors_0/authors_16_Page_1.xml</uri>
+    </author>
+    <published>2022-11-28T05:19:59Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El Club Mefisto es el sexto libro de la afamada serie Rizzoli &amp; Isles y la inspiración detrás de el éxito televisivo.'HE PECADO'Las palabras están escritas con sangre en la escena del crimen más atroz que la patóloga forense Maura Isles y la detectiv...</summary>
+    <link href="../book_0/book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La cocina probiótica</title>
     <id>calibre:book:297</id>
     <updated>2023-02-13T08:25:36Z</updated>
@@ -437,23 +454,6 @@ La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tif
     <category term="Lang:es" />
     <summary>Una vida de lucha por el trono. Una batalla de reyes en la que se alzará una reina. 1100 d. C. La turbulenta línea de sucesión de los reinos de León, Castilla y Galicia obliga a doña Urraca de Zamora, hermana y mano derecha del rey Alfonso VI, a aseg...</summary>
     <link href="../book_0/book_797.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las cosas que nos pasan</title>
-    <id>calibre:book:3152</id>
-    <updated>2025-03-10T04:00:51Z</updated>
-    <link href="../../Guada%20Guerra/Las%20cosas%20que%20nos%20pasan%20%283152%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Guada%20Guerra/Las%20cosas%20que%20nos%20pasan%20%283152%29/Las%20cosas%20que%20nos%20pasan%20-%20Guada%20Guerra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="525 KB" />
-    <author>
-      <name>Guada Guerra</name>
-      <uri>../authors_1/authors_1988_Page_1.xml</uri>
-    </author>
-    <published>2025-02-20T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>¿Es esta la vida con la que soñabas?¿De verdad quieres ser madre soltera?¿Cómo vas a encontrar un hogar cuando no sabes dónde estar?Sofía, Irene, Julia, Belén y Claudia son un grupo de amigas treintañeras que viven en una negociación constante con su...</summary>
-    <link href="../book_3/book_3152.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_C_Page_12.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (12 of 15)" />
   <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />

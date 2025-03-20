@@ -22,7 +22,7 @@
   <entry>
     <title>Series starting with B</title>
     <id>Calibre2opds::serieslist:B</id>
-    <content type="text">8 series</content>
+    <content type="text">9 series</content>
     <link href="../serieslist/serieslist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -46,7 +46,7 @@
   <entry>
     <title>Series starting with E</title>
     <id>Calibre2opds::serieslist:E</id>
-    <content type="text">18 series</content>
+    <content type="text">19 series</content>
     <link href="../serieslist/serieslist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -158,7 +158,7 @@
   <entry>
     <title>Series starting with T</title>
     <id>Calibre2opds::serieslist:T</id>
-    <content type="text">16 series</content>
+    <content type="text">17 series</content>
     <link href="../serieslist/serieslist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

@@ -20,7 +20,7 @@
   <entry>
     <title>All books by Lorenzo Silva</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the 7 books</content>
+    <content type="text">Alphabetical index of the 8 books</content>
     <link href="../authors_0/authors_2_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -30,6 +30,14 @@
     <id>Calibre2opds:authors:2series:7</id>
     <content type="text">Donde los escorpiones</content>
     <link href="../authors_0/authors_2_series_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Bevilacqua y Chamorro</title>
+    <id>Calibre2opds:authors:2series:277</id>
+    <content type="text">Las fuerzas contrarias</content>
+    <link href="../authors_0/authors_2_series_277_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

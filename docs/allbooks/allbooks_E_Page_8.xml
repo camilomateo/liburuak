@@ -15,6 +15,43 @@
   <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
   <link href="../allbooks/allbooks_E_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 of 9)" />
   <entry>
+    <title>El engaño</title>
+    <id>calibre:book:49</id>
+    <updated>2023-01-17T10:27:38Z</updated>
+    <link href="../../Charlotte%20Link/El%20engano%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlotte%20Link/El%20engano%20%2849%29/El%20engano%20-%20Charlotte%20Link.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="657 KB" />
+    <author>
+      <name>Charlotte Link</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>2015-09-02T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Para Kate Linville, solitaria policía de Scotland Yard, solo hay una persona en el mundo que merezca su amor y su confianza: el antiguo jefe de policía de Scarborough Richard Linville, su padre, a cuya sombra creció. Cuando este aparece brutalmente a...</summary>
+    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El enigma de West Heart</title>
+    <id>calibre:book:1529</id>
+    <updated>2024-06-02T10:59:39Z</updated>
+    <link href="../../Dann%20McDorman/El%20enigma%20de%20West%20Heart%20%281529%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dann%20McDorman/El%20enigma%20de%20West%20Heart%20%281529%29/El%20enigma%20de%20West%20Heart%20-%20Dann%20McDorman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="651 KB" />
+    <author>
+      <name>Dann McDorman</name>
+      <uri>../authors_1/authors_1112_Page_1.xml</uri>
+    </author>
+    <published>2024-04-12T00:46:59Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un club de caza junto a un lago. Un fin de semana de tormenta. Un detective privado… y varios cadáveres.«Una novela de suspense muy original, que va más allá del género policiaco —un diabólico misterio en una habitación cerrada, que alterna con una ...</summary>
+    <link href="../book_1/book_1529.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El enigma de la habitación 622</title>
     <id>calibre:book:706</id>
     <updated>2023-05-17T01:10:24Z</updated>
@@ -423,41 +460,6 @@
     <category term="Lang:es" />
     <summary>El autor de El Psicoanalista vuelve a deslumbrarnos con otra historia de suspense dotada de una trama impecable y un ritmo frenético, cuyos personajes caminan sobre el filo de la navaja de comienzo a fin.El fruto de la venganza es más venganza.  Mie...</summary>
     <link href="../book_1/book_1256.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las euménides</title>
-    <id>calibre:book:2343</id>
-    <updated>2024-09-09T10:34:11Z</updated>
-    <link href="../../Esquilo/Las%20eumenides%20%282343%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Esquilo/Las%20eumenides%20%282343%29/Las%20eumenides%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="79 KB" />
-    <author>
-      <name>Esquilo</name>
-      <uri>../authors_1/authors_1623_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [151]:</summary>
-    <link href="../book_2/book_2343.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La excavación</title>
-    <id>calibre:book:778</id>
-    <updated>2023-05-25T01:32:58Z</updated>
-    <link href="../../John%20Preston/La%20excavacion%20%28778%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Preston/La%20excavacion%20%28778%29/La%20excavacion%20-%20John%20Preston.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="694 KB" />
-    <author>
-      <name>John Preston</name>
-      <uri>../authors_0/authors_580_Page_1.xml</uri>
-    </author>
-    <published>2021-06-16T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>La Galera</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El libro en que se ha inspirado una de las grandes películas de Netflix, The Dig. En el largo y caluroso verano del año 1939 Inglaterra se prepara para la guerra. Pero en una pequeña granja junto al río, cerca de Suffolk, ajena a cuanto acontece más ...</summary>
-    <link href="../book_0/book_778.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_E_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 9)" />
   <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

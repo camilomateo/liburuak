@@ -15,6 +15,42 @@
   <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
   <link href="../allbooks/allbooks_P_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 of 9)" />
   <entry>
+    <title>La pirámide inmortal</title>
+    <id>calibre:book:1589</id>
+    <updated>2024-06-02T10:59:55Z</updated>
+    <link href="../../Javier%20Sierra/La%20piramide%20inmortal%20%281589%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Sierra/La%20piramide%20inmortal%20%281589%29/La%20piramide%20inmortal%20-%20Javier%20Sierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Javier Sierra</name>
+      <uri>../authors_0/authors_741_Page_1.xml</uri>
+    </author>
+    <published>2014-07-14T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El gran misterio de la humanidad, la inmortalidad, es la piedra angular sobre la que giran los argumentos de la nueva novela de Javier Sierra, La pirámide inmortal, una versión revisada, actualizada y ampliada de su novela El secreto egipcio de Napol...</summary>
+    <link href="../book_1/book_1589.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El planeta que no estaba</title>
+    <id>calibre:book:3041</id>
+    <updated>2025-02-12T01:51:57Z</updated>
+    <link href="../../Isaac%20Asimov/El%20planeta%20que%20no%20estaba%20%283041%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/El%20planeta%20que%20no%20estaba%20%283041%29/El%20planeta%20que%20no%20estaba%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="442 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+    </author>
+    <published>1975-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias naturales" />
+    <category term="Lang:es" />
+    <summary>Isaac Asimov es —junto con Carl Sagan— el más popular de los autores de divulgación científica, temática que —presuntamente árida— adquiere en sus manos el toque mágico necesario para llegar a apasionarnos. La totalidad de los ensayos incluidos en es...</summary>
+    <link href="../book_3/book_3041.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La playa de los narcisos</title>
     <id>calibre:book:1214</id>
     <updated>2024-02-20T01:04:11Z</updated>
@@ -424,44 +460,6 @@
     <category term="Lang:es" />
     <summary>LA NUEVA NOVELA DE ARTURO PÉREZ-REVERTEUn crimen imposible. Un detective insospechado.No se trata de un desafío entre el asesino y el detective, sino de un duelo de inteligencia entre el autor y el lector.—Haría falta un policía—sugirió alguien—. Un ...</summary>
     <link href="../book_1/book_1025.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El procurador</title>
-    <id>calibre:book:1208</id>
-    <updated>2024-02-06T06:17:26Z</updated>
-    <link href="../../M.%20W.%20Craven/El%20procurador%20%281208%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../M.%20W.%20Craven/El%20procurador%20%281208%29/El%20procurador%20-%20M.%20W.%20Craven.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="498 KB" />
-    <author>
-      <name>M. W. Craven</name>
-      <uri>../authors_0/authors_449_Page_1.xml</uri>
-    </author>
-    <published>2022-03-09T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Whashington Poe" />
-    <summary>Whashington Poe [3]: La fascinante y nueva entrega de la serie protagonizada por Washington Poe.Por el autor de El show de las marionetas y Verano negro.«Un thriller brutal y apasionante.» The Sun«La mejor trama de misterio del año.» Morning Star«Mag...</summary>
-    <link href="../book_1/book_1208.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El profesor</title>
-    <id>calibre:book:2572</id>
-    <updated>2024-09-11T03:29:01Z</updated>
-    <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/El%20profesor%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="180 KB" />
-    <author>
-      <name>Pablo Poveda</name>
-      <uri>../authors_0/authors_232_Page_1.xml</uri>
-    </author>
-    <published>2015-07-01T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Novela" />
-    <category term="Intriga" />
-    <category term="Policial" />
-    <category term="Lang:es" />
-    <category term="El profesor" />
-    <summary>El profesor [1]: León es un joven profesor de literatura en el Liceum Copernicus de Varsovia. Destrozado por su ruptura sentimental, el As de corazones compagina su trabajo con su sueño de convertirse en escritor. Mientras se divierte con otras mujer...</summary>
-    <link href="../book_2/book_2572.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_P_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 9)" />
   <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

@@ -71,6 +71,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Paulina Flores</title>
+    <id>Calibre2opds:authors:2002</id>
+    <content type="text">1 book</content>
+    <link href="../authors_2/authors_2002_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Joanne Fluke</title>
     <id>Calibre2opds:authors:645</id>
     <content type="text">Unas galletas de muerte</content>
@@ -203,14 +211,6 @@
     <id>Calibre2opds:authors:416</id>
     <content type="text">2 books</content>
     <link href="../authors_0/authors_416_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Miguel Ángel Juárez Franco</title>
-    <id>Calibre2opds:authors:1790</id>
-    <content type="text">La eterna noche de los 43</content>
-    <link href="../authors_1/authors_1790_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

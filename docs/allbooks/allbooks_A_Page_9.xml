@@ -13,7 +13,69 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
-  <link href="../allbooks/allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (10 of 10)" />
+  <link href="../allbooks/allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (10 of 11)" />
+  <entry>
+    <title>Un apartamento en París</title>
+    <id>calibre:book:86</id>
+    <updated>2023-01-18T00:09:26Z</updated>
+    <link href="../../Lucy%20Foley/Un%20apartamento%20en%20Paris%20%2886%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lucy%20Foley/Un%20apartamento%20en%20Paris%20%2886%29/Un%20apartamento%20en%20Paris%20-%20Lucy%20Foley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="589 KB" />
+    <author>
+      <name>Lucy Foley</name>
+      <uri>../authors_0/authors_60_Page_1.xml</uri>
+    </author>
+    <published>2022-10-12T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Bienvenido al número 12 de la Rue des Amants, un hermoso bloque de apartamentos antiguo, lejos de las luces brillantes de la Torre Eiffel y de las bulliciosas orillas del Sena. Donde nada pasa desapercibido y todos tienen una historia que descubrir.L...</summary>
+    <link href="../book_0/book_86.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El aprendiz de conspirador</title>
+    <id>calibre:book:2113</id>
+    <updated>2024-09-06T02:21:17Z</updated>
+    <link href="../../Pio%20Baroja/El%20aprendiz%20de%20conspirador%20%282113%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pio%20Baroja/El%20aprendiz%20de%20conspirador%20%282113%29/El%20aprendiz%20de%20conspirador%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="210 KB" />
+    <author>
+      <name>Pío Baroja</name>
+      <uri>../authors_1/authors_1396_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aviraneta" />
+    <category term="e" />
+    <category term="Ibargoyen" />
+    <category term="Eugenio" />
+    <category term="de" />
+    <category term="1792-1872" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2113.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El aprendiz</title>
+    <id>calibre:book:2588</id>
+    <updated>2024-09-12T03:39:19Z</updated>
+    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/El%20aprendiz%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="279 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2016-09-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="El profesor" />
+    <summary>El profesor [2]: Han pasado diez años desde que León abandonó Varsovia, pero ha llegado el momento de volver. Sin embargo, Europa ha cambiado: una revolución calienta las calles y el español caerá atrapado en ella sin desearlo.</summary>
+    <link href="../book_2/book_2588.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>El aprendiz</title>
     <id>calibre:book:2722</id>
@@ -404,63 +466,7 @@ El arte de la manifestación es algo más que una conexión con el universo para
     <summary>Mariana de Marco [8]: Julia, la mejor amiga de la juez Mariana de Marco, acaba de mudarse a un apartamento nuevo, amplio y luminoso, en uno de los rascacielos más bonitos y lujosos del barrio más moderno de la ciudad de G… Para celebrarlo, Mariana de...</summary>
     <link href="../book_1/book_1685.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Un asesino en tu sombra</title>
-    <id>calibre:book:832</id>
-    <updated>2023-06-09T01:41:42Z</updated>
-    <link href="../../Ana%20Lena%20Rivera/Un%20asesino%20en%20tu%20sombra%20%28832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ana%20Lena%20Rivera/Un%20asesino%20en%20tu%20sombra%20%28832%29/Un%20asesino%20en%20tu%20sombra%20-%20Ana%20Lena%20Rivera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="559 KB" />
-    <author>
-      <name>Ana Lena Rivera</name>
-      <uri>../authors_0/authors_354_Page_1.xml</uri>
-    </author>
-    <published>2020-01-28T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Maeva</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Gracia San Sebastián" />
-    <summary>Gracia San Sebastián [2]:                                     Gracia San Sebastián, investigadora de fraudes financieros, se ve envuelta en la desaparición de Imelda, una joven psicóloga a la que encuentran muerta pocos días después en las vías del t...</summary>
-    <link href="../book_0/book_832.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La asistenta te vigila</title>
-    <id>calibre:book:1669</id>
-    <updated>2024-07-17T11:51:01Z</updated>
-    <link href="../../Freida%20McFadden/La%20asistenta%20te%20vigila%20%281669%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Freida%20McFadden/La%20asistenta%20te%20vigila%20%281669%29/La%20asistenta%20te%20vigila%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="440 KB" />
-    <author>
-      <name>Freida McFadden</name>
-      <uri>../authors_1/authors_1108_Page_1.xml</uri>
-    </author>
-    <published>2024-07-10T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>SUMA</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="La asistenta" />
-    <summary>La asistenta [3]: Vuelve la asistenta que ha revolucionado el thriller. Una nueva y adictiva novela de la serie más viral del momento. Yo solía trabajar limpiando las casas de otras personas, ahora apenas puedo creerme que este sea mi hogar. La encan...</summary>
-    <link href="../book_1/book_1669.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La asistenta</title>
-    <id>calibre:book:2665</id>
-    <updated>2024-10-22T00:28:26Z</updated>
-    <link href="../../Freida%20McFadden/La%20asistenta%20%282665%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Freida%20McFadden/La%20asistenta%20%282665%29/La%20asistenta%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="435 KB" />
-    <author>
-      <name>Freida McFadden</name>
-      <uri>../authors_1/authors_1108_Page_1.xml</uri>
-    </author>
-    <published>2022-04-21T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Intriga" />
-    <category term="Psicológico" />
-    <category term="Lang:es" />
-    <category term="La asistenta" />
-    <summary>La asistenta [1]: Detrás de la puerta, ella lo ve todo.Todos los días friego la preciosa casa de los Winchester de arriba abajo. Recojo a su hija del colegio y preparo deliciosas comidas para toda la familia antes de subir a cenar sola en mi minúscul...</summary>
-    <link href="../book_2/book_2665.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_A_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (8 of 10)" />
-  <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
+  <link href="../allbooks/allbooks_A_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (8 of 11)" />
+  <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />
+  <link href="../allbooks/allbooks_A_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

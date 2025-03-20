@@ -233,6 +233,24 @@
     <link href="../book_0/book_868.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>El bosque oscuro</title>
+    <id>calibre:book:3173</id>
+    <updated>2025-03-20T02:03:14Z</updated>
+    <link href="../../Cixin%20Liu/El%20bosque%20oscuro%20%283173%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cixin%20Liu/El%20bosque%20oscuro%20%283173%29/El%20bosque%20oscuro%20-%20Cixin%20Liu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Cixin Liu</name>
+      <uri>../authors_1/authors_1237_Page_1.xml</uri>
+    </author>
+    <published>2017-08-28T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>B DE BOOKS</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Trilogía de los Tres Cuerpos" />
+    <summary>Trilogía de los Tres Cuerpos [2]: La esperada continuación de El problema de los tres cuerpos, el  mejor libro de ciencia ficción y fantasía de 2016 según El Periódico, y uno de los diez mejores libros de ficción de 2016 según  Playground. Ahora la T...</summary>
+    <link href="../book_3/book_3173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El bouquet del miedo</title>
     <id>calibre:book:28</id>
     <updated>2023-01-17T10:17:28Z</updated>

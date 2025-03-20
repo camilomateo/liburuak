@@ -15,6 +15,25 @@
   <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with S" />
   <link href="../allbooks/allbooks_S_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 9)" />
   <entry>
+    <title>El secreto de la vida</title>
+    <id>calibre:book:1979</id>
+    <updated>2024-09-05T06:10:29Z</updated>
+    <link href="../../Oscar%20Wilde/El%20secreto%20de%20la%20vida%20%281979%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oscar%20Wilde/El%20secreto%20de%20la%20vida%20%281979%29/El%20secreto%20de%20la%20vida%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="367 KB" />
+    <author>
+      <name>Oscar Wilde</name>
+      <uri>../authors_0/authors_110_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [215]: Del grueso de la obra de Oscar Wilde (la edición utilizada ha sido Oscar Wilde, The Complete Works, Londres, HarperCollins, 1994), se ha llevado a cabo una selección cronológica de aquellos textos que, más allá de su aparent...</summary>
+    <link href="../book_1/book_1979.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El secreto de las olas</title>
     <id>calibre:book:937</id>
     <updated>2023-07-04T02:12:38Z</updated>
@@ -454,26 +473,6 @@ La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traicion
     <category term="Lang:es" />
     <summary>Las siete fueron sus víctimas, pero solo una es su asesina. El thriller que ha conquistado el mundo anglosajón, brillante debut de la discípula de Jeanette Winterson, llega a España. «Un thriller literario arrebatador. [...] Una narración con moralej...</summary>
     <link href="../book_2/book_2562.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El signo de los cuatro</title>
-    <id>calibre:book:2330</id>
-    <updated>2024-09-09T10:34:09Z</updated>
-    <link href="../../Arthur%20Conan%20Doyle/El%20signo%20de%20los%20cuatro%20%282330%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arthur%20Conan%20Doyle/El%20signo%20de%20los%20cuatro%20%282330%29/El%20signo%20de%20los%20cuatro%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="171 KB" />
-    <author>
-      <name>Arthur Conan Doyle</name>
-      <uri>../authors_0/authors_49_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Intriga" />
-    <category term="Policial" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [129]:</summary>
-    <link href="../book_2/book_2330.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 9)" />
   <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

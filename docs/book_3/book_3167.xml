@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El pergamino</title>
+  <id>urn:book:6328b946-c504-4eb5-999b-6033653697cf</id>
+  <updated>2025-03-14T02:34:12Z</updated>
+  <link href="./book_3167.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El pergamino" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../authorlist/authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../authors_1/authors_1998_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Anne Perry" />
+  <link href="../../Anne%20Perry/El%20pergamino%20%283167%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Anne%20Perry/El%20pergamino%20%283167%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Anne%20Perry/El%20pergamino%20%283167%29/El%20pergamino%20-%20Anne%20Perry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="306 KB" />
+  <author>
+    <name>Anne Perry</name>
+    <uri>../authors_1/authors_1998_Page_1.xml</uri>
+  </author>
+  <published>2024-11-06T06:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>13insurgentes</dcterms:publisher>
+  <category term="Novela" />
+  <category term="Intriga" />
+  <category term="Lang:es" />
+  <category term="Bibliomisterios" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 4 in the Bibliomisterios series
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Novela, Intriga, Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Un antiguo pergamino arrastra a un librero a un secreto
+    escalofriante. Monty Danforth encuentra una lata enterrada
+    debajo de una montaña de libros clásicos. En el
+    interior hay un pergamino milenario escrito en un idioma
+    desconocido. Danforth intenta fotocopiarlo y fotografiarlo,
+    pero termina con imágenes en blanco, como si la tinta
+    estuviera hecha de algo impermeable a la tecnología
+    moderna. Mientras el misterio del pergamino lo cautiva, el
+    librero se ve envuelto en una extraña conspiración.
+    Un anciano y su nieta aparecen interesándose por la
+    reliquia. No serán los únicos: fuerzas poderosas
+    anhelan los secretos encerrados en ese antiguo rollo, y
+    Danforth sobrevivirá solo si logra dominar su poder.</p>
+  </content>
+  <link href="../series_0/series_276_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 4 in the Bibliomisterios series" />
+  <link href="../authors_1/authors_1998_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Anne Perry" />
+</entry>

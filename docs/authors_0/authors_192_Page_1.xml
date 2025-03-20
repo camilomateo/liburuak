@@ -51,6 +51,23 @@
     <link href="../book_0/book_285.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Hombre caído</title>
+    <id>calibre:book:3176</id>
+    <updated>2025-03-20T02:03:15Z</updated>
+    <link href="../../Fernando%20Aramburu/Hombre%20caido%20%283176%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fernando%20Aramburu/Hombre%20caido%20%283176%29/Hombre%20caido%20-%20Fernando%20Aramburu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="498 KB" />
+    <author>
+      <name>Fernando Aramburu</name>
+      <uri>../authors_0/authors_192_Page_1.xml</uri>
+    </author>
+    <published>2025-03-05T08:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El nuevo libro de un narrador imprescindible. Una inolvidable colección de relatos de Fernando Aramburu. Una mujer que deja de cuidar a sus padres enfermos para fotografiar ardillas en el parque, un joven que asegura a su hermano que le ha vengado de...</summary>
+    <link href="../book_3/book_3176.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Los vencejos</title>
     <id>calibre:book:321</id>
     <updated>2023-02-16T07:03:28Z</updated>

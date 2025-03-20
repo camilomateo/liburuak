@@ -13,7 +13,42 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
-  <link href="../allbooks/allbooks_A_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 10)" />
+  <link href="../allbooks/allbooks_A_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 11)" />
+  <entry>
+    <title>Atala</title>
+    <id>calibre:book:2012</id>
+    <updated>2024-09-06T01:57:45Z</updated>
+    <link href="../../Francois-Rene%20de%20Chateaubriand/Atala%20%282012%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Francois-Rene%20de%20Chateaubriand/Atala%20%282012%29/Atala%20-%20Francois-Rene%20de%20Chateaubriand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="132 KB" />
+    <author>
+      <name>Francois-René de Chateaubriand</name>
+      <uri>../authors_1/authors_1443_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [40]:</summary>
+    <link href="../book_2/book_2012.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Atormentada</title>
+    <id>calibre:book:2581</id>
+    <updated>2024-09-11T03:29:02Z</updated>
+    <link href="../../Raul%20Garbantes/Atormentada%20%282581%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raul%20Garbantes/Atormentada%20%282581%29/Atormentada%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="617 KB" />
+    <author>
+      <name>Raúl Garbantes</name>
+      <uri>../authors_0/authors_58_Page_1.xml</uri>
+    </author>
+    <published>2022-01-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Agentes del FBI Julia Stein y Hans Freeman" />
+    <summary>Agentes del FBI Julia Stein y Hans Freeman [5]: No es el mejor momento para Julia Stein y acaban de asignarle un caso difícil. Alguien está asesinando parejas jóvenes en Kansas. El homicida abandona los cuerpos de las víctimas como si hubiesen sido d...</summary>
+    <link href="../book_2/book_2581.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Atusparia</title>
     <id>calibre:book:2699</id>
@@ -414,44 +449,7 @@
     <summary>AÑOS 50, GRANADA La ciudad se encuentra sumida en el tipo de silencio que solo deja tras su paso una tragedia. La tierra se ha abierto en dos y ha devorado todo lo que estaba a su alcance. Salvo a un niño, que ahora mira asustado los escombros mientr...</summary>
     <link href="../book_0/book_652.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>El aguijón del escorpión</title>
-    <id>calibre:book:513</id>
-    <updated>2023-04-05T00:39:58Z</updated>
-    <link href="../../Douglas%20Preston%20Y%20Lincoln%20Child/El%20aguijon%20del%20escorpion%20%28513%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Douglas%20Preston%20Y%20Lincoln%20Child/El%20aguijon%20del%20escorpion%20%28513%29/El%20aguijon%20del%20escorpion%20-%20Douglas%20Preston%20Y%20Lincoln%20Child.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="727 KB" />
-    <author>
-      <name>Douglas Preston Y Lincoln Child</name>
-      <uri>../authors_0/authors_378_Page_1.xml</uri>
-    </author>
-    <published>2023-03-29T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Nora Kelly" />
-    <summary>Nora Kelly [2]: Leyendas apaches, minas abandonadas y experimentos secretos en la segunda entrega de la nueva serie de Preston &amp;amp; Child que mezcla arqueología, historia, asesinato y suspense. Corrie Swanson, joven agente del FBI, se enfrenta al de...</summary>
-    <link href="../book_0/book_513.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La alcoba escondida</title>
-    <id>calibre:book:353</id>
-    <updated>2023-02-23T01:18:58Z</updated>
-    <link href="../../Almudena%20Navarro/La%20alcoba%20escondida%20%28353%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Almudena%20Navarro/La%20alcoba%20escondida%20%28353%29/La%20alcoba%20escondida%20-%20Almudena%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="588 KB" />
-    <author>
-      <name>Almudena Navarro</name>
-      <uri>../authors_0/authors_248_Page_1.xml</uri>
-    </author>
-    <published>2013-11-01T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Roca Editorial</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Histórico" />
-    <category term="Lang:es" />
-    <summary>Una apasionante novela ambientada en un pequeño pueblo manchego en los tiempos convulsos de la Segunda República que conjuga amor, política y ambición. Doña Enriqueta, la pistolera, es una mujer fuerte que controla férreamente la vida en la comarca e...</summary>
-    <link href="../book_0/book_353.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_A_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 10)" />
-  <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
-  <link href="../allbooks/allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
+  <link href="../allbooks/allbooks_A_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 11)" />
+  <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />
+  <link href="../allbooks/allbooks_A_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

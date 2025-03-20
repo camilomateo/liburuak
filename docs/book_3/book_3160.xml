@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Respeta mis putos límites</title>
+  <id>urn:book:ad492cc6-b371-4cba-bb37-ca9a5021b6aa</id>
+  <updated>2025-03-14T02:34:11Z</updated>
+  <link href="./book_3160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Respeta mis putos límites" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../../Dra.%20Faith%20G.%20Harper/Respeta%20mis%20putos%20limites%20%283160%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Dra.%20Faith%20G.%20Harper/Respeta%20mis%20putos%20limites%20%283160%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Dra.%20Faith%20G.%20Harper/Respeta%20mis%20putos%20limites%20%283160%29/Respeta%20mis%20putos%20limites%20-%20Dra.%20Faith%20G.%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="544 KB" />
+  <author>
+    <name>Dra. Faith G. Harper</name>
+    <uri>../authors_0/authors_987_Page_1.xml</uri>
+  </author>
+  <published>2024-12-11T11:12:18Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p style="font-weight: bold">VUELVE LA AUTORA DEL
+      FENÓMENO INTERNACIONAL CALMA TU PUTA CABEZA.</p>
+      <p style="font-weight: bold">¿ESTÁS AGOTADA?
+      ¿NO SE TIENE EN CUENTA TU OPINIÓN? ¿NO PARAN
+      DE DELEGARTE MÁS Y MÁS TAREAS Y YA NO SABES
+      DÓNDE METERTE? ¿ESTÁS HARTA DE PRIORIZAR LAS
+      NECESIDADES DE LOS DEMÁS?</p>
+      <p>Si has respondido «sí» a alguna de estas
+      preguntas, necesitas urgentemente establecer unos
+      límites.</p>
+      <p>Cuando decimos «basta» con asertividad,
+      construimos una base sólida en un mundo incierto en el
+      que la salud mental está constantemente en peligro. Con
+      esta guía sabrás cómo forjar algunas
+      líneas rojas para sentirte segura entre desconocidos y
+      en tus relaciones más cercanas. La Dra. Faith G. Harper
+      (Calma tu puta cabeza) te da las claves para hacer
+      frente a una realidad: no puedes controlar lo que hacen las
+      personas que se comportan como imbéciles, pero puedes
+      tomar decisiones saludables para ti y controlar cómo
+      comunicas tus necesidades para sentirte más libre que
+      nunca.</p>
+      <p>Respeta mis putos límites incluye, además, un
+      cuaderno de ejercicios para trazar un plan de acción y
+      salvar tanto nuestras relaciones como a nosotras mismas.</p>
+    </div>
+  </content>
+  <link href="../authors_0/authors_987_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Dra. Faith G. Harper" />
+</entry>

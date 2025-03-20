@@ -15,6 +15,25 @@
   <link href="./allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with D" />
   <link href="../allbooks/allbooks_D_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 6)" />
   <entry>
+    <title>El dedo en la boca y Las estatuas de agua</title>
+    <id>calibre:book:3067</id>
+    <updated>2025-02-19T09:18:47Z</updated>
+    <link href="../../Fleur%20Jaeggy/El%20dedo%20en%20la%20boca%20y%20Las%20estatuas%20d%20%283067%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fleur%20Jaeggy/El%20dedo%20en%20la%20boca%20y%20Las%20estatuas%20d%20%283067%29/El%20dedo%20en%20la%20boca%20y%20Las%20estatu%20-%20Fleur%20Jaeggy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="451 KB" />
+    <author>
+      <name>Fleur Jaeggy</name>
+      <uri>../authors_1/authors_1934_Page_1.xml</uri>
+    </author>
+    <published>2024-12-09T10:35:05Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Dos novelas con las que la autora de culto Fleur Jaeggy inició su andadura, reunidas en un volumen.
+«Una escritora maravillosa, brillante, salvaje.» Susan Sontag
+«Duración de la lectura: aproximadamente cuatro horas. Duración del recuerdo, y de la au...</summary>
+    <link href="../book_3/book_3067.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Lo demás es silencio</title>
     <id>calibre:book:1588</id>
     <updated>2024-06-02T10:59:54Z</updated>
@@ -446,23 +465,6 @@ Sara Ferrer, psicóloga y profesora de yoga, acaba de muda...</summary>
     <category term="Biblioteca PruébaT" />
     <summary>Biblioteca PruébaT [212]:</summary>
     <link href="../book_2/book_2150.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Los dos lados</title>
-    <id>calibre:book:5</id>
-    <updated>2023-01-17T09:15:30Z</updated>
-    <link href="../../Teresa%20Cardona/Los%20dos%20lados%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Teresa%20Cardona/Los%20dos%20lados%20%285%29/Los%20dos%20lados%20-%20Teresa%20Cardona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="654 KB" />
-    <author>
-      <name>Teresa Cardona</name>
-      <uri>../authors_0/authors_4_Page_1.xml</uri>
-    </author>
-    <published>2022-03-07T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Siruela</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Arde el suelo de granito y solo el rechinar de las cigarras perturba el apacible y familiar verano de San Lorenzo de El Escorial. Sus habitantes, acostumbrados a los rigores de la sierra, se quejan de la ola de calor, resguardándose a la sombra de lo...</summary>
-    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_D_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 6)" />
   <link href="../allbooks/allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 6)" />

@@ -133,6 +133,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Trilogía de los Tres Cuerpos</title>
+    <id>Calibre2opds::serieslist:Tseries:278</id>
+    <content type="text">El bosque oscuro</content>
+    <link href="../series_0/series_278_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Trilogía medieval</title>
     <id>Calibre2opds::serieslist:Tseries:101</id>
     <content type="text">El Castillo</content>

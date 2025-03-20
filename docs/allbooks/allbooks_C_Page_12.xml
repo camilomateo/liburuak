@@ -15,6 +15,27 @@
   <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with C" />
   <link href="../allbooks/allbooks_C_Page_13.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (13 of 15)" />
   <entry>
+    <title>El cementerio de Venecia</title>
+    <id>calibre:book:1457</id>
+    <updated>2024-04-30T04:46:08Z</updated>
+    <link href="../../Matteo%20Strukul/El%20cementerio%20de%20Venecia%20%281457%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matteo%20Strukul/El%20cementerio%20de%20Venecia%20%281457%29/El%20cementerio%20de%20Venecia%20-%20Matteo%20Strukul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="501 KB" />
+    <author>
+      <name>Matteo Strukul</name>
+      <uri>../authors_0/authors_477_Page_1.xml</uri>
+    </author>
+    <published>2024-04-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Historical" />
+    <category term="General" />
+    <category term="Thrillers" />
+    <category term="Lang:es" />
+    <summary>Una ciudad diezmada por la enfermedad y la corrupción. Una diabólica conspiración que amenaza con derrocar a la poderosa aristocracia veneciana. La nueva novela del autor de Los Médici. Venecia, 1725. Mientras una epidemia de viruela siembra de vícti...</summary>
+    <link href="../book_1/book_1457.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Las cenizas de Angela. Edición 20 aniversario</title>
     <id>calibre:book:550</id>
     <updated>2023-04-11T09:33:24Z</updated>
@@ -430,23 +451,6 @@
     <category term="century" />
     <category term="Lang:es" />
     <link href="../book_2/book_2131.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El club mefisto</title>
-    <id>calibre:book:18</id>
-    <updated>2023-01-17T10:11:54Z</updated>
-    <link href="../../Tess%20Gerritsen/El%20club%20mefisto%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Tess%20Gerritsen/El%20club%20mefisto%20%2818%29/El%20club%20mefisto%20-%20Tess%20Gerritsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="660 KB" />
-    <author>
-      <name>Tess Gerritsen</name>
-      <uri>../authors_0/authors_16_Page_1.xml</uri>
-    </author>
-    <published>2022-11-28T05:19:59Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Jentas</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El Club Mefisto es el sexto libro de la afamada serie Rizzoli &amp; Isles y la inspiración detrás de el éxito televisivo.'HE PECADO'Las palabras están escritas con sangre en la escena del crimen más atroz que la patóloga forense Maura Isles y la detectiv...</summary>
-    <link href="../book_0/book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_C_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (11 of 15)" />
   <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 15)" />

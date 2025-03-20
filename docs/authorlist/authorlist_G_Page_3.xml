@@ -16,6 +16,14 @@
   <link href="./authorlist_G_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="../authorlist/authorlist_G_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 5)" />
   <entry>
+    <title>Ángeles Gil</title>
+    <id>Calibre2opds:authors:712</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_712_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Charlotte Perkins Gilman</title>
     <id>Calibre2opds:authors:1636</id>
     <content type="text">2 books</content>
@@ -204,14 +212,6 @@
     <id>Calibre2opds:authors:1377</id>
     <content type="text">2 books</content>
     <link href="../authors_1/authors_1377_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Julien Gracq</title>
-    <id>Calibre2opds:authors:994</id>
-    <content type="text">La casa</content>
-    <link href="../authors_0/authors_994_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

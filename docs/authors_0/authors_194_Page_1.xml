@@ -16,7 +16,7 @@
   <entry>
     <title>All books by Anne Jacobs</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the 2 books</content>
+    <content type="text">Alphabetical index of the 3 books</content>
     <link href="../authors_0/authors_194_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -24,7 +24,7 @@
   <entry>
     <title>Series: El Café del Ángel</title>
     <id>Calibre2opds:authors:194series:232</id>
-    <content type="text">Aires de libertad</content>
+    <content type="text">2 books</content>
     <link href="../authors_0/authors_194_series_232_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

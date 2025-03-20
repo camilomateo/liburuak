@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La casa de la Riviera</title>
+  <id>urn:book:20e50a7f-fed2-4314-98c3-f050137bc0b4</id>
+  <updated>2025-03-14T02:34:11Z</updated>
+  <link href="./book_3161.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La casa de la Riviera" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../authorlist/authorlist_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../../Natasha%20Lester/La%20casa%20de%20la%20Riviera%20%283161%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Natasha%20Lester/La%20casa%20de%20la%20Riviera%20%283161%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Natasha%20Lester/La%20casa%20de%20la%20Riviera%20%283161%29/La%20casa%20de%20la%20Riviera%20-%20Natasha%20Lester.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="918 KB" />
+  <author>
+    <name>Natasha Lester</name>
+    <uri>../authors_1/authors_1994_Page_1.xml</uri>
+  </author>
+  <published>2025-02-28T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Vidis</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>París, 1939. Los nazis creen que Éliane no
+      entiende alemán y que no sabe que están robando los
+      tesoros del Louvre: están equivocados. No se imaginan
+      que está decodificando sus notas e informando a la
+      Resistencia, pero es un juego peligroso. ¿Se
+      atreverá a confiar sus secretos al hombre que una vez
+      amó? ¿La traicionará una vez más? No
+      tiene forma de saberlo con certeza hasta que un viaje a una
+      impresionante casa en la Riviera francesa trae consigo un
+      nivel de peligro completamente nuevo. 2021. Remy Lang se
+      dirige a una casa que heredó misteriosamente en la
+      Riviera tratando de olvidar una tragedia que ha dejado su
+      vida en ruinas. Allí descubre un catálogo de obras
+      de arte robadas durante la Segunda Guerra Mundial mientras
+      trabaja en su negocio de moda vintage, y se sorprende al
+      encontrar un cuadro que estaba colgado en la pared de su
+      habitación de la infancia. ¿Quién es realmente
+      su familia? ¿Y si la casa de la Riviera guarda más
+      secretos de los que Remy podría soportar?</p>
+    </div>
+  </content>
+  <link href="../authors_1/authors_1994_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Natasha Lester" />
+</entry>

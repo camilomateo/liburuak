@@ -12,448 +12,464 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
-  <link href="../recent/recent_TWOMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 3)" />
+  <link href="../recent/recent_TWOMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 9)" />
   <entry>
-    <title>El borde cortante [February 4, 2025]</title>
-    <id>calibre:book:2882</id>
-    <updated>2025-02-04T08:23:48Z</updated>
-    <link href="../../Gines%20Sanchez/El%20borde%20cortante%20%282882%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gines%20Sanchez/El%20borde%20cortante%20%282882%29/El%20borde%20cortante%20-%20Gines%20Sanchez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="509 KB" />
+    <title>Bóvedas de acero (Traducción de Luis G. Prado) [February 14, 2025]</title>
+    <id>calibre:book:3059</id>
+    <updated>2025-02-14T00:03:59Z</updated>
+    <link href="../../Isaac%20Asimov/Bovedas%20de%20acero%20%28Traduccion%20de%20Lui%20%283059%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Bovedas%20de%20acero%20%28Traduccion%20de%20Lui%20%283059%29/Bovedas%20de%20acero%20%28Traduccion%20de%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="279 KB" />
     <author>
-      <name>Ginés Sánchez</name>
-      <uri>../authors_1/authors_1881_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2025-01-22T08:00:00Z</published>
+    <published>1953-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <summary>Tres adolescentes traman la huida de la institución psiquiátrica en la que están internadas. Tienen un plan para escaparse, la idea es pasar un fin de semana juntas, lejos del ambiente opresivo del psiquiátrico. Carrie, que ahora vive con su madre, s...</summary>
-    <link href="../book_2/book_2882.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>En el Enclave Espacial, a las afueras de la Ciudad de Nueva York, un científico de los Mundos Exteriores ha aparecido asesinado. El detective Elijah Baley tiene que ocuparse de este caso en la para él inquietante y odiosa compañía de un robot humanoi...</summary>
+    <link href="../book_3/book_3059.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las Iras [February 4, 2025]</title>
-    <id>calibre:book:2884</id>
-    <updated>2025-02-04T08:23:48Z</updated>
-    <link href="../../Pilar%20Adon/Las%20Iras%20%282884%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pilar%20Adon/Las%20Iras%20%282884%29/Las%20Iras%20-%20Pilar%20Adon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="253 KB" />
+    <title>El libro de los sucesos [February 14, 2025]</title>
+    <id>calibre:book:3060</id>
+    <updated>2025-02-14T00:03:59Z</updated>
+    <link href="../../Isaac%20Asimov/El%20libro%20de%20los%20sucesos%20%283060%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/El%20libro%20de%20los%20sucesos%20%283060%29/El%20libro%20de%20los%20sucesos%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="652 KB" />
     <author>
-      <name>Pilar Adón</name>
-      <uri>../authors_1/authors_1882_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2025-01-22T08:00:00Z</published>
+    <published>1978-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias naturales" />
     <category term="Lang:es" />
-    <summary>¿Puede surgir la belleza tras el horror? ¿Es posible el sosiego después de la venganza extrema? Los personajes de estos cuentos tan turbadores como hermosos, tan inquietantes como dotados de una sensibilidad feroz, aspiran a la calma, a vivir sin mie...</summary>
-    <link href="../book_2/book_2884.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>«Siempre me han embriagado ligeramente los hechos, y casi todos mis más de 200 libros han tratado, cuando menos de modo incidental, sobre ellos. Ahora he recopilado y editado este libro que se refiere únicamente a sucesos: una compilación especial pa...</summary>
+    <link href="../book_3/book_3060.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>¿Pero qué has hecho? [February 4, 2025]</title>
-    <id>calibre:book:2883</id>
-    <updated>2025-02-04T08:23:48Z</updated>
-    <link href="../../Shari%20Lapena/_Pero%20que%20has%20hecho_%20%282883%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Shari%20Lapena/_Pero%20que%20has%20hecho_%20%282883%29/_Pero%20que%20has%20hecho_%20-%20Shari%20Lapena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="698 KB" />
+    <title>Luces en el cielo [February 14, 2025]</title>
+    <id>calibre:book:3058</id>
+    <updated>2025-02-14T00:03:59Z</updated>
+    <link href="../../Isaac%20Asimov/Luces%20en%20el%20cielo%20%283058%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Luces%20en%20el%20cielo%20%283058%29/Luces%20en%20el%20cielo%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="378 KB" />
     <author>
-      <name>Shari Lapena</name>
-      <uri>../authors_0/authors_500_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2025-12-26T07:01:48Z</published>
+    <published>1977-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>SUMA</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Ciencias naturales" />
+    <category term="Ciencias sociales" />
     <category term="Lang:es" />
-    <summary>En el somnoliento pueblo de Fairhill nunca pasa nada.Los adolescentes se divierten contando historias de terror en el antiguo cementerio. Los padres confían en que sus hijos llegarán a casa del colegio sanos y salvos. Todos se conocen. Nadie vigila d...</summary>
-    <link href="../book_2/book_2883.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Diecisiete ensayos en los cuales el sorprendente Isaac Asimov hace una vez más revelaciones insospechadas. Aquí encontramos explicaciones acerca de las Edades del Hielo (y anuncios en cuanto a la proximidad de la que reinará en el mundo); teorías ace...</summary>
+    <link href="../book_3/book_3058.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Asesinato en la Casa Rosa [February 4, 2025]</title>
-    <id>calibre:book:2881</id>
-    <updated>2025-02-04T08:23:47Z</updated>
-    <link href="../../Arantza%20Portabales/Asesinato%20en%20la%20Casa%20Rosa%20%282881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arantza%20Portabales/Asesinato%20en%20la%20Casa%20Rosa%20%282881%29/Asesinato%20en%20la%20Casa%20Rosa%20-%20Arantza%20Portabales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="489 KB" />
+    <title>Guía de la Tierra y el espacio [February 14, 2025]</title>
+    <id>calibre:book:3057</id>
+    <updated>2025-02-14T00:03:59Z</updated>
+    <link href="../../Isaac%20Asimov/Guia%20de%20la%20Tierra%20y%20el%20espacio%20%283057%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Guia%20de%20la%20Tierra%20y%20el%20espacio%20%283057%29/Guia%20de%20la%20Tierra%20y%20el%20espacio%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="412 KB" />
     <author>
-      <name>Arantza Portabales</name>
-      <uri>../authors_0/authors_932_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2025-01-23T00:00:00Z</published>
+    <published>1990-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Lumen</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias naturales" />
     <category term="Lang:es" />
-    <summary>Mayo de 2024. La inspectora Iria Santaclara ha abandonado el servicio activo para cuidar de Ángel, su marido, convaleciente tras sufrir un ictus, cuando recibe la misteriosa llamada de Ulises Villamor, una de las fortunas más importantes del país y d...</summary>
-    <link href="../book_2/book_2881.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>¿Cuál es la edad del Universo? ¿Hay vida más allá del sistema solar? ¿De qué están hechos los planetas? ¿Qué es la luz del sol? ¿Qué es un asteroide? ¿Qué son las nebulosas? ¿Qué es el efecto Doppler? ¿Existe un centro del Universo? ¿Qué es un cometa...</summary>
+    <link href="../book_3/book_3057.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Haría cualquier cosa por ti [February 4, 2025]</title>
-    <id>calibre:book:2880</id>
-    <updated>2025-02-04T08:23:47Z</updated>
-    <link href="../../Pedro%20Camacho/Haria%20cualquier%20cosa%20por%20ti%20%282880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pedro%20Camacho/Haria%20cualquier%20cosa%20por%20ti%20%282880%29/Haria%20cualquier%20cosa%20por%20ti%20-%20Pedro%20Camacho.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="693 KB" />
+    <title>El otro [February 14, 2025]</title>
+    <id>calibre:book:3055</id>
+    <updated>2025-02-14T11:54:42Z</updated>
+    <link href="../../Ali%20Blood/El%20otro%20%283055%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ali%20Blood/El%20otro%20%283055%29/El%20otro%20-%20Ali%20Blood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="656 KB" />
     <author>
-      <name>Pedro Camacho</name>
-      <uri>../authors_1/authors_1880_Page_1.xml</uri>
+      <name>Ali Blood</name>
+      <uri>../authors_1/authors_1928_Page_1.xml</uri>
     </author>
-    <published>2024-09-24T11:00:00Z</published>
+    <published>2025-01-28T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Espasa</dcterms:publisher>
+    <dcterms:publisher>HarperCollins Ibérica</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Aprende todo lo necesario sobre el cuidado de tu bebé. La llegada de un hijo es una experiencia emocionante, pero también puede generar miedo e incertidumbre en los padres, sobre todo durante los primeros meses. Para ayudarlos a disfrutar de esta eta...</summary>
-    <link href="../book_2/book_2880.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>ELLA HA SEGUIDO ADELANTE. Tres años después del asesinato de su prometido, Gemma Morgan, por fin, está empezando a seguir adelante con su vida. ÉL YA NO ESTÁ. Pero justo cuando cree que todo ha vuelto a la normalidad, se da cuenta de que el nuevo hom...</summary>
+    <link href="../book_3/book_3055.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Amnesia [February 2, 2025]</title>
-    <id>calibre:book:2877</id>
-    <updated>2025-02-02T01:12:24Z</updated>
-    <link href="../../Francisco%20Lorenzo/Amnesia%20%282877%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Francisco%20Lorenzo/Amnesia%20%282877%29/Amnesia%20-%20Francisco%20Lorenzo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1017 KB" />
+    <title>Asesinato con diamantes [February 14, 2025]</title>
+    <id>calibre:book:3051</id>
+    <updated>2025-02-14T11:54:31Z</updated>
+    <link href="../../Lauren%20Munoz/Asesinato%20con%20diamantes%20%283051%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lauren%20Munoz/Asesinato%20con%20diamantes%20%283051%29/Asesinato%20con%20diamantes%20-%20Lauren%20Munoz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="862 KB" />
     <author>
-      <name>Francisco Lorenzo</name>
-      <uri>../authors_1/authors_1879_Page_1.xml</uri>
+      <name>Lauren Muñoz</name>
+      <uri>../authors_1/authors_1925_Page_1.xml</uri>
     </author>
-    <published>2025-01-16T00:00:00Z</published>
+    <published>2024-11-13T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <dcterms:publisher>Fandom Books</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>¿En quién confías si tus recuerdos no encajan con lo que te cuentan?En la vida de Arturo empiezan a ocurrir situaciones extrañas. Muy extrañas.Su pacífico hijo de diez años agrede a un compañero de clase.Sus vecinos lo acusan de ladrón, cuando él jam...</summary>
-    <link href="../book_2/book_2877.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Todos guardan un secreto. Todos tienen un motivo. Pero sólo uno ha traído un cuchillo a la fiesta... Para celebrar su graduación, Izzy Morales se une a su mejor amiga Kassidy y a cinco amigos en una elegante escapada ambientada en los años veinte en ...</summary>
+    <link href="../book_3/book_3051.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Vuelo nocturno [February 2, 2025]</title>
-    <id>calibre:book:2878</id>
-    <updated>2025-02-02T01:12:25Z</updated>
-    <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282878%29/Vuelo%20nocturno%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="286 KB" />
+    <title>Blanca navidad y café negro [February 14, 2025]</title>
+    <id>calibre:book:3048</id>
+    <updated>2025-02-14T11:54:31Z</updated>
+    <link href="../../Cleo%20Coyle/Blanca%20navidad%20y%20cafe%20negro%20%283048%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cleo%20Coyle/Blanca%20navidad%20y%20cafe%20negro%20%283048%29/Blanca%20navidad%20y%20cafe%20negro%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
-      <name>Antoine de Saint-Exupéry</name>
-      <uri>../authors_0/authors_989_Page_1.xml</uri>
+      <name>Cleo Coyle</name>
+      <uri>../authors_1/authors_1800_Page_1.xml</uri>
     </author>
-    <published>2024-01-09T00:00:00Z</published>
+    <published>2024-09-04T06:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
     <category term="Lang:es" />
-    <summary>Una emocionante novela llena de poesía y aventuras que narra las vidas de los pilotos y del personal de una compañía aérea de correos Latécoère, que buscaba abrir nuevas rutas en Sudamérica a finales de los años veintePublicada en 1931, Vuelo nocturn...</summary>
-    <link href="../book_2/book_2878.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Se acercan las fiestas y Clare Cosi explora nuevas maneras de traer alegría y clientes a su cafetería de Greenwich Village. Pero todo su espíritu navideño se esfuma por completo cuando encuentra a Papá Noel muerto en la nieve. Ni en estas fechas seña...</summary>
+    <link href="../book_3/book_3048.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Sólo un día más [February 2, 2025]</title>
-    <id>calibre:book:2875</id>
-    <updated>2025-02-02T01:10:19Z</updated>
-    <link href="../../Susana%20Fortes/Solo%20un%20dia%20mas%20%282875%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Susana%20Fortes/Solo%20un%20dia%20mas%20%282875%29/Solo%20un%20dia%20mas%20-%20Susana%20Fortes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="749 KB" />
+    <title>La chica de la limpieza [February 14, 2025]</title>
+    <id>calibre:book:3049</id>
+    <updated>2025-02-14T11:54:31Z</updated>
+    <link href="../../Loreth%20Anne%20White/La%20chica%20de%20la%20limpieza%20%283049%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Loreth%20Anne%20White/La%20chica%20de%20la%20limpieza%20%283049%29/La%20chica%20de%20la%20limpieza%20-%20Loreth%20Anne%20White.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="693 KB" />
     <author>
-      <name>Susana Fortes</name>
-      <uri>../authors_1/authors_1878_Page_1.xml</uri>
+      <name>Loreth Anne White</name>
+      <uri>../authors_1/authors_1923_Page_1.xml</uri>
     </author>
-    <published>2025-01-14T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Espasa</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Desde que Beatriz guio a Dante hasta las puertas del Paraíso, la fuerza invencible que ha impulsado el mundo (y a la literatura) no son los amores felices, sino los contrariados. En una Valencia invernal la protagonista, una escritora en horas bajas ...</summary>
-    <link href="../book_2/book_2875.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_3/book_3049.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El grito [February 2, 2025]</title>
-    <id>calibre:book:2872</id>
-    <updated>2025-02-02T01:10:18Z</updated>
-    <link href="../../Yrsa%20Sigurdardottir/El%20grito%20%282872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Yrsa%20Sigurdardottir/El%20grito%20%282872%29/El%20grito%20-%20Yrsa%20Sigurdardottir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="496 KB" />
+    <title>Las hijas del volcán [February 14, 2025]</title>
+    <id>calibre:book:3053</id>
+    <updated>2025-02-14T11:54:31Z</updated>
+    <link href="../../Gina%20Maria%20Balibrera/Las%20hijas%20del%20volcan%20%283053%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gina%20Maria%20Balibrera/Las%20hijas%20del%20volcan%20%283053%29/Las%20hijas%20del%20volcan%20-%20Gina%20Maria%20Balibrera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Yrsa Sigurdardóttir</name>
-      <uri>../authors_0/authors_63_Page_1.xml</uri>
+      <name>Gina María Balibrera</name>
+      <uri>../authors_1/authors_1927_Page_1.xml</uri>
     </author>
-    <published>2025-01-15T06:00:00Z</published>
+    <published>2024-10-02T01:04:11Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <dcterms:publisher>Planeta México</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Una mujer es asesinada de forma macabra y sólo hay un testigo: su hija de siete años, que permaneció escondida bajo la cama y que ahora es incapaz de hablar. El detective de la policía islandesa Huldar, que se enfrenta a su primer caso importante tra...</summary>
-    <link href="../book_2/book_2872.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>CADA MITO, CADA HISTORIA, TIENE AL MENOS DOS VERSIONES... DEPENDIENDO DE QUIÉN CUENTA LA HISTORIA Y DE QUIÉN LA ESCUCHA. Una original y arrolladora novela sobre dos hermanas que escapan de un genocidio, y el viaje que las lleva de Hollywood a París, ...</summary>
+    <link href="../book_3/book_3053.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La guardiana de secretos [February 2, 2025]</title>
-    <id>calibre:book:2873</id>
-    <updated>2025-02-02T01:10:18Z</updated>
-    <link href="../../Rosa%20Huertas/La%20guardiana%20de%20secretos%20%282873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rosa%20Huertas/La%20guardiana%20de%20secretos%20%282873%29/La%20guardiana%20de%20secretos%20-%20Rosa%20Huertas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="644 KB" />
+    <title>La lavandería de almas de Marigold [February 14, 2025]</title>
+    <id>calibre:book:3052</id>
+    <updated>2025-02-14T11:54:31Z</updated>
+    <link href="../../Yoon%20Jeong-Eun/La%20lavanderia%20de%20almas%20de%20Marigold%20%283052%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yoon%20Jeong-Eun/La%20lavanderia%20de%20almas%20de%20Marigold%20%283052%29/La%20lavanderia%20de%20almas%20de%20Marig%20-%20Yoon%20Jeong-Eun.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="562 KB" />
     <author>
-      <name>Rosa Huertas</name>
-      <uri>../authors_0/authors_226_Page_1.xml</uri>
+      <name>Yoon Jeong-Eun</name>
+      <uri>../authors_1/authors_1926_Page_1.xml</uri>
     </author>
-    <published>2025-01-16T00:00:00Z</published>
+    <published>2025-01-27T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <dcterms:publisher>EDICIONES URANO</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Un homenaje a una mujer avanzada a su época. Un emotivo relato contra el silencio y el olvido. La apasionante vida deCarmen de Burgos.«Libre y combativa».El País«Adelantada a su tiempo».El Mundo«Una mujer que se salió de todos los moldes».La Vanguard...</summary>
-    <link href="../book_2/book_2873.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Te damos la bienvenida a Marigold Mind Laundry, donde lavamos las manchas de tu corazón. En esta encantadora historia, que ha sido todo un éxito de ventas en Corea, la enigmática dueña de una lavandería mágica que borra los recuerdos dolorosos de las...</summary>
+    <link href="../book_3/book_3052.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Miss Merkel. Asesinato en alta mar [February 2, 2025]</title>
-    <id>calibre:book:2874</id>
-    <updated>2025-02-02T01:10:19Z</updated>
-    <link href="../../David%20Safier/Miss%20Merkel.%20Asesinato%20en%20alta%20mar%20%282874%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Safier/Miss%20Merkel.%20Asesinato%20en%20alta%20mar%20%282874%29/Miss%20Merkel.%20Asesinato%20en%20alta%20-%20David%20Safier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="604 KB" />
+    <title>Pregunta por Andrea [February 14, 2025]</title>
+    <id>calibre:book:3050</id>
+    <updated>2025-02-14T11:54:31Z</updated>
+    <link href="../../Noelle%20W.%20Ihli/Pregunta%20por%20Andrea%20%283050%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Noelle%20W.%20Ihli/Pregunta%20por%20Andrea%20%283050%29/Pregunta%20por%20Andrea%20-%20Noelle%20W.%20Ihli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="599 KB" />
     <author>
-      <name>David Safier</name>
-      <uri>../authors_1/authors_1877_Page_1.xml</uri>
+      <name>Noelle W. Ihli</name>
+      <uri>../authors_1/authors_1924_Page_1.xml</uri>
     </author>
-    <published>2024-12-13T00:12:48Z</published>
+    <published>2025-01-26T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="Miss Merkel" />
-    <summary>Miss Merkel [3]: Angela Merkel está contando los días para comenzar un emocionante crucero con su esposo Achim, su guardaespaldas, la novia de este, y su fiel perrito Putin. Este es un viaje temático basado en la novela negra donde reconocidos escrit...</summary>
-    <link href="../book_2/book_2874.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Un seductor letal. Tres víctimas. Una venganza que desafiará los límites de la muerte.Brecia, Skye y Meghan no se conocen y no tienen nada en común, hasta que las tres mueren a manos del mismo asesino en serie.El hombre busca a sus víctimas en intern...</summary>
+    <link href="../book_3/book_3050.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Lo que habita en los sueños [February 2, 2025]</title>
-    <id>calibre:book:2870</id>
-    <updated>2025-02-02T01:10:17Z</updated>
-    <link href="../../Nagore%20Suarez/Lo%20que%20habita%20en%20los%20suenos%20%282870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nagore%20Suarez/Lo%20que%20habita%20en%20los%20suenos%20%282870%29/Lo%20que%20habita%20en%20los%20suenos%20-%20Nagore%20Suarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="721 KB" />
+    <title>La ganadora [February 14, 2025]</title>
+    <id>calibre:book:3046</id>
+    <updated>2025-02-14T11:54:30Z</updated>
+    <link href="../../C.J.%20Parsons/La%20ganadora%20%283046%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../C.J.%20Parsons/La%20ganadora%20%283046%29/La%20ganadora%20-%20C.J.%20Parsons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="501 KB" />
     <author>
-      <name>Nagore Suárez</name>
-      <uri>../authors_0/authors_702_Page_1.xml</uri>
+      <name>C.J. Parsons</name>
+      <uri>../authors_1/authors_1921_Page_1.xml</uri>
     </author>
-    <published>2024-12-09T09:40:53Z</published>
+    <published>2024-12-16T04:08:27Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Florencia, 1938. Para Manuela, una joven educada en la complacencia, conocer a Ava, misteriosa y autónoma, en una escuela para chicas en la capital de la Toscana, representa cruzar las fronteras de un mundo inexplorado: atreverse a ser ella misma ale...</summary>
-    <link href="../book_2/book_2870.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Heather pensaba que la vida le había pasado de largo hasta que le tocó participar en la lujosa lotería de la Triple F, donde la fama, la fortuna y los fans aguardan a doce afortunados ganadores.Las normas son sencillas: vive con el estilo de vida de ...</summary>
+    <link href="../book_3/book_3046.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Unidas por el sol naciente [February 2, 2025]</title>
-    <id>calibre:book:2871</id>
-    <updated>2025-02-02T01:10:18Z</updated>
-    <link href="../../Heather%20Morris/Unidas%20por%20el%20sol%20naciente%20%282871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Heather%20Morris/Unidas%20por%20el%20sol%20naciente%20%282871%29/Unidas%20por%20el%20sol%20naciente%20-%20Heather%20Morris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>Golondrinas en agosto [February 14, 2025]</title>
+    <id>calibre:book:3047</id>
+    <updated>2025-02-14T11:54:30Z</updated>
+    <link href="../../Clara%20Fuertes/Golondrinas%20en%20agosto%20%283047%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Clara%20Fuertes/Golondrinas%20en%20agosto%20%283047%29/Golondrinas%20en%20agosto%20-%20Clara%20Fuertes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="374 KB" />
     <author>
-      <name>Heather Morris</name>
-      <uri>../authors_1/authors_1876_Page_1.xml</uri>
+      <name>Clara Fuertes</name>
+      <uri>../authors_1/authors_1922_Page_1.xml</uri>
     </author>
-    <published>2024-12-09T02:02:14Z</published>
+    <published>2024-12-17T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Espasa</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>El 14 de febrero de 1942, el Vyner Brooke, un barco mercante que transportaba a un grupo desesperado de expatriados que huían de Singapur fue hundido por bombarderos japoneses. Aunque muchos de los pasajeros se ahogaron de inmediato, Nesta, enfermera...</summary>
-    <link href="../book_2/book_2871.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>¿Cuánto tiempo hace falta para comenzar a contar una historia?Respiraré hondo, contaré hasta diez. Dejadme un momento cerrar los ojos, que pase el tiempo sin hacer nada, sin mirar de frente a la hoja en blanco. Parece un delito desafiarla. ¡Cuánta pa...</summary>
+    <link href="../book_3/book_3047.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Azul serenidad o la muerte de los seres queridos [February 2, 2025]</title>
-    <id>calibre:book:2868</id>
-    <updated>2025-02-02T01:10:16Z</updated>
-    <link href="../../Luis%20Mateo%20Diez/Azul%20serenidad%20o%20la%20muerte%20de%20los%20s%20%282868%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20Mateo%20Diez/Azul%20serenidad%20o%20la%20muerte%20de%20los%20s%20%282868%29/Azul%20serenidad%20o%20la%20muerte%20de%20l%20-%20Luis%20Mateo%20Diez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>Segunda Fundación [February 12, 2025]</title>
+    <id>calibre:book:3045</id>
+    <updated>2025-02-12T01:52:05Z</updated>
+    <link href="../../Isaac%20Asimov/Segunda%20Fundacion%20%283045%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Segunda%20Fundacion%20%283045%29/Segunda%20Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="436 KB" />
     <author>
-      <name>Luis Mateo Díez</name>
-      <uri>../authors_1/authors_1069_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2025-01-16T00:00:00Z</published>
+    <published>1952-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <summary>Novela ganadora del Premio Nacional de las Letras Españolas. El gran libro sobre el duelo de la literatura contemporánea en español, por el autor Premio Nacional de las Letras y Premio Cervantes.«[Un] libro bellísimo, que es a la postre un libro de c...</summary>
-    <link href="../book_2/book_2868.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Saga de la Fundación: Ciclo de Trantor" />
+    <summary>Saga de la Fundación: Ciclo de Trantor [5]: Hari Seldon predijo la caída del Imperio, y, con el fin de restaurar la civilización en el menor tiempo posible, creó dos Fundaciones.
+La primera fue establecida en Términus a plena luz del conocimiento púb...</summary>
+    <link href="../book_3/book_3045.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Los crímenes del caviar [February 2, 2025]</title>
-    <id>calibre:book:2869</id>
-    <updated>2025-02-02T01:10:17Z</updated>
-    <link href="../../Reyes%20Calderon/Los%20crimenes%20del%20caviar%20%282869%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Reyes%20Calderon/Los%20crimenes%20del%20caviar%20%282869%29/Los%20crimenes%20del%20caviar%20-%20Reyes%20Calderon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="819 KB" />
+    <title>Alpha Centauri, la estrella más próxima [February 12, 2025]</title>
+    <id>calibre:book:3038</id>
+    <updated>2025-02-12T01:51:57Z</updated>
+    <link href="../../Isaac%20Asimov/Alpha%20Centauri%2C%20la%20estrella%20mas%20pro%20%283038%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Alpha%20Centauri%2C%20la%20estrella%20mas%20pro%20%283038%29/Alpha%20Centauri%2C%20la%20estrella%20mas%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Reyes Calderón</name>
-      <uri>../authors_0/authors_962_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2024-12-10T00:21:02Z</published>
+    <published>1975-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias naturales" />
     <category term="Lang:es" />
-    <summary>Seis muertes simultáneas con una única conexión: un exclusivo y secreto grupo conocido como el Club del CaviarJuan Iturri, comandante de la Interpol, sabe que se la han jugado cuando su superior le cita en un lujoso restaurante para presentarle a dos...</summary>
-    <link href="../book_2/book_2869.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Ahora que la raza humana no está encerrada en la Tierra, y con colonias espaciales proyectadas para el futuro cercano, miramos hacia las estrellas con una nueva urgencia. En este libro informativo, Isaac Asimov habla de las estrellas de «nuestro veci...</summary>
+    <link href="../book_3/book_3038.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Manifiesto criminal [February 2, 2025]</title>
-    <id>calibre:book:2867</id>
-    <updated>2025-02-02T01:10:16Z</updated>
-    <link href="../../Colson%20Whitehead/Manifiesto%20criminal%20%282867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colson%20Whitehead/Manifiesto%20criminal%20%282867%29/Manifiesto%20criminal%20-%20Colson%20Whitehead.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="528 KB" />
+    <title>El código genético [February 12, 2025]</title>
+    <id>calibre:book:3040</id>
+    <updated>2025-02-12T01:51:57Z</updated>
+    <link href="../../Isaac%20Asimov/El%20codigo%20genetico%20%283040%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/El%20codigo%20genetico%20%283040%29/El%20codigo%20genetico%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Colson Whitehead</name>
-      <uri>../authors_1/authors_1874_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2024-11-28T00:00:00Z</published>
+    <published>1961-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Random House</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias naturales" />
     <category term="Lang:es" />
-    <category term="Ray Carney" />
-    <summary>Ray Carney [2]: Comienza la década de los setenta y la ciudad de Nueva York parece más sucia y peligrosa que nunca. Mientras en las calles de Harlem estalla una guerra abierta entre el Ejército Negro de Liberación y la policía estatal, Ray Carney, al...</summary>
-    <link href="../book_2/book_2867.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>En 1944 se descubrió que un compuesto químico, el ADN (ácido desoxirribonucleico), podía cambiar las bacterias. Posteriormente, descubrimientos acerca del ADN han permitido desde entonces incalculables avances científicos, uno de los cuales es el des...</summary>
+    <link href="../book_3/book_3040.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El recluso [February 2, 2025]</title>
-    <id>calibre:book:2864</id>
-    <updated>2025-02-02T01:10:15Z</updated>
-    <link href="../../Freida%20McFadden/El%20recluso%20%282864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Freida%20McFadden/El%20recluso%20%282864%29/El%20recluso%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="485 KB" />
+    <title>El fin de la eternidad (trad. Miguel López Genicio) [February 12, 2025]</title>
+    <id>calibre:book:3043</id>
+    <updated>2025-02-12T01:51:57Z</updated>
+    <link href="../../Isaac%20Asimov/El%20fin%20de%20la%20eternidad%20%28trad.%20Migue%20%283043%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/El%20fin%20de%20la%20eternidad%20%28trad.%20Migue%20%283043%29/El%20fin%20de%20la%20eternidad%20%28trad.%20M%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="532 KB" />
     <author>
-      <name>Freida McFadden</name>
-      <uri>../authors_1/authors_1108_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2024-11-15T00:01:08Z</published>
+    <published>1954-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <summary>De la autora superventas de La asistenta, llega un nuevo y adictivo thriller lleno de giros imprevistos y ecos de Rebeca.Victoria Barnett lo tiene todo. Una brillante carrera como enfermera. Un marido guapo y cariñoso. Un bonito hogar en las afueras ...</summary>
-    <link href="../book_2/book_2864.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Andrew Harlan ha cometido un crimen, pero su acto no es un simple delito. Porque la ley que ha quebrantado es la más importante de todas para un Ejecutor: la ley que impide que miles de años de historia sean borrados y reescritos de forma irreversibl...</summary>
+    <link href="../book_3/book_3043.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La reina de las bandidas [February 2, 2025]</title>
-    <id>calibre:book:2866</id>
-    <updated>2025-02-02T01:10:16Z</updated>
-    <link href="../../Parini%20Shroff/La%20reina%20de%20las%20bandidas%20%282866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Parini%20Shroff/La%20reina%20de%20las%20bandidas%20%282866%29/La%20reina%20de%20las%20bandidas%20-%20Parini%20Shroff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="413 KB" />
+    <title>El planeta que no estaba [February 12, 2025]</title>
+    <id>calibre:book:3041</id>
+    <updated>2025-02-12T01:51:57Z</updated>
+    <link href="../../Isaac%20Asimov/El%20planeta%20que%20no%20estaba%20%283041%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/El%20planeta%20que%20no%20estaba%20%283041%29/El%20planeta%20que%20no%20estaba%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="442 KB" />
     <author>
-      <name>Parini Shroff</name>
-      <uri>../authors_1/authors_1875_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2024-01-15T00:00:00Z</published>
+    <published>1975-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>RBA</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias naturales" />
     <category term="Lang:es" />
-    <summary>UNA COMEDIA NEGRA SOBRE SOBRE MUJERES QUE QUIEREN DESHACERSE DE SUS MARIDOS
- «Una historia reconfortante sobre un elenco de mujeres con la idea de asesinar a sus indeseables maridos. Una historia que demuestra que el antídoto contra cualquier circuns...</summary>
-    <link href="../book_2/book_2866.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Isaac Asimov es —junto con Carl Sagan— el más popular de los autores de divulgación científica, temática que —presuntamente árida— adquiere en sus manos el toque mágico necesario para llegar a apasionarnos. La totalidad de los ensayos incluidos en es...</summary>
+    <link href="../book_3/book_3041.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El ritmo de Harlem [February 2, 2025]</title>
-    <id>calibre:book:2865</id>
-    <updated>2025-02-02T01:10:15Z</updated>
-    <link href="../../Colson%20Whitehead/El%20ritmo%20de%20Harlem%20%282865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colson%20Whitehead/El%20ritmo%20de%20Harlem%20%282865%29/El%20ritmo%20de%20Harlem%20-%20Colson%20Whitehead.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="550 KB" />
+    <title>El primer Asimov [February 12, 2025]</title>
+    <id>calibre:book:3044</id>
+    <updated>2025-02-12T01:51:58Z</updated>
+    <link href="../../Isaac%20Asimov/El%20primer%20Asimov%20%283044%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/El%20primer%20Asimov%20%283044%29/El%20primer%20Asimov%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="687 KB" />
     <author>
-      <name>Colson Whitehead</name>
-      <uri>../authors_1/authors_1874_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2023-03-23T06:00:00Z</published>
+    <published>1971-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Random House</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <category term="Ray Carney" />
-    <summary>Ray Carney [1]: «Un autor que roza la maestría [...]. Whitehead se ha convertido en uno de los mejores novelistas de Estados Unidos».Sam Sacks, The Wall Street JournalRay Carney, hijo de un miembro de la mafia local y padre de familia modélico, regen...</summary>
-    <link href="../book_2/book_2865.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>El presente volumen recoge las más importantes narraciones del comienzo de su carrera literaria, breves obras maestras que le dieron fama mundial. Preceden a cada historia unas palabras del propio autor, en las que éste expone interesantes detalles b...</summary>
+    <link href="../book_3/book_3044.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Gladiadores, bestias y condenados [February 2, 2025]</title>
-    <id>calibre:book:2863</id>
-    <updated>2025-02-02T01:10:14Z</updated>
-    <link href="../../Alfonso%20Manas/Gladiadores%2C%20bestias%20y%20condenados%20%282863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alfonso%20Manas/Gladiadores%2C%20bestias%20y%20condenados%20%282863%29/Gladiadores%2C%20bestias%20y%20condenad%20-%20Alfonso%20Manas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="239 KB" />
+    <title>Los propios dioses [February 12, 2025]</title>
+    <id>calibre:book:3042</id>
+    <updated>2025-02-12T01:51:57Z</updated>
+    <link href="../../Isaac%20Asimov/Los%20propios%20dioses%20%283042%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Los%20propios%20dioses%20%283042%29/Los%20propios%20dioses%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="339 KB" />
     <author>
-      <name>Alfonso Mañas</name>
-      <uri>../authors_1/authors_1873_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2024-10-02T00:00:00Z</published>
+    <published>1971-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Almuzara</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <summary>Las crónicas brutales del Coliseo
-
-
-
-Los testimonios de los espectáculos que durante siete siglos estremecieron a Roma.
-
-
-
-Salimos del cine de ver Gladiator 2 y la duda nos asalta a todos ¿eran realmente así los espectáculos del Coliseo?
-
-
-
-El único ...</summary>
-    <link href="../book_2/book_2863.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Solaris ficción" />
+    <summary>Solaris ficción [65]: El futuro. En un universo paralelo, con leyes físicas ligeramente distintas a las nuestras, sus habitantes descubren la forma de intercambiar materia con nosotros. Materia que, una vez en el universo de destino, y merced a las d...</summary>
+    <link href="../book_3/book_3042.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Una vida [January 30, 2025]</title>
-    <id>calibre:book:2861</id>
-    <updated>2025-01-30T10:16:38Z</updated>
-    <link href="../../Alejandro%20Palomas/Una%20vida%20%282861%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alejandro%20Palomas/Una%20vida%20%282861%29/Una%20vida%20-%20Alejandro%20Palomas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="656 KB" />
+    <title>La relatividad del error [February 12, 2025]</title>
+    <id>calibre:book:3039</id>
+    <updated>2025-02-12T01:51:57Z</updated>
+    <link href="../../Isaac%20Asimov/La%20relatividad%20del%20error%20%283039%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/La%20relatividad%20del%20error%20%283039%29/La%20relatividad%20del%20error%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="334 KB" />
     <author>
-      <name>Alejandro Palomas</name>
-      <uri>../authors_0/authors_664_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2024-12-16T04:10:06Z</published>
+    <published>1987-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias naturales" />
     <category term="Lang:es" />
-    <summary>VUELVE AMALIA. VUELVE UNA MADRE. El cierre de un universo que ha conquistado a más de 150.000 lectores.¿Cuánto sabe una madre? ¿Cuánto calla, cuánto dice, cuánto miente? Mientras las madres viven, los hijos somos hijos por encima de todo: más hijos q...</summary>
-    <link href="../book_2/book_2861.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Los ensayos de Isaac Asimov que integran el presente volumen están agrupados en tres partes. La primera está dedicada a cuestiones relacionadas con la constitución de la materia; la segunda trata del funcionamiento del sistema solar, y la tercera ana...</summary>
+    <link href="../book_3/book_3039.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El extraño que llegó del mar [January 30, 2025]</title>
-    <id>calibre:book:2859</id>
-    <updated>2025-01-30T10:16:37Z</updated>
-    <link href="../../Mitch%20Albom/El%20extrano%20que%20llego%20del%20mar%20%282859%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mitch%20Albom/El%20extrano%20que%20llego%20del%20mar%20%282859%29/El%20extrano%20que%20llego%20del%20mar%20-%20Mitch%20Albom.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="317 KB" />
+    <title>Banquetes de los Viudos Negros [February 12, 2025]</title>
+    <id>calibre:book:3036</id>
+    <updated>2025-02-12T01:51:56Z</updated>
+    <link href="../../Isaac%20Asimov/Banquetes%20de%20los%20Viudos%20Negros%20%283036%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Banquetes%20de%20los%20Viudos%20Negros%20%283036%29/Banquetes%20de%20los%20Viudos%20Negros%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="351 KB" />
     <author>
-      <name>Mitch Albom</name>
-      <uri>../authors_1/authors_1871_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2024-11-25T06:00:00Z</published>
+    <published>1983-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Maeva Ediciones</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <summary>Las respuestas a nuestras preguntas siempre están más cerca de lo que creemos.Una cautivadora novela sobre el poder in­finito de la esperanza, por el autor de Martes con mi viejo profesor.¿Qué pasaría si pidiéramos ayuda a Dios y este apareciera? El ...</summary>
-    <link href="../book_2/book_2859.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Los Viudos Negros" />
+    <summary>Los Viudos Negros [4]: Dotado de una imaginación extraordinaria, Isaac Asimov ha alcanzado una inmensa popularidad basada principalmente en su innegable talento para la divulgación científica y en una extensa producción de narraciones de ciencia-ficc...</summary>
+    <link href="../book_3/book_3036.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Gambito de Rey [January 30, 2025]</title>
-    <id>calibre:book:2858</id>
-    <updated>2025-01-30T10:16:37Z</updated>
-    <link href="../../Riccardo%20Braccaioli/Gambito%20de%20Rey%20%282858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Riccardo%20Braccaioli/Gambito%20de%20Rey%20%282858%29/Gambito%20de%20Rey%20-%20Riccardo%20Braccaioli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>La búsqueda de los elementos [February 12, 2025]</title>
+    <id>calibre:book:3035</id>
+    <updated>2025-02-12T01:51:56Z</updated>
+    <link href="../../Isaac%20Asimov/La%20busqueda%20de%20los%20elementos%20%283035%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/La%20busqueda%20de%20los%20elementos%20%283035%29/La%20busqueda%20de%20los%20elementos%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
     <author>
-      <name>Riccardo Braccaioli</name>
-      <uri>../authors_1/authors_1084_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2025-01-16T03:00:00Z</published>
+    <published>1961-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>BRALTON BOOKS</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias exactas" />
     <category term="Lang:es" />
-    <category term="Inspectora Olivia Wolf" />
-    <summary>Inspectora Olivia Wolf [3]: Olivia, una investigadora en potencial, se encuentra inmersa en una carrera contra el tiempo para localizar a su amigo que ha desaparecido, confrontando una red de corrupción que pone en peligro las bases de la academia. C...</summary>
-    <link href="../book_2/book_2858.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Tenemos ante nosotros un nuevo libro de Isaac Asimov en que nos cuenta la historia de la investigación, durante 2600 años, para investigar la materia de que está compuesto el Universo. Desde Tales de Mileto hasta Seaborg de California, de la alquimia...</summary>
+    <link href="../book_3/book_3035.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Hambre [January 30, 2025]</title>
-    <id>calibre:book:2855</id>
-    <updated>2025-01-30T10:16:37Z</updated>
-    <link href="../../Maribel%20Medina/Hambre%20%282855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maribel%20Medina/Hambre%20%282855%29/Hambre%20-%20Maribel%20Medina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="215 KB" />
+    <title>Cuentos completos I [February 12, 2025]</title>
+    <id>calibre:book:3032</id>
+    <updated>2025-02-12T01:51:56Z</updated>
+    <link href="../../Isaac%20Asimov/Cuentos%20completos%20I%20%283032%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Cuentos%20completos%20I%20%283032%29/Cuentos%20completos%20I%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
-      <name>Maribel Medina</name>
-      <uri>../authors_1/authors_1868_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2024-11-14T00:00:00Z</published>
+    <published>1989-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Contraluz Editorial</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Relato" />
+    <category term="Ciencia Ficción" />
     <category term="Lang:es" />
-    <summary>Una mañana, Sylvie se despierta y descubre mediante una nota escrita que su pareja la ha dejado. Por primera vez en años, se encuentra sola. La aplasta la vida diaria, con las ovejas y su mugre, las verduras podridas de la huerta, las botas embarrada...</summary>
-    <link href="../book_2/book_2855.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Lo que cualquier lector, entre los miles de seguidores de la obra de Asimov, siempre había anhelado: tener a su alcance la amplísima producción de cuentos que el autor llegó a elaborar. Este primer tomo de la colección completa de cuentos cortos de I...</summary>
+    <link href="../book_3/book_3032.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La pareja del siglo [January 30, 2025]</title>
-    <id>calibre:book:2857</id>
-    <updated>2025-01-30T10:16:37Z</updated>
-    <link href="../../Julia%20Schoch/La%20pareja%20del%20siglo%20%282857%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Julia%20Schoch/La%20pareja%20del%20siglo%20%282857%29/La%20pareja%20del%20siglo%20-%20Julia%20Schoch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="418 KB" />
+    <title>El electrón es zurdo y otros ensayos científicos [February 12, 2025]</title>
+    <id>calibre:book:3037</id>
+    <updated>2025-02-12T01:51:56Z</updated>
+    <link href="../../Isaac%20Asimov/El%20electron%20es%20zurdo%20y%20otros%20ensayo%20%283037%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/El%20electron%20es%20zurdo%20y%20otros%20ensayo%20%283037%29/El%20electron%20es%20zurdo%20y%20otros%20en%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="627 KB" />
     <author>
-      <name>Julia Schoch</name>
-      <uri>../authors_1/authors_1870_Page_1.xml</uri>
+      <name>Isaac Asimov</name>
+      <uri>../authors_1/authors_1907_Page_1.xml</uri>
     </author>
-    <published>2024-12-05T02:34:14Z</published>
+    <published>1963-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Maeva Ediciones</dcterms:publisher>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias naturales" />
     <category term="Lang:es" />
-    <summary>La vida transcurre entre dos frases cortas: «Te quiero» y «Te dejo»Un best seller literario con más de 200 000 ejemplares vendidos que deconstruye una relación de pareja: los comienzos, la felicidad, los altibajos, las dudas y la perseverancia.Despué...</summary>
-    <link href="../book_2/book_2857.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Esta nueva recopilación de artículos de divulgación científica escritos por ISAAC ASIMOV se abre con un divertido trabajo sobre la capacidad pronosticadora de la novela científica, al que siguen dos ensayos en torno a las leyes que gobiernan la expan...</summary>
+    <link href="../book_3/book_3037.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <link href="../recent/recent_TWOMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (3 of 3)" />
+  <link href="../recent/recent_TWOMONTHS_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
 </feed>

@@ -142,6 +142,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Miguel Gane</title>
+    <id>Calibre2opds:authors:1991</id>
+    <content type="text">Alguien a quien querer</content>
+    <link href="../authors_1/authors_1991_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>David Lozano Garbala</title>
     <id>Calibre2opds:authors:1063</id>
     <content type="text">Intruso</content>
@@ -202,14 +210,6 @@
     <id>Calibre2opds:authors:381</id>
     <content type="text">1 book</content>
     <link href="../authors_0/authors_381_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Luis García-Rey</title>
-    <id>Calibre2opds:authors:195</id>
-    <content type="text">Axel, Loor</content>
-    <link href="../authors_0/authors_195_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

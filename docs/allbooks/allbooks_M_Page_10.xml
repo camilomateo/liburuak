@@ -15,6 +15,23 @@
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
   <link href="../allbooks/allbooks_M_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (11 of 11)" />
   <entry>
+    <title>Una mujer insignificante</title>
+    <id>calibre:book:1644</id>
+    <updated>2024-06-22T02:04:43Z</updated>
+    <link href="../../Catalina%20Murillo/Una%20mujer%20insignificante%20%281644%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Catalina%20Murillo/Una%20mujer%20insignificante%20%281644%29/Una%20mujer%20insignificante%20-%20Catalina%20Murillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="297 KB" />
+    <author>
+      <name>Catalina Murillo</name>
+      <uri>../authors_1/authors_1188_Page_1.xml</uri>
+    </author>
+    <published>2024-02-29T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Lo que hace cien años era una mujer enamorada, hoy es una mujer medicada».Pido perdón por lo que a continuación voy a relatar, pregunto. Aunque, ¿a quién podría ya pedirle perdón? No tengo inclinación a hablar con gente muerta , me espanta la posibi...</summary>
+    <link href="../book_1/book_1644.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La mujer que arañaba las paredes</title>
     <id>calibre:book:1657</id>
     <updated>2024-07-07T03:32:36Z</updated>
@@ -454,24 +471,6 @@ Desde 2001 más de dos millones de lectores en todo el mundo han optado por el m
     <category term="Lang:es" />
     <summary>Ikigai es la innovadora filosofía que está revolucionando el mundo.¿Sabes ya cuál es tu ikigai, cuál es tu «razón de ser»?Tras descubrir las claves de la motivación y la longevidad con Ikigai: los secretos de Japón para una vida larga y feliz (éxito ...</summary>
     <link href="../book_1/book_1244.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El método para vivir sin miedo</title>
-    <id>calibre:book:644</id>
-    <updated>2023-05-10T04:29:08Z</updated>
-    <link href="../../Rafael%20Santandreu/El%20metodo%20para%20vivir%20sin%20miedo%20%28644%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rafael%20Santandreu/El%20metodo%20para%20vivir%20sin%20miedo%20%28644%29/El%20metodo%20para%20vivir%20sin%20miedo%20-%20Rafael%20Santandreu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="556 KB" />
-    <author>
-      <name>Rafael Santandreu</name>
-      <uri>../authors_0/authors_185_Page_1.xml</uri>
-    </author>
-    <published>2023-04-12T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grijalbo</dcterms:publisher>
-    <category term="Autoayuda" />
-    <category term="Lang:es" />
-    <summary>Desde la publicación de Sin miedo y su famoso método de cuatro pasos, Rafael Santandreu empezó a recopilar en su canal de YouTube maravillosas historias de superación de la ansiedad, el trastorno obsesivo-compulsivo (TOC) y la hipocondría. Hoy esos t...</summary>
-    <link href="../book_0/book_644.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_M_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (9 of 11)" />
   <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />

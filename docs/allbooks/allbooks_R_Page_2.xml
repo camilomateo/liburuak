@@ -72,6 +72,23 @@
     <link href="../book_2/book_2498.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Respeta mis putos límites</title>
+    <id>calibre:book:3160</id>
+    <updated>2025-03-14T02:34:11Z</updated>
+    <link href="../../Dra.%20Faith%20G.%20Harper/Respeta%20mis%20putos%20limites%20%283160%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dra.%20Faith%20G.%20Harper/Respeta%20mis%20putos%20limites%20%283160%29/Respeta%20mis%20putos%20limites%20-%20Dra.%20Faith%20G.%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="544 KB" />
+    <author>
+      <name>Dra. Faith G. Harper</name>
+      <uri>../authors_0/authors_987_Page_1.xml</uri>
+    </author>
+    <published>2024-12-11T11:12:18Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>VUELVE LA AUTORA DEL FENÓMENO INTERNACIONAL CALMA TU PUTA CABEZA.¿ESTÁS AGOTADA? ¿NO SE TIENE EN CUENTA TU OPINIÓN? ¿NO PARAN DE DELEGARTE MÁS Y MÁS TAREAS Y YA NO SABES DÓNDE METERTE? ¿ESTÁS HARTA DE PRIORIZAR LAS NECESIDADES DE LOS DEMÁS?Si has res...</summary>
+    <link href="../book_3/book_3160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Respuesta a Sor Filotea de la Cruz</title>
     <id>calibre:book:2143</id>
     <updated>2024-09-06T02:21:22Z</updated>
@@ -451,24 +468,6 @@
     <category term="Lang:es" />
     <summary>Urga lleva 33.000 años congelada en un iceberg al lado de un pequeño mamut pero ahora, por culpa del cambio climático, se deshiela y tras echar un vistazo al presente casi preferiría congelarse de nuevo. Aun así, esta mujer de la Edad de Piedra es so...</summary>
     <link href="../book_2/book_2909.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Rompamos las reglas</title>
-    <id>calibre:book:188</id>
-    <updated>2023-01-26T07:16:20Z</updated>
-    <link href="../../Silvia%20Garcia%20Ruiz/Rompamos%20las%20reglas%20%28188%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Silvia%20Garcia%20Ruiz/Rompamos%20las%20reglas%20%28188%29/Rompamos%20las%20reglas%20-%20Silvia%20Garcia%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="592 KB" />
-    <author>
-      <name>Silvia Garcia Ruiz</name>
-      <uri>../authors_0/authors_122_Page_1.xml</uri>
-    </author>
-    <published>2022-05-16T01:38:04Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Esencia</dcterms:publisher>
-    <category term="Erótica" />
-    <category term="Lang:es" />
-    <summary>Candy Templeton descubrió desde bien pequeña que la vida no es sencilla y que hay muchos momentos en los que la gente la hará llorar. Decidida a enfrentarse a todos sus problemas con una sonrisa, creará una serie de reglas que le permitan alcanzar la...</summary>
-    <link href="../book_0/book_188.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 5)" />
   <link href="../allbooks/allbooks_R_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />

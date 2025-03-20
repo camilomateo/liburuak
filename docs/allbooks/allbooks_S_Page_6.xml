@@ -15,6 +15,27 @@
   <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with S" />
   <link href="../allbooks/allbooks_S_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 9)" />
   <entry>
+    <title>Sólo la oscuridad</title>
+    <id>calibre:book:292</id>
+    <updated>2023-02-09T11:32:42Z</updated>
+    <link href="../../William%20Mcilvanney/Solo%20la%20oscuridad%20%28292%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Mcilvanney/Solo%20la%20oscuridad%20%28292%29/Solo%20la%20oscuridad%20-%20William%20Mcilvanney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="522 KB" />
+    <author>
+      <name>William Mcilvanney</name>
+      <uri>../authors_0/authors_199_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Ian Rankin</name>
+      <uri>../authors_0/authors_200_Page_1.xml</uri>
+    </author>
+    <published>2023-01-18T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Al joven agente Jack Laidlaw no le gusta trabajar en equipo, pero tiene un sexto sentido para lo que ocurre en las calles. Su jefe atribuye la violencia a las rivalidades de siempre, pero ¿es así de sencillo? Cuando se inicia la guerra entre dos band...</summary>
+    <link href="../book_0/book_292.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Sólo para tus ojos</title>
     <id>calibre:book:2941</id>
     <updated>2025-02-10T05:58:39Z</updated>
@@ -429,25 +450,6 @@
     <category term="Lang:es" />
     <summary>Un escritor fracasado recibe una herencia por accidente. Un detective desesperado trabaja para pagar el tratamiento de su mujer. Una inspectora conflictiva descubre que la est&amp;aacute;n apartando de su trabajo. Una ambiciosa cazatesoros halla una leye...</summary>
     <link href="../book_1/book_1808.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El secreto de la vida</title>
-    <id>calibre:book:1979</id>
-    <updated>2024-09-05T06:10:29Z</updated>
-    <link href="../../Oscar%20Wilde/El%20secreto%20de%20la%20vida%20%281979%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Oscar%20Wilde/El%20secreto%20de%20la%20vida%20%281979%29/El%20secreto%20de%20la%20vida%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="367 KB" />
-    <author>
-      <name>Oscar Wilde</name>
-      <uri>../authors_0/authors_110_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Otros" />
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [215]: Del grueso de la obra de Oscar Wilde (la edición utilizada ha sido Oscar Wilde, The Complete Works, Londres, HarperCollins, 1994), se ha llevado a cabo una selección cronológica de aquellos textos que, más allá de su aparent...</summary>
-    <link href="../book_1/book_1979.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 9)" />
   <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

@@ -15,6 +15,26 @@
   <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with S" />
   <link href="../allbooks/allbooks_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 of 9)" />
   <entry>
+    <title>Steve Jobs &amp; Apple</title>
+    <id>calibre:book:2646</id>
+    <updated>2024-10-21T04:27:28Z</updated>
+    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/Steve%20Jobs%20%26%20Apple%20-%20Michael%20Moritz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="789 KB" />
+    <author>
+      <name>Michael Moritz</name>
+      <uri>../authors_1/authors_1740_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="memorias" />
+    <category term="Tecnología" />
+    <category term="Lang:es" />
+    <summary>La historia de Apple es en realidad la historia de Steve Jobs, líder carismático y con una capacidad extraordinaria para gestionar talentos y materializar su visión: productos innovadores, de extrema complejidad y de gran belleza. «Steve Jobs &amp; Apple...</summary>
+    <link href="../book_2/book_2646.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Steve Jobs: Lecciones de liderazgo</title>
     <id>calibre:book:2645</id>
     <updated>2024-10-26T00:32:32Z</updated>
@@ -454,27 +474,6 @@ Liam: Queríamos llevarlo a lo máximo, j*der, cada día, pasarlo en grande, cad
     <category term="Lang:es" />
     <summary>Retrato moral, histórico y político, "Séneca, la sabiduría del Imperio" analiza por vez primera este personaje esencial desde un contexto adecuado y completo. Así, se recoge con sumo detalle y de manera novedosa la relevancia de sus orígenes familiar...</summary>
     <link href="../book_2/book_2595.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Sólo la oscuridad</title>
-    <id>calibre:book:292</id>
-    <updated>2023-02-09T11:32:42Z</updated>
-    <link href="../../William%20Mcilvanney/Solo%20la%20oscuridad%20%28292%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../William%20Mcilvanney/Solo%20la%20oscuridad%20%28292%29/Solo%20la%20oscuridad%20-%20William%20Mcilvanney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="522 KB" />
-    <author>
-      <name>William Mcilvanney</name>
-      <uri>../authors_0/authors_199_Page_1.xml</uri>
-    </author>
-    <author>
-      <name>Ian Rankin</name>
-      <uri>../authors_0/authors_200_Page_1.xml</uri>
-    </author>
-    <published>2023-01-18T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Salamandra</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Al joven agente Jack Laidlaw no le gusta trabajar en equipo, pero tiene un sexto sentido para lo que ocurre en las calles. Su jefe atribuye la violencia a las rivalidades de siempre, pero ¿es así de sencillo? Cuando se inicia la guerra entre dos band...</summary>
-    <link href="../book_0/book_292.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 9)" />
   <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

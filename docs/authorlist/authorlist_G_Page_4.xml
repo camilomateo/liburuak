@@ -17,6 +17,14 @@
   <link href="./authorlist_G_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
   <link href="../authorlist/authorlist_G_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 5)" />
   <entry>
+    <title>Julien Gracq</title>
+    <id>Calibre2opds:authors:994</id>
+    <content type="text">La casa</content>
+    <link href="../authors_0/authors_994_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Claire Gradidge</title>
     <id>Calibre2opds:authors:752</id>
     <content type="text">1 book</content>
@@ -205,14 +213,6 @@
     <id>Calibre2opds:authors:1086</id>
     <content type="text">Ama tus miedos</content>
     <link href="../authors_1/authors_1086_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Nacho Guirado</title>
-    <id>Calibre2opds:authors:1903</id>
-    <content type="text">Sangre paga sangre</content>
-    <link href="../authors_1/authors_1903_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

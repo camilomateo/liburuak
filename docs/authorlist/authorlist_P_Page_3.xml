@@ -16,6 +16,14 @@
   <link href="./authorlist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
   <link href="../authorlist/authorlist_P_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 5)" />
   <entry>
+    <title>Claudia Piñeiro</title>
+    <id>Calibre2opds:authors:32</id>
+    <content type="text">Catedrales, Elena sabe</content>
+    <link href="../authors_0/authors_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Iñaki Piñuel</title>
     <id>Calibre2opds:authors:947</id>
     <content type="text">Libertad Zero</content>
@@ -204,14 +212,6 @@
     <id>Calibre2opds:authors:979</id>
     <content type="text">1 book</content>
     <link href="../authors_0/authors_979_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Rosella Postorino</title>
-    <id>Calibre2opds:authors:1888</id>
-    <content type="text">Me limitaba a amarte</content>
-    <link href="../authors_1/authors_1888_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

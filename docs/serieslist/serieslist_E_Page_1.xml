@@ -23,7 +23,7 @@
   <entry>
     <title>El Café del Ángel</title>
     <id>Calibre2opds::serieslist:Eseries:232</id>
-    <content type="text">Aires de libertad</content>
+    <content type="text">2 books</content>
     <link href="../series_0/series_232_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -153,6 +153,14 @@
     <id>Calibre2opds::serieslist:Eseries:73</id>
     <content type="text">Cicatrices del desastre</content>
     <link href="../series_0/series_73_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Escuadrón</title>
+    <id>Calibre2opds::serieslist:Eseries:279</id>
+    <content type="text">Estelar</content>
+    <link href="../series_0/series_279_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

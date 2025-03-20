@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ya no pisa la tierra tu rey</title>
+  <id>urn:book:cb79f5dd-eb7d-4d72-b94e-244e01cabcfb</id>
+  <updated>2025-03-14T02:34:12Z</updated>
+  <link href="./book_3168.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Ya no pisa la tierra tu rey" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../authorlist/authorlist_S_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../../Cristina%20Sanchez-Andrade/Ya%20no%20pisa%20la%20tierra%20tu%20rey%20%283168%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Cristina%20Sanchez-Andrade/Ya%20no%20pisa%20la%20tierra%20tu%20rey%20%283168%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Cristina%20Sanchez-Andrade/Ya%20no%20pisa%20la%20tierra%20tu%20rey%20%283168%29/Ya%20no%20pisa%20la%20tierra%20tu%20rey%20-%20Cristina%20Sanchez-Andrade.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="235 KB" />
+  <author>
+    <name>Cristina Sánchez-Andrade</name>
+    <uri>../authors_1/authors_1896_Page_1.xml</uri>
+  </author>
+  <published>2025-01-14T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>Una novela nada convencional en la que la estrecha
+      vida conventual contrasta con los excesos de la vida
+      palaciega.</p>
+      <p>A través de la perversa (y, a la vez, inocente)
+      mirada de unas monjas que juegan a no ser monjas,
+      construye Cristina Sánchez-Andrade este original relato
+      en el que la estrecha vida conventual contrasta con los
+      excesos de la vida palaciega.</p>
+      <p>Una abadesa excéntrica y resentida, cuya misteriosa
+      muerte es anunciada desde las primeras páginas, un
+      fraile que ha agotado su vida buscando a Dios por la vía
+      de la razón, un marqués pendenciero, su esposa,
+      doña Hilda, que va al convento a jurar su virginidad, un
+      extraño lacayo que hace pelotas de papel, una cocinera
+      que aspira a ser marquesa y, finalmente, el Rey que ya no
+      pisa la tierra, son los personajes que van entretejiendo esta
+      intrigante historia.</p>
+      <p>Una novela nada convencional, escrita con una prosa
+      sensual y lírica, en la que la soledad, el desamparo, la
+      dura tarea de ser, la libertad y la búsqueda de la
+      identidad personal aparecen como telón de fondo.</p>
+    </div>
+  </content>
+  <link href="../authors_1/authors_1896_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Cristina Sánchez-Andrade" />
+</entry>

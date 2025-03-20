@@ -70,6 +70,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>James Baldwin</title>
+    <id>Calibre2opds:authors:2000</id>
+    <content type="text">Ve y dilo en la montaña</content>
+    <link href="../authors_2/authors_2000_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Gina María Balibrera</title>
     <id>Calibre2opds:authors:1927</id>
     <content type="text">Las hijas del volcán</content>
@@ -202,14 +210,6 @@
     <id>Calibre2opds:authors:166</id>
     <content type="text">4 books</content>
     <link href="../authors_0/authors_166_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>J.D. Barker</title>
-    <id>Calibre2opds:authors:716</id>
-    <content type="text">El último juego</content>
-    <link href="../authors_0/authors_716_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

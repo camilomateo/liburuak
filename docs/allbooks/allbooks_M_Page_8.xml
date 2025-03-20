@@ -15,6 +15,23 @@
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
   <link href="../allbooks/allbooks_M_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 of 11)" />
   <entry>
+    <title>La memoria de las acuarelas</title>
+    <id>calibre:book:1400</id>
+    <updated>2024-04-08T02:46:19Z</updated>
+    <link href="../../Carmen%20Garcia-Gancedo/La%20memoria%20de%20las%20acuarelas%20%281400%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carmen%20Garcia-Gancedo/La%20memoria%20de%20las%20acuarelas%20%281400%29/La%20memoria%20de%20las%20acuarelas%20-%20Carmen%20Garcia-Gancedo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="555 KB" />
+    <author>
+      <name>Carmen Garcia-Gancedo</name>
+      <uri>../authors_1/authors_1027_Page_1.xml</uri>
+    </author>
+    <published>2024-02-22T04:08:15Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Click Ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una emocionante novela llena de intriga, sobre la ambición y la fama.En el barrio de Salamanca, en pleno centro de Madrid, un taxi se detiene frente a una sala de exposiciones muy cercana a la calle de Alcalá. Del coche se apea un hombre mayor, con e...</summary>
+    <link href="../book_1/book_1400.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La memoria del alambre</title>
     <id>calibre:book:987</id>
     <updated>2023-08-23T02:48:22Z</updated>
@@ -451,23 +468,6 @@ Hubo un tiempo en que los libros podían descubrir nuev...</summary>
     <category term="Lang:es" />
     <summary>En abril de 1912, la adinerada viuda de Peñasco tuvo un mal presentimiento mientras almorzaba en su palacete de Madrid. Algo les había pasado a su único hijo y su nuera, a quienes en ese momento creía en París, disfrutando de su luna de miel. La dama...</summary>
     <link href="../book_2/book_2724.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La mitad del mundo que fue de España</title>
-    <id>calibre:book:139</id>
-    <updated>2023-01-19T08:55:14Z</updated>
-    <link href="../../Ramon%20Tamames/La%20mitad%20del%20mundo%20que%20fue%20de%20Espan%20%28139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ramon%20Tamames/La%20mitad%20del%20mundo%20que%20fue%20de%20Espan%20%28139%29/La%20mitad%20del%20mundo%20que%20fue%20de%20E%20-%20Ramon%20Tamames.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="28 MB" />
-    <author>
-      <name>Ramón Tamames</name>
-      <uri>../authors_0/authors_87_Page_1.xml</uri>
-    </author>
-    <published>2021-03-18T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Espasa</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>En otro tiempo España estuvo al frente de las naciones, en cuanto a títulos de posesión y conquista, en lo que geográficamente fue medio mundo. Eso no sucedió por casualidad: al término de ocho siglos de reconquista en la Península, los españoles lle...</summary>
-    <link href="../book_0/book_139.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_M_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 11)" />
   <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />

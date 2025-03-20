@@ -12,7 +12,160 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
-  <link href="../recent/recent_THREEMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 3)" />
+  <link href="../recent/recent_THREEMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
+  <entry>
+    <title>Alma negra [January 16, 2025]</title>
+    <id>calibre:book:2807</id>
+    <updated>2025-01-16T08:08:29Z</updated>
+    <link href="../../Ibon%20Martin/Alma%20negra%20%282807%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ibon%20Martin/Alma%20negra%20%282807%29/Alma%20negra%20-%20Ibon%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="741 KB" />
+    <author>
+      <name>Ibon Martín</name>
+      <uri>../authors_0/authors_13_Page_1.xml</uri>
+    </author>
+    <published>2025-01-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Aunque hace décadas que las minas enmudecieron en los Montes de Hierro, en la quietud de la noche aún pueden oírse los lamentos desesperados de las almas que quedaron sepultadas en su vientre de roca. La aparición del cadáver de Teresa Echegaray, la ...</summary>
+    <link href="../book_2/book_2807.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cachemir rojo [January 16, 2025]</title>
+    <id>calibre:book:2801</id>
+    <updated>2025-01-16T08:08:28Z</updated>
+    <link href="../../Christiana%20Moreau/Cachemir%20rojo%20%282801%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Christiana%20Moreau/Cachemir%20rojo%20%282801%29/Cachemir%20rojo%20-%20Christiana%20Moreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="621 KB" />
+    <author>
+      <name>Christiana Moreau</name>
+      <uri>../authors_1/authors_1832_Page_1.xml</uri>
+    </author>
+    <published>2025-01-09T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El destino de tres mujeres unido por un hilo rojo de cachemir, desde Mongolia y China hasta Italia. Un viaje peligroso animado por los sueños y la ilusión.En el caleidoscopio de colores del mercado de Ordos, en China, hay uno que destaca por encima d...</summary>
+    <link href="../book_2/book_2801.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La dama en la sombra [January 16, 2025]</title>
+    <id>calibre:book:2800</id>
+    <updated>2025-01-16T08:08:28Z</updated>
+    <link href="../../Armin%20Ohri/La%20dama%20en%20la%20sombra%20%282800%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Armin%20Ohri/La%20dama%20en%20la%20sombra%20%282800%29/La%20dama%20en%20la%20sombra%20-%20Armin%20Ohri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="464 KB" />
+    <author>
+      <name>Armin Öhri</name>
+      <uri>../authors_1/authors_1831_Page_1.xml</uri>
+    </author>
+    <published>2024-11-04T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Impedimenta</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>En plena guerra austro-prusiana, el detective aficionado Julius Bentheim y su joven amigo Albrecht Krosick intentan sobrevivir en el campo de batalla hasta que son reclutados por el comisario Gideon Horlitz. Unas valiosas joyas pertenecientes al Impe...</summary>
+    <link href="../book_2/book_2800.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El día de los perdidos [January 16, 2025]</title>
+    <id>calibre:book:2806</id>
+    <updated>2025-01-16T08:08:29Z</updated>
+    <link href="../../Stiff%20Sullivan/El%20dia%20de%20los%20perdidos%20%282806%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stiff%20Sullivan/El%20dia%20de%20los%20perdidos%20%282806%29/El%20dia%20de%20los%20perdidos%20-%20Stiff%20Sullivan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Stiff Sullivan</name>
+      <uri>../authors_1/authors_1836_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <summary>El pueblo gallego de San Amaro ha aprendido a vivir con sus muertos. Diego, no. Tres años después de la inexplicable desaparición de su hermana y sus amigos, él sigue atrapado en el tormento de saber qué ocurrió aquella noche. Pero, cuando en el aniv...</summary>
+    <link href="../book_2/book_2806.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Era un buen chico [January 16, 2025]</title>
+    <id>calibre:book:2803</id>
+    <updated>2025-01-16T08:08:28Z</updated>
+    <link href="../../Simonetta%20Agnello%20Hornby/Era%20un%20buen%20chico%20%282803%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simonetta%20Agnello%20Hornby/Era%20un%20buen%20chico%20%282803%29/Era%20un%20buen%20chico%20-%20Simonetta%20Agnello%20Hornby.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="290 KB" />
+    <author>
+      <name>Simonetta Agnello Hornby</name>
+      <uri>../authors_1/authors_1834_Page_1.xml</uri>
+    </author>
+    <published>2024-05-21T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>RBA Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un relato sobre la amistad, el poder feroz de la familia y el deseo de regresar a los orígenes. Esta es la historia de dos madres, dos mujeres fuertes que toman las riendas de sus respectivas familias, y de sus hijos, Giovanni y Santino. Ambos crecen...</summary>
+    <link href="../book_2/book_2803.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No la dejes entrar [January 16, 2025]</title>
+    <id>calibre:book:2802</id>
+    <updated>2025-01-16T08:08:28Z</updated>
+    <link href="../../Nicola%20Sanders/No%20la%20dejes%20entrar%20%282802%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nicola%20Sanders/No%20la%20dejes%20entrar%20%282802%29/No%20la%20dejes%20entrar%20-%20Nicola%20Sanders.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="328 KB" />
+    <author>
+      <name>Nicola Sanders</name>
+      <uri>../authors_1/authors_1833_Page_1.xml</uri>
+    </author>
+    <published>2025-01-07T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Joanne sabe la suerte que tiene. Richard es un marido maravilloso, Evie es la niña más bonita del mundo y viven en una casa preciosa... La vida no podría irle mejor.Hasta que aparece la hija veinteañera de Richard, Chloe.Chloe no le dirige la palabra...</summary>
+    <link href="../book_2/book_2802.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Obsesivo [January 16, 2025]</title>
+    <id>calibre:book:2805</id>
+    <updated>2025-01-16T08:08:28Z</updated>
+    <link href="../../Raul%20Garbantes/Obsesivo%20%282805%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raul%20Garbantes/Obsesivo%20%282805%29/Obsesivo%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="547 KB" />
+    <author>
+      <name>Raúl Garbantes</name>
+      <uri>../authors_0/authors_58_Page_1.xml</uri>
+    </author>
+    <published>2024-11-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Autopublicación</dcterms:publisher>
+    <category term="suspense" />
+    <category term="Thriller" />
+    <category term="Lang:es" />
+    <category term="Agentes del FBI Julia Stein y Hans Freeman" />
+    <summary>Agentes del FBI Julia Stein y Hans Freeman [8]: Hans Freeman se enfrenta al caso más aterrador y personal de su carrera. En el corazón sombrío de Wichita, un asesino juega con su mente, conduciéndolo por un laberinto de oscuros recuerdos de su pasado...</summary>
+    <link href="../book_2/book_2805.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La vulnerabilidad del azar [January 16, 2025]</title>
+    <id>calibre:book:2804</id>
+    <updated>2025-01-16T08:08:28Z</updated>
+    <link href="../../Fernando%20Benavides/La%20vulnerabilidad%20del%20azar%20%282804%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fernando%20Benavides/La%20vulnerabilidad%20del%20azar%20%282804%29/La%20vulnerabilidad%20del%20azar%20-%20Fernando%20Benavides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Fernando Benavides</name>
+      <uri>../authors_1/authors_1835_Page_1.xml</uri>
+    </author>
+    <published>2024-08-27T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Destino México</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Por el creador de Fausto, el podcast true crime más escuchado en América Latina.Estado de México: el hallazgo del cadáver calcinado de una mujer con las manos atadas y una pierna fracturada marca el inicio de una macabra serie de crímenes. Los agente...</summary>
+    <link href="../book_2/book_2804.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La calle del delito [January 16, 2025]</title>
+    <id>calibre:book:2799</id>
+    <updated>2025-01-16T08:08:27Z</updated>
+    <link href="../../Kate%20London/La%20calle%20del%20delito%20%282799%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kate%20London/La%20calle%20del%20delito%20%282799%29/La%20calle%20del%20delito%20-%20Kate%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Kate London</name>
+      <uri>../authors_0/authors_952_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>Motus</dcterms:publisher>
+    <summary>Un joven adolescente es brutalmente asesinado en una oscura calle de Londres y el único testigo del crimen huye de la escena. La inspectora Sarah Collins es la encargada de llevar a cabo la investigación. Pero su investigación amenaza el trabajo poli...</summary>
+    <link href="../book_2/book_2799.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Ámbar [January 9, 2025]</title>
     <id>calibre:book:2796</id>
@@ -297,165 +450,4 @@
     <summary>EL RELEVO DEL THRILLER ESPAÑOL«El personaje que cualquier escritor de novela negra querría escribir.» ROBERTO SANTIAGO«Arantxa Rufo es la sangre fresca del thriller español.» CÉSAR PÉREZ GELLIDA«Philip Marlowe y Sarah Colbert tendrían mucho que decir...</summary>
     <link href="../book_2/book_2783.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>El vacío en el que flotas [January 9, 2025]</title>
-    <id>calibre:book:2782</id>
-    <updated>2025-01-09T08:18:53Z</updated>
-    <link href="../../Jorge%20Franco/El%20vacio%20en%20el%20que%20flotas%20%282782%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jorge%20Franco/El%20vacio%20en%20el%20que%20flotas%20%282782%29/El%20vacio%20en%20el%20que%20flotas%20-%20Jorge%20Franco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="464 KB" />
-    <author>
-      <name>Jorge Franco</name>
-      <uri>../authors_1/authors_1820_Page_1.xml</uri>
-    </author>
-    <published>2023-08-01T04:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>"Él, que había caminado media vida en el puro filo de una navaja, identificó ya en su niño la irremediable vocación al extravío".La explosión de una bomba y la desaparición de un niño trenzarán de manera ineludible el drama de los protagonistas de El...</summary>
-    <link href="../book_2/book_2782.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>De hombre en hombre [December 31, 2024]</title>
-    <id>calibre:book:2773</id>
-    <updated>2024-12-31T08:29:18Z</updated>
-    <link href="../../Olive%20Schreiner/De%20hombre%20en%20hombre%20%282773%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Olive%20Schreiner/De%20hombre%20en%20hombre%20%282773%29/De%20hombre%20en%20hombre%20-%20Olive%20Schreiner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="442 KB" />
-    <author>
-      <name>Olive Schreiner</name>
-      <uri>../authors_1/authors_1813_Page_1.xml</uri>
-    </author>
-    <published>2024-11-07T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>En la Sudáfrica colonial del siglo XIX, dos niñas blancas de origen inglés nacen y se crían en una granja. La hermana mayor se casa con un exitoso hombre de negocios, pero, dueña de un espíritu curioso y adelantado a su época, no dejará nunca de luch...</summary>
-    <link href="../book_2/book_2773.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La hija de la novicia [December 31, 2024]</title>
-    <id>calibre:book:2771</id>
-    <updated>2024-12-31T08:29:18Z</updated>
-    <link href="../../Elena%20Alvarez/La%20hija%20de%20la%20novicia%20%282771%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elena%20Alvarez/La%20hija%20de%20la%20novicia%20%282771%29/La%20hija%20de%20la%20novicia%20-%20Elena%20Alvarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="412 KB" />
-    <author>
-      <name>Elena Álvarez</name>
-      <uri>../authors_1/authors_1811_Page_1.xml</uri>
-    </author>
-    <published>2024-09-27T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La épica aventura de una mujer y una niña en la Europa del siglo IX, un continente arrasado tras la muerte de Carlomagno.Aquitania, año 814. La novicia Elvira es testigo de la muerte en extrañas circunstancias de una dama que acaba de dar a luz a una...</summary>
-    <link href="../book_2/book_2771.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>James [December 31, 2024]</title>
-    <id>calibre:book:2774</id>
-    <updated>2024-12-31T08:29:18Z</updated>
-    <link href="../../Percival%20Everett/James%20%282774%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Percival%20Everett/James%20%282774%29/James%20-%20Percival%20Everett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="633 KB" />
-    <author>
-      <name>Percival Everett</name>
-      <uri>../authors_1/authors_1167_Page_1.xml</uri>
-    </author>
-    <published>2024-11-04T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>De conatus</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>James es un libro fascinante. Una reescritura de Las aventuras de Huckleberry Finn de Mark Twain desde el punto de vista de Jim, el esclavo.
-
-Con el humor típico de Percival Everett y una inteligencia sobrecogedora, el lector vive una gran aventura,...</summary>
-    <link href="../book_2/book_2774.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>¿Qué pasó con Nina? [December 31, 2024]</title>
-    <id>calibre:book:2772</id>
-    <updated>2024-12-31T08:29:18Z</updated>
-    <link href="../../Dervla%20McTiernan/_Que%20paso%20con%20Nina_%20%282772%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dervla%20McTiernan/_Que%20paso%20con%20Nina_%20%282772%29/_Que%20paso%20con%20Nina_%20-%20Dervla%20McTiernan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="446 KB" />
-    <author>
-      <name>Dervla McTiernan</name>
-      <uri>../authors_1/authors_1812_Page_1.xml</uri>
-    </author>
-    <published>2024-10-15T05:54:28Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Nina y Simon son la pareja perfecta. Jóvenes, divertidos y enamorados.Hasta que se marchan de vacaciones a la cabaña de los padres de él en Vermont, y solo regresa Simon.¿QUÉ PASÓ CON NINA?Nadie lo sabe. La explicación de Simon sobre lo ocurrido en s...</summary>
-    <link href="../book_2/book_2772.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El camino [December 31, 2024]</title>
-    <id>calibre:book:2770</id>
-    <updated>2024-12-31T08:29:18Z</updated>
-    <link href="../../Anya%20Niewierra/El%20camino%20%282770%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anya%20Niewierra/El%20camino%20%282770%29/El%20camino%20-%20Anya%20Niewierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="866 KB" />
-    <author>
-      <name>Anya Niewierra</name>
-      <uri>../authors_1/authors_1810_Page_1.xml</uri>
-    </author>
-    <published>2024-11-05T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>RBA Libros</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>LOTTE RECORRE EL CAMINO DE SANTIAGO EN BUSCA DE RESPUESTAS SOBRE LA MUERTE DE SU MARIDO. La chocolatera Lotte Bonnet vive feliz en el sur de Limburgo con su marido Emil, un exrefugiado de Bosnia. Tras el cáncer que su esposo acaba de superar, nada la...</summary>
-    <link href="../book_2/book_2770.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Gabrielle y la Bestia [December 31, 2024]</title>
-    <id>calibre:book:2769</id>
-    <updated>2024-12-31T08:29:17Z</updated>
-    <link href="../../Gabriela%20Margall/Gabrielle%20y%20la%20Bestia%20%282769%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gabriela%20Margall/Gabrielle%20y%20la%20Bestia%20%282769%29/Gabrielle%20y%20la%20Bestia%20-%20Gabriela%20Margall.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="407 KB" />
-    <author>
-      <name>Gabriela Margall</name>
-      <uri>../authors_1/authors_1809_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Emecé Argentina</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Pasión, misterios y cuentos de hadas: la vida oculta de la creadora de La Bella y la Bestia. En la Francia del siglo XVIII, Gabrielle de Villeneuve habita un mundo de ensueño entre los antiguos muros del castillo de La Roche. Dama de compañía de Dian...</summary>
-    <link href="../book_2/book_2769.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La gata lo vio todo. Un misterio felino [December 31, 2024]</title>
-    <id>calibre:book:2768</id>
-    <updated>2024-12-31T08:29:17Z</updated>
-    <link href="../../Dolores%20Hitchens/La%20gata%20lo%20vio%20todo.%20Un%20misterio%20fe%20%282768%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Dolores%20Hitchens/La%20gata%20lo%20vio%20todo.%20Un%20misterio%20fe%20%282768%29/La%20gata%20lo%20vio%20todo.%20Un%20misteri%20-%20Dolores%20Hitchens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="752 KB" />
-    <author>
-      <name>Dolores Hitchens</name>
-      <uri>../authors_1/authors_1808_Page_1.xml</uri>
-    </author>
-    <published>2024-10-01T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>RBA Libros</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>LA PIONERA DEL SUSPENSE DOMÉSTICO TRADUCIDA POR PRIMERA VEZ AL ESPAÑOL «Una hábil narradora, cuyos misterios merecen ser revisitados. Debajo de la superficie narrativa, rápida como un torrente, subyace una profunda y trágica sabiduría.» Del prólogo d...</summary>
-    <link href="../book_2/book_2768.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El ayuno [December 29, 2024]</title>
-    <id>calibre:book:2767</id>
-    <updated>2024-12-29T11:37:16Z</updated>
-    <link href="../../John%20Oakes/El%20ayuno%20%282767%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Oakes/El%20ayuno%20%282767%29/El%20ayuno%20-%20John%20Oakes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="467 KB" />
-    <author>
-      <name>John Oakes</name>
-      <uri>../authors_1/authors_1807_Page_1.xml</uri>
-    </author>
-    <published>2024-07-26T09:56:21Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:language>ar</dcterms:language>
-    <dcterms:publisher>Antoni Bosch Editor, S.A.</dcterms:publisher>
-    <category term="Histórica" />
-    <category term="Lang:es" />
-    <category term="Lang:en" />
-    <category term="Lang:ar" />
-    <summary>a sea por motivos espirituales, políticos o de salud, el ayuno supone un cambio drástico en nuestra rutina. Basándose en una amplísima investigación, John Oakes nos describe las diferentes facetas de este acto de privación. Entrevista a médicos, líde...</summary>
-    <link href="../book_2/book_2767.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../recent/recent_THREEMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (3 of 3)" />
 </feed>

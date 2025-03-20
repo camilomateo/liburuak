@@ -54,6 +54,23 @@
     <link href="../book_2/book_2580.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Primer amor</title>
+    <id>calibre:book:3170</id>
+    <updated>2025-03-14T02:34:31Z</updated>
+    <link href="../../Colleen%20Hoover/Primer%20amor%20%283170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colleen%20Hoover/Primer%20amor%20%283170%29/Primer%20amor%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="519 KB" />
+    <author>
+      <name>Colleen Hoover</name>
+      <uri>../authors_0/authors_6_Page_1.xml</uri>
+    </author>
+    <published>2025-03-04T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela sobre las almas gemelas y el primer amor de Colleen Hoover, autora de Romper el círculo. Colleen Hoover, un fenómeno imparable. Después de una dura infancia, Beyah Grim consigue una beca para abandonar para siempre el lugar en el que nunca...</summary>
+    <link href="../book_3/book_3170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Romper el círculo</title>
     <id>calibre:book:2661</id>
     <updated>2024-10-22T07:58:41Z</updated>

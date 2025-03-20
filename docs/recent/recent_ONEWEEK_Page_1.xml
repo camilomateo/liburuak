@@ -13,196 +13,230 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <entry>
-    <title>Cuervo negro [March 6, 2025]</title>
-    <id>calibre:book:3136</id>
-    <updated>2025-03-06T05:54:52Z</updated>
-    <link href="../../Ann%20Cleeves/Cuervo%20negro%20%283136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ann%20Cleeves/Cuervo%20negro%20%283136%29/Cuervo%20negro%20-%20Ann%20Cleeves.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="618 KB" />
+    <title>Primer amor [March 14, 2025]</title>
+    <id>calibre:book:3170</id>
+    <updated>2025-03-14T02:34:31Z</updated>
+    <link href="../../Colleen%20Hoover/Primer%20amor%20%283170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colleen%20Hoover/Primer%20amor%20%283170%29/Primer%20amor%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="519 KB" />
     <author>
-      <name>Ann Cleeves</name>
-      <uri>../authors_1/authors_1977_Page_1.xml</uri>
+      <name>Colleen Hoover</name>
+      <uri>../authors_0/authors_6_Page_1.xml</uri>
     </author>
-    <published>2025-02-16T11:00:00Z</published>
+    <published>2025-03-04T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="Shetland" />
-    <summary>Shetland [1]: La novela que ha inspirado la famosa serie Shetland, emitida en FilminEs 5 de enero. Las islas Shetland amanecen enterradas bajo un blanco manto de nieve. Fran Hunter está volviendo a casa tras dejar a su hija en el colegio cuando ve un...</summary>
-    <link href="../book_3/book_3136.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Una novela sobre las almas gemelas y el primer amor de Colleen Hoover, autora de Romper el círculo. Colleen Hoover, un fenómeno imparable. Después de una dura infancia, Beyah Grim consigue una beca para abandonar para siempre el lugar en el que nunca...</summary>
+    <link href="../book_3/book_3170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Los hijos de Adán [March 6, 2025]</title>
-    <id>calibre:book:3137</id>
-    <updated>2025-03-06T05:54:52Z</updated>
-    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/Los%20hijos%20de%20Adan%20%283137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/Los%20hijos%20de%20Adan%20%283137%29/Los%20hijos%20de%20Adan%20-%20Eva%20Garcia%20Saenz%20de%20Urturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <title>El pergamino [March 14, 2025]</title>
+    <id>calibre:book:3167</id>
+    <updated>2025-03-14T02:34:12Z</updated>
+    <link href="../../Anne%20Perry/El%20pergamino%20%283167%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anne%20Perry/El%20pergamino%20%283167%29/El%20pergamino%20-%20Anne%20Perry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="306 KB" />
     <author>
-      <name>Eva García Sáenz de Urturi</name>
-      <uri>../authors_0/authors_362_Page_1.xml</uri>
+      <name>Anne Perry</name>
+      <uri>../authors_1/authors_1998_Page_1.xml</uri>
     </author>
-    <published>2025-02-23T06:00:00Z</published>
+    <published>2024-11-06T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>13insurgentes</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Bibliomisterios" />
+    <summary>Bibliomisterios [4]: Un antiguo pergamino arrastra a un librero a un secreto escalofriante. Monty Danforth encuentra una lata enterrada debajo de una montaña de libros clásicos. En el interior hay un pergamino milenario escrito en un idioma desconoci...</summary>
+    <link href="../book_3/book_3167.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ya no pisa la tierra tu rey [March 14, 2025]</title>
+    <id>calibre:book:3168</id>
+    <updated>2025-03-14T02:34:12Z</updated>
+    <link href="../../Cristina%20Sanchez-Andrade/Ya%20no%20pisa%20la%20tierra%20tu%20rey%20%283168%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cristina%20Sanchez-Andrade/Ya%20no%20pisa%20la%20tierra%20tu%20rey%20%283168%29/Ya%20no%20pisa%20la%20tierra%20tu%20rey%20-%20Cristina%20Sanchez-Andrade.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="235 KB" />
+    <author>
+      <name>Cristina Sánchez-Andrade</name>
+      <uri>../authors_1/authors_1896_Page_1.xml</uri>
+    </author>
+    <published>2025-01-14T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela nada convencional en la que la estrecha vida conventual contrasta con los excesos de la vida palaciega.A través de la perversa (y, a la vez, inocente) mirada de unas monjas que juegan a no ser monjas, construye Cristina Sánchez-Andrade est...</summary>
+    <link href="../book_3/book_3168.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El albatros negro [March 14, 2025]</title>
+    <id>calibre:book:3164</id>
+    <updated>2025-03-14T02:34:11Z</updated>
+    <link href="../../OruA_-a_%20MarAa/El%20albatros%20negro%20%283164%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../OruA_-a_%20MarAa/El%20albatros%20negro%20%283164%29/El%20albatros%20negro%20-%20OruA_-a_%20MarAa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="696 KB" />
+    <author>
+      <name>OruA±a_ MarA­a</name>
+      <uri>../authors_1/authors_1996_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>papyrefb2tdk6czd.onion</dcterms:publisher>
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Uno de los tesoros más codiciados y enigmáticos del mundo submarino se esconde en las profundidades del océano Atlántico. Una anciana historiadora naval podría tener la clave para rescatarlo, pero muere de repente en extrañas circunstancias. Pietro R...</summary>
+    <link href="../book_3/book_3164.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La casa de la Riviera [March 14, 2025]</title>
+    <id>calibre:book:3161</id>
+    <updated>2025-03-14T02:34:11Z</updated>
+    <link href="../../Natasha%20Lester/La%20casa%20de%20la%20Riviera%20%283161%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Natasha%20Lester/La%20casa%20de%20la%20Riviera%20%283161%29/La%20casa%20de%20la%20Riviera%20-%20Natasha%20Lester.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="918 KB" />
+    <author>
+      <name>Natasha Lester</name>
+      <uri>../authors_1/authors_1994_Page_1.xml</uri>
+    </author>
+    <published>2025-02-28T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Vidis</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>París, 1939. Los nazis creen que Éliane no entiende alemán y que no sabe que están robando los tesoros del Louvre: están equivocados. No se imaginan que está decodificando sus notas e informando a la Resistencia, pero es un juego peligroso. ¿Se atrev...</summary>
+    <link href="../book_3/book_3161.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dueños del mundo [March 14, 2025]</title>
+    <id>calibre:book:3166</id>
+    <updated>2025-03-14T02:34:11Z</updated>
+    <link href="../../Jose%20Calvo%20Poyato/Duenos%20del%20mundo%20%283166%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Calvo%20Poyato/Duenos%20del%20mundo%20%283166%29/Duenos%20del%20mundo%20-%20Jose%20Calvo%20Poyato.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="930 KB" />
+    <author>
+      <name>José Calvo Poyato</name>
+      <uri>../authors_1/authors_1997_Page_1.xml</uri>
+    </author>
+    <published>2025-01-24T11:14:35Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica, S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En el Madrid de 1576, flamante capital del Imperio de Felipe II,  abundan las muertes y los duelos, pero cuando el alguacil Diego de Paz, veterano de los Tercios, se hace cargo del hallazgo de un cuerpo cruelmente torturado, sabe que se encuentra ant...</summary>
+    <link href="../book_3/book_3166.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las fuerzas contrarias [March 14, 2025]</title>
+    <id>calibre:book:3165</id>
+    <updated>2025-03-14T02:34:11Z</updated>
+    <link href="../../Lorenzo%20Silva/Las%20fuerzas%20contrarias%20%283165%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lorenzo%20Silva/Las%20fuerzas%20contrarias%20%283165%29/Las%20fuerzas%20contrarias%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="379 KB" />
+    <author>
+      <name>Lorenzo Silva</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Bevilacqua y Chamorro" />
+    <summary>Bevilacqua y Chamorro [14]: El subteniente Bevilacqua y la brigada Chamorro tendrán que enfrentarse a no de los mayores retos de su carrera: el esclarecimiento simultáneo de dos muertes en el momento más crítico que ha vivido nuestra sociedad en las ...</summary>
+    <link href="../book_3/book_3165.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La maravillosa tienda de Seul [March 14, 2025]</title>
+    <id>calibre:book:3163</id>
+    <updated>2025-03-14T02:34:11Z</updated>
+    <link href="../../Baek%20Seungyeon/La%20maravillosa%20tienda%20de%20Seul%20%283163%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Baek%20Seungyeon/La%20maravillosa%20tienda%20de%20Seul%20%283163%29/La%20maravillosa%20tienda%20de%20Seul%20-%20Baek%20Seungyeon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="711 KB" />
+    <author>
+      <name>Baek Seungyeon</name>
+      <uri>../authors_1/authors_1995_Page_1.xml</uri>
+    </author>
+    <published>2025-01-27T08:59:43Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando el sueño de Hyoyoung de convertirse en realizadora de cine se hace añicos por culpa de su hermana, que ha sido víctima de una estafa financiera, la joven acepta trabajar como dependienta en una tienda situada en el moderno distrito de Yeonhui-...</summary>
+    <link href="../book_3/book_3163.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una época dorada [March 14, 2025]</title>
+    <id>calibre:book:3162</id>
+    <updated>2025-03-14T02:34:11Z</updated>
+    <link href="../../Anne%20Jacobs/Una%20epoca%20dorada%20%283162%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anne%20Jacobs/Una%20epoca%20dorada%20%283162%29/Una%20epoca%20dorada%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="701 KB" />
+    <author>
+      <name>Anne Jacobs</name>
+      <uri>../authors_0/authors_194_Page_1.xml</uri>
+    </author>
+    <published>2025-03-06T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="El Café del Ángel" />
+    <summary>El Café del Ángel [5]: Nuevos desafíos para la familia Koch y un viaje que despierta anhelos profundamente escondidos en la quinta y emocionante entrega de la nueva saga familiar de Anne Jacobs, autora de La villa de las telas.Wiesbaden, 1965. El Caf...</summary>
+    <link href="../book_3/book_3162.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Acaba con el SIBO [March 14, 2025]</title>
+    <id>calibre:book:3159</id>
+    <updated>2025-03-14T02:34:10Z</updated>
+    <link href="../../Mireia%20Velasco/Acaba%20con%20el%20SIBO%20%283159%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mireia%20Velasco/Acaba%20con%20el%20SIBO%20%283159%29/Acaba%20con%20el%20SIBO%20-%20Mireia%20Velasco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Mireia Velasco</name>
+      <uri>../authors_1/authors_1993_Page_1.xml</uri>
+    </author>
+    <published>2024-12-21T06:34:33Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Deja de vivir con miedo a la tripa hinchada: la solución al SIBO existe.A estas alturas, es más que probable que ya hayas oído hablar del SIBO, pero ¿sabías que puede ser de muchas clases? ¿Que es preciso saber cuál es tu caso antes de intentar poner...</summary>
+    <link href="../book_3/book_3159.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alguien a quien querer [March 14, 2025]</title>
+    <id>calibre:book:3157</id>
+    <updated>2025-03-14T02:34:10Z</updated>
+    <link href="../../Miguel%20Gane/Alguien%20a%20quien%20querer%20%283157%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Miguel%20Gane/Alguien%20a%20quien%20querer%20%283157%29/Alguien%20a%20quien%20querer%20-%20Miguel%20Gane.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="603 KB" />
+    <author>
+      <name>Miguel Gane</name>
+      <uri>../authors_1/authors_1991_Page_1.xml</uri>
+    </author>
+    <published>2025-02-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Por primera vez estaba dispuesta a darlo todo por amor ELLA Siempre quise ser otra, dejar de ser invisible. Tener otro rostro, una mirada distinta, otra piel. Y, tras su muerte, estaba lista para la metamorfosis. ÉL Todo empezó con una mentira. Yo nu...</summary>
+    <link href="../book_3/book_3157.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Respeta mis putos límites [March 14, 2025]</title>
+    <id>calibre:book:3160</id>
+    <updated>2025-03-14T02:34:11Z</updated>
+    <link href="../../Dra.%20Faith%20G.%20Harper/Respeta%20mis%20putos%20limites%20%283160%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dra.%20Faith%20G.%20Harper/Respeta%20mis%20putos%20limites%20%283160%29/Respeta%20mis%20putos%20limites%20-%20Dra.%20Faith%20G.%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="544 KB" />
+    <author>
+      <name>Dra. Faith G. Harper</name>
+      <uri>../authors_0/authors_987_Page_1.xml</uri>
+    </author>
+    <published>2024-12-11T11:12:18Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>Grupo Planeta</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="La saga de los longevos" />
-    <summary>La saga de los longevos [2]: Para un longevo el pasado siempre vuelve en forma de problemasLA CUENTA ATRÁS ESTÁ LLEGANDO A SU FINNO TE PIERDAS LA SAGA MÁS ESPERADA DE LA AUTORA DE EL SILENCIO DE LA CIUDAD BLANCA La inesperada vuelta de Gunnarr, el hi...</summary>
-    <link href="../book_3/book_3137.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>VUELVE LA AUTORA DEL FENÓMENO INTERNACIONAL CALMA TU PUTA CABEZA.¿ESTÁS AGOTADA? ¿NO SE TIENE EN CUENTA TU OPINIÓN? ¿NO PARAN DE DELEGARTE MÁS Y MÁS TAREAS Y YA NO SABES DÓNDE METERTE? ¿ESTÁS HARTA DE PRIORIZAR LAS NECESIDADES DE LOS DEMÁS?Si has res...</summary>
+    <link href="../book_3/book_3160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Entre el mar y las estrellas [March 6, 2025]</title>
-    <id>calibre:book:3130</id>
-    <updated>2025-03-06T05:54:51Z</updated>
-    <link href="../../Helen%20Rytkonen/Entre%20el%20mar%20y%20las%20estrellas%20%283130%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Helen%20Rytkonen/Entre%20el%20mar%20y%20las%20estrellas%20%283130%29/Entre%20el%20mar%20y%20las%20estrellas%20-%20Helen%20Rytkonen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="337 KB" />
+    <title>Ser feliz es fácil [March 14, 2025]</title>
+    <id>calibre:book:3158</id>
+    <updated>2025-03-14T02:34:10Z</updated>
+    <link href="../../Borja%20Vilaseca/Ser%20feliz%20es%20facil%20%283158%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Borja%20Vilaseca/Ser%20feliz%20es%20facil%20%283158%29/Ser%20feliz%20es%20facil%20-%20Borja%20Vilaseca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Helen Rytkönen</name>
-      <uri>../authors_1/authors_1973_Page_1.xml</uri>
+      <name>Borja Vilaseca</name>
+      <uri>../authors_1/authors_1992_Page_1.xml</uri>
     </author>
-    <published>2025-02-19T11:00:00Z</published>
+    <published>2025-01-09T04:48:28Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <dcterms:publisher>VERGARA</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="Atlántica" />
-    <summary>Atlántica [3]: Él sueña con alcanzar las estrellas. Ella tiene los pies en la tierra. Juntos se verán envueltos en un romance tan profundo como el océano que los separa. Marcos es un hombre que ama su trabajo, siempre con la palabra perfecta para qui...</summary>
-    <link href="../book_3/book_3130.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Misha Zhukov debe morir [March 6, 2025]</title>
-    <id>calibre:book:3132</id>
-    <updated>2025-03-06T05:54:51Z</updated>
-    <link href="../../Myriam%20M.%20Lejardi/Misha%20Zhukov%20debe%20morir%20%283132%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Myriam%20M.%20Lejardi/Misha%20Zhukov%20debe%20morir%20%283132%29/Misha%20Zhukov%20debe%20morir%20-%20Myriam%20M.%20Lejardi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="814 KB" />
-    <author>
-      <name>Myriam M. Lejardi</name>
-      <uri>../authors_1/authors_1975_Page_1.xml</uri>
-    </author>
-    <published>2025-02-03T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Crossbooks</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Reality" />
-    <summary>Reality [2]:  ¡Competición, amor y un reality adrenalítico!OCHO CELEBRITIES.UNA ISLA DESIERTA.DOS MILLONES DE DÓLARES.Tendrán que darse prisa en llegar hasta el tesoro porque… ¡el tiempo es oro!¡1, 2 o 3!¡El reality de supervivencia más interactivo d...</summary>
-    <link href="../book_3/book_3132.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Los ojos de Bruna [March 6, 2025]</title>
-    <id>calibre:book:3135</id>
-    <updated>2025-03-06T05:54:52Z</updated>
-    <link href="../../Inma%20Chacon/Los%20ojos%20de%20Bruna%20%283135%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Inma%20Chacon/Los%20ojos%20de%20Bruna%20%283135%29/Los%20ojos%20de%20Bruna%20-%20Inma%20Chacon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="395 KB" />
-    <author>
-      <name>Inma Chacón</name>
-      <uri>../authors_0/authors_312_Page_1.xml</uri>
-    </author>
-    <published>2025-02-19T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Contraluz Editorial</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La Hacienda de la Cumbre está marcada por la tragedia. Años atrás, su propietario, el vizconde de Altaslomas, perdió a su mujer en un incendio que también arrebató la vista a su hija. Ahora, una noche de diciembre de 1870, un grito desgarrador proced...</summary>
-    <link href="../book_3/book_3135.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El peor año [March 6, 2025]</title>
-    <id>calibre:book:3131</id>
-    <updated>2025-03-06T05:54:51Z</updated>
-    <link href="../../Luis%20Eduardo%20Hoyos/El%20peor%20ano%20%283131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Luis%20Eduardo%20Hoyos/El%20peor%20ano%20%283131%29/El%20peor%20ano%20-%20Luis%20Eduardo%20Hoyos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="441 KB" />
-    <author>
-      <name>Luis Eduardo Hoyos</name>
-      <uri>../authors_1/authors_1974_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Penguin Random House Grupo Editorial Colombia</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>"Es una novela profunda, filosófica, de una minuciosa exploración psicológica, que desemboca en un elogio tácito de la racionalidad impotente". Del acta del jurado del XVI Concurso Nacional de Novela y Cuento de la Cámara de Comercio de Medellín para...</summary>
-    <link href="../book_3/book_3131.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Prima facie [March 6, 2025]</title>
-    <id>calibre:book:3134</id>
-    <updated>2025-03-06T05:54:51Z</updated>
-    <link href="../../Suzie%20Miller/Prima%20facie%20%283134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Suzie%20Miller/Prima%20facie%20%283134%29/Prima%20facie%20-%20Suzie%20Miller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="414 KB" />
-    <author>
-      <name>Suzie Miller</name>
-      <uri>../authors_1/authors_1976_Page_1.xml</uri>
-    </author>
-    <published>2025-02-04T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Seix Barral</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Si la duda razonable protege al acusado, ¿cómo se protege a la víctima? «Esta valiente historia de cómo una abogada exitosa y cualificada puede convertirse en víctima del sistema merece ser contada y recontada.» Daily Mail «Apasionante... Con reflexi...</summary>
-    <link href="../book_3/book_3134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El reverso de la utopia. Obra periodística III [March 6, 2025]</title>
-    <id>calibre:book:3133</id>
-    <updated>2025-03-06T05:54:51Z</updated>
-    <link href="../../Mario%20Vargas%20Llosa/El%20reverso%20de%20la%20utopia.%20Obra%20perio%20%283133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Mario%20Vargas%20Llosa/El%20reverso%20de%20la%20utopia.%20Obra%20perio%20%283133%29/El%20reverso%20de%20la%20utopia.%20Obra%20p%20-%20Mario%20Vargas%20Llosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1010 KB" />
-    <author>
-      <name>Mario Vargas Llosa</name>
-      <uri>../authors_0/authors_71_Page_1.xml</uri>
-    </author>
-    <published>2025-01-28T02:41:16Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Firme defensor de ideales como la libertad y la democracia, durante más de cinco décadas, Mario Vargas Llosa ha reflexionado en su obra literaria y en sus textos periodísticos sobre los problemas que conlleva la utopía política. Las piezas reunidas e...</summary>
-    <link href="../book_3/book_3133.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La ansiedad del esquimal [March 6, 2025]</title>
-    <id>calibre:book:3129</id>
-    <updated>2025-03-06T05:54:51Z</updated>
-    <link href="../../Baltasar%20Rodero/La%20ansiedad%20del%20esquimal%20%283129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Baltasar%20Rodero/La%20ansiedad%20del%20esquimal%20%283129%29/La%20ansiedad%20del%20esquimal%20-%20Baltasar%20Rodero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="981 KB" />
-    <author>
-      <name>Baltasar Rodero</name>
-      <uri>../authors_1/authors_1972_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Bookwire Spain</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>España lidera el consumo de psicofármacos a nivel mundial, pero ¿es esa la solución al principal problema de salud mental de nuestro tiempo? Un prestigioso psicólogo nos cuenta todo lo que sabe.Planteada con la sencillez de una consulta psicológica, ...</summary>
-    <link href="../book_3/book_3129.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Inocencia mortal [March 6, 2025]</title>
-    <id>calibre:book:3128</id>
-    <updated>2025-03-06T05:54:50Z</updated>
-    <link href="../../Rachel%20Amphlett/Inocencia%20mortal%20%283128%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rachel%20Amphlett/Inocencia%20mortal%20%283128%29/Inocencia%20mortal%20-%20Rachel%20Amphlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="412 KB" />
-    <author>
-      <name>Rachel Amphlett</name>
-      <uri>../authors_1/authors_1969_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Saxon Publishing</dcterms:publisher>
-    <category term="Lang:en" />
-    <category term="Los misterios de la detective Kay Hunter" />
-    <summary>Los misterios de la detective Kay Hunter [3]: Sophie Whittaker compartió un aterrador secreto. Horas después, estaba muerta.La detective Kay Hunter y sus colegas quedan conmocionados por el brutal asesinato de una adolescente durante una fiesta priva...</summary>
-    <link href="../book_3/book_3128.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Rebel Witch [March 6, 2025]</title>
-    <id>calibre:book:3127</id>
-    <updated>2025-03-06T05:54:50Z</updated>
-    <link href="../../Kristen%20Ciccarelli/Rebel%20Witch%20%283127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Kristen%20Ciccarelli/Rebel%20Witch%20%283127%29/Rebel%20Witch%20-%20Kristen%20Ciccarelli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="697 KB" />
-    <author>
-      <name>Kristen Ciccarelli</name>
-      <uri>../authors_1/authors_1971_Page_1.xml</uri>
-    </author>
-    <published>2025-02-27T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Montena</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Crimson Moth" />
-    <summary>Crimson Moth [2]: Esta vez, se lo juegan todo. La épica conclusión del romantasy bestseller de The New York Times.UNA BRUJA...Rune Winters está huyendo. Desde que el chico al que amaba, Gideon Sharpe, reveló quién era y la entregó al enemigo, el mund...</summary>
-    <link href="../book_3/book_3127.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>En un mundo donde abunda el estrés, la ansiedad, la depresión y el vacío existencial hablar de felicidad es blasfemia. Y afirmar que es fácil, una provocación en toda regla. La sociedad se ha convertido un gran manicomio. La única razón por la que no...</summary>
+    <link href="../book_3/book_3158.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

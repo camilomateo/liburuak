@@ -20,6 +20,14 @@
   <link href="./authorlist_S_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <link href="./authorlist_S_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
   <entry>
+    <title>Patrik Svensson</title>
+    <id>Calibre2opds:authors:1045</id>
+    <content type="text">Un inmenso azul</content>
+    <link href="../authors_1/authors_1045_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Richard Swan</title>
     <id>Calibre2opds:authors:457</id>
     <content type="text">La justicia de los reyes</content>
@@ -110,7 +118,7 @@
   <entry>
     <title>Cristina Sánchez-Andrade</title>
     <id>Calibre2opds:authors:1896</id>
-    <content type="text">Habitada</content>
+    <content type="text">2 books</content>
     <link href="../authors_1/authors_1896_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

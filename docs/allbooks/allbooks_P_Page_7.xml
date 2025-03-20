@@ -15,6 +15,23 @@
   <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with P" />
   <link href="../allbooks/allbooks_P_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (8 of 9)" />
   <entry>
+    <title>El país del atardecer dorado</title>
+    <id>calibre:book:2734</id>
+    <updated>2024-12-11T08:34:17Z</updated>
+    <link href="../../Celia%20Santos/El%20pais%20del%20atardecer%20dorado%20%282734%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Celia%20Santos/El%20pais%20del%20atardecer%20dorado%20%282734%29/El%20pais%20del%20atardecer%20dorado%20-%20Celia%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="344 KB" />
+    <author>
+      <name>Celia Santos</name>
+      <uri>../authors_1/authors_1789_Page_1.xml</uri>
+    </author>
+    <published>2024-10-23T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una historia de amor, exilio y esperanza en la Australia de los años sesenta. «Celia Santos sabe cómo emocionar al lector». Anika entre libros Octubre, 1961. Un avión repleto de mujeres despega de Madrid con destino a Australia. Ciento catorce almas,...</summary>
+    <link href="../book_2/book_2734.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Los pecados de nuestros padres</title>
     <id>calibre:book:4</id>
     <updated>2023-01-17T09:13:58Z</updated>
@@ -142,6 +159,26 @@
     <category term="Lang:es" />
     <summary>Descubre cómo tu cerebro te ayuda a superar temores e incertidumbres y a lograr bienestar y felicidad.  ¿Cómo reacciona nuestro cerebro ante pandemias o catástrofes naturales? ¿Qué ocurre en su interior cuando se presentan momentos de alegría, ilusio...</summary>
     <link href="../book_1/book_1247.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El pergamino</title>
+    <id>calibre:book:3167</id>
+    <updated>2025-03-14T02:34:12Z</updated>
+    <link href="../../Anne%20Perry/El%20pergamino%20%283167%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anne%20Perry/El%20pergamino%20%283167%29/El%20pergamino%20-%20Anne%20Perry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="306 KB" />
+    <author>
+      <name>Anne Perry</name>
+      <uri>../authors_1/authors_1998_Page_1.xml</uri>
+    </author>
+    <published>2024-11-06T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>13insurgentes</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Bibliomisterios" />
+    <summary>Bibliomisterios [4]: Un antiguo pergamino arrastra a un librero a un secreto escalofriante. Monty Danforth encuentra una lata enterrada debajo de una montaña de libros clásicos. En el interior hay un pergamino milenario escrito en un idioma desconoci...</summary>
+    <link href="../book_3/book_3167.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Un perro de caracter</title>
@@ -427,42 +464,6 @@
     <category term="Lang:es" />
     <summary>Una apasionante novela que nos adentra en los secretos más profundos del antiguo Egipto a través de uno de sus monumentos más emblemáticos: la Gran Pirámide de Keops.El faraón Keops proyecta la construcción de la que será su morada eterna, una tumba ...</summary>
     <link href="../book_0/book_404.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La pirámide inmortal</title>
-    <id>calibre:book:1589</id>
-    <updated>2024-06-02T10:59:55Z</updated>
-    <link href="../../Javier%20Sierra/La%20piramide%20inmortal%20%281589%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Sierra/La%20piramide%20inmortal%20%281589%29/La%20piramide%20inmortal%20-%20Javier%20Sierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Javier Sierra</name>
-      <uri>../authors_0/authors_741_Page_1.xml</uri>
-    </author>
-    <published>2014-07-14T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El gran misterio de la humanidad, la inmortalidad, es la piedra angular sobre la que giran los argumentos de la nueva novela de Javier Sierra, La pirámide inmortal, una versión revisada, actualizada y ampliada de su novela El secreto egipcio de Napol...</summary>
-    <link href="../book_1/book_1589.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El planeta que no estaba</title>
-    <id>calibre:book:3041</id>
-    <updated>2025-02-12T01:51:57Z</updated>
-    <link href="../../Isaac%20Asimov/El%20planeta%20que%20no%20estaba%20%283041%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/El%20planeta%20que%20no%20estaba%20%283041%29/El%20planeta%20que%20no%20estaba%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="442 KB" />
-    <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
-    </author>
-    <published>1975-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Divulgación" />
-    <category term="Ciencias naturales" />
-    <category term="Lang:es" />
-    <summary>Isaac Asimov es —junto con Carl Sagan— el más popular de los autores de divulgación científica, temática que —presuntamente árida— adquiere en sus manos el toque mágico necesario para llegar a apasionarnos. La totalidad de los ensayos incluidos en es...</summary>
-    <link href="../book_3/book_3041.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_P_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (6 of 9)" />
   <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

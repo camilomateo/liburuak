@@ -13,7 +13,62 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
-  <link href="../allbooks/allbooks_A_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 of 10)" />
+  <link href="../allbooks/allbooks_A_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (9 of 11)" />
+  <entry>
+    <title>El aguijón del escorpión</title>
+    <id>calibre:book:513</id>
+    <updated>2023-04-05T00:39:58Z</updated>
+    <link href="../../Douglas%20Preston%20Y%20Lincoln%20Child/El%20aguijon%20del%20escorpion%20%28513%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Douglas%20Preston%20Y%20Lincoln%20Child/El%20aguijon%20del%20escorpion%20%28513%29/El%20aguijon%20del%20escorpion%20-%20Douglas%20Preston%20Y%20Lincoln%20Child.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="727 KB" />
+    <author>
+      <name>Douglas Preston Y Lincoln Child</name>
+      <uri>../authors_0/authors_378_Page_1.xml</uri>
+    </author>
+    <published>2023-03-29T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Nora Kelly" />
+    <summary>Nora Kelly [2]: Leyendas apaches, minas abandonadas y experimentos secretos en la segunda entrega de la nueva serie de Preston &amp;amp; Child que mezcla arqueología, historia, asesinato y suspense. Corrie Swanson, joven agente del FBI, se enfrenta al de...</summary>
+    <link href="../book_0/book_513.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El albatros negro</title>
+    <id>calibre:book:3164</id>
+    <updated>2025-03-14T02:34:11Z</updated>
+    <link href="../../OruA_-a_%20MarAa/El%20albatros%20negro%20%283164%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../OruA_-a_%20MarAa/El%20albatros%20negro%20%283164%29/El%20albatros%20negro%20-%20OruA_-a_%20MarAa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="696 KB" />
+    <author>
+      <name>OruA±a_ MarA­a</name>
+      <uri>../authors_1/authors_1996_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>papyrefb2tdk6czd.onion</dcterms:publisher>
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Uno de los tesoros más codiciados y enigmáticos del mundo submarino se esconde en las profundidades del océano Atlántico. Una anciana historiadora naval podría tener la clave para rescatarlo, pero muere de repente en extrañas circunstancias. Pietro R...</summary>
+    <link href="../book_3/book_3164.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La alcoba escondida</title>
+    <id>calibre:book:353</id>
+    <updated>2023-02-23T01:18:58Z</updated>
+    <link href="../../Almudena%20Navarro/La%20alcoba%20escondida%20%28353%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Almudena%20Navarro/La%20alcoba%20escondida%20%28353%29/La%20alcoba%20escondida%20-%20Almudena%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="588 KB" />
+    <author>
+      <name>Almudena Navarro</name>
+      <uri>../authors_0/authors_248_Page_1.xml</uri>
+    </author>
+    <published>2013-11-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Una apasionante novela ambientada en un pequeño pueblo manchego en los tiempos convulsos de la Segunda República que conjuga amor, política y ambición. Doña Enriqueta, la pistolera, es una mujer fuerte que controla férreamente la vida en la comarca e...</summary>
+    <link href="../book_0/book_353.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>La aldea perdida</title>
     <id>calibre:book:2201</id>
@@ -405,69 +460,7 @@
     <summary>El presente volumen aborda de una forma global, documentada y actual el impacto que las actividades humanas -y muy especialmente a lo largo de los dos últimos siglos- vienen dejando en el planeta Tierra en su conjunto, un impacto cuya huella en su su...</summary>
     <link href="../book_0/book_583.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Un apartamento en París</title>
-    <id>calibre:book:86</id>
-    <updated>2023-01-18T00:09:26Z</updated>
-    <link href="../../Lucy%20Foley/Un%20apartamento%20en%20Paris%20%2886%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lucy%20Foley/Un%20apartamento%20en%20Paris%20%2886%29/Un%20apartamento%20en%20Paris%20-%20Lucy%20Foley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="589 KB" />
-    <author>
-      <name>Lucy Foley</name>
-      <uri>../authors_0/authors_60_Page_1.xml</uri>
-    </author>
-    <published>2022-10-12T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Bienvenido al número 12 de la Rue des Amants, un hermoso bloque de apartamentos antiguo, lejos de las luces brillantes de la Torre Eiffel y de las bulliciosas orillas del Sena. Donde nada pasa desapercibido y todos tienen una historia que descubrir.L...</summary>
-    <link href="../book_0/book_86.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El aprendiz de conspirador</title>
-    <id>calibre:book:2113</id>
-    <updated>2024-09-06T02:21:17Z</updated>
-    <link href="../../Pio%20Baroja/El%20aprendiz%20de%20conspirador%20%282113%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pio%20Baroja/El%20aprendiz%20de%20conspirador%20%282113%29/El%20aprendiz%20de%20conspirador%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="210 KB" />
-    <author>
-      <name>Pío Baroja</name>
-      <uri>../authors_1/authors_1396_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Aviraneta" />
-    <category term="e" />
-    <category term="Ibargoyen" />
-    <category term="Eugenio" />
-    <category term="de" />
-    <category term="1792-1872" />
-    <category term="--" />
-    <category term="Fiction" />
-    <category term="Lang:es" />
-    <link href="../book_2/book_2113.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El aprendiz</title>
-    <id>calibre:book:2588</id>
-    <updated>2024-09-12T03:39:19Z</updated>
-    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/El%20aprendiz%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="279 KB" />
-    <author>
-      <name>Pablo Poveda</name>
-      <uri>../authors_0/authors_232_Page_1.xml</uri>
-    </author>
-    <published>2016-09-01T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Intriga" />
-    <category term="Policial" />
-    <category term="Lang:es" />
-    <category term="El profesor" />
-    <summary>El profesor [2]: Han pasado diez años desde que León abandonó Varsovia, pero ha llegado el momento de volver. Sin embargo, Europa ha cambiado: una revolución calienta las calles y el español caerá atrapado en ella sin desearlo.</summary>
-    <link href="../book_2/book_2588.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_A_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 10)" />
-  <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 10)" />
-  <link href="../allbooks/allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
+  <link href="../allbooks/allbooks_A_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (7 of 11)" />
+  <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />
+  <link href="../allbooks/allbooks_A_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

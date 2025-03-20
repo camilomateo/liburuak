@@ -31,16 +31,16 @@
     <link href="../book_2/book_2009.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Xataka [lu., 10 mar. 2025]</title>
-    <id>calibre:book:3140</id>
-    <updated>2025-03-10T03:47:29Z</updated>
-    <link href="../../calibre/Xataka%20%5Blu.%2C%2010%20mar.%202025%5D%20%283140%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../calibre/Xataka%20%5Blu.%2C%2010%20mar.%202025%5D%20%283140%29/Xataka%20%5Blu.%2C%2010%20mar.%202025%5D%20-%20calibre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
+    <title>Xataka [ju., 20 mar. 2025]</title>
+    <id>calibre:book:3171</id>
+    <updated>2025-03-20T02:02:04Z</updated>
+    <link href="../../calibre/Xataka%20%5Bju.%2C%2020%20mar.%202025%5D%20%283171%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../calibre/Xataka%20%5Bju.%2C%2020%20mar.%202025%5D%20%283171%29/Xataka%20%5Bju.%2C%2020%20mar.%202025%5D%20-%20calibre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>calibre</name>
-      <uri>../authors_1/authors_1978_Page_1.xml</uri>
+      <uri>../authors_1/authors_1999_Page_1.xml</uri>
     </author>
-    <published>2025-03-10T02:47:27Z</published>
+    <published>2025-03-20T01:02:02Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>calibre</dcterms:publisher>
     <category term="Noticias" />
@@ -48,11 +48,11 @@
     <category term="Lang:es" />
     <summary>Artículos en este ejemplar:
 
-El Día del Padre se acerca. Al mío le encanta leer y ya sé qué regalarle
+Cómo reparar tu Chromecast si no funciona: solución definitiva incluso si has restablecido el tuyo
 
-China tiene un plan para alcanzar la supremacía científica en plena pugna con EEUU para liderar en IA
+La UE abre el iPhone a la fuerza: el modelo europeo nunca volverá a ser el mismo
 
-Dos pueblos de Cantabria quieren unirse medi...</summary>
-    <link href="../book_3/book_3140.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+España pidió a 25.000 millones de euros...</summary>
+    <link href="../book_3/book_3171.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

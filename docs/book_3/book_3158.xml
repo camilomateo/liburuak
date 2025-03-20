@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ser feliz es fácil</title>
+  <id>urn:book:c64b39b6-8df6-48c0-a4d3-9a982450a944</id>
+  <updated>2025-03-14T02:34:10Z</updated>
+  <link href="./book_3158.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Ser feliz es fácil" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../authorlist/authorlist_V_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../authorlist/authorlist_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../../Borja%20Vilaseca/Ser%20feliz%20es%20facil%20%283158%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Borja%20Vilaseca/Ser%20feliz%20es%20facil%20%283158%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Borja%20Vilaseca/Ser%20feliz%20es%20facil%20%283158%29/Ser%20feliz%20es%20facil%20-%20Borja%20Vilaseca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <author>
+    <name>Borja Vilaseca</name>
+    <uri>../authors_1/authors_1992_Page_1.xml</uri>
+  </author>
+  <published>2025-01-09T04:48:28Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>VERGARA</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>En un mundo donde abunda el estrés, la ansiedad, la
+      depresión y el vacío existencial hablar de
+      felicidad es blasfemia. Y afirmar que es fácil, una
+      provocación en toda regla. La sociedad se ha convertido
+      un gran manicomio. La única razón por la que no
+      estamos todos encerrados es porque somos demasiados. Uno de
+      los síntomas de esta enajenación colectiva es que
+      cada vez más personas padecen algún tipo de
+      neurosis y de enfermedad mental. Nos hemos vuelto maestros en
+      hacernos desdichados. Al estar tan poseídos por la
+      mente, vivimos de tal forma que hacemos casi imposible la
+      felicidad.</p>
+      <p>Este provocador libro combina la sabiduría de
+      filosofías orientales ancestrales con los últimos
+      descubrimientos en el ámbito de la neurociencia. Y
+      comparte contigo la mentalidad que tienen todas las personas
+      que son genuinamente felices. Su lectura te servirá para
+      descubrir cómo cuidar tu cuerpo, tu mente, tu
+      espíritu y tu sistema nervioso para sentirte en paz
+      contigo mismo. También te enseñará a cultivar
+      el amor y la compasión para lidiar con personas
+      descentradas sin perturbarte. Y te inspirará para
+      hacerte amigo de la vida, aprovechando todo lo que te pasa
+      para crecer y evolucionar.</p>
+    </div>
+  </content>
+  <link href="../authors_1/authors_1992_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Borja Vilaseca" />
+</entry>

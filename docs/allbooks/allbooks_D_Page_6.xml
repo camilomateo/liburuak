@@ -14,6 +14,23 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with D" />
   <entry>
+    <title>Los dos lados</title>
+    <id>calibre:book:5</id>
+    <updated>2023-01-17T09:15:30Z</updated>
+    <link href="../../Teresa%20Cardona/Los%20dos%20lados%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Teresa%20Cardona/Los%20dos%20lados%20%285%29/Los%20dos%20lados%20-%20Teresa%20Cardona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="654 KB" />
+    <author>
+      <name>Teresa Cardona</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <published>2022-03-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Arde el suelo de granito y solo el rechinar de las cigarras perturba el apacible y familiar verano de San Lorenzo de El Escorial. Sus habitantes, acostumbrados a los rigores de la sierra, se quejan de la ola de calor, resguardándose a la sombra de lo...</summary>
+    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Las dos muertes de Ray Loriga</title>
     <id>calibre:book:1721</id>
     <updated>2024-08-08T04:59:22Z</updated>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Mar 10, 2025</title>
+  <title>Mar 20, 2025</title>
   <id>Calibre2opds:recent:ONEDAY</id>
   <author>
     <name>David Pierron</name>
@@ -8,262 +8,125 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./recent_ONEDAY_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mar 10, 2025" />
+  <link href="./recent_ONEDAY_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mar 20, 2025" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <entry>
-    <title>Medea [March 10, 2025]</title>
-    <id>calibre:book:3154</id>
-    <updated>2025-03-10T04:02:06Z</updated>
-    <link href="../../Rosie%20Hewlett/Medea%20%283154%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Rosie%20Hewlett/Medea%20%283154%29/Medea%20-%20Rosie%20Hewlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="924 KB" />
+    <title>El cerebro de mi padre: luces y sombras de la vida con alzheimer [March 20, 2025]</title>
+    <id>calibre:book:3175</id>
+    <updated>2025-03-20T02:03:15Z</updated>
+    <link href="../../Sandeep%20Jauhar/El%20cerebro%20de%20mi%20padre_%20luces%20y%20som%20%283175%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sandeep%20Jauhar/El%20cerebro%20de%20mi%20padre_%20luces%20y%20som%20%283175%29/El%20cerebro%20de%20mi%20padre_%20luces%20y%20-%20Sandeep%20Jauhar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="879 KB" />
     <author>
-      <name>Rosie Hewlett</name>
-      <uri>../authors_1/authors_1990_Page_1.xml</uri>
+      <name>Sandeep Jauhar</name>
+      <uri>../authors_2/authors_2001_Page_1.xml</uri>
     </author>
-    <published>2024-10-18T00:00:00Z</published>
+    <published>2025-01-08T08:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Martínez Roca México</dcterms:publisher>
+    <dcterms:publisher>Lunwerg Editores</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Rechazada por su madre. Golpeada por su padre. Separada de su hermana. Medea nunca ha encajado porque posee un poder único y peligroso: la brujería. Medea anhela una existencia diferente. Desde pequeña fue atormentada por su familia porque nació con ...</summary>
-    <link href="../book_3/book_3154.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Un relato emotivo y sincero sobre cómo vivir la demencia de un padre explicado desde la mirada de un científico que analiza también por qué el cerebro humano degenera y qué podemos hacer tanto para evitarlo como para acompañar ese deterioro. Cerca de...</summary>
+    <link href="../book_3/book_3175.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Buenas noches, lechuza [March 10, 2025]</title>
-    <id>calibre:book:3153</id>
-    <updated>2025-03-10T04:00:51Z</updated>
-    <link href="../../Jordi%20Ibanez%20Fanes/Buenas%20noches%2C%20lechuza%20%283153%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jordi%20Ibanez%20Fanes/Buenas%20noches%2C%20lechuza%20%283153%29/Buenas%20noches%2C%20lechuza%20-%20Jordi%20Ibanez%20Fanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="655 KB" />
+    <title>Hombre caído [March 20, 2025]</title>
+    <id>calibre:book:3176</id>
+    <updated>2025-03-20T02:03:15Z</updated>
+    <link href="../../Fernando%20Aramburu/Hombre%20caido%20%283176%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fernando%20Aramburu/Hombre%20caido%20%283176%29/Hombre%20caido%20-%20Fernando%20Aramburu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="498 KB" />
     <author>
-      <name>Jordi Ibáñez Fanés</name>
-      <uri>../authors_1/authors_1989_Page_1.xml</uri>
+      <name>Fernando Aramburu</name>
+      <uri>../authors_0/authors_192_Page_1.xml</uri>
     </author>
-    <published>2025-01-20T04:34:35Z</published>
+    <published>2025-03-05T08:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Tusquets Editores S.A</dcterms:publisher>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Un viejo profesor de filosofía con un pasado inconfesable y unas ataduras presentes no menos oscuras forma parte de un grupo de ancianos que representan una rebelión. ¿Es un instigador? ¿Es un mero observador? ¿Forma todo parte de un plan, o nada es ...</summary>
-    <link href="../book_3/book_3153.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>El nuevo libro de un narrador imprescindible. Una inolvidable colección de relatos de Fernando Aramburu. Una mujer que deja de cuidar a sus padres enfermos para fotografiar ardillas en el parque, un joven que asegura a su hermano que le ha vengado de...</summary>
+    <link href="../book_3/book_3176.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Las cosas que nos pasan [March 10, 2025]</title>
-    <id>calibre:book:3152</id>
-    <updated>2025-03-10T04:00:51Z</updated>
-    <link href="../../Guada%20Guerra/Las%20cosas%20que%20nos%20pasan%20%283152%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Guada%20Guerra/Las%20cosas%20que%20nos%20pasan%20%283152%29/Las%20cosas%20que%20nos%20pasan%20-%20Guada%20Guerra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="525 KB" />
+    <title>La próxima vez que te vea, te mato [March 20, 2025]</title>
+    <id>calibre:book:3177</id>
+    <updated>2025-03-20T02:03:16Z</updated>
+    <link href="../../Paulina%20Flores/La%20proxima%20vez%20que%20te%20vea%2C%20te%20mato%20%283177%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paulina%20Flores/La%20proxima%20vez%20que%20te%20vea%2C%20te%20mato%20%283177%29/La%20proxima%20vez%20que%20te%20vea%2C%20te%20m%20-%20Paulina%20Flores.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="282 KB" />
     <author>
-      <name>Guada Guerra</name>
-      <uri>../authors_1/authors_1988_Page_1.xml</uri>
+      <name>Paulina Flores</name>
+      <uri>../authors_2/authors_2002_Page_1.xml</uri>
     </author>
-    <published>2025-02-20T00:00:00Z</published>
+    <published>2025-01-14T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>¿Es esta la vida con la que soñabas?¿De verdad quieres ser madre soltera?¿Cómo vas a encontrar un hogar cuando no sabes dónde estar?Sofía, Irene, Julia, Belén y Claudia son un grupo de amigas treintañeras que viven en una negociación constante con su...</summary>
-    <link href="../book_3/book_3152.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Una oda al disparate como antídoto a la incertidumbre y el desamor. Javiera es una joven chilena que ha llegado a Barcelona gracias a una beca de posgrado en Literatura. Estudiar es el pretexto más decente, y genuino, que ha encontrado para dejar su ...</summary>
+    <link href="../book_3/book_3177.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Un corazon extraviado [March 10, 2025]</title>
-    <id>calibre:book:3149</id>
-    <updated>2025-03-10T04:00:50Z</updated>
-    <link href="../../Maria%20de%20Alva/Un%20corazon%20extraviado%20%283149%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Maria%20de%20Alva/Un%20corazon%20extraviado%20%283149%29/Un%20corazon%20extraviado%20-%20Maria%20de%20Alva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
+    <title>El bosque oscuro [March 20, 2025]</title>
+    <id>calibre:book:3173</id>
+    <updated>2025-03-20T02:03:14Z</updated>
+    <link href="../../Cixin%20Liu/El%20bosque%20oscuro%20%283173%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cixin%20Liu/El%20bosque%20oscuro%20%283173%29/El%20bosque%20oscuro%20-%20Cixin%20Liu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
-      <name>Maria de Alva</name>
-      <uri>../authors_1/authors_1986_Page_1.xml</uri>
+      <name>Cixin Liu</name>
+      <uri>../authors_1/authors_1237_Page_1.xml</uri>
     </author>
-    <published>2024-12-19T00:00:00Z</published>
+    <published>2017-08-28T10:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Harpercollins Español</dcterms:publisher>
+    <dcterms:publisher>B DE BOOKS</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Esta novela rescata una biograf&amp;#237;a novelada del poeta, Pedro Garfias perteneciente a la Generaci&amp;#243;n del 27, su vida en Espa&amp;#241;a, su paso por la Residencia de Estudiantes y amistad con los miembros de dicho grupo, su participaci&amp;#243;n dent...</summary>
-    <link href="../book_3/book_3149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Trilogía de los Tres Cuerpos" />
+    <summary>Trilogía de los Tres Cuerpos [2]: La esperada continuación de El problema de los tres cuerpos, el  mejor libro de ciencia ficción y fantasía de 2016 según El Periódico, y uno de los diez mejores libros de ficción de 2016 según  Playground. Ahora la T...</summary>
+    <link href="../book_3/book_3173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La costurera de Chanel [March 10, 2025]</title>
-    <id>calibre:book:3151</id>
-    <updated>2025-03-10T04:00:50Z</updated>
-    <link href="../../Wendy%20Guerra/La%20costurera%20de%20Chanel%20%283151%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Wendy%20Guerra/La%20costurera%20de%20Chanel%20%283151%29/La%20costurera%20de%20Chanel%20-%20Wendy%20Guerra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="490 KB" />
+    <title>Estelar [March 20, 2025]</title>
+    <id>calibre:book:3174</id>
+    <updated>2025-03-20T02:03:15Z</updated>
+    <link href="../../Brandon%20Sanderson/Estelar%20%283174%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Estelar%20%283174%29/Estelar%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Wendy Guerra</name>
-      <uri>../authors_1/authors_1987_Page_1.xml</uri>
+      <name>Brandon Sanderson</name>
+      <uri>../authors_0/authors_126_Page_1.xml</uri>
     </author>
-    <published>2025-02-20T00:00:00Z</published>
+    <published>2020-02-12T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Lumen</dcterms:publisher>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>La premiada Wendy Guerra, elogiada por Eduardo Mendoza y Alejandro González Iñárritu entre otros, regresa con una conmovedora y original novela.«Una escritora fantástica que siempre sorprende». Milena Busquets«Lírica y desenfadada, cómica, tristísima...</summary>
-    <link href="../book_3/book_3151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Escuadrón" />
+    <summary>Escuadrón [2]: **La continuación de *Escuadrón* , ** **la nueva saga épica de Brandon Sanderson.** Este es el segundo libro de una serie épica sobre una chica que guarda un secreto en un peligroso mundo en guerra por el futuro de la humanidad. En él ...</summary>
+    <link href="../book_3/book_3174.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El museo de las almas literarias [March 10, 2025]</title>
-    <id>calibre:book:3150</id>
-    <updated>2025-03-10T04:00:50Z</updated>
-    <link href="../../John%20Connolly/El%20museo%20de%20las%20almas%20literarias%20%283150%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../John%20Connolly/El%20museo%20de%20las%20almas%20literarias%20%283150%29/El%20museo%20de%20las%20almas%20literaria%20-%20John%20Connolly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="338 KB" />
+    <title>Ve y dilo en la montaña [March 20, 2025]</title>
+    <id>calibre:book:3172</id>
+    <updated>2025-03-20T02:03:14Z</updated>
+    <link href="../../James%20Baldwin/Ve%20y%20dilo%20en%20la%20montana%20%283172%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Baldwin/Ve%20y%20dilo%20en%20la%20montana%20%283172%29/Ve%20y%20dilo%20en%20la%20montana%20-%20James%20Baldwin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="271 KB" />
     <author>
-      <name>John Connolly</name>
-      <uri>../authors_0/authors_28_Page_1.xml</uri>
+      <name>James Baldwin</name>
+      <uri>../authors_2/authors_2000_Page_1.xml</uri>
     </author>
-    <published>2024-11-06T06:00:00Z</published>
+    <published>2025-02-15T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <category term="Novela" />
-    <category term="Intriga" />
+    <dcterms:publisher>Editorial Sexto Piso</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="Bibliomisterios" />
-    <summary>Bibliomisterios [2]: Una obra ganadora del Premio Edgar, otorgado por la Asociación de Escritores de Misterio de Estados Unidos. Lector voraz, el señor Berger lleva una vida solitaria pero satisfactoria. Prefiere la compañía de los libros a la de las...</summary>
-    <link href="../book_3/book_3150.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Un sábado de marzo de 1935, el día en que cumple catorce años, JohnGrimes deambula por las calles de Nueva York mientras rumia algunosasuntos que lo abruman: la difícil relación con su padre, un autoritariopredicador pentecostal de Harlem, la pobreza...</summary>
+    <link href="../book_3/book_3172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La casa de papel [March 10, 2025]</title>
-    <id>calibre:book:3146</id>
-    <updated>2025-03-10T04:00:49Z</updated>
-    <link href="../../Carlos%20Maria%20Dominguez/La%20casa%20de%20papel%20%283146%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Carlos%20Maria%20Dominguez/La%20casa%20de%20papel%20%283146%29/La%20casa%20de%20papel%20-%20Carlos%20Maria%20Dominguez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="155 KB" />
-    <author>
-      <name>Carlos María Domínguez</name>
-      <uri>../authors_1/authors_1983_Page_1.xml</uri>
-    </author>
-    <published>2025-02-25T05:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Periférica</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Tras una muerte que podría calificarse de libresca, atropellada mientras hojeaba un volumen de Emily Dickinson, una profesora de la Universidad de Cambridge es la destinataria póstuma de un ejemplar de La línea de sombra, de Joseph Conrad. El insólit...</summary>
-    <link href="../book_3/book_3146.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El caso Itziar Arregui [March 10, 2025]</title>
-    <id>calibre:book:3147</id>
-    <updated>2025-03-10T04:00:49Z</updated>
-    <link href="../../MCL/El%20caso%20Itziar%20Arregui%20%283147%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../MCL/El%20caso%20Itziar%20Arregui%20%283147%29/El%20caso%20Itziar%20Arregui%20-%20MCL.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="241 KB" />
-    <author>
-      <name>MCL</name>
-      <uri>../authors_1/authors_1984_Page_1.xml</uri>
-    </author>
-    <published>2025-03-04T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <category term="Lang:es" />
-    <category term="Lara Martinez" />
-    <summary>Lara Martinez [1]: Suances, 27 de septiembre de 2008.El cuerpo sin vida de una niña aparece en la cuneta de la carretera que va de Suances a las afueras. Todo apunta a una persona, pero a medida que se investiga más profundo nada es lo que parece. In...</summary>
-    <link href="../book_3/book_3147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Un nombre para tu isla [March 10, 2025]</title>
-    <id>calibre:book:3148</id>
-    <updated>2025-03-10T04:00:50Z</updated>
-    <link href="../../Katya%20Adaui/Un%20nombre%20para%20tu%20isla%20%283148%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Katya%20Adaui/Un%20nombre%20para%20tu%20isla%20%283148%29/Un%20nombre%20para%20tu%20isla%20-%20Katya%20Adaui.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="157 KB" />
-    <author>
-      <name>Katya Adaui</name>
-      <uri>../authors_1/authors_1985_Page_1.xml</uri>
-    </author>
-    <published>2025-02-18T05:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Páginas de Espuma</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>En el paisaje de la amistad y del amor, ¿cómo construimos cada día el puente que une las islas que somos?Entregados a la vida, los protagonistas de estos cuentos inventan las fronteras de sus vínculos, los celebran, los traicionan, los anticipan, los...</summary>
-    <link href="../book_3/book_3148.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Cuando se apagan las luces [March 10, 2025]</title>
-    <id>calibre:book:3142</id>
-    <updated>2025-03-10T04:00:48Z</updated>
-    <link href="../../Care%20Santos/Cuando%20se%20apagan%20las%20luces%20%283142%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Care%20Santos/Cuando%20se%20apagan%20las%20luces%20%283142%29/Cuando%20se%20apagan%20las%20luces%20-%20Care%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="394 KB" />
-    <author>
-      <name>Care Santos</name>
-      <uri>../authors_0/authors_257_Page_1.xml</uri>
-    </author>
-    <published>2024-11-06T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Edebé</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El joven Eric sale del correccional de menores tras cuatro años de internamiento. Sin embargo, la reinserción en una sociedad cargada de prejuicios resultará una realidad todavía más dura: no volver a caer en la delincuencia cuando el entorno parece ...</summary>
-    <link href="../book_3/book_3142.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Gladiadores [March 10, 2025]</title>
-    <id>calibre:book:3145</id>
-    <updated>2025-03-10T04:00:49Z</updated>
-    <link href="../../Nestor%20F.%20Marques%20Gonzalez/Gladiadores%20%283145%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Nestor%20F.%20Marques%20Gonzalez/Gladiadores%20%283145%29/Gladiadores%20-%20Nestor%20F.%20Marques%20Gonzalez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
-    <author>
-      <name>Néstor F. Marqués González</name>
-      <uri>../authors_1/authors_1982_Page_1.xml</uri>
-    </author>
-    <published>2024-10-28T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Espasa</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>¿Alguna vez te has preguntado si realmente los gladiadores morían en los combates? ¿Si se inundaba la arena del Coliseo para celebrar batallas navales? ¿O si gritaban aquello de «¡Ave César, los que van a morir te saludan!»? Ahora tienes la oportunid...</summary>
-    <link href="../book_3/book_3145.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Haereditatem [March 10, 2025]</title>
-    <id>calibre:book:3143</id>
-    <updated>2025-03-10T04:00:48Z</updated>
-    <link href="../../Javier%20Cobo%20Garcia/Haereditatem%20%283143%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Cobo%20Garcia/Haereditatem%20%283143%29/Haereditatem%20-%20Javier%20Cobo%20Garcia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="598 KB" />
-    <author>
-      <name>Javier Cobo García</name>
-      <uri>../authors_1/authors_1980_Page_1.xml</uri>
-    </author>
-    <published>2023-08-19T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Avant Editorial</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Ariel Bloom" />
-    <summary>Ariel Bloom [2]:  La inspectora Ariel Bloom vuelve para enfrentarse al caso más complicado de su carrera, en su momento personal más frágil. Unos horribles asesinatos tienen en jaque a la ciudad de Burgos. Las víctimas: chicas jóvenes, cuyos cuerpos ...</summary>
-    <link href="../book_3/book_3143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Vuelo hacia la libertad [March 10, 2025]</title>
-    <id>calibre:book:3144</id>
-    <updated>2025-03-10T04:00:48Z</updated>
-    <link href="../../Alice%20Hoffman/Vuelo%20hacia%20la%20libertad%20%283144%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Alice%20Hoffman/Vuelo%20hacia%20la%20libertad%20%283144%29/Vuelo%20hacia%20la%20libertad%20-%20Alice%20Hoffman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="931 KB" />
-    <author>
-      <name>Alice Hoffman</name>
-      <uri>../authors_1/authors_1981_Page_1.xml</uri>
-    </author>
-    <published>2025-01-13T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>VR Europa</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El diario de Ana Frank ha cautivado e inspirado a lectores durante décadas. Publicado póstumamente por su afligido padre, el diario de Ana, escrito mientras ella y su familia estaban escondidos durante la Segunda Guerra Mundial, se ha convertido en u...</summary>
-    <link href="../book_3/book_3144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Operación Kerman [March 10, 2025]</title>
-    <id>calibre:book:3141</id>
-    <updated>2025-03-10T04:00:48Z</updated>
-    <link href="../../Sama%20Helalli/Operacion%20Kerman%20%283141%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sama%20Helalli/Operacion%20Kerman%20%283141%29/Operacion%20Kerman%20-%20Sama%20Helalli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Sama Helalli</name>
-      <uri>../authors_1/authors_1979_Page_1.xml</uri>
-    </author>
-    <published>2025-02-27T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Roca Editorial</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Un thriller de acción liderado por mujeres con algo importante que decir sobre el mundo en el que vivimos hoy.Vera y Cloe, dos amigas hartas de ver sus ilusiones, su esfuerzo y su orgullo pisoteados por los más pudientes, deciden tomar cartas en el a...</summary>
-    <link href="../book_3/book_3141.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Xataka [lu., 10 mar. 2025] [March 10, 2025]</title>
-    <id>calibre:book:3140</id>
-    <updated>2025-03-10T03:47:29Z</updated>
-    <link href="../../calibre/Xataka%20%5Blu.%2C%2010%20mar.%202025%5D%20%283140%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../calibre/Xataka%20%5Blu.%2C%2010%20mar.%202025%5D%20%283140%29/Xataka%20%5Blu.%2C%2010%20mar.%202025%5D%20-%20calibre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
+    <title>Xataka [ju., 20 mar. 2025] [March 20, 2025]</title>
+    <id>calibre:book:3171</id>
+    <updated>2025-03-20T02:02:04Z</updated>
+    <link href="../../calibre/Xataka%20%5Bju.%2C%2020%20mar.%202025%5D%20%283171%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../calibre/Xataka%20%5Bju.%2C%2020%20mar.%202025%5D%20%283171%29/Xataka%20%5Bju.%2C%2020%20mar.%202025%5D%20-%20calibre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
       <name>calibre</name>
-      <uri>../authors_1/authors_1978_Page_1.xml</uri>
+      <uri>../authors_1/authors_1999_Page_1.xml</uri>
     </author>
-    <published>2025-03-10T02:47:27Z</published>
+    <published>2025-03-20T01:02:02Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>calibre</dcterms:publisher>
     <category term="Noticias" />
@@ -271,11 +134,11 @@
     <category term="Lang:es" />
     <summary>Artículos en este ejemplar:
 
-El Día del Padre se acerca. Al mío le encanta leer y ya sé qué regalarle
+Cómo reparar tu Chromecast si no funciona: solución definitiva incluso si has restablecido el tuyo
 
-China tiene un plan para alcanzar la supremacía científica en plena pugna con EEUU para liderar en IA
+La UE abre el iPhone a la fuerza: el modelo europeo nunca volverá a ser el mismo
 
-Dos pueblos de Cantabria quieren unirse medi...</summary>
-    <link href="../book_3/book_3140.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+España pidió a 25.000 millones de euros...</summary>
+    <link href="../book_3/book_3171.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

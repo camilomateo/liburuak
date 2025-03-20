@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Una época dorada</title>
+  <id>urn:book:de16a839-2f24-4619-9c79-8e8761c7f5b2</id>
+  <updated>2025-03-14T02:34:11Z</updated>
+  <link href="./book_3162.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Una época dorada" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <link href="../authors_0/authors_194_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Anne Jacobs" />
+  <link href="../../Anne%20Jacobs/Una%20epoca%20dorada%20%283162%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Anne%20Jacobs/Una%20epoca%20dorada%20%283162%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Anne%20Jacobs/Una%20epoca%20dorada%20%283162%29/Una%20epoca%20dorada%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="701 KB" />
+  <author>
+    <name>Anne Jacobs</name>
+    <uri>../authors_0/authors_194_Page_1.xml</uri>
+  </author>
+  <published>2025-03-06T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+  <category term="Lang:es" />
+  <category term="El Café del Ángel" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 5 in the El Café del Ángel series
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p style="font-weight: bold">Nuevos desafíos para la
+      familia Koch y un viaje que despierta anhelos profundamente
+      escondidos en la quinta y emocionante entrega de la nueva
+      saga familiar de Anne Jacobs, autora de La villa de las
+      telas.</p>
+      <p>
+        <strong>Wiesbaden, 1965.</strong>
+        El Café del Ángel
+      vive años prósperos bajo la dirección de Hilde
+      y necesita con urgencia más personal. Pero cuando Hilde
+      contrata a un nuevo camarero italiano, Giuseppe, a sus padres
+      les resulta difícil aceptar su mentalidad
+      «sureña». También hay turbulencias en el
+      matrimonio de su hermano, Willi, que triunfa en el teatro de
+      Wiesbaden mientras coquetea con una guapa compañera.
+      Cuando la situación en el café llega a un punto
+      insostenible, Hilde decide hacer las maletas. Inspirada por
+      las descripciones de Giuseppe de su tierra natal, parte hacia
+      Italia con su cuñada Svetlana. Ambas anhelan tomarse un
+      respiro, pero ¿realmente van a dejar el café en
+      manos de la familia? El sol del verano y el mar azul pueden
+      hacer olvidar todas las dudas...
+      </p>
+    </div>
+  </content>
+  <link href="../series_0/series_232_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 5 in the El Café del Ángel series" />
+  <link href="../authors_0/authors_194_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Anne Jacobs" />
+</entry>

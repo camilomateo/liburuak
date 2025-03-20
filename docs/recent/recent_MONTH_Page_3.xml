@@ -13,509 +13,286 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <link href="./recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous month" />
-  <link href="../recent/recent_MONTH_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 8)" />
   <entry>
-    <title>Cuentos completos I [February 12, 2025]</title>
-    <id>calibre:book:3032</id>
-    <updated>2025-02-12T01:51:56Z</updated>
-    <link href="../../Isaac%20Asimov/Cuentos%20completos%20I%20%283032%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Cuentos%20completos%20I%20%283032%29/Cuentos%20completos%20I%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <title>Escalera interior [February 20, 2025]</title>
+    <id>calibre:book:3077</id>
+    <updated>2025-02-20T06:11:44Z</updated>
+    <link href="../../Almudena%20Grandes/Escalera%20interior%20%283077%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Almudena%20Grandes/Escalera%20interior%20%283077%29/Escalera%20interior%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Almudena Grandes</name>
+      <uri>../authors_0/authors_39_Page_1.xml</uri>
     </author>
-    <published>1989-12-31T11:00:00Z</published>
+    <published>2025-01-15T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Relato" />
-    <category term="Ciencia Ficción" />
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Lo que cualquier lector, entre los miles de seguidores de la obra de Asimov, siempre había anhelado: tener a su alcance la amplísima producción de cuentos que el autor llegó a elaborar. Este primer tomo de la colección completa de cuentos cortos de I...</summary>
-    <link href="../book_3/book_3032.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>El libro que faltaba de Almudena Grandes. Las historias y las escenas cotidianas que resumen el mundo de una escritora irrepetible.Escalera interior es el murmullo de los patios de luces que recogen olores de guisos, ruidos de cacharros y cucharones,...</summary>
+    <link href="../book_3/book_3077.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El electrón es zurdo y otros ensayos científicos [February 12, 2025]</title>
-    <id>calibre:book:3037</id>
-    <updated>2025-02-12T01:51:56Z</updated>
-    <link href="../../Isaac%20Asimov/El%20electron%20es%20zurdo%20y%20otros%20ensayo%20%283037%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/El%20electron%20es%20zurdo%20y%20otros%20ensayo%20%283037%29/El%20electron%20es%20zurdo%20y%20otros%20en%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="627 KB" />
+    <title>Lucía y el infinito [February 20, 2025]</title>
+    <id>calibre:book:3079</id>
+    <updated>2025-02-20T06:11:44Z</updated>
+    <link href="../../Sara%20Codina/Lucia%20y%20el%20infinito%20%283079%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sara%20Codina/Lucia%20y%20el%20infinito%20%283079%29/Lucia%20y%20el%20infinito%20-%20Sara%20Codina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="652 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Sara Codina</name>
+      <uri>../authors_1/authors_1943_Page_1.xml</uri>
     </author>
-    <published>1963-12-31T11:00:00Z</published>
+    <published>2025-01-21T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Divulgación" />
-    <category term="Ciencias naturales" />
+    <dcterms:publisher>Lunwerg Editores</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Esta nueva recopilación de artículos de divulgación científica escritos por ISAAC ASIMOV se abre con un divertido trabajo sobre la capacidad pronosticadora de la novela científica, al que siguen dos ensayos en torno a las leyes que gobiernan la expan...</summary>
-    <link href="../book_3/book_3037.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Tras el éxito de Neurodivina y punto, Sara Codina da el salto a la ficción con una novela lúcida, entrañable y divertida sobre el día a día de una mujer autista con diagnóstico tardío.Lucía está harta de aguantar a su compañero de trabajo trepa. De v...</summary>
+    <link href="../book_3/book_3079.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La medición del Universo [February 12, 2025]</title>
-    <id>calibre:book:3034</id>
-    <updated>2025-02-12T01:51:56Z</updated>
-    <link href="../../Isaac%20Asimov/La%20medicion%20del%20Universo%20%283034%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/La%20medicion%20del%20Universo%20%283034%29/La%20medicion%20del%20Universo%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="379 KB" />
+    <title>Ruta misteriosa por los cementerios de España (Spanish Edition) [February 19, 2025]</title>
+    <id>calibre:book:3075</id>
+    <updated>2025-02-19T09:23:30Z</updated>
+    <link href="../../Marta%20Sanmamed/Ruta%20misteriosa%20por%20los%20cementerios%20%283075%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marta%20Sanmamed/Ruta%20misteriosa%20por%20los%20cementerios%20%283075%29/Ruta%20misteriosa%20por%20los%20cemente%20-%20Marta%20Sanmamed.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="9 MB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Marta Sanmamed</name>
+      <uri>../authors_1/authors_1940_Page_1.xml</uri>
     </author>
-    <published>1983-12-31T11:00:00Z</published>
+    <published>2024-06-24T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Divulgación" />
-    <category term="Ciencias naturales" />
-    <category term="Ciencias exactas" />
+    <dcterms:publisher>Almuzara</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>En esta obra, Asimov ha elegido nuestro entero Universo para mostrar cuán grande es lo grande y cuán pequeño es lo pequeño. Por ejemplo, en «La escalera de la longitud» se mueve desde los átomos a los objetos visibles, directamente a través del tamañ...</summary>
-    <link href="../book_3/book_3034.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Las necrópolis son lugares de rito, donde los vivos y los muertos encuentran su nexo de unión. Pero también son espacios de memoria donde cada individuo configura la coincidencia de toda la colectividad. En España se ha consolidado «el turismo de cem...</summary>
+    <link href="../book_3/book_3075.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>El secreto del universo y otros ensayos científicos [February 12, 2025]</title>
-    <id>calibre:book:3033</id>
-    <updated>2025-02-12T01:51:56Z</updated>
-    <link href="../../Isaac%20Asimov/El%20secreto%20del%20universo%20y%20otros%20ens%20%283033%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/El%20secreto%20del%20universo%20y%20otros%20ens%20%283033%29/El%20secreto%20del%20universo%20y%20otros%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="644 KB" />
+    <title>Ciudad de cenizas [February 19, 2025]</title>
+    <id>calibre:book:3073</id>
+    <updated>2025-02-19T09:18:48Z</updated>
+    <link href="../../Kike%20Corella/Ciudad%20de%20cenizas%20%283073%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kike%20Corella/Ciudad%20de%20cenizas%20%283073%29/Ciudad%20de%20cenizas%20-%20Kike%20Corella.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="340 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Kike Corella</name>
+      <uri>../authors_1/authors_1938_Page_1.xml</uri>
     </author>
-    <published>1988-12-31T11:00:00Z</published>
+    <published>2023-11-22T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Divulgación" />
-    <category term="Ciencias naturales" />
-    <category term="Ciencias exactas" />
+    <dcterms:publisher>Editorial Almuzara</dcterms:publisher>
+    <category term="Misterios" />
+    <category term="Thriller" />
     <category term="Lang:es" />
-    <summary>De una forma clara y lúcida, el autor nos introduce en temas científicos como galaxias, átomos, relatividad o la evolución de las especies, y otros no tanto pero si de interés como el racismo, la sexualidad, el alma o las pseudociencias, tan de moda ...</summary>
-    <link href="../book_3/book_3033.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>En la Barcelona de 1909, Enrique Hernández, un joven sereno, se topa con un extraño olor a quemado mientras patrulla las calles del barrio de La Seca. Al entrar al domicilio, la policía encuentra una montaña de ceniza sobre unos zapatos de mujer dela...</summary>
+    <link href="../book_3/book_3073.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Civilizaciones Extraterrestres [February 12, 2025]</title>
-    <id>calibre:book:3031</id>
-    <updated>2025-02-12T01:51:56Z</updated>
-    <link href="../../Isaac%20Asimov/Civilizaciones%20Extraterrestres%20%283031%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Civilizaciones%20Extraterrestres%20%283031%29/Civilizaciones%20Extraterrestres%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="300 KB" />
+    <title>La esposa del mercader [February 19, 2025]</title>
+    <id>calibre:book:3071</id>
+    <updated>2025-02-19T09:18:48Z</updated>
+    <link href="../../Anna%20Jacobs/La%20esposa%20del%20mercader%20%283071%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anna%20Jacobs/La%20esposa%20del%20mercader%20%283071%29/La%20esposa%20del%20mercader%20-%20Anna%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="580 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Anna Jacobs</name>
+      <uri>../authors_1/authors_1936_Page_1.xml</uri>
     </author>
-    <published>1978-12-31T11:00:00Z</published>
+    <published>2025-02-11T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Divulgación" />
-    <category term="Ciencias naturales" />
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Romance" />
+    <category term="Historical" />
+    <category term="General" />
     <category term="Lang:es" />
-    <summary>¿Estamos solos en el cosmos? ¿Somos los seres humanos los únicos capaces de escrutar las profundidades del espacio? ¿Los únicos que hemos creado dispositivos para prolongar el alcance de nuestros sentidos? ¿Los únicos dotados de inteligencia para com...</summary>
-    <link href="../book_3/book_3031.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Una inolvidable saga familiar en la Australia colonial del siglo XIX. Más de 5.000.000 millones de lectores en todo el mundo. Una tierra lejana y peligrosa. Una mujer sin miedo a nada. Un destino por construir. La joven inglesa Isabella Saunders se h...</summary>
+    <link href="../book_3/book_3071.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Cuentos completos II [February 12, 2025]</title>
-    <id>calibre:book:3030</id>
-    <updated>2025-02-12T01:51:55Z</updated>
-    <link href="../../Isaac%20Asimov/Cuentos%20completos%20II%20%283030%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Cuentos%20completos%20II%20%283030%29/Cuentos%20completos%20II%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>La verdad sobre el caso del psiquiatra desaparecido [February 19, 2025]</title>
+    <id>calibre:book:3074</id>
+    <updated>2025-02-19T09:18:48Z</updated>
+    <link href="../../Tom%20Mead/La%20verdad%20sobre%20el%20caso%20del%20psiquia%20%283074%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tom%20Mead/La%20verdad%20sobre%20el%20caso%20del%20psiquia%20%283074%29/La%20verdad%20sobre%20el%20caso%20del%20psi%20-%20Tom%20Mead.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="546 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Tom Mead</name>
+      <uri>../authors_1/authors_1939_Page_1.xml</uri>
     </author>
-    <published>1991-12-31T11:00:00Z</published>
+    <published>2025-01-09T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Relato" />
-    <category term="Ciencia Ficción" />
+    <dcterms:publisher>Newton Compton Editores</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Los miles de lectores de Asimov, que vienen apasionándose desde hace más de cincuenta años con sus cuentos de ciencia ficción, van topando muy a menudo con el problema de que se trata de un autor tan prolífico que resulta imposible tener la certeza d...</summary>
-    <link href="../book_3/book_3030.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Un crimen imposible, un mago retirado y un asesino desaparecido como por arte de magia Londres, 1936. El célebre psiquiatra Anselm Rees aparece muerto en su estudio, asesinado. La ventana está sellada y la puerta cerrada con llave por dentro. No hay...</summary>
+    <link href="../book_3/book_3074.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>De Saturno a Plutón [February 12, 2025]</title>
-    <id>calibre:book:3025</id>
-    <updated>2025-02-12T01:51:55Z</updated>
-    <link href="../../Isaac%20Asimov/De%20Saturno%20a%20Pluton%20%283025%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/De%20Saturno%20a%20Pluton%20%283025%29/De%20Saturno%20a%20Pluton%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>Zapatos de lluvia [February 19, 2025]</title>
+    <id>calibre:book:3072</id>
+    <updated>2025-02-19T09:18:48Z</updated>
+    <link href="../../Mayte%20Magdalena/Zapatos%20de%20lluvia%20%283072%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mayte%20Magdalena/Zapatos%20de%20lluvia%20%283072%29/Zapatos%20de%20lluvia%20-%20Mayte%20Magdalena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="643 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Mayte Magdalena</name>
+      <uri>../authors_1/authors_1937_Page_1.xml</uri>
     </author>
-    <published>1978-12-31T11:00:00Z</published>
+    <published>2025-02-11T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Ensayo" />
-    <category term="Ciencias naturales" />
+    <dcterms:publisher>NdeNovela</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>La invención del telescopio amplió radicalmente los confines celestes de nuestro mundo antiguo. Si Galileo observó en 1610 los anillos de Saturno, cuya estructura explicaría en 1655 Huygens, el descubrimiento de Urano por W. Herschel en 1781, de Nept...</summary>
-    <link href="../book_3/book_3025.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Una novela inolvidable que removerá tu corazón Madrid, principios del siglo XX. Paola es apenas una muchacha cuando, cansada de ser una carga para su familia, decide mudarse a la capital con una maleta repleta de sueños anhelando experimentar la vida...</summary>
+    <link href="../book_3/book_3072.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Fundación [February 12, 2025]</title>
-    <id>calibre:book:3028</id>
-    <updated>2025-02-12T01:51:55Z</updated>
-    <link href="../../Isaac%20Asimov/Fundacion%20%283028%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Fundacion%20%283028%29/Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="418 KB" />
+    <title>El dedo en la boca y Las estatuas de agua [February 19, 2025]</title>
+    <id>calibre:book:3067</id>
+    <updated>2025-02-19T09:18:47Z</updated>
+    <link href="../../Fleur%20Jaeggy/El%20dedo%20en%20la%20boca%20y%20Las%20estatuas%20d%20%283067%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fleur%20Jaeggy/El%20dedo%20en%20la%20boca%20y%20Las%20estatuas%20d%20%283067%29/El%20dedo%20en%20la%20boca%20y%20Las%20estatu%20-%20Fleur%20Jaeggy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="451 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Fleur Jaeggy</name>
+      <uri>../authors_1/authors_1934_Page_1.xml</uri>
     </author>
-    <published>1950-12-31T11:00:00Z</published>
+    <published>2024-12-09T10:35:05Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Ciencia Ficción" />
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="Saga de la Fundación: Ciclo de Trantor" />
-    <summary>Saga de la Fundación: Ciclo de Trantor [3]: Mucho tiempo después de que la Tierra pasara al olvido, la galaxia se unificó alrededor de un Imperio pacífico gobernado desde la majestuosa ciudad de Trántor. El sistema funcionó y prosperó durante inconta...</summary>
-    <link href="../book_3/book_3028.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Dos novelas con las que la autora de culto Fleur Jaeggy inició su andadura, reunidas en un volumen.
+«Una escritora maravillosa, brillante, salvaje.» Susan Sontag
+«Duración de la lectura: aproximadamente cuatro horas. Duración del recuerdo, y de la au...</summary>
+    <link href="../book_3/book_3067.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Hacia la Fundación [February 12, 2025]</title>
-    <id>calibre:book:3027</id>
-    <updated>2025-02-12T01:51:55Z</updated>
-    <link href="../../Isaac%20Asimov/Hacia%20la%20Fundacion%20%283027%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Hacia%20la%20Fundacion%20%283027%29/Hacia%20la%20Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="464 KB" />
+    <title>El hombre de cristal [February 19, 2025]</title>
+    <id>calibre:book:3069</id>
+    <updated>2025-02-19T09:18:47Z</updated>
+    <link href="../../Anders%20de%20La%20Motte/El%20hombre%20de%20cristal%20%283069%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anders%20de%20La%20Motte/El%20hombre%20de%20cristal%20%283069%29/El%20hombre%20de%20cristal%20-%20Anders%20de%20La%20Motte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="640 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Anders de La Motte</name>
+      <uri>../authors_0/authors_836_Page_1.xml</uri>
     </author>
-    <published>1992-12-31T11:00:00Z</published>
+    <published>2025-02-05T06:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Ciencia Ficción" />
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="Saga de la Fundación: Ciclo de Trantor" />
-    <summary>Saga de la Fundación: Ciclo de Trantor [2]: Mientras Hari Seldon se esfuerza por perfeccionar su revolucionaria teoría de la psicohistoria, el gran Imperio Galáctico está al borde de un colapso apocalíptico. Seldon y aquellos a los que más quiere se ...</summary>
-    <link href="../book_3/book_3027.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Vuelve Anders de la Motte, el autor de novela negra que arrasa en Europa con la serie de la Unidad de Casos Perdidos.La inspectora Leonore Asker, al mando de la peculiar Unidad de Casos Perdidos, recibe una llamada del todo inesperada: su padre, con ...</summary>
+    <link href="../book_3/book_3069.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Más Allá 5 [February 12, 2025]</title>
-    <id>calibre:book:3029</id>
-    <updated>2025-02-12T01:51:55Z</updated>
-    <link href="../../AA.%20VV_/Mas%20Alla%205%20%283029%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../AA.%20VV_/Mas%20Alla%205%20%283029%29/Mas%20Alla%205%20-%20AA.%20VV_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <title>Parabere [February 19, 2025]</title>
+    <id>calibre:book:3066</id>
+    <updated>2025-02-19T09:18:47Z</updated>
+    <link href="../../Andrea%20Cabrera%20Knallinsky/Parabere%20%283066%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andrea%20Cabrera%20Knallinsky/Parabere%20%283066%29/Parabere%20-%20Andrea%20Cabrera%20Knallinsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="729 KB" />
     <author>
-      <name>AA. VV.</name>
-      <uri>../authors_1/authors_1918_Page_1.xml</uri>
+      <name>Andrea Cabrera Kñallinsky</name>
+      <uri>../authors_1/authors_1933_Page_1.xml</uri>
     </author>
-    <published>1953-09-30T11:00:00Z</published>
+    <published>2025-01-20T08:28:11Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Ciencia Ficción" />
-    <category term="Fantástico" />
-    <category term="Publicaciones periódicas" />
-    <category term="Relato" />
+    <dcterms:publisher>Siruela</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="Más Allá" />
-    <summary>Más Allá [5]: Revista mensual de aventuras apasionantes en el mundo de la magia científica.</summary>
-    <link href="../book_3/book_3029.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>FINALISTA DEL PREMIO DE NOVELA CAFÉ GIJÓN 2024«Una novela que se lee con un placer innegable, como los platos de los que habla, y que nos traslada a la vida de una mujer excepcional».Del acta del juradoMaría Mestayer de Echagüe, también conocida por ...</summary>
+    <link href="../book_3/book_3066.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Preludio a la Fundación [February 12, 2025]</title>
-    <id>calibre:book:3026</id>
-    <updated>2025-02-12T01:51:55Z</updated>
-    <link href="../../Isaac%20Asimov/Preludio%20a%20la%20Fundacion%20%283026%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Preludio%20a%20la%20Fundacion%20%283026%29/Preludio%20a%20la%20Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="413 KB" />
+    <title>Quiérete bien, quiere mejor [February 19, 2025]</title>
+    <id>calibre:book:3068</id>
+    <updated>2025-02-19T09:18:47Z</updated>
+    <link href="../../Maria%20Nicolau/Quierete%20bien%2C%20quiere%20mejor%20%283068%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Nicolau/Quierete%20bien%2C%20quiere%20mejor%20%283068%29/Quierete%20bien%2C%20quiere%20mejor%20-%20Maria%20Nicolau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="967 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>María Nicolau</name>
+      <uri>../authors_0/authors_503_Page_1.xml</uri>
     </author>
-    <published>1987-12-31T11:00:00Z</published>
+    <published>2024-11-14T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Ciencia Ficción" />
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="Saga de la Fundación: Ciclo de Trantor" />
-    <summary>Saga de la Fundación: Ciclo de Trantor [1]: Corre el año 12020 E. G. y el último emperador galáctico de la dinastía Autun, Cleón I, ocupa el trono en un entorno de incertidumbre. Son tiempos turbulentos y Cleón está desesperado por imponer algo de ca...</summary>
-    <link href="../book_3/book_3026.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>¿Has oído alguna vez aquello de «nadie te querrá hasta que no lo hagas tú»? En realidad, la pregunta debería ser: ¿cómo nos quieren?, ¿nos quieren bien? Y, sobre todo, ¿nos queremos bien a nosotras mismas?Crear tu concepto de amor, romper con los mit...</summary>
+    <link href="../book_3/book_3068.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Cleón, el emperador [February 12, 2025]</title>
-    <id>calibre:book:3021</id>
-    <updated>2025-02-12T01:51:54Z</updated>
-    <link href="../../Isaac%20Asimov/Cleon%2C%20el%20emperador%20%283021%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Cleon%2C%20el%20emperador%20%283021%29/Cleon%2C%20el%20emperador%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="423 KB" />
+    <title>El tercer amor [February 19, 2025]</title>
+    <id>calibre:book:3070</id>
+    <updated>2025-02-19T09:18:48Z</updated>
+    <link href="../../Hiromi%20Kawakami/El%20tercer%20amor%20%283070%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hiromi%20Kawakami/El%20tercer%20amor%20%283070%29/El%20tercer%20amor%20-%20Hiromi%20Kawakami.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="563 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Hiromi Kawakami</name>
+      <uri>../authors_1/authors_1935_Page_1.xml</uri>
     </author>
-    <published>1991-12-31T11:00:00Z</published>
+    <published>2025-01-28T02:37:31Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Relato" />
-    <category term="Ciencia Ficción" />
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>Cleón I se sienta en el trono del Imperio Galáctico, que se deteriora lentamente. El psicohistoriador Hari Seldon y su esposa Dors Venabili conspiran para garantizar la seguridad del emperador enviando a su hijo adoptivo Raych a descubrir un complot ...</summary>
-    <link href="../book_3/book_3021.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Una delicada historia sobre deseo y desamor por la gran autora japonesa ganadora de los premios Akutagawa,Ito Sei o Tanizaki que conquistó a miles de lectores con El cielo es azul, la tierra blanca.«Hiromi Kawakami: las cosas sencillas son melancólic...</summary>
+    <link href="../book_3/book_3070.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Fundación e Imperio [February 12, 2025]</title>
-    <id>calibre:book:3024</id>
-    <updated>2025-02-12T01:51:54Z</updated>
-    <link href="../../Isaac%20Asimov/Fundacion%20e%20Imperio%20%283024%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Fundacion%20e%20Imperio%20%283024%29/Fundacion%20e%20Imperio%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="315 KB" />
+    <title>Todas las flores que olvidamos [February 19, 2025]</title>
+    <id>calibre:book:3064</id>
+    <updated>2025-02-19T09:18:47Z</updated>
+    <link href="../../Clara%20Sanz/Todas%20las%20flores%20que%20olvidamos%20%283064%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Clara%20Sanz/Todas%20las%20flores%20que%20olvidamos%20%283064%29/Todas%20las%20flores%20que%20olvidamos%20-%20Clara%20Sanz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="592 KB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Clara Sanz</name>
+      <uri>../authors_1/authors_1931_Page_1.xml</uri>
     </author>
-    <published>1951-12-31T11:00:00Z</published>
+    <published>0101-01-01T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Ciencia Ficción" />
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="Saga de la Fundación: Ciclo de Trantor" />
-    <summary>Saga de la Fundación: Ciclo de Trantor [4]: Dirigida por su padre fundador, el gran psicohistoriador Hari Seldon, y beneficiada por una ciencia y una tecnología superiores, la Fundación ha sobrevivido a la avaricia de sus belicosos vecinos. Ahora deb...</summary>
-    <link href="../book_3/book_3024.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>¿Qué ocurre cuando el destino se empeña en devolverte al pasado?Me llamo Isabel, aunque siempre he querido que me llamen Bella. Mi vida se parecía mucho a la de cualquier chica hasta que un día recibí una carta desde el pueblo soriano en el que veran...</summary>
+    <link href="../book_3/book_3064.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Más Allá 11 [February 12, 2025]</title>
-    <id>calibre:book:3022</id>
-    <updated>2025-02-12T01:51:54Z</updated>
-    <link href="../../AA.%20VV_/Mas%20Alla%2011%20%283022%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../AA.%20VV_/Mas%20Alla%2011%20%283022%29/Mas%20Alla%2011%20-%20AA.%20VV_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <title>Las verbenas también lloran [February 19, 2025]</title>
+    <id>calibre:book:3065</id>
+    <updated>2025-02-19T09:18:47Z</updated>
+    <link href="../../Natalia%20Saez/Las%20verbenas%20tambien%20lloran%20%283065%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Natalia%20Saez/Las%20verbenas%20tambien%20lloran%20%283065%29/Las%20verbenas%20tambien%20lloran%20-%20Natalia%20Saez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="597 KB" />
     <author>
-      <name>AA. VV.</name>
-      <uri>../authors_1/authors_1918_Page_1.xml</uri>
+      <name>Natalia Sáez</name>
+      <uri>../authors_1/authors_1932_Page_1.xml</uri>
     </author>
-    <published>1954-03-31T11:00:00Z</published>
+    <published>2025-02-05T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Ciencia Ficción" />
-    <category term="Fantástico" />
-    <category term="Publicaciones periódicas" />
-    <category term="Relato" />
+    <dcterms:publisher>SUMA</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="Más Allá" />
-    <summary>Más Allá [11]: Revista mensual de aventuras apasionantes en el mundo de la magia científica.</summary>
-    <link href="../book_3/book_3022.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Una novela coral tierna, original, diferente, emocional, divertida. La versión botánica de Sexo en Nueva York. Cata necesita empezar de nuevo tras comprender que su vida ha sido una mentira, y Bilbao le parece la mejor opción. Durante sus primeros dí...</summary>
+    <link href="../book_3/book_3065.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Más Allá 12 [February 12, 2025]</title>
-    <id>calibre:book:3020</id>
-    <updated>2025-02-12T01:51:54Z</updated>
-    <link href="../../AA.%20VV_/Mas%20Alla%2012%20%283020%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../AA.%20VV_/Mas%20Alla%2012%20%283020%29/Mas%20Alla%2012%20-%20AA.%20VV_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <title>El misterio de la familia Bellay [February 19, 2025]</title>
+    <id>calibre:book:3062</id>
+    <updated>2025-02-19T09:18:46Z</updated>
+    <link href="../../Ruth%20Kelly/El%20misterio%20de%20la%20familia%20Bellay%20%283062%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ruth%20Kelly/El%20misterio%20de%20la%20familia%20Bellay%20%283062%29/El%20misterio%20de%20la%20familia%20Bella%20-%20Ruth%20Kelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="636 KB" />
     <author>
-      <name>AA. VV.</name>
-      <uri>../authors_1/authors_1918_Page_1.xml</uri>
+      <name>Ruth Kelly</name>
+      <uri>../authors_1/authors_1929_Page_1.xml</uri>
     </author>
-    <published>1954-04-30T11:00:00Z</published>
+    <published>2025-01-09T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Ciencia Ficción" />
-    <category term="Fantástico" />
-    <category term="Publicaciones periódicas" />
-    <category term="Relato" />
+    <dcterms:publisher>Newton Compton Editores</dcterms:publisher>
     <category term="Lang:es" />
-    <category term="Más Allá" />
-    <summary>Más Allá [12]: Revista mensual de aventuras apasionantes en el mundo de la magia científica.</summary>
-    <link href="../book_3/book_3020.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>El lado más retorcido de las redes sociales. Un thriller sobre lo que se esconde detrás de ser influencer. Cuanto más grande es la casa, más oscuros son los secretos. Un nuevo comienzo, un terrible final. Adele, una vlogger de éxito, está atravesando...</summary>
+    <link href="../book_3/book_3062.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Trilogía de Fundación [February 12, 2025]</title>
-    <id>calibre:book:3023</id>
-    <updated>2025-02-12T01:51:54Z</updated>
-    <link href="../../Isaac%20Asimov/Trilogia%20de%20Fundacion%20%283023%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Trilogia%20de%20Fundacion%20%283023%29/Trilogia%20de%20Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="912 KB" />
+    <title>Órbitas [February 19, 2025]</title>
+    <id>calibre:book:3063</id>
+    <updated>2025-02-19T09:18:46Z</updated>
+    <link href="../../Sara%20Garcia%20Alonso/Orbitas%20%283063%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sara%20Garcia%20Alonso/Orbitas%20%283063%29/Orbitas%20-%20Sara%20Garcia%20Alonso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
+      <name>Sara García Alonso</name>
+      <uri>../authors_1/authors_1930_Page_1.xml</uri>
     </author>
-    <published>1962-12-31T11:00:00Z</published>
+    <published>2025-01-23T00:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Ciencia Ficción" />
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
     <category term="Lang:es" />
-    <summary>El Imperio Galáctico se derrumbaba. Su caída era inexorable, pero tan lenta como extenso el Imperio. Habría pasado desapercibida de no ser por un hombre, Hari Seldon, que supo adelantarse al futuro: mediante la ciencia de la psicohistoria, calculó qu...</summary>
-    <link href="../book_3/book_3023.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sara García Alonso -la primera astronauta española de la Agencia Espacial Europea- comparte su particular experiencia para ofrecernos claves sobre cómo plantear y afrontar los desafíos.«Un viaje absolutamente personal a través de seis órbitas que nos...</summary>
+    <link href="../book_3/book_3063.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Trilogía Fundación [February 12, 2025]</title>
-    <id>calibre:book:3019</id>
-    <updated>2025-02-12T01:51:54Z</updated>
-    <link href="../../Isaac%20Asimov/Trilogia%20Fundacion%20%283019%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Trilogia%20Fundacion%20%283019%29/Trilogia%20Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="18 MB" />
-    <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
-    </author>
-    <published>1962-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Ciencia Ficción" />
-    <category term="Lang:es" />
-    <summary>Isaac Asimov empezó a escribir la saga de la Fundación a los veintiún años, sin saber que un día esta obra se convertiría en la piedra angular de la ciencia ficción del siglo XX, ni que con ella cautivaría a lectores de todas las edades durante más d...</summary>
-    <link href="../book_3/book_3019.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Con la Tierra nos basta [February 12, 2025]</title>
-    <id>calibre:book:3015</id>
-    <updated>2025-02-12T01:51:53Z</updated>
-    <link href="../../Isaac%20Asimov/Con%20la%20Tierra%20nos%20basta%20%283015%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Con%20la%20Tierra%20nos%20basta%20%283015%29/Con%20la%20Tierra%20nos%20basta%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="284 KB" />
-    <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
-    </author>
-    <published>1950-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Relato" />
-    <category term="Ciencia Ficción" />
-    <category term="Lang:es" />
-    <category term="Super Ficción" />
-    <summary>Super Ficción [65]: En este volumen, el maestro Asimov muestra en quince lecciones cómo se escribe el cuento corto de ciencia ficción: la idea brillante, el desarrollo rápido con economía de medios expresivos, el sorprendente giro final, encerrando t...</summary>
-    <link href="../book_3/book_3015.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Más Allá 13 [February 12, 2025]</title>
-    <id>calibre:book:3018</id>
-    <updated>2025-02-12T01:51:53Z</updated>
-    <link href="../../AA.%20VV_/Mas%20Alla%2013%20%283018%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../AA.%20VV_/Mas%20Alla%2013%20%283018%29/Mas%20Alla%2013%20-%20AA.%20VV_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
-    <author>
-      <name>AA. VV.</name>
-      <uri>../authors_1/authors_1918_Page_1.xml</uri>
-    </author>
-    <published>1954-05-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Ciencia Ficción" />
-    <category term="Fantástico" />
-    <category term="Publicaciones periódicas" />
-    <category term="Relato" />
-    <category term="Lang:es" />
-    <category term="Más Allá" />
-    <summary>Más Allá [13]: Revista mensual de aventuras apasionantes en el mundo de la magia científica.</summary>
-    <link href="../book_3/book_3018.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Rebelión en la galaxia [February 12, 2025]</title>
-    <id>calibre:book:3016</id>
-    <updated>2025-02-12T01:51:53Z</updated>
-    <link href="../../Isaac%20Asimov/Rebelion%20en%20la%20galaxia%20%283016%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Rebelion%20en%20la%20galaxia%20%283016%29/Rebelion%20en%20la%20galaxia%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="406 KB" />
-    <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
-    </author>
-    <published>1950-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Ciencia Ficción" />
-    <category term="Lang:es" />
-    <category term="Nebulae - Primera Época" />
-    <summary>Nebulae - Primera Época [20]: El Universo entero se halla subyugado por un poder casi infinito: el Imperio lntergaláctico, que gobierna con férrea mano millares de soles y galaxias y billones de planetas habitados. Pero los poderosos señores del Cosm...</summary>
-    <link href="../book_3/book_3016.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Segunda Fundación [February 12, 2025]</title>
-    <id>calibre:book:3017</id>
-    <updated>2025-02-12T01:51:53Z</updated>
-    <link href="../../Isaac%20Asimov/Segunda%20Fundacion%20%283017%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Segunda%20Fundacion%20%283017%29/Segunda%20Fundacion%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="292 KB" />
-    <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
-    </author>
-    <published>1952-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Ciencia Ficción" />
-    <category term="Lang:es" />
-    <category term="Saga de la Fundación - Ciclo de Trantor" />
-    <summary>Saga de la Fundación - Ciclo de Trantor [5]: El mulo, mutante que no figuraba en las ecuaciones de Hari Seldon, ha tenido conocimiento de la existencia de una Segunda Fundación, totalmente secreta y cuyo emplazamiento es desconocido incluso para los ...</summary>
-    <link href="../book_3/book_3017.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>A lo marciano [February 12, 2025]</title>
-    <id>calibre:book:3014</id>
-    <updated>2025-02-12T01:51:53Z</updated>
-    <link href="../../Isaac%20Asimov/A%20lo%20marciano%20%283014%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/A%20lo%20marciano%20%283014%29/A%20lo%20marciano%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="408 KB" />
-    <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
-    </author>
-    <published>1951-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Ciencia Ficción" />
-    <category term="Lang:es" />
-    <category term="Super Ficción" />
-    <summary>Super Ficción [61]: A lo marciano dos novelas cortas y dos relatos de Isaac Asimov publicados originalmente a principios de los años cincuenta, década que se recuerda como la más fructífera y memorable de toda la su trayectoria como escritor de cienc...</summary>
-    <link href="../book_3/book_3014.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El hombre del Bicentenario [February 12, 2025]</title>
-    <id>calibre:book:3013</id>
-    <updated>2025-02-12T01:51:52Z</updated>
-    <link href="../../Isaac%20Asimov/El%20hombre%20del%20Bicentenario%20%283013%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/El%20hombre%20del%20Bicentenario%20%283013%29/El%20hombre%20del%20Bicentenario%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="323 KB" />
-    <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
-    </author>
-    <published>1976-04-29T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Relato" />
-    <category term="Ciencia Ficción" />
-    <category term="Lang:es" />
-    <category term="Super Ficción" />
-    <summary>Super Ficción [35]: Este volumen, publicado en conmemoración de casi medio siglo de trabajo literario de ISAAC ASIMOV, contiene once relatos recientes, incluido el popular EL HOMBRE DEL BICENTENARIO (que a su vez conmemora Sa declaración de la Indepe...</summary>
-    <link href="../book_3/book_3013.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Más Allá 14 [February 12, 2025]</title>
-    <id>calibre:book:3011</id>
-    <updated>2025-02-12T01:51:52Z</updated>
-    <link href="../../AA.%20VV_/Mas%20Alla%2014%20%283011%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../AA.%20VV_/Mas%20Alla%2014%20%283011%29/Mas%20Alla%2014%20-%20AA.%20VV_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
-    <author>
-      <name>AA. VV.</name>
-      <uri>../authors_1/authors_1918_Page_1.xml</uri>
-    </author>
-    <published>1954-06-30T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Ciencia Ficción" />
-    <category term="Fantástico" />
-    <category term="Publicaciones periódicas" />
-    <category term="Relato" />
-    <category term="Lang:es" />
-    <category term="Más Allá" />
-    <summary>Más Allá [14]: Revista mensual de aventuras apasionantes en el mundo de la magia científica.</summary>
-    <link href="../book_3/book_3011.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Trilogía del Imperio [February 12, 2025]</title>
-    <id>calibre:book:3012</id>
-    <updated>2025-02-12T01:51:52Z</updated>
-    <link href="../../Isaac%20Asimov/Trilogia%20del%20Imperio%20%283012%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Isaac%20Asimov/Trilogia%20del%20Imperio%20%283012%29/Trilogia%20del%20Imperio%20-%20Isaac%20Asimov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
-    <author>
-      <name>Isaac Asimov</name>
-      <uri>../authors_1/authors_1907_Page_1.xml</uri>
-    </author>
-    <published>1951-12-31T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Novela" />
-    <category term="Ciencia Ficción" />
-    <category term="Lang:es" />
-    <summary>Entre las novelas de Robots y la serie de la Fundación se encuentra la Trilogía del Imperio: tres clásicas obras de Isaac Asimov donde se trazan los inicios de la expansión humana por la Galaxia hasta llegar al auge del Imperio Galáctico con capital ...</summary>
-    <link href="../book_3/book_3012.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../recent/recent_MONTH_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 8)" />
-  <link href="../recent/recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
-  <link href="../recent/recent_MONTH_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />
+  <link href="../recent/recent_MONTH_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 3)" />
+  <link href="../recent/recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 3)" />
 </feed>

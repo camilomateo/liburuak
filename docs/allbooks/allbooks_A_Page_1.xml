@@ -12,7 +12,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
-  <link href="../allbooks/allbooks_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 10)" />
+  <link href="../allbooks/allbooks_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 11)" />
   <entry>
     <title>A Journey to the Centre of the Earth</title>
     <id>calibre:book:2085</id>
@@ -456,5 +456,5 @@
     <summary>GANADORA DEL CWA GOLD DAGGER AL MEJOR THRILLER DEL AÑO.En «Campo de muerte», Poe y Tilly están desayunando, preguntándose cómo pasarán el resto de sus vacaciones, cuando su presencia es solicitada en un aeródromo de Cumbria. Un aeródromo que durante ...</summary>
     <link href="../book_1/book_1298.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <link href="../allbooks/allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
+  <link href="../allbooks/allbooks_A_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

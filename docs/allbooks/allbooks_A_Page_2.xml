@@ -13,7 +13,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with A" />
-  <link href="../allbooks/allbooks_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 10)" />
+  <link href="../allbooks/allbooks_A_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 11)" />
   <entry>
     <title>Abel Martín</title>
     <id>calibre:book:2423</id>
@@ -64,6 +64,23 @@
     <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
     <category term="Lang:es" />
     <link href="../book_2/book_2138.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Acaba con el SIBO</title>
+    <id>calibre:book:3159</id>
+    <updated>2025-03-14T02:34:10Z</updated>
+    <link href="../../Mireia%20Velasco/Acaba%20con%20el%20SIBO%20%283159%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mireia%20Velasco/Acaba%20con%20el%20SIBO%20%283159%29/Acaba%20con%20el%20SIBO%20-%20Mireia%20Velasco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Mireia Velasco</name>
+      <uri>../authors_1/authors_1993_Page_1.xml</uri>
+    </author>
+    <published>2024-12-21T06:34:33Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Deja de vivir con miedo a la tripa hinchada: la solución al SIBO existe.A estas alturas, es más que probable que ya hayas oído hablar del SIBO, pero ¿sabías que puede ser de muchas clases? ¿Que es preciso saber cuál es tu caso antes de intentar poner...</summary>
+    <link href="../book_3/book_3159.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Acerca del alma</title>
@@ -484,22 +501,6 @@ Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho
     <summary>Trilogía Calloway [1]: Russell Calloway es un brillante y ambicioso editor y su mujer, la fascinante Corrine, una joven agente de Bolsa que trabaja en Wall Street. Llevan casados poco tiempo, pero a sus amigos les parece que forman un matrimonio perf...</summary>
     <link href="../book_1/book_1656.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>Al calor del hogar: impresiones y cantares</title>
-    <id>calibre:book:2135</id>
-    <updated>2024-09-06T02:21:21Z</updated>
-    <link href="../../Teodoro%20Guerrero/Al%20calor%20del%20hogar_%20impresiones%20y%20c%20%282135%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Teodoro%20Guerrero/Al%20calor%20del%20hogar_%20impresiones%20y%20c%20%282135%29/Al%20calor%20del%20hogar_%20impresiones%20-%20Teodoro%20Guerrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="168 KB" />
-    <author>
-      <name>Teodoro Guerrero</name>
-      <uri>../authors_1/authors_1515_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <link href="../book_2/book_2135.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 10)" />
-  <link href="../allbooks/allbooks_A_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (10 of 10)" />
+  <link href="../allbooks/allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 11)" />
+  <link href="../allbooks/allbooks_A_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (11 of 11)" />
 </feed>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El cerebro de mi padre: luces y sombras de la vida con alzheimer</title>
+  <id>urn:book:4ff1835a-292b-47fa-b1a5-76e3d1e0b5c6</id>
+  <updated>2025-03-20T02:03:15Z</updated>
+  <link href="./book_3175.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El cerebro de mi padre: luces y sombras de la vida con alzheimer" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with J" />
+  <link href="../../Sandeep%20Jauhar/El%20cerebro%20de%20mi%20padre_%20luces%20y%20som%20%283175%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Sandeep%20Jauhar/El%20cerebro%20de%20mi%20padre_%20luces%20y%20som%20%283175%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Sandeep%20Jauhar/El%20cerebro%20de%20mi%20padre_%20luces%20y%20som%20%283175%29/El%20cerebro%20de%20mi%20padre_%20luces%20y%20-%20Sandeep%20Jauhar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="879 KB" />
+  <author>
+    <name>Sandeep Jauhar</name>
+    <uri>../authors_2/authors_2001_Page_1.xml</uri>
+  </author>
+  <published>2025-01-08T08:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Lunwerg Editores</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p align="justify" style="font-weight: bold">Un relato
+      emotivo y sincero sobre cómo vivir la demencia de un
+      padre explicado desde la mirada de un científico que
+      analiza también por qué el cerebro humano degenera
+      y qué podemos hacer tanto para evitarlo como para
+      acompañar ese deterioro.</p>
+      <p align="justify">Cerca de 50 millones de personas padecen
+      algún tipo de deterioro cognitivo grave en el mundo. En
+      España, el número de enfermos de Alzheimer ronda el
+      millón y se prevé que el número se duplique en
+      los próximos años.</p>
+      <p align="justify">El médico y escritor Sandeep Jauhar
+      relata, desde su particular mirada de científico,
+      cómo fue enfrentarse a esta realidad cuando su padre,
+      también un hombre de ciencia, recibió el
+      diagnóstico.</p>
+      <p align="justify">
+        Con humor y compasión, desde la doble
+      perspectiva humana y científica,
+        <em>El cerebro de mi padre</em>
+        es
+        <strong>un viaje a la comprensión de la enfermedad del
+      Alzheimer pero también la emotiva historia de un
+      hombre</strong>
+        , sus familiares y su entorno, sumergidos en
+      un momento vital difícil y, a ratos, tan inaceptable
+      como incomprensible.
+      </p>
+      <p align="justify">Un libro que resulta un aprendizaje de
+      vida y en el que el lector encontrará respuestas a una
+      realidad cada día más cercana y frecuente.</p>
+      <p align="justify">---</p>
+      <p align="justify">
+        «Toda familia que haya tenido que
+      enfrentarse al diagnóstico de Alzheimer se verá
+      reflejado en este libro excepcional.»
+        <strong>*Publishers Weekly</strong>
+        *
+      </p>
+      <p align="justify">
+        «Combinando el humor, la
+      compasión y el absorbente drama familiar de unas
+      memorias de primer nivel con una escritura científica
+      experta, [Sandeep Jauhar] ha compuesto una introducción
+      imperdible a lo que se ha llamado la Era del Alzheimer.»
+      —
+        <strong>Sanjay Gupta</strong>
+        , autor de
+        <em>El cerebro en forma</em>
+      </p>
+    </div>
+  </content>
+  <link href="../authors_2/authors_2001_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Sandeep Jauhar" />
+</entry>

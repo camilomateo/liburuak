@@ -15,455 +15,498 @@
   <link href="./recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Previous six months" />
   <link href="../recent/recent_SIXMONTHS_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 of 5)" />
   <entry>
-    <title>Todo sobre Stephen King [October 22, 2024]</title>
-    <id>calibre:book:2650</id>
-    <updated>2024-10-22T07:50:36Z</updated>
-    <link href="../../Ariel%20Bosi/Todo%20sobre%20Stephen%20King%20%282650%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ariel%20Bosi/Todo%20sobre%20Stephen%20King%20%282650%29/Todo%20sobre%20Stephen%20King%20-%20Ariel%20Bosi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="9 MB" />
+    <title>La isla de la mujer dormida [October 22, 2024]</title>
+    <id>calibre:book:2685</id>
+    <updated>2024-10-22T08:11:24Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/La%20isla%20de%20la%20mujer%20dormida%20%282685%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/La%20isla%20de%20la%20mujer%20dormida%20%282685%29/La%20isla%20de%20la%20mujer%20dormida%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="472 KB" />
     <author>
-      <name>Ariel Bosi</name>
-      <uri>../authors_1/authors_1743_Page_1.xml</uri>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
     </author>
-    <published>2015-12-31T10:00:00Z</published>
+    <published>2024-10-10T10:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Biografía" />
-    <category term="Crítica y teoría literaria" />
-    <category term="Crónica" />
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
     <category term="Lang:es" />
-    <summary>¿Sabías que Stephen King repitió curso cuando era niño? ¿O que su primer empleo fue en una gasolinera? ¿Habías oído alguna vez que solo cobró un dólar como anticipo por su novela Christine para que la editorial pudiese invertir dinero en autores nove...</summary>
-    <link href="../book_2/book_2650.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>LA NUEVA NOVELA DE ARTURO PÉREZ-REVERTE. Una novela de mar, amor y aventuras en el Egeo durante los años de la Guerra Civil española. Buscaba la boca delhombre con la suya, húmeda de sal. -¿Tienes frío? -preguntó él. -No, no Tengo miedo. -¿A qué? -A ...</summary>
+    <link href="../book_2/book_2685.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La caja de los relatos de Stephen King [October 22, 2024]</title>
-    <id>calibre:book:2647</id>
-    <updated>2024-10-22T07:50:35Z</updated>
-    <link href="../../Claudio%20Hernandez/La%20caja%20de%20los%20relatos%20de%20Stephen%20K%20%282647%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Claudio%20Hernandez/La%20caja%20de%20los%20relatos%20de%20Stephen%20K%20%282647%29/La%20caja%20de%20los%20relatos%20de%20Steph%20-%20Claudio%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="201 KB" />
+    <title>Mi querida Lucía [October 22, 2024]</title>
+    <id>calibre:book:2684</id>
+    <updated>2024-10-22T08:11:23Z</updated>
+    <link href="../../La%20Vecina%20Rubia/Mi%20querida%20Lucia%20%282684%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../La%20Vecina%20Rubia/Mi%20querida%20Lucia%20%282684%29/Mi%20querida%20Lucia%20-%20La%20Vecina%20Rubia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="538 KB" />
     <author>
-      <name>Claudio Hernández</name>
-      <uri>../authors_1/authors_1741_Page_1.xml</uri>
+      <name>La Vecina Rubia</name>
+      <uri>../authors_0/authors_708_Page_1.xml</uri>
     </author>
-    <published>2017-06-23T10:00:00Z</published>
+    <published>2024-10-16T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Aquel sofocante verano de 2002, Lucía Romasanta, astróloga, madre soltera y redactora de la sección del horóscopo con más éxito del país, recibe una perturbadora carta de un admirador anónimo. Un texto manuscrito que le hace directamente responsable ...</summary>
+    <link href="../book_2/book_2684.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Redes [October 22, 2024]</title>
+    <id>calibre:book:2683</id>
+    <updated>2024-10-22T08:11:23Z</updated>
+    <link href="../../Eloy%20Moreno/Redes%20%282683%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eloy%20Moreno/Redes%20%282683%29/Redes%20-%20Eloy%20Moreno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="378 KB" />
+    <author>
+      <name>Eloy Moreno</name>
+      <uri>../authors_0/authors_377_Page_1.xml</uri>
+    </author>
+    <published>2024-09-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Didáctico" />
+    <category term="Lang:es" />
+    <category term="Invisible" />
+    <summary>Invisible [2]: Descubre la continuación de Invisible de Eloy Moreno. Emotiva, conmovedora, diferente... Redes narra, a través de los ojos de una adolescente, una historia que se ha convertido en la realidad de todos nosotros.¿Cuántos likes vale tu fe...</summary>
+    <link href="../book_2/book_2683.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>En agosto nos vemos [October 22, 2024]</title>
+    <id>calibre:book:2681</id>
+    <updated>2024-10-22T08:11:22Z</updated>
+    <link href="../../Gabriel%20Garcia%20Marquez/En%20agosto%20nos%20vemos%20%282681%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gabriel%20Garcia%20Marquez/En%20agosto%20nos%20vemos%20%282681%29/En%20agosto%20nos%20vemos%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../authors_0/authors_643_Page_1.xml</uri>
+    </author>
+    <published>2024-03-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Cada mes de agosto Ana Magdalena Bach toma el transbordador hasta la isla donde está enterrada su madre para visitar la tumba en la que yace. Esas visitas acaban suponiendo una irresistible invitación a convertirse en una persona distinta durante una...</summary>
+    <link href="../book_2/book_2681.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No es amor [October 22, 2024]</title>
+    <id>calibre:book:2682</id>
+    <updated>2024-10-22T08:11:23Z</updated>
+    <link href="../../Ali%20Hazelwood/No%20es%20amor%20%282682%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ali%20Hazelwood/No%20es%20amor%20%282682%29/No%20es%20amor%20-%20Ali%20Hazelwood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="583 KB" />
+    <author>
+      <name>Ali Hazelwood</name>
+      <uri>../authors_1/authors_1764_Page_1.xml</uri>
+    </author>
+    <published>2024-06-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>Una aventura secreta y prohibida demuestra que en el amor y en la ciencia todo vale. Puede que Rue Siebert no lo tenga todo, pero no le falta de nada: tiene unos pocos amigos con los que siempre puede contar, la estabilidad económica que anhelaba de ...</summary>
+    <link href="../book_2/book_2682.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El poder de las palabras [October 22, 2024]</title>
+    <id>calibre:book:2680</id>
+    <updated>2024-10-22T08:08:35Z</updated>
+    <link href="../../Mariano%20Sigman/El%20poder%20de%20las%20palabras%20%282680%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mariano%20Sigman/El%20poder%20de%20las%20palabras%20%282680%29/El%20poder%20de%20las%20palabras%20-%20Mariano%20Sigman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <author>
+      <name>Mariano Sigman</name>
+      <uri>../authors_0/authors_762_Page_1.xml</uri>
+    </author>
+    <published>2022-09-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Es posible cambiar, en cualquier momento de la vida, nuestras ideas más arraigadas, nuestra forma de pensar y también nuestra experiencia emocional. Para lograrlo es suficiente una herramienta sencilla y extremadamente efectiva en la transformación d...</summary>
+    <link href="../book_2/book_2680.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Querida yo : tenemos que hablar : conócete y sé feliz contigo [October 22, 2024]</title>
+    <id>calibre:book:2678</id>
+    <updated>2024-10-22T08:08:34Z</updated>
+    <link href="../../Elizabeth%20Clapes/Querida%20yo%20_%20tenemos%20que%20hablar%20_%20c%20%282678%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elizabeth%20Clapes/Querida%20yo%20_%20tenemos%20que%20hablar%20_%20c%20%282678%29/Querida%20yo%20_%20tenemos%20que%20hablar%20-%20Elizabeth%20Clapes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="837 KB" />
+    <author>
+      <name>Elizabeth Clapés</name>
+      <uri>../authors_0/authors_542_Page_1.xml</uri>
+    </author>
+    <published>2022-02-02T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Antes, cuando escuchaba hablar sobre la importancia de «conocerse a una misma», no lo entendía. Cuando llevas treinta años viviendo contigo, ¿se puede saber qué es lo que te falta por conocer? ¿De verdad hay algo que puede pillarte por sorpresa?
+
+   ...</summary>
+    <link href="../book_2/book_2678.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Terapia para llevar [October 22, 2024]</title>
+    <id>calibre:book:2679</id>
+    <updated>2024-10-22T08:08:35Z</updated>
+    <link href="../../Ana%20Perez%20__Naci%20dramatica__/Terapia%20para%20llevar%20%282679%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ana%20Perez%20__Naci%20dramatica__/Terapia%20para%20llevar%20%282679%29/Terapia%20para%20llevar%20-%20Ana%20Perez%20__Naci%20dramatica__.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <author>
+      <name>Ana Pérez «Nací dramática»</name>
+      <uri>../authors_1/authors_1763_Page_1.xml</uri>
+    </author>
+    <published>2023-05-16T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
     <category term="Ensayo" />
-    <category term="memorias" />
+    <category term="psicología" />
+    <category term="Autoayuda" />
     <category term="Lang:es" />
-    <summary>Stephen King empezó a escribir a la temprana edad de ocho años. Cuando salía del cine y si la película era buena, escribía una versión de la misma y se la enseñaba a su madre. Esta, un buen día, le dijo, que porque no escribía sus propios relatos o h...</summary>
-    <link href="../book_2/book_2647.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>¿Estás desconectado de ti mismo? ¿Sientes que te pasa algo, pero no sabes qué es? ¿La opinión de los demás te condiciona demasiado? Los pequeños malestares del día a día son una gran oportunidad para mejorar.En Terapia para llevar encontrarás 20 conc...</summary>
+    <link href="../book_2/book_2679.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Cantos iberos [October 22, 2024]</title>
-    <id>calibre:book:2648</id>
-    <updated>2024-10-22T07:50:35Z</updated>
-    <link href="../../Gabriel%20Celaya/Cantos%20iberos%20%282648%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Gabriel%20Celaya/Cantos%20iberos%20%282648%29/Cantos%20iberos%20-%20Gabriel%20Celaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="201 KB" />
+    <title>Las 48 leyes del poder [October 22, 2024]</title>
+    <id>calibre:book:2676</id>
+    <updated>2024-10-22T08:08:33Z</updated>
+    <link href="../../Robert%20Greene/Las%2048%20leyes%20del%20poder%20%282676%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Greene/Las%2048%20leyes%20del%20poder%20%282676%29/Las%2048%20leyes%20del%20poder%20-%20Robert%20Greene.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Gabriel Celaya</name>
-      <uri>../authors_1/authors_1742_Page_1.xml</uri>
+      <name>Robert Greene</name>
+      <uri>../authors_1/authors_1760_Page_1.xml</uri>
     </author>
-    <published>1974-12-31T11:00:00Z</published>
+    <published>1998-03-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="psicología" />
+    <category term="Lang:es" />
+    <summary>Una guía diseñada para mostrarle al lector cuáles son las cualidades personales que se deben de tener para alcanzar el poder en términos sociológicos, un método práctico para todo aquel que quiera conseguir el poder, observe el poder, o tenga que def...</summary>
+    <link href="../book_2/book_2676.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Si lo crees, lo creas [October 22, 2024]</title>
+    <id>calibre:book:2677</id>
+    <updated>2024-10-22T08:08:34Z</updated>
+    <link href="../../Brian%20Tracy/Si%20lo%20crees%2C%20lo%20creas%20%282677%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brian%20Tracy/Si%20lo%20crees%2C%20lo%20creas%20%282677%29/Si%20lo%20crees%2C%20lo%20creas%20-%20Brian%20Tracy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="582 KB" />
+    <author>
+      <name>Brian Tracy</name>
+      <uri>../authors_1/authors_1761_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Christina Stein</name>
+      <uri>../authors_1/authors_1762_Page_1.xml</uri>
+    </author>
+    <published>2018-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Autoayuda" />
+    <category term="psicología" />
+    <category term="Lang:es" />
+    <summary>Descubre los secretos para eliminar pensamientos y conductas negativas y desbloquear todo tu potencial para el éxito.    Si te sientes abrumado o incapaz de escapar de tus pensamientos negativos, este libro te pondrá en el camino correcto. Ya sea que...</summary>
+    <link href="../book_2/book_2677.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Adiós a la inflamación [October 22, 2024]</title>
+    <id>calibre:book:2675</id>
+    <updated>2024-10-22T08:08:33Z</updated>
+    <link href="../../Sandra%20Monino%20Costa/Adios%20a%20la%20inflamacion%20%282675%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sandra%20Monino%20Costa/Adios%20a%20la%20inflamacion%20%282675%29/Adios%20a%20la%20inflamacion%20-%20Sandra%20Monino%20Costa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Sandra Moñino Costa</name>
+      <uri>../authors_1/authors_1759_Page_1.xml</uri>
+    </author>
+    <published>2024-03-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Divulgación" />
+    <category term="Salud y bienestar" />
+    <category term="Lang:es" />
+    <summary>Aumento de peso, problemas en la piel, dolores de cabeza o patologías como la diabetes, el hipotiroidismo, la esclerosis múltiple, el cáncer o la depresión podrían deberse a una inflamación crónica. En este libro descubrirás que una dieta adecuada, h...</summary>
+    <link href="../book_2/book_2675.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cómo ganar amigos e influir sobre las personas [October 22, 2024]</title>
+    <id>calibre:book:2673</id>
+    <updated>2024-10-22T08:08:32Z</updated>
+    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%282673%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%282673%29/Como%20ganar%20amigos%20e%20influir%20sob%20-%20Dale%20Carnegie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Dale Carnegie</name>
+      <uri>../authors_0/authors_186_Page_1.xml</uri>
+    </author>
+    <published>1935-12-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Ensayo" />
+    <category term="Manuales y cursos" />
+    <category term="Lang:es" />
+    <summary>Convertido en un clásico de las relaciones humanas, «Cómo ganar amigos…» contiene principios tan sólidos que siendo escritos en 1936, siguen tan vigentes como entonces. Aplicando su gran conocimiento de las personas, dotes de observación y experienci...</summary>
+    <link href="../book_2/book_2673.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nexus [October 22, 2024]</title>
+    <id>calibre:book:2674</id>
+    <updated>2024-10-22T08:08:32Z</updated>
+    <link href="../../Yuval%20Noah%20Harari/Nexus%20%282674%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yuval%20Noah%20Harari/Nexus%20%282674%29/Nexus%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="643 KB" />
+    <author>
+      <name>Yuval Noah Harari</name>
+      <uri>../authors_1/authors_1758_Page_1.xml</uri>
+    </author>
+    <published>2024-09-13T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Ciencias sociales" />
+    <category term="Lang:es" />
+    <summary>En Nexus, Harari contempla a la humanidad desde la amplia perspectiva de la historia para analizar cómo las redes de información han hecho y deshecho nuestro mundo. Durante los últimos 100.000 años, los sapiens hemos acumulado un enorme poder. Pero, ...</summary>
+    <link href="../book_2/book_2674.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Antología Poética [October 22, 2024]</title>
+    <id>calibre:book:2672</id>
+    <updated>2024-10-22T08:04:37Z</updated>
+    <link href="../../Mario%20Benedetti/Antologia%20Poetica%20%282672%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Benedetti/Antologia%20Poetica%20%282672%29/Antologia%20Poetica%20-%20Mario%20Benedetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="280 KB" />
+    <author>
+      <name>Mario Benedetti</name>
+      <uri>../authors_1/authors_1754_Page_1.xml</uri>
+    </author>
+    <published>1979-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Mario Benedetti es uno de los escritores más leídos de nuestro idioma. Su obra literaria más de sesenta libros, traducidos a veinticinco lenguas abarca distintos géneros: la novela, el cuento, la poesía, el ensayo. Ha ejercido también la crítica lite...</summary>
+    <link href="../book_2/book_2672.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Desfibrilador [October 22, 2024]</title>
+    <id>calibre:book:2670</id>
+    <updated>2024-10-22T08:04:36Z</updated>
+    <link href="../../Gilraen%20Earfalas/Desfibrilador%20%282670%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gilraen%20Earfalas/Desfibrilador%20%282670%29/Desfibrilador%20-%20Gilraen%20Earfalas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="299 KB" />
+    <author>
+      <name>Gilraen Eärfalas</name>
+      <uri>../authors_1/authors_1755_Page_1.xml</uri>
+    </author>
+    <published>2021-07-27T10:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
     <category term="Poesía" />
     <category term="Lang:es" />
-    <summary>Las dos partes de que consta este libro —Cantos iberos (1954) y Otros poemas, extraídos de Lo que faltaba (1966)— son los dos extremos de un arco que mantuve tenso durante muchos años. Pero aunque la dirección en que así apuntaba era única, resulta f...</summary>
-    <link href="../book_2/book_2648.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Cada quien vive sus propios tormentos. Los míos me trajeron hasta donde estoy hoy, no sin antes intentar hundirme. La muerte me miró a los ojos una noche de febrero de 2010, recuerdo la sangre manar a borbotones de mis entrañas, me ahogaba, desaparec...</summary>
+    <link href="../book_2/book_2670.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Los inicios de Stephen King [October 22, 2024]</title>
-    <id>calibre:book:2649</id>
-    <updated>2024-10-22T07:50:36Z</updated>
-    <link href="../../Claudio%20Hernandez/Los%20inicios%20de%20Stephen%20King%20%282649%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Claudio%20Hernandez/Los%20inicios%20de%20Stephen%20King%20%282649%29/Los%20inicios%20de%20Stephen%20King%20-%20Claudio%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="451 KB" />
+    <title>La Odisea [October 22, 2024]</title>
+    <id>calibre:book:2671</id>
+    <updated>2024-10-22T08:04:37Z</updated>
+    <link href="../../Homero/La%20Odisea%20%282671%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Homero/La%20Odisea%20%282671%29/La%20Odisea%20-%20Homero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Claudio Hernández</name>
-      <uri>../authors_1/authors_1741_Page_1.xml</uri>
+      <name>Homero</name>
+      <uri>../authors_1/authors_1576_Page_1.xml</uri>
     </author>
-    <published>2016-04-22T10:00:00Z</published>
+    <published>0699-12-31T10:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Ensayo" />
+    <category term="Aventuras" />
+    <category term="Poesía" />
+    <category term="Lang:es" />
+    <summary>«La Odisea» es un poema épico griego compuesto por 24 cantos, atribuido al poeta griego Homero. Se cree que fue escrito en el siglo VIII a. C., en los asentamientos que Grecia tenía en la costa oeste del Asia Menor (actual Turquía asiática). Según ot...</summary>
+    <link href="../book_2/book_2671.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Valentía [October 22, 2024]</title>
+    <id>calibre:book:2669</id>
+    <updated>2024-10-22T08:04:36Z</updated>
+    <link href="../../Kelbin%20Torres/Valentia%20%282669%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kelbin%20Torres/Valentia%20%282669%29/Valentia%20-%20Kelbin%20Torres.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Kelbin Torres</name>
+      <uri>../authors_1/authors_1757_Page_1.xml</uri>
+    </author>
+    <published>2022-09-25T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Lang:es" />
+    <summary>Este no es un libro de esos que dejas olvidados en un rincón, es un libro de esos a lo que vuelves cada vez que lo necesitas. Es de esos que logan derrumbarte, pero también hacerte brillar. Te hará llorar y reír, te acercará más a la vida. Aquí encon...</summary>
+    <link href="../book_2/book_2669.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cartas que no llegaron [October 22, 2024]</title>
+    <id>calibre:book:2667</id>
+    <updated>2024-10-22T08:04:35Z</updated>
+    <link href="../../Gilraen%20Earfalas/Cartas%20que%20no%20llegaron%20%282667%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gilraen%20Earfalas/Cartas%20que%20no%20llegaron%20%282667%29/Cartas%20que%20no%20llegaron%20-%20Gilraen%20Earfalas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Gilraen Eärfalas</name>
+      <uri>../authors_1/authors_1755_Page_1.xml</uri>
+    </author>
+    <published>2021-11-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>Ella era un alma libre, una sirena con ansias de conquistar los océanos. Él parecía el hombre perfecto, pero guardaba un secreto: quería convertirla en sardina y mantenerla cautiva en una pecera. ¿Cómo volver a nadar contracorriente, si la convencier...</summary>
+    <link href="../book_2/book_2667.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hojas de hierba [October 22, 2024]</title>
+    <id>calibre:book:2668</id>
+    <updated>2024-10-22T08:04:36Z</updated>
+    <link href="../../Walt%20Whitman/Hojas%20de%20hierba%20%282668%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Walt%20Whitman/Hojas%20de%20hierba%20%282668%29/Hojas%20de%20hierba%20-%20Walt%20Whitman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="817 KB" />
+    <author>
+      <name>Walt Whitman</name>
+      <uri>../authors_1/authors_1756_Page_1.xml</uri>
+    </author>
+    <published>1854-12-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Filosófico" />
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <summary>En 1855, Whitman publicó la primera de las innumerables ediciones de Hojas de hierba, un libro de poemas cuya principal novedad era un tipo de versificación no usado hasta entonces, y que se alejaba radicalmente del que el poeta había utilizado en lo...</summary>
+    <link href="../book_2/book_2668.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El amor, las mujeres y la vida [October 22, 2024]</title>
+    <id>calibre:book:2666</id>
+    <updated>2024-10-22T08:04:35Z</updated>
+    <link href="../../Mario%20Benedetti/El%20amor%2C%20las%20mujeres%20y%20la%20vida%20%282666%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Benedetti/El%20amor%2C%20las%20mujeres%20y%20la%20vida%20%282666%29/El%20amor%2C%20las%20mujeres%20y%20la%20vida%20-%20Mario%20Benedetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="227 KB" />
+    <author>
+      <name>Mario Benedetti</name>
+      <uri>../authors_1/authors_1754_Page_1.xml</uri>
+    </author>
+    <published>2009-09-15T02:27:19Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>Este libro reúne los mejores poemas de amor escritos por Mario Benedetti, uno de los poetas más innovadores, divertidos, ambiciosos y modernos de la literatura en español. El amor, las mujeres y la vida recoge una selección de poemas aclamados por va...</summary>
+    <link href="../book_2/book_2666.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La asistenta [October 22, 2024]</title>
+    <id>calibre:book:2665</id>
+    <updated>2024-10-22T00:28:26Z</updated>
+    <link href="../../Freida%20McFadden/La%20asistenta%20%282665%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Freida%20McFadden/La%20asistenta%20%282665%29/La%20asistenta%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="435 KB" />
+    <author>
+      <name>Freida McFadden</name>
+      <uri>../authors_1/authors_1108_Page_1.xml</uri>
+    </author>
+    <published>2022-04-21T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="La asistenta" />
+    <summary>La asistenta [1]: Detrás de la puerta, ella lo ve todo.Todos los días friego la preciosa casa de los Winchester de arriba abajo. Recojo a su hija del colegio y preparo deliciosas comidas para toda la familia antes de subir a cenar sola en mi minúscul...</summary>
+    <link href="../book_2/book_2665.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La vegetariana [October 22, 2024]</title>
+    <id>calibre:book:2664</id>
+    <updated>2024-10-22T07:58:42Z</updated>
+    <link href="../../Kang%20Han/La%20vegetariana%20%282664%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kang%20Han/La%20vegetariana%20%282664%29/La%20vegetariana%20-%20Kang%20Han.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="670 KB" />
+    <author>
+      <name>Kang Han</name>
+      <uri>../authors_1/authors_1753_Page_1.xml</uri>
+    </author>
+    <published>2007-10-29T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Realista" />
     <category term="Otros" />
     <category term="Lang:es" />
-    <summary>El escritor de Maine, como lo llaman muchos, estaba predestinado a ser el mejor escritor de terror de la historia. Así lo demuestra su carrera literaria. A pesar de tener que soportar centenares de rechazos de sus primeros relatos y novelas, el desti...</summary>
-    <link href="../book_2/book_2649.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Hacer preguntas, eso es para mí escribir. No escribo respuestas, simplemente me afano por redondear las preguntas, trato de permanecer mucho tiempo dentro de ellas. De rodillas, arrastrándome otras veces, espero llegar hasta el final, hasta el centro...</summary>
+    <link href="../book_2/book_2664.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Steve Jobs &amp; Apple [October 21, 2024]</title>
-    <id>calibre:book:2646</id>
-    <updated>2024-10-21T04:27:28Z</updated>
-    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/Steve%20Jobs%20%26%20Apple%20-%20Michael%20Moritz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="789 KB" />
+    <title>Nada de esto es verdad [October 22, 2024]</title>
+    <id>calibre:book:2663</id>
+    <updated>2024-10-22T07:58:42Z</updated>
+    <link href="../../Lisa%20Jewell/Nada%20de%20esto%20es%20verdad%20%282663%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lisa%20Jewell/Nada%20de%20esto%20es%20verdad%20%282663%29/Nada%20de%20esto%20es%20verdad%20-%20Lisa%20Jewell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="383 KB" />
     <author>
-      <name>Michael Moritz</name>
-      <uri>../authors_1/authors_1740_Page_1.xml</uri>
+      <name>Lisa Jewell</name>
+      <uri>../authors_0/authors_329_Page_1.xml</uri>
     </author>
-    <published>2008-12-31T10:00:00Z</published>
+    <published>2023-07-20T07:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Ensayo" />
-    <category term="memorias" />
-    <category term="Tecnología" />
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
     <category term="Lang:es" />
-    <summary>La historia de Apple es en realidad la historia de Steve Jobs, líder carismático y con una capacidad extraordinaria para gestionar talentos y materializar su visión: productos innovadores, de extrema complejidad y de gran belleza. «Steve Jobs &amp; Apple...</summary>
-    <link href="../book_2/book_2646.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Alix Summer, presentadora de un popular pódcast de true crime, celebra su cuadragésimo quinto cumpleaños en un pub. Allí conoce a Josie Fair, quien también está celebrando su cumpleaños, y descubren que nacieron el mismo día en el mismo hospital. Uno...</summary>
+    <link href="../book_2/book_2663.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Steve Jobs: Lecciones de liderazgo [October 21, 2024]</title>
-    <id>calibre:book:2645</id>
-    <updated>2024-10-26T00:32:32Z</updated>
-    <link href="../../Walter%20Isaacson/Steve%20Jobs_%20Lecciones%20de%20liderazgo%20%282645%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Walter%20Isaacson/Steve%20Jobs_%20Lecciones%20de%20liderazgo%20%282645%29/Steve%20Jobs_%20Lecciones%20de%20lidera%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="252 KB" />
+    <title>Por qué fracasan los países [October 22, 2024]</title>
+    <id>calibre:book:2662</id>
+    <updated>2024-10-22T07:58:41Z</updated>
+    <link href="../../Daron%20Acemoglu/Por%20que%20fracasan%20los%20paises%20%282662%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Daron%20Acemoglu/Por%20que%20fracasan%20los%20paises%20%282662%29/Por%20que%20fracasan%20los%20paises%20-%20Daron%20Acemoglu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
-      <name>Walter Isaacson</name>
-      <uri>../authors_0/authors_779_Page_1.xml</uri>
+      <name>Daron Acemoglu</name>
+      <uri>../authors_1/authors_1751_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>James A. Robinson</name>
+      <uri>../authors_1/authors_1752_Page_1.xml</uri>
     </author>
     <published>2011-12-31T11:00:00Z</published>
     <dcterms:language>es</dcterms:language>
     <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Divulgación" />
     <category term="Ciencias sociales" />
-    <category term="Negocios" />
-    <category term="Lang:es" />
-    <summary>El nombre de Steve Jobs es sinónimo de innovación, liderazgo y éxito. Su personalidad arrolladora, su intuición para los negocios y su carisma hicieron de él un gurú de la tecnología, que logró convertir a su empresa, Apple, en la compañía de innovac...</summary>
-    <link href="../book_2/book_2645.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El joven Steve Jobs [October 21, 2024]</title>
-    <id>calibre:book:2643</id>
-    <updated>2024-10-21T04:27:27Z</updated>
-    <link href="../../Juan%20Brines/El%20joven%20Steve%20Jobs%20%282643%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Brines/El%20joven%20Steve%20Jobs%20%282643%29/El%20joven%20Steve%20Jobs%20-%20Juan%20Brines.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="354 KB" />
-    <author>
-      <name>Juan Brines</name>
-      <uri>../authors_1/authors_1738_Page_1.xml</uri>
-    </author>
-    <published>2021-05-08T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
     <category term="Ensayo" />
-    <category term="memorias" />
-    <category term="Tecnología" />
     <category term="Lang:es" />
-    <summary>“Solo aquellos que están tan locos para creer que pueden cambiar el mundo son quienes terminan por transformarlo.” Steve Jobs "La mejor novela sobre la vida de Steve Jobs, desde su nacimiento hasta la fundación de Apple." Karola Zárate, Economista y ...</summary>
-    <link href="../book_2/book_2643.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>¿Qué determina que un país sea rico o pobre? ¿Cómo se explica que, en condiciones similares, en algunos países haya hambrunas y en otros no? ¿Qué papel juega la política en estas cuestiones?Nogales (Arizona) y Nogales (Sonora) tienen la misma poblaci...</summary>
+    <link href="../book_2/book_2662.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>La sabiduría empresarial de Steve Jobs [October 21, 2024]</title>
-    <id>calibre:book:2644</id>
-    <updated>2024-10-21T04:27:28Z</updated>
-    <link href="../../Steve%20Jobs/La%20sabiduria%20empresarial%20de%20Steve%20J%20%282644%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Steve%20Jobs/La%20sabiduria%20empresarial%20de%20Steve%20J%20%282644%29/La%20sabiduria%20empresarial%20de%20Ste%20-%20Steve%20Jobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="373 KB" />
+    <title>Romper el círculo [October 22, 2024]</title>
+    <id>calibre:book:2661</id>
+    <updated>2024-10-22T07:58:41Z</updated>
+    <link href="../../Colleen%20Hoover/Romper%20el%20circulo%20%282661%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colleen%20Hoover/Romper%20el%20circulo%20%282661%29/Romper%20el%20circulo%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="634 KB" />
     <author>
-      <name>Steve Jobs</name>
-      <uri>../authors_1/authors_1739_Page_1.xml</uri>
+      <name>Colleen Hoover</name>
+      <uri>../authors_0/authors_6_Page_1.xml</uri>
     </author>
-    <published>2012-04-20T11:23:00Z</published>
+    <published>2016-08-01T10:00:00Z</published>
     <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
-    <category term="Ciencias sociales" />
-    <category term="Divulgación" />
-    <category term="memorias" />
-    <category term="Tecnología" />
-    <category term="Lang:es" />
-    <summary>Edición de Alan Ken Thomas**&amp;#160; Steve Jobs, padre y fundador de Apple, ha sido uno de los emprendedores más innovadores y visionarios de su generación. Si bien siempre ha habido división de opiniones respecto a su persona, nadie puede negar que te...</summary>
-    <link href="../book_2/book_2644.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Diario de una madre que perdió su nombre [October 21, 2024]</title>
-    <id>calibre:book:2641</id>
-    <updated>2024-10-21T04:01:16Z</updated>
-    <link href="../../Laura%20Demaria/Diario%20de%20una%20madre%20que%20perdio%20su%20n%20%282641%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Laura%20Demaria/Diario%20de%20una%20madre%20que%20perdio%20su%20n%20%282641%29/Diario%20de%20una%20madre%20que%20perdio%20-%20Laura%20Demaria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Laura Demaría</name>
-      <uri>../authors_1/authors_1736_Page_1.xml</uri>
-    </author>
-    <published>2024-08-13T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Nocturna Ediciones, S. L.</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>«Nunca imaginé una maternidad tan dura y descarnada. Tan construida sobre el desarraigo».
-
-Este es un diario sin instrucciones, una confesión a corazón abierto. El relato de supervivencia de una madre a la que su hija ha declarado la guerra. Un canto...</summary>
-    <link href="../book_2/book_2641.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El gato que cuidaba las bibliotecas [October 21, 2024]</title>
-    <id>calibre:book:2640</id>
-    <updated>2024-10-21T04:01:16Z</updated>
-    <link href="../../Sosuke%20Natsukawa/El%20gato%20que%20cuidaba%20las%20bibliotecas%20%282640%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Sosuke%20Natsukawa/El%20gato%20que%20cuidaba%20las%20bibliotecas%20%282640%29/El%20gato%20que%20cuidaba%20las%20bibliot%20-%20Sosuke%20Natsukawa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Sosuke Natsukawa</name>
-      <uri>../authors_1/authors_1735_Page_1.xml</uri>
-    </author>
-    <published>2024-08-06T07:25:53Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grijalbo</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Después del fenómeno japonésEl gato que amaba los libros, llega una novela que nos brinda un nuevo e inolvidable homenaje a la literatura.La joven Nanami no puede participar en actividades extraescolares por su asma, pero le encanta leer y pasar el t...</summary>
-    <link href="../book_2/book_2640.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El secreto del rey cuervo [October 21, 2024]</title>
-    <id>calibre:book:2642</id>
-    <updated>2024-10-21T04:01:17Z</updated>
-    <link href="../../Elly%20Griffiths/El%20secreto%20del%20rey%20cuervo%20%282642%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Elly%20Griffiths/El%20secreto%20del%20rey%20cuervo%20%282642%29/El%20secreto%20del%20rey%20cuervo%20-%20Elly%20Griffiths.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="549 KB" />
-    <author>
-      <name>Elly Griffiths</name>
-      <uri>../authors_1/authors_1737_Page_1.xml</uri>
-    </author>
-    <published>2024-09-24T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Maeva</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>La arqueóloga forense Ruth Galloway está decidida a hacer justicia tras el asesinato de un amigo de la universidad.Dan Golding, un antiguo compañero de estudios de Ruth, muere en un incendio provocado. Solo dos días después, ella recibe una carta en ...</summary>
-    <link href="../book_2/book_2642.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>A lomos del tigre [October 21, 2024]</title>
-    <id>calibre:book:2637</id>
-    <updated>2024-10-21T04:01:15Z</updated>
-    <link href="../../Zulfu%20Livaneli/A%20lomos%20del%20tigre%20%282637%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Zulfu%20Livaneli/A%20lomos%20del%20tigre%20%282637%29/A%20lomos%20del%20tigre%20-%20Zulfu%20Livaneli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="658 KB" />
-    <author>
-      <name>Zülfü Livaneli</name>
-      <uri>../authors_1/authors_1732_Page_1.xml</uri>
-    </author>
-    <published>2024-07-11T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Esta novela es un vívido relato de la vida en el exilio del último gran sultán otomano, así como también una poderosa denuncia de las hipocresías de Occidente.Abdülhamid II gobernó el Imperio otomano durante 33 años, de 1876 a 1909, cuando fue depues...</summary>
-    <link href="../book_2/book_2637.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Guerra de infancia y de España [October 21, 2024]</title>
-    <id>calibre:book:2638</id>
-    <updated>2024-10-21T04:01:15Z</updated>
-    <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Fabrizia%20Ramondino/Guerra%20de%20infancia%20y%20de%20Espana%20%282638%29/Guerra%20de%20infancia%20y%20de%20Espana%20-%20Fabrizia%20Ramondino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="484 KB" />
-    <author>
-      <name>Fabrizia Ramondino</name>
-      <uri>../authors_1/authors_1733_Page_1.xml</uri>
-    </author>
-    <published>2024-09-04T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Libros del Asteroide</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una joya de la literatura italiana, el relato de una infancia en Mallorca durante la guerra civil. Titita, una niña curiosa y traviesa, hija del nuevo cónsul italiano en Mallorca, pasa sus días en un continuo encuentro y desencuentro con todo aquello...</summary>
-    <link href="../book_2/book_2638.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las horas antiguas [October 21, 2024]</title>
-    <id>calibre:book:2639</id>
-    <updated>2024-10-21T04:01:16Z</updated>
-    <link href="../../Bible%20Michael/Las%20horas%20antiguas%20%282639%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Bible%20Michael/Las%20horas%20antiguas%20%282639%29/Las%20horas%20antiguas%20-%20Bible%20Michael.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Bible Michael</name>
-      <uri>../authors_1/authors_1734_Page_1.xml</uri>
-    </author>
-    <published>2024-04-17T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Gatopardo Ediciones</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Harmony es un pueblo como cualquier otro, un rincón del mundo en el que santos y pecadores matan las tardes en el centro comercial, sucumben al adulterio, juegan a fútbol americano, ven porno o leen a Faulkner en la biblioteca pública. Su historia es...</summary>
-    <link href="../book_2/book_2639.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Aires de libertad [October 21, 2024]</title>
-    <id>calibre:book:2636</id>
-    <updated>2024-10-21T04:01:15Z</updated>
-    <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Anne%20Jacobs/Aires%20de%20libertad%20%282636%29/Aires%20de%20libertad%20-%20Anne%20Jacobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="634 KB" />
-    <author>
-      <name>Anne Jacobs</name>
-      <uri>../authors_0/authors_194_Page_1.xml</uri>
-    </author>
-    <published>2024-08-30T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="El Café del Ángel" />
-    <summary>El Café del Ángel [4]: La esperada cuarta entrega de la fascinante saga familiar de Anne Jacobs, autora de La Villa de las Telas.
-Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho cariño y lo regenta con dedicación, de p...</summary>
-    <link href="../book_2/book_2636.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Caía una lluvia intensa [October 21, 2024]</title>
-    <id>calibre:book:2634</id>
-    <updated>2024-10-21T04:01:14Z</updated>
-    <link href="../../Don%20Carpenter/Caia%20una%20lluvia%20intensa%20%282634%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Don%20Carpenter/Caia%20una%20lluvia%20intensa%20%282634%29/Caia%20una%20lluvia%20intensa%20-%20Don%20Carpenter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="423 KB" />
-    <author>
-      <name>Don Carpenter</name>
-      <uri>../authors_1/authors_1730_Page_1.xml</uri>
-    </author>
-    <published>2024-09-10T02:07:45Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Bookwire Spain</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>«Cuando pierdes, pierdes para siempre, y cuando ganas, solo dura un segundo o dos. Así es la vida».Jack Levitt, un adolescente huérfano, crece entre reformatorios, cárceles, los hoteles más decadentes y las subterráneas salas de billar de Oregón. Atr...</summary>
-    <link href="../book_2/book_2634.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El marido perfecto [October 21, 2024]</title>
-    <id>calibre:book:2635</id>
-    <updated>2024-10-21T04:01:14Z</updated>
-    <link href="../../Lisa%20Gardner/El%20marido%20perfecto%20%282635%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lisa%20Gardner/El%20marido%20perfecto%20%282635%29/El%20marido%20perfecto%20-%20Lisa%20Gardner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="976 KB" />
-    <author>
-      <name>Lisa Gardner</name>
-      <uri>../authors_1/authors_1731_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Jentas</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>El condecorado policía Jim Beckett era todo lo que Tess había soñado… Pero dos años después de que casarse con él y dar a luz a su hija, descubrió que su marido ocultaba un oscuro secreto y ayudó a meterlo entre rejas por asesinar de forma salvaje a ...</summary>
-    <link href="../book_2/book_2635.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La novia del viento [October 21, 2024]</title>
-    <id>calibre:book:2633</id>
-    <updated>2024-10-21T04:01:14Z</updated>
-    <link href="../../Brenna%20Watson/La%20novia%20del%20viento%20%282633%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Brenna%20Watson/La%20novia%20del%20viento%20%282633%29/La%20novia%20del%20viento%20-%20Brenna%20Watson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="506 KB" />
-    <author>
-      <name>Brenna Watson</name>
-      <uri>../authors_1/authors_1729_Page_1.xml</uri>
-    </author>
-    <published>2024-08-30T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Ediciones B</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Apasionada, libre, indómita. Ella es la novia del viento. Una artista que emergió con la fuerza de la naturaleza para cautivar el mundo.Una historia de superación y coraje inspirada en lavida de la pintora Leonora Carrington.Londres, 1937. Si hay alg...</summary>
-    <link href="../book_2/book_2633.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Cama adentro [October 21, 2024]</title>
-    <id>calibre:book:2632</id>
-    <updated>2024-10-21T04:01:14Z</updated>
-    <link href="../../Leticia%20Bianca/Cama%20adentro%20%282632%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Leticia%20Bianca/Cama%20adentro%20%282632%29/Cama%20adentro%20-%20Leticia%20Bianca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="192 KB" />
-    <author>
-      <name>Leticia Bianca</name>
-      <uri>../authors_1/authors_1728_Page_1.xml</uri>
-    </author>
-    <published>2024-06-26T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>AdN</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Argentina, 2002. Mario Montesino ha conseguido ascender de clase social gracias a un matrimonio muy beneficioso y ahora es gerente de la empresa de la poderosa familia de su mujer, Raquel. Pero todo tiene un precio, porque cuidar de una enferma como ...</summary>
-    <link href="../book_2/book_2632.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Centauros del Rif [October 16, 2024]</title>
-    <id>calibre:book:2631</id>
-    <updated>2024-10-16T09:57:40Z</updated>
-    <link href="../../David%20Gomez/Centauros%20del%20Rif%20%282631%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../David%20Gomez/Centauros%20del%20Rif%20%282631%29/Centauros%20del%20Rif%20-%20David%20Gomez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>David Gómez</name>
-      <uri>../authors_1/authors_1727_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:publisher>Edhasa</dcterms:publisher>
-    <summary>LA ÚLTIMA CARGA DEL ALCÁNTARAToque de carga. Y el regimiento de caballería Cazadores de Alcántara nº 14 responde de inmediato a la llamada.En plena retirada de Annual, lo que queda del ejército español del general Silvestre es hostigado por la tribus...</summary>
-    <link href="../book_2/book_2631.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El faro de la sirena [October 16, 2024]</title>
-    <id>calibre:book:2630</id>
-    <updated>2024-10-16T09:57:39Z</updated>
-    <link href="../../Lucia%20Lago/El%20faro%20de%20la%20sirena%20%282630%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lucia%20Lago/El%20faro%20de%20la%20sirena%20%282630%29/El%20faro%20de%20la%20sirena%20-%20Lucia%20Lago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Lucía Lago</name>
-      <uri>../authors_1/authors_1726_Page_1.xml</uri>
-    </author>
-    <published>2024-08-19T04:14:32Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>SUMA</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Un faro y una misteriosa sirena.Una vieja mansión indiana construida sobre las rocas.Una familia. Un terrible secreto.1920. Mairi vive con su padre en el faro de una pequeña aldea situada en la costa atlántica. Allí disfruta de una infancia solitaria...</summary>
-    <link href="../book_2/book_2630.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El hombre del rio [October 16, 2024]</title>
-    <id>calibre:book:2628</id>
-    <updated>2024-10-16T09:57:39Z</updated>
-    <link href="../../Javier%20Reverte/El%20hombre%20del%20rio%20%282628%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Javier%20Reverte/El%20hombre%20del%20rio%20%282628%29/El%20hombre%20del%20rio%20-%20Javier%20Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="330 KB" />
-    <author>
-      <name>Javier Reverte</name>
-      <uri>../authors_1/authors_1724_Page_1.xml</uri>
-    </author>
-    <published>2024-09-05T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Plaza &amp; Janes</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>¿Quién fue Francisco de Orellana?Un relato al más puro estilo Reverte, en el que historia, viaje y memoria se dan la mano para hilvanar un libro especial con el imponente río Amazonas como escenario.El hombre del río es la historia de un joven que pa...</summary>
-    <link href="../book_2/book_2628.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Todas las ventanas [October 16, 2024]</title>
-    <id>calibre:book:2629</id>
-    <updated>2024-10-16T09:57:39Z</updated>
-    <link href="../../Barbara%20Sanchez/Todas%20las%20ventanas%20%282629%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Barbara%20Sanchez/Todas%20las%20ventanas%20%282629%29/Todas%20las%20ventanas%20-%20Barbara%20Sanchez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="392 KB" />
-    <author>
-      <name>Bárbara Sánchez</name>
-      <uri>../authors_1/authors_1725_Page_1.xml</uri>
-    </author>
-    <published>2024-07-05T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Todas las ventanas marca el prometedor debut de Bárbara Sánchez que, con una prosa exquisita cargada de ternura y emoción,cuenta la historia de un grupo de vecinas que deciden crear un pódcast en el que contar y compartir sus vidas.Seis mujeres, veci...</summary>
-    <link href="../book_2/book_2629.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El ángel vacío [October 16, 2024]</title>
-    <id>calibre:book:2627</id>
-    <updated>2024-10-16T09:57:39Z</updated>
-    <link href="../../Reyes%20Martinez/El%20angel%20vacio%20%282627%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Reyes%20Martinez/El%20angel%20vacio%20%282627%29/El%20angel%20vacio%20-%20Reyes%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="469 KB" />
-    <author>
-      <name>Reyes Martínez</name>
-      <uri>../authors_0/authors_679_Page_1.xml</uri>
-    </author>
-    <published>2024-09-06T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grijalbo</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Un thriller enigmático que nos acerca a los rincones más siniestros del alma humana. Una historia tan perversa como difícil de olvidar.
-No apartes la mirada.
-Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón está siendo tan t...</summary>
-    <link href="../book_2/book_2627.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La buena reputación [October 4, 2024]</title>
-    <id>calibre:book:2626</id>
-    <updated>2024-10-04T10:51:32Z</updated>
-    <link href="../../Ignacio%20Martinez%20de%20Pison/La%20buena%20reputacion%20%282626%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Ignacio%20Martinez%20de%20Pison/La%20buena%20reputacion%20%282626%29/La%20buena%20reputacion%20-%20Ignacio%20Martinez%20de%20Pison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="527 KB" />
-    <author>
-      <name>Ignacio Martínez de Pisón</name>
-      <uri>../authors_1/authors_1715_Page_1.xml</uri>
-    </author>
-    <published>2014-04-01T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
     <category term="Novela" />
-    <category term="Otros" />
+    <category term="Realista" />
     <category term="Lang:es" />
-    <summary>Samuel y Mercedes contemplan con preocupación el futuro de sus dos hijas ante la inminente descolonización de Marruecos y el regreso de los españoles del Protectorado a la Península. Estamos en Melilla, son los años cincuenta y, en ese contexto de ca...</summary>
-    <link href="../book_2/book_2626.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Romper el círculo" />
+    <summary>Romper el círculo [1]: A veces, quien más te quiere es quién más daño te hace.
+Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magnífico neurocirujano llamado Ryle Kincaid, parece demasiado buena para ser verdad. Cuando Atlas,...</summary>
+    <link href="../book_2/book_2661.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../recent/recent_SIXMONTHS_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 5)" />
   <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />

@@ -45,9 +45,17 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Bevilacqua y Chamorro</title>
+    <id>Calibre2opds::serieslist:Bseries:277</id>
+    <content type="text">Las fuerzas contrarias</content>
+    <link href="../series_0/series_277_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Bibliomisterios</title>
     <id>Calibre2opds::serieslist:Bseries:276</id>
-    <content type="text">1 book</content>
+    <content type="text">2 books</content>
     <link href="../series_0/series_276_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

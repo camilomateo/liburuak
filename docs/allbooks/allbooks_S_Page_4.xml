@@ -15,6 +15,26 @@
   <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with S" />
   <link href="../allbooks/allbooks_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 9)" />
   <entry>
+    <title>Sobre la educación</title>
+    <id>calibre:book:712</id>
+    <updated>2023-05-17T01:10:38Z</updated>
+    <link href="../../Emilio%20Lledo/Sobre%20la%20educacion%20%28712%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emilio%20Lledo/Sobre%20la%20educacion%20%28712%29/Sobre%20la%20educacion%20-%20Emilio%20Lledo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="508 KB" />
+    <author>
+      <name>Emilio Lledó</name>
+      <uri>../authors_0/authors_531_Page_1.xml</uri>
+    </author>
+    <published>2018-04-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Taurus</dcterms:publisher>
+    <category term="Ciencias sociales" />
+    <category term="Ensayo" />
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>La defensa a ultranza de una educación moderna y emancipadora, de enfoque humanista y con un papel clave reservado a la Filosofía.Emilio Lledó, uno de los más relevantes pensadores españoles de nuestro tiempo, ha situado la educación en el centro de ...</summary>
+    <link href="../book_0/book_712.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Sobre la escritura</title>
     <id>calibre:book:1964</id>
     <updated>2024-09-05T06:10:27Z</updated>
@@ -437,26 +457,6 @@
     <category term="Lang:es" />
     <summary>La muerte de Steve Jobs conmocionó al mundo. Tras entrevistarlo en más de cuarenta ocasiones en sus últimos dos años de vida, además de a un centenar de personas de su entorno, familiares, amigos, adversarios y colegas, Walter Isaacson nos presenta l...</summary>
     <link href="../book_1/book_1066.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Steve Jobs &amp; Apple</title>
-    <id>calibre:book:2646</id>
-    <updated>2024-10-21T04:27:28Z</updated>
-    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/Steve%20Jobs%20%26%20Apple%20-%20Michael%20Moritz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="789 KB" />
-    <author>
-      <name>Michael Moritz</name>
-      <uri>../authors_1/authors_1740_Page_1.xml</uri>
-    </author>
-    <published>2008-12-31T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>ePubLibre</dcterms:publisher>
-    <category term="Ensayo" />
-    <category term="memorias" />
-    <category term="Tecnología" />
-    <category term="Lang:es" />
-    <summary>La historia de Apple es en realidad la historia de Steve Jobs, líder carismático y con una capacidad extraordinaria para gestionar talentos y materializar su visión: productos innovadores, de extrema complejidad y de gran belleza. «Steve Jobs &amp; Apple...</summary>
-    <link href="../book_2/book_2646.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 9)" />
   <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

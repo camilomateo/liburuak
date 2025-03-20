@@ -15,6 +15,23 @@
   <link href="./allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with R" />
   <link href="../allbooks/allbooks_R_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 5)" />
   <entry>
+    <title>Las reglas del Mikado</title>
+    <id>calibre:book:1628</id>
+    <updated>2024-06-13T06:06:43Z</updated>
+    <link href="../../Erri%20de%20Luca/Las%20reglas%20del%20Mikado%20%281628%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Erri%20de%20Luca/Las%20reglas%20del%20Mikado%20%281628%29/Las%20reglas%20del%20Mikado%20-%20Erri%20de%20Luca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="270 KB" />
+    <author>
+      <name>Erri de Luca</name>
+      <uri>../authors_1/authors_1175_Page_1.xml</uri>
+    </author>
+    <published>2024-06-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un encuentro fortuito puede entrelazar dos vidas para siempre a pesar de la distancia. Ella es una joven gitana que huye de su familia para escapar de un matrimonio concertado; él, un relojero que acampa en la frontera y la acoge en su tienda. El enc...</summary>
+    <link href="../book_1/book_1628.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El regreso de Sherlock Holmes</title>
     <id>calibre:book:2335</id>
     <updated>2024-09-09T10:34:09Z</updated>
@@ -447,24 +464,6 @@
     <category term="Lang:es" />
     <summary>SECRETOS, PODER Y CULPA.EL PRIMER THRILLER HISTÓRICO DEL GRAN REFERENTE DE LA NOVELA NEGRA, ARNALDUR INDRIDASON.En Copenhague, un relojero de origen islandés repara un reloj astronómico de más de doscientos años de antigüedad en el palacio real. Allí...</summary>
     <link href="../book_3/book_3089.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La riqueza de las naciones</title>
-    <id>calibre:book:2349</id>
-    <updated>2024-09-09T10:34:13Z</updated>
-    <link href="../../Adam%20Smith/La%20riqueza%20de%20las%20naciones%20%282349%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Adam%20Smith/La%20riqueza%20de%20las%20naciones%20%282349%29/La%20riqueza%20de%20las%20naciones%20-%20Adam%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="526 KB" />
-    <author>
-      <name>Adam Smith</name>
-      <uri>../authors_1/authors_1414_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Biblioteca PruébaT" />
-    <summary>Biblioteca PruébaT [142]:</summary>
-    <link href="../book_2/book_2349.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 5)" />
   <link href="../allbooks/allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />

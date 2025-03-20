@@ -362,6 +362,23 @@
     <link href="../book_1/book_1599.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>El cerebro de mi padre: luces y sombras de la vida con alzheimer</title>
+    <id>calibre:book:3175</id>
+    <updated>2025-03-20T02:03:15Z</updated>
+    <link href="../../Sandeep%20Jauhar/El%20cerebro%20de%20mi%20padre_%20luces%20y%20som%20%283175%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sandeep%20Jauhar/El%20cerebro%20de%20mi%20padre_%20luces%20y%20som%20%283175%29/El%20cerebro%20de%20mi%20padre_%20luces%20y%20-%20Sandeep%20Jauhar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="879 KB" />
+    <author>
+      <name>Sandeep Jauhar</name>
+      <uri>../authors_2/authors_2001_Page_1.xml</uri>
+    </author>
+    <published>2025-01-08T08:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lunwerg Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un relato emotivo y sincero sobre cómo vivir la demencia de un padre explicado desde la mirada de un científico que analiza también por qué el cerebro humano degenera y qué podemos hacer tanto para evitarlo como para acompañar ese deterioro. Cerca de...</summary>
+    <link href="../book_3/book_3175.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El choque</title>
     <id>calibre:book:1809</id>
     <updated>2024-08-27T09:07:35Z</updated>
@@ -449,23 +466,6 @@
     <category term="Lang:es" />
     <summary>Desde que terminó la guerra, el nazi Adolf Eichmann ha vivido escondido. En 1950 se establece en la Argentina peronista bajo el nombre falso de Ricardo Klement y consigue trabajo al amparo del gobierno y la comunidad alemana. Dos años después, su muj...</summary>
     <link href="../book_1/book_1833.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El día que sientas el latir de las estrellas</title>
-    <id>calibre:book:2578</id>
-    <updated>2024-09-11T03:29:02Z</updated>
-    <link href="../../Paola%20Calasanz/El%20dia%20que%20sientas%20el%20latir%20de%20las%20%282578%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Paola%20Calasanz/El%20dia%20que%20sientas%20el%20latir%20de%20las%20%282578%29/El%20dia%20que%20sientas%20el%20latir%20de%20-%20Paola%20Calasanz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="376 KB" />
-    <author>
-      <name>Paola Calasanz</name>
-      <uri>../authors_1/authors_1696_Page_1.xml</uri>
-    </author>
-    <published>2018-04-04T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una novela llena de amor, emoción y belleza, sobre el poder del pasado y la importancia de vivir la vida siempre como una aventura.Isla es neurótica, controladora y arrastra algún que otro trauma de la infancia. Vive con sus tíos en Australia y nunca...</summary>
-    <link href="../book_2/book_2578.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_E_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
 </feed>

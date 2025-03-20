@@ -15,6 +15,23 @@
   <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
   <link href="../allbooks/allbooks_E_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 9)" />
   <entry>
+    <title>El día que sientas el latir de las estrellas</title>
+    <id>calibre:book:2578</id>
+    <updated>2024-09-11T03:29:02Z</updated>
+    <link href="../../Paola%20Calasanz/El%20dia%20que%20sientas%20el%20latir%20de%20las%20%282578%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paola%20Calasanz/El%20dia%20que%20sientas%20el%20latir%20de%20las%20%282578%29/El%20dia%20que%20sientas%20el%20latir%20de%20-%20Paola%20Calasanz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="376 KB" />
+    <author>
+      <name>Paola Calasanz</name>
+      <uri>../authors_1/authors_1696_Page_1.xml</uri>
+    </author>
+    <published>2018-04-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela llena de amor, emoción y belleza, sobre el poder del pasado y la importancia de vivir la vida siempre como una aventura.Isla es neurótica, controladora y arrastra algún que otro trauma de la infancia. Vive con sus tíos en Australia y nunca...</summary>
+    <link href="../book_2/book_2578.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El escaño de Satanás</title>
     <id>calibre:book:1282</id>
     <updated>2024-03-10T09:24:50Z</updated>
@@ -437,24 +454,6 @@ babilonios. Su colega, el profesor Affidavit D...</summary>
     <category term="Lang:en" />
     <summary>Ella cambió el mundo de la ciencia. Tres hombres se llevaron el crédito Rosalind Franklin es feliz en el laboratorio, ahí da rienda suelta a su imaginación y realiza los experimentos que, está segura, cambiarán el mundo de la ciencia. Lo único que en...</summary>
     <link href="../book_0/book_926.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>El secreto de Île-de-Sein</title>
-    <id>calibre:book:1584</id>
-    <updated>2024-06-02T10:59:53Z</updated>
-    <link href="../../Jean-Luc%20Bannalec/El%20secreto%20de%20Ile-de-Sein%20%281584%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Jean-Luc%20Bannalec/El%20secreto%20de%20Ile-de-Sein%20%281584%29/El%20secreto%20de%20Ile-de-Sein%20-%20Jean-Luc%20Bannalec.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="448 KB" />
-    <author>
-      <name>Jean-Luc Bannalec</name>
-      <uri>../authors_1/authors_1101_Page_1.xml</uri>
-    </author>
-    <published>2017-06-07T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Georges Dupin" />
-    <summary>Georges Dupin [5]: El secreto de Île-de-Sein es el nuevo caso del comisario Dupin, el protagonista de la serie de novela policíaca que lleva vendidos más de 2.500.000 de ejemplares. Una pequeña isla bretona cargada de mitos, leyendas, secretos y muer...</summary>
-    <link href="../book_1/book_1584.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 9)" />
   <link href="../allbooks/allbooks_E_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />

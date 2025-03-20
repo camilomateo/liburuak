@@ -15,6 +15,24 @@
   <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with V" />
   <link href="../allbooks/allbooks_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 5)" />
   <entry>
+    <title>Viaje al centro de la Tierra</title>
+    <id>calibre:book:2043</id>
+    <updated>2024-09-06T02:09:02Z</updated>
+    <link href="../../Julio%20Verne/Viaje%20al%20centro%20de%20la%20Tierra%20%282043%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julio%20Verne/Viaje%20al%20centro%20de%20la%20Tierra%20%282043%29/Viaje%20al%20centro%20de%20la%20Tierra%20-%20Julio%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="325 KB" />
+    <author>
+      <name>Julio Verne</name>
+      <uri>../authors_1/authors_1468_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [17]:</summary>
+    <link href="../book_2/book_2043.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Viajes por España</title>
     <id>calibre:book:2125</id>
     <updated>2024-09-06T02:21:20Z</updated>
@@ -452,23 +470,6 @@ Una nueva voz que vale la pena leer.
 
 La vida en la revolución fue bonita mientras fue promesa. Luego vinieron los fracasos, los del país y los pr...</summary>
     <link href="../book_1/book_1331.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Volver a empezar (It Starts with Us)</title>
-    <id>calibre:book:7</id>
-    <updated>2023-01-17T10:02:38Z</updated>
-    <link href="../../Colleen%20Hoover/Volver%20a%20empezar%20%28It%20Starts%20with%20Us%29%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Colleen%20Hoover/Volver%20a%20empezar%20%28It%20Starts%20with%20Us%29%20%287%29/Volver%20a%20empezar%20%28It%20Starts%20wit%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="548 KB" />
-    <author>
-      <name>Colleen Hoover</name>
-      <uri>../authors_0/authors_6_Page_1.xml</uri>
-    </author>
-    <published>2022-12-01T00:00:09Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Colleen Hoover te romperá el corazón.La esperada continuación de Romper el círculo (It Ends with Us). Lily y su exmarido, Ryle, acaban de pactar la custodia compartida de su niña cuando Lily se encuentra de nuevo con su primer amor, Atlas. Después de...</summary>
-    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 5)" />
   <link href="../allbooks/allbooks_V_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (5 of 5)" />

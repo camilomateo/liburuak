@@ -15,6 +15,23 @@
   <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
   <link href="../allbooks/allbooks_E_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 9)" />
   <entry>
+    <title>Escalera interior</title>
+    <id>calibre:book:3077</id>
+    <updated>2025-02-20T06:11:44Z</updated>
+    <link href="../../Almudena%20Grandes/Escalera%20interior%20%283077%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Almudena%20Grandes/Escalera%20interior%20%283077%29/Escalera%20interior%20-%20Almudena%20Grandes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="502 KB" />
+    <author>
+      <name>Almudena Grandes</name>
+      <uri>../authors_0/authors_39_Page_1.xml</uri>
+    </author>
+    <published>2025-01-15T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El libro que faltaba de Almudena Grandes. Las historias y las escenas cotidianas que resumen el mundo de una escritora irrepetible.Escalera interior es el murmullo de los patios de luces que recogen olores de guisos, ruidos de cacharros y cucharones,...</summary>
+    <link href="../book_3/book_3077.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Escenas de una infancia</title>
     <id>calibre:book:2824</id>
     <updated>2025-01-23T02:00:53Z</updated>
@@ -328,6 +345,24 @@
     <link href="../book_0/book_694.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Estelar</title>
+    <id>calibre:book:3174</id>
+    <updated>2025-03-20T02:03:15Z</updated>
+    <link href="../../Brandon%20Sanderson/Estelar%20%283174%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Estelar%20%283174%29/Estelar%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../authors_0/authors_126_Page_1.xml</uri>
+    </author>
+    <published>2020-02-12T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Escuadrón" />
+    <summary>Escuadrón [2]: **La continuación de *Escuadrón* , ** **la nueva saga épica de Brandon Sanderson.** Este es el segundo libro de una serie épica sobre una chica que guarda un secreto en un peligroso mundo en guerra por el futuro de la humanidad. En él ...</summary>
+    <link href="../book_3/book_3174.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Estirpe de sangre</title>
     <id>calibre:book:2692</id>
     <updated>2024-10-26T00:29:48Z</updated>
@@ -418,41 +453,6 @@
     <category term="Biblioteca PruébaT" />
     <summary>Biblioteca PruébaT [113]:</summary>
     <link href="../book_2/book_2329.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Eva</title>
-    <id>calibre:book:46</id>
-    <updated>2023-01-17T10:26:34Z</updated>
-    <link href="../../Arturo%20Perez-Reverte/Eva%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Arturo%20Perez-Reverte/Eva%20%2846%29/Eva%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="649 KB" />
-    <author>
-      <name>Arturo Pérez-Reverte</name>
-      <uri>../authors_0/authors_1_Page_1.xml</uri>
-    </author>
-    <published>2017-09-15T11:29:17Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <category term="Falcó" />
-    <summary>Falcó [2]: «No me tengas por una de esas burguesitas perdidas entre las filas  obreras. Soy una agente soviética, y tus criminales jefes fascistas podrían pedirte cuentas.» Marzo de 1937. Mientras la Guerra Civil sigue su trágico curso, una  nueva mi...</summary>
-    <link href="../book_0/book_46.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Evasión</title>
-    <id>calibre:book:411</id>
-    <updated>2023-03-13T09:46:54Z</updated>
-    <link href="../../Benjamin%20Whitmer/Evasion%20%28411%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Benjamin%20Whitmer/Evasion%20%28411%29/Evasion%20-%20Benjamin%20Whitmer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="600 KB" />
-    <author>
-      <name>Benjamin Whitmer</name>
-      <uri>../authors_0/authors_301_Page_1.xml</uri>
-    </author>
-    <published>2023-03-01T11:21:26Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Siruela</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>American noir en estado puro1968. En la víspera de Año Nuevo, doce presos escapan de la prisión de Old Lonesome, emplazada en las proximidades de un pequeño pueblo de Colorado, al pie de las Montañas Rocosas. El suceso conmociona profundamente a todo...</summary>
-    <link href="../book_0/book_411.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_E_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 9)" />
   <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

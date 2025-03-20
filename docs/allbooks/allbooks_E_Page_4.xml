@@ -15,6 +15,23 @@
   <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with E" />
   <link href="../allbooks/allbooks_E_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 9)" />
   <entry>
+    <title>En casa</title>
+    <id>calibre:book:842</id>
+    <updated>2023-06-09T01:56:14Z</updated>
+    <link href="../../Judith%20Hermann/En%20casa%20%28842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Judith%20Hermann/En%20casa%20%28842%29/En%20casa%20-%20Judith%20Hermann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="529 KB" />
+    <author>
+      <name>Judith Hermann</name>
+      <uri>../authors_0/authors_632_Page_1.xml</uri>
+    </author>
+    <published>2023-03-16T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alianza Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Vive en la ciudad, trabaja en una fábrica de cigarrillos, podría viajar en un crucero a Singapur como asistente de un mago y debe decidirse. Media vida más tarde, recuerda repentinamente ese punto de inflexión largamente olvidado. Escribe cartas a s...</summary>
+    <link href="../book_0/book_842.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>En casa del ocultista</title>
     <id>calibre:book:2327</id>
     <updated>2024-09-09T10:34:08Z</updated>
@@ -436,23 +453,6 @@ Construir una start-up y conseguir financ...</summary>
     <category term="Lang:es" />
     <summary>El prolífico divulgador y escritor Juan Eslava Galán reúne en estas más de 600 páginas un compendio de la sabiduría y cultura general que todos debemos y estamos obligados a conocer. Desde geografía, filosofía e historia de España hasta ciencias o li...</summary>
     <link href="../book_2/book_2594.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Enciclopedia nazi</title>
-    <id>calibre:book:2568</id>
-    <updated>2024-09-09T03:24:01Z</updated>
-    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Juan%20Eslava%20Galan/Enciclopedia%20nazi%20%282568%29/Enciclopedia%20nazi%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="33 MB" />
-    <author>
-      <name>Juan Eslava Galán</name>
-      <uri>../authors_0/authors_304_Page_1.xml</uri>
-    </author>
-    <published>2021-11-24T06:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>Una obra ambiciosa que expone de manera clara y rigurosa el mundo nazi y realiza un recorrido asombroso por la época que vio nacer este fenómeno. Aquí no solo hacen acto de presencia los «grandes hombres», sino también aquellos personajes anónimos qu...</summary>
-    <link href="../book_2/book_2568.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_E_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 9)" />
   <link href="../allbooks/allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />

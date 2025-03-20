@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ve y dilo en la montaña</title>
+  <id>urn:book:a491308b-064b-45e7-b61a-8a6beb52588a</id>
+  <updated>2025-03-20T02:03:14Z</updated>
+  <link href="./book_3172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Ve y dilo en la montaña" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LIBURUAK" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LIBURUAK" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../../James%20Baldwin/Ve%20y%20dilo%20en%20la%20montana%20%283172%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../James%20Baldwin/Ve%20y%20dilo%20en%20la%20montana%20%283172%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../James%20Baldwin/Ve%20y%20dilo%20en%20la%20montana%20%283172%29/Ve%20y%20dilo%20en%20la%20montana%20-%20James%20Baldwin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="271 KB" />
+  <author>
+    <name>James Baldwin</name>
+    <uri>../authors_2/authors_2000_Page_1.xml</uri>
+  </author>
+  <published>2025-02-15T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Editorial Sexto Piso</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        Un sábado de marzo de 1935, el día en que cumple
+      catorce años, John
+        <br />
+        <br />
+        Grimes deambula por las calles de Nueva York mientras
+      rumia algunos
+        <br />
+        <br />
+        asuntos que lo abruman: la difícil relación
+      con su padre, un autoritario
+        <br />
+        <br />
+        predicador pentecostal de Harlem, la pobreza en la que
+      viven sumidos
+        <br />
+        <br />
+        los suyos, el racismo que los rodea. John anhela un
+      destino diferente
+        <br />
+        <br />
+        al que su familia ha previsto para él: seguir los
+      pasos de su padre. Pero sabe que renunciar lo condenaría
+      a una segregación aún más profunda y dolorosa:
+      lo aislaría de su comunidad y de aquellos a quienes ama.
+      Más tarde, en la iglesia, rodeado del fervor y los
+      cantos de los fieles, John se verá sacudido por una
+      epifanía que lo pondrá frente a frente con la
+      rebeldía y la sumisión, la lujuria y la inocencia,
+      el odio y la compasión, revelando la
+        <br />
+        <br />
+        ambivalencia en que se halla su alma.
+        <br />
+        <br />
+        <br />
+        <br />
+        «Si alguna vez hubo un libro que yo tenía que
+      escribir, era este», dijo
+        <br />
+        <br />
+        James Baldwin de Ve y dilo en la montaña, la
+      novela que en 1953 descubrió al mundo el genio y la
+      furia del autor afroamericano, y que pocos años más
+      tarde era ya considerada un clásico de la literatura
+      estadounidense. Con su simbolismo oscuro y profético,
+      esta singular novela de iniciación se inspira en la
+      adolescencia del autor para componer un relato febril en el
+      que la lucha por la propia individualidad queda entretejida
+      con la historia de un pueblo marcado por el racismo y el
+      poder represivo de la religión.
+      </p>
+    </div>
+  </content>
+  <link href="../authors_2/authors_2000_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by James Baldwin" />
+</entry>

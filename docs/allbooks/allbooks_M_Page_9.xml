@@ -15,6 +15,23 @@
   <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with M" />
   <link href="../allbooks/allbooks_M_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (10 of 11)" />
   <entry>
+    <title>La mitad del mundo que fue de España</title>
+    <id>calibre:book:139</id>
+    <updated>2023-01-19T08:55:14Z</updated>
+    <link href="../../Ramon%20Tamames/La%20mitad%20del%20mundo%20que%20fue%20de%20Espan%20%28139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ramon%20Tamames/La%20mitad%20del%20mundo%20que%20fue%20de%20Espan%20%28139%29/La%20mitad%20del%20mundo%20que%20fue%20de%20E%20-%20Ramon%20Tamames.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="28 MB" />
+    <author>
+      <name>Ramón Tamames</name>
+      <uri>../authors_0/authors_87_Page_1.xml</uri>
+    </author>
+    <published>2021-03-18T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En otro tiempo España estuvo al frente de las naciones, en cuanto a títulos de posesión y conquista, en lo que geográficamente fue medio mundo. Eso no sucedió por casualidad: al término de ocho siglos de reconquista en la Península, los españoles lle...</summary>
+    <link href="../book_0/book_139.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>La mitología contada a los niños</title>
     <id>calibre:book:2060</id>
     <updated>2024-09-06T02:09:05Z</updated>
@@ -452,23 +469,6 @@ A mediados de los ochenta, una patrulla scout encuentra una bolsa de basura en l
     <category term="Lang:es" />
     <summary>Una mañana, el propietario de una furgoneta gastronómica ambulante aparece apuñalado en su interior. El vehículo está aparcado en una céntrica plaza, junto a otros de las mismas características. Todos participan en unas jornadas festivas que organiza...</summary>
     <link href="../book_1/book_1161.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Una mujer insignificante</title>
-    <id>calibre:book:1644</id>
-    <updated>2024-06-22T02:04:43Z</updated>
-    <link href="../../Catalina%20Murillo/Una%20mujer%20insignificante%20%281644%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Catalina%20Murillo/Una%20mujer%20insignificante%20%281644%29/Una%20mujer%20insignificante%20-%20Catalina%20Murillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="297 KB" />
-    <author>
-      <name>Catalina Murillo</name>
-      <uri>../authors_1/authors_1188_Page_1.xml</uri>
-    </author>
-    <published>2024-02-29T11:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Alfaguara</dcterms:publisher>
-    <category term="Lang:es" />
-    <summary>«Lo que hace cien años era una mujer enamorada, hoy es una mujer medicada».Pido perdón por lo que a continuación voy a relatar, pregunto. Aunque, ¿a quién podría ya pedirle perdón? No tengo inclinación a hablar con gente muerta , me espanta la posibi...</summary>
-    <link href="../book_1/book_1644.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_M_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (8 of 11)" />
   <link href="../allbooks/allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 11)" />

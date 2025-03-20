@@ -33,4 +33,21 @@
     <published>0101-01-01T00:00:00Z</published>
     <link href="../book_2/book_2945.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
+  <entry>
+    <title>Ya no pisa la tierra tu rey</title>
+    <id>calibre:book:3168</id>
+    <updated>2025-03-14T02:34:12Z</updated>
+    <link href="../../Cristina%20Sanchez-Andrade/Ya%20no%20pisa%20la%20tierra%20tu%20rey%20%283168%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cristina%20Sanchez-Andrade/Ya%20no%20pisa%20la%20tierra%20tu%20rey%20%283168%29/Ya%20no%20pisa%20la%20tierra%20tu%20rey%20-%20Cristina%20Sanchez-Andrade.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="235 KB" />
+    <author>
+      <name>Cristina Sánchez-Andrade</name>
+      <uri>../authors_1/authors_1896_Page_1.xml</uri>
+    </author>
+    <published>2025-01-14T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela nada convencional en la que la estrecha vida conventual contrasta con los excesos de la vida palaciega.A través de la perversa (y, a la vez, inocente) mirada de unas monjas que juegan a no ser monjas, construye Cristina Sánchez-Andrade est...</summary>
+    <link href="../book_3/book_3168.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
 </feed>

@@ -15,6 +15,22 @@
   <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Books starting with V" />
   <link href="../allbooks/allbooks_V_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 5)" />
   <entry>
+    <title>La verdad sospechosa</title>
+    <id>calibre:book:2213</id>
+    <updated>2024-09-06T02:21:35Z</updated>
+    <link href="../../Juan%20Ruiz%20De%20Alarcon/La%20verdad%20sospechosa%20%282213%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Ruiz%20De%20Alarcon/La%20verdad%20sospechosa%20%282213%29/La%20verdad%20sospechosa%20-%20Juan%20Ruiz%20De%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="112 KB" />
+    <author>
+      <name>Juan Ruiz De Alarcón</name>
+      <uri>../authors_1/authors_1562_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2213.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>El verdugo de Gaudí</title>
     <id>calibre:book:555</id>
     <updated>2023-04-11T09:33:24Z</updated>
@@ -435,24 +451,6 @@ La joven psicóloga Lis de la Serna regresa a su Cantabria natal para ocupar el 
     <category term="Lang:es" />
     <summary>Reyes Monforte regresa con su novela más ambiciosa: la apasionante historia de la española que se convirtió en la espía soviética más importante del siglo xx.La legendaria historia de una valerosa mujer que luchó por sus ideales más allá de la famil...</summary>
     <link href="../book_0/book_506.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Las virtudes cotidianas</title>
-    <id>calibre:book:730</id>
-    <updated>2023-05-17T01:24:38Z</updated>
-    <link href="../../Michael%20Ignatieff/Las%20virtudes%20cotidianas%20%28730%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michael%20Ignatieff/Las%20virtudes%20cotidianas%20%28730%29/Las%20virtudes%20cotidianas%20-%20Michael%20Ignatieff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="597 KB" />
-    <author>
-      <name>Michael Ignatieff</name>
-      <uri>../authors_0/authors_545_Page_1.xml</uri>
-    </author>
-    <published>2018-04-11T10:00:00Z</published>
-    <dcterms:language>es</dcterms:language>
-    <dcterms:publisher>Taurus</dcterms:publisher>
-    <category term="Filosofía" />
-    <category term="Lang:es" />
-    <summary>«En un tiempo de fractura, ¿dónde podemos encontrar orden y estabilidad? Debemos fijarnos en los pequeños detalles, pasar del amplio mundo de la política, los mercados y el sistema internacional al mundo más pequeño y más íntimo de la familia, el bar...</summary>
-    <link href="../book_0/book_730.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_V_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 5)" />
   <link href="../allbooks/allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 5)" />
