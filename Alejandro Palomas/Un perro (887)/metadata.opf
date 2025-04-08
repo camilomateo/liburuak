@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">887</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76a375d6-9e11-4505-b6a2-ed7d7714c743</dc:identifier>
+        <dc:title>Un perro</dc:title>
+        <dc:creator opf:file-as="Palomas, Alejandro" opf:role="aut">Alejandro Palomas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;Han pasado ya tres años desde la cena de Nochevieja en casa de Amalia, y su vida y la de sus hijos desde entonces ha sido una montaña rusa de emociones, de alegrías y de pérdidas. Esta tarde han vuelto a reunirse en su casa para merendar con una invitada muy especial que ha podido conocer por primera vez a la familia al completo y a una Amalia que ha desplegado sus mejores y peores habilidades, lo que en definitiva la hace ser a la vez la entrañable y desquiciante madre de esta particular familia. &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;Así empieza "Un perro". Con Fer sentado en la cafetería que hay junto a la casa de su madre, y con la repentina aparición de Amalia, que acaba de sacar a pasear a su perrita Shirley una vez terminada la merienda que han tenido todos en su casa. Y Fer, que por no preocuparla decide mentir y no explicarle por qué está ahí solo, sin R, su perro. Pero no podrá mantener el misterio demasiado tiempo. Amalia, a pesar de su particular manera de ser, se da cuenta de todo y acompañará a Fer en su silencio hasta que decida contárselo todo. Con la noticia llegarán también sus hermanas. Y aquí es donde empieza, o mejor, se retoma, el encuentro familiar. &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px;"&gt;La larga espera que viven todos los miembros de la familia sin saber de R abre fisuras familiares mal remendadas durante los últimos años. La vida supuestamente tranquila de los cuatro queda al descubierto y se ponen de manifiesto temas que hasta entonces no se habían tocado. Aparecen cuentas pendientes, malas respuestas, llagas abiertas, pero también buenos recuerdos, situaciones de lo más cómicas y mucho, pero que mucho cariño.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423350452</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B019K81WK4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Narrativa</dc:subject>
+        <meta name="calibre:series" content="Amalia"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-06-23T11:09:37.289972+00:00"/>
+        <meta name="calibre:title_sort" content="perro, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

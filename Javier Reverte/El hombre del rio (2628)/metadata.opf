@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d731ad3-593a-4f22-9147-8e18d6ba08af</dc:identifier>
+        <dc:title>El hombre del rio</dc:title>
+        <dc:creator opf:file-as="Reverte, Javier" opf:role="aut">Javier Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-05T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¿Quién fue Francisco de Orellana?&lt;/p&gt;
+&lt;p&gt;Un relato al más puro estilo Reverte, en el que historia, viaje y memoria se dan la mano para hilvanar un libro especial con el imponente río Amazonas como escenario.&lt;/p&gt;
+&lt;p&gt;El hombre del río es la historia de un joven que partió de su Trujillo natal hacia América sediento de aventura, fama y riqueza. Hombre de armas y letras, su audacia lo llevó a sumarse a la expedición en busca de los legendarios País de la Canela y El Dorado, logrando la excepcional hazaña de recorrer el mayor curso fluvial del mundo gracias a su aguda inteligencia y sus habilidades diplomáticas.&lt;/p&gt;
+&lt;p&gt;Mientras que muchos vieron en Orellana un traidor a su jefe Gonzalo Pizarro, Javier Reverte descubrió un personaje a la altura de héroes clásicos como Ulises, Aquiles o Héctor, por los que siempre sintió una enorme fascinación. Y en este relato se sirve de las fuentes históricas, de la narrativa de viajes y de recursos novelísticos, para ofrecernos el retrato de un hombre extraordinario en el que la ambición se funde con la curiosidad antropológica, la tolerancia o la lealtad.&lt;/p&gt;
+&lt;p&gt;«Este libro no solo tiene la intención de relatar una gran aventura, de ayudar a borrar la fama de traidor de un hombre excepcional, sino también la de trazar un retrato veraz de un conquistador diferente a todos los otros que participaron en la gigantesca tarea del Descubrimiento y la Conquista. Y es, además, el pago de la deuda que yo tenía con el curso de agua más grande de la Tierra, el Amazonas, el río de la desolación y de la desmesura, en donde Orellana perdió la vida y yo, casi».&lt;br&gt;&lt;br&gt;Javier Reverte &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janes</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-16T07:57:39.476147+00:00"/>
+        <meta name="calibre:title_sort" content="hombre del rio, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">589</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7217447f-2c66-4b11-93b0-a7e587f51852</dc:identifier>
+        <dc:title>Una muchacha en el Alcázar</dc:title>
+        <dc:creator opf:file-as="Cadenas, Ana" opf:role="aut">Ana Cadenas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-25T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mismo nombre, distinta fecha, distintos lugares. ¿Cómo puede alguien morir dos veces?&lt;/p&gt;
+&lt;p&gt;Segovia, 1822. El mismo día en que Pedro cumple catorce años es rechazado como cadete en la Academia de Artillería de Segovia. Marita, la mujer que lo ha criado, confiesa entonces algunos de los secretos que guarda, sabiendo que al desvelarlos sus vidas cambiarán de forma irremediable. Necesitan encontrar a los padres del chico y esa búsqueda, que será tan arriesgada como amarga, los llevará a ambos por un único camino hacia la verdad, desde las torres del Alcázar hasta el hogar de don Alfonso, un potentado, al que rodea el misterio y que vive obsesionado con la desaparición de su única hija. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-28T12:02:33.306458+00:00"/>
+        <meta name="calibre:title_sort" content="muchacha en el Alcázar, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

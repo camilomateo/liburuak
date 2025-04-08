@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">841</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a94081e3-043b-444a-854e-8fe09fc19f73</dc:identifier>
+        <dc:title>El reino</dc:title>
+        <dc:creator opf:file-as="Nesbo, Jo" opf:role="aut">Jo Nesbo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;En lo alto de una montaña, en los páramos de Noruega, hay un 
+viejo caserón habitado por un hombre solitario. Se llama Roy, es experto
+ en pájaros, lleva la gasolinera del pueblo y en cada casa corre un 
+rumor sobre él. Su vida gris se reabre con la vuelta de Carl, su hermano
+ pequeño. No se ven desde que se fue a estudiar a Estados Unidos hace 
+quince años, tras la muerte trágica de sus padres en un accidente de 
+coche.&lt;/p&gt;&lt;p&gt;El hijo pródigo trae consigo a su flamante 
+esposa, Shannon, una enigmática arquitecta: han ideado un plan para 
+construir un gran hotel en los antiguos terrenos familiares y podrían 
+hacerse ricos, no solo ellos sino además los vecinos de la zona.&lt;/p&gt;&lt;p&gt;Sin
+ embargo, pronto llegan también los malos presagios. Porque es difícil 
+reinventarse en una comunidad pequeña donde todos se conocen, y a los 
+habitantes del lugar les costará olvidar ciertos episodios del pasado. 
+Sobre todo, al agente Olsen, hijo del antiguo alguacil, que desapareció 
+tiempo atrás en extrañas circunstancias.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-09T11:56:11.180056+00:00"/>
+        <meta name="calibre:title_sort" content="reino, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

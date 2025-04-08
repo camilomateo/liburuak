@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1403</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e034b730-93c2-44ae-9da2-fe85be57b7c7</dc:identifier>
+        <dc:title>Tú bailas y yo disparo</dc:title>
+        <dc:creator opf:file-as="Marlasca, Manuel" opf:role="aut">Manuel Marlasca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-02T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La primera novela de Manuel Marlasca El nuevo talento literario de la novela negra El día que el grupo X de la Brigada de Policía Judicial de Madrid empieza su semana de guardia aparece en una fábrica abandonada una maleta con el torso de una mujer. Jimmy Valle, Luis Mangas y Paula Vicente, tres agentes de distintas generaciones, serán los encargados de esclarecer el crimen. Al grupo X se une Julia Zaldívar, una inspectora especialista en la lucha contra las redes de trata de mujeres, que se convertirá en una pieza fundamental para resolver el caso. El equipo pronto comprenderá que se enfrenta a un desafío gigantesco: un asesino con recursos para llevar a la Policía hasta callejones sin salida, una trama poderosa y con conexiones comprometidas relacionada con otros asesinatos nunca resueltos y una investigación que dejará profundas cicatrices en todos los que participan en ella. Solo el trabajo conjunto y la férrea voluntad del grupo X conseguirán resolver un caso que va mucho más allá del crimen de la mujer de la maleta. ¿Hasta dónde llega la corrupción y cuál será el precio que pagar para acabar con ella? A veces los policías son la última oportunidad que nos queda para saber la verdad, pero a ellos les puede costar su alma.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423365234</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Grupo X"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-04-08T12:46:19.796813+00:00"/>
+        <meta name="calibre:title_sort" content="Tú bailas y yo disparo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcdc1b9a-2c89-475d-8b4f-e536663abf54</dc:identifier>
+        <dc:title>Cielo sucio</dc:title>
+        <dc:creator opf:file-as="Cozarinsky, Edgardo" opf:role="aut">Edgardo Cozarinsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-03T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Tres personajes se dan cita en un Buenos Aires perturbador. El 
+verano y la humedad azuzan la violencia en la ciudad, una tormenta que 
+amenaza pero que nunca acaba de desatarse. Alejandro, un escritor ya en 
+la madurez y desencantado, estampa su automóvil contra un preso. Y este 
+acto violento, aunque de alguna extraña manera &lt;span class="a-text-italic"&gt;natural,&lt;/span&gt;
+ pone en marcha un mecanismo secreto que lo conecta con Ángel, 
+practicante de un culto ancestral. Ángel viene del norte para ocupar un 
+cargo en la policía metropolitana, y descubre que no se trataba del 
+puesto que había imaginado, pero se siente poseedor de cierta sabiduría 
+heredada de su abuela, unas creencias que le permiten oír el lamento de 
+los muertos. Y este círculo lo concluye la llegada de Mariana, hija de 
+Alejandro, que se verá involucrada en una de las &lt;span class="a-text-italic"&gt;cacerías&lt;/span&gt;
+ de su padre. Cozarinsky nos lleva de la mano por una ciudad que se 
+aproxima al apocalipsis, un mundo entre real y fantástico, que toma el 
+pulso con brillantez a la deriva de la sociedad occidental de los 
+últimos años.&lt;/p&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Edgardo Cozarinsky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-09T11:08:54.287122+00:00"/>
+        <meta name="calibre:title_sort" content="Cielo sucio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6a42eec-1522-4fec-9387-cce8294f13bc</dc:identifier>
+        <dc:title>La vida impropia</dc:title>
+        <dc:creator opf:file-as="López, Susana" opf:role="aut">Susana López</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-05T06:00:00+00:00</dc:date>
+        <dc:description>Simona ha vivido siempre bajo el peso de lo que se esperaba de ella. Desde su infancia en el Bilbao de la posguerra hasta su matrimonio con un hombre que la ha relegado a un papel secundario en su propia vida, ha acumulado silencios, sacrificios y renuncias. Ahora, a sus ochenta años, enfrenta su último desafío: despedirse sin cargas, sin secretos y sin miedo. En el refugio de la casa de su hermana, repasa las sombras y luces de su existencia, cuestionando los pilares que la sostuvieron y enfrentándose a verdades que siempre evitó.</dc:description>
+        <dc:publisher>Click Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002633</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">392</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:19.963641+00:00"/>
+        <meta name="calibre:title_sort" content="vida impropia, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2847</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">471fdbbb-719b-4dc6-96a1-dbc7f5ee66aa</dc:identifier>
+        <dc:title>Café con aroma a calabaza</dc:title>
+        <dc:creator opf:file-as="Gilmore, Laurie" opf:role="aut">Laurie Gilmore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-08T08:19:44+00:00</dc:date>
+        <dc:description>Cuando Jeanie recibe el encargo de su querida tía Dot de llevar el Pumpkin Spice Café en el pequeño pueblo de Dream Harbor, decide aprovechar la oportunidad para empezar una nueva vida lejos de su estresante trabajo de oficina.Todos en el pueblo parecen conquistados por el buen humor de Jeanie y sus increíbles cafés de especialidad; todos excepto Logan, un granjero cascarrabias que odia los chismes y prefiere estar solo. Pero la simpatía de Jeanie y el misterio que se cierne sobre el Pumpkin Spice Café obligarán a Logan a pasar mucho tiempo con la extravagante chica de ciudad. ¿Podrá resistirse a ella y a su increíble pumpkin-spiced latte?«Te da el mismo nivel de endorfinas que un sorbo de pumpkin-spiced latte». PEOPLELos lectores se han enamorado de Café con aroma a calabaza:«Maravillosa historia con lágrimas, risas, misterio, dudas y felicidad».«Una comedia romántica encantadora en un pequeño pueblo, donde saltan chispas..., y muy spicy».«¡Tiene todo lo que me gusta! Un...</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410641495</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-27T11:40:27.499722+00:00"/>
+        <meta name="calibre:title_sort" content="Café con aroma a calabaza"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

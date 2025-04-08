@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1185</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81c114d9-1a03-4910-a49b-c9e0f2587bb1</dc:identifier>
+        <dc:title>Pleamar</dc:title>
+        <dc:creator opf:file-as="Antonio Mercero" opf:role="aut">Antonio Mercero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-16T06:00:00+00:00</dc:date>
+        <dc:description>Las hermanas Müller cuentan cada jueves su vida a millones de seguidores en el canal de YouTube Pleamar, pero en el vídeo de esta semana aparecen amordazadas y maniatadas, en un lugar oscuro, y llorando desesperadamente. Las visualizaciones crecen por horas sin que nadie sepa si va en serio o es una broma macabra. Los padres denuncian la desaparición y el caso es asignado a una extraña pareja de investigadores: Darío Mur, divorciado y enamorado de la literatura clásica, y Nieves González, adicta a las citas online y víctima de acoso en la comisaría. Cuando la muerte de Martina Müller es retransmitida en directo, Darío se enfrentará al mundo de los influencers, al que su propia hija es adicta y que la ha convertido en una chica violenta y conflictiva.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420454931</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-01T09:07:03.410676+00:00"/>
+        <meta name="calibre:title_sort" content="Pleamar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

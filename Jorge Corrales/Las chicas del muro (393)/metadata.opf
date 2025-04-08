@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44932af0-8f40-4e38-a64c-4d4d0b53f2cf</dc:identifier>
+        <dc:title>Las chicas del muro</dc:title>
+        <dc:creator opf:file-as="Corrales, Jorge" opf:role="aut">Jorge Corrales</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-10T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una misteriosa fotografía que esconde una gran historia.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una amistad capaz de sobrevivir más allá de cualquier muro.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;La conmovedora primera novela de Jorge Corrales (@yosoycorra), basada en hechos reales.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;El Muro de Berlín se construyó para separar.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Dos
+ jóvenes se cogen de la mano frente al Muro de Berlín, aún a medio 
+construir. Una se queda en el Este, la otra en el Oeste. Es 23 de agosto
+ de 1961 y el Muro apenas lleva diez días en pie, pero ya separa el 
+barrio de Rosmarie y el de Kriemhild, que no saben cuándo volverán a 
+verse.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Pero esta ciudad, como las buenas amistades, pervive más allá de los muros.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Elena
+ acaba de mudarse de Madrid a Berlín cuando descubre, en el pequeño 
+museo donde trabaja, una fotografía que le llama la atención y la 
+curiosidad la empuja a indagar sobre la verdadera historia de ese 
+instante y sus protagonistas. ¿Qué esconden realmente? ¿Conseguirían 
+reencontrarse? ¿Se trata de la captura de una auténtica despedida?&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Basadaen la historia y en la fotografía real de las chicas de&lt;/span&gt; &lt;span class="a-text-bold"&gt;Mauermädchen,
+ esta emocionante novela nos habla de las cicatrices de una ciudad 
+dividida, del dolor que produce el recuerdo y el vacío que deja el 
+olvido, así como de las amistades que nos salvan y sobreviven la 
+distancia que pretenden imponer los muros.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jorge Corrales&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-09T11:08:52.851589+00:00"/>
+        <meta name="calibre:title_sort" content="chicas del muro, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

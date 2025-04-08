@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1895</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55c35435-6573-4e1f-97ea-17943eeed7eb</dc:identifier>
+        <dc:title>Historia del mundo y del arte en Occidente (siglos XII a XXI)</dc:title>
+        <dc:creator opf:file-as="Calvo, Francisco &amp; Fusi, Juan Pablo" opf:role="aut">Francisco Calvo</dc:creator>
+        <dc:creator opf:file-as="Calvo, Francisco &amp; Fusi, Juan Pablo" opf:role="aut">Juan Pablo Fusi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-30T23:00:00+00:00</dc:date>
+        <dc:description>&amp;lt;br&amp;gt;Francisco Calvo Serraller y Juan Pablo Fusi Aizpurúase unen de nuevo para acometer un proyecto realmenteambicioso: la historia del mundo occidental entrelos siglos xii y xxi desde una perspectiva general(política, social, económica y cultural) y desde unaperspectiva privilegiada (el arte). Partiendo del triunfodel cristianismo y el apogeo de la cristiandad,analizan el nacimiento de Europa, el otoño de la EdadMedia, el Renacimiento, la Reforma, el Barrocoy la Contrarreforma, el gran siglo de Francia conRichelieu y Luis XIV, el pensamiento moderno, el finde la hegemonía española, la Ilustración, la Revoluciónfrancesa y la Europa napoleónica, el romanticismo,el triunfo del liberalismo, la revolución industrial y loscambios políticos, económicos, sociales, tecnológicosy científicos de los siglos xix y xx hasta el mismoagotamiento de la modernidad.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Esta obra no es una más de historia al uso.Las ilustraciones aquí no son simplemente imágenesque hacen referencia directa a los que se entiendencomo sucesos identificables de un periodo concreto.Se trata de conciliar lo simbólico de la historia generaly de la historia del arte, que avanzan, sin duda, juntaspero cada una con entidad y significación propias.Desde Duccio, Giotto, Masaccio, Van Eyck, Rafaely Tiziano, pasando por Rubens, Caravaggio, Poussin,Rembrandt, Velázquez y Vermeer, Watteau, Hogarth,Chardin, David, Goya e Ingres, Friedrich, Géricault,Delacroix, Courbet, Manet, y luego Picasso, Modiglianiy Hopper, entre otros, hasta llegar a Richard Long yLucian Freud, se hace así un recorrido esencialde la historia a través de los principales artistas queacertaron a plasmar la realidad de su tiempo.&amp;lt;br&amp;gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:55.406534+00:00"/>
+        <meta name="calibre:title_sort" content="Historia del mundo y del arte en Occidente (siglos XII a XXI)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

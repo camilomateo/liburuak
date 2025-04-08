@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">634</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ce64269-c8bc-4ccf-b18f-5cb1a10410b6</dc:identifier>
+        <dc:title>La princesa de Buchenwald</dc:title>
+        <dc:creator opf:file-as="Baquero, Ana Andreu" opf:role="aut">Ana Andreu Baquero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-02T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;&lt;strong style="font-size: 16px;"&gt;Una princesa italiana que pasó de vivir en los más fastuosos palacios a acabar en un campo de concentración nazi a la que la historia casi borró de sus anales: Mafalda de Saboya.&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Weimar, 1945.&lt;/strong&gt; Poco después de la liberación del campo de concentración de Buchenwald, siete hombres pertenecientes a la Regia Marina Italiana se adentran en el cementerio de la ciudad y se dirigen hacia una sórdida explanada cubierta de estacas numeradas. Una vez allí se sitúan delante de la que tanto trabajo y suerte, a partes iguales, les ha costado encontrar: la número 262, donde, según el registro, reposan los restos de una &lt;em&gt;unbekannte Frau&lt;/em&gt; («mujer desconocida»). Al arrancarla, observan el nombre de pila que ha estado oculto hasta entonces y que les confirma el gran valor de su misión. Por fin, la sustituyen por una lápida y una cruz de madera de haya conseguida a base de trueques en esos primeros días de paz. La tumba, ahora sí, está completa y aquel número siniestro se había convertido en un nombre de alta alcurnia tallado con esmero: Mafalda de Saboya.&lt;/p&gt;
+&lt;h3&gt;&lt;br&gt;&lt;/h3&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libros de Seda</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419386045</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ana Andreu Baquero&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42.885724+00:00"/>
+        <meta name="calibre:title_sort" content="princesa de Buchenwald, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

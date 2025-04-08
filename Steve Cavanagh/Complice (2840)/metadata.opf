@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2840</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7c69ac8-51ff-4ef5-8b74-2550ad643fb1</dc:identifier>
+        <dc:title>Cómplice</dc:title>
+        <dc:creator opf:file-as="Cavanagh, Steve" opf:role="aut">Steve Cavanagh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-16T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;UN NUEVO CASO PARA EDDIE FLYNN. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;¿Estar casada con un asesino en serie te convierte en una criminal?&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;«Steve Cavanagh es un autor fantástico. Tiene mucho talento».&lt;br&gt;DON WINSLOW&lt;/p&gt;
+&lt;p&gt;Daniel Miller, más conocido como Sandman, el Hombre de Arena, asesinó a catorce personas antes de desaparecer. Ahora, su esposa Carrie se enfrenta a un juicio como cómplice. El FBI, el fiscal del distrito, los medios de comunicación y prácticamente toda la población del país cree que ella lo ayudó a encubrir los crímenes. Eddie Flynn, convencido de la inocencia de su cliente, debe demostrar al jurado y al mundo entero que Carrie Miller fue solo otra víctima de su marido, que desconocía su lado oscuro y nunca participó en los asesinatos. Pero hasta ahora, Eddie y su equipo son los únicos que lo creen. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Rocaeditorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467073522</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Eddie Flynn"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-01-26T10:50:54.347914+00:00"/>
+        <meta name="calibre:title_sort" content="Cómplice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2816</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15257db9-9e64-4856-98f1-eb871d7ea2d4</dc:identifier>
+        <dc:title>Mareas de aceite</dc:title>
+        <dc:creator opf:file-as="Yuste, Angélica" opf:role="aut">Angélica Yuste</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-06T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Acatando la última voluntad de su padre, Vera, abogada de treinta y nueve años, reflota el velero familiar y embarca junto a los suyos para arrojar al Mediterráneo las cenizas de un hombre que le dio dinero, apellidos y ningún amor. Pero la idílica escapada se torna en pesadilla cuando una fatalidad los aboca al naufragio. Despierta en un pesquero argelino y el horror de hallarse sola se acrecienta al descubrir lo que esconden sus rescatadores bajo las abultadas lonas que copan la cubierta, sacudiendo por entero su estructurada vida. Obligada a punta de pistola, participará de una cruda travesía migratoria entre harragas y saharauis con los que comparte el estigma de una misma piel, y aunará esfuerzos para sobrevivir a la odisea y reencontrarse con su familia, atestiguando en el proceso que a veces es necesario luchar por una quimera para no morir olvidada entre la espuma de las olas o las arenas del tiempo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Algaida Editores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491899426</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>suspense</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <meta name="calibre:timestamp" content="2025-01-20T10:21:17+00:00"/>
+        <meta name="calibre:title_sort" content="Mareas de aceite"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

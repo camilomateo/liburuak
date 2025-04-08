@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">734</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5e866ee-3062-4f07-affc-7f659b84a68a</dc:identifier>
+        <dc:title>Ahora te toca ser feliz</dc:title>
+        <dc:creator opf:file-as="Cañete, Curro" opf:role="aut">Curro Cañete</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-08T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Hoy es un día importante. El único momento del que dispones, 
+tu única herramienta, es el presente. Tras el éxito de El poder de 
+confiar en ti, Curro Cañete vuelve con más fuerza que nunca para 
+recordarte que &lt;span class="a-text-italic"&gt;Ahora te toca ser feliz&lt;/span&gt;.
+ En estas páginas encontrarás la guía y el impulso que necesitas para 
+cumplir nuevos sueños mientras le sacas todo el provecho a cada día, a 
+cada hora, y para comprender, por fin, que el pasado quedó atrás; 
+aprendiste de él y ahora es el momento de confiar más en ti, dar un paso
+ adelante y apostar al máximo por lo que amas. &lt;/p&gt;&lt;p&gt; «Cada
+ problema que tengas y cada reto que superes te harán una persona más 
+sabia, más fuerte y más consciente de lo que quieres, de lo que deseas 
+conseguir. A toda la humanidad se le ha activado un deseo mucho más 
+grande y poderoso de ser feliz, de ir a por sus sueños y de aprovechar 
+al máximo el regalo que tenemos en nuestras manos: la vida y la 
+oportunidad de alcanzar la felicidad.» &lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;NO ESTÁS SOLO. ESTÁS CON LA PERSONA MÁS IMPORTANTE DE TU VIDA: TÚ MISMO. CUIDA DE TI. &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:59:54.738721+00:00"/>
+        <meta name="calibre:title_sort" content="Ahora te toca ser feliz"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

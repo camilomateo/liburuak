@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2809</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">450aa251-7841-4314-8168-fc756ec9bbc4</dc:identifier>
+        <dc:title>Cuaderno Alzheimer</dc:title>
+        <dc:creator opf:file-as="Juan Gerardo Sampedro" opf:role="aut">Juan Gerardo Sampedro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-16T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;
+  &lt;b&gt;Somos memoria y pasado, pero ¿qué somos cuando desfallece la memoria?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;El viejo Alonso Peralta, el famoso periodista de nota roja, no tiene
+  dudas: la mujer que reconoció en el consultorio del doctor J. Galindo,
+  su neurólogo, es Marcia Galván, aquella &lt;b&gt;asesina serial&lt;/b&gt; que
+  escapó  de la justicia a finales de los años setenta.&lt;/p&gt;
+&lt;p&gt;Lo sabe con  certeza porque él mismo hizo un &lt;b&gt;retrato hablado&lt;/b&gt;
+  de  ella para la policía y recreó sus crímenes en &amp;quot;El día de los
+  hechos&amp;quot;, su  columna del periódico. Conoce el caso de memoria, no
+  pueden engañarlo.  Por eso hará lo imposible por desenmascarar a
+  Marcia y a sus cómplices,  aunque trate de impedírselo su hijo Nelson.
+  Todo encaja, excepto un dato: Alonso tiene &lt;b&gt;principios de Alzheimer.&lt;/b&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073166966</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-20T10:21:15.357885+00:00"/>
+        <meta name="calibre:title_sort" content="Cuaderno Alzheimer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

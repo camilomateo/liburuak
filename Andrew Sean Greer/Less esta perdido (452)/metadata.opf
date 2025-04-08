@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">452</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b332788b-44ff-44e0-aa3f-06917ae90298</dc:identifier>
+        <dc:title>Less está perdido</dc:title>
+        <dc:creator opf:file-as="Andrew Sean Greer" opf:role="aut">Andrew Sean Greer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-09T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El torpe pero adorable Arthur Less regresa en un inolvidable viaje por carretera a través de los Estados Unidos.&lt;/p&gt;
+&lt;p&gt;Del autor de Less, Premio Pulitzer 2018&lt;/p&gt;
+&lt;p&gt;Por sorprendente que resulte, a Arthur Less la vida no le va mal: es un novelista de cierto éxito que disfruta de una relación estable con su pareja, Freddy Pelu. Nada es para siempre, sin embargo: la muerte de un antiguo amante y una repentina crisis financiera personal empujan a Less a huir de nuevo para solucionar sus problemas, tras aceptar participar en una serie de eventos literarios que le lanzan a una aventura sobre ruedas por los Estados Unidos plagada de giros de guion. &lt;/p&gt;
+&lt;p&gt;Less recorre un Oeste salvaje pero amable, atraviesa el Sur profundo y arriba por fin al lugar que lo vio nacer, un anodino rincón de la Costa Este, rodeado en todo momento de caricaturescos escritores y dos fieles amigos: Dolly, la carlino de color negro y ademanes humanos, y una furgoneta camperizada, bautizada Rosina, que ha visto mejores días. Less se deja bigote, abandona su característico traje gris y se atavía con pantalón vaquero y estilizado sombrero tejano para convertirse en un norteamericano de pura cepa... con relativo éxito, pues lo siguen tomando por holandés, confundiéndolo con otros escritores o tachándolo de «mal gay». Es imposible escapar de uno mismo, ni siquiera cruzando desiertos, pantanos o costas salvajes. Arthur Less deberá por fin enfrentarse a sus demonios personales, desde el padre distante a la tensa relación con Freddy, pasando por el ajuste de cuentas con su vida de privilegiado. Haciendo gala del mismo ingenio y musicalidad que convirtieron Less en un título superventas de lectura obligada, distinguido con el premio Pulitzer, Less está perdido es una novela sobre los enigmas que oculta el estilo de vida estadounidense, los acertijos que nos plantea el amor y las historias que, por el camino, nos contamos a nosotros mismos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411481533</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Bc6pEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Andrew Sean Greer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-23T10:00:40.940805+00:00"/>
+        <meta name="calibre:title_sort" content="Less está perdido"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

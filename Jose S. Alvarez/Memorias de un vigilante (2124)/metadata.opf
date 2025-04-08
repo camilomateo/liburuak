@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2124</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8903b8c-93ae-4c8f-825c-710ef5aeec54</dc:identifier>
+        <dc:title>Memorias de un vigilante</dc:title>
+        <dc:creator opf:file-as="Alvarez, José S." opf:role="aut">José S. Alvarez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Argentina</dc:subject>
+        <dc:subject>Buenos</dc:subject>
+        <dc:subject>Aires</dc:subject>
+        <dc:subject>Criminals</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-06T12:21:19.857295+00:00"/>
+        <meta name="calibre:title_sort" content="Memorias de un vigilante"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

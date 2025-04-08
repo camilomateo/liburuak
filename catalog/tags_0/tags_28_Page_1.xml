@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Poesía</title>
+  <id>Calibre2opds:taglist:P:28</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Poesía" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por P" />
+  <entry>
+    <title>El amor, las mujeres y la vida</title>
+    <id>calibre:book:2666</id>
+    <updated>2024-10-22T08:04:35Z</updated>
+    <link href="../../Mario%20Benedetti/El%20amor%2C%20las%20mujeres%20y%20la%20vida%20%282666%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Benedetti/El%20amor%2C%20las%20mujeres%20y%20la%20vida%20%282666%29/El%20amor%2C%20las%20mujeres%20y%20la%20vida%20-%20Mario%20Benedetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="227 KB" />
+    <author>
+      <name>Mario Benedetti</name>
+      <uri>../authors_1/authors_1754_Page_1.xml</uri>
+    </author>
+    <published>2009-09-15T02:27:19Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>Este libro reúne los mejores poemas de amor escritos por Mario Benedetti, uno de los poetas más innovadores, divertidos, ambiciosos y modernos de la literatura en español. El amor, las mujeres y la vida recoge una selección de poemas aclamados por va...</summary>
+    <link href="../book_2/book_2666.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Antología Poética</title>
+    <id>calibre:book:2672</id>
+    <updated>2024-10-22T08:04:37Z</updated>
+    <link href="../../Mario%20Benedetti/Antologia%20Poetica%20%282672%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Benedetti/Antologia%20Poetica%20%282672%29/Antologia%20Poetica%20-%20Mario%20Benedetti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="280 KB" />
+    <author>
+      <name>Mario Benedetti</name>
+      <uri>../authors_1/authors_1754_Page_1.xml</uri>
+    </author>
+    <published>1979-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Mario Benedetti es uno de los escritores más leídos de nuestro idioma. Su obra literaria más de sesenta libros, traducidos a veinticinco lenguas abarca distintos géneros: la novela, el cuento, la poesía, el ensayo. Ha ejercido también la crítica lite...</summary>
+    <link href="../book_2/book_2672.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Augurios de inocencia</title>
+    <id>calibre:book:1115</id>
+    <updated>2024-01-08T09:16:14Z</updated>
+    <link href="../../Patti%20Smith/Augurios%20de%20inocencia%20%281115%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patti%20Smith/Augurios%20de%20inocencia%20%281115%29/Augurios%20de%20inocencia%20-%20Patti%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="283 KB" />
+    <author>
+      <name>Patti Smith</name>
+      <uri>../authors_0/authors_818_Page_1.xml</uri>
+    </author>
+    <published>2019-06-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Poesía" />
+    <category term="Lang:es" />
+    <summary>«Rompimos el corazón de nuestra madre y nos convertimos en lo que somos.» La artista que ha inscrito su visión de nuestro mundo en poderosos himnos, baladas y letras desvela en esta deliciosa colección de poemas su universo más íntimo: el vínculo con...</summary>
+    <link href="../book_1/book_1115.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cantos iberos</title>
+    <id>calibre:book:2648</id>
+    <updated>2024-10-22T07:50:35Z</updated>
+    <link href="../../Gabriel%20Celaya/Cantos%20iberos%20%282648%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gabriel%20Celaya/Cantos%20iberos%20%282648%29/Cantos%20iberos%20-%20Gabriel%20Celaya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="201 KB" />
+    <author>
+      <name>Gabriel Celaya</name>
+      <uri>../authors_1/authors_1742_Page_1.xml</uri>
+    </author>
+    <published>1974-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Lang:es" />
+    <summary>Las dos partes de que consta este libro —Cantos iberos (1954) y Otros poemas, extraídos de Lo que faltaba (1966)— son los dos extremos de un arco que mantuve tenso durante muchos años. Pero aunque la dirección en que así apuntaba era única, resulta f...</summary>
+    <link href="../book_2/book_2648.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cartas que no llegaron</title>
+    <id>calibre:book:2667</id>
+    <updated>2024-10-22T08:04:35Z</updated>
+    <link href="../../Gilraen%20Earfalas/Cartas%20que%20no%20llegaron%20%282667%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gilraen%20Earfalas/Cartas%20que%20no%20llegaron%20%282667%29/Cartas%20que%20no%20llegaron%20-%20Gilraen%20Earfalas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Gilraen Eärfalas</name>
+      <uri>../authors_1/authors_1755_Page_1.xml</uri>
+    </author>
+    <published>2021-11-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>Ella era un alma libre, una sirena con ansias de conquistar los océanos. Él parecía el hombre perfecto, pero guardaba un secreto: quería convertirla en sardina y mantenerla cautiva en una pecera. ¿Cómo volver a nadar contracorriente, si la convencier...</summary>
+    <link href="../book_2/book_2667.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El cuaderno de Nerina</title>
+    <id>calibre:book:1196</id>
+    <updated>2024-02-05T05:55:58Z</updated>
+    <link href="../../Jhumpa%20Lahiri/El%20cuaderno%20de%20Nerina%20%281196%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jhumpa%20Lahiri/El%20cuaderno%20de%20Nerina%20%281196%29/El%20cuaderno%20de%20Nerina%20-%20Jhumpa%20Lahiri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <author>
+      <name>Jhumpa Lahiri</name>
+      <uri>../authors_0/authors_868_Page_1.xml</uri>
+    </author>
+    <published>2024-01-15T06:00:00Z</published>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Poesía" />
+    <summary>Un libro único en el que la ganadora del Premio Pulitzer y del Pen Hemingway da voz a una misteriosa escritora cuyos poemas cuentan una vida sospechosamente parecida a la suya.En el fondo del cajón de un escritorio de su casa de Roma, la autora halla...</summary>
+    <link href="../book_1/book_1196.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Desfibrilador</title>
+    <id>calibre:book:2670</id>
+    <updated>2024-10-22T08:04:36Z</updated>
+    <link href="../../Gilraen%20Earfalas/Desfibrilador%20%282670%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gilraen%20Earfalas/Desfibrilador%20%282670%29/Desfibrilador%20-%20Gilraen%20Earfalas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="299 KB" />
+    <author>
+      <name>Gilraen Eärfalas</name>
+      <uri>../authors_1/authors_1755_Page_1.xml</uri>
+    </author>
+    <published>2021-07-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Lang:es" />
+    <summary>Cada quien vive sus propios tormentos. Los míos me trajeron hasta donde estoy hoy, no sin antes intentar hundirme. La muerte me miró a los ojos una noche de febrero de 2010, recuerdo la sangre manar a borbotones de mis entrañas, me ahogaba, desaparec...</summary>
+    <link href="../book_2/book_2670.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Eneida</title>
+    <id>calibre:book:2297</id>
+    <updated>2024-09-09T10:34:02Z</updated>
+    <link href="../../Publio%20Virgilio%20Maron/Eneida%20%282297%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Publio%20Virgilio%20Maron/Eneida%20%282297%29/Eneida%20-%20Publio%20Virgilio%20Maron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="377 KB" />
+    <author>
+      <name>Publio Virgilio Marón</name>
+      <uri>../authors_1/authors_1605_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [23]:</summary>
+    <link href="../book_2/book_2297.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fábulas</title>
+    <id>calibre:book:2031</id>
+    <updated>2024-09-06T02:09:01Z</updated>
+    <link href="../../Felix%20Maria%20Samaniego/Fabulas%20%282031%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Felix%20Maria%20Samaniego/Fabulas%20%282031%29/Fabulas%20-%20Felix%20Maria%20Samaniego.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="141 KB" />
+    <author>
+      <name>Félix María Samaniego</name>
+      <uri>../authors_1/authors_1461_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Infantil" />
+    <category term="y" />
+    <category term="Juvenil" />
+    <category term="Poesía" />
+    <category term="Cuentos" />
+    <category term="Clásico" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2031.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hojas de hierba</title>
+    <id>calibre:book:2668</id>
+    <updated>2024-10-22T08:04:36Z</updated>
+    <link href="../../Walt%20Whitman/Hojas%20de%20hierba%20%282668%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Walt%20Whitman/Hojas%20de%20hierba%20%282668%29/Hojas%20de%20hierba%20-%20Walt%20Whitman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="817 KB" />
+    <author>
+      <name>Walt Whitman</name>
+      <uri>../authors_1/authors_1756_Page_1.xml</uri>
+    </author>
+    <published>1854-12-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Filosófico" />
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <summary>En 1855, Whitman publicó la primera de las innumerables ediciones de Hojas de hierba, un libro de poemas cuya principal novedad era un tipo de versificación no usado hasta entonces, y que se alejaba radicalmente del que el poeta había utilizado en lo...</summary>
+    <link href="../book_2/book_2668.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Odisea</title>
+    <id>calibre:book:2671</id>
+    <updated>2024-10-22T08:04:37Z</updated>
+    <link href="../../Homero/La%20Odisea%20%282671%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Homero/La%20Odisea%20%282671%29/La%20Odisea%20-%20Homero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Homero</name>
+      <uri>../authors_1/authors_1576_Page_1.xml</uri>
+    </author>
+    <published>0699-12-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Aventuras" />
+    <category term="Poesía" />
+    <category term="Lang:es" />
+    <summary>«La Odisea» es un poema épico griego compuesto por 24 cantos, atribuido al poeta griego Homero. Se cree que fue escrito en el siglo VIII a. C., en los asentamientos que Grecia tenía en la costa oeste del Asia Menor (actual Turquía asiática). Según ot...</summary>
+    <link href="../book_2/book_2671.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Otras maneras de usar la boca</title>
+    <id>calibre:book:1107</id>
+    <updated>2024-01-08T09:16:12Z</updated>
+    <link href="../../Rupi%20Kaur/Otras%20maneras%20de%20usar%20la%20boca%20%281107%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rupi%20Kaur/Otras%20maneras%20de%20usar%20la%20boca%20%281107%29/Otras%20maneras%20de%20usar%20la%20boca%20-%20Rupi%20Kaur.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Rupi Kaur</name>
+      <uri>../authors_0/authors_811_Page_1.xml</uri>
+    </author>
+    <published>2017-01-17T01:45:20Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Lang:es" />
+    <summary>Otras maneras de usar la boca habla, de una forma contundente y poderosa, de cómo superar los golpes de la vida: el abuso, el desamor, la pérdida y las ideas preconcebidas sobre la feminidad. Siempre impactantes, los versos de Kaur llenan de fortalez...</summary>
+    <link href="../book_1/book_1107.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Rayo que no Cesa</title>
+    <id>calibre:book:174</id>
+    <updated>2023-01-23T07:53:48Z</updated>
+    <link href="../../Miguel%20Hernandez/El%20Rayo%20que%20no%20Cesa%20%28174%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Miguel%20Hernandez/El%20Rayo%20que%20no%20Cesa%20%28174%29/El%20Rayo%20que%20no%20Cesa%20-%20Miguel%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Miguel Hernández</name>
+      <uri>../authors_0/authors_113_Page_1.xml</uri>
+    </author>
+    <published>2023-01-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>https://www.elejandria.com</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_174.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Valentía</title>
+    <id>calibre:book:2669</id>
+    <updated>2024-10-22T08:04:36Z</updated>
+    <link href="../../Kelbin%20Torres/Valentia%20%282669%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kelbin%20Torres/Valentia%20%282669%29/Valentia%20-%20Kelbin%20Torres.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Kelbin Torres</name>
+      <uri>../authors_1/authors_1757_Page_1.xml</uri>
+    </author>
+    <published>2022-09-25T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Lang:es" />
+    <summary>Este no es un libro de esos que dejas olvidados en un rincón, es un libro de esos a lo que vuelves cada vez que lo necesitas. Es de esos que logan derrumbarte, pero también hacerte brillar. Te hará llorar y reír, te acercará más a la vida. Aquí encon...</summary>
+    <link href="../book_2/book_2669.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Viento del Pueblo</title>
+    <id>calibre:book:175</id>
+    <updated>2023-01-23T07:54:06Z</updated>
+    <link href="../../Miguel%20Hernandez/Viento%20del%20Pueblo%20%28175%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Miguel%20Hernandez/Viento%20del%20Pueblo%20%28175%29/Viento%20del%20Pueblo%20-%20Miguel%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Miguel Hernández</name>
+      <uri>../authors_0/authors_113_Page_1.xml</uri>
+    </author>
+    <published>2023-01-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>https://www.elejandria.com</dcterms:publisher>
+    <category term="Poesía" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_175.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

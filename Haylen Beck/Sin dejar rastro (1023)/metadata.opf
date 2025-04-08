@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1023</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">240ed464-cb28-42b5-9ef1-8d50f65a4f0d</dc:identifier>
+        <dc:title>Sin dejar rastro</dc:title>
+        <dc:creator opf:file-as="Beck, Haylen" opf:role="aut">Haylen Beck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;Casada con un poderoso hombre de negocios neoyorquino, Audra Kinney ha reunido las fuerzas suficientes para dejar atrás una vida aparentemente acomodada pero marcada por el maltrato psicológico de su marido. Con sus hijos Sean y Louise, de once y seis años, Audra ha recorrido miles de kilómetros a través de carreteras secundarias con la intención de comenzar una nueva vida en California. Y ahora, frente a los escarpados paisajes de la desértica Arizona, siente que puede volver a respirar, que han dejado atrás el pasado y el peligro. Sin embargo, poco antes de llegar al pueblecito de Silver Water, el sheriff del condado de Elder la detiene por una presunta infracción de tráfico. Y las cosas se complican cuando en el maletero aparece una bolsa con un alijo de drogas.&lt;/p&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p class="description"&gt;Audra tiene que dejar que la ayudante del sheriff se haga cargo de los niños, mientras éste la conduce a comisaría y la encierra en una celda a la espera del juicio. Pero cuando menciona a los pequeños, todo el mundo se sorprende. Según ella, el policía los ha secuestrado; según él, no había niños en el coche. Es la palabra de una fugitiva contra la de un agente con décadas de servicio y un expediente intachable, así que, a pesar de la intervención del FBI, el linchamiento mediático y social de Audra es inmediato e imparable. Hasta que Danny Lee, un detective privado con una historia personal muy parecida a la de Audra, decide entrar en acción.&lt;/p&gt;&lt;p class="description"&gt;Sin dejar rastro es un emocionante thriller construido de forma impecable —intrigante, muy adictivo y con un final sorprendente— sobre la lucha de una mujer desesperada que hará lo que sea por recuperar a sus hijos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417384685</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-09-12T17:25:25.271481+00:00"/>
+        <meta name="calibre:title_sort" content="Sin dejar rastro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

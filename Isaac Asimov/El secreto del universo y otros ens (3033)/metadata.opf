@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3033</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54829bfa-5d1a-48d6-bac5-87d6b06d4ad4</dc:identifier>
+        <dc:title>El secreto del universo y otros ensayos científicos</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-12-31T23:00:00+00:00</dc:date>
+        <dc:description>De una forma clara y lúcida, el autor nos introduce en temas científicos como galaxias, átomos, relatividad o la evolución de las especies, y otros no tanto pero si de interés como el racismo, la sexualidad, el alma o las pseudociencias, tan de moda actualmente. Nos aproxima a estos temas de forma razonada, en ocasiones desde puntos de vista diferentes de los convencionales. El libro en sí es una recopilación de artículos publicados por el autor en la revista «The Magazine of Fantasy and Science Fiction», aunque actualizados ya que el primero lo escribió allá por el 1958.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">30380</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Ciencias naturales</dc:subject>
+        <dc:subject>Ciencias exactas</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:56.250633+00:00"/>
+        <meta name="calibre:title_sort" content="secreto del universo y otros ensayos científicos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

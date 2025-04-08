@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4283ddd8-6e35-4ea5-a0f4-847fcbce8660</dc:identifier>
+        <dc:title>El método Dukan ilustrado</dc:title>
+        <dc:creator opf:file-as="Dukan, Pierre" opf:role="aut">Pierre Dukan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Eficacia sorprendente. Resultados inmediatos y duraderos
+Desde 2001 más de dos millones de lectores en todo el mundo han optado por el método de adelgazamiento del Dr. Pierre Dukan. Hombres y mujeres que han perdido los kilos que les sobraban y, más importante aún, han conseguido mantener su peso de forma permanente. El número de seguidores del método Dukan no ha dejado de crecer, pues éstos, conscientes de haber hallado por fin la solución a su problema de sobrepeso, explican la eficacia del método a vecinos, amigos y conocidos, lo que ha dado lugar a lo que la prensa ha calificado de 'Fenómeno Dukan'.</dc:description>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788492981007</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>prose_contemporary</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pierre Dukan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-03T07:39:20.026534+00:00"/>
+        <meta name="calibre:title_sort" content="método Dukan ilustrado, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

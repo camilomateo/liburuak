@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c819ecfc-7b57-4f48-afcc-a3f0949208d6</dc:identifier>
+        <dc:title>Santander, 1936</dc:title>
+        <dc:creator opf:file-as="Pombo, Álvaro" opf:role="aut">Álvaro Pombo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-30T22:09:42+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;El
+ protagonista de esta novela se llama Álvaro Pombo Caller, y amigos y 
+familiares lo llaman –aunque a él no le haga gracia– Alvarito, o 
+Alvarín.  El Álvaro Pombo Caller de la novela, tío carnal de nuestro 
+Álvaro Pombo autor, tiene diecinueve años en 1936.&lt;/p&gt;&lt;p&gt;En
+ el Santander provinciano de aquel entonces arde, como en toda España, 
+la confrontación izquierda-derecha, los encarnizados debates 
+intelectuales y las exaltadas proclamas políticas. Alvarín, con su 
+fervor juvenil y su admiración por José Antonio Primo de Rivera, se 
+afilia a Falange Española en 1934. Su padre, Cayo Pombo Ybarra, es un 
+liberal agnóstico y republicano, admirador de Manuel Azaña. No obstante 
+sus diferencias políticas, padre e hijo se quieren mucho y se llevan muy
+ bien.&lt;/p&gt;&lt;p&gt;La madre de Alvarín, Ana Caller Donesteve, la 
+célebre Ana de Pombo, triunfadora en la moda parisina de esos años, ha 
+dejado a su marido Cayo en Santander y ha distribuido a sus hijos en 
+colegios ingleses y franceses. Hay una intensa correspondencia 
+epistolar, muy de la época, entre Ana y su hijo Álvaro. Ha quedado atrás
+ ya el Santander del veraneo regio de Alfonso XIII y su familia, que han
+ abandonado España tras la proclamación de la Segunda República.&lt;/p&gt;&lt;p&gt;En
+ la novela se subraya el carácter de novedad política e intelectual de 
+la República, también su gran agitación por comparación con los 
+sosegados tiempos monárquicos. El principio de la Guerra Civil traerá 
+consecuencias trágicas en Santander, como en el resto de España; también
+ para Álvaro Pombo Caller, falangista de primera línea, que es apresado y
+ encarcelado en el buque-prisión Alfonso Pérez.&lt;/p&gt;&lt;p&gt;Álvaro
+ Pombo –el escritor, no el personaje– regresa a Santander, al universo 
+familiar y al mundo de la adolescencia. Lo hace con una seductora novela
+ de formación filosófica y sentimental. &lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Anagrama</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Álvaro Pombo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-09T10:32:39+00:00"/>
+        <meta name="calibre:title_sort" content="Santander, 1936"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

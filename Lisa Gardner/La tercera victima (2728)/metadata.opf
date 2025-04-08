@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2728</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9091993-d257-4c7c-b50b-0b9bdc6a30f0</dc:identifier>
+        <dc:title>La tercera víctima</dc:title>
+        <dc:creator opf:file-as="Gardner, Lisa" opf:role="aut">Lisa Gardner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Un acto inenarrable ha destrozado la idílica localidad de 
+Bakersville, en el estado de Oregón, y sus antaño pacíficos habitantes 
+exigen una justicia rápida. Pero, aunque un niño ha confesado el 
+horrendo crimen, las pruebas demuestran que podría no ser el 
+responsable.&lt;/p&gt;&lt;p&gt;La agente Rainie Conner, que dirige su 
+primera investigación de homicidio, se encuentra en el centro de la 
+polémica. La situación reaviva sus peores pesadillas y amenaza con sacar
+ a la luz sus pecados secretos, pero nada le impedirá encontrar al 
+verdadero culpable.&lt;/p&gt;&lt;p&gt;Con la ayuda del perfilador del 
+FBI Pierce Quincy, Rainie se acerca más de lo que puede imaginar a la 
+inquietante verdad. Porque ahí afuera, en las sombras, un hombre la 
+observa y trama su próximo movimiento. Conoce sus secretos, mata por 
+diversión y ha destrozado para siempre la comunidad de Bakersville. Pero
+ lo que en realidad ha venido a buscar es a Rainie, y no se irá hasta 
+que haya terminado con ella…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-11T07:23:55.782734+00:00"/>
+        <meta name="calibre:title_sort" content="tercera víctima, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

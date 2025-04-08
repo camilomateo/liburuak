@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">973</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea0deb14-2071-48a8-b866-e02e5c0d2f88</dc:identifier>
+        <dc:title>No te haré ningún daño</dc:title>
+        <dc:creator opf:file-as="Dani Montero" opf:role="aut">Dani Montero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Su cabeza se volvió a nublar.&lt;/p&gt;
+&lt;p&gt;Sintió que sus párpados pesaban de nuevo hasta cerrarse y se volvió oscuro el último atisbo de luz que le quedaba.&lt;/p&gt;
+&lt;p&gt;Laura supo que su conciencia se escapaba. Que su cuerpo se apagaba como defensa previa antes del colapso provocado por el miedo. Una reacción límite.&lt;/p&gt;
+&lt;p&gt;Al borde del desmayo, pudo escuchar unas últimas palabras. Un susurro al oído que llegó mientras una mano le acariciaba de nuevo el pelo:&lt;/p&gt;
+&lt;p&gt;«Tranquila. No te haré ningún daño».&lt;/p&gt;
+&lt;p&gt;A esas alturas, ambos sabían que aquella promesa? no era verdad.&lt;/p&gt;
+&lt;p&gt;En este trepidante &lt;em&gt;thriller&lt;/em&gt;, un asesino en serie asola los mejores barrios de la ciudad. Sus atroces puestas en escena horrorizan a los investigadores más curtidos. Solo el inspector Lobo y la psicóloga Gabriela Salcedo serán capaces de analizar las motivaciones más íntimas de los actos del &lt;em&gt;Lutier&lt;/em&gt; y seguirle los pasos en una carrera desesperada contra la muerte.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09TFTHG1P</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-16T15:29:03.314062+00:00"/>
+        <meta name="calibre:title_sort" content="No te haré ningún daño"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

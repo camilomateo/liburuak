@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7ed31be-5586-48ad-851f-6e34e7b696a3</dc:identifier>
+        <dc:title>Los pecados de nuestros padres</dc:title>
+        <dc:creator opf:file-as="Larsson, Åsa" opf:role="aut">Åsa Larsson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;«Su lectura es puro placer. No quieres que acabe nunca.» Socialpolitik&lt;br&gt;«Un auténtico page-turner.» Gotlands Allehanda&lt;br&gt;«Åsa Larsson regresa en plena forma.» Norra Skåne&lt;/p&gt;
+&lt;p&gt;Al patólogo forense Lars Pohjanen le quedan pocas semanas de vida cuando le pide a Rebecka Martinsson que investigue un asesinato ocurrido hace nada menos que sesenta años. El cadáver del padre de un famoso boxeador que desapareció en 1962 sin dejar rastro es descubierto ahora en el congelador de un alcohólico hallado muerto. Rebecka acepta involucrarse en el caso, aunque para ello oculte una conexión personal con el mismo.&lt;/p&gt;
+&lt;p&gt;Sus pesquisas le llevarán hasta el "Rey del Arándano Rojo", el que fuera capo del crimen organizado en la región durante décadas. Un crimen organizado cuyos tentáculos siguen apoderándose lentamente de la ciudad, con una Kiruna que está siendo demolida y trasladada a unos kilómetros para dar cabida a la mina que ha estado devorando la población desde abajo y que la expone ahora a intereses dudosos. &lt;/p&gt;
+&lt;p&gt;Åsa Larsson, una de las autoras de novela negra más reconocidas por los lectores de todo el mundo, regresa a la ficción con Los pecados de nuestros padres, una novela de una fuerza y una tensión implacables por la que ha recibido el Premio a la mejor novela de suspense de Adlibris, el Premio a la mejor novela policiaca de los Storytel Awards y, por tercera vez en su exitosa carrera, el Premio a la mejor novela negra del año de la Academia Sueca.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Åsa Larsson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T20:13:57.398699+00:00"/>
+        <meta name="calibre:title_sort" content="pecados de nuestros padres, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

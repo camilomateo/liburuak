@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1609</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">794d540f-4bc1-4225-9ee3-4c34acb177da</dc:identifier>
+        <dc:title>El caso del inglés desaparecido</dc:title>
+        <dc:creator opf:file-as="Martin, Pierre" opf:role="aut">Pierre Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Un pueblo idílico de la Provenza. Un misterioso asesinato. Un caso para la comisaria Isabelle Bonnet. Una serie con más de 1.500.000 lectores.&lt;/p&gt;
+&lt;p&gt;Obligada a un período de descanso forzoso, la comisaria Isabelle Bonnet, directora del grupo antiterrorista de París, regresa a Fragolin, un idílico pueblecito en el sur de Francia donde pasó su infancia. Situado en el interior de la Provenza y envuelto en campos de lavanda, Fragolin es un enclave tranquilo en el que nunca pasa nada, hasta que aparece el cadáver de una mujer en una villa, cuyo propietario, un joven inglés, ha desaparecido sin dejar rastro. La historia no llama mucho la atención de Isabelle: en su vida ha visto cosas mucho peores y está decidida a descansar. Pero a los pocos días, su superior le encomienda la investigación y le confía como ayudante a Jacobert Apollinaire, un torpe agente de la policía local cuya ocupación ha sido hasta el momento el archivo municipal y nunca ha participado en una investigación sobre el terreno. A pesar de todo, la pareja investigadora cambiará muy pronto de opinión: como comprobarán, el caso de la mujer asesinada y el inglés desaparecido no es, para nada, un simple crimen de provincias.&lt;/p&gt;
+&lt;h3&gt;Descripción del Libro&lt;/h3&gt;
+&lt;p&gt;Un pueblo idílico de la Provenza. Un misterioso asesinato. Un caso para la comisaria Isabelle Bonnet. Una serie con más de 1.500.000 lectores.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Una comisaria en la Provenza"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-06-02T09:00:00.264740+00:00"/>
+        <meta name="calibre:title_sort" content="caso del inglés desaparecido, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

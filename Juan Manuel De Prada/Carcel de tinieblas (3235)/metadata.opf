@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11ff8dec-1356-494a-9ce2-722acbe73954</dc:identifier>
+        <dc:title>Cárcel de tinieblas</dc:title>
+        <dc:creator opf:file-as="Prada, Juan Manuel de" opf:role="aut">Juan Manuel De Prada</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-20T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Cuando en mayo de 2024 se presentó, La ciudad sin luz, la primera entrega de un descomunal proyecto literario titulado Mil ojos esconde la noche, la reacción de crítica y público fue instantánea y unánime: asombro y admiración. En sus casi ochocientas páginas, Juan Manuel de Prada ofrecía, en un recital estilístico en el que se superaba a sí mismo, las peripecias de Navales, el perfecto antihéroe, (protagonista de su novela Las máscaras del héroe), en los dos primeros años de la ocupación de París por los nazis. Una novela que dejó a los lectores con ganas de más.&lt;/p&gt;
+&lt;p&gt;De Prada, utilizando el argot taurino, remata la faena en otras ochocientas páginas, las que ahora se presentan con el título Cárcel de tinieblas. De forma minuciosa, apoyado en un aparato documental extraordinario, el autor se convierte en nuestro guía en la ciudad ocupada, que va siendo carcomida por las sombras, lo mismo que la constelación de personajes presentados en la primera parte. En esta segunda entrega de la novela, Navales pugna por redimirse y derrotar el veneno del mal que lleva dentro, lo cual lo coloca en los límites de la locura, en una lucha constante con su tendencia natural. &lt;/p&gt;
+&lt;p&gt;En los dos años que quedan para la liberación de París, los miembros de la comunidad de artistas españoles exiliados, pasan de trampear a malvivir, llevando existencias cada vez más tenebrosas: por las páginas de esta novela desfilan personalidades tan conocidas como Picasso, César González Ruano, Gregorio Marañón, Victoria Kent o Ana María Martínez Sagi. Todos ellos componen un elenco cuya deriva que empezó como una novela picaresca, deviene en tragedia, fatalmente atravesada por uno de los momentos más cruciales del siglo XX. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Mil ojos esconde la noche"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:19+00:00"/>
+        <meta name="calibre:title_sort" content="Cárcel de tinieblas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

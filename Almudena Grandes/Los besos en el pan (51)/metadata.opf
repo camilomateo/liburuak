@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15d34756-bc52-4d80-b1cb-5904a104406c</dc:identifier>
+        <dc:title>Los besos en el pan</dc:title>
+        <dc:creator opf:file-as="Grandes, Almudena" opf:role="aut">Almudena Grandes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-04T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;¿Qué puede llegar a ocurrirles a los vecinos de un barrio cualquiera en 
+estos tiempos difíciles? ¿Cómo resisten, en pleno ojo del huracán, 
+parejas y personas solas, padres e hijos, jóvenes y ancianos, los 
+embates de una crisis que «amenazó con volverlo todo del revés y aún no 
+lo ha conseguido»? &lt;i&gt;Los besos en el pan &lt;/i&gt;cuenta, de manera sutil y 
+conmovedora, cómo transcurre la vida de una familia que vuelve de 
+vacaciones decidida a que su rutina no cambie, pero también la de un 
+recién divorciado al que se oye sollozar tras un tabique, la de una 
+abuela que pone el árbol de Navidad antes de tiempo para animar a los 
+suyos, la de una mujer que decide reinventarse y volver al campo para 
+vivir de las tierras que alimentaron a sus antepasados… En la 
+peluquería, en el bar, en las oficinas o en el centro de salud, muchos 
+vecinos, protagonistas de esta delicada novela coral, vivirán momentos 
+agridulces de una solidaridad inesperada, de indignación y de rabia, 
+pero también de ternura y tesón. Y aprenderán por qué sus abuelos les 
+enseñaron, cuando eran niños, a besar el pan.&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788490661956</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B016NA44XO</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Almudena Grandes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:49:47.598311+00:00"/>
+        <meta name="calibre:title_sort" content="besos en el pan, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

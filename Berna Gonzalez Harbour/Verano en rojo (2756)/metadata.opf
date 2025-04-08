@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2756</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adc026ad-541a-456c-9007-9e7fd59c16d0</dc:identifier>
+        <dc:title>Verano en rojo</dc:title>
+        <dc:creator opf:file-as="González Harbour, Berna" opf:role="aut">Berna González Harbour</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Madrid, verano de 2010. Corren los días del Mundial de fútbol y, mientras los ojos de todos están puestos en los tortuosos avances del equipo de España en Sudáfrica, la comisaria María Ruiz se enfrenta a un tenebroso crimen: un joven ha aparecido asesinado. Sin identidad visible. Sin pistas aparentes. Sin móvil.&lt;/p&gt;
+
+    &lt;p&gt;Mujer atractiva, concienzuda y tenaz, María iniciará una investigación que se complicará cada vez más. Pero no está sola: el veterano periodista Luna, un maestro de la profesión hoy acorralado por la crisis y la era digital, y Tomás, brillante informático de la policía, serán claves para llegar hasta el fin. La intriga será para ellos tan trepidante como la que acompañó a la selección nacional hasta su gesta final.&lt;/p&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="EPL">24757</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Comisaria María Ruiz"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-12-22T10:36:55.226649+00:00"/>
+        <meta name="calibre:title_sort" content="Verano en rojo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

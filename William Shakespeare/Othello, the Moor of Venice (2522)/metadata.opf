@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2522</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ba88535-62b3-4b49-972b-d16ef137a06f</dc:identifier>
+        <dc:title>Othello, the Moor of Venice</dc:title>
+        <dc:creator opf:file-as="Shakespeare, William" opf:role="aut">William Shakespeare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tragedies</dc:subject>
+        <dc:subject>Othello</dc:subject>
+        <dc:subject>(Fictitious</dc:subject>
+        <dc:subject>character)</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Jealousy</dc:subject>
+        <dc:subject>Interracial</dc:subject>
+        <dc:subject>marriage</dc:subject>
+        <dc:subject>Venice</dc:subject>
+        <dc:subject>(Italy)</dc:subject>
+        <dc:subject>Muslims</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:48.409630+00:00"/>
+        <meta name="calibre:title_sort" content="Othello, the Moor of Venice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

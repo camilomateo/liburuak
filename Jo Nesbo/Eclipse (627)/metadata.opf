@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">627</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef953a39-657a-4573-a3ed-7e055d3e11ce</dc:identifier>
+        <dc:title>Eclipse</dc:title>
+        <dc:creator opf:file-as="Nesbo, Jo" opf:role="aut">Jo Nesbo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-09T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;Tras cuatro años de abstinencia, Jo Nesbø vuelve a la serie que lo ha coronado como «el rey del thriller» (&lt;I&gt;Financial Times&lt;/I&gt;)&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Harry Hole se ha mudado a Los Ángeles, ya nada le retiene en Noruega después de perder todo lo que daba sentido a su vida. Allí lo rescata de su deriva alcohólica Lucille, una veterana actriz de cine que, a cambio de su protección, le ofrece un techo, un traje a medida y unos zapatos de lujo.&lt;/P&gt;&lt;P&gt;Mientras, en Oslo, ha aparecido muerta una chica a la que buscaban hacía días, después de acudir a una fiesta organizada por Markus Røed, un magnate inmobiliario que era su&lt;I&gt; sugar daddy&lt;/I&gt;. Otra joven relacionada con él sigue en paradero desconocido, por lo que la policía estrecha el cerco sobre el millonario. También les inquieta un detalle inusual en la cabeza de la primera víctima: parece la firma de alguien que desea volver a matar.&lt;/P&gt;&lt;P&gt;Dispuesto a limpiar su nombre, Røed envía a un emisario para contratar a Hole como investigador...</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418897948</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jo Nesbo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42.428942+00:00"/>
+        <meta name="calibre:title_sort" content="Eclipse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

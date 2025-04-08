@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1320</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a5763b8-5822-4b7f-84d3-5ef11838533c</dc:identifier>
+        <dc:title>El juego de los crímenes perfectos</dc:title>
+        <dc:creator opf:file-as="Reyes Calderón" opf:role="aut">Reyes Calderón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-01T14:12:58+00:00</dc:date>
+        <dc:description>El Palacio de Hielo de Madrid, habilitado como morgue provisional durante la pandemia, no puede cerrar sus puertas y regresar a su actividad porque el ataúd no reclamado de una anciana lo impide. El inspector Salado y su ayudante Jaso acompañan al supersticioso juez Calvo a la inspección preliminar, que les depara una sorpresa: en su interior hay un varón con traje a medida y un Rolex de oro en la muñeca. Lo que parece una confusión de clasificación les introduce poco a poco en un macabro juego: una cadena de muertos, a cada cual más peculiar, que tienen en común la firma, en el certificado de defunción, de la doctora Paloma Padierna, joven internista en el Gregorio Marañón.
+
+La doctora Padierna, ajena al asunto y agotada tras los duros meses de trabajo en el hospital, solo piensa en sus vacaciones. Pero el asesino de los crímenes perfectos tiene otros planes para ella.</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">cad9c477-7f9d-4976-98ac-400d42b7fd6d</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:28.237926+00:00"/>
+        <meta name="calibre:title_sort" content="El juego de los crímenes perfectos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

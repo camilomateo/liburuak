@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5d3658e-c4f0-4631-a91d-8d3a8f21cd11</dc:identifier>
+        <dc:title>El Monje Que Vendió Su Ferrari</dc:title>
+        <dc:creator opf:file-as="Sharma, Robin" opf:role="aut">Robin Sharma</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-02-03T07:39:19+00:00"/>
+        <meta name="calibre:title_sort" content="Monje Que Vendió Su Ferrari, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

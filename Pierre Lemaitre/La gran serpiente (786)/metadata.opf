@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">786</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da5bacbc-eb58-497e-92dc-231fb5d4a57e</dc:identifier>
+        <dc:title>La gran serpiente</dc:title>
+        <dc:creator opf:file-as="Lemaitre, Pierre" opf:role="aut">Pierre Lemaitre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Divertida, inmoral, jugosa: así es la primera novela negra de Pierre Lemaitre. Siempre hay que desconfiar de las señoras de mediana edad bien vestidas, con aspecto de jubiladas y acompañadas de un dálmata espantadizo, como Mathilde Perrin, una viuda de sesenta y tres años algo entrada en carnes bajo cuya apariencia anodina se esconde una pistolera a sueldo de gatillo fácil y nervios de acero. Experimentada y diligente en el manejo de armas de gran calibre, capaz de dar esquinazo a la policía y agotar a sus perseguidores, esta veterana heroína de la Resistencia ejecuta sin piedad los encargos de un misterioso comandante cuando no está cuidando su jardín de las afueras de París. Sin embargo, los frecuentes descuidos y el mal carácter de la antaño perfeccionista Mathilde, que la vuelven cada vez más incontrolable y perturbadora, empiezan a preocupar a las altas esferas, dispuestas a deshacerse de ella antes de que sea demasiado tarde. Brillante combinación de una trama ingeniosa y precisa con un ritmo trepidante, La gran serpiente es la primera novela negra escrita por Pierre Lemaitre. Un tablero de asesinatos encadenados cargado de diálogos mordaces, escenas impactantes y grandes dosis de humor cáustico y descarnado. La crítica ha dicho...«Un logro absoluto: una lengua deliciosa, una trama perfecta, un tono sutilmente sarcástico.»Le Canard Enchaîné «Una novela suculenta, divertida y muy maliciosa.»Biblioteca «Negra, muy entretenida y completamente imprevisible.»Madame Figaro «Una delicia desde el principio hasta el final.»La Croix&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">60598994</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788418681257</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">dQ5hEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-25T11:33:05.779798+00:00"/>
+        <meta name="calibre:title_sort" content="gran serpiente, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

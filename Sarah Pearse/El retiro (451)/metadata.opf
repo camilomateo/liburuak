@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8ee8318-41e6-4eac-8c02-15943abafbfe</dc:identifier>
+        <dc:title>El retiro</dc:title>
+        <dc:creator opf:file-as="Pearse, Sarah" opf:role="aut">Sarah Pearse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="center" style="font-style: italic; font-weight: bold"&gt;&lt;span style="color: #4c7a93"&gt;Vienen a disfrutar de unas vacaciones, pero alguien busca venganza…&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;En la isla inglesa de Reaper's Rock se acaba de abrir un retiro de bienestar que promete descanso y relax a todos sus huéspedes, pero se rumorea que la isla está maldita y que tiempo atrás fue el patio de recreo de un asesino en serie.&lt;/p&gt;
+&lt;p&gt;La detective Elin Warner acude al retiro cuando el cuerpo de una joven aparece en las rocas bajo el pabellón de yoga en lo que parece ser una trágica caída. Lo extraño es que la víctima no estaba alojada en el retiro. Cuando al día siguiente un huésped se ahoga en un incidente de buceo, Elin empieza a sospechar que no hay nada accidental en estas muertes. &lt;/p&gt;
+&lt;p&gt;Pero ¿por qué alguien tendría como objetivo a los huéspedes? ¿Y quién más está en peligro? &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Principal de los Libros</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Pearse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Elin Warner"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-03-23T10:00:40.380753+00:00"/>
+        <meta name="calibre:title_sort" content="retiro, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

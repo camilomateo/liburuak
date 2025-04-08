@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">361</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">458ec873-52b8-4cdb-ba33-ca645eadf877</dc:identifier>
+        <dc:title>El arte de ser nosotros</dc:title>
+        <dc:creator opf:file-as="Rubiales, Inma" opf:role="aut">Inma Rubiales</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-16T14:48:03+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;La vida no es justa, y eso Logan lo sabe muy bien. Después de 
+una dolorosa pérdida, su corazón se ha vuelto hermético, frío e 
+inquebrantable. Por eso no le importa que todos crean que es el malo de 
+la historia.&lt;/p&gt;&lt;p&gt;Leah nunca se ha sentido la protagonista
+ de la suya. Vive con la cabeza enterrada en los libros, intentando 
+pasar desapercibida, y se refugia en la gran comunidad de lectores que 
+tiene en internet.&lt;/p&gt;&lt;p&gt;Leah no es el tipo de chica que Logan está buscando.&lt;/p&gt;&lt;p&gt;Y Logan es la clase de chico que Leah trata de evitar.&lt;/p&gt;&lt;p&gt;Quizá por eso lo que hay entre ellos funciona tan bien.&lt;/p&gt;&lt;p&gt;La historia que ha tocado el corazón de miles de lectores en Wattpad en una edición especial con capítulos inéditos.&lt;/p&gt;&lt;p&gt;Tras el éxito de &lt;span class="a-text-italic"&gt;Hasta que nos quedemos sin estrellas&lt;/span&gt;, Inma Rubiales vuelve con una historia que no olvidarás.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Inma Rubiales&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-27T12:40:54.129877+00:00"/>
+        <meta name="calibre:title_sort" content="arte de ser nosotros, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

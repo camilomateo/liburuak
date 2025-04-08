@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1696</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ceb1b4b-915e-4458-a443-75dea67981d0</dc:identifier>
+        <dc:title>Mentira sin límite</dc:title>
+        <dc:creator opf:file-as="Caneda, Jorge" opf:role="aut">Jorge Caneda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-02T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;b&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;Un padre protector. Un novio canalla. Una noche que cambiará todo.&lt;/span&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;¿Hasta dónde llegarías para proteger a tu hija? Descubre la respuesta en este intenso thriller.&lt;/span&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;&lt;br&gt;&lt;br&gt;Raymond y Victoria reciben una noticia de su hija Casandra que hará cuestionarse sus valores.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;¿Qué límites estarías dispuesta a traspasar para proteger a tu familia?&lt;/span&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;&lt;br&gt;&lt;br&gt;Adéntrate en este frenético thriller de intriga, precuela de la serie de Victoria, la señora de mediana edad que cuida de su familia y que acabará enfrentando a la mafia del blanqueo de dinero.&lt;br&gt;&lt;br&gt;Un suspense sin límite con giros inesperados que hará bailar tus emociones.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Sin límite"/>
+        <meta name="calibre:series_index" content="0"/>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:47.059531+00:00"/>
+        <meta name="calibre:title_sort" content="Mentira sin límite"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

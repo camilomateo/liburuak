@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3237</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">978b4d6a-2287-466e-8db0-b192fdd14141</dc:identifier>
+        <dc:title>Ama de casa</dc:title>
+        <dc:creator opf:file-as="Roig, Maria" opf:role="aut">Maria Roig</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una niña de nueve años espera ilusionada el momento más importante de su vida: su comunión. Tal vez entonces todo cambiará. Al barrio barcelonés del Carmelo, donde vive, llegará el metro. Desaparecerán las incómodas obras que han llenado de agujeros las calles. En su casa, es posible que pueda cerrarse la grieta que separa a sus padres desde hace tiempo, provocada por los problemas económicos y el desamor. Y será un día en el que ella, por fin, pueda ser la protagonista. Sin embargo, unos meses antes, en enero de 2005, todo a su alrededor se viene abajo. Una muerte y un abandono dejan a esa niña y a su madre a la intemperie en el instante en que se abre un socavón que engulle parte del barrio y cambia para siempre la historia del Carmelo.&lt;/p&gt;
+&lt;p&gt;Tejiendo la realidad con la ficción, Maria Roig nos ofrece un emocionante relato que es al tiempo personal y colectivo, íntimo y político.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:20.041178+00:00"/>
+        <meta name="calibre:title_sort" content="Ama de casa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

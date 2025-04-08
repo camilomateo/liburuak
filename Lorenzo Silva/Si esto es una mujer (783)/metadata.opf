@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">783</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e5674fc-228a-4274-b8c6-9ee3486839c5</dc:identifier>
+        <dc:title>Si esto es una mujer</dc:title>
+        <dc:creator opf:file-as="Silva, Lorenzo" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:creator opf:file-as="Silva, Lorenzo" opf:role="aut">Noemí Trujillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-21T06:00:00+00:00</dc:date>
+        <dc:description>La inspectora de homicidios Manuela Mauri lleva siete meses de baja cuando recibe la visita de la oficial Guadalupe Larbi para pedirle que se reincorpore al trabajo: sólo ella, le dice, tiene la autoridad y el empuje necesarios para sacar adelante una complicada investigación en la que la Brigada Provincial de Policía Judicial de Madrid no consigue avanzar. Tres meses atrás aparecieron restos humanos en los vertederos de Pinto y Valdemingómez. Pese a haber dedicado ingentes recursos, no se ha encontrado el cadáver completo y no hay una sola pista de la autoría del crimen. Y lo que es peor: tres meses después sigue sin identificarse a la víctima. Manuela se enfrentará de esta manera al mayor desafío de su carrera como inspectora de homicidios: la Operación Vertedero. La búsqueda de la verdad pondrá de nuevo a Manuela en el punto de mira de sus compañeros y superiores, que han perdido la confianza en ella por los hechos acaecidos en torno al suicidio del inspector jefe Alonso, por los que Manuela quedó injustamente salpicada. Una novela que señala los puntos oscuros de nuestra sociedad, cuestionando nuestra ceguera ante el sistema en el que vivimos. Ante todo lo que la ciudad desecha y que, nos guste o no, la define.</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Inspectora Mauri"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-05-25T11:33:02.352953+00:00"/>
+        <meta name="calibre:title_sort" content="Si esto es una mujer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2829</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a24f468-8d5b-46af-83f2-8e55b8d5905b</dc:identifier>
+        <dc:title>Que nuestra alegría perdure</dc:title>
+        <dc:creator opf:file-as="Lambert, Kevin" opf:role="aut">Kevin Lambert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-16T00:00:00+00:00</dc:date>
+        <dc:description>Un drama en tres actos que disecciona con ironía y desenvuelta crueldad los excesos de la clase privilegiada.Premio Médicis 2023– PremioDécembre 2023 – PremioRinguet 2023Finalista Premio Goncourt 2023«En un momento en que muchos novelistas sienten la presión de escribir literatura socialmente útil, la negativa de Lambert a ofrecer soluciones se siente como una bofetada vigorizante».TheWalrusCéline Wachowski está teniendo un mal día. La prestigiosa e influyente arquitecta de fama internacional, presentadora de un exitoso programa televisivo y musa de mil memes, finalmente muestra el primer gran proyecto que realizará en su ciudad natal. Debería ser la joya que corone su brillante carrera, pero inmediatamente la crítica estalla: se la acusa de destruir el tejido social, de acelerar la gentrificación de los barrios y de toda una serie de pecados aún más capitales. Mientras furiosos manifestantes y medios de comunicación tiran por tierra su imperio, Céline intentará proteger su...</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-23T13:00:54.159245+00:00"/>
+        <meta name="calibre:title_sort" content="Que nuestra alegría perdure"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

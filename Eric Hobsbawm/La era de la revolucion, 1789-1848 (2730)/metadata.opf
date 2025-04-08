@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2730</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38842fcb-0109-4c2b-9397-97187596ae02</dc:identifier>
+        <dc:title>La era de la revolución, 1789-1848</dc:title>
+        <dc:creator opf:file-as="Hobsbawm, Eric" opf:role="aut">Eric Hobsbawm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1964-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;i&gt;La era de la revolución&lt;/i&gt; inicia el panorama de la historia contemporánea del mundo que Eric Hobsbawm comenzó con este libro y concluyó con su &lt;i&gt;Historia del &lt;span class="nosep"&gt;siglo &lt;small&gt;XX&lt;/small&gt;&lt;/span&gt;&lt;/i&gt;. El gran historiador británico nos ofrece en esta obra, reconocida como un clásico de la historiografía de nuestro tiempo, una visión global de las transformaciones que tuvieron lugar entre 1789 y 1848, desde la Revolución francesa y el despegue de la industrialización británica hasta la revolución de 1848 y el Manifiesto comunista. Una visión que no se limita a los acontecimientos políticos y a los avances económicos, sino que abarca temas tan diversos como los nacionalismos, las luchas campesinas, el movimiento obrero, las ideas religiosas, la ciencia o las artes.&lt;/p&gt;</dc:description>
+        <dc:publisher>somosepub</dc:publisher>
+        <dc:identifier opf:scheme="EPL">20688</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.5</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <meta name="calibre:series" content="Las Eras"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-12-11T07:23:56.099705+00:00"/>
+        <meta name="calibre:title_sort" content="era de la revolución, 1789-1848, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

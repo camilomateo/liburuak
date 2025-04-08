@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2910</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2dfdd2d7-6003-43dd-ad23-f93e20be90ba</dc:identifier>
+        <dc:title>Mientras estemos vivos</dc:title>
+        <dc:creator opf:file-as="Safier, David" opf:role="aut">David Safier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Una apasionante historia familiar. Un siglo convulso. Un amor extraordinario sometido a los golpes del destino&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Nada hacía prever que un judío vienés, cuya familia pereció en el Holocausto, y una joven viuda de Bremen se encontrarían alguna vez, y mucho menos que se enamorarían y se atreverían a vivir juntos contra viento y marea. Cuando se conocen, Waltraut es ya viuda y Joschi tiene veinte años más que ella: &lt;i&gt;a priori&lt;/i&gt; la situación no puede resultar más complicada, de modo que ella inicialmente lo rechaza. Pero él, acostumbrado a las circunstancias más adversas, se presenta en su puerta con una máquina de escribir bajo el brazo y el propósito de conquistarla. Desde ese momento, actuarán durante décadas como dos polos que se atraen y se repelen alternativamente: el amor que sienten ambos y su vida en común estarán marcados tanto por momentos vertiginosos como por dramáticos golpes del destino, desde la enfermedad o la pérdida de una hija hasta el peso insoportable de los secretos familiares de Joschi. ¿Cómo debe ser el vínculo entre dos personas para resistir todo esto?&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">74367</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:32:16.681514+00:00"/>
+        <meta name="calibre:title_sort" content="Mientras estemos vivos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

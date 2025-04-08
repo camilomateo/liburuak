@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3048</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87b8b97d-72ef-44cf-acb2-f6dceefabdb2</dc:identifier>
+        <dc:title>Blanca navidad y café negro</dc:title>
+        <dc:creator opf:file-as="Coyle, Cleo" opf:role="aut">Cleo Coyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-04T06:00:00+00:00</dc:date>
+        <dc:description>Se acercan las fiestas y Clare Cosi explora nuevas maneras de traer alegría y clientes a su cafetería de Greenwich Village. Pero todo su espíritu navideño se esfuma por completo cuando encuentra a Papá Noel muerto en la nieve. Ni en estas fechas señaladas puede dejar Claire la investigación en manos de la policía y se pondrá de inmediato a elaborar su propia lista, pero de sospechosos. ¿Cuál de ellos se habrá portado mal? Incluye un glosario, consejos y recetas navideñas para los amantes del café.</dc:description>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002613</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">464</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-14T10:54:31.025517+00:00"/>
+        <meta name="calibre:title_sort" content="Blanca navidad y café negro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

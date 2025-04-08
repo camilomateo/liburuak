@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por P</title>
+  <id>Calibre2opds:taglist:2d:133:P</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_133_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por P" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_2d_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por -" />
+  <link href="./tags_133_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="--" />
+  <entry>
+    <title>Paradise Lost</title>
+    <id>calibre:book:2520</id>
+    <updated>2024-09-09T10:34:48Z</updated>
+    <link href="../../John%20Milton/Paradise%20Lost%20%282520%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Milton/Paradise%20Lost%20%282520%29/Paradise%20Lost%20-%20John%20Milton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="288 KB" />
+    <author>
+      <name>John Milton</name>
+      <uri>../authors_1/authors_1632_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fall" />
+    <category term="of" />
+    <category term="man" />
+    <category term="--" />
+    <category term="Poetry" />
+    <category term="Adam" />
+    <category term="(Biblical" />
+    <category term="figure)" />
+    <category term="Eve" />
+    <category term="Bible." />
+    <category term="Genesis" />
+    <category term="History" />
+    <category term="Biblical" />
+    <category term="events" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2520.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Phaedra</title>
+    <id>calibre:book:2535</id>
+    <updated>2024-09-09T10:34:51Z</updated>
+    <link href="../../Jean%20Racine/Phaedra%20%282535%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean%20Racine/Phaedra%20%282535%29/Phaedra%20-%20Jean%20Racine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="120 KB" />
+    <author>
+      <name>Jean Racine</name>
+      <uri>../authors_1/authors_1676_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Phaedra" />
+    <category term="(Greek" />
+    <category term="mythology)" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Tragedies" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2535.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Picture of Dorian Gray</title>
+    <id>calibre:book:2077</id>
+    <updated>2024-09-06T02:09:08Z</updated>
+    <link href="../../Oscar%20Wilde/The%20Picture%20of%20Dorian%20Gray%20%282077%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oscar%20Wilde/The%20Picture%20of%20Dorian%20Gray%20%282077%29/The%20Picture%20of%20Dorian%20Gray%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="243 KB" />
+    <author>
+      <name>Oscar Wilde</name>
+      <uri>../authors_0/authors_110_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Didactic" />
+    <category term="Fiction" />
+    <category term="Supernatural" />
+    <category term="--" />
+    <category term="Conduct" />
+    <category term="of" />
+    <category term="Life" />
+    <category term="Portraits" />
+    <category term="Great" />
+    <category term="Britain" />
+    <category term="History" />
+    <category term="Victoria" />
+    <category term="1837-1901" />
+    <category term="London" />
+    <category term="(England)" />
+    <category term="1800-1950" />
+    <category term="Appearance" />
+    <category term="(Philosophy)" />
+    <category term="Paranormal" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [287]:</summary>
+    <link href="../book_2/book_2077.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pride and Prejudice</title>
+    <id>calibre:book:2073</id>
+    <updated>2024-09-06T02:09:08Z</updated>
+    <link href="../../Jane%20Austen/Pride%20and%20Prejudice%20%282073%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jane%20Austen/Pride%20and%20Prejudice%20%282073%29/Pride%20and%20Prejudice%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="379 KB" />
+    <author>
+      <name>Jane Austen</name>
+      <uri>../authors_1/authors_1484_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="England" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Young" />
+    <category term="Women" />
+    <category term="Love" />
+    <category term="Stories" />
+    <category term="Sisters" />
+    <category term="Domestic" />
+    <category term="Courtship" />
+    <category term="Social" />
+    <category term="classes" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [282]:</summary>
+    <link href="../book_2/book_2073.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un paseo por Paris, retratos al natural</title>
+    <id>calibre:book:2116</id>
+    <updated>2024-09-06T02:21:18Z</updated>
+    <link href="../../Roque%20Barcia/Un%20paseo%20por%20Paris%2C%20retratos%20al%20nat%20%282116%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Roque%20Barcia/Un%20paseo%20por%20Paris%2C%20retratos%20al%20nat%20%282116%29/Un%20paseo%20por%20Paris%2C%20retratos%20al%20-%20Roque%20Barcia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="368 KB" />
+    <author>
+      <name>Roque Barcia</name>
+      <uri>../authors_1/authors_1503_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Paris" />
+    <category term="(France)" />
+    <category term="--" />
+    <category term="Social" />
+    <category term="Life" />
+    <category term="and" />
+    <category term="customs" />
+    <category term="Description" />
+    <category term="travel" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2116.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

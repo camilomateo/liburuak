@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2721</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10f19237-d8f5-4452-b184-d6e68a9ca676</dc:identifier>
+        <dc:title>El viento distante y otros relatos</dc:title>
+        <dc:creator opf:file-as="José Emilio Pacheco" opf:role="aut">José Emilio Pacheco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="bookDescription_feature_div"&gt;Una niña a quien un castigo del cielo convierte en tortuga y termina siendo la triste atracción de una feria, un parque de diversiones con elefantes que dan a luz a saltimbanquis, una cautiva emparedada en un monasterio, un sádico e infame revolucionario a quien la Historia relega al olvido… Las fronteras entre lo aparente y lo veraz se desdibujan en los catorce relatos de este libro que son, a su vez, fisuras hacia realidades donde imperan lo singular y lo inesperado.&lt;/p&gt;
+&lt;p&gt;En El viento distante —antología de cuentos que apareció en 1963, pero que el autor siguió trabajando durante décadas—, José Emilio Pacheco se adentra al delirio de la existencia y su inevitable colisión con la realidad que nos circunda. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta - México</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-11-26T15:32:48.916301+00:00"/>
+        <meta name="calibre:title_sort" content="viento distante y otros relatos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

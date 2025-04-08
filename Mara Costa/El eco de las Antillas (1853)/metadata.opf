@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1853</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac914fd2-a3a6-44de-ab22-7b8a9b313986</dc:identifier>
+        <dc:title>El eco de las Antillas</dc:title>
+        <dc:creator opf:file-as="Costa, Mara" opf:role="aut">Mara Costa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-26T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;1893. La vida de Macarena da un giro inesperado cuando la casan por poderes con un terrateniente cubano y tiene que partir de su Sevilla natal hacia La Habana. Tras la repentina muerte de su marido, se asocia con James Vanderbilt, un estadounidense sin escrúpulos que busca apropiarse de la plantación azucarera que ha heredado, al tiempo que Guillermo, el sobrino del difunto, regresa de París e intenta defender el legado familiar. A medida que los ecos de sedición crecen en Cuba, Macarena descubre el amor, la traición y el olvido en los salones y fiestas de la capital antillana. Guillermo, por su parte, decide unirse a la insurgencia y abandonar el país en busca de apoyos para acabar de encender la mecha de la revolución. Según se va desarrollando la trama, se entrelazan las vidas de personajes emblemáticos como Cánovas, Sagasta y la reina regente, quienes luchan desesperadamente por mantener el control de un imperio que se descompone, además de Theodore Roosevelt y un joven Winston Churchill, ansioso por enfrentarse a su bautismo de fuego. Poco a poco se van tejiendo las batallas que libra Macarena, en un momento crucial para el destino de España y América.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Pàmies</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410070271</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:35.053166+00:00"/>
+        <meta name="calibre:title_sort" content="eco de las Antillas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

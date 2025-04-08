@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2825</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc45a3e3-ad77-40aa-ba52-58eaa37b8da2</dc:identifier>
+        <dc:title>Promesa</dc:title>
+        <dc:creator opf:file-as="Griffiths, Rachel Eliza" opf:role="aut">Rachel Eliza Griffiths</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-16T00:00:00+00:00</dc:date>
+        <dc:description>La primera novela de Rachel Eliza Griffiths: un canto a la memoria, el amor y la supervivencia en el seno de una familia afroamericana, escrita con la sensibilidad y la dureza con que se rompe y se recompone un corazón.La infancia de las hermanas Cinthy y Ezra Kindred ha transcurrido rodeada de amor. Han visto crecer su universo al amparo de sus padres y de los Junkett, con quienes integran la escasa comunidad negra de Salt Point, una pequeña población pesquera de Maine. Pero al finalizar el verano y tras regresar a clase, las hermanas son recibidas con hostilidad. Incluso Ruby, la mejor amiga de Ezra, parece participar en la oleada de racismo que revelará las verdaderas dimensiones del abismo sobre el que el mundo de las hermanas se sustenta.Descubrir los prejuicios raciales de su apacible comunidad será para las hermanas Kindred como presenciar el final de un sueño y el inicio de una pesadilla, pero les proporcionará también el material con el que levantar un refugio capaz de...</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-23T13:00:53.537538+00:00"/>
+        <meta name="calibre:title_sort" content="Promesa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

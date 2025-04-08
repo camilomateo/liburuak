@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1103</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ea15379-f457-454c-9f42-d9ccfedad0ab</dc:identifier>
+        <dc:title>Poesía reunida</dc:title>
+        <dc:creator opf:file-as="Stevens, Wallace" opf:role="aut">Wallace Stevens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;b style="-webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;La edición definitiva de la obra de Wallace Stevens, uno de los mejores poetas del siglo XX cuya sensibilidad aún resuena en nuestros días.&lt;/b&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;/span&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Wallace Stevens no es solo uno de los grandes poetas del siglo XX, sino el que más influencia ha ejercido en la literatura norteamericana de las últimas décadas, desde John Ashbery hasta Mark Strand o Anne Carson. Su obra, compleja, irreductible, llena de luz y aire, es una celebración de la existencia y la naturaleza, del clima, así como una meditación en torno al misterio de la imaginación humana y su relación con el lenguaje y la propia poesía. Siempre reticente e impersonal, solo al final de su vida, en sus poemas últimos, Stevens se muestra más transparente y cercano, expresando el estupor de la vejez con una claridad nunca igualadas en la poesía moderna.&lt;/p&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Este volumen, editado y prologado por Andreu Jaume, reúne el cuerpo esencial de la poesía de Stevens, desde su primer libro,&lt;i style="-webkit-tap-highlight-color: transparent;"&gt; Armonio&lt;/i&gt;, hasta sus poemas póstumos, además de incorporar el grueso de sus aforismos, una parte esencial y complementaria de su obra. A las excepcionales traducciones de Andrés Sánchez Robayna y Daniel Aguirre, ya clásicas, se le añaden ahora las versiones que para esta edición ha hecho Andreu Jaume de&lt;i style="-webkit-tap-highlight-color: transparent;"&gt; Notas para una ficción suprema&lt;/i&gt; y de&lt;i style="-webkit-tap-highlight-color: transparent;"&gt; Las auroras de otoño&lt;/i&gt;. El libro constituye así el compendio más amplio y riguroso que se ha hecho en castellano de este gran poeta.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:11.879226+00:00"/>
+        <meta name="calibre:title_sort" content="Poesía reunida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por C</title>
+  <id>Calibre2opds:taglist:N:1:C</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_1_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por N" />
+  <link href="./tags_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Novela" />
+  <entry>
+    <title>Café hasta la muerte</title>
+    <id>calibre:book:2751</id>
+    <updated>2024-12-18T05:52:22Z</updated>
+    <link href="../../Cleo%20Coyle/Cafe%20hasta%20la%20muerte%20%282751%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cleo%20Coyle/Cafe%20hasta%20la%20muerte%20%282751%29/Cafe%20hasta%20la%20muerte%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Cleo Coyle</name>
+      <uri>../authors_1/authors_1800_Page_1.xml</uri>
+    </author>
+    <published>2024-03-06T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Alma</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>El Village Blend, la famosa cafetería de Hudson, en Nueva York, va viento en popa y Clare Cosi, su encargada, no puede estar más feliz. No sabe que alguien que acecha en las sombras está siguiendo a algunas de sus clientas y acabando con sus vidas. E...</summary>
+    <link href="../book_2/book_2751.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cicatrices del desastre</title>
+    <id>calibre:book:568</id>
+    <updated>2023-04-23T10:13:44Z</updated>
+    <link href="../../Luis%20Bolivar%20Troya/Cicatrices%20del%20desastre%20%28568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20Bolivar%20Troya/Cicatrices%20del%20desastre%20%28568%29/Cicatrices%20del%20desastre%20-%20Luis%20Bolivar%20Troya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="961 KB" />
+    <author>
+      <name>Luis Bolívar Troya</name>
+      <uri>../authors_0/authors_421_Page_1.xml</uri>
+    </author>
+    <published>2022-02-11T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Carena</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Ernesto Delgado &amp; Carles Gil" />
+    <summary>Ernesto Delgado &amp; Carles Gil [1]: Reus, junio de 1939. Un capitán del ejército nacional es secuestrado mientras vuelve al campo de concentración situado en el manicomio de Reus. Su cadáver aparece días después salvajemente torturado. Ernesto Delgado,...</summary>
+    <link href="../book_0/book_568.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cinco para una</title>
+    <id>calibre:book:186</id>
+    <updated>2023-01-26T07:16:20Z</updated>
+    <link href="../../Kayla%20Leiz/Cinco%20para%20una%20%28186%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kayla%20Leiz/Cinco%20para%20una%20%28186%29/Cinco%20para%20una%20-%20Kayla%20Leiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="553 KB" />
+    <author>
+      <name>Kayla Leiz</name>
+      <uri>../authors_0/authors_121_Page_1.xml</uri>
+    </author>
+    <published>2016-07-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zafiro eBooks</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Erótico" />
+    <category term="Lang:es" />
+    <summary>Ex quería huir de su pasado, dejar atrás aquello que tanto daño le había hecho y empezar de cero. Cuando llega a un pueblo desconocido, un travesti la invita a un local exclusivo para mujeres. Los cinco strippers, a cuál más atractivo, que allí traba...</summary>
+    <link href="../book_0/book_186.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Contrato con Dios</title>
+    <id>calibre:book:676</id>
+    <updated>2023-05-15T05:51:30Z</updated>
+    <link href="../../Juan%20Gomez-Jurado/Contrato%20con%20Dios%20%28676%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Gomez-Jurado/Contrato%20con%20Dios%20%28676%29/Contrato%20con%20Dios%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Juan Gómez-Jurado</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>2007-11-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Aventuras" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>La periodista Andrea Otero ha echado a perder su prometedora carrera al publicar un artículo contra el mayor anunciante de su periódico. Cuando la contacta un grupo de arqueólogos para cubrir su expedición a Jordania, no duda ni un instante: será una...</summary>
+    <link href="../book_0/book_676.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crimen</title>
+    <id>calibre:book:2195</id>
+    <updated>2024-09-06T02:21:32Z</updated>
+    <link href="../../Agustin%20Espinosa/Crimen%20%282195%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Agustin%20Espinosa/Crimen%20%282195%29/Crimen%20-%20Agustin%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="85 KB" />
+    <author>
+      <name>Agustín Espinosa</name>
+      <uri>../authors_1/authors_1553_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Novela" />
+    <category term="corta" />
+    <category term="Surrealismo" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [15]:</summary>
+    <link href="../book_2/book_2195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crimen en directo</title>
+    <id>calibre:book:1396</id>
+    <updated>2024-04-08T02:39:41Z</updated>
+    <link href="../../Camilla%20Lackberg/Crimen%20en%20directo%20%281396%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Camilla%20Lackberg/Crimen%20en%20directo%20%281396%29/Crimen%20en%20directo%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="500 KB" />
+    <author>
+      <name>Camilla Läckberg</name>
+      <uri>../authors_0/authors_369_Page_1.xml</uri>
+    </author>
+    <published>2006-04-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Fjällbacka" />
+    <summary>Fjällbacka [4]: Patrik y Erica siguen disfrutando de su idilio en el pueblo de Fjällbacka, ahora acompañados por su bebé, la pequeña Maja, que ya tiene ocho meses. Mientras la joven pareja está plenamente volcada en los preparativos de su próxima bod...</summary>
+    <link href="../book_1/book_1396.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando te falte el aire</title>
+    <id>calibre:book:563</id>
+    <updated>2023-04-17T01:30:22Z</updated>
+    <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/Cuando%20te%20falte%20el%20aire%20-%20Ursula%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+    <author>
+      <name>Úrsula Campos</name>
+      <uri>../authors_0/authors_417_Page_1.xml</uri>
+    </author>
+    <published>2023-04-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva Ediciones</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Larrea &amp; Lysander" />
+    <summary>Larrea &amp; Lysander [1]: Zaragoza, noviembre de 2018. Tras el asalto en plena noche al Instituto de Salud Pública, la policía descubre que han robado una serie de vacunas y han destrozado el despacho de Quina Larrea, jefa del Servicio de Epidemiología....</summary>
+    <link href="../book_0/book_563.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Círculos</title>
+    <id>calibre:book:91</id>
+    <updated>2023-01-18T00:09:28Z</updated>
+    <link href="../../Manuel%20Rios%20San%20Martin/Circulos%20%2891%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20Rios%20San%20Martin/Circulos%20%2891%29/Circulos%20-%20Manuel%20Rios%20San%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Manuel Ríos San Martín</name>
+      <uri>../authors_0/authors_64_Page_1.xml</uri>
+    </author>
+    <published>2015-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Terror" />
+    <category term="Lang:es" />
+    <summary>Un thriller diferente y aterrador que tiene a la televisión, las redes sociales y las tribus urbanas antisistema como protagonistas. En Londres, en una sociedad hiperconectada en la que la gente vive obsesionada por la pequeña pantalla, la violencia ...</summary>
+    <link href="../book_0/book_91.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Código Chile</title>
+    <id>calibre:book:1823</id>
+    <updated>2024-08-28T00:55:05Z</updated>
+    <link href="../../Carlos%20Basso/Codigo%20Chile%20%281823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Basso/Codigo%20Chile%20%281823%29/Codigo%20Chile%20-%20Carlos%20Basso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <author>
+      <name>Carlos Basso</name>
+      <uri>../authors_1/authors_1304_Page_1.xml</uri>
+    </author>
+    <published>2015-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Carlos Basso construye una historia repleta de intrigas en una novela que incluye cruentos crímenes, misiones nazis, espías del Vaticano y un grupo secreto de ex agentes de la DINA de inspiración esotérica. El violento crimen simultáneo de unos ancia...</summary>
+    <link href="../book_1/book_1823.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El camino enterrado</title>
+    <id>calibre:book:901</id>
+    <updated>2023-06-26T05:25:14Z</updated>
+    <link href="../../Carlos%20Serrano/El%20camino%20enterrado%20%28901%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Serrano/El%20camino%20enterrado%20%28901%29/El%20camino%20enterrado%20-%20Carlos%20Serrano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carlos Serrano</name>
+      <uri>../authors_0/authors_676_Page_1.xml</uri>
+    </author>
+    <published>2023-06-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Pàmies</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Historica" />
+    <category term="Lang:es" />
+    <summary>Año 827 d. C. Gastón de Lyon es un veterano de guerra asolado por la culpa y el arrepentimiento. Combatió durante su juventud a las órdenes del emperador de los francos, y las víctimas de su espada se esfuerzan cada noche en recordarle sus crímenes. ...</summary>
+    <link href="../book_0/book_901.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un capuchino mortal</title>
+    <id>calibre:book:2752</id>
+    <updated>2024-12-18T05:52:22Z</updated>
+    <link href="../../Cleo%20Coyle/Un%20capuchino%20mortal%20%282752%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cleo%20Coyle/Un%20capuchino%20mortal%20%282752%29/Un%20capuchino%20mortal%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Cleo Coyle</name>
+      <uri>../authors_1/authors_1800_Page_1.xml</uri>
+    </author>
+    <published>2023-09-22T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>13insurgentes</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Coffee Lovers Club" />
+    <summary>Coffee Lovers Club [1]: Clare Cosi es la encargada de la histórica cafetería Village Blend de Nueva York. Vive feliz junto a su gata Cafelito en un apartamento justo encima de la cafetería. Pero todo da un giro inesperado cuando descubre en la trasti...</summary>
+    <link href="../book_2/book_2752.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La casa que acecha</title>
+    <id>calibre:book:2605</id>
+    <updated>2024-09-17T00:24:16Z</updated>
+    <link href="../../Mabel%20Seeley/La%20casa%20que%20acecha%20%282605%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mabel%20Seeley/La%20casa%20que%20acecha%20%282605%29/La%20casa%20que%20acecha%20-%20Mabel%20Seeley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="641 KB" />
+    <author>
+      <name>Mabel Seeley</name>
+      <uri>../authors_1/authors_1710_Page_1.xml</uri>
+    </author>
+    <published>1943-09-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Biblioteca de bolsillo. Serie naranja" />
+    <summary>Biblioteca de bolsillo. Serie naranja [70]: Gwynne Dacres, una mujer joven, despedida de su trabajo y sin mucha suerte, alquila un apartamento de dos habitaciones en la planta baja de una enorme casa de huéspedes, regentada por la señora Garr, un edi...</summary>
+    <link href="../book_2/book_2605.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El caso Rawson</title>
+    <id>calibre:book:1458</id>
+    <updated>2024-04-30T04:46:08Z</updated>
+    <link href="../../Roberto%20Villar/El%20caso%20Rawson%20%281458%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Roberto%20Villar/El%20caso%20Rawson%20%281458%29/El%20caso%20Rawson%20-%20Roberto%20Villar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="482 KB" />
+    <author>
+      <name>Roberto Villar</name>
+      <uri>../authors_1/authors_1065_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Miguel Villar</name>
+      <uri>../authors_1/authors_1066_Page_1.xml</uri>
+    </author>
+    <published>2024-01-15T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>13insurgentes</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Adrián Rawson, el mítico científico, empresario y director de un museo de los horrores cumple condena. ¿Tan aterrador es su crimen? Tal vez muera en la cárcel después de haber alcanzado el éxito profesional y la felicidad junto a Eva, su mujer. Pero,...</summary>
+    <link href="../book_1/book_1458.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los crímenes del lago</title>
+    <id>calibre:book:957</id>
+    <updated>2023-08-01T05:26:08Z</updated>
+    <link href="../../Gemma%20Herrero%20Virto/Los%20crimenes%20del%20lago%20%28957%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gemma%20Herrero%20Virto/Los%20crimenes%20del%20lago%20%28957%29/Los%20crimenes%20del%20lago%20-%20Gemma%20Herrero%20Virto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Gemma Herrero Virto</name>
+      <uri>../authors_0/authors_233_Page_1.xml</uri>
+    </author>
+    <published>2017-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Policial" />
+    <category term="Intriga" />
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Durante el verano del año 2001 tres niños aparecen muertos en las aguas del lago Champlain, en Vermont. Eric, un niño de doce años, pierde a Anne Austen, la chica de la que está enamorado. Además, durante las noches, sus sueños se ven interrumpidos p...</summary>
+    <link href="../book_0/book_957.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

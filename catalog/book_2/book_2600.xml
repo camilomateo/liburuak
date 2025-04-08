@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Hegel - La conciencia de la modernidad</title>
+  <id>urn:book:d2032a07-b92a-4bbc-aba4-3c6e27734e84</id>
+  <updated>2024-09-12T03:40:18Z</updated>
+  <link href="./book_2600.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Hegel - La conciencia de la modernidad" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../../Desconocido/Hegel%20-%20La%20conciencia%20de%20la%20moderni%20%282600%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Desconocido/Hegel%20-%20La%20conciencia%20de%20la%20moderni%20%282600%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Desconocido/Hegel%20-%20La%20conciencia%20de%20la%20moderni%20%282600%29/Hegel%20-%20La%20conciencia%20de%20la%20mod%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Descargar este libro como PDF" displaysize="21 MB" />
+  <author>
+    <name>Desconocido</name>
+    <uri>../authors_0/authors_103_Page_1.xml</uri>
+  </author>
+  <published>2024-09-05T01:10:05Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+  </content>
+  <link href="../authors_0/authors_103_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Desconocido" />
+  <link href="http://www.goodreads.com/book/title/Hegel%20-%20La%20conciencia%20de%20la%20modernidad" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Hegel%20-%20La%20conciencia%20de%20la%20modernidad" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Hegel%20-%20La%20conciencia%20de%20la%20modernidad%20Desconocido" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Hegel%20-%20La%20conciencia%20de%20la%20modernidad&amp;field-author=Desconocido" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Desconocido" type="text/html" rel="related" title="Desconocido en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Desconocido" type="text/html" rel="related" title="Desconocido en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/Desconocido" type="text/html" rel="related" title="Desconocido en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Desconocido" type="text/html" rel="related" title="Desconocido en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Desconocido" type="text/html" rel="related" title="Desconocido en ISFDB" target="_blank" />
+</entry>

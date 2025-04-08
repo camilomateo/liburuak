@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por L</title>
+  <id>Calibre2opds:taglist:L:371:L</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_371_L_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por L" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <link href="./tags_371_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:es" />
+  <link href="./tags_371_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por L" />
+  <link href="../tags_3/tags_371_L_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 6)" />
+  <entry>
+    <title>La letra escarlata</title>
+    <id>calibre:book:2278</id>
+    <updated>2024-09-09T10:33:58Z</updated>
+    <link href="../../Nathaniel%20Hawthorne/La%20letra%20escarlata%20%282278%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nathaniel%20Hawthorne/La%20letra%20escarlata%20%282278%29/La%20letra%20escarlata%20-%20Nathaniel%20Hawthorne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="248 KB" />
+    <author>
+      <name>Nathaniel Hawthorne</name>
+      <uri>../authors_1/authors_1596_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [14]:</summary>
+    <link href="../book_2/book_2278.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La letra herida</title>
+    <id>calibre:book:2612</id>
+    <updated>2024-09-17T00:24:17Z</updated>
+    <link href="../../Sergio%20Hernandez/La%20letra%20herida%20%282612%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sergio%20Hernandez/La%20letra%20herida%20%282612%29/La%20letra%20herida%20-%20Sergio%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="448 KB" />
+    <author>
+      <name>Sergio Hernández</name>
+      <uri>../authors_1/authors_1716_Page_1.xml</uri>
+    </author>
+    <published>2024-09-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Contraluz Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tras perder a su padre y heredar sus deudas, Miguel, un joven formado en literatura, regresa a su ciudad natal para trabajar en la construcción de la Estación del Norte, un proyecto faraónico destinado a cambiar para siempre el rumbo de Valencia. Sin...</summary>
+    <link href="../book_2/book_2612.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La ley de los justos</title>
+    <id>calibre:book:542</id>
+    <updated>2023-04-06T09:50:06Z</updated>
+    <link href="../../Chufo%20Llorens/La%20ley%20de%20los%20justos%20%28542%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chufo%20Llorens/La%20ley%20de%20los%20justos%20%28542%29/La%20ley%20de%20los%20justos%20-%20Chufo%20Llorens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Chufo Lloréns</name>
+      <uri>../authors_0/authors_389_Page_1.xml</uri>
+    </author>
+    <published>2015-02-18T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En la Barcelona modernista germina una historia de amor entre dos jóvenes de clases sociales distintas. Una gran novela histórica de pasión, ideales y venganza.A finales del siglo XIX, Barcelona vive una época de esplendor. Acaba de celebrarse con gr...</summary>
+    <link href="../book_0/book_542.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La ley del invierno</title>
+    <id>calibre:book:949</id>
+    <updated>2023-07-14T09:48:44Z</updated>
+    <link href="../../Gemma%20Ventura/La%20ley%20del%20invierno%20%28949%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gemma%20Ventura/La%20ley%20del%20invierno%20%28949%29/La%20ley%20del%20invierno%20-%20Gemma%20Ventura.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="669 KB" />
+    <author>
+      <name>Gemma Ventura</name>
+      <uri>../authors_0/authors_711_Page_1.xml</uri>
+    </author>
+    <published>2023-07-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un canto a la imaginación y a las leyes invisibles de la naturaleza en una voz literaria única Premio Josep Pla 2023 Una chica vela a su abuelo y en la soledad absoluta tiene dos grandes compañías, la de la memoria y la de la imaginación. Mientras lo...</summary>
+    <link href="../book_0/book_949.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La ley del padre</title>
+    <id>calibre:book:406</id>
+    <updated>2023-03-13T09:24:34Z</updated>
+    <link href="../../Carlos%20Augusto%20Casas/La%20ley%20del%20padre%20%28406%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Augusto%20Casas/La%20ley%20del%20padre%20%28406%29/La%20ley%20del%20padre%20-%20Carlos%20Augusto%20Casas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="547 KB" />
+    <author>
+      <name>Carlos Augusto Casas</name>
+      <uri>../authors_0/authors_297_Page_1.xml</uri>
+    </author>
+    <published>2023-03-09T09:55:13Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>NI SIQUIERA EL PODER Y EL DINERO PUEDEN ESCONDER UN SECRETO PARA SIEMPRE Existe un mundo que solo pertenece a una élite. Una realidad que los demás creemos anhelar, pero que apenas un puñado de escogidos conocen. Es el mundo de las grandes fortunas y...</summary>
+    <link href="../book_0/book_406.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La leyenda de Sleepy Hollow y otros cuentos de fantasmas</title>
+    <id>calibre:book:2403</id>
+    <updated>2024-09-09T10:34:24Z</updated>
+    <link href="../../Washington%20Irving/La%20leyenda%20de%20Sleepy%20Hollow%20y%20otros%20%282403%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Washington%20Irving/La%20leyenda%20de%20Sleepy%20Hollow%20y%20otros%20%282403%29/La%20leyenda%20de%20Sleepy%20Hollow%20y%20o%20-%20Washington%20Irving.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="268 KB" />
+    <author>
+      <name>Washington Irving</name>
+      <uri>../authors_1/authors_1483_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Terror" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [231]:</summary>
+    <link href="../book_2/book_2403.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La leyenda del ladrón</title>
+    <id>calibre:book:636</id>
+    <updated>2023-05-04T11:27:44Z</updated>
+    <link href="../../Juan%20Gomez-Jurado/La%20leyenda%20del%20ladron%20%28636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Gomez-Jurado/La%20leyenda%20del%20ladron%20%28636%29/La%20leyenda%20del%20ladron%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="736 KB" />
+    <author>
+      <name>Juan Gómez-Jurado</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>2012-07-30T04:24:57Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Prepárate a transportarte a la Sevilla del XVI, a un fascinante mundo de mendigos y prostitutas, nobles y comerciantes, espadachines y ladrones. El amor, la pasión y la venganza son los pilares de esta magistral novela de aventuras en torno a un niño...</summary>
+    <link href="../book_0/book_636.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La leyenda del volcán</title>
+    <id>calibre:book:790</id>
+    <updated>2023-05-31T01:04:22Z</updated>
+    <link href="../../Barbara%20Gil/La%20leyenda%20del%20volcan%20%28790%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Barbara%20Gil/La%20leyenda%20del%20volcan%20%28790%29/La%20leyenda%20del%20volcan%20-%20Barbara%20Gil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="572 KB" />
+    <author>
+      <name>Bárbara Gil</name>
+      <uri>../authors_0/authors_588_Page_1.xml</uri>
+    </author>
+    <published>2023-05-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Puede una sola mujer cambiar el curso de la historia?Costa Rica, diciembre de 1883. Aitana Ugarte, una joven bilbaína, desembarca en Puerto Limón para casarse por matrimonio concertado con un terrateniente de sesenta años, dueño de un cafetal en la...</summary>
+    <link href="../book_0/book_790.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La librería en la colina</title>
+    <id>calibre:book:613</id>
+    <updated>2023-05-04T11:27:42Z</updated>
+    <link href="../../Alba%20Donati/La%20libreria%20en%20la%20colina%20%28613%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alba%20Donati/La%20libreria%20en%20la%20colina%20%28613%29/La%20libreria%20en%20la%20colina%20-%20Alba%20Donati.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="558 KB" />
+    <author>
+      <name>Alba Donati</name>
+      <uri>../authors_0/authors_454_Page_1.xml</uri>
+    </author>
+    <published>2023-02-17T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La inspiradora historia de una librera y su librería que se ha convertido en un fenómeno editorial«Un libro pequeño y magnífico. [...] La historia de un lugar mágico y de ensueño[...],de unaniña infeliz salvada gracias a la literatura y a su amor por...</summary>
+    <link href="../book_0/book_613.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La librería perdida</title>
+    <id>calibre:book:2616</id>
+    <updated>2024-09-20T02:10:29Z</updated>
+    <link href="../../Evie%20Woods/La%20libreria%20perdida%20%282616%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Evie%20Woods/La%20libreria%20perdida%20%282616%29/La%20libreria%20perdida%20-%20Evie%20Woods.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="541 KB" />
+    <author>
+      <name>Evie Woods</name>
+      <uri>../authors_1/authors_1718_Page_1.xml</uri>
+    </author>
+    <published>2024-08-19T02:07:46Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica, S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando Adrián descubre que le quedan unos meses de vida, decide seguir el consejo de su psicóloga y escribir sus memorias. En ellas repasará los acontecimientos que le han sucedido durante el último año y medio de vida, el único periodo de su existen...</summary>
+    <link href="../book_2/book_2616.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El libro de la selva</title>
+    <id>calibre:book:173</id>
+    <updated>2023-01-23T07:52:02Z</updated>
+    <link href="../../Rudyard%20Kipling/El%20libro%20de%20la%20selva%20%28173%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rudyard%20Kipling/El%20libro%20de%20la%20selva%20%28173%29/El%20libro%20de%20la%20selva%20-%20Rudyard%20Kipling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Rudyard Kipling</name>
+      <uri>../authors_0/authors_112_Page_1.xml</uri>
+    </author>
+    <published>2022-04-19T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.elejandria.com</dcterms:publisher>
+    <category term="CUENTOS INFANTILES" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El libro de las pruebas</title>
+    <id>calibre:book:1170</id>
+    <updated>2024-01-25T08:51:59Z</updated>
+    <link href="../../John%20Banville/El%20libro%20de%20las%20pruebas%20%281170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Banville/El%20libro%20de%20las%20pruebas%20%281170%29/El%20libro%20de%20las%20pruebas%20-%20John%20Banville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="464 KB" />
+    <author>
+      <name>John Banville</name>
+      <uri>../authors_0/authors_261_Page_1.xml</uri>
+    </author>
+    <published>2014-10-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La perfecta introducción al universo Banville«Una novela sorprendente, perturbadora» (The New York Times Book Review), por el ganador del Premio Booker y del Premio Príncipe de Asturias de las Letras.Freddie Montgomery es un científico de talento exi...</summary>
+    <link href="../book_1/book_1170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El libro de los espejos</title>
+    <id>calibre:book:1637</id>
+    <updated>2024-06-22T02:04:41Z</updated>
+    <link href="../../E.O.%20Chirovici/El%20libro%20de%20los%20espejos%20%281637%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../E.O.%20Chirovici/El%20libro%20de%20los%20espejos%20%281637%29/El%20libro%20de%20los%20espejos%20-%20E.O.%20Chirovici.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="458 KB" />
+    <author>
+      <name>E.O. Chirovici</name>
+      <uri>../authors_1/authors_1183_Page_1.xml</uri>
+    </author>
+    <published>2017-04-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El libro de los espejos es una inteligente novela de misterio y suspense psicológico que habla sobre el poder y la fragilidad de la memoria, un libro adictivo e impredecible en el que la verdad de un hombre se convierte en la mentira de otro.Cuando e...</summary>
+    <link href="../book_1/book_1637.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El libro del sepulturero</title>
+    <id>calibre:book:129</id>
+    <updated>2023-01-18T00:43:40Z</updated>
+    <link href="../../Oliver%20Potzsch/El%20libro%20del%20sepulturero%20%28129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oliver%20Potzsch/El%20libro%20del%20sepulturero%20%28129%29/El%20libro%20del%20sepulturero%20-%20Oliver%20Potzsch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="526 KB" />
+    <author>
+      <name>Oliver Pötzsch</name>
+      <uri>../authors_0/authors_79_Page_1.xml</uri>
+    </author>
+    <published>2022-08-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Mystery &amp; Detective" />
+    <category term="Lang:es" />
+    <summary>Trepidante y extremo. El thriller histórico que triunfa en toda Europa. 3.500.000 de lectores. En el Prater, el parque más importante de la ciudad, aparece el cuerpo de una criada asesinada de forma brutal. Leopold von Herzfeldt, un joven inspector d...</summary>
+    <link href="../book_0/book_129.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El libro negro del Vaticano</title>
+    <id>calibre:book:1735</id>
+    <updated>2024-08-08T04:59:25Z</updated>
+    <link href="../../Eric%20Frattini/El%20libro%20negro%20del%20Vaticano%20%281735%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eric%20Frattini/El%20libro%20negro%20del%20Vaticano%20%281735%29/El%20libro%20negro%20del%20Vaticano%20-%20Eric%20Frattini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Eric Frattini</name>
+      <uri>../authors_1/authors_1242_Page_1.xml</uri>
+    </author>
+    <published>2016-01-18T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Frattini desvela los secretos de la política de la Santa Sede, desde 1939 hasta la actualidad.El libro negro del Vaticano recoge el punto de vista de la CIA sobre las posiciones de la Santa Sede en diversos asuntos internacionales que abarcan desde 1...</summary>
+    <link href="../book_1/book_1735.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El libro negro</title>
+    <id>calibre:book:37</id>
+    <updated>2023-01-17T10:22:22Z</updated>
+    <link href="../../Paul%20Verhoeven%20y%20Gerard%20Soeteman/El%20libro%20negro%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paul%20Verhoeven%20y%20Gerard%20Soeteman/El%20libro%20negro%20%2837%29/El%20libro%20negro%20-%20Paul%20Verhoeven%20y%20Gerard%20Soetema.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="756 KB" />
+    <author>
+      <name>Paul Verhoeven y Gerard Soeteman</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>El Aleph Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Ambientada en La Haya a finales de la Segunda Guerra Mundial El libro negro tiene como protagonista a Rachel, una joven judía perseguida por el régimen nazi cuya única posibilidad de salvación es colaborar con ellos ejerciendo de espía. Ya introducid...</summary>
+    <link href="../book_0/book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El libro que la industria alimentaria no quiere que leas</title>
+    <id>calibre:book:1443</id>
+    <updated>2024-04-20T05:25:36Z</updated>
+    <link href="../../Andrea%20Sorinas/El%20libro%20que%20la%20industria%20alimentar%20%281443%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andrea%20Sorinas/El%20libro%20que%20la%20industria%20alimentar%20%281443%29/El%20libro%20que%20la%20industria%20alime%20-%20Andrea%20Sorinas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Andrea Sorinas</name>
+      <uri>../authors_1/authors_1054_Page_1.xml</uri>
+    </author>
+    <published>2024-03-13T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros Cúpula</dcterms:publisher>
+    <category term="Medical" />
+    <category term="Nutrition" />
+    <category term="Lang:es" />
+    <summary>La guía definitiva para aprender a comer de forma saludable y mantener la motivación a lo largo del tiempo. ¿Cuántas veces te has propuesto comer sano y has tirado la toalla? Muchas, ¿verdad? No me extraña. Entre el bombardeo de información que cada ...</summary>
+    <link href="../book_1/book_1443.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El libro que ojalá tus padres hubieran leído</title>
+    <id>calibre:book:1089</id>
+    <updated>2023-12-12T08:20:57Z</updated>
+    <link href="../../Philippa%20Perry/El%20libro%20que%20ojala%20tus%20padres%20hubie%20%281089%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philippa%20Perry/El%20libro%20que%20ojala%20tus%20padres%20hubie%20%281089%29/El%20libro%20que%20ojala%20tus%20padres%20h%20-%20Philippa%20Perry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="450 KB" />
+    <author>
+      <name>Philippa Perry</name>
+      <uri>../authors_0/authors_792_Page_1.xml</uri>
+    </author>
+    <published>2020-10-28T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zafiro eBooks</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En este libro, la reconocida psicoterapeuta británica Philippa Perry nos dice qué es lo que realmente importa y qué tipo de comportamientos debemos evitar en la relación con nuestros hijos, ofreciéndonos pautas para: • Comprender cómo nuestra propia ...</summary>
+    <link href="../book_1/book_1089.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El licenciado Vidriera</title>
+    <id>calibre:book:2203</id>
+    <updated>2024-09-06T02:21:33Z</updated>
+    <link href="../../Miguel%20de%20Cervantes%20Saavedra/El%20licenciado%20Vidriera%20%282203%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Miguel%20de%20Cervantes%20Saavedra/El%20licenciado%20Vidriera%20%282203%29/El%20licenciado%20Vidriera%20-%20Miguel%20de%20Cervantes%20Saavedra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="87 KB" />
+    <author>
+      <name>Miguel de Cervantes Saavedra</name>
+      <uri>../authors_1/authors_1558_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [5]:</summary>
+    <link href="../book_2/book_2203.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La lista del juez</title>
+    <id>calibre:book:24</id>
+    <updated>2023-01-17T10:15:02Z</updated>
+    <link href="../../John%20Grisham/La%20lista%20del%20juez%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Grisham/La%20lista%20del%20juez%20%2824%29/La%20lista%20del%20juez%20-%20John%20Grisham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="569 KB" />
+    <author>
+      <name>John Grisham</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <published>2022-08-24T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un thriller lleno de tensión y con una premisa impactante: ¿y si un asesino en serie buscado durante más de veinte años fuera un juez en ejercicio?Lacy Stoltz se ha encontrado en numerosas ocasiones frente a problemas de corrupción en su trabajo como...</summary>
+    <link href="../book_0/book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La llama de Focea</title>
+    <id>calibre:book:3</id>
+    <updated>2023-01-17T09:10:34Z</updated>
+    <link href="../../Lorenzo%20Silva/La%20llama%20de%20Focea%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lorenzo%20Silva/La%20llama%20de%20Focea%20%283%29/La%20llama%20de%20Focea%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="609 KB" />
+    <author>
+      <name>Lorenzo Silva</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <published>2022-09-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Queralt Bonmatí, una joven barcelonesa de familia pudiente, aparece asesinada en un paraje idílico del Camino de Santiago. Había salido tres semanas antes de Roncesvalles, donde tuvo un incidente con un desconocido, pero esta es sólo una de las pista...</summary>
+    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La llamada de la selva</title>
+    <id>calibre:book:2046</id>
+    <updated>2024-09-06T02:09:03Z</updated>
+    <link href="../../Jack%20London/La%20llamada%20de%20la%20selva%20%282046%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20London/La%20llamada%20de%20la%20selva%20%282046%29/La%20llamada%20de%20la%20selva%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="149 KB" />
+    <author>
+      <name>Jack London</name>
+      <uri>../authors_1/authors_1470_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [16]:</summary>
+    <link href="../book_2/book_2046.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La llamada</title>
+    <id>calibre:book:1299</id>
+    <updated>2024-03-15T09:05:11Z</updated>
+    <link href="../../Jesus%20Ceberio/La%20llamada%20%281299%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jesus%20Ceberio/La%20llamada%20%281299%29/La%20llamada%20-%20Jesus%20Ceberio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="370 KB" />
+    <author>
+      <name>Jesús Ceberio</name>
+      <uri>../authors_0/authors_943_Page_1.xml</uri>
+    </author>
+    <published>2024-03-07T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBATE</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«El 11 de marzo de 2004 fue un jueves aciago en Madrid. Acababa de amanecer cuando retumbaron varias explosiones en un tren de cercanías que entraba en el andén de la estación de Atocha. Eran las 7.37 de una mañana casi primaveral. En menos de cinco ...</summary>
+    <link href="../book_1/book_1299.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La llave 104</title>
+    <id>calibre:book:1512</id>
+    <updated>2024-05-22T06:46:45Z</updated>
+    <link href="../../Paz%20Castello/La%20llave%20104%20%281512%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paz%20Castello/La%20llave%20104%20%281512%29/La%20llave%20104%20-%20Paz%20Castello.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="478 KB" />
+    <author>
+      <name>Paz Castelló</name>
+      <uri>../authors_1/authors_1103_Page_1.xml</uri>
+    </author>
+    <published>2019-05-06T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Umbriel</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Virgina Rives es una mujer joven, atractiva y con una ambición desmedida, capaz de cualquier cosa con tal de huir de su pasado y reinventarse a sí misma. Un buen día, aparece en Beniaverd, un pueblo de la costa levantina marcado por la corrupción, y ...</summary>
+    <link href="../book_1/book_1512.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La loba fiel</title>
+    <id>calibre:book:2765</id>
+    <updated>2024-12-29T11:30:04Z</updated>
+    <link href="../../Max%20Ibarrola/La%20loba%20fiel%20%282765%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Max%20Ibarrola/La%20loba%20fiel%20%282765%29/La%20loba%20fiel%20-%20Max%20Ibarrola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Max Ibarrola</name>
+      <uri>../authors_0/authors_338_Page_1.xml</uri>
+    </author>
+    <published>2024-04-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Click Ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una novela de suspense en estado puro Arizona, verano de mil novecientos noventa y seis. En un rancho situado en medio del desierto, una empleada de la máxima confianza se lleva, sin mediar explicación, al nieto de un multimillonario. Años más tarde,...</summary>
+    <link href="../book_2/book_2765.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tags_3/tags_371_L_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 6)" />
+  <link href="../tags_3/tags_371_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 6)" />
+</feed>

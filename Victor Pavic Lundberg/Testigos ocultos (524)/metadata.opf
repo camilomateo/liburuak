@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e6ce076-d533-47cb-89ab-5f8d4de49a76</dc:identifier>
+        <dc:title>Testigos ocultos</dc:title>
+        <dc:creator opf:file-as="Victor Pavic Lundberg" opf:role="aut">Victor Pavic Lundberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-01T06:00:00+00:00</dc:date>
+        <dc:description>Dos periodistas y antiguos amigos investigan una tragedia aérea ocurrida hace 20 años, donde murió gente que no debía estar allí, y se salvaron algunos que se supone estaban en el vuelo. Las familias más poderosas de Suecia están involucradas.</dc:description>
+        <dc:publisher>Motus</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Victor Pavic Lundberg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:40:05.031362+00:00"/>
+        <meta name="calibre:title_sort" content="Testigos ocultos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

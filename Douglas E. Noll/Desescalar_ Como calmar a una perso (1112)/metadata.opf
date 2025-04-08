@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5454bcf-c5e1-4ebb-ad22-25a8e3fe52e5</dc:identifier>
+        <dc:title>Desescalar: Cómo calmar a una persona furiosa en menos de 90 segundos</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Douglas E. Noll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Vivimos en un mundo cada vez más dividido y no es 
+extraordinario encontrarse con personas agresivas y confrontaciones 
+difíciles. Afortunadamente, existen herramientas para convertirnos en 
+pacificadores y transformar situaciones conflictivas en diálogos serenos
+ y sin violencia. Basado en los últimos hallazgos en neurociencia, 
+Desescalar ofrece un sencillo método con ejercicios prácticos y ejemplos
+ de situaciones reales para disipar conflictos y cultivar relaciones más
+ sanas.&lt;/p&gt;&lt;p&gt;Douglas E. Noll es abogado, mediador y 
+experto en resolución de conflictos en lugares tan diversos como 
+prisiones de máxima seguridad o el Congreso estadounidense. Fue elegido 
+Mejor Abogado de Estados Unidos en 2014 (Best Lawyers in America) y 
+nombrado Mediador del Año en 2018 (The National Academy of Distinguished
+ Neutrals).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Arpa Práctica</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419662170</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">57699bba-544f-45b9-9d83-a59857d1b168</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:13.974226+00:00"/>
+        <meta name="calibre:title_sort" content="Desescalar: Cómo calmar a una persona furiosa en menos de 90 segundos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

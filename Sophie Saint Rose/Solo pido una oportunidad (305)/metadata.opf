@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">305</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48077945-97c7-45f8-aa32-ffbc5e3fd101</dc:identifier>
+        <dc:title>Sólo pido una oportunidad</dc:title>
+        <dc:creator opf:file-as="Saint Rose, Sophie" opf:role="aut">Sophie Saint Rose</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-12T03:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Gaiane trabaja en la tienda de sus padres. Pero tiene un sueño, 
+ser cantante, subirse a un escenario y vibrar con su público. Así que se
+ dedica a ir a todas las audiciones que encuentra. Pero se le dan fatal 
+por culpa de lo nervios. Bah, seis meses más haciéndolas y ya estaría 
+preparada. Iba mejorando poco a poco. Puede que en la última se le 
+hubiera olvidado la letra, pero eso le pasaba a cualquiera. Sólo 
+necesitaba una oportunidad para demostrar lo que valía y lo iba a 
+conseguir a pesar de lo que opinaba ese Bergmann. ¿Qué sabía él? Que 
+fuera uno de los mejores productores musicales del país y que no pudiera
+ ni verla no iba a desanimarla. Ah, no.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0BVMHYCJZ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sophie Saint Rose&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-14T08:08:49.816204+00:00"/>
+        <meta name="calibre:title_sort" content="Sólo pido una oportunidad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

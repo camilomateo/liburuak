@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3032</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86393593-6831-4f87-b650-bdcf75909407</dc:identifier>
+        <dc:title>Cuentos completos I</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Lo que cualquier lector, entre los miles de seguidores de la obra de Asimov, siempre había anhelado: tener a su alcance la amplísima producción de cuentos que el autor llegó a elaborar. Este primer tomo de la colección completa de cuentos cortos de Isaac Asimov contiene cuarenta y seis títulos, algunos de los cuales ya se han convertido en clásicos del género de la ciencia ficción. Rayando a veces en lo erudito, buscando otras la diversión, pero mostrando siempre una amena accesibilidad, los escritos que componen este volumen demuestran la gran diversidad de temas tratados por Asimov y su gran talento como autor.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">48380</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:56.090966+00:00"/>
+        <meta name="calibre:title_sort" content="Cuentos completos I"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

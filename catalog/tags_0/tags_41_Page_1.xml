@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Política</title>
+  <id>Calibre2opds:taglist:P:41</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_41_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Política" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por P" />
+  <entry>
+    <title>La guerra y las palabras</title>
+    <id>calibre:book:241</id>
+    <updated>2023-02-02T08:55:50Z</updated>
+    <link href="../../Jorge%20Volpi/La%20guerra%20y%20las%20palabras%20%28241%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Volpi/La%20guerra%20y%20las%20palabras%20%28241%29/La%20guerra%20y%20las%20palabras%20-%20Jorge%20Volpi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="560 KB" />
+    <author>
+      <name>Jorge Volpi</name>
+      <uri>../authors_0/authors_168_Page_1.xml</uri>
+    </author>
+    <published>2004-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Era</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Política" />
+    <category term="Historia" />
+    <category term="Lang:es" />
+    <summary>El primero de enero de 1994, un grupo armado tomó la ciudad de San Cristóbal de las Casas, así como otras localidades del estado de Chiapas, en el sureste de México. Su líder, el subcomandante Marcos, antiguo estudiante de filosofía y profesor univer...</summary>
+    <link href="../book_0/book_241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Utopía</title>
+    <id>calibre:book:2548</id>
+    <updated>2024-09-09T10:35:06Z</updated>
+    <link href="../../Tomas%20Moro/Utopia%20%282548%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tomas%20Moro/Utopia%20%282548%29/Utopia%20-%20Tomas%20Moro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="156 KB" />
+    <author>
+      <name>Tomás Moro</name>
+      <uri>../authors_1/authors_1682_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Descripción" />
+    <category term="de" />
+    <category term="la" />
+    <category term="república" />
+    <category term="ficticia" />
+    <category term="isla" />
+    <category term="Utopía" />
+    <category term="Filosofía" />
+    <category term="Política" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [33]:</summary>
+    <link href="../book_2/book_2548.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47c66a2a-fa6c-4f23-85ae-a98d3d27b024</dc:identifier>
+        <dc:title>Historias del Rock</dc:title>
+        <dc:creator opf:file-as="Pirata, El" opf:role="aut">El Pirata</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-02T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;Juan Pablo Ordúñez, más conocido como &lt;span class="a-text-bold"&gt;El
+ Pirata, trata de poner sobre la mesa a través de estas páginas 
+historias, leyendas, informes reales, testimonios directos y también 
+misterios sin resolver.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;&lt;br&gt;Historias del Rock. Leyendas, cuentos y mitos&lt;/span&gt;
+ cuenta con impostores, suicidas, enterradores, vendedores de 
+esqueletos, fantasmas, mentirosos, elegidos, encapuchados, parricidas, 
+marbellíes, forajidos, nazis y otras historias.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;Como
+ profesional del rock y amante seguidor de esta cultura desde hace más 
+de medio siglo, ofrece su visión y su conocimiento en algunas de las 
+leyendas que aquí se relatan. En otros casos, se limita a dejar que las 
+historias fluyan por sí mismas para que cada cual saque sus propias 
+conclusiones. Sin invitar a creerlo ciegamente ni tampoco a ser un 
+completo escéptico.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;Todo tiene una base, todo
+ parte de una realidad, por mucho que las agencias de publicidad del 
+rock hayan magnificado hechos o los hayan envuelto en un halo de 
+misterio más que conveniente para devolver a la actualidad a una &lt;span class="a-text-italic"&gt;rockstar&lt;/span&gt; con la loca aceptación tácita de los fans.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;br&gt;30
+ historias donde descubriremos la especulación, la imaginación, la 
+mentira, la exageración, la verdad o la verdad a medias... y que El 
+Pirata nos va a contar.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>ANAYA MULTIMEDIA</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08ZH31DRR</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Musica</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-15T15:51:16+00:00"/>
+        <meta name="calibre:title_sort" content="Historias del Rock"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

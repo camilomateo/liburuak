@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2814</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9182497a-e305-4563-b0fd-3e50f70a9ea5</dc:identifier>
+        <dc:title>La guarida del diablo</dc:title>
+        <dc:creator opf:file-as="Douglas Preston &amp; Lincoln Child" opf:role="aut">Douglas Preston</dc:creator>
+        <dc:creator opf:file-as="Douglas Preston &amp; Lincoln Child" opf:role="aut">Lincoln Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-08T00:00:00+00:00</dc:date>
+        <dc:description>Preston &amp;amp; Child revelan uno de los secretos mejor guardados de la historia de los Estados Unidos en la nueva aventura de Nora Kelly:¿Qué ocurrió realmente en ROSWELL en 1947?Tras su fulminante despido del Instituto Arqueológico de Santa Fe, Nora Kelly acepta hacerse cargo de un proyecto financiado por un filántropo millonario: investigar el famoso incidente Roswell, donde en los años cuarenta hubo un teórico contacto alienígena posteriormente encubierto por el gobierno de los Estados Unidos. Un examen pormenorizado de las imágenes realizadas con un radar de penetración terrestre revela el escenario de un crimen cerca del lugar: dos cadáveres sometidos a la acción de algún tipo de ácido para dificultar su identificación y con un orificio de bala en sus cráneos, junto con un extraño artefacto de metal plateado. El hallazgo, en terreno federal, supone la entrada en escena del FBI y la llegada de la agente especial Corrie Swanson, que no tardará en descubrir que las víctimas...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="MOBI">asin:8401032806</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-20T10:21:16+00:00"/>
+        <meta name="calibre:title_sort" content="guarida del diablo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

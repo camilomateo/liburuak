@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3254</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">150ab991-6652-464e-91c0-2140ea894e04</dc:identifier>
+        <dc:title>Arderá el viento (Premio Alfaguara de novela 2025)</dc:title>
+        <dc:creator opf:file-as="Saccomanno, Guillermo" opf:role="aut">Guillermo Saccomanno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-20T00:00:00+00:00</dc:date>
+        <dc:description>LA NOVELA GANADORA DEL PREMIO ALFAGUARA 2025 «La cuidadosa construcción de un deterioro que, aunque transcurra en un país específico, acaba por ser una metáfora distorsionada del espíritu de nuestro tiempo».Del acta del juradoLos Esterházy, una pareja excéntrica sin un pasado claro, llegan a un pueblo de la costa argentina y comienzan a regentar un antiguo hotel. Estos dos seres (y sus dos hijos, una niña y un niño más inquietantes y enigmáticos que ellos) producen el efecto de una partícula enfermiza que se introduce en las grietas de una sociedad pequeña y arrasa con su dinámica cotidiana, aparentemente calma. La pareja resulta ser un amplificador de los prejuicios, los deseos ocultos, las supersticiones, los temores y la violencia larvada en muchos de los habitantes del pueblo.Arderá el viento es la historia de una degradación, de un descascaramiento agónico que poco a poco deja a la vista las miserias del cuerpo social. Expuesta al influjo de los Esterházy, la extraña villa...</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-03T19:42:40.205141+00:00"/>
+        <meta name="calibre:title_sort" content="Arderá el viento (Premio Alfaguara de novela 2025)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

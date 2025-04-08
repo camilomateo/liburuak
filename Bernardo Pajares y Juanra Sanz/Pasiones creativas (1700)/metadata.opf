@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c248dcc7-633b-4e0e-9f49-e32d8ae3b57a</dc:identifier>
+        <dc:title>Pasiones creativas</dc:title>
+        <dc:creator opf:file-as="Sanz, Bernardo Pajares y Juanra" opf:role="aut">Bernardo Pajares y Juanra Sanz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-22T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;«La pasión, el amor y el desamor son algunas de las principales 
+emociones que conforman las obras de arte. En este libro nos hemos 
+propuesto compartir a modo de diario escrito a dos voces nuestros 
+pequeños descubrimientos y reflexiones sobre un aspecto de la historia 
+del arte que nos atrae irremediablemente: las intimidades 
+-sentimentales, sexuales, amistosas- desde las que se gestaron algunas 
+de las más significativas obras de arte. Nos preguntamos por la 
+creatividad que brotó cuando las flechas -no siempre bienintencionadas, 
+todo hay que decirlo- de Cupido se clavaron en Edward Hopper y Josephine
+ Nivison, Peter Hujar y David Wojnarowicz, Dora Maar y Picasso, Francis 
+Bacon y sus amantes, Robert Mapplethorpe y Patti Smith y otros polígonos
+ amorosos que dieron lugar a maravillosas pinturas, esculturas y 
+fotografías que aún hoy son el reflejo de las historias que las vieron 
+nacer».&lt;/p&gt;</dc:description>
+        <dc:publisher>AGUILAR</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788403523357</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-06T08:52:10.594053+00:00"/>
+        <meta name="calibre:title_sort" content="Pasiones creativas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

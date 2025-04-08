@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1432</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc42fe6e-667d-409a-a471-023be91b0561</dc:identifier>
+        <dc:title>El Caso de la Bella Gritona</dc:title>
+        <dc:creator opf:file-as="Golden, Alison &amp; Dagnall, Grace" opf:role="aut">Alison Golden</dc:creator>
+        <dc:creator opf:file-as="Golden, Alison &amp; Dagnall, Grace" opf:role="aut">Grace Dagnall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-18T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Un encantador bed and breakfast. Un asesinato diabólico. Un huésped con un secreto que ocultar...&lt;br&gt;&lt;br&gt;El
+ prestigioso bed and breakfast Lavender de Chiddlinghurst, Inglaterra, 
+tiene una decoración elegante, unos jardines preciosos... y un problema 
+mortal.&lt;br&gt;&lt;br&gt;Norah Travis, una bella joven, ha aparecido asesinada en 
+una de sus habitaciones. El detective inspector Graham, un cruzado de la
+ justicia con predilección por el té y un lado oscuro propio, es 
+asignado al caso. Junto con el sargento Harris en la extensa finca, el 
+dúo se pone manos a la obra para resolver el despiadado crimen.&lt;br&gt;&lt;br&gt;Pero
+ sin testigos ni móvil, su investigación se ve rápidamente envuelta en 
+una red de mentiras y engaños. Los jocosos propietarios, Amelia y Cliff,
+ parecen no tener nada que ocultar, pero no puede decirse lo mismo de su
+ viejo huésped, Tim. Luego están el ex marido amargado, el ama de llaves
+ hermética, un anciano temblón...&lt;br&gt;&lt;br&gt;No faltan sospechosos, pero el 
+instinto de Graham le lleva a investigar el misterioso pasado de Norah. Y
+ pronto sale a la luz un secreto atroz... Un secreto por el que podría 
+merecer la pena matar.&lt;/div&gt;</dc:description>
+        <dc:publisher>Mesa Verde Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0D264RCQZ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-20T15:13:30.200369+00:00"/>
+        <meta name="calibre:title_sort" content="Caso de la Bella Gritona, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

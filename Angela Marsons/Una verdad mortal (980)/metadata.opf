@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">980</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ba61a2a-a15b-4e00-be0e-fc038afd066d</dc:identifier>
+        <dc:title>Una verdad mortal</dc:title>
+        <dc:creator opf:file-as="Marsons, Angela" opf:role="aut">Angela Marsons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-19T03:47:42+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;span class="a-text-bold"&gt;¿Cuán lejos estás dispuesto a ir para proteger tus secretos más siniestros?&lt;/span&gt;&lt;br&gt;«Suicidio»,
+ dicen todos cuando encuentran a la adolescente Sadie Winters muerta a 
+un lado del edificio. Este parece haber sido el devastador acto final de
+ una niña cargada de problemas. Pero, cuando en la misma escuela aparece
+ el cuerpo maltrecho de otro chico, se hace evidente, para la detective 
+Kim Stone, que estas muertes no han sido accidentes trágicos.&lt;br&gt;Mientras
+ Kim y su equipo comienzan a desentrañar la siniestra red de secretos, 
+una de las profesoras parece tener la clave de la verdad; pero, cuando 
+está a punto de romper el silencio, muere en circunstancias sospechosas.&lt;br&gt;Con
+ más vidas de niños en peligro, la detective tiene que arrostrar lo 
+impensable: la posibilidad de que un alumno pudiera ser el culpable de 
+los asesinatos. Sus intentos por profundizar en la psicología de los 
+niños asesinos la ponen en contacto con su antigua adversaria, la 
+doctora Alex Thorne, una peligrosa sociópata que tiene por vocación 
+destruir a Kim.&lt;br&gt;Desesperada por atrapar al asesino, la detective 
+descubre un vínculo entre los homicidios recientes y las novatadas de 
+hace algunos decenios. Pero la salvación de esas vidas inocentes tiene 
+un costo… Y, en el equipo de Kim, alguien tendrá que pagar el precio más
+ alto.  &lt;/div&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-23T10:29:01+00:00"/>
+        <meta name="calibre:title_sort" content="Una verdad mortal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

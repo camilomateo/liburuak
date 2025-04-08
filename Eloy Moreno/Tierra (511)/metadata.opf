@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">511</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bee060b4-3dfd-4a8d-ba50-330e103d762a</dc:identifier>
+        <dc:title>Tierra</dc:title>
+        <dc:creator opf:file-as="Eloy Moreno" opf:role="aut">Eloy Moreno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-09T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;El problema de buscar la verdad es encontrarla y no saber qué hacer con ella.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una novela que cambiará tu forma de ver el mundo.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Querido lector,&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Tienes
+ en tus manos una novela que plantea preguntas difíciles de responder; 
+una novela que habla sobre esas verdades que, a pesar de buscar, 
+preferiríamos no encontrar. No puedo explicarte de qué trata este libro 
+porque eso rompería su magia, pero te aseguro que, cuando acabes de 
+leerlo, verás el mundo de forma distinta.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466667173</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Eloy Moreno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:39:55.102647+00:00"/>
+        <meta name="calibre:title_sort" content="Tierra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

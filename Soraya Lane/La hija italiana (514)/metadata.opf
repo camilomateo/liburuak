@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">514</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c844cdd-78b8-4b4a-b7a0-419b0a8d115f</dc:identifier>
+        <dc:title>La hija italiana</dc:title>
+        <dc:creator opf:file-as="Lane, Soraya" opf:role="aut">Soraya Lane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Londres, en la actualidad: Lily, una joven enóloga inglesa a punto de viajar a Italia para trabajar en uno de los mejores viñedos del país, recibe una inesperada convocatoria de un despacho de abogados. Al acudir a la cita, descubre que su abuela nació y fue dada en adopción en Hope's House, un hogar para madres solteras; las únicas pistas que tiene sobre su pasado familiar son una antigua receta de cocina manuscrita y un programa del teatro La Scala de Milán, de 1946. Ya en Italia y con la ayuda de Antonio, un joven viticultor, Lily decide seguir ambas pistas, que la llevarán hasta una pequeña región del Piamonte donde descubrirá una fascinante historia de amor del pasado que cambiará su vida para siempre. Milán, ochenta años atrás: Estee, destinada a convertirse en la mayor prima ballerina de Italia, y Felix, heredero de una gran familia de empresarios, lo son todo el uno para el otro desde que se conocieron en la adolescencia, y, más que nada en el mundo, desean ser felices. Pero en una época en la que la moral y las normas sociales se imponen sobre la libertad de elegir un camino propio, ambos deberán enfrentarse con coraje y fortaleza al destino que otros han decidido para ellos. Una novela arrolladora sobre secretos familiares, el poder del pasado y la fuerza del destino.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Soraya Lane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Las hijas perdidas"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:39:57.548689+00:00"/>
+        <meta name="calibre:title_sort" content="hija italiana, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

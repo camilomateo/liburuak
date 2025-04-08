@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2707</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b0fd1a7-f6b8-4483-a624-14089f922f6e</dc:identifier>
+        <dc:title>La abadesa de Barcelona</dc:title>
+        <dc:creator opf:file-as="Sempere, Francisco" opf:role="aut">Francisco Sempere</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-23T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Una intriga movida por la inconmensurable fuerza del amor de una madre por su hija.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tras el éxito de&lt;/strong&gt; La cortesana de León &lt;strong&gt;, Francisco Sempere escribe este thriller histórico que nos demuestra que los asuntos de los reyes en realidad siempre están en manos del pueblo.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;EL AMOR PUEDE SER MÁS FUERTE QUE CUALQUIER REINO&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Siglo XII.&lt;/strong&gt; Lisarda ha tenido muchas vidas. Ha sido cortesana, consejera de la nobleza y espía de reyes, pero ahora habita en paz unas tierras que le donó el padre de su hija Elvira, el conde Pedro González de Lara, quien les prometió protección.&lt;/p&gt;
+&lt;p&gt;En un momento fascinante de la historia de Hispania, en el que los nobles acumulan más poder que nunca, el conde Lara muere inesperadamente en una justa. Es entonces cuando Lisarda es desterrada y Elvira encerrada en un monasterio de la Ciudad Condal.&lt;/p&gt;
+&lt;p&gt;Para recuperar a su hija, Lisarda recorrerá las calles más sombrías de la Barcelona medieval hasta llegar a la corte. Allí, en contra de los deseos de la reina de Castilla y León, urdirá un plan para unir la corona de Aragón con el condado de Barcelona a cambio de la liberación de su hija.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-11-15T15:07:04.942794+00:00"/>
+        <meta name="calibre:title_sort" content="abadesa de Barcelona, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2531</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a714cf91-a295-4bca-93bf-bc510f0c12da</dc:identifier>
+        <dc:title>The Alchemist</dc:title>
+        <dc:creator opf:file-as="Jonson, Ben" opf:role="aut">Ben Jonson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>17th</dc:subject>
+        <dc:subject>Century</dc:subject>
+        <dc:subject>London</dc:subject>
+        <dc:subject>(England</dc:subject>
+        <dc:subject>City</dc:subject>
+        <dc:subject>Life</dc:subject>
+        <dc:subject>Alchemists</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:49+00:00"/>
+        <meta name="calibre:title_sort" content="The Alchemist"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

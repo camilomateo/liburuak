@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2560</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf1fa3b1-91af-4f98-8589-a505f9e0a28d</dc:identifier>
+        <dc:title>El mejor del mundo</dc:title>
+        <dc:creator opf:file-as="Tallón, Juan" opf:role="aut">Juan Tallón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;¿Nuestra vida está marcada por el apellido que llevamos? Una novela sobre realidades paralelas.&lt;/p&gt;
+&lt;p&gt;Antonio es un empresario gallego con una ambición desmedida. Cuando por fin asume la dirección de la fábrica de ataúdes fundada por su padre, hasta entonces reacio a ceder el testigo, da un cambio radical al negocio. Quiere situarlo en lo más alto y pone la vista en el sector del lujo. Eso lo lleva de viaje por Houston y Ciudad de México, donde alcanza el éxito con el que ha vivido siempre obsesionado. Pero apenas lo toca, sus sueños se desvanecen de una injusta e inexplicable manera, capaz de hacer perder la cabeza al más juicioso. A su regreso a España va a percibir paulatina, dramática e irremediablemente que todo ha cambiado, y sin solución. Casi nada es como era cuando lo dejó quince días antes: ni la familia, ni la casa, ni los amigos, ni el trabajo, ni la ciudad, ni el mundo, ni siquiera él mismo. Nada tiene sentido, todo escapa a lo posible. ¿Qué ha pasado? ¿Cómo, en qué instante o circunstancia se distorsionó la realidad?&lt;/p&gt;
+&lt;p&gt;Juan Tallón se adentra en una historia que aborda la experiencia de la extrañeza, esa sensación tan repetida a lo largo de la vida, y lo hace a través de un personaje contradictorio, implacable, violento, a ratos tierno, sin demasiados límites morales, que no encaja en el mundo, que no entiende –como en algún momento nos ocurre a todos– muchas de las cosas que suceden a su alrededor, a las que, sin embargo, tendrá que desafiar para salir adelante. Dueño de un pasado tormentoso, enfrentado a un padre que lo aborrece, víctima incluso de un apellido atroz, Antonio es el vivo ejemplo de cómo resistir al vapuleo de las grandes adversidades y satisfacer cualquier ambición, siempre y cuando uno esté dispuesto a hacer todo lo que haga falta. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Anagrama</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-09T13:23:59+00:00"/>
+        <meta name="calibre:title_sort" content="mejor del mundo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

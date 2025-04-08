@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">537</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ad9f248-38d8-425f-aa92-5199e7fd4a4b</dc:identifier>
+        <dc:title>Niebla en el alma</dc:title>
+        <dc:creator opf:file-as="Jónasson, Ragnar" opf:role="aut">Ragnar Jónasson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;1955:
+ Dos hermanas y sus parejas se trasladan a un fiordo aislado y 
+deshabitado. Su estancia termina abruptamente cuando una de las mujeres 
+fallece en circunstancias misteriosas. Sin testigos, pistas ni 
+sospechosos, el caso nunca se resuelve.&lt;/p&gt;&lt;p&gt;Cincuenta 
+años más tarde, en Siglufjörður, aislado por un extraño virus, sale a la
+ luz una vieja fotografía de la época que parece indicar que no eran los
+ únicos habitantes del fiordo...&lt;/p&gt;&lt;p&gt;El joven policía Ari
+ Thór intentará reconstruir lo que realmente sucedió esa fatídica noche 
+de 1955 con la inestimable la ayuda de la periodista Ísrún, quien 
+investiga un caso cada vez más escalofriante. Pero la situación dará un 
+nuevo giro cuando un niño desaparece a plena luz del día.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ragnar Jónasson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Islandia Negra"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:40:16.992288+00:00"/>
+        <meta name="calibre:title_sort" content="Niebla en el alma"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

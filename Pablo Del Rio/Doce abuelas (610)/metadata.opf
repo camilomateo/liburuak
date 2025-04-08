@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a40deb3f-da1f-4162-8e44-9921a66ae91d</dc:identifier>
+        <dc:title>Doce abuelas</dc:title>
+        <dc:creator opf:file-as="Pablo Del Río" opf:role="aut">Pablo Del Río</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Al llegar a su casa en Ribadesella después del aperitivo, Mercedes encuentra a su sobrino Ricardo sentado al piano. Enseguida advierte que su cuerpo está congelado. Tras dar aviso al cuartel, un agente comprueba que no hay ningún cadáver y que el relato de la anciana se debe a un delirio. Dos días más tarde, el pianista aparece muerto en un mirador de la costa. Como no se aprecian signos de violencia, el forense atribuye la muerte a un fallo cardíaco. Con la comarca sumergida en una espesa niebla, ¿por qué se tomaría Ricardo la molestia de asomarse a un mirador desde donde no podía divisar ni la punta de sus zapatos?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419110930</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">oeiiEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Pablo Del Río&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:41.557373+00:00"/>
+        <meta name="calibre:title_sort" content="Doce abuelas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

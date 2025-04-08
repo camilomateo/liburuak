@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2810</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc336d9d-69dc-4e02-a56d-de92b89c1541</dc:identifier>
+        <dc:title>Victorian Psycho</dc:title>
+        <dc:creator opf:file-as="Feito, Virginia" opf:role="aut">Virginia Feito</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-09T00:00:00+00:00</dc:date>
+        <dc:description>Vuelve, por fin, aún más audaz y provocadora, «la Patricia Highsmith española», «la nueva dama del thriller» (La Razón) que conmocionó a prensa, libreros y lectores con La señora March, Premio Best Novel Valencia Negra y Premio Un Año de Libros al mejor debut, y uno de los mejores libros del año según El País, El Cultural, La Vanguardia, Elle y Telva.El señor y la señora Pounds han contratado a Winifred Notty para que cumpla el rol de la perfecta institutriz victoriana: dará clases a sus pupilos (francés y costura a Drusilla y álgebra e historia al pequeño Andrew) y les contará cuentos antes de dormir. Pero Ensor House y sus habitantes ocultan más perversiones y secretos que la perturbada señorita Notty, capaz de convertir un té con elegantes invitados y bebés en el salón en un acontecimiento macabro. ¿Qué ha pasado en su vida para que una fría mañana de Navidad todas las piezas del pasado y el presente encajen y un final opuesto al de un cuento de hadas nos estremezca como un...</dc:description>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-20T10:21:15.679952+00:00"/>
+        <meta name="calibre:title_sort" content="Victorian Psycho"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

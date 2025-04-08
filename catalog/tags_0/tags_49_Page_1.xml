@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Novelas de acción</title>
+  <id>Calibre2opds:taglist:N:49</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_49_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Novelas de acción" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por N" />
+  <entry>
+    <title>Máximo impacto</title>
+    <id>calibre:book:327</id>
+    <updated>2023-02-16T07:13:44Z</updated>
+    <link href="../../David%20Baldacci/Maximo%20impacto%20%28327%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Baldacci/Maximo%20impacto%20%28327%29/Maximo%20impacto%20-%20David%20Baldacci.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="724 KB" />
+    <author>
+      <name>David Baldacci</name>
+      <uri>../authors_0/authors_231_Page_1.xml</uri>
+    </author>
+    <published>2017-04-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Novelas de acción" />
+    <category term="Lang:es" />
+    <category term="Will Robie" />
+    <summary>Will Robie [2]: Baldacci vuelve con un palpitante nuevo caso de Will Robie, el héroe de «Los inocentes».Eficiente e implacable, Will Robie es el hombre a quien recurre el gobierno de Estados Unidos para eliminar a los peores enemigos del estado. Sin ...</summary>
+    <link href="../book_0/book_327.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

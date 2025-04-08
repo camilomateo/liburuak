@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">799</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cfe65b9-1c7c-4340-a146-63ee9afc0a59</dc:identifier>
+        <dc:title>Cómo salvar una mala racha</dc:title>
+        <dc:creator opf:file-as="Robert, Marie" opf:role="aut">Marie Robert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-01T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Una visita catastrófica a Ikea en donde nada ocurre como estaba previsto, una cita a ciegas fracasa por varias incompatibilidades, una madre entra en pánico al descubrir que su hijo está en plena adolescencia y no sabe qué hacer con él… Distintas situaciones cotidianas que nos pueden confundir y hacernos pensar que estamos pasando una mala racha. ¿Qué tenemos que hacer para evitar que nos entre el pánico o para no acabar llorando? ¿Y si invitamos a Platón, Spinoza, Nietzsche o Wittgenstein para hablar de estos temas? ¿Qué habría contestado Kant a un mensaje de ruptura? ¿Aristóteles habría tomado otro vodka más? ¿Qué nos diría Epicuro sobre nuestras angustias? ¿Qué haría Spinoza en Ikea? Los filósofos salen por fin de las bibliotecas para ayudarnos a reaccionar con humor a todas las sorpresas de la vida. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Este libro original y curioso recrea doce situaciones de crisis y doce filósofos capaces de tranquilizarnos y ayudarnos a desdramatizar. Se trata de momentos que se nos escapan, de esos minutos de caos en los que todo se tambalea; esos instantes que nos llevan al enfado, el llanto, el sentimiento de culpa, la incomprensión, la vergüenza… ¿Cómo no buscar una respuesta en palabras o ideas que han sobrevivido a lo largo de los siglos?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ariel</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1170901f-639f-4869-9dd2-bb454e99881b</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-31T11:07:18.434717+00:00"/>
+        <meta name="calibre:title_sort" content="Cómo salvar una mala racha"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

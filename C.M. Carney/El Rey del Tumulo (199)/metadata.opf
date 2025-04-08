@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39026a1d-93ec-4df3-9934-49ac439e208e</dc:identifier>
+        <dc:title>El Rey del Túmulo</dc:title>
+        <dc:creator opf:file-as="Carney, C.M." opf:role="aut">C.M. Carney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Traicionado por los más cercanos a él, Finn Caldwell pensó que había escapado de su vida de violencia y engaño. Pero cuando un mensaje frenético de su distante hermana lo lleva a Los Reinos, un extraño mundo de magia y maravilla similar a un juego, Finn se ve obligado a aceptar sus habilidades mortales una vez más. Armado con un misterioso artefacto conocido como la Divinidad, Finn se convierte en el mago guerrero Gryph. Sin embargo, las cosas no son como parecen y para salvar a su hermana, debe escapar de una mazmorra consciente derrotando a su maestro, el Rey del Túmulo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C.M. Carney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Los Reinos"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:20:59.993293+00:00"/>
+        <meta name="calibre:title_sort" content="Rey del Túmulo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Drama</title>
+  <id>Calibre2opds:taglist:D:57</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_57_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Drama" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por D" />
+  <link href="./tags_57_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Drama" />
+  <entry>
+    <title>Otelo</title>
+    <id>calibre:book:2380</id>
+    <updated>2024-09-09T10:34:19Z</updated>
+    <link href="../../William%20Shakespeare/Otelo%20%282380%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/Otelo%20%282380%29/Otelo%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="127 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [187]:</summary>
+    <link href="../book_2/book_2380.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Othello, the Moor of Venice</title>
+    <id>calibre:book:2522</id>
+    <updated>2024-09-09T10:34:48Z</updated>
+    <link href="../../William%20Shakespeare/Othello%2C%20the%20Moor%20of%20Venice%20%282522%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/Othello%2C%20the%20Moor%20of%20Venice%20%282522%29/Othello%2C%20the%20Moor%20of%20Venice%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="137 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Tragedies" />
+    <category term="Othello" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Jealousy" />
+    <category term="Interracial" />
+    <category term="marriage" />
+    <category term="Venice" />
+    <category term="(Italy)" />
+    <category term="Muslims" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2522.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El otro</title>
+    <id>calibre:book:2424</id>
+    <updated>2024-09-09T10:34:28Z</updated>
+    <link href="../../Miguel%20de%20Unamuno/El%20otro%20%282424%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Miguel%20de%20Unamuno/El%20otro%20%282424%29/El%20otro%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="80 KB" />
+    <author>
+      <name>Miguel de Unamuno</name>
+      <uri>../authors_1/authors_1513_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Filosófico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [255]:</summary>
+    <link href="../book_2/book_2424.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las penas del joven Werther</title>
+    <id>calibre:book:2383</id>
+    <updated>2024-09-09T10:34:20Z</updated>
+    <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/Las%20penas%20del%20joven%20Werther%20-%20Goethe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="124 KB" />
+    <author>
+      <name>Goethe</name>
+      <uri>../authors_1/authors_1598_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Psicológico" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [199]:</summary>
+    <link href="../book_2/book_2383.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los persas</title>
+    <id>calibre:book:2429</id>
+    <updated>2024-09-09T10:34:29Z</updated>
+    <link href="../../Esquilo/Los%20persas%20%282429%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Esquilo/Los%20persas%20%282429%29/Los%20persas%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="74 KB" />
+    <author>
+      <name>Esquilo</name>
+      <uri>../authors_1/authors_1623_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [24]:</summary>
+    <link href="../book_2/book_2429.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Phaedra</title>
+    <id>calibre:book:2535</id>
+    <updated>2024-09-09T10:34:51Z</updated>
+    <link href="../../Jean%20Racine/Phaedra%20%282535%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean%20Racine/Phaedra%20%282535%29/Phaedra%20-%20Jean%20Racine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="120 KB" />
+    <author>
+      <name>Jean Racine</name>
+      <uri>../authors_1/authors_1676_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Phaedra" />
+    <category term="(Greek" />
+    <category term="mythology)" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Tragedies" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2535.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Prometeo encadenado</title>
+    <id>calibre:book:2426</id>
+    <updated>2024-09-09T10:34:29Z</updated>
+    <link href="../../Esquilo/Prometeo%20encadenado%20%282426%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Esquilo/Prometeo%20encadenado%20%282426%29/Prometeo%20encadenado%20-%20Esquilo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="98 KB" />
+    <author>
+      <name>Esquilo</name>
+      <uri>../authors_1/authors_1623_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [261]:</summary>
+    <link href="../book_2/book_2426.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El público</title>
+    <id>calibre:book:2148</id>
+    <updated>2024-09-06T02:21:23Z</updated>
+    <link href="../../Federico%20Garcia%20Lorca/El%20publico%20%282148%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Federico%20Garcia%20Lorca/El%20publico%20%282148%29/El%20publico%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="85 KB" />
+    <author>
+      <name>Federico García Lorca</name>
+      <uri>../authors_0/authors_85_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [10]:</summary>
+    <link href="../book_2/book_2148.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El rey Lear</title>
+    <id>calibre:book:2372</id>
+    <updated>2024-09-09T10:34:17Z</updated>
+    <link href="../../William%20Shakespeare/El%20rey%20Lear%20%282372%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/El%20rey%20Lear%20%282372%29/El%20rey%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="139 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [172]:</summary>
+    <link href="../book_2/book_2372.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El rey se divierte</title>
+    <id>calibre:book:2413</id>
+    <updated>2024-09-09T10:34:26Z</updated>
+    <link href="../../Victor%20Hugo/El%20rey%20se%20divierte%20%282413%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Victor%20Hugo/El%20rey%20se%20divierte%20%282413%29/El%20rey%20se%20divierte%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="115 KB" />
+    <author>
+      <name>Victor Hugo</name>
+      <uri>../authors_1/authors_1420_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [244]:</summary>
+    <link href="../book_2/book_2413.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sábado, domingo</title>
+    <id>calibre:book:1725</id>
+    <updated>2024-08-08T04:59:23Z</updated>
+    <link href="../../Ray%20Loriga/Sabado%2C%20domingo%20%281725%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ray%20Loriga/Sabado%2C%20domingo%20%281725%29/Sabado%2C%20domingo%20-%20Ray%20Loriga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="144 KB" />
+    <author>
+      <name>Ray Loriga</name>
+      <uri>../authors_0/authors_660_Page_1.xml</uri>
+    </author>
+    <published>2019-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <summary>La nueva novela de Ray Loriga: Premio Alfaguara de novela 2017 y uno de los escritores más singulares del panorama narrativo en español. Un adolescente y una historia sin resolver que marcará su futuro: un libro transgresor y original con un planteam...</summary>
+    <link href="../book_1/book_1725.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sangre de los inocentes</title>
+    <id>calibre:book:701</id>
+    <updated>2023-05-17T01:10:14Z</updated>
+    <link href="../../Julia%20Navarro/La%20sangre%20de%20los%20inocentes%20%28701%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julia%20Navarro/La%20sangre%20de%20los%20inocentes%20%28701%29/La%20sangre%20de%20los%20inocentes%20-%20Julia%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="692 KB" />
+    <author>
+      <name>Julia Navarro</name>
+      <uri>../authors_0/authors_267_Page_1.xml</uri>
+    </author>
+    <published>2007-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>Soy espía y tengo miedo… Así empieza la crónica que escribe en el siglo XIII fray Julián sobre el cruel asedio a Montségur y la lucha entre cátaros y católicos. Siglos después, en 1939, un medievalista agnóstico emprende un peligroso viaje por el Ber...</summary>
+    <link href="../book_0/book_701.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los siete locos</title>
+    <id>calibre:book:2151</id>
+    <updated>2024-09-06T02:21:24Z</updated>
+    <link href="../../Roberto%20Arlt/Los%20siete%20locos%20%282151%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Roberto%20Arlt/Los%20siete%20locos%20%282151%29/Los%20siete%20locos%20-%20Roberto%20Arlt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="280 KB" />
+    <author>
+      <name>Roberto Arlt</name>
+      <uri>../authors_1/authors_1526_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [220]:</summary>
+    <link href="../book_2/book_2151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sirena negra</title>
+    <id>calibre:book:2387</id>
+    <updated>2024-09-09T10:34:20Z</updated>
+    <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/La%20sirena%20negra%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="203 KB" />
+    <author>
+      <name>Emilia Pardo Bazán</name>
+      <uri>../authors_1/authors_1523_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [186]:</summary>
+    <link href="../book_2/book_2387.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El tapiz amarillo</title>
+    <id>calibre:book:2395</id>
+    <updated>2024-09-09T10:34:22Z</updated>
+    <link href="../../Charlotte%20Perkins%20Gilman/El%20tapiz%20amarillo%20%282395%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlotte%20Perkins%20Gilman/El%20tapiz%20amarillo%20%282395%29/El%20tapiz%20amarillo%20-%20Charlotte%20Perkins%20Gilman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="62 KB" />
+    <author>
+      <name>Charlotte Perkins Gilman</name>
+      <uri>../authors_1/authors_1636_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Psicológico" />
+    <category term="Terror" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [216]:</summary>
+    <link href="../book_2/book_2395.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Alchemist</title>
+    <id>calibre:book:2531</id>
+    <updated>2024-09-09T10:34:50Z</updated>
+    <link href="../../Ben%20Jonson/The%20Alchemist%20%282531%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ben%20Jonson/The%20Alchemist%20%282531%29/The%20Alchemist%20-%20Ben%20Jonson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="192 KB" />
+    <author>
+      <name>Ben Jonson</name>
+      <uri>../authors_1/authors_1672_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="English" />
+    <category term="Drama" />
+    <category term="(Comedy)" />
+    <category term="--" />
+    <category term="17th" />
+    <category term="century" />
+    <category term="London" />
+    <category term="(England)" />
+    <category term="City" />
+    <category term="and" />
+    <category term="town" />
+    <category term="Life" />
+    <category term="Alchemists" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2531.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Frogs</title>
+    <id>calibre:book:2539</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../Aristophanes/The%20Frogs%20%282539%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aristophanes/The%20Frogs%20%282539%29/The%20Frogs%20-%20Aristophanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="99 KB" />
+    <author>
+      <name>Aristophanes</name>
+      <uri>../authors_1/authors_1679_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Comedies" />
+    <category term="Greek" />
+    <category term="Drama" />
+    <category term="(Comedy)" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Voyages" />
+    <category term="to" />
+    <category term="the" />
+    <category term="otherworld" />
+    <category term="Dionysus" />
+    <category term="(Greek" />
+    <category term="deity)" />
+    <category term="Playwriting" />
+    <category term="Dramatists" />
+    <category term="Aristophanes" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2539.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Merchant of Venice</title>
+    <id>calibre:book:2519</id>
+    <updated>2024-09-09T10:34:48Z</updated>
+    <link href="../../William%20Shakespeare/The%20Merchant%20of%20Venice%20%282519%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/The%20Merchant%20of%20Venice%20%282519%29/The%20Merchant%20of%20Venice%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Comedies" />
+    <category term="Jews" />
+    <category term="--" />
+    <category term="Italy" />
+    <category term="Drama" />
+    <category term="Moneylenders" />
+    <category term="Venice" />
+    <category term="(Italy)" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2519.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Tempest</title>
+    <id>calibre:book:2516</id>
+    <updated>2024-09-09T10:34:47Z</updated>
+    <link href="../../William%20Shakespeare/The%20Tempest%20%282516%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/The%20Tempest%20%282516%29/The%20Tempest%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="108 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Shipwreck" />
+    <category term="victims" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Fathers" />
+    <category term="and" />
+    <category term="daughters" />
+    <category term="Magicians" />
+    <category term="Political" />
+    <category term="refugees" />
+    <category term="Islands" />
+    <category term="Spirits" />
+    <category term="Tragicomedy" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2516.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Tragedy of King Lear</title>
+    <id>calibre:book:2517</id>
+    <updated>2024-09-09T10:34:47Z</updated>
+    <link href="../../William%20Shakespeare/The%20Tragedy%20of%20King%20Lear%20%282517%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/The%20Tragedy%20of%20King%20Lear%20%282517%29/The%20Tragedy%20of%20King%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="153 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Tragedies" />
+    <category term="Fathers" />
+    <category term="and" />
+    <category term="daughters" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Inheritance" />
+    <category term="succession" />
+    <category term="Lear" />
+    <category term="King" />
+    <category term="(Legendary" />
+    <category term="character)" />
+    <category term="Britons" />
+    <category term="Kings" />
+    <category term="rulers" />
+    <category term="Aging" />
+    <category term="parents" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2517.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Tragical History of Doctor Faustus</title>
+    <id>calibre:book:2515</id>
+    <updated>2024-09-09T10:34:47Z</updated>
+    <link href="../../Christopher%20Marlowe/The%20Tragical%20History%20of%20Doctor%20Faus%20%282515%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Christopher%20Marlowe/The%20Tragical%20History%20of%20Doctor%20Faus%20%282515%29/The%20Tragical%20History%20of%20Doctor%20-%20Christopher%20Marlowe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="86 KB" />
+    <author>
+      <name>Christopher Marlowe</name>
+      <uri>../authors_1/authors_1667_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Germany" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Tragedies" />
+    <category term="Faust" />
+    <category term="-approximately" />
+    <category term="1540" />
+    <category term="Magicians" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2515.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los títeres de cachiporra</title>
+    <id>calibre:book:2147</id>
+    <updated>2024-09-06T02:21:23Z</updated>
+    <link href="../../Federico%20Garcia%20Lorca/Los%20titeres%20de%20cachiporra%20%282147%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Federico%20Garcia%20Lorca/Los%20titeres%20de%20cachiporra%20%282147%29/Los%20titeres%20de%20cachiporra%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="85 KB" />
+    <author>
+      <name>Federico García Lorca</name>
+      <uri>../authors_0/authors_85_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [6]:</summary>
+    <link href="../book_2/book_2147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tres Comedias Modernas / en un acto y en prosa</title>
+    <id>calibre:book:2111</id>
+    <updated>2024-09-06T02:21:17Z</updated>
+    <link href="../../Mariano%20Barranco/Tres%20Comedias%20Modernas%20_%20en%20un%20acto%20%282111%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mariano%20Barranco/Tres%20Comedias%20Modernas%20_%20en%20un%20acto%20%282111%29/Tres%20Comedias%20Modernas%20_%20en%20un%20-%20Mariano%20Barranco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="124 KB" />
+    <author>
+      <name>Mariano Barranco</name>
+      <uri>../authors_1/authors_1498_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Luis Cocat</name>
+      <uri>../authors_1/authors_1499_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Heliodoro Criado y Baca</name>
+      <uri>../authors_1/authors_1500_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Miguel Ramos Carrión</name>
+      <uri>../authors_1/authors_1501_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Comedies" />
+    <category term="Spanish" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2111.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vuelo nocturno</title>
+    <id>calibre:book:2361</id>
+    <updated>2024-09-09T10:34:15Z</updated>
+    <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282361%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antoine%20de%20Saint-Exupery/Vuelo%20nocturno%20%282361%29/Vuelo%20nocturno%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="110 KB" />
+    <author>
+      <name>Antoine de Saint-Exupéry</name>
+      <uri>../authors_0/authors_989_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aventuras" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [169]:</summary>
+    <link href="../book_2/book_2361.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tags_0/tags_57_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

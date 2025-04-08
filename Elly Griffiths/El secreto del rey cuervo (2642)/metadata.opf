@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2642</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b934f37-614d-4fe6-a5a8-8808d9b0d0a4</dc:identifier>
+        <dc:title>El secreto del rey cuervo</dc:title>
+        <dc:creator opf:file-as="Griffiths, Elly" opf:role="aut">Elly Griffiths</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-24T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;La arqueóloga forense &lt;span class="a-text-bold"&gt;Ruth Galloway&lt;/span&gt; está decidida a hacer justicia tras el asesinato de un amigo de la universidad.&lt;/p&gt;&lt;p&gt;Dan
+ Golding, un antiguo compañero de estudios de Ruth, muere en un incendio
+ provocado. Solo dos días después, ella recibe una carta en la que Dan 
+le explica que había hecho un asombroso descubrimiento arqueológico.&lt;/p&gt;&lt;p&gt;El
+ decano de la Universidad de Peddle, donde Dan daba clases, pide la 
+colaboración de Ruth. Ella, su hija Kate y Cathbad viajan a la zona de &lt;span class="a-text-bold"&gt;Blackpool&lt;/span&gt;, la tierra natal del inspector Harry Nelson.&lt;/p&gt;&lt;p&gt;Pronto,
+ Ruth se ve envuelta en un misterio que involucra a las brujas de 
+Pendle, al Rey Arturo y, lo que es más aterrador, a la madre de Nelson.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-21T14:01:16.933191+00:00"/>
+        <meta name="calibre:title_sort" content="secreto del rey cuervo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

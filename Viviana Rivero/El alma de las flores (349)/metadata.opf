@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">349</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f082fbe3-9fb2-4ad8-b386-f83cdc0114c5</dc:identifier>
+        <dc:title>El alma de las flores</dc:title>
+        <dc:creator opf:file-as="Rivero, Viviana" opf:role="aut">Viviana Rivero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;En
+ 1936 María Álvarez irrumpe en la vida de los Díaz Montero, herederos de
+ un emporio jamonero y enfrentados políticamente. La relación entre 
+ellos nunca se recuperará, tampoco el jardín de Encarnación, su madre, 
+en el que las plantas languidecen sin explicación: se debilitan las 
+rosas de Provenza, el narciso se desvanece... Lo que Encarnación no 
+imagina es que su agostado jardín  presagia  la tragedia que asolará a 
+su familia y a todo un país. Años después, Rafael Becerra, argentino en 
+crisis existencial, decide afincarse en  Madrid.  Atrás quedarán su 
+profesión, la mujer que alguna vez amó y su hijo.&lt;/p&gt;&lt;p&gt;Deberá
+ enfrentarse al desafío de emigrar a la tierra de su abuela María, quien
+ jamás hablaba de su vida en España. Ambos compartirán la lucha por 
+sobrevivir y la irrupción sanadora del  amor. Viviana Rivero vuelve a 
+demostrar que es una auténtica maestra para la creación de tramas 
+apasionantes y de personajes tan cercanos que se vuelven inolvidables.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Viviana Rivero&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-22T16:53:23.270912+00:00"/>
+        <meta name="calibre:title_sort" content="alma de las flores, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

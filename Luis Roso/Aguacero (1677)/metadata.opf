@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">748bb38f-d79f-4c0e-9e96-29211aad08a4</dc:identifier>
+        <dc:title>Aguacero</dc:title>
+        <dc:creator opf:file-as="Roso, Luis" opf:role="aut">Luis Roso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-23T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Varios crímenes atroces han conmocionado al pequeño pueblo de Las Angustias, en la sierra madrileña, y el gobierno de la nación decide enviar a un inspector de policía desde la capital para que colabore con la Guardia Civil y las autoridades locales en su resolución, ya que se teme que el asunto pueda complicarse y terminar afectando a la imagen de paz que desea transmitir el régimen de Franco. &lt;/p&gt;
+&lt;p&gt; Con la construcción de un pantano como telón de fondo, y la lluvia cayendo de modo inmisericorde, el inspector Ernesto Trevejo –acompañado de un joven guardia civil de nombre Aparecido, con el que formará una original pareja de investigación– se verá envuelto en una maraña de odios y secretos en la España rural de 1955. Y por más que intente evitarlo, no le quedará otra que mojarse si quiere averiguar lo que sucede.  &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01FXU0GFK</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788490694633</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-22T16:21:11.649813+00:00"/>
+        <meta name="calibre:title_sort" content="Aguacero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

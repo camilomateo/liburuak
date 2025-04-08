@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1850</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8a427f0-aced-4073-a418-e5b2f3f75296</dc:identifier>
+        <dc:title>Los ingratos</dc:title>
+        <dc:creator opf:file-as="Simón, Pedro" opf:role="aut">Pedro Simón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-22T20:50:59+00:00</dc:date>
+        <dc:description>&lt;p&gt;«Nos rezaban que cuatro esquinitas tenía mi cama y que cuatro angelitos nos la guardaban, pero mi cama por lo menos tenía cinco. Y uno de ellos era una señora de campo que pinchaba cuando te daba un beso».&lt;/p&gt;
+&lt;p&gt;1975. A un pueblo de esa España que empieza a vaciarse llega la nueva maestra con sus hijos. El más pequeño es David. La vida del niño consiste en ir a la era, desollarse las rodillas, asomarse a un pozo sin brocal y viajar cerrando los ojos en el ultramarinos. Hasta que llega una cuidadora a casa y sus vidas cambiarán para siempre. De Emérita, David aprenderá todo lo que hay que saber sobre las cicatrices del cuerpo y las heridas del alma. Gracias al chico, ella recuperará algo que creyó haber perdido hace mucho.&lt;br /&gt;Los ingratos es una emocionante novela sobre una generación que vivió en aquella España donde se viajaba sin cinturones de seguridad en un Simca y la comida no se tiraba porque no hacía tanto que se había pasado hambre. Un homenaje, entre la ternura y la culpa, a quienes nos acompañaron hasta aquí sin pedir nada a cambio.&lt;/p&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467062649</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:14:46.354005+00:00"/>
+        <meta name="calibre:title_sort" content="ingratos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

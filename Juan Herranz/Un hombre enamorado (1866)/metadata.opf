@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1866</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43abcd0b-6c63-4a62-abcb-c1fafb9c34e6</dc:identifier>
+        <dc:title>Un hombre enamorado</dc:title>
+        <dc:creator opf:file-as="Herranz, Juan" opf:role="aut">Juan Herranz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-27T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Pero ahora está enamorado y puede ser aún más peligroso e imprevisible.&lt;br&gt;Él es un asesino minucioso, porque así se sabe inalcanzable.&lt;br&gt;Y se emplea más a fondo para defender lo que ha aprendido a amar.&lt;br&gt;Aunque..., si sus asesinatos perfectos no dejan huella, quizás si deje rastro su amor.&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DFGZ8K34</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:39+00:00"/>
+        <meta name="calibre:title_sort" content="hombre enamorado, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

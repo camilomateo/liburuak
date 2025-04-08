@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2938</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba75f937-d122-47fc-824f-737848c2d1b5</dc:identifier>
+        <dc:title>La rebelión de Lucifer</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Las más insospechadas revelaciones sobre ese gran desconocido llamado Lucifer y su frustrado «sueño» de libertad… Junto a manifestaciones que le dejarán atónito, el libro se adentra, además, en el apasionante tema del fracasado plan cósmico de Adán y Eva y sus nefastas repercusiones para la civilización humana.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:25.893674+00:00"/>
+        <meta name="calibre:title_sort" content="rebelión de Lucifer, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

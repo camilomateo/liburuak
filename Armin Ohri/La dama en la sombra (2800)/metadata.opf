@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2800</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc0ffc88-a7d8-4692-ac6c-f13ac6b3607d</dc:identifier>
+        <dc:title>La dama en la sombra</dc:title>
+        <dc:creator opf:file-as="Öhri, Armin" opf:role="aut">Armin Öhri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-04T06:00:00+00:00</dc:date>
+        <dc:description>En plena guerra austro-prusiana, el detective aficionado Julius Bentheim y su joven amigo Albrecht Krosick intentan sobrevivir en el campo de batalla hasta que son reclutados por el comisario Gideon Horlitz. Unas valiosas joyas pertenecientes al Imperio del Antiguo Egipto han sido robadas por una astuta banda criminal. Las huellas de este robo los llevarán a Egipto, convertido en un tablero de ajedrez donde se juega una partida por el control del gobierno del país del Nilo, en el que las alhajas robadas pueden tener un valor incalculable. Secretos, intrigas, una conspiración política internacional… Todas las pistas parecen conducir a una misteriosa mujer, de modo que Julius y Albrecht tendrán que decidir si se trata de una aliada en las sombras o, por el contrario, de la mayor mente criminal a la que se hayan enfrentado en sus vidas.</dc:description>
+        <dc:publisher>Impedimenta</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002597</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">240</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-01-16T07:08:28.023504+00:00"/>
+        <meta name="calibre:title_sort" content="dama en la sombra, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

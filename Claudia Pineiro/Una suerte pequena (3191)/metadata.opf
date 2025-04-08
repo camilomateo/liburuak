@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3191</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d3a5974-5705-4765-acc1-371ff8f323c4</dc:identifier>
+        <dc:title>Una suerte pequeña</dc:title>
+        <dc:creator opf:file-as="Piñeiro, Claudia" opf:role="aut">Claudia Piñeiro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Después de veinte años, una mujer vuelve a Argentina, de donde se ha ido escapando de una desgracia porque no ha podido afrontar de otra manera su sentimiento de culpa y la condena social de un entorno pueblerino acostumbrado a juzgar y condenar. En las dos décadas pasadas en los Estados Unidos, esa mujer dañada ha reconstruido su vida, gracias al amor y al apoyo de un ser generoso, aunque la vieja herida sigue allí, bajo una fina capa de piel. De vuelta en el suburbio donde ha vivido, deberá enfrentarse con sus fantasmas y, cuando el pasado vuelva como un torrente, habrá llegado el momento no sólo de encontrarse con aquellos que formaron parte de su drama personal sino con su propia capacidad para convertir el presente en un futuro sanador.</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2025-03-23T19:31:40.612445+00:00"/>
+        <meta name="calibre:title_sort" content="suerte pequeña, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

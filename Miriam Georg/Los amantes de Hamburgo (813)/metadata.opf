@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">813</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7852ca25-00bc-4656-997f-bb3541188188</dc:identifier>
+        <dc:title>Los amantes de Hamburgo</dc:title>
+        <dc:creator opf:file-as="Georg, Miriam" opf:role="aut">Miriam Georg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El fascinante desenlace de Una estrella sobre el rio Elba sobre la apasionante historia de una mujer que renunciará a todo por amor. Lily ha vivido en Liverpool tres años, donde ha dado a luz a su hija Hanna, alejada de la sociedad de Hamburgo. Sin embargo, todos y cada uno de los días ha pensado en Jo, su gran amor. Durante esos tres años Jo inmerso en la lucha obrera, quiere vengarse de Ludwig, el hombre de negocios más poderoso de Hamburgo y responsable de arrebatarle lo que más amaba: Lily. Lily regresa a Hamburgo mientras la naviera familiar de los Karsten atraviesa dificultades económicas y su gran competencia, Ludwig Oolkert, ansía hacerse con las riendas. El ambiente en el puerto es desolador debido a la miseria. Lily no puede aplacarse, su corazón late con fuerza para que algún día Jo conozca a su hija. «Un maravilloso viaje en el tiempo con drama y corazón.» Für Sie «Una novela luminosa.» Hamburger Abendblatt&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467070378</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Ye-6EAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-06T06:14:12.340377+00:00"/>
+        <meta name="calibre:title_sort" content="amantes de Hamburgo, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

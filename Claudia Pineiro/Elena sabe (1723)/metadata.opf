@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1723</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea1f0851-8826-4880-aca5-69eeab571b65</dc:identifier>
+        <dc:title>Elena sabe</dc:title>
+        <dc:creator opf:file-as="Piñeiro, Claudia" opf:role="aut">Claudia Piñeiro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un relato que rompe el silencio y se pronuncia en alta voz sobre la libertad de elegir. Poco después de que Rita aparece muerta en la iglesia que suele frecuentar, la investigación se da por cerrada, y su madre es la única que no renuncia a esclarecer el crimen. Pero jaqueada por la enfermedad, es también la menos indicada para encabezar la búsqueda del asesino. Un penoso viaje de los suburbios a la Capital, una vieja deuda de gratitud, una conversación reveladora. Una novela que desnuda los secretos de sus personajes y las facetas ocultas del autoritarismo y la hipocresía que conforman nuestra sociedad. Elena sabe ganó en Alemania el certamen LiBeraturpreis 2010, que premia a la mejor novela escrita por una mujer.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789877380958</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Qw4PCgAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-08T14:59:22.800819+00:00"/>
+        <meta name="calibre:title_sort" content="Elena sabe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

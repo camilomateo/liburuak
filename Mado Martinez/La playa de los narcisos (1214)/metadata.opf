@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1214</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6798da8b-cd12-421f-a974-463360e64c3a</dc:identifier>
+        <dc:title>La playa de los narcisos</dc:title>
+        <dc:creator opf:file-as="Martínez, Mado" opf:role="aut">Mado Martínez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Lena, con antecedentes paranoides, se topa con el cuerpo sin vida de una mujer en la playa, una figura que hasta ahora creía que era producto de sus alucinaciones. A pesar de su descubrimiento, decide mantenerlo en secreto por miedo a ser recluida nuevamente en una institución psiquiátrica. Mientras tanto, la inspectora Muñoz se embarca en la tarea de descifrar la identidad de la víctima. A medida que las pruebas apuntan a un asesinato, se encuentra inmersa en un laberinto de relaciones retorcidas que parecen reflejar su propia vida, aunque su obsesión consigo misma le impide reconocerlo. La playa de los narcisos es una reinterpretación contemporánea del mito griego de Narciso, explorando la personalidad del narcisista psicópata a través de un emocionante thriller ambientado en el Mediterráneo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Algaida Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-20T12:04:10.891301+00:00"/>
+        <meta name="calibre:title_sort" content="playa de los narcisos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

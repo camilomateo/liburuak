@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1222</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32299c72-d73a-4803-90e2-a907021f5f14</dc:identifier>
+        <dc:title>El balcón del olvido</dc:title>
+        <dc:creator opf:file-as="Moneo, Esteban" opf:role="aut">Esteban Moneo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Basado en un hecho real en la ciudad de Madrid.&lt;br&gt;La familia 
+Rivera tenía marcado en rojo una fecha en el calendario, su única hija 
+alcanzaba la mayoría de edad. Lo que ninguno de ellos sabía es que aquel
+ cumpleaños cambiaría sus vidas para siempre.&lt;br&gt;El regalo de su padre, 
+una vieja lata de metal oxidada y descolorida repleta de recuerdos, 
+fotos familiares de niña junto a su abuela y un paquete de cartas 
+amarillentas, desatarán los demonios que habían gravitado sobre la 
+familia durante años.&lt;br&gt;La soledad, la necesidad de rehacer la vida 
+ante la adversidad, encontrarse a uno mismo o la incapacidad de 
+gestionar los conflictos familiares son temas que recorren estas páginas
+ a través de unos personajes que entrelazan sus vidas hasta llegar a un 
+balcón en cuya maleza se pierden el olvido, la verdad y los 
+sentimientos.&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Fanes</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-20T15:09:06+00:00"/>
+        <meta name="calibre:title_sort" content="El balcón del olvido"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

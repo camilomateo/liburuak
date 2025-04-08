@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">633</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42d19459-c56c-4c03-a576-fd8a3f9faafd</dc:identifier>
+        <dc:title>Error de cálculo</dc:title>
+        <dc:creator opf:file-as="Engberg, Katrine" opf:role="aut">Katrine Engberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-09T22:00:00+00:00</dc:date>
+        <dc:description>Los inspectores Jeppe Kørner y Anette Werner buscan a un adolescente desaparecido y descubren que la red de mentiras que amenaza su vida puede impedir que lo encuentren.Oscar desaparece un soleado día de abril. Al principio todos piensan que se ha escapado de casa para llamar la atención. Sin embargo, la policía no puede ignorar las señales que apuntan a algo más inquietante. Sus padres, los conocidos y adinerados propietarios de una casa de subastas, habían recibido amenazas en el pasado. ¿Se lo han llevado en contra de su voluntad? Al principio solo cuentan con una pista para averiguar dónde está: la cita ambigua de una novela. Pero un espeluznante hallazgo confirma que la vida de Oscar corre peligro. Jeppe y Anette se unen una vez más a la escritora Esther de Laurenti para descubrir la verdad de un misterioso caso de secuestro con implicaciones inesperadas.</dc:description>
+        <dc:publisher>Maeva Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419110657</dc:identifier>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Katrine Engberg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42.834025+00:00"/>
+        <meta name="calibre:title_sort" content="Error de cálculo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

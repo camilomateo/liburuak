@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8fed09b-a63f-40f2-8a37-49337f0afc45</dc:identifier>
+        <dc:title>El poder de los hábitos</dc:title>
+        <dc:creator opf:file-as="Duhigg, Charles" opf:role="aut">Charles Duhigg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-26T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="text-align:center"&gt;&lt;b&gt;El superventas que permaneció tres años seguidos en la lista de más vendidos de &lt;i&gt;The New York Times.&lt;/i&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;En &lt;i&gt;&lt;b&gt;El poder de los hábitos&lt;/b&gt;&lt;/i&gt;, el premiado periodista Charles  Duhigg nos lleva al límite de los descubrimientos científicos que  explican por qué existen los hábitos, cómo nos condicionan y cómo  cambiarlos. Combinando información exhaustiva con descripciones  fascinantes, Duhigg presenta una manera completamente nueva de entender la naturaleza humana y su potencial.&lt;/p&gt; &lt;p&gt;En esencia, &lt;i&gt;El poder de los hábitos&lt;/i&gt; contiene un mensaje estimulante: &lt;b&gt;la clave para hacer ejercicio con regularidad, perder  peso, ser más productivo y conseguir el éxito consiste en entender el modo en que funcionan los hábitos.&lt;/b&gt; Como demuestra Duhigg, si somos  capaces de sacar partido a este nuevo método, conseguiremos transformar nuestra vida laboral, social y personal.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VERGARA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:13.805226+00:00"/>
+        <meta name="calibre:title_sort" content="poder de los hábitos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca4de1a5-a1a1-481c-a0bd-818a62aa62ac</dc:identifier>
+        <dc:title>Ayer</dc:title>
+        <dc:creator opf:file-as="Emar, Juan" opf:role="aut">Juan Emar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-27T08:17:51+00:00</dc:date>
+        <dc:description>&lt;div&gt;En San Agustín de Tango el peligro, el delirio o la Verdad acechan
+ a la vuelta de la esquina. A lo largo del día —el día de ayer— que 
+abarca esta novela, el protagonista y su querida esposa asisten a la 
+decapitación de un hombre por predicar los placeres intelectuales del 
+sexo, se unen al canto celestial de un coro de cinocéfalos, presencian 
+la ingesta de un león por parte de un avestruz, visitan el taller de un 
+artista obsesionado con el color verde y se embarcan en un sinfín de 
+disquisiciones filosóficas. Todo ello conforma un prodigioso peregrinaje
+ urbano, una vuelta al día en pos de una revelación que se insinúa y 
+nunca acaba de llegar. Porque en la literatura cuántica de Juan Emar el 
+tiempo y el espacio van siempre un paso por delante del sujeto que los 
+observa.&lt;br&gt;&lt;br&gt;Ayer, publicada originalmente en Chile en 1935, y que en
+ esta edición viene acompañada de un prólogo de Alejandro Zambra, es una
+ de las novelas más singulares escritas en español en el siglo xx, un 
+derroche de humor e inteligencia en el que el espíritu vanguardista se 
+alía felizmente con una irrefrenable pulsión narrativa para dar cuenta 
+del absurdo metafísico y cotidiano de la existencia.&lt;/div&gt;</dc:description>
+        <dc:publisher>Gatopardo Ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:08.324637+00:00"/>
+        <meta name="calibre:title_sort" content="Ayer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

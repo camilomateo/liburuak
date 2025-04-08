@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">390</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">615f23b5-1f15-437b-b341-3de9b2d0167a</dc:identifier>
+        <dc:title>Los multimillonarios del bitcoin</dc:title>
+        <dc:creator opf:file-as="Mezrich, Ben" opf:role="aut">Ben Mezrich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-01T11:09:33+00:00</dc:date>
+        <dc:description>&lt;p&gt;Los hermanos Tyler y Cameron Winklevoss son gemelos, estudiantes de Harvard, remeros olímpicos, perfectos representantes del establishment estadounidense y archienemigos de Mark Zuckerberg, quien consideran que les robó la idea de Facebook y a quien se enfrentaron en una épica batalla legal de la que salieron vencedores.&lt;br /&gt;&lt;br /&gt; Tras el juicio pensaron dedicarse al capital riesgo, ﬁnanciando y ayudando a crecer a startups, pero nadie quiso su dinero después del enfrentamiento con el creador de Facebook. Mientras pensaban en qué iban a invertir la indemnización que les había tenido que pagar Zuckerberg, viajaron a Ibiza, donde se toparon por accidente con un personaje excéntrico que les habló de las criptomonedas. Como cuenta magistralmente este libro con una narración endiablada y cargada de suspense, los Winklevoss pensaron que aquello podía ser o bien la siguiente maravilla tecnológica o bien un engaño colosal. Para solventar esa duda sólo había una opción: hacer una apuesta.&lt;br /&gt;&lt;br /&gt; Ben Mezrich describe el apasionante mundo de las startups y el ambiente en ocasiones siniestro de las criptomonedas, y disecciona las venganzas, redenciones y el triunfo de estos dos personajes singulares, iluminando uno de los rincones más atractivos del nuevo mundo tecnológico y económico.&lt;/p&gt;</dc:description>
+        <dc:publisher>Alienta Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ben Mezrich&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-04T13:11:47.582138+00:00"/>
+        <meta name="calibre:title_sort" content="multimillonarios del bitcoin, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

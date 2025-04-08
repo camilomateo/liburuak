@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3dd6a876-fa64-4b55-b7fc-747d27f2716f</dc:identifier>
+        <dc:title>Erec y Enide</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-03-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;En los días previos a la Navidad, el profesor emérito Julio Matasanz, especialista en literatura medieval, viaja a Galicia para recibir un homenaje internacional. El acto se celebra en la isla de San Simón, ría de Vigo, sucesivamente fortín de caballeros templarios, lazareto, caserna, cárcel para republicanos durante y después de la guerra civil y ahora centro cultural. La última lección de Matasanz versa sobre &lt;cite&gt;Erec y Enide&lt;/cite&gt;, primera novela del ciclo artúrico de Chrétien de Troyes, detonante para que el viejo profesor haga una reflexión crepuscular y pesimista sobre el sentido último de la vida: el amor y la muerte. Paralelamente, y en los mismos días, su esposa Madrona, de la alta burguesía barcelonesa, prepara la Navidad con la ilusión de reunir a toda la familia y supera conflictos sentimentales y familiares, decidida a que la fiesta dé sentido a su vida y al nombre de su residencia: La Alegría de la Corte. Para ese final feliz necesita que vuelvan su ahijado Pedro y su compañera Myriam, voluntarios de &lt;abbr&gt;ONG&lt;/abbr&gt; que a fines del 2001 están viviendo en Centroamérica las mismas peripecias que Erec y Enide en tiempos de Arturo de Bretaña.&lt;/p&gt;&lt;p&gt;Manuel Vázquez Montalbán manifiesta una vez más su gran talento narrativo con una novela en la que analiza tres soledades esenciales combatidas a veces con la generosidad de Madrona, otras con el ensimismamiento de Julio o el sentimiento solidario de Pedro y Myriam. Como en casi toda la obra de Vázquez Montalbán, vida y cultura no siempre se compaginan, y en este caso, como en la leyenda artúrica que da título al libro, propone la necesidad de construir las relaciones, de alimentarlas día tras día para que los avatares de la existencia no acaben por destruir el amor.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">69701</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:16+00:00"/>
+        <meta name="calibre:title_sort" content="Erec y Enide"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

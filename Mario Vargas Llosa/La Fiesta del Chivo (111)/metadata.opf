@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6173f552-3223-41d5-8b72-62da4a15cafe</dc:identifier>
+        <dc:title>La Fiesta del Chivo</dc:title>
+        <dc:creator opf:file-as="Llosa, Mario Vargas" opf:role="aut">Mario Vargas Llosa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-17T05:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;Vargas Llosa, Premio Nobel de Literatura y Príncipe de Asturias de las Letras, relata el fin de una era dando voz al impecable e implacable general Trujillo, apodado el Chivo, y al sosegado y hábil doctor Balaguer (sempiterno presidente de la República Dominicana).&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;Uno de los mejores libros en español de los últimos 25 años según &lt;/B&gt;&lt;I&gt;&lt;B&gt;Babelia.&lt;/B&gt;&lt;/I&gt;&lt;/P&gt; &lt;P&gt;¿Por qué regresa Urania Cabral a la isla que juró no volver a pisar?&lt;BR&gt;¿Por qué sigue vacía y llena de miedo desde los catorce años?&lt;BR&gt;¿Por qué no ha tenido un solo amor?&lt;/P&gt; &lt;P&gt;En&lt;I&gt; La Fiesta del Chivo&lt;/I&gt; (2000) asistimos a un doble retorno. Mientras Urania visita a su padre en Santo Domingo, volvemos a 1961, cuando la capital dominicana aún se llamaba Ciudad Trujillo. Allí un hombre que no suda tiraniza a tres millones de personas sin saber que se gesta una maquiavélica transición a la democracia.&lt;/P&gt; &lt;P&gt;Con un ritmo y una precisión difícilmente superables, este peruano universal muestra...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420499437</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mario Vargas Llosa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:26.889789+00:00"/>
+        <meta name="calibre:title_sort" content="Fiesta del Chivo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

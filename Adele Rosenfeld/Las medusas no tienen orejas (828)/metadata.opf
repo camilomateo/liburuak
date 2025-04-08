@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">828</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e523255d-6793-4a11-b844-02441114a097</dc:identifier>
+        <dc:title>Las medusas no tienen orejas</dc:title>
+        <dc:creator opf:file-as="Rosenfeld, Adèle" opf:role="aut">Adèle Rosenfeld</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Las cosas más importantes de la vida tienen su propia voz. Solo debes aprender a escucharlas con el corazón. «Una pequeña perla que merece ser recolectada. Por la temática y el tono, por su ambición literaria.» Le Figaro «Una inmersión luminosa en el mundo de las personas con discapacidad auditiva.» L'Express «La fuerza de este libro es su hábil mezcla de testimonio y poesía.» The Times Literary Supplement Louise tiene veinticinco años y aunque es parcialmente sorda hasta ahora ha conseguido construir su vida y maniobrar con esa incapacidad invisible, en gran parte gracias a su poética relación con el mundo:cuando se enfrenta a algún malentendido por su sordera acuden a su mente varios personajes, desde un soldado de la Primera Guerra Mundial a una excéntrica botánica, que la acompañan y ayudan a hacer frente a una realidad cada vez más complicada. Su último diagnóstico es claro: ha perdido aún más audición de lo esperado y la única posibilidad es que se opere para llevar un implante pero esta decisión no es tan simple como pudiera parecer; el resultado es irreversible y si bien volvería a oír con claridad, implica perder su audición natural y oír todas las voces con un mismo tono metálico. ¿Será capaz de renunciar a reconocer la ironía, o la voz de su madre, y de entrar en un nuevo mundo sin matices?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Se-6EAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788432242267</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-06T08:53:48.381780+00:00"/>
+        <meta name="calibre:title_sort" content="medusas no tienen orejas, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

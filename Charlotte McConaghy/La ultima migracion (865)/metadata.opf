@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">865</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a77c94da-2025-4d16-99ab-262692ebf727</dc:identifier>
+        <dc:title>La última migración</dc:title>
+        <dc:creator opf:file-as="McConaghy, Charlotte" opf:role="aut">Charlotte McConaghy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-07T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mejor libro del año según la revista TIME, más de 175.000 ejemplares vendidos. Una adictiva ficción distópica Franny Stone es el tipo de mujer incapaz de comprometerse. Sin embargo, cuando la naturaleza que adora comienza a desaparecer, no puede seguir por el mundo sin un destino. Dejando todo atrás, llega a Groenlandia para seguir a los últimos charranes árticos del mundo en su migración finalhacia la Antártida. Convence a Ennis Malone, capitán del Saghani, de que la acepte a bordo con la promesa de que las aves los llevarán a un sitio de pesca. Pero a medida que la historia de Franny comienza a desvelarse -una apasionada relación amorosa, una familia ausente y un crimen devastador-, queda claro que está persiguiendo algo más. La última migración es una novela fascinante sobre la capacidad de perdonarse, la resiliencia y la posibilidad de esperanza ante un mundo al borde del colapso. La crítica ha dicho:«Visceral e inquietante [...]. Una obra de ficción climática de primera categoría».The New York Times Book Review «Emocionante.... Al comprender cómo la naturaleza puede curarnos, McConaghy subraya por qué es urgente protegerla».TIME «Un libro doloroso y conmovedor, que resulta muy oportuno [...]. Sobre el amor, sobre tratar de entender y aceptar la criatura que existe dentro de nosotros mismos, y lo que significa ser un animal humano, para que podamos adaptar mejor nuestra propia naturaleza salvaje dentro del mundo».The Guardian «Una epopeya tentadoramente bella».Elle «Un fascinante híbrido de escritura sobre la naturaleza y ficción distópica, [...] Apasionante. [...] Al fusionar ficción climática y escritura sobre la naturaleza, la novela demuestra poderosamente los costes espirituales y emocionales de la destrucción del medio ambiente».The Economist&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419346087</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-gq6EAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-19T15:31:17.056590+00:00"/>
+        <meta name="calibre:title_sort" content="última migración, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

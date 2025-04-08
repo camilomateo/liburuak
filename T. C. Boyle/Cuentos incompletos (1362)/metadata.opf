@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1362</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d47b1ed-113c-402c-a1fd-4f3d8639be22</dc:identifier>
+        <dc:title>Cuentos incompletos</dc:title>
+        <dc:creator opf:file-as="T. C. Boyle" opf:role="aut">T. C. Boyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-30T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un chef atormentado por una crítica gastronómica, un asalto nocturno a una granja de pavos, una casa llena de ardillas lisiadas, un joven que sale de fiesta con Jane Austen. Esta colección reúne todo lo que, a lo largo de muchas décadas, ha pasado por la mente caótica, imprevisible y absolutamente brillante de T. C. Boyle. Estamos ante uno de los grandes maestros contemporáneos de la narrativa estadounidense, insuperable a la hora de tejer situaciones disparatadas y situar a sus personajes al límite de la cordura. Cada cuento nos ofrece un colorido desfile de criaturas maniáticas, excéntricas, frustradas, egoístas y, a fin de cuentas, tan humanas como cualquiera de nosotros. A través de una sátira fresca y desvergonzada, Boyle retrata con certera acidez una sociedad que solo se puede explicar a través del sinsentido.&lt;/p&gt;
+&lt;p&gt;La colección de relatos definitiva de un maestro de las distancias cortas: un clásico moderno desternillante que consagra a T. C. Boyle como uno de los grandes narradores estadounidenses de nuestra era.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Impedimenta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419581570</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:29:59.780086+00:00"/>
+        <meta name="calibre:title_sort" content="Cuentos incompletos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

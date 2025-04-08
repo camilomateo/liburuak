@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1052</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60f1e34f-9a18-4922-a9f4-9de8f58dd174</dc:identifier>
+        <dc:title>Palabras malditas</dc:title>
+        <dc:creator opf:file-as="Miguel Conde-Lubano" opf:role="aut">Miguel Conde-Lobato</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;b&gt;Con su inconfundible marca de ritmo frenético y originalidad, Miguel Conde-Lobato ambienta esta novela en su Galicia natal, dotando el pueblo imaginario de Estela de los encantos de la región y de las pesadillas de aquellos lugares pequeños en los que todos confían -quizá demasiado- en los demás. Hasta que dejan de hacerlo&lt;/b&gt;.&lt;/p&gt;
+ &lt;p&gt;&lt;b&gt;UN PUEBLO COSTERO DE GALICIA&lt;/b&gt;&lt;br /&gt;&lt;b&gt;UN ASESINO VIOLENTO Y SIN ESCRÚPULOS&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;b&gt;¿PUEDE EL MIEDO MARCARTE PARA SIEMPRE?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Estela siempre ha sido una localidad próspera y tranquila, tan llena de prejuicios como de viento y niebla. Sus habitantes, acostumbrados a vivir de espaldas a los problemas del mundo, nunca pensaron que llegaría una tragedia que oscurecería aquel lugar más que su habitual clima.&lt;/p&gt;
+ &lt;p&gt;La sombra cae sobre Estela el día que hallan la cabeza de una joven con un extraño tatuaje en la frente. Cuando aparecen nuevas víctimas, la pequeña ciudad se estremece ante la idea de que uno de sus vecinos quizá sea un asesino en serie.&lt;/p&gt;
+ &lt;p&gt;Edén lleva un tiempo suspendida de su puesto como policía judicial de la Guardia Civil, cuando recibe una llamada. Ahora la necesitan, y rápido. En una sociedad obsesionada con la belleza y la imagen, solo ella es capaz de observar muy de cerca a las personas y descubrir la verdad de los demás, su bondad esencial o la profundidad de su maldad, aunque para ello tenga que mirar al peligroso y aterrador abismo de lo humano.&lt;/p&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466677462</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-11-01T18:27:31.980731+00:00"/>
+        <meta name="calibre:title_sort" content="Palabras malditas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Intriga</title>
+  <id>Calibre2opds:taglist:I:2</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Intriga" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por I" />
+  <link href="../tags_0/tags_2_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 3)" />
+  <entry>
+    <title>El aprendiz</title>
+    <id>calibre:book:2588</id>
+    <updated>2024-09-12T03:39:19Z</updated>
+    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/El%20aprendiz%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="279 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2016-09-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="El profesor" />
+    <summary>El profesor [2]: Han pasado diez años desde que León abandonó Varsovia, pero ha llegado el momento de volver. Sin embargo, Europa ha cambiado: una revolución calienta las calles y el español caerá atrapado en ella sin desearlo.</summary>
+    <link href="../book_2/book_2588.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La asistenta</title>
+    <id>calibre:book:2665</id>
+    <updated>2024-10-22T00:28:26Z</updated>
+    <link href="../../Freida%20McFadden/La%20asistenta%20%282665%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Freida%20McFadden/La%20asistenta%20%282665%29/La%20asistenta%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="435 KB" />
+    <author>
+      <name>Freida McFadden</name>
+      <uri>../authors_1/authors_1108_Page_1.xml</uri>
+    </author>
+    <published>2022-04-21T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="La asistenta" />
+    <summary>La asistenta [1]: Detrás de la puerta, ella lo ve todo.Todos los días friego la preciosa casa de los Winchester de arriba abajo. Recojo a su hija del colegio y preparo deliciosas comidas para toda la familia antes de subir a cenar sola en mi minúscul...</summary>
+    <link href="../book_2/book_2665.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las aventuras de Sherlock Holmes</title>
+    <id>calibre:book:2331</id>
+    <updated>2024-09-09T10:34:09Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/Las%20aventuras%20de%20Sherlock%20Holmes%20%282331%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/Las%20aventuras%20de%20Sherlock%20Holmes%20%282331%29/Las%20aventuras%20de%20Sherlock%20Holme%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="301 KB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Intriga" />
+    <category term="Policíaco" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [117]:</summary>
+    <link href="../book_2/book_2331.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El bosque de los cuatro vientos</title>
+    <id>calibre:book:92</id>
+    <updated>2023-01-18T00:09:28Z</updated>
+    <link href="../../Maria%20Oruna/El%20bosque%20de%20los%20cuatro%20vientos%20%2892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Oruna/El%20bosque%20de%20los%20cuatro%20vientos%20%2892%29/El%20bosque%20de%20los%20cuatro%20vientos%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <author>
+      <name>María Oruña</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2020-08-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>A comienzos del siglo XIX, el doctor Vallejo viaja de Valladolid a Galicia junto con su hija Marina para servir como médico en un poderoso monasterio de Ourense. Allí descubrirán unas costumbres muy particulares y vivirán la caída de la Iglesia. Mari...</summary>
+    <link href="../book_0/book_92.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El brillo de las luciérnagas</title>
+    <id>calibre:book:1300</id>
+    <updated>2024-03-15T09:05:12Z</updated>
+    <link href="../../Paul%20Pen/El%20brillo%20de%20las%20luciernagas%20%281300%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paul%20Pen/El%20brillo%20de%20las%20luciernagas%20%281300%29/El%20brillo%20de%20las%20luciernagas%20-%20Paul%20Pen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="671 KB" />
+    <author>
+      <name>Paul Pen</name>
+      <uri>../authors_0/authors_944_Page_1.xml</uri>
+    </author>
+    <published>2013-05-09T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Tengo diez años y llevo toda mi vida dentro de este sótano. Vivo en la oscuridad con mis padres, mi abuela, mi hermana y mi hermano. Todos están desfigurados por el fuego. Mi hermana lleva una máscara blanca para tapar sus quemaduras, porque papá dic...</summary>
+    <link href="../book_1/book_1300.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Café hasta la muerte</title>
+    <id>calibre:book:2751</id>
+    <updated>2024-12-18T05:52:22Z</updated>
+    <link href="../../Cleo%20Coyle/Cafe%20hasta%20la%20muerte%20%282751%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cleo%20Coyle/Cafe%20hasta%20la%20muerte%20%282751%29/Cafe%20hasta%20la%20muerte%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Cleo Coyle</name>
+      <uri>../authors_1/authors_1800_Page_1.xml</uri>
+    </author>
+    <published>2024-03-06T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Alma</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>El Village Blend, la famosa cafetería de Hudson, en Nueva York, va viento en popa y Clare Cosi, su encargada, no puede estar más feliz. No sabe que alguien que acecha en las sombras está siguiendo a algunas de sus clientas y acabando con sus vidas. E...</summary>
+    <link href="../book_2/book_2751.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un capuchino mortal</title>
+    <id>calibre:book:2752</id>
+    <updated>2024-12-18T05:52:22Z</updated>
+    <link href="../../Cleo%20Coyle/Un%20capuchino%20mortal%20%282752%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cleo%20Coyle/Un%20capuchino%20mortal%20%282752%29/Un%20capuchino%20mortal%20-%20Cleo%20Coyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Cleo Coyle</name>
+      <uri>../authors_1/authors_1800_Page_1.xml</uri>
+    </author>
+    <published>2023-09-22T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>13insurgentes</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Coffee Lovers Club" />
+    <summary>Coffee Lovers Club [1]: Clare Cosi es la encargada de la histórica cafetería Village Blend de Nueva York. Vive feliz junto a su gata Cafelito en un apartamento justo encima de la cafetería. Pero todo da un giro inesperado cuando descubre en la trasti...</summary>
+    <link href="../book_2/book_2752.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La casa que acecha</title>
+    <id>calibre:book:2605</id>
+    <updated>2024-09-17T00:24:16Z</updated>
+    <link href="../../Mabel%20Seeley/La%20casa%20que%20acecha%20%282605%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mabel%20Seeley/La%20casa%20que%20acecha%20%282605%29/La%20casa%20que%20acecha%20-%20Mabel%20Seeley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="641 KB" />
+    <author>
+      <name>Mabel Seeley</name>
+      <uri>../authors_1/authors_1710_Page_1.xml</uri>
+    </author>
+    <published>1943-09-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Biblioteca de bolsillo. Serie naranja" />
+    <summary>Biblioteca de bolsillo. Serie naranja [70]: Gwynne Dacres, una mujer joven, despedida de su trabajo y sin mucha suerte, alquila un apartamento de dos habitaciones en la planta baja de una enorme casa de huéspedes, regentada por la señora Garr, un edi...</summary>
+    <link href="../book_2/book_2605.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El caso Rawson</title>
+    <id>calibre:book:1458</id>
+    <updated>2024-04-30T04:46:08Z</updated>
+    <link href="../../Roberto%20Villar/El%20caso%20Rawson%20%281458%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Roberto%20Villar/El%20caso%20Rawson%20%281458%29/El%20caso%20Rawson%20-%20Roberto%20Villar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="482 KB" />
+    <author>
+      <name>Roberto Villar</name>
+      <uri>../authors_1/authors_1065_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Miguel Villar</name>
+      <uri>../authors_1/authors_1066_Page_1.xml</uri>
+    </author>
+    <published>2024-01-15T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>13insurgentes</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Adrián Rawson, el mítico científico, empresario y director de un museo de los horrores cumple condena. ¿Tan aterrador es su crimen? Tal vez muera en la cárcel después de haber alcanzado el éxito profesional y la felicidad junto a Eva, su mujer. Pero,...</summary>
+    <link href="../book_1/book_1458.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cicatrices del desastre</title>
+    <id>calibre:book:568</id>
+    <updated>2023-04-23T10:13:44Z</updated>
+    <link href="../../Luis%20Bolivar%20Troya/Cicatrices%20del%20desastre%20%28568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20Bolivar%20Troya/Cicatrices%20del%20desastre%20%28568%29/Cicatrices%20del%20desastre%20-%20Luis%20Bolivar%20Troya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="961 KB" />
+    <author>
+      <name>Luis Bolívar Troya</name>
+      <uri>../authors_0/authors_421_Page_1.xml</uri>
+    </author>
+    <published>2022-02-11T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Carena</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Ernesto Delgado &amp; Carles Gil" />
+    <summary>Ernesto Delgado &amp; Carles Gil [1]: Reus, junio de 1939. Un capitán del ejército nacional es secuestrado mientras vuelve al campo de concentración situado en el manicomio de Reus. Su cadáver aparece días después salvajemente torturado. Ernesto Delgado,...</summary>
+    <link href="../book_0/book_568.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Código Chile</title>
+    <id>calibre:book:1823</id>
+    <updated>2024-08-28T00:55:05Z</updated>
+    <link href="../../Carlos%20Basso/Codigo%20Chile%20%281823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Basso/Codigo%20Chile%20%281823%29/Codigo%20Chile%20-%20Carlos%20Basso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <author>
+      <name>Carlos Basso</name>
+      <uri>../authors_1/authors_1304_Page_1.xml</uri>
+    </author>
+    <published>2015-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Carlos Basso construye una historia repleta de intrigas en una novela que incluye cruentos crímenes, misiones nazis, espías del Vaticano y un grupo secreto de ex agentes de la DINA de inspiración esotérica. El violento crimen simultáneo de unos ancia...</summary>
+    <link href="../book_1/book_1823.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Contrato con Dios</title>
+    <id>calibre:book:676</id>
+    <updated>2023-05-15T05:51:30Z</updated>
+    <link href="../../Juan%20Gomez-Jurado/Contrato%20con%20Dios%20%28676%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Gomez-Jurado/Contrato%20con%20Dios%20%28676%29/Contrato%20con%20Dios%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Juan Gómez-Jurado</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>2007-11-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Aventuras" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>La periodista Andrea Otero ha echado a perder su prometedora carrera al publicar un artículo contra el mayor anunciante de su periódico. Cuando la contacta un grupo de arqueólogos para cubrir su expedición a Jordania, no duda ni un instante: será una...</summary>
+    <link href="../book_0/book_676.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los crímenes del lago</title>
+    <id>calibre:book:957</id>
+    <updated>2023-08-01T05:26:08Z</updated>
+    <link href="../../Gemma%20Herrero%20Virto/Los%20crimenes%20del%20lago%20%28957%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gemma%20Herrero%20Virto/Los%20crimenes%20del%20lago%20%28957%29/Los%20crimenes%20del%20lago%20-%20Gemma%20Herrero%20Virto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Gemma Herrero Virto</name>
+      <uri>../authors_0/authors_233_Page_1.xml</uri>
+    </author>
+    <published>2017-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Policial" />
+    <category term="Intriga" />
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Durante el verano del año 2001 tres niños aparecen muertos en las aguas del lago Champlain, en Vermont. Eric, un niño de doce años, pierde a Anne Austen, la chica de la que está enamorado. Además, durante las noches, sus sueños se ven interrumpidos p...</summary>
+    <link href="../book_0/book_957.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando te falte el aire</title>
+    <id>calibre:book:563</id>
+    <updated>2023-04-17T01:30:22Z</updated>
+    <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/Cuando%20te%20falte%20el%20aire%20-%20Ursula%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+    <author>
+      <name>Úrsula Campos</name>
+      <uri>../authors_0/authors_417_Page_1.xml</uri>
+    </author>
+    <published>2023-04-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva Ediciones</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Larrea &amp; Lysander" />
+    <summary>Larrea &amp; Lysander [1]: Zaragoza, noviembre de 2018. Tras el asalto en plena noche al Instituto de Salud Pública, la policía descubre que han robado una serie de vacunas y han destrozado el despacho de Quina Larrea, jefa del Servicio de Epidemiología....</summary>
+    <link href="../book_0/book_563.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Despiértame cuando acabe septiembre</title>
+    <id>calibre:book:1585</id>
+    <updated>2024-06-02T10:59:54Z</updated>
+    <link href="../../Monica%20Rouanet/Despiertame%20cuando%20acabe%20septiembre%20%281585%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Monica%20Rouanet/Despiertame%20cuando%20acabe%20septiembre%20%281585%29/Despiertame%20cuando%20acabe%20septie%20-%20Monica%20Rouanet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="467 KB" />
+    <author>
+      <name>Mónica Rouanet</name>
+      <uri>../authors_1/authors_1154_Page_1.xml</uri>
+    </author>
+    <published>2019-04-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>El rastro de un joven español se esfuma por el sur de Inglaterra tras dejar un mensaje de socorro en el teléfono móvil de su madre. Ella, que apenas ha abandonado su pequeño pueblo en contadas ocasiones, decide ir en su busca. Hace un año, su marido ...</summary>
+    <link href="../book_1/book_1585.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Elemental querida lectora</title>
+    <id>calibre:book:1580</id>
+    <updated>2024-06-02T10:59:52Z</updated>
+    <link href="../../Vicki%20Delany/Elemental%20querida%20lectora%20%281580%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Vicki%20Delany/Elemental%20querida%20lectora%20%281580%29/Elemental%20querida%20lectora%20-%20Vicki%20Delany.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="410 KB" />
+    <author>
+      <name>Vicki Delany</name>
+      <uri>../authors_1/authors_1152_Page_1.xml</uri>
+    </author>
+    <published>2024-01-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Alma</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Misterios en la librería Sherlock Holmes" />
+    <summary>Misterios en la librería Sherlock Holmes [1]: Gemma Doyle regenta, junto a su gato Moriarty, la Sherlock Holmes Bookshop, una librería especializada en el famoso detective y ubicada en el número 222 de Baker Street de Cape Cod. Tras la visita de un g...</summary>
+    <link href="../book_1/book_1580.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El emblema del traidor</title>
+    <id>calibre:book:974</id>
+    <updated>2023-08-16T05:29:06Z</updated>
+    <link href="../../Juan%20Gomez-Jurado/El%20emblema%20del%20traidor%20%28974%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Gomez-Jurado/El%20emblema%20del%20traidor%20%28974%29/El%20emblema%20del%20traidor%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="551 KB" />
+    <author>
+      <name>Juan Gómez-Jurado</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>2008-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Estrecho de Gibraltar, 1940. En el epicentro de una tormenta, el capitán González rescata a un grupo de náufragos alemanes. Cuando cesa el temporal, el cabecilla le obsequia con un emblema de oro macizo. De la conversación con ellos, González no olvi...</summary>
+    <link href="../book_0/book_974.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El engaño</title>
+    <id>calibre:book:49</id>
+    <updated>2023-01-17T10:27:38Z</updated>
+    <link href="../../Charlotte%20Link/El%20engano%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlotte%20Link/El%20engano%20%2849%29/El%20engano%20-%20Charlotte%20Link.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="657 KB" />
+    <author>
+      <name>Charlotte Link</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>2015-09-02T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Para Kate Linville, solitaria policía de Scotland Yard, solo hay una persona en el mundo que merezca su amor y su confianza: el antiguo jefe de policía de Scarborough Richard Linville, su padre, a cuya sombra creció. Cuando este aparece brutalmente a...</summary>
+    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>En la mente del hipnotista</title>
+    <id>calibre:book:1779</id>
+    <updated>2024-08-26T10:56:14Z</updated>
+    <link href="../../Lars%20Kepler/En%20la%20mente%20del%20hipnotista%20%281779%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lars%20Kepler/En%20la%20mente%20del%20hipnotista%20%281779%29/En%20la%20mente%20del%20hipnotista%20-%20Lars%20Kepler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="608 KB" />
+    <author>
+      <name>Lars Kepler</name>
+      <uri>../authors_1/authors_1279_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Joona Linna" />
+    <summary>Joona Linna [5]: Un asesino en serie conmociona a la sociedad sueca: graba a sus víctimas instantes antes de matarlas y cuelga los vídeos en YouTube prácticamente en tiempo real. La policía es incapaz de reconocer a las futuras víctimas y se encuentr...</summary>
+    <link href="../book_1/book_1779.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Espía de Dios</title>
+    <id>calibre:book:522</id>
+    <updated>2023-04-05T00:40:06Z</updated>
+    <link href="../../Juan%20Gomez-Jurado/Espia%20de%20Dios%20%28522%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Gomez-Jurado/Espia%20de%20Dios%20%28522%29/Espia%20de%20Dios%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Juan Gómez-Jurado</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>2006-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Un centenar de cardenales acuden al Vaticano para asistir al Cónclave del que saldrá elegido el nuevo Papa. Pese a las infranqueables medidas de seguridad dos de ellos aparecen asesinados siguiendo un macabro ritual. La psiquiatra criminalista Paola ...</summary>
+    <link href="../book_0/book_522.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La estrella del diablo</title>
+    <id>calibre:book:1032</id>
+    <updated>2023-10-20T01:12:29Z</updated>
+    <link href="../../Jo%20Nesbo/La%20estrella%20del%20diablo%20%281032%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jo%20Nesbo/La%20estrella%20del%20diablo%20%281032%29/La%20estrella%20del%20diablo%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="548 KB" />
+    <author>
+      <name>Jo Nesbø</name>
+      <uri>../authors_0/authors_266_Page_1.xml</uri>
+    </author>
+    <published>2003-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Harry Hole" />
+    <summary>Harry Hole [5]: Es un verano excepcionalmente caluroso en Oslo. El cuerpo de una joven aparece en el suelo de su apartamento, en medio de un charco de sangre. Tiene amputado un dedo de la mano izquierda, y bajo un párpado le han colocado un pequeño d...</summary>
+    <link href="../book_1/book_1032.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Falcó</title>
+    <id>calibre:book:48</id>
+    <updated>2023-01-17T10:27:16Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/Falco%20%2848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/Falco%20%2848%29/Falco%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="594 KB" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2016-10-19T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros4</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Falcó" />
+    <summary>Falcó [1]: «El mundo de Falcó era otro, y allí los bandos estaban perfectamente definidos: de una parte él, y de la otra todos los demás».La Europa turbulenta de los años treinta y cuarenta del siglo XX es el escenario de las andanzas de Lorenzo Falc...</summary>
+    <link href="../book_0/book_48.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Falso testigo</title>
+    <id>calibre:book:779</id>
+    <updated>2023-05-25T01:33:00Z</updated>
+    <link href="../../Karin%20Slaughter/Falso%20testigo%20%28779%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Karin%20Slaughter/Falso%20testigo%20%28779%29/Falso%20testigo%20-%20Karin%20Slaughter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="566 KB" />
+    <author>
+      <name>Karin Slaughter</name>
+      <uri>../authors_0/authors_581_Page_1.xml</uri>
+    </author>
+    <published>2022-04-27T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Su pasado siempre la ha perseguido, ahora su pasado quiere darle caza. UNA VIDA ORDINARIA... Leigh Collier ha trabajado duro para construir una vida aparentemente normal. Es abogada defensora en un prestigioso bufete de abogados en Atlanta, haría cua...</summary>
+    <link href="../book_0/book_779.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El fantasma de la ópera</title>
+    <id>calibre:book:2296</id>
+    <updated>2024-09-09T10:34:02Z</updated>
+    <link href="../../Gaston%20Leroux/El%20fantasma%20de%20la%20opera%20%282296%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gaston%20Leroux/El%20fantasma%20de%20la%20opera%20%282296%29/El%20fantasma%20de%20la%20opera%20-%20Gaston%20Leroux.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="308 KB" />
+    <author>
+      <name>Gastón Leroux</name>
+      <uri>../authors_1/authors_1604_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Intriga" />
+    <category term="Clásico" />
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [24]:</summary>
+    <link href="../book_2/book_2296.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El faro del silencio</title>
+    <id>calibre:book:776</id>
+    <updated>2023-05-25T01:32:56Z</updated>
+    <link href="../../Ibon%20Martin/El%20faro%20del%20silencio%20%28776%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ibon%20Martin/El%20faro%20del%20silencio%20%28776%29/El%20faro%20del%20silencio%20-%20Ibon%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="502 KB" />
+    <author>
+      <name>Ibon Martín</name>
+      <uri>../authors_0/authors_13_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Travel Bug</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Los crímenes del faro" />
+    <summary>Los crímenes del faro [1]: Una tarde de otoño, la noche llama a las puertas de un remoto faro de la costa vasca, el cuerpo de una mujer aparece a los pies de la torre de luz. El asesino se ha llevado la grasa de su abdomen. Leire, la escritora bilbaí...</summary>
+    <link href="../book_0/book_776.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tags_0/tags_2_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (3 of 3)" />
+</feed>

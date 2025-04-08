@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1412</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51bfb855-4b3b-4ad9-9b24-982d11b8330f</dc:identifier>
+        <dc:title>La raíz del mal</dc:title>
+        <dc:creator opf:file-as="Nesser, Håkan" opf:role="aut">Håkan Nesser</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-01T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt; &lt;p align="justify"&gt;El segundo caso del inspector Barbarotti. Una verdad mal enterrada siempre encuentra la forma de ver la luz. Bretaña, 2002. Seis turistas suecos se conocen por casualidad durante el verano. Dos parejas y dos solteros con poco en común, pero el ambiente relajado propicia que pasen tiempo juntos bajo un sol abrasador. Cinco años más tarde, los protagonistas de esas felices vacaciones empiezan a ser asesinados uno a uno. Antes, sin embargo, el culpable ha avisado por carta al inspector Gunnar Barbarotti: ´Voy a matar a Erick Bergman´. El sagaz policía se hará cargo de un caso que lo llevará casi al límite. ¿Qué relación existe entre Gunnar y el asesino? Y, lo más importante, ¿qué pasó realmente en esa playa? Si quiere detener al culpable, Barbarotti, deberá darse prisa, la carrera contra reloj ha empezado y el asesino no tiene intención de dejar de escribirle sus cartas macabras.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">8423362205</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">61680529</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788423362202</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Inspector Barbarotti"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-04-08T15:23:24.100980+00:00"/>
+        <meta name="calibre:title_sort" content="raíz del mal, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

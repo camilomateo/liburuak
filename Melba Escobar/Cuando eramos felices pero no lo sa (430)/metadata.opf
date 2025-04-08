@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d29fefb-734d-4edc-8071-1f7de694a28f</dc:identifier>
+        <dc:title>Cuando éramos felices pero no lo sabíamos</dc:title>
+        <dc:creator opf:file-as="Escobar, Melba" opf:role="aut">Melba Escobar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Este es un libro importante y urgente. Es el testimonio de una escritora que quiso sobreponerse a seguir observando a su vecino desde una distancia cómoda y decidió implicarse. Es una mirada curiosa sobre ese país que comparte un destino de fuerzas, encuentros y desencuentros con Colombia. No es un tratado ideológico, ni una tesis política sobre las consecuencias de la Quinta República, instaurada por Hugo Chávez Frías, al ganar las elecciones de 1998, tras un golpe fallido en 1992. Es más bien un diálogo honesto con un puñado de personajes que su autora fue encontrando en cada uno de los viajes que hizo a Venezuela, entrando por diversos puntos geográficos como La Guajira o Cúcuta. Melba Escobar decidió realizar una serie de viajes entre 2019 y 2020 para entender, conocer y palpar una realidad que miles de colombianos han visto caminar casi impávidos por las calles de sus ciudades. La migración venezolana ha alcanzado una cifra enorme en los últimos cinco años y este libro se...</dc:description>
+        <dc:publisher>Seix Barral Colombia</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789584290915</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Melba Escobar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-14T15:53:29.571236+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando éramos felices pero no lo sabíamos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

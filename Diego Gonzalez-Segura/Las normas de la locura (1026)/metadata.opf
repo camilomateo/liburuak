@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1026</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c598ae9-9522-4be4-a696-5308fb77133e</dc:identifier>
+        <dc:title>Las normas de la locura</dc:title>
+        <dc:creator opf:file-as="Diego González-Segura" opf:role="aut">Diego González-Segura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-27T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una novela que afronta el estigma de la locura a través de un thriller apasionante Cuando la ley la dicta la normalidad, ¿cómo sobreviven aquellos que se rigen por las normas de la locura? Laura está en peligro: algo siniestro la acosa desde su pasado. Y no puede saber si existe o no porque su mente difumina los contornos de la realidad, invadida por alucinaciones constantes que la envuelven como la telaraña de uno de los monstruos de ocho patas que a menudo parecen acecharla. En compañía de Julián y Alejandro, dos pacientes de las mismas sesiones de terapia a las ella también asiste para tratar su patología, Laura luchará por escapar de ese peligro que cada vez se va haciendo más real. Con la crítica al concepto de normalidad como telón de fondo, Las normas de la locura es una red en donde la realidad, los sueños y las alucinaciones se entretejen en una estremecedora historia de venganza. «Laura dejó de sonreír y vio que un puñado de arañas tigre comenzaba a emerger de entre las cajas de tornillos del mostrador. Unas criaturas cubiertas de líneas negras, blancas y amarillas como las de los tigres. Atraían a sus presas con su vistoso colorido para l uego escupirles una pegajosa telaraña que las dejaba indefensas y listas para recibir lamortal picadura. Laura soltó un grito, dio un salto hacia atrás y enseguida miró al dependiente por si había notado su reacción. El muchacho frunció la nariz, se giró para re buscar en un cajón y le mostró a Laura un candado. Con llave. -Toma -dijo secamente. -Gracias... -murmuró Laura-. ¿Cuánto te debo? -Te lo regalo -respondió él sin mirarla. &lt;/p&gt;
+&lt;p&gt;Laura sabía qué significaba eso. Ella no había respetado las normas de la locura y lo estaba incomodando. Arrojó el candado al fondo del bolso, se giró murmurando un Gracias y salió de la ferretería a toda prisa».&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466676243</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5kDLEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-10-20T08:25:39.001792+00:00"/>
+        <meta name="calibre:title_sort" content="normas de la locura, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">866</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00f41850-289c-4706-a900-910b90a33c77</dc:identifier>
+        <dc:title>La reina de Nairobi</dc:title>
+        <dc:creator opf:file-as="Junco, Belén" opf:role="aut">Belén Junco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-25T06:00:00+00:00</dc:date>
+        <dc:description>«Lo dejo todo a cambio de nada. Ahora me toca ser feliz conmigo misma. Me propongo comenzar una vida sin ataduras, sin reglas. Una vida mía, solo mía». Siguiendo el impulso de su corazón, la protagonista de esta novela abandona su vertiginosa existencia en Londres, un trabajo absorbente y a sus glamurosas amistades por un nuevo comienzo en África. Con ella viaja el dolor de un corazón roto, pero también los sueños de una aventura en la que todo está por descubrir. La reina de Nairobi es una historia apasionante, llena de esperanza, en la que una mujer se enfrenta al futuro con valentía. Por el camino descubrirá no solo un país y sus gentes sino su propia alma, la amistad incondicional y el amor verdadero.</dc:description>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="PAGINAS">390</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002356</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Romantica</dc:subject>
+        <meta name="calibre:timestamp" content="2023-06-19T15:31:19.061465+00:00"/>
+        <meta name="calibre:title_sort" content="reina de Nairobi, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

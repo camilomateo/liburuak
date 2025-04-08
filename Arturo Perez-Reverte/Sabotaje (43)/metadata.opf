@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce97b42f-948f-4fd8-a02f-c2a2e3573e7f</dc:identifier>
+        <dc:title>Sabotaje</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-02T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;¿Es el&lt;i&gt; Guernica&lt;/i&gt; que conocemos el verdadero cuadro que pintó Picasso?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;¿Qué hacía Falcó en París en la primavera de 1937?&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;ARTURO PÉREZ-REVERTE Y LORENZO FALCÓ: UNA HISTORIA DE SABOTAJE.&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;i&gt;«La
+ luz declinante de la ventana y su efecto óptico en el cristal  daban 
+una tenue pátina rojiza al enorme lienzo; como si éste, antes de  ser 
+realidad, ya empezase a ensangrentarse lentamente. Y de pronto, todo 
+adquirió sentido. &lt;/i&gt;&lt;/p&gt; &lt;p&gt;&lt;i&gt;-Se llamará &lt;/i&gt;Guernica &lt;i&gt;-dijo Picasso.»&lt;/i&gt;&lt;/p&gt; &lt;p&gt;Mayo
+ de 1937. La Guerra Civil sigue su sangriento curso en España, pero  
+también lejos de los campos de batalla se combate entre las sombras. Una
+  doble misión lleva a Lorenzo Falcó hasta París con el objetivo de 
+intentar, de cualquier forma posible, que el &lt;i&gt;Guernica &lt;/i&gt;que está  
+pintando Pablo Picasso no llegue nunca a la Exposición Universal donde  
+la República pretende conseguir apoyo internacional. Aunque ya se  
+adivinan en Europa los vientos de la nueva guerra que asolará el  
+continente, la música alegre sigue sonando, y el arte, los negocios, la 
+ vida frívola ocupan todavía a intelectuales, refugiados y activistas.  
+Acostumbrado al peligro y a las situaciones límite, Falcó debe  
+enfrentarse esta vez a un mundo en el que la lucha de ideas pretende  
+imponerse sobre la acción. Un mundo que a él le es ajeno, y al que 
+aplicará sus propios métodos.&lt;/p&gt; &lt;p&gt;Arturo Pérez-Reverte construye en &lt;i&gt;Sabotaje &lt;/i&gt;una
+ trama magistral que  envuelve al lector hasta la última página, y 
+completa con esta novela la  trilogía protagonizada por Falcó, el 
+personaje literario más fascinante de los últimos tiempos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Arturo Pérez-Reverte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Serie Falcó"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:25:11.026302+00:00"/>
+        <meta name="calibre:title_sort" content="Sabotaje"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

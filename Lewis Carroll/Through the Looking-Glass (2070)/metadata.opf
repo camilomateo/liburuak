@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2070</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf69d1bd-de40-4375-b33b-7719ce59e4d9</dc:identifier>
+        <dc:title>Through the Looking-Glass</dc:title>
+        <dc:creator opf:file-as="Carroll, Lewis" opf:role="aut">Lewis Carroll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Stories</dc:subject>
+        <dc:subject>Imaginary</dc:subject>
+        <dc:subject>Juvenile</dc:subject>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="280"/>
+        <meta name="calibre:timestamp" content="2024-09-06T12:09:07+00:00"/>
+        <meta name="calibre:title_sort" content="Through the Looking-Glass"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1126</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4568fc88-8398-446e-96b2-2502a4a67f91</dc:identifier>
+        <dc:title>La puerta</dc:title>
+        <dc:creator opf:file-as="Manel Loureiro" opf:role="aut">Manel Loureiro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-28T23:00:00+00:00</dc:date>
+        <dc:description>El hallazgo del cadáver de una joven, asesinada mediante una antigua forma ritual a los pies de la mítica Puerta de Alén, desconcierta a sus investigadores. La agente Raquel Colina es una recién llegada a ese rincón perdido de Galicia para tratar de salvar a su hijo, al que la medicina ya no puede curar. Sin otra alternativa, y llena de dudas, Raquel había recurrido a una menciñeira local, que prometía su sanación. Sin embargo, la misteriosa desaparición de la curandera y el descubrimiento de la víctima de la Puerta hacen sospechar a Raquel que ambos casos pueden estar relacionados. Con la complicidad de su compañero, en un ambiente mágico y rural que no acaba de comprender y donde todo el mundo parece guardar un secreto, la agente comenzará una desesperada cuenta atrás para resolver el caso y así hallar la última tabla de salvación que le queda a su hijo.</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:16.424226+00:00"/>
+        <meta name="calibre:title_sort" content="puerta, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

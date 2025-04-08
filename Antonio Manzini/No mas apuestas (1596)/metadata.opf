@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1596</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2f442be-994d-4326-93cc-162e7851282d</dc:identifier>
+        <dc:title>No más apuestas</dc:title>
+        <dc:creator opf:file-as="Antonio Manzini" opf:role="aut">Antonio Manzini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-16T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;Un caso lleno de pasiones, crímenes y vicios inconfesables. Vuelve Rocco Schiavone, el subjefe políticamente más incorrecto&lt;/p&gt;
+&lt;p align="justify"&gt;Mientras Rocco Schiavone sigue sin tener clara la identidad del asesino de Romano Favre, inspector jubilado del casino de Saint-Vincent, un furgón blindado con tres millones de euros procedente de esa famosa casa de apuestas y con destino al banco Carige de Aosta desaparece misteriosamente. Cuando el cuerpo de Enrico Manetti, uno de los guardias del vehículo, aparece aturdido y semicongelado en un recodo de la carretera, Rocco empieza a sospechar que ambos casos pueden estar relacionados. Y como si las intrigas del casino, el clima inhóspito de Aosta y los problemas del joven Gabriele no bastaran, Enzo Baiocchi, el peor enemigo de Rocco, amenaza con revelar secretos que podrían llevar al subjefe a prisión.&lt;/p&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;La crítica ha dicho: &lt;/p&gt;
+&lt;p align="justify"&gt;«Antonio Manzini ha dibujado un personaje extraordinario». &lt;/p&gt;
+&lt;p align="justify"&gt;Andrea Camilleri&lt;/p&gt;
+&lt;p align="justify"&gt;«El heredero de Montalbano se llama Rocco Schiavone».&lt;br&gt;&lt;em&gt;La Repubblica&lt;/em&gt;&lt;/p&gt;
+&lt;p align="justify"&gt;«Antonio Manzini ha hecho del subjefe de policía Rocco Schiavone un personaje inolvidable, que crea adicción».&lt;br&gt;&lt;em&gt;Corriere della Sera&lt;/em&gt;&lt;/p&gt;
+&lt;p align="justify"&gt;«Schiavone, con ese aire de mujeriego un tanto maldito, siempre fuera de lugar, perpetuamente rehén de su loden y sus Clarks inadecuados para los rigores del invierno, logra salir airoso de una intrincada investigación, con un desenlace que dista mucho de ser obvio».&lt;br&gt;&lt;em&gt;Il Messaggero&lt;/em&gt;&lt;/p&gt;
+&lt;p align="justify" style="font-size: large; font-weight: bold"&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419456564</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">206801437</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0CW1KYXNG</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Subjefe Rocco Schiavone"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:57.292263+00:00"/>
+        <meta name="calibre:title_sort" content="No más apuestas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

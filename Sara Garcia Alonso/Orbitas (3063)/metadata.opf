@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3063</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40aa24b3-04f8-48c7-be94-c101f41a634b</dc:identifier>
+        <dc:title>Órbitas</dc:title>
+        <dc:creator opf:file-as="Alonso, Sara García" opf:role="aut">Sara García Alonso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-23T00:00:00+00:00</dc:date>
+        <dc:description>Sara García Alonso -la primera astronauta española de la Agencia Espacial Europea- comparte su particular experiencia para ofrecernos claves sobre cómo plantear y afrontar los desafíos.«Un viaje absolutamente personal a través de seis órbitas que nos invitan a reflexionar sobre la identidad».La Razón«Sara García Alonso narra experiencias de su vida impulsados por la curiosidad». 20 Minutos«Un referente, una pionera». La aventura del saberÓrbitas no pretende trazar un camino perfecto hacia la consecución de tus metas; es más bien una invitación a la aventura y a la exploración interior.En estas páginas, Sara García Alonso -primera astronauta española de la Agencia Espacial Europea- comparte su particular experiencia, salpicada de anécdotas personales, para ofrecernos claves sobre cómo plantear y afrontar los desafíos. Con un testimonio inspirador y vitalista, la autora fusiona ensayo, ficción y autobiografía para reflexionar sobre los impulsos que nos guían a lo largo de la...</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-19T08:18:46.858724+00:00"/>
+        <meta name="calibre:title_sort" content="Órbitas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

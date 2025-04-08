@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2826</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2bfd5200-13e1-43be-8207-39c95d6972f9</dc:identifier>
+        <dc:title>Desaparecido sin rastro</dc:title>
+        <dc:creator opf:file-as="Weaver, Tim" opf:role="aut">Tim Weaver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-27T13:17:39+00:00</dc:date>
+        <dc:description>Desapareció sin previo aviso.Desapareció sin dejar rastro.Para millones de londinenses, la mañana del 16 de diciembre es como cualquier otra. Pero no para Sam Wren. Una hora después de salir de casa, se sube a un vagón del metro y desaparece. No hay testigos, y en las cámaras de seguridad no hay rastro de él. Seis meses después, sin opciones y desesperada por encontrar respuestas, la mujer de Sam, Julia, contrata a David Raker para localizarlo. Raker ha hecho de la búsqueda de personas desaparecidas su profesión. Entiende cómo piensan y sabe que todos tienen algo que ocultar. Sin embargo, en este caso, los secretos son más profundos de lo que pudiera haber imaginado.A medida que Raker comienza a sospechar que incluso la policía le está mintiendo, se hace evidente que alguien lo está observando. Alguien que sabe lo que sucedió en el metro ese día. Y, con Raker en su punto de mira, hará cualquier cosa para mantener ocultos los secretos de Sam.—-«Los libros de Weaver mejoran...</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-23T13:00:53.697444+00:00"/>
+        <meta name="calibre:title_sort" content="Desaparecido sin rastro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

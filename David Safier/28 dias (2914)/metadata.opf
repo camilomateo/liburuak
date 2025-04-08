@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2914</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f28ceaaf-7cb6-408b-8fdf-34a50dbb3c6a</dc:identifier>
+        <dc:title>28 días</dc:title>
+        <dc:creator opf:file-as="Safier, David" opf:role="aut">David Safier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Varsovia 1943: Mira, una chica de 16 años, sobrevive como puede en el gueto de Varsovia dedicándose al contrabando de alimentos. Su único objetivo es proteger a su hermana pequeña, Hanna. Cuando empiezan a deportar a los habitantes del gueto a los campos de concentración, Mira se une a la Resistencia. Juntos consiguen hacer frente a las SS mucho más tiempo de lo imaginado. 28 días. 28 días en los que Mira experimentará la traición, el sufrimiento y la felicidad. 28 días para vivir toda una vida. 28 días para descubrir el amor verdadero. 28 días para convertirse en una leyenda. 28 días para contestar la mayor de las preguntas: ¿qué clase de persona quieres ser?</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:32:18.298746+00:00"/>
+        <meta name="calibre:title_sort" content="28 días"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Romántica</title>
+  <id>Calibre2opds:taglist:R:25</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_25_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Romántica" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por R" />
+  <entry>
+    <title>¿Y si te toco yo?</title>
+    <id>calibre:book:183</id>
+    <updated>2023-01-26T07:16:20Z</updated>
+    <link href="../../Chloe%20Collins/_Y%20si%20te%20toco%20yo_%20%28183%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chloe%20Collins/_Y%20si%20te%20toco%20yo_%20%28183%29/_Y%20si%20te%20toco%20yo_%20-%20Chloe%20Collins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="637 KB" />
+    <author>
+      <name>Chloe Collins</name>
+      <uri>../authors_0/authors_120_Page_1.xml</uri>
+    </author>
+    <published>2022-08-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zafiro eBooks</dcterms:publisher>
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <summary>Berta es una joven sevillana graduada en Química que se traslada a Madrid con la intención de «comerse el mundo», pero lo único que consigue zamparse son los dónuts, a poder ser de chocolate, que son sus preferidos... Su impuntualidad y su falta de t...</summary>
+    <link href="../book_0/book_183.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alegrame la vista</title>
+    <id>calibre:book:195</id>
+    <updated>2023-01-26T07:16:20Z</updated>
+    <link href="../../Megan%20Maxwell/Alegrame%20la%20vista%20%28195%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Megan%20Maxwell/Alegrame%20la%20vista%20%28195%29/Alegrame%20la%20vista%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="548 KB" />
+    <author>
+      <name>Megan Maxwell</name>
+      <uri>../authors_0/authors_90_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zafiro Books</dcterms:publisher>
+    <category term="Relatos" />
+    <category term="Romántica" />
+    <category term="Erótica" />
+    <category term="Lang:es" />
+    <summary>Alicia es una joven enfermera que adora su profesión y a la que le gusta divertirse, leer, viajar y disfrutar con sus amigos con «derecho a roce». Sin embargo, todo cambia cuando entra a trabajar en el hospital Víctor Molina, un joven obstetra, moren...</summary>
+    <link href="../book_0/book_195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Si la vida te da limones, haz culebrones</title>
+    <id>calibre:book:191</id>
+    <updated>2023-01-26T07:16:20Z</updated>
+    <link href="../../Lara%20Smirnov/Si%20la%20vida%20te%20da%20limones%2C%20haz%20culeb%20%28191%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lara%20Smirnov/Si%20la%20vida%20te%20da%20limones%2C%20haz%20culeb%20%28191%29/Si%20la%20vida%20te%20da%20limones%2C%20haz%20c%20-%20Lara%20Smirnov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="784 KB" />
+    <author>
+      <name>Lara Smirnov</name>
+      <uri>../authors_0/authors_123_Page_1.xml</uri>
+    </author>
+    <published>2018-09-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zafiro Books</dcterms:publisher>
+    <category term="Erótica" />
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <summary>La familia Velasco es envidiada por su riqueza y posición social privilegiada, ya que son los dueños de grandes plantaciones de cítricos en el levante español pero, como es bien sabido, Los ricos también lloran. Cuando un periodista escarbe en los or...</summary>
+    <link href="../book_0/book_191.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Y ahora supera mi beso</title>
+    <id>calibre:book:143</id>
+    <updated>2023-01-27T08:55:26Z</updated>
+    <link href="../../Megan%20Maxwell/Y%20ahora%20supera%20mi%20beso%20%28143%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Megan%20Maxwell/Y%20ahora%20supera%20mi%20beso%20%28143%29/Y%20ahora%20supera%20mi%20beso%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Megan Maxwell</name>
+      <uri>../authors_0/authors_90_Page_1.xml</uri>
+    </author>
+    <published>2022-11-22T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Esencia</dcterms:publisher>
+    <category term="Romántica" />
+    <category term="Lang:es" />
+    <summary>Hola, me llamo Amara y estoy aquí no para hablaros de mí, sino de Liam Acosta, ese guapísimo empresario que se dedica al negocio del vino en Tenerife y que sigue soltero porque quiere, pues siempre tiene a una legión de mujeres pendientes de él.  Po...</summary>
+    <link href="../book_0/book_143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

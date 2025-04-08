@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">704</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0fd9bddb-a73a-40bb-b390-8d83b08100a3</dc:identifier>
+        <dc:title>La senda de Aristóteles</dc:title>
+        <dc:creator opf:file-as="Edith Hall" opf:role="aut">Edith Hall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;&lt;strong&gt;Una actualización del pensamiento artistotélico y cómo emplearlo hoy en día, dos mil cuatrocientos años después, para cambiar nuestra vida.&lt;/strong&gt;&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;En el siglo IV a. C., Aristóteles funda en Atenas su escuela, una versión muy mejorada de la Academia platónica, donde él mismo estudió en su juventud. Desde ese auténtico centro de formación de los futuros pensadores clásicos supo ejercer una influencia inestimable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;La senda de Aristóteles&lt;/em&gt; da testimonio del modo en que una escuela de pensamiento puede ayudarnos a alcanzar la &lt;em&gt;eudaimonía&lt;/em&gt;, esa felicidad que consiste en realizar plenamente nuestro potencial.&lt;/p&gt;
+&lt;p&gt;Las enseñanzas de Aristóteles no caducan, nos dice la autora. La «senda» invita a la reflexión pausada, a la contemplación (¡verdadero elogio del tiempo libre!), a analizar las relaciones con el prójimo (amorosas, de amistad, comunitarias), a preguntarnos qué tenemos en común con un pensador de la antigua Grecia, a entender y mejorar nuestra comunicación y a enfrentarnos con serenidad a la muerte.&lt;/p&gt;
+&lt;p&gt;Rastreando exhaustivamente la obra de Aristóteles, insertada en el contexto de los principales episodios de su biografía, Edith Hall ofrece aquí una actualización del pensamiento aristotélico junto con una interesante y original propuesta: emplearlo hoy, dos mil cuatrocientos años después, para cambiar nuestra vida.&lt;/p&gt;</dc:description>
+        <dc:publisher>Anagrama</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788433945778</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:17.768434+00:00"/>
+        <meta name="calibre:title_sort" content="La senda de Aristóteles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

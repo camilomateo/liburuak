@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">773</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59a37ce9-235e-4232-b5ec-516cc1232126</dc:identifier>
+        <dc:title>Las chicas del Gueto</dc:title>
+        <dc:creator opf:file-as="Alexander, V.S." opf:role="aut">V.S. Alexander</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-17T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Hanna Majewski y su hermana menor, Stefa, no pueden ser más diferentes: mientras que Hanna deja Polonia para vivir libre de las ataduras que su religión le impone, Stefa es una adolescente modelo, obediente y comprometida con las tradiciones judías. Sin embargo, ambas están seguras de que el amor que sienten la una por la otra es incondicional y, por eso, cuando la Segunda Guerra Mundial estalla y los nazis comienzan a sacar de sus hogares a miles de judíos para encerrarlos en el gueto de Varsovia, Hanna decide regresar a su patria para salvar a su familia, sin importarle que esto pueda costarle la vida.&lt;/p&gt;
+&lt;p&gt;Adiestrada como espía por la Dirección de Operaciones Especiales de Inglaterra, Hanna se logra infiltrar en el gueto de Varsovia. Ahí, junto a Stefa y Janka, una vecina que vive en la zona aria de la ciudad, Hanna forma Las chicas del gueto, un grupo que se organiza para salvar la vida de sus seres queridos y la de tantos judíos como sea posible.&lt;/p&gt;
+&lt;p&gt;Vuelve V. S. Alexander, autor de La catadora de Hitler, con una desgarradora historia basada en testimonios reales como el de Emanuel Ringelblum, intelectual judío que escapó del gueto de Varsovia y documentó el valor de mujeres como las hermanas Majewski y sus compañeras. Una historia conmovedora y llena de heroísmo.  &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Planeta México</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-25T10:54:24.399817+00:00"/>
+        <meta name="calibre:title_sort" content="chicas del Gueto, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

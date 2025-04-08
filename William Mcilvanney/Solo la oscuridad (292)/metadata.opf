@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">292</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cd3ddd3-6b5c-4bc9-aeaf-e6d7475e23ed</dc:identifier>
+        <dc:title>Sólo la oscuridad</dc:title>
+        <dc:creator opf:file-as="McIlvanney, William" opf:role="aut">William Mcilvanney</dc:creator>
+        <dc:creator opf:file-as="McIlvanney, William" opf:role="aut">Ian Rankin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Al joven agente Jack Laidlaw no le gusta trabajar en equipo, 
+pero tiene un sexto sentido para lo que ocurre en las calles. Su jefe 
+atribuye la violencia a las rivalidades de siempre, pero ¿es así de 
+sencillo? Cuando se inicia la guerra entre dos bandas de Glasgow, 
+Laidlaw necesita averiguar quién eliminó al abogado Bobby Carter antes 
+de que toda la ciudad estalle.&lt;/p&gt;&lt;p&gt;Los libros de William 
+McIlvanney sobre Jack Laidlaw cambiaron el panorama de las historias 
+detectivescas en Reino Unido. Considerado el fundador del denominado &lt;span class="a-text-italic"&gt;tartan noir&lt;/span&gt;,
+ sus novelas negras de corte clásico han inspirado a muchas generaciones
+ de escritores. Cuando murió en 2015, McIlvaney dejó un manuscrito con 
+el primer caso de Laidlaw que Ian Rankin finalizó. &lt;span class="a-text-italic"&gt;Sólo la oscuridad&lt;/span&gt; es el resultado.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418968600</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0BKHBNZBL</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;William Mcilvanney&quot;: &quot;&quot;, &quot;Ian Rankin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-09T10:32:39.835576+00:00"/>
+        <meta name="calibre:title_sort" content="Sólo la oscuridad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

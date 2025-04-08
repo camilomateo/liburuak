@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab1cec8b-fda7-461f-a7a7-449c48d90aa7</dc:identifier>
+        <dc:title>Aprendiendo de los mejores</dc:title>
+        <dc:creator opf:file-as="Francisco Alcaide Hernández" opf:role="aut">Francisco Alcaide Hernández</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-08T22:00:00+00:00</dc:date>
+        <dc:description>Decía Betrand Russell que «la mejor prueba de que algo puede hacerse es que antes alguien ya lo hizo». Por eso las personas inteligentes aprenden de la experiencia de los demás. Es cierto que nadie puede vivir tu vida por ti pero hay principios universalmente contrastados aplicables a todas las circunstancias y personas, que se repiten una y otra vez, y que son de gran utilidad. En el libro encontrarás reflexiones y frases sobre el desarrollo personal, sobre la gestión de empresas y equipos, pero también sobre la vida misma. Personajes como Dale Carnegie, Napoleon Hill, Robert Kiyosaki, Richard Branson, John C. Maxwell, Steve Jobs, Jack Welch, Deepak Chopra, Eckhart Tolle, Brian Tracy... aparecen por estas páginas para enseñarte lo que ellos saben y lo que ellos también han aprendido anteriormente y que les ha hecho grandes.</dc:description>
+        <dc:publisher>Alienta Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <dc:subject>iales</dc:subject>
+        <dc:subject>Divulgación</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francisco Alcaide Hernández&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:25:42+00:00"/>
+        <meta name="calibre:title_sort" content="Aprendiendo de los mejores"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

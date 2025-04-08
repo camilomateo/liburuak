@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5ba99de-ed66-4b87-8310-4e434ab1f0fa</dc:identifier>
+        <dc:title>Cocina día a día</dc:title>
+        <dc:creator opf:file-as="Arguiñano, Karlos" opf:role="aut">Karlos Arguiñano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A falta de ideas, bueno es un recetario. Sabedor de que cada vez tenemos menos tiempo para pensar qué hacer para comer, Karlos Arguiñano nos propone 365 menús completos para que no repitamos plato ni un solo día del año.&lt;br /&gt;Raviolis de queso y zanahoria, dorada con arroz verde, codornices con plátano o lasaña de berenjena. En total, más de 365 menús con primero, segundo y postre, 1095 recetas divididas por estaciones que ponen siempre el acento en los productos frescos y de temporada. Además, el libro propone menús especiales –solomillo Wellington, arroz con nécora o rabo guisado, entre otros– para las fechas más sonadas del calendario, como las Navidades.&lt;/p&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408218524</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>cocina</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Karlos Arguiñano&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:56:04.698449+00:00"/>
+        <meta name="calibre:title_sort" content="Cocina día a día"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">327</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">baf25c3b-776b-4d31-ad25-5b2227dfb63e</dc:identifier>
+        <dc:title>Máximo impacto</dc:title>
+        <dc:creator opf:file-as="Baldacci, David" opf:role="aut">David Baldacci</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+
+
+
+&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Baldacci 
+vuelve con un palpitante nuevo caso de Will Robie, el héroe de «Los 
+inocentes».&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Eficiente 
+e implacable, Will Robie es el hombre a quien recurre el gobierno de Estados 
+Unidos para eliminar a los peores enemigos del estado. Sin embargo, hay alguien 
+capaz de igualar los talentos de Robie: su colega Jessica Reel, una asesina tan 
+profesional y letal como él. El problema es que, por alguna extraña razón, ahora 
+tiene en el punto de mira a otros miembros de su agencia.&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Robie tendrá por misión capturar a Reel, viva o muerta. 
+Sin embargo, a medida que la persigue, Robie no tarda en descubrir que sus 
+ataques a la agencia ocultan una amenaza mayor, una que puede causar una 
+tremenda conmoción en Estados Unidos y en el resto del 
+mundo.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788490697016</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novelas de acción</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Baldacci&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Will Robie"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-02-16T18:13:42.009426+00:00"/>
+        <meta name="calibre:title_sort" content="Máximo impacto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

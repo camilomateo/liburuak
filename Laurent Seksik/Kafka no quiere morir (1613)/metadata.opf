@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1613</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4a1dcdc-0e0e-450f-bfdb-3fac5b12209a</dc:identifier>
+        <dc:title>Kafka no quiere morir</dc:title>
+        <dc:creator opf:file-as="Seksik, Laurent" opf:role="aut">Laurent Seksik</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-11T14:15:23+00:00</dc:date>
+        <dc:description>&lt;div class="books-expander-content"&gt;
+                    &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una manera inédita de conocer la obra y vida de Kafka y de atravesar un siglo tras las huellas de un gigante.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;«Robert,
+ mátame o eres un asesino»: estas fueron las últimas palabras de Franz 
+Kafka antes de morir. Iban dirigidas a Roberto Klopstock, un joven 
+estudiante de medicina que aliviará el sufrimiento del escritor en un 
+sanatorio cerca de Viena, mientras Dora Diamant –la única mujer con la 
+que Kafka pudo vivir– miraba, y todos permanecían a la espera de 
+noticias de su hermana Ottla Kafka, la única persona que realmente lo 
+apoyó y lo comprendió.&lt;br&gt;&lt;br&gt;   Esta apasionante novela examina la vida
+ y obra de Kafka a través de la mirada de estos tres protagonistas poco 
+conocidos, cuyas relaciones con el autor marcarían sus destinos para 
+siempre, y es capaz de alumbrar vivencias personales dentro de la gran 
+narrativa de la historia, mezclando lo íntimo con el clamor del mundo. &lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T09:00:01.193762+00:00"/>
+        <meta name="calibre:title_sort" content="Kafka no quiere morir"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

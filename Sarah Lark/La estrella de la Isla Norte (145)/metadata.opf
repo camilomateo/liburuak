@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92c76cd2-2d16-440e-a2e7-5ff1411c0d3d</dc:identifier>
+        <dc:title>La estrella de la Isla Norte</dc:title>
+        <dc:creator opf:file-as="Lark, Sarah" opf:role="aut">Sarah Lark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Vuelve la Sarah Lark más auténtica con una fascinante historia de amor y traición, desesperación y coraje ambientada en Nueva Zelanda en la Primera Guerra Mundial. Hannover, 1910. Lo que surge entre la hija del banquero judío Mia y el joven oficial Julius es amor a primera vista. Ambos comparten la pasión por los caballos, pero el resto de sus circunstancias parecen unirse en contra de su relación. Decididos a tener un futuro juntos, emigran a Nueva Zelanda, donde sueñan con montar un negocio de cría de caballos. Pero, cuando la Primera Guerra Mundial estalla, las sospechas de que son espías al servicio de los alemanes recaen sobre la pareja. Obligados a vivir el conflicto en campos de internamiento separados, sin certeza de si el otro está vivo o muerto, solo la esperanza de volver a encontrarse les hará seguir adelante. Lo que no saben es que después de la guerra nada volverá a ser como antes.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Lark&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-19T07:55:18.904041+00:00"/>
+        <meta name="calibre:title_sort" content="estrella de la Isla Norte, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

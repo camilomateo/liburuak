@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d43083b1-1b83-443c-84ad-506084cfef1a</dc:identifier>
+        <dc:title>Todas las piezas rotas</dc:title>
+        <dc:creator opf:file-as="John Boyne" opf:role="aut">John Boyne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;Una historia conmovedora sobre una anciana que debe enfrentarse a su terrible pasado. Una secuela magistral de &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;El niño con el pijama de rayas&lt;/span&gt;&lt;span class="a-text-italic"&gt;.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Cuando
+ Bruno decidió acompañar a su amigo Shmuel a la cámara de gas, ¿qué 
+ocurrió con su hermana, Gretel, y sus padres? ¿Sobrevivió su familia a 
+la guerra y los estragos del nazismo?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Gretel Fernsby 
+es ahora una anciana de 91 años que vive cómodamente en un apartamento 
+en una de las zonas más acomodadas de Londres. Cuando una joven familia 
+se muda al piso de abajo, Gretel no puede evitar entablar amistad con 
+Henry, el hijo pequeño de la pareja. Una noche, tras ser testigo de una 
+violenta discusión entre la madre de Henry y su dominante padre, Gretel 
+se enfrenta a la oportunidad de expiar la culpa, el dolor y el 
+remordimiento y hacer algo por salvar a un niño, por segunda vez en su 
+vida. Pero para ello se verá obligada a revelar su verdadera 
+identidad...&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418968822</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">MH-iEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:26.536617+00:00"/>
+        <meta name="calibre:title_sort" content="Todas las piezas rotas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

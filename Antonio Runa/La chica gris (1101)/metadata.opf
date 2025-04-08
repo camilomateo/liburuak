@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3ad86f7-73bb-4d6d-84b4-e58209be6cdb</dc:identifier>
+        <dc:title>La chica gris</dc:title>
+        <dc:creator opf:file-as="Runa, Antonio" opf:role="aut">Antonio Runa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una novela monstruosa de sucesos paranormales. Los muertos no nos quieren como nosotros los queremos a ellos. Empiezo a sonar como mi padre. Se diría que él habla a través de mí. No. Se supone que yo ya no creo en estas cosas. Ya no. Isaac Zarco, periodista e investigador de sucesos paranormales, no está pasando por su mejor momento. La muerte de su padre le ha afectado profundamente y ha acelerado su ruptura con Cosette, el amor de su vida. Fruto de esta profunda crisis duda de si sus habilidades psíquicas han sido reales alguna vez. Hasta que recibe una llamada de Cosette y su amiga Bárbara. Un fantasma parece haberse instalado en casa de las chicas y necesitan que las ayude a librarse de él. Durante la investigación deberá lidiar con dos espíritus muy diferentes, uno furioso e intratable, y un segundo, el de una chica triste y temerosa, recientemente asesinada por un nuevo tipo de entidad. Un monstruoso ser que disfruta segando las vidas de familias enteras y que vaga impune por la ciudad.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788445015490</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">vZCpEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:11.537227+00:00"/>
+        <meta name="calibre:title_sort" content="chica gris, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1886</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fe3e516-5f75-4a1d-8ca7-1dcda326a158</dc:identifier>
+        <dc:title>El pan: Manual de técnicas y recetas de panadería</dc:title>
+        <dc:creator opf:file-as="Hamelman, Jeffrey" opf:role="aut">Jeffrey Hamelman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div style="text-align: center;"&gt;&lt;b style="orphans: 2; widows: 2;"&gt;Tanto si haces pan en casa, como si eres o quieres ser un profesional de la panadería, este es tu manual de referencia: la obra maestra de la panadería artesana.&lt;/b&gt;&lt;/div&gt;&lt;p style="margin: 0px 0px 14px; padding: 0px;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style="margin: 0px 0px 14px; padding: 0px;"&gt;Recetas impecables y explicaciones detalladas de todo el proceso de hacer pan. Contadas con claridad y rigor, con un lenguaje sencillo y directo, fruto de la experiencia de más de 30 años del autor como profesor y panadero.&lt;/p&gt;&lt;p style="margin: 0px 0px 14px; padding: 0px;"&gt;En este libro encontrarás 140 recetas descritas paso a paso, de un amplio surtido de panes clásicos: de centeno, de masa madre natural, baguette, brioche, focaccia. Una colección de sabores, olores y texturas para profundizar en el infinito mundo del pan artesano. En este libro, encontrarás un pan para cada estación y para cada paladar, incluyendo algunas recetas poco conocidas como el pan de granja alemán o los simits.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libros con Miga</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:50.990978+00:00"/>
+        <meta name="calibre:title_sort" content="pan: Manual de técnicas y recetas de panadería, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

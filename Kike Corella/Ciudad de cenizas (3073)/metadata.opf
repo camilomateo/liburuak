@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3073</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb805238-9ae4-4eb6-ab46-bfb3766676c5</dc:identifier>
+        <dc:title>Ciudad de cenizas</dc:title>
+        <dc:creator opf:file-as="Kike Corella" opf:role="aut">Kike Corella</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-11-22T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;En la Barcelona de 1909, Enrique Hernández, un joven sereno, se topa con un extraño olor a quemado mientras patrulla las calles del barrio de La Seca. Al entrar al domicilio, la policía encuentra una montaña de ceniza sobre unos zapatos de mujer delante de un sillón. El resto del mobiliario está intacto y tanto la puerta como las ventanas estaban cerradas por dentro. ¿Cómo pudo ocurrir tal tragedia?&lt;/p&gt;
+&lt;p align="justify"&gt;Eloy Pavía, reputado inspector del nuevo cuerpo de vigilancia y antiguo comisionado en Scotland Yard, se hace cargo del caso. La aguda perspicacia y el estilo poco convencional de Pavía harán un tándem excelente con la juventud y enorme pasión de Hernández, que desde el primer momento se verá envuelto en esta investigación. Juntos se embarcarán en una búsqueda incansable de pistas, adentrándose en las sombras de una ciudad obrera y agitada por la Semana Trágica.&lt;/p&gt;
+&lt;p align="justify"&gt;Ciudad de cenizas es una fascinante novela policíaca que te sumergirá en la Barcelona de principios del siglo xx, una ciudad bella y salvaje que se convierte en un protagonista más de la historia. Kike Corella, con unos personajes inolvidables y su habilidad para recrear la atmósfera de la época, nos transporta a un mundo lleno de intriga y sorpresas que atrapa al lector.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Almuzara</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CNV7QYFB</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Misterios</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-19T08:18:48.496138+00:00"/>
+        <meta name="calibre:title_sort" content="Ciudad de cenizas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1464</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76856fa7-c406-4a57-b5b1-ecf39b8bfd01</dc:identifier>
+        <dc:title>La estrella más hermosa</dc:title>
+        <dc:creator opf:file-as="Mishima, Yukio" opf:role="aut">Yukio Mishima</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-20T00:00:00+00:00</dc:date>
+        <dc:description>Escrita en 1962 y considerada por el propio Mishima como una de sus mejores novelas, &amp;quot;La estrella más hermosa&amp;quot; es una comedia negra que cuenta la historia de la familia Osugi, cuyos miembros se dan cuenta de que vienen cada uno de un planeta distinto. El padre procede de Marte, la madre de Júpiter, el hijo de Mercurio y la hija de Venus. Este conocimiento extraterrestre hace que se unan en una misión: encontrar a personas como ellos y salvar así a la humanidad de la bomba atómica.</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T14:46:09.797273+00:00"/>
+        <meta name="calibre:title_sort" content="estrella más hermosa, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

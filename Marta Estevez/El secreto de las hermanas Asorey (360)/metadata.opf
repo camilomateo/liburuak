@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">360</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26cb8c8a-b670-4b86-aa5c-7cb630d2c406</dc:identifier>
+        <dc:title>El secreto de las hermanas Asorey</dc:title>
+        <dc:creator opf:file-as="Estévez, Marta" opf:role="aut">Marta Estévez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="font-weight: bold; font-style: italic; color: #76675d"&gt;Santiago de Compostela, 1931. Cuatro hermanas se enfrentan a una trama de muerte y traición en una ciudad al borde de la ruptura.&lt;/span&gt; &lt;/p&gt;
+&lt;p style="font-style: italic; font-weight: bold"&gt;&lt;span style="color: #76675d"&gt;Cuatro hermanas se reúnen en torno al cadáver de su padre cuando aparece el cuerpo sin vida de una muchacha con indicios de que ha sido asesinada. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: bold; font-style: italic; color: #76675d"&gt;¿Qué relación guardan ambos sucesos? ¿Qué secretos esconden las hermanas?&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;En los albores de la Segunda República, las hermanas Asorey afrontan la muerte de su padre, un reputado médico. &lt;strong&gt;Tilde&lt;/strong&gt;, la mayor, es autoritaria y pragmática, mientras &lt;strong&gt;Tea&lt;/strong&gt;, la segunda, es inestable y sufre una fuerte depresión. &lt;strong&gt;Eloísa&lt;/strong&gt;, la tercera, es moderna y emancipada,y &lt;strong&gt;Celia&lt;/strong&gt;, la menor, tiene como principal objetivo casarse. Las cuatro pactan por motivos secretos esconder el cadáver. Pero cuando una joven lavandera que trabajaba para la familia aparece muerta, dicho pacto corre peligro de saltar por los aires.&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;En su primera y magnífica novela, Marta Estévez nos narra una intrigante historia familiar de muerte y traición en un momento históricoclave en Santiago de Compostela,cuandolos vientos del cambio amenazaban la estabilidad política y social y los secretos podían ser la única vía para sobrevivir.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Marta Estévez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-27T12:40:53.578521+00:00"/>
+        <meta name="calibre:title_sort" content="El secreto de las hermanas Asorey"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

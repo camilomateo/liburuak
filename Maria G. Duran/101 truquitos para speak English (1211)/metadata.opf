@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d52de2fd-43ca-4b3c-987c-fb44a30e3853</dc:identifier>
+        <dc:title>101 truquitos para speak English</dc:title>
+        <dc:creator opf:file-as="Duran, Maria G." opf:role="aut">Maria G. Duran</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>spa</dc:language>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-06T17:25:39.321914+00:00"/>
+        <meta name="calibre:title_sort" content="101 truquitos para speak English"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

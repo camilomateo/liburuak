@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">368</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90196ff8-4a65-41a3-bd10-98b314808838</dc:identifier>
+        <dc:title>Lecciones de química</dc:title>
+        <dc:creator opf:file-as="Bonnie Garmus" opf:role="aut">Bonnie Garmus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;Para Elizabeth Zott, la cocina es química y la química es vida.&lt;/span&gt;&lt;br&gt;&lt;span class="a-text-bold"&gt;Conoce a esta mujer inconformista e irresistible y atrévete a cambiar el mundo&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Elizabeth
+ Zott es madre soltera y renuente estrella del programa de cocina de 
+televisión más seguido de Estados Unidos. El enfoque inusual de 
+Elizabeth para cocinar, combinar una cucharada de ácido acético con una 
+pizca de cloruro de sodio, resulta revolucionario. Sin embargo, a medida
+ que su éxito aumenta lo hacen también sus enemigos, porque Elizabeth no
+ sólo está enseñando a las mujeres a cocinar sino también desafiándolas a
+ alterar el orden establecido.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;Lecciones de química&lt;/span&gt;
+ es una novela original y adictiva que desentraña de manera inteligente y
+ entretenida la espinosa cuestión de la igualdad de género, la necesidad
+ de ser uno mismo y de por qué debemos negarnos a aceptar las 
+limitaciones de los demás y tratar de imponer las nuestras.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Bonnie Garmus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-03T07:31:23.056902+00:00"/>
+        <meta name="calibre:title_sort" content="Lecciones de química"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

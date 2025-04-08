@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">225</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a25767f-0e5e-486e-9ae7-9b91e725c0fe</dc:identifier>
+        <dc:title>Así es la puta vida</dc:title>
+        <dc:creator opf:file-as="Wild, Jordi" opf:role="aut">Jordi Wild</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-28T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;El esperado libro de Jordi Wild, uno de los youtubers más populares de España y creador de&lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt; The Wild Project&lt;/span&gt;&lt;span class="a-text-bold"&gt;, el pódcast más escuchado.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Ni eres el centro del universo ni todos tus sueños&lt;/span&gt; &lt;span class="a-text-bold"&gt;van a cumplirse. Olvídate de las chorradas de los&lt;/span&gt; &lt;span class="a-text-bold"&gt;libros de autoayuda y de los gurús baratos que intentan&lt;/span&gt; &lt;span class="a-text-bold"&gt;hacerte creer que «si quieres, puedes»; de los&lt;/span&gt; &lt;span class="a-text-bold a-text-italic"&gt;crypto bros&lt;/span&gt;&lt;span class="a-text-bold"&gt; que te harán millonario sin trabajar y&lt;/span&gt; &lt;span class="a-text-bold"&gt;de los que te dicen que seas tu propio jefe mientras&lt;/span&gt; &lt;span class="a-text-bold"&gt;se graban en la piscina de la casa de sus padres.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Aquí
+ no encontrarás recetas mágicas ni los cinco pasos que tienes que seguir
+ para SER FELIZ. Eso se lo dejo a los que se quieren aprovechar de ti.&lt;/p&gt;&lt;p&gt;En
+ este libro te voy a contar lo que para mí es la vida de verdad, sin 
+edulcorantes ni azúcares añadidos; la jodida (y maravillosa) lucha que 
+tienes que librar cada día para poder disfrutar y realizarte. La vidate 
+dará una buena somanta de hostias, eso es inevitable, pero de ti depende
+ levantarte y seguir guerreando. Vale la pena, te lo aseguro.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;ASÍ ES LA PUTA VIDA.&lt;/span&gt; &lt;span class="a-text-bold"&gt;ESPERO QUE ESTÉS PREPARADO&lt;/span&gt; &lt;span class="a-text-bold"&gt;PARA ACEPTARLO.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Wild&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-27T11:03:56.670665+00:00"/>
+        <meta name="calibre:title_sort" content="Así es la puta vida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

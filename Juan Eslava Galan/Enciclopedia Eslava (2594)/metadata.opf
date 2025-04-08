@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec45f4f4-7eb4-4f44-b358-7030e86d4705</dc:identifier>
+        <dc:title>Enciclopedia Eslava</dc:title>
+        <dc:creator opf:file-as="Juan Eslava Galán" opf:role="aut">Juan Eslava Galán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-06T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;El prolífico divulgador y escritor Juan Eslava Galán reúne en estas más de 600 páginas un compendio de la sabiduría y cultura general que todos debemos y estamos obligados a conocer. Desde geografía, filosofía e historia de España hasta ciencias o literatura. Un amenísimo manual accesible para todo tipo de público que se regodeará con el estilo claro y directo de Eslava Galán y, de paso, recordará cosas ya olvidadas y prenderá muchas otras más.&lt;/p&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B076139DFK</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">36554344</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-12T13:39:21+00:00"/>
+        <meta name="calibre:title_sort" content="Enciclopedia Eslava"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

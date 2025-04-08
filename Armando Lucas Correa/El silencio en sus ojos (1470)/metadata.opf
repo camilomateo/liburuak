@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1470</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63f01c47-c9b0-4a38-955e-b6e23c830ff9</dc:identifier>
+        <dc:title>El silencio en sus ojos</dc:title>
+        <dc:creator opf:file-as="Correa, Armando Lucas" opf:role="aut">Armando Lucas Correa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-07T06:00:00+00:00</dc:date>
+        <dc:description>Al estilo de Paula Hawkins y Ruth Ware, una intrigante novela de suspense psicológico acerca de una joven con una rara condición neurológica que está convencida de que su vecina va a ser asesinadaLeah ha vivido con akinetopsia, o ceguera al movimiento, desde que era niña. Durante los últimos veinte años, no ha podido percibir el movimiento. Mientras pasea por su vecindario en Upper Manhattan con su bastón blanco guiando el camino, la mayoría de la gente asume que es ciega. Pero la verdad es que Leah ve mucho, y con sus agudos sentidos del olfato y la audición, muy poco escapa a su atención. Lleva una vida tranquila y ordenada, con poco contacto humano más allá de su ama de llaves de toda la vida, su psicólogo y su anciana vecina. Todo eso cambia cuando Alice se muda al apartamento de al lado y Leah puede oler de inmediato la ansiedad que emana de ella. Lo que es peor, Leah no puede evitar escuchar a Alice y a un visitante nocturno involucrarse en una violenta discusión....</dc:description>
+        <dc:publisher>VINTAGE ESPAÑOL</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9798890980601</dc:identifier>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T15:13:16.356985+00:00"/>
+        <meta name="calibre:title_sort" content="silencio en sus ojos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

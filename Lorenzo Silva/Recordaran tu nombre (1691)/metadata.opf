@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1691</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c55bbfb3-f1d3-4800-ae70-f63d2e69108b</dc:identifier>
+        <dc:title>Recordarán tu nombre</dc:title>
+        <dc:creator opf:file-as="Silva, Lorenzo" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-15T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;LA NOVELA DE UN HÉROE OLVIDADO. La historia desconocida del hombre que desobedeció la orden de alzarse contra la República.&lt;/p&gt;
+&lt;p&gt;En esta novela, Lorenzo Silva narra en primera persona cómo descubrió uno de los momentos más heroicos y trágicos de la historia española, sorprendentemente olvidado por casi todos. Un suceso clave marcado por el antagonismo entre dos hombres. La historia de la sublevación militar en Barcelona el 19 de julio de 1936, del desafío del general Goded a la legalidad republicana y de la decisión del general Aranguren, el máximo responsable de la Guardia Civil, que optó por defender la democracia.&lt;/p&gt;
+&lt;p&gt;La negativa de Aranguren a colaborar con el alzamiento y su fi delidad a la República forman parte de nuestra historia, pero de una parte muy poco contada. Y el hecho de que este sea uno de nuestros episodios más desconocidos e incómodos lo convierte en uno de los mejores relatos que puede darnos la literatura sobre la guerra civil.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Esta es la historia de un héroe olvidado. Un hombre que fue capaz de anteponer la lealtad y su sentido del deber a las órdenes de quienes acabarían haciéndose con el poder. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B072531G6S</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788423352388</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:46.287255+00:00"/>
+        <meta name="calibre:title_sort" content="Recordarán tu nombre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

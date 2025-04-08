@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5159cc69-12c2-433b-be38-49f622d98698</dc:identifier>
+        <dc:title>Y ahora supera mi beso</dc:title>
+        <dc:creator opf:file-as="Megan Maxwell" opf:role="aut">Megan Maxwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt; &lt;p align="justify"&gt;Hola, me llamo Amara y estoy aquí no para hablaros de mí, sino de Liam Acosta, ese guapísimo empresario que se dedica al negocio del vino en Tenerife y que sigue soltero porque quiere, pues siempre tiene a una legión de mujeres pendientes de él. &lt;/p&gt; &lt;p align="justify"&gt;Por lo que sé, un día recibió una misteriosa llamada telefónica en la que le pedían viajar a Los Ángeles por un asunto urgente, que resultó ser, ni más ni menos, que un bebé. A Liam, al principio, le costó mucho admitir su paternidad, pero cuando vio a la criaturita, el mundo se movió bajo sus pies: al igual que él, tenía el ojo derecho de dos colores. &lt;/p&gt; &lt;p align="justify"&gt;Así que, muy agobiado y tremendamente perdido, regresó a Canarias con su hijo, pero se dio cuenta de que necesitaba a alguien que le echara una mano y, por recomendación de mi amiga Verónica, me contrató a mí. &lt;/p&gt; &lt;p align="justify"&gt;De pronto, Liam y yo, dos personas independientes y acostumbradas a no tener que dar explicaciones a nadie, hemos tenido que ponernos de acuerdopor el bien del pequeño. Y eso ha hecho que, sin apenas darnos cuenta, hayamos reconocido el uno en el otro a la persona que nunca hubiéramos esperado encontrar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Esencia</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Romántica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Megan Maxwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-19T07:55:16.493112+00:00"/>
+        <meta name="calibre:title_sort" content="Y ahora supera mi beso"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

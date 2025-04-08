@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3066</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f0f573c-5b7b-4a01-9abd-ef4928bffcf0</dc:identifier>
+        <dc:title>Parabere</dc:title>
+        <dc:creator opf:file-as="Kñallinsky, Andrea Cabrera" opf:role="aut">Andrea Cabrera Kñallinsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-20T20:28:11+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;FINALISTA DEL PREMIO DE NOVELA CAFÉ GIJÓN 2024&lt;br&gt;&lt;br&gt;«Una novela que se lee con un placer innegable, como los platos de los que habla, y que nos traslada a la vida de una mujer excepcional».&lt;br&gt;&lt;br&gt;Del acta del jurado&lt;br&gt;&lt;br&gt;María Mestayer de Echagüe, también conocida por su seudónimo «Marquesa de Parabere», es un personaje histórico que bien merece una novela. Nacida en 1877 en una familia acomodada, dedicó gran parte de su vida a la gastronomía. Coleccionista de recetas, se carteaba con los cocineros más famosos de Europa, escribió en periódicos y revistas e impartió clases de cocina a grupos de mujeres. El éxito de sus grandes recetarios la convirtió en una pionera: decidió regentar un restaurante en Madrid, el Parabere, para lo que tuvo que dejar atrás, en su Bilbao natal, a gran parte de su familia. Su legendaria casa de comidas abrió sus puertas en una época convulsa, apenas unos meses antes del inicio de la Guerra Civil, y por él pasaron toda suerte...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Siruela</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-19T08:18:47.361821+00:00"/>
+        <meta name="calibre:title_sort" content="Parabere"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

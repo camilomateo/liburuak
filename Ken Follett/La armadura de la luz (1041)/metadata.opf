@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1041</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c836e171-1992-4a8c-8df1-4f3cdad26f8c</dc:identifier>
+        <dc:title>La armadura de la luz</dc:title>
+        <dc:creator opf:file-as="Follett, Ken" opf:role="aut">Ken Follett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-23T13:17:45+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Vuelve el mejor Follett con la emocionante quinta entrega de la saga «Los pilares de la Tierra».&lt;/p&gt;
+&lt;p&gt;El choque de progreso y tradición y una guerra que amenaza con engullir toda Europa en la más ambiciosa y épica novela del maestro de la ficción histórica.&lt;/p&gt;
+&lt;p&gt;La revolución está en el aire&lt;br&gt;1792. Un gobierno despótico está decidido a convertir Inglaterra en un poderoso imperio comercial. Y, desde el otro lado del mar, suenan tambores de guerra mientras Napoleón Bonaparte comienza su ascenso al poder y prepara un violento plan para convertirse en emperador del mundo.&lt;/p&gt;
+&lt;p&gt;Kingsbridge se asoma al abismo&lt;br&gt;Los nuevos avances industriales se imponen de manera implacable, sacudiendo las vidas de los trabajadores de las prósperas fábricas textiles de Kingsbridge. Las máquinas abren un mundo de oportunidades ligado, sin embargo, a la crueldad más despiadada.&lt;/p&gt;
+&lt;p&gt;Una nueva tiranía surge en el horizonte&lt;br&gt;Y a medida que el estallido de un conflicto parece cada vez más cerca, la historia de un pequeño grupo de personas -la decidida hilandera Sal Clitheroe, el idealista David Shoveller y Kit, el brillante hijo de Sal- se convertirá en el símbolo de la lucha de toda una generación que desea progresar y pelea por un futuro sin opresión...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0C5S7LKF1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Los pilares de la Tierra"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2023-10-20T11:12:32.175568+00:00"/>
+        <meta name="calibre:title_sort" content="armadura de la luz, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

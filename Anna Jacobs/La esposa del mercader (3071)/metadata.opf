@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3071</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8acae5e-7f95-446d-a639-8bf1ba6764e6</dc:identifier>
+        <dc:title>La esposa del mercader</dc:title>
+        <dc:creator opf:file-as="Jacobs, Anna" opf:role="aut">Anna Jacobs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una inolvidable saga familiar en la Australia colonial del siglo XIX. Más de 5.000.000 millones de lectores en todo el mundo. Una tierra lejana y peligrosa. Una mujer sin miedo a nada. Un destino por construir. La joven inglesa Isabella Saunders se ha quedado sola en el mundo: sin un hogar y sin recursos, su belleza y fascinante cabellera pelirroja en la Singapur de 1860 se convierten en un gran escollo para conseguir un trabajo como institutriz. Todo su mundo se transformará cuando conoce a Bram Deagan, un apuesto y decidido irlandés llegado desde la lejana Australia para conocer de primera mano los nuevos productos de Oriente y hacer realidad su sueño de convertirse en un próspero comerciante. Isabella deberá decidir si las nuevas colonias, las lejanas y peligrosas tierras del continente más olvidado, pueden convertirse en su nuevo hogar. ¿Hallará el amor y la felicidad en el extremo opuesto del mundo? La esposa del mercader inicia una poderosa y cautivadora saga sobre el amor y el odio, la aventura , la confianza y la enemistad, y sobre dos personajes cuyo destino quedará siempre unido de forma indisoluble.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-19T08:18:48.161582+00:00"/>
+        <meta name="calibre:title_sort" content="esposa del mercader, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

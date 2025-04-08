@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85cbf464-ec52-4c04-bac6-d88b47150f30</dc:identifier>
+        <dc:title>El poder del perro</dc:title>
+        <dc:creator opf:file-as="Winslow, Don" opf:role="aut">Don Winslow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-11T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;La guerra contra los narcos al desnudo. Un &lt;I&gt;thriller&lt;/I&gt; épico, coral y sangriento que explora los rincones de la miseria humana.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Década de los setenta: el gobierno de Estados Unidos emprende una lucha sin cuartel contra el narcotráfico en México. Art Keller, un joven agente de la DEA de origen hispano, no tarda en obtener resultados y acabar con el patrón local. Un error fatal. El nuevo heredero del imperio del narcotráfico es Adán Barrera, y ambos saben cómo ha llegado a serlo.&lt;/P&gt; &lt;P&gt;Encadenados a la misma guerra, se encuentran Nora Hayden, una hermosa prostituta de alto &lt;I&gt;standing &lt;/I&gt;adiestrada para hacer enloquecer a los hombres; el padre Parada, un cura católico confidente de esta y empeñado en ayudar al pueblo, y Billy Boy Callan, un chico taciturno, convertido en asesino a sueldo por azar.&lt;/P&gt; &lt;P&gt;&lt;I&gt;Narcovaqueros&lt;/I&gt;, campesinos, mafia al puro estilo italoamericano, una jauría de irlandeses armados, policías corruptos, unsoplón con el sugerente...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788439729532</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-10T06:43:27+00:00"/>
+        <meta name="calibre:title_sort" content="poder del perro, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

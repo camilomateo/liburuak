@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ff82c67-0122-42dc-8837-43b04f84b8f8</dc:identifier>
+        <dc:title>Julius Caesar</dc:title>
+        <dc:creator opf:file-as="Shakespeare, William" opf:role="aut">William Shakespeare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tragedies</dc:subject>
+        <dc:subject>Conspiracies</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Brutus</dc:subject>
+        <dc:subject>Marcus</dc:subject>
+        <dc:subject>Junius</dc:subject>
+        <dc:subject>85</dc:subject>
+        <dc:subject>B.C.?-42</dc:subject>
+        <dc:subject>B.C.</dc:subject>
+        <dc:subject>Caesar</dc:subject>
+        <dc:subject>Julius</dc:subject>
+        <dc:subject>Assassination</dc:subject>
+        <dc:subject>Assassins</dc:subject>
+        <dc:subject>Rome</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Civil</dc:subject>
+        <dc:subject>War</dc:subject>
+        <dc:subject>43-31</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:48+00:00"/>
+        <meta name="calibre:title_sort" content="Julius Caesar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

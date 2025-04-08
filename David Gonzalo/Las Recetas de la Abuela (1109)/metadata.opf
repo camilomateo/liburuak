@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f320a2ef-527a-48eb-a67e-cac8b274dbe5</dc:identifier>
+        <dc:title>Las Recetas de la Abuela</dc:title>
+        <dc:creator opf:file-as="Gonzalo, David" opf:role="aut">David Gonzalo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div style="text-align: justify;"&gt;Finalmente, Las Recetas de Cocina mas tradicionales y sabrosas de Espana estan disponibles a la venta Aprende a cocinar las Recetas mas Tipicas de la Cocina Tradicional Espanola y Sorprenda a tus Familiares y Amigos: ) Estas apunto de descubrir los platos mas tradicionales de la rica y colorida cultura gastronomica de Espana. Este libro esta pensado para que los lectores y en este caso, cocineros, puedan probar y saborear las diferentes especialidades de las distintas regiones de Espana, haciendo con ello un viaje gastronomico por el pais sin necesidad de moverse de sus casas. Este recetario es adecuado para todo tipo de personas, ya sean cocineros profesionales, aficionados a la cocina o para principiantes, que quieran aprender nuevas recetas, enriqueciendo su recetario con un toque espanol. El libro esta estructurado en capitulos con diferente tematica, como por ejemplo tapas y entrantes, carnes o postres, para que resulte mas facil acceder a las recetas. Cada receta se compone de tres apartados: En primer lugar se encuentra el nombre de la receta, asi como informacion acerca de la dificultad, tiempo estimado de preparacion, adecuacion o no para vegetarianos y contenido de calorias. En segundo lugar se detallan los ingredientes y cantidades necesarias. Por ultimo se explica como se puede elaborar el plato. En ocasiones se anaden, consejos adicionales que tienen relevancia para dicha receta en cuestion.&lt;/div&gt;</dc:description>
+        <dc:publisher>David Gonzalo</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00I4YC16K</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:13.254226+00:00"/>
+        <meta name="calibre:title_sort" content="Recetas de la Abuela, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

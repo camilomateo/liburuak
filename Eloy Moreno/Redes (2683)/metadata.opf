@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1bab45a5-c421-4834-8955-f7df47fa2a31</dc:identifier>
+        <dc:title>Redes</dc:title>
+        <dc:creator opf:file-as="Eloy Moreno" opf:role="aut">Eloy Moreno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-20T22:00:00+00:00</dc:date>
+        <dc:description>Descubre la continuación de Invisible de Eloy Moreno. Emotiva, conmovedora, diferente... Redes narra, a través de los ojos de una adolescente, una historia que se ha convertido en la realidad de todos nosotros.¿Cuántos likes vale tu felicidad?Sepasa unas horas más viendo los viajes maravillosos, los cuerpos perfectos y todos los outfits que se prueban cada día los influencers. Y se siente mal porque ella no puede llevar la vida que ve en las redes, sabe que nunca podrá alcanzar una felicidad así.</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Didáctico</dc:subject>
+        <meta name="calibre:series" content="Invisible"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-10-22T06:11:23.132518+00:00"/>
+        <meta name="calibre:title_sort" content="Redes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

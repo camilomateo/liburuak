@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd4ea140-0b40-45b5-b68e-0de812061a54</dc:identifier>
+        <dc:title>La Verdad Sobre El Caso Harry Quebert(c.1)</dc:title>
+        <dc:creator opf:file-as="Dicker, Joel" opf:role="aut">Joel Dicker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Quién mató a Nola Kellergan es la gran incógnita a desvelar en esta incomparable historia policiaca cuya experiencia de lectura escapa a cualquier intento de descripción. Intentémoslo:
+Una novela de suspense a tres tiempos —1975, 1998 y 2008— acerca del asesinato de una joven de quince años en la pequeña ciudad de Aurora, en New Hampshire.
+En 2008, Marcus Goldman, un joven escritor, visita a su mentor —Harry Quebert, autor de una aclamada novela— y descubre que éste tuvo una relación secreta con Nola Kellergan. Poco después, Harry es arrestado y acusado de asesinato al encontrarse el cadáver de Nola enterrado en su jardín.
+Marcus comienza a investigar y a escribir un libro sobre el caso. Mientras busca demostrar la inocencia de Harry, una trama de secretos sale a la luz. La verdad sólo llega al final de un largo, intrincado y apasionante recorrido.
+Premio Goncourt des Lycéens, Gran Premio de Novela de la Academia Francesa y Premio Lire a la mejor novela en lengua francesa.</dc:description>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420414065</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joel Dicker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:28.035124+00:00"/>
+        <meta name="calibre:title_sort" content="Verdad Sobre El Caso Harry Quebert(c.1), La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1601</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ded22fd5-42a4-43a2-aeae-bb6270e4ed59</dc:identifier>
+        <dc:title>Las siete dinastías</dc:title>
+        <dc:creator opf:file-as="Matteo Strukul" opf:role="aut">Matteo Strukul</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-12T06:00:00+00:00</dc:date>
+        <dc:description>Siete familias, siete soberanos, seis ciudades.
+
+«Un Juego de tronos a la italiana» Il Mattino di Padova
+
+Milán, Florencia, Venecia, Ferrara, Roma, Nápoles.
+
+La Italia del siglo XV es una tierra desgarrada por guerras, intrigas y traiciones, gobernada por señores a veces cautos, pero a la vez sedientos de poder y, en ocasiones, sanguinarios. Esta es la historia de la Italia del Renacimiento, una historia que marcará el futuro de Europa.
+
+En Milán, Filippo Maria, el último Visconti, ante la ausencia de hijos varones, intenta garantizar su legado casando a su pequeña hija con Francesco Sforza, un prometedor hombre de armas. Mientras tanto, trata de sobornar al conde de Carmagnola para atacar a los Condulmer, los patricios de Venecia. Estos, repelen el ataque y logran el ansiado trono de Roma a través del papa Eugenio IV, a pesar de la oposición frontal de la familia Colonna. El apoyo de los Mecici, el doble juego de los Saboya, el enfrentamiento entre angevinos y aragoneses en el sur en una guerra cada día más descarnada y el avance de España y Francia en el tablero de tratados y alianzas del continente, marcan a siete dinastías dispuestas a todo por perpetuar a los suyos en el poder.</dc:description>
+        <dc:publisher>Ediciones  B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:58.498319+00:00"/>
+        <meta name="calibre:title_sort" content="siete dinastías, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

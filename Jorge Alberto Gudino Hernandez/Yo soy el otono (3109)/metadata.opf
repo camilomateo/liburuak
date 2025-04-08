@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1399c532-e34a-4301-b07a-b998c4306886</dc:identifier>
+        <dc:title>Yo soy el otoño</dc:title>
+        <dc:creator opf:file-as="Hernández, Jorge Alberto Gudiño" opf:role="aut">Jorge Alberto Gudiño Hernández</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-18T19:12:52+00:00</dc:date>
+        <dc:description>«En un momento dado, esa tarde,cuando me madreé a Chris, tú decidisteque yo no valía la pena y me entregastea Tito. Me salvaste de un cabrón yme dejaste conotro.»Cuando llega el momento de enfrentar el destino, la vida puede definirse con una sola palabra. Juriel y Santos la comparten: venganza. Tras un cruento ataque de la banda enemiga, el pasado compartido se bifurca: Juriel buscará refundar su identidad y Santos intentará extender la suya. Un tercer personaje terminará por definir el futuro: Maca, una mujer capaz de cuestionar los mandatos invisibles que atan a los personajes.En Yo soy el otoño, Jorge Alberto Gudiño afila con manos de artesano los verbos y los adjetivos necesarios para narrar un westernurbano. El territorio de la barranca podría pertenecer a la Ciudad de México o a cualquier otra urbe suficientemente grande para tener periferias anónimas. Un escenario del drama en donde vidas fugaces, como las de Tito, Eusebio, Racemo o el Huicho, alimentan a la gran hidra...</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073855204</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-03T15:06:04.177618+00:00"/>
+        <meta name="calibre:title_sort" content="Yo soy el otoño"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2947</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aeac2459-7cec-46e2-8dfb-6d0f1807f9c0</dc:identifier>
+        <dc:title>El Esplendor</dc:title>
+        <dc:creator opf:file-as="Martínez, Agustín" opf:role="aut">Agustín Martínez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-23T15:16:56+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;El nuevo thriller de uno de los integrantes de Carmen Mola&lt;/p&gt;
+&lt;p&gt;César y Rebeca son una joven pareja de buscavidas; él ofrece drogas y diversión a clientes VIP de un hotel de lujo en Madrid y ella localiza a familiares de personas que han fallecido sin testamento para quedarse con una parte de la herencia.&lt;/p&gt;
+&lt;p&gt;Rebeca ha hecho un viaje para cerrar un caso que promete jugosas ganancias; sin embargo, tras su regreso, César la encuentra paralizada en una postura imposible y con un rictus de terror en el rostro. El examen médico dictamina que sufre una crisis catatónica; tiene dos costillas rotas y rastros de una posible agresión sexual. ¿Qué le ha pasado? ¿Quién ha podido hacerle daño?&lt;/p&gt;
+&lt;p&gt;La búsqueda de respuestas llevará a César hasta una pequeña isla del canal de la Mancha que en su día estuvo ocupada por la Alemania nazi. Allí sabrá que Rebeca le mintió y se adentrará en un mundo que jamás imaginó que podía existir: cuando nos libramos de la moral nos convertimos en monstruos. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-11T10:09:54.639307+00:00"/>
+        <meta name="calibre:title_sort" content="Esplendor, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

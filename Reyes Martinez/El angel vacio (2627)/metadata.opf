@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2627</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d036f4cf-805b-49be-a7da-5c7541a552bf</dc:identifier>
+        <dc:title>El ángel vacío</dc:title>
+        <dc:creator opf:file-as="Martínez, Reyes" opf:role="aut">Reyes Martínez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-06T00:00:00+00:00</dc:date>
+        <dc:description>Un thriller enigmático que nos acerca a los rincones más siniestros del alma humana. Una historia tan perversa como difícil de olvidar.
+No apartes la mirada.
+Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón está siendo tan tediosa como cualquier otra, pero todo cambia cuando llega a Urgencias una joven cubierta de sangre y al borde de la muerte. Una escena espeluznante que preferiría no haber visto jamás.
+No huyas de las sombras.
+El inspector Jorge Cantero se hace cargo del caso sin sospechar que ese es solo el inicio de una compleja investigación. El macabro hallazgo del cadáver de otra chica en un cementerio de Gijón sumirá a la ciudad en una oscura niebla de temor.
+Enfréntate a la verdad.
+El mal se ha convertido en una presencia real y tangible que actúa sin compasión, movida por una crueldad irracional. Sin embargo, ¿son esas jóvenes realmente ángeles inocentes? ¿O tal vez ocultaban un secreto que ha desatado los instintos más criminales?
+Reseñas:
+
+«Reyes Martínez domina como nadie el arte de la tensión».
+
+Víctor del Árbol</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-16T07:57:39.331130+00:00"/>
+        <meta name="calibre:title_sort" content="ángel vacío, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

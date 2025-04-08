@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f654dd72-b704-46d4-9403-7343e098a4e1</dc:identifier>
+        <dc:title>El dilema</dc:title>
+        <dc:creator opf:file-as="Paris, B. A." opf:role="aut">B. A. Paris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El nuevo e intrigante thriller psicológico de la autora de Al cerrar la puerta&lt;/p&gt;
+&lt;p&gt;Saber la verdad la destrozará. Ocultarla lo destrozará a él.&lt;/p&gt;
+&lt;p&gt;Livia cumple cuarenta años y va a dar la fiesta de su vida para resarcirse del banquete nupcial que nunca tuvo. Irán todos sus seres queridos, menos su hija Marnie, que estudia en el extranjero, y aunque Livia la adora, en el fondo se alegra de que no vaya a estar presente. Tiene que contarle a Adam, su marido, algo sobre la niña, pero esperará a que termine la fiesta para poder así disfrutar de ese último momento de felicidad conjunta.&lt;/p&gt;
+&lt;p&gt;Adam, empeñado en que la fiesta de Livia sea perfecta, ha organizado en secreto la visita de Marnie, pero a lo largo del día se entera de una noticia horrible. Tiene que contárselo a Livia porque ¿cómo van a celebrar la fiesta con lo que ha pasado? Pero su mujer está muy contenta e ilusionada... y los invitados a punto de llegar.&lt;/p&gt;
+&lt;p&gt;¿Hasta dónde serías capaz de llegar para que el amor de tu vida disfrute de sus últimas horas de felicidad?&lt;/p&gt;
+&lt;p&gt;El dilema, que narra cómo un solo día cambia para siempre la vida entera de una familia, es la nueva novela desoladora y arrebatadora de la autora superventas B. A. Paris. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08PZLHLY1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-30T12:04:06.046446+00:00"/>
+        <meta name="calibre:title_sort" content="dilema, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

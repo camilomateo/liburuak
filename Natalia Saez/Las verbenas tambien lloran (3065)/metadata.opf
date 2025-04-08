@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3065</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cac415b2-cb3d-485e-bcb7-6447280710b9</dc:identifier>
+        <dc:title>Las verbenas también lloran</dc:title>
+        <dc:creator opf:file-as="Sáez, Natalia" opf:role="aut">Natalia Sáez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una novela coral tierna, original, diferente, emocional, divertida. La versión botánica de Sexo en Nueva York. Cata necesita empezar de nuevo tras comprender que su vida ha sido una mentira, y Bilbao le parece la mejor opción. Durante sus primeros días en el edificio conocerá a Begoña, Amaia y Vera, sus vecinas. En ellas encontrará el apoyo que necesita y mientras se reúnen en el patio que Begoña cuida y decora con tanto mimo descubrirán que las cosas de la vida, al igual que las plantas, también tienen que regarse.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-19T08:18:47.185232+00:00"/>
+        <meta name="calibre:title_sort" content="verbenas también lloran, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

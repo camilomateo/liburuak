@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">afc476ab-6b41-48b3-aefb-c9e83f245ff3</dc:identifier>
+        <dc:title>El ladrón de rostros</dc:title>
+        <dc:creator opf:file-as="Martín, Ibon" opf:role="aut">Ibon Martín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En Sandaili, una humilde ermita excavada en la roca, ha aparecido el cuerpo mutilado de una mujer asesinada mientras practicaba un antiguo rito de fertilidad. Su torso ha sido abierto y vaciado y las manos han sido colocadas a ambos lados de su abdomen en actitud de entrega. La escena reproduce, con macabra exactitud, las figuras de los apóstoles que Oteiza esculpió en la fachada de la basílica de Arantzazu. Las pruebas señalan que alguien realizó una copia de su rostro en el momento de su muerte.
+Un peligroso asesino ritual ha nacido al abrigo de las verdes montañas que guardan desde tiempos inmemoriales los mitos y las leyendas de los vascos. Un enclave aislado, moldeado por el agua que ha dejado sus cicatrices en forma de desfiladeros majestuosos y profundas cuevas. Ane Cestero y la Unidad de Homicidios de Impacto emprenderán un viaje a las entrañas de la tierra donde se oculta lo más oscuro del alma humana.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401028090</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ibon Martín&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:10:33.019401+00:00"/>
+        <meta name="calibre:title_sort" content="ladrón de rostros, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

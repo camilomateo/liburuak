@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2918</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80dfbc3b-9b18-4c79-8a21-033449706e2d</dc:identifier>
+        <dc:title>El diario de Eliseo</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-07T23:00:00+00:00</dc:date>
+        <dc:description>Eliseo, segundo piloto de la operación secreta Caballo de Troya, se une al grupo del Maestro y los acompaña durante dos años y tres meses, asistiendo a conversaciones y prodigios que no constan en los textos evangélicos.&lt;br/&gt;Pero su verdadera misión es otra.&lt;br/&gt;&lt;br/&gt;Advertencia: algunas escenas pueden herir su sensibilidad.&lt;br/&gt;Si ha leído «Caballo de Troya», «El diario de Eliseo» le dejará atónito.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">51640</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:series" content="Caballo de Troya"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:17.261686+00:00"/>
+        <meta name="calibre:title_sort" content="diario de Eliseo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

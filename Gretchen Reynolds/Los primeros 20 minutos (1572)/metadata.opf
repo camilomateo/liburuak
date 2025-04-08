@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">839294e7-69b7-453a-995f-fdfbeef77e54</dc:identifier>
+        <dc:title>Los primeros 20 minutos</dc:title>
+        <dc:creator opf:file-as="Reynolds, Gretchen" opf:role="aut">Gretchen Reynolds</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;#1 New York Times Bestseller&lt;/P&gt; &lt;P&gt;Sorprendentes hallazgos científicos revelan cómo ejercitarnos al máximo, entrenar mejor y vivir más.&lt;/P&gt; &lt;P&gt;&lt;B&gt;#1 New York Times Bestseller&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;Sorprendentes hallazgos científicos revelan cómo ejercitarnos al máximo, entrenar mejor y vivir más.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;¿Sabías que 20 minutos de cardio al día es suficiente para obtener los máximos beneficios de salud? &lt;/B&gt;&lt;/P&gt; &lt;P&gt;Cada semana, millones de estadounidenses modifican su rutina de ejercicio gracias a la columna de Gretchen Reynolds, una de las más leídas de The New York Times. Este libro, informativo y entretenido, deja al descubierto los avances científicos más recientes sobre salud y entrenamiento físico, a la vez que echa por tierra las ideas arraigadas en torno al deporte y estimula el debate alrededor de la ciencia del ejercicio. Luego de consultar a expertos en fisiología, biología, psicología, neurología y deporte, la autora nos explica con qué frecuencia debemos...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial México</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073122979</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:49.896700+00:00"/>
+        <meta name="calibre:title_sort" content="primeros 20 minutos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

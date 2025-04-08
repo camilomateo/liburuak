@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">522</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c186d112-e1df-48a1-bed3-e21c6a8e7200</dc:identifier>
+        <dc:title>Espía de Dios</dc:title>
+        <dc:creator opf:file-as="Gómez-Jurado, Juan" opf:role="aut">Juan Gómez-Jurado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Un centenar de cardenales acuden al Vaticano para asistir al Cónclave del que saldrá elegido el nuevo Papa. Pese a las infranqueables medidas de seguridad dos de ellos aparecen asesinados siguiendo un macabro ritual. La psiquiatra criminalista Paola Dicanti, ayudada por el padre Anthony Fowler, deberá atrapar a un asesino en serie cuyo objetivo son los jerarcas de la Iglesia. Oficialmente las muertes de los cardenales no están ocurriendo y Paola se enfrentará a un juego mortal donde nada es lo que parece con los ojos del mundo entero puestos sobre la Ciudad Eterna.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="EPL">1226</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">2.7</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Juan Gómez-Jurado&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:40:03.575542+00:00"/>
+        <meta name="calibre:title_sort" content="Espía de Dios"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

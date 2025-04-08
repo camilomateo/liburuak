@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a073c4f-219b-4f85-8b29-6f42346fe7d1</dc:identifier>
+        <dc:title>No te hagas ilusiones</dc:title>
+        <dc:creator opf:file-as="Moreno, Inés Fernández" opf:role="aut">Inés Fernández Moreno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-02T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Situaciones cotidianas y personas normales 
+son examinadas con la lupa de la inteligencia y el humor por una de las 
+escritoras más destacadas y queridas de la literatura argentina.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt; &lt;br&gt; &lt;p&gt;«Ya
+ era una ex madre, pensé, una mujer con ex trabajos, ex entusiasmos y 
+creencias, ex amigos y ex amores, tenía toda una ex vida por delante. La
+ que uno lleva a rastras atada por el hilo cada día más frágil de la 
+memoria.»&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Con cada libro, &lt;span class="a-text-bold"&gt;Inés Fernández Moreno&lt;/span&gt;
+ nos sacude del letargo cotidiano y nos interpela, con inteligencia y 
+sentido del humor, sobre nuestras vidas al mostrarnos situaciones y 
+personajes que son, ni más ni menos, quienes nos rodean. Una viajera 
+aterriza en el aeropuerto y de pronto ve una bota dando vueltas por la 
+cinta transportadora, sola, perdida. Un paseador de perros no logra 
+contenerse y le cuenta a su amigo la sesión de sexo salvaje e inesperado
+ que acaba de tener con una clienta. Dos novios de la adolescencia se 
+reencuentran después de décadas, cargados con la enorme expectativa de 
+que esta vez pueda concretarse su deseo. Una pareja decide remodelar la 
+cocina de su casa y él, arquitecto, no puede evitar criticar cada 
+decisión que ella va tomando. Todos podemos contemplarnos en esa pareja,
+ en esos novios jóvenes o ese paseador de perros.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789878266466</dc:identifier>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-11T07:33:24+00:00"/>
+        <meta name="calibre:title_sort" content="No te hagas ilusiones"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

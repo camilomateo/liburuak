@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1822</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0dab865-6dc5-4ef6-be7e-db16d7a5e273</dc:identifier>
+        <dc:title>El caballero de la Frontera</dc:title>
+        <dc:creator opf:file-as="Lozano, Margarita" opf:role="aut">Margarita Lozano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-12T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #333333; background-color: #ffffff"&gt;Corre el año 1339 y, en un acto desesperado de poner fin al cerco que sufre la frontera sur de Castilla, bajo asedio benimerín, el caballero Diego Fernández de Herrera se presta voluntario para acabar con la vida del príncipe heredero de Marruecos, que está decidido a hacerse con la plaza de la frontera. Toda la ciudad sabe que puede hacerse pasar por musulmán porque estuvo cautivo durante toda su juventud en tierras magrebíes, aunque Diego jamás contó qué vivió, dónde, cómo ni con quién durante sus casi veinte años allende los mares. Una crónica que solo está dispuesto a narrar al escriba del alcázar. El viaje, que comenzó a sus nueve años a través del reino enemigo, no terminará hasta que no cumpla su venganza contra el sultán, aquel niño junto al que creció en la suntuosa y erudita corte de Fez. Basada en la leyenda anónima de El libro del Alcázar sobre este héroe que sale de la frontera castellana para crecer en Marruecos, esta novela narra un viaje en pleno siglo XIV a través de ambas culturas.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Kaizen Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-28T10:55:05.176024+00:00"/>
+        <meta name="calibre:title_sort" content="caballero de la Frontera, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

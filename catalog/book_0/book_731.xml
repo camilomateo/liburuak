@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El sobrepeso emocional</title>
+  <id>urn:book:bd5bbf16-0b46-4f60-86db-6b93b20d5ddb</id>
+  <updated>2023-05-17T01:32:52Z</updated>
+  <link href="./book_731.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El sobrepeso emocional" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../authorlist/authorlist_C_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por C" />
+  <link href="../../Anna%20Sibel%20y%20Bea%20campos/El%20sobrepeso%20emocional%20%28731%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Anna%20Sibel%20y%20Bea%20campos/El%20sobrepeso%20emocional%20%28731%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Anna%20Sibel%20y%20Bea%20campos/El%20sobrepeso%20emocional%20%28731%29/El%20sobrepeso%20emocional%20-%20Anna%20Sibel%20y%20Bea%20campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+  <author>
+    <name>Anna Sibel y Bea campos</name>
+    <uri>../authors_0/authors_546_Page_1.xml</uri>
+  </author>
+  <published>2021-11-29T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:language>fr</dcterms:language>
+  <category term="Autoayuda" />
+  <category term="Salud" />
+  <category term="Lang:es" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Autoayuda, Salud, Lang:es, Lang:fr
+    </p>
+  </content>
+  <link href="../authors_0/authors_546_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Anna Sibel y Bea campos" />
+  <link href="http://www.goodreads.com/book/title/El%20sobrepeso%20emocional" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/El%20sobrepeso%20emocional" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/El%20sobrepeso%20emocional%20Anna%20Sibel%20y%20Bea%20campos" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20sobrepeso%20emocional&amp;field-author=Anna%20Sibel%20y%20Bea%20campos" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Anna%20Sibel%20y%20Bea%20campos" type="text/html" rel="related" title="Anna Sibel y Bea campos en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Anna%20Sibel%20y%20Bea%20campos" type="text/html" rel="related" title="Anna Sibel y Bea campos en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/camposAnnaSibelyBea" type="text/html" rel="related" title="Anna Sibel y Bea campos en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Anna%20Sibel%20y%20Bea%20campos" type="text/html" rel="related" title="Anna Sibel y Bea campos en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Anna%20Sibel%20y%20Bea%20campos" type="text/html" rel="related" title="Anna Sibel y Bea campos en ISFDB" target="_blank" />
+</entry>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">750</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">845a9eb7-ab5e-409f-aca9-8747fa1e4374</dc:identifier>
+        <dc:title>La muñeca de porcelana</dc:title>
+        <dc:creator opf:file-as="Loesch, Kristen" opf:role="aut">Kristen Loesch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-15T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;San Petersburgo, 1915. Tonya es una joven aristócrata casada con un hombre que la trata como una posesión más. Vive en un mundo lleno de lujos, ajena a las tensiones que están por desatar una revolución que cambiará para siempre la historia de Rusia y del mundo. Cuando conoce a Valentín, un bolchevique que representa la liberación de todas las ataduras que le han sido impuestas, no se imagina que entregarse a esa pasión la arrastrará por un laberinto de secretos, venganzas y tragedias que afectarán su vida y la de sus descendientes. Londres, 1991. Rosie es una estudiante de Oxford con una infancia traumática marcada por la muerte y el exilio. Cuando su madre fallece a causa de un alcoholismo provocado por los difíciles sucesos que las obligaron a dejar su hogar, Rosie tiene que enfrentarse a un pasado que había permanecido oculto hasta entonces. Regresará a su natal Rusia, donde descubrirá los secretos que han marcado a Su familia. Un misterioso cuaderno con cuentos de hadas escritos a mano por Tonya, su abuela, será la pieza clave en este viaje épico por tres generaciones de mujeres desde la revolución de 1917 hasta los últimos días de la Unión Soviética.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786070797781</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">o-2rEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-22T15:06:48.899422+00:00"/>
+        <meta name="calibre:title_sort" content="muñeca de porcelana, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3047</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43eeb8c3-6d2c-4401-8525-caf0bd0ef967</dc:identifier>
+        <dc:title>Golondrinas en agosto</dc:title>
+        <dc:creator opf:file-as="Fuertes, Clara" opf:role="aut">Clara Fuertes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-17T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-style: italic"&gt;¿Cuánto tiempo hace falta para comenzar a contar una historia?&lt;/p&gt;
+&lt;p&gt;Respiraré hondo, contaré hasta diez. Dejadme un momento cerrar los ojos, que pase el tiempo sin hacer nada, sin mirar de frente a la hoja en blanco. Parece un delito desafiarla. ¡Cuánta paz tienen los inicios que no terminan por empezar!&lt;/p&gt;
+&lt;p&gt;Me pregunto a dónde me llevarán estas páginas, cuál será su devenir, su final, nunca me he sentido más libre ni he estado tan perdida al mismo tiempo, nunca había probado este vértigo. Todo es desconocido y nuevo, sin trama, sin sueños.&lt;/p&gt;
+&lt;p&gt;¿Entenderán mis personajes que esta es la forma que he elegido para extender mis alas?, ¿lo entenderás tú, allá donde estés? Me he quedado huérfana de todo en lo que creía, incluso de la historia que tenía entre manos. Y por eso este duelo. Y por eso esta extrañeza. Y por eso este vuelo de Golondrinas en agosto.&lt;/p&gt;
+&lt;p&gt;Los recuerdos son ríos salvajes, una vez que comienzan solo puedes dejar que su curso navegue libre y llegue a su fin como quiera.&lt;/p&gt;
+&lt;p&gt;Hoy, es ese día.&lt;/p&gt;
+&lt;p&gt;Hoy, comienza este baile a tres tiempos, este baile de vida que habla de ti, papá, de mí, de una larga despedida, del duelo convertido en vuelo, de tu niño de posguerra, de nuestras jóvenes golondrinas alpargateras. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0D9CSNBWS</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-14T10:54:30.871189+00:00"/>
+        <meta name="calibre:title_sort" content="Golondrinas en agosto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

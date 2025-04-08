@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32b988f8-f3c2-43c4-828d-b958dd8d1495</dc:identifier>
+        <dc:title>Hansel y Gretel</dc:title>
+        <dc:creator opf:file-as="Hermanos Grimm" opf:role="aut">Hermanos Grimm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-16T23:00:00+00:00</dc:date>
+        <dc:publisher>www.elejandria.com</dc:publisher>
+        <dc:identifier opf:scheme="URI">https://www.textos.info/hermanos-grimm/hansel-y-gretel</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>CUENTOS INFANTILES</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hermanos Grimm&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-23T18:49:13.174900+00:00"/>
+        <meta name="calibre:title_sort" content="Hansel y Gretel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

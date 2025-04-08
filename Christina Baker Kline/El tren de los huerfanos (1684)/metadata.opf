@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1684</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28c83f12-9a26-4bd3-9b9e-ccbf0ab08fe3</dc:identifier>
+        <dc:title>El tren de los huérfanos</dc:title>
+        <dc:creator opf:file-as="Christina Baker Kline" opf:role="aut">Christina Baker Kline</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;span itemprop="description"&gt;Entre 1854 y 1929, los llamados trenes de 
+huérfanos partieron regularmente de las ciudades de la Costa Este de 
+Estados Unidos hacia las tierras de labranza del Medio Oeste, llevando 
+miles de niños abandonados cuyos destinos quedarían determinados por la 
+fortuna o el azar. ¿Serían adoptados por una familia amable y afectuosa,
+ o se enfrentarían a una adolescencia de trabajo duro y servidumbre?
+&lt;br&gt;&lt;br&gt;La inmigrante irlandesa Vivian Daly fue uno de esos niños, enviada 
+por ferrocarril desde Nueva York hacia un futuro incierto a un mundo de 
+distancia. Ahora, muchas décadas más tarde, Vivian es una anciana que 
+lleva una vida tranquila y apacible en la costa de Maine, y los 
+acontecimientos de su infancia se han convertido en un recuerdo vago. 
+Sin embargo, en arcones de su desván se ocultan vestigios de un pasado 
+turbulento.
+&lt;br&gt;&lt;br&gt;Molly Ayer, una joven de diecisiete años, sabe que cumplir con un 
+servicio a la comunidad ayudando a una anciana viuda a ordenar sus 
+trastos es lo único que puede salvarla de terminar en un centro de 
+menores. Pero a medida que Molly ayuda a Vivian a revisar sus recuerdos y
+ posesiones, descubre que ambas tienen mucho en común. Molly, una india 
+Penobscot que ha pasado su adolescencia entrando y saliendo de casas de 
+acogida, también ha sido educada por desconocidos y tiene preguntas 
+sobre su pasado de las que aún no ha obtenido respuesta.
+&lt;br&gt;&lt;br&gt;El tren de los huérfanos es una novela sobresaliente que, gracias al
+ boca a boca y las recomendaciones de los libreros, se convirtió en best
+ seller en Estados Unidos y todavía se mantiene entre los libros más 
+vendidos. Ha sido traducida al alemán, el italiano, el portugués y el 
+polaco.&lt;/span&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00S6F2IG0</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788466655194</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:45.094962+00:00"/>
+        <meta name="calibre:title_sort" content="tren de los huérfanos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

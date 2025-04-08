@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">651</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9fb44bf-b003-48dc-ac51-cca2de01ead3</dc:identifier>
+        <dc:title>Mañana no estás</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-23T06:00:00+00:00</dc:date>
+        <dc:description>Dos de la mañana en el metro de Nueva York, primera década del siglo XXI. En la ciudad está vivo el recuerdo del ataque a las Torres Gemelas. Jack Reacher y cinco pasajeros en un vagón. Algo no va bien con uno de ellos: cumple con todos los requisitos para ser un terrorista suicida. Reacher se los sabe de memoria y va a entrar en acción antes de que sea demasiado tarde. El reflejo de una guerra en el territorio menos pensado. Así empieza a desenredarse la trama de Mañana no estás. Infalible, incluso cuando se equivoca, Reacher va siguiendo las hebras del terrorismo islámico, el Pentágono, la carrera de un prometedor candidato a senador, rodeado por la policía y todas las fuerzas de seguridad en una ciudad, la capital del mundo, asolada por las amenazas y por la paranoia. ** Edición y traducción adaptadas a la variante peninsular ** "Lee Child sigue siendo el mejor." -Stephen King"Jack Reacher es el James Bond de la actualidad, un héroe del que nunca tenemos suficiente." -Ken...</dc:description>
+        <dc:publisher>Blatt &amp; Ríos</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788412180855</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Jack Reacher"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:timestamp" content="2023-05-10T14:29:10.876379+00:00"/>
+        <meta name="calibre:title_sort" content="Mañana no estás"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

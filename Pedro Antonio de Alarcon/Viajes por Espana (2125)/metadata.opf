@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcaacf8c-af63-41e5-87c8-726b26e54c55</dc:identifier>
+        <dc:title>Viajes por España</dc:title>
+        <dc:creator opf:file-as="Alarcón, Pedro Antonio de" opf:role="aut">Pedro Antonio de Alarcón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Spain</dc:subject>
+        <dc:subject>Description</dc:subject>
+        <dc:subject>Social</dc:subject>
+        <dc:subject>Life</dc:subject>
+        <dc:subject>19th</dc:subject>
+        <dc:subject>Century</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-06T12:21:20+00:00"/>
+        <meta name="calibre:title_sort" content="Viajes por España"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

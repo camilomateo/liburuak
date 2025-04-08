@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1486</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f88a800-ca3c-4627-bcab-d854a6a4436a</dc:identifier>
+        <dc:title>Ama tus miedos</dc:title>
+        <dc:creator opf:file-as="Guimerà, Xavi" opf:role="aut">Xavi Guimerà</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-11T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;MA TUS MIEDOS no es solo un libro de autoayuda, es un modo de 
+vivir transformando tu Ser, adentrándote en el autoconocimiento 
+necesario para dejar de luchar con todo aquello que te da miedo. Incluye
+ ejercicios fáciles de llevar a cabo que te van a empoderar SÍ o SÍ. 
+Frases para reflexionar y relatos para pensar.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CWCJFDCN</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-03T12:01:58+00:00"/>
+        <meta name="calibre:title_sort" content="Ama tus miedos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

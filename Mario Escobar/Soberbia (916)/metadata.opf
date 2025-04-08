@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">916</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cc7c571-8dd8-403b-a92e-a2046c26264a</dc:identifier>
+        <dc:title>Soberbia</dc:title>
+        <dc:creator opf:file-as="Escobar, Mario" opf:role="aut">Mario Escobar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;En el centro de la ciudad de Málaga, nadie tiene secretos para nadie. ¿O tal vez sí los tengan? Hay novelas imposibles de dejar una vez que has comenzado, historias que llevan el suspense a su estado máximo y hacen dudar al lector cada vez que termina un capítulo. En este thriller absolutamente original y adictivo, Mario Escobar rompe los límites de la intriga psicológica con un relato que explora las frágiles fronteras entre la verdad y la mentira. Amanda Romero es una trabajadora social de la ciudad de Málaga que trabaja en los Servicios Sociales, su exmarido Arturo es policía, ambos se separaron tras la desaparición de su hija pequeña un año antes. Tras la muerte del marido de Susana, un abogado millonario, las dos hermanas descubrirán sus turbios negocios y su relación con las mafias de Cádiz. Ambas desentrañarán los crímenes de los narcos protegidos por políticos populistas y agente de la ley. Amanda logrará descubrir una pista que le llevará hasta Melilla y una trama de robo y venta de menores.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Crímenes del Sur"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-07-04T12:11:59+00:00"/>
+        <meta name="calibre:title_sort" content="Soberbia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

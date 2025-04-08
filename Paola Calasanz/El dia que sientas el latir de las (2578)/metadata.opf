@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2578</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d57af676-01fc-4c4f-b773-126a46ce4cf8</dc:identifier>
+        <dc:title>El día que sientas el latir de las estrellas</dc:title>
+        <dc:creator opf:file-as="Paola Calasanz" opf:role="aut">Paola Calasanz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif"&gt;Una novela llena de amor, emoción y belleza, sobre el poder del pasado y la importancia de vivir la vida siempre como una aventura.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif"&gt;Isla es neurótica, controladora y arrastra algún que otro trauma de la infancia. Vive con sus tíos en Australia y nunca ha salido de allí. Tras una vida de comodidades decide viajar a África para reencontrarse con su padre, que dirige un orfanato de gorilas. Fue allí también, en la República Democrática del Congo, donde su madre desapareció cuando ella era solo un bebé. Isla se encontrará en plena selva tras un accidente y allí no solo se topará con rebeldes, guerrillas, cazadores furtivos y una naturaleza inabarcable, sino también con el erotismo y una historia de amor salvaje. A lo largo del viaje se reencontrará con su pasado y se desvelará un enigma que cambiará su vida para siempre.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Rocaeditorial</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07B28PJJQ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-11T13:29:02+00:00"/>
+        <meta name="calibre:title_sort" content="El día que sientas el latir de las estrellas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

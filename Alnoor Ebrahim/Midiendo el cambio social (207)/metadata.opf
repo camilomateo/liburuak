@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">207</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e263973e-3f6f-4a0e-b967-13b1fe9a4b16</dc:identifier>
+        <dc:title>Midiendo el cambio social</dc:title>
+        <dc:creator opf:file-as="Ebrahim, Alnoor" opf:role="aut">Alnoor Ebrahim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;A diferencia de lo que sucede en el sector privado con ánimo de lucro, no siempre es fácil medir cuál es el desempeño social de los proyectos llevados a cabo por organizaciones no gubernamentales, emprendedores sociales, organismos de asistencia social o fundaciones filantrópicas. ¿Qué impacto tiene una inversión cuando su objetivo es combatir la pobreza, mitigar el cambio climático o promover los derechos humanos? ¿Cómo puede medirse? ¿De qué manera se pueden rendir cuentas por los resultados?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;em style="color: #000000"&gt;Midiendo el cambio social&lt;/em&gt;&lt;span style="color: #000000"&gt; aborda estos dilemas fundamentales que encaran los líderes y los inversores de este sector en pleno crecimiento, con millones de organizaciones sin ánimo de lucro que invierten miles de millones, y en el que las nuevas generaciones de filántropos e inversores no sólo quieren destinar dinero a una causa noble, sino también medir su impacto.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;Este libro aborda los tres desafíos fundamentales relacionados con el desempeño que tanto las empresas sociales como las organizaciones sin ánimo de lucro deben afrontar: qué medir, qué tipos de sistemas de evaluación y de gestión del desempeño es necesario construir, y cómo establecer términos de responsabilidad. Y para encararlos, presenta distintas clases de estrategias que, en suma, redundan en un solo objetivo: aprovechar los datos para tomar las decisiones más convenientes y mejorar los resultados que se ofrecen a la sociedad.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Deusto</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alnoor Ebrahim&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:25:42+00:00"/>
+        <meta name="calibre:title_sort" content="Midiendo el cambio social"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

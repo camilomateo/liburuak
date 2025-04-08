@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e588a614-f9d2-4427-91fe-8ce5c7760bd2</dc:identifier>
+        <dc:title>Shokunin</dc:title>
+        <dc:creator opf:file-as="B. Gil, David" opf:role="aut">David B. Gil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-31T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Maese Ekei Inafune, médico de cámara del clan Shimizu, es 
+reclamado para diagnosticar los cadáveres que, sin señal alguna de 
+violencia, aparecen cada noche en el barrio del placer. Las autoridades 
+locales temen la propagación de una nueva enfermedad, pero lo que 
+comienza como un caso médico termina por revelar un secreto mucho más 
+truculento.&lt;br&gt;&lt;br&gt;Este cuento autoconclusivo se ubica antes de los acontecimientos narrados en &lt;span class="a-text-italic"&gt;El guerrero a la sombra del cerezo&lt;/span&gt;,
+ y deleitará tanto a los lectores que reclamaban más aventuras de este 
+peculiar médico, como a aquellos que desean descubrir a uno de los 
+protagonistas de la novela histórica mejor valorada por los lectores de 
+Amazon España.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DBVSKWZ5</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-06T08:56:51.075680+00:00"/>
+        <meta name="calibre:title_sort" content="Shokunin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

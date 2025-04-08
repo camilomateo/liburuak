@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1166</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d817d4b-d071-46c9-aae3-5d6467858aa6</dc:identifier>
+        <dc:title>Neurociencia del cuerpo</dc:title>
+        <dc:creator opf:file-as="Castellanos, Nazareth" opf:role="aut">Nazareth Castellanos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-25T08:23:05+00:00</dc:date>
+        <dc:description>&lt;p&gt;La neurociencia vive hoy inmersa en una revolución con fuertes 
+implicaciones clínicas, sociales y personales. El redescubrimiento de la
+ influencia de los órganos del cuerpo sobre el cerebro nos traslada a 
+una visión integral de la percepción. En este libro, la autora nos 
+acompaña en un viaje a través del cuerpo para descubrir su impacto sobre
+ las neuronas. Este recorrido nos lleva a reconocer que la memoria, la 
+atención, el estado de ánimo o las emociones dependen de cuestiones como
+ la postura corporal y los gestos faciales, la microbiota intestinal y 
+el estómago, así como el complejo patrón de latidos cardíacos y la 
+manera como respiramos. Las evidencias científicas más novedosas y 
+rigurosas se entrelazan en esta obra con la historia de la medicina en 
+Oriente y Occidente. Acercarse al cuerpo para conocer nuestra 
+psicología.&lt;/p&gt;</dc:description>
+        <dc:publisher>Editorial Kairós, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">‎B0B7183Z5X</dc:identifier>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-25T19:39:52.139423+00:00"/>
+        <meta name="calibre:title_sort" content="Neurociencia del cuerpo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

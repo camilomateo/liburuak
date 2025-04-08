@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">912</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecca06e4-58cf-4393-9c41-55c65eb2b326</dc:identifier>
+        <dc:title>Julieta muere envenenada</dc:title>
+        <dc:creator opf:file-as="Serra, Danny" opf:role="aut">Danny Serra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En "Julieta Muere Envenenada", Charlie Paen, un apasionado detective privado y devoto lector de novelas negras, se enfrenta a su primer y más intrigante desafío. Inspirado por los innumerables personajes de papel que ha conocido a través de sus lecturas, Charlie se sumerge en el oscuro mundo del teatro con el objetivo de resolver el enigma del envenenamiento de Ana Rodríguez, una brillante y atractiva actriz que muere en el escenario mientras interpretaba el trágico papel de Julieta en una presentación magistral de la obra de Shakespeare.&lt;br&gt;&lt;br&gt;En su incansable búsqueda de la verdad, Charlie se encuentra con una red de sospechosos, cada uno con sus propios motivos y secretos ocultos. A medida que el telón se levanta y los actores revelan sus interpretaciones, los hilos del destino se enredan en una trama llena de giros sorprendentes y pasiones prohibidas.&lt;br&gt;&lt;br&gt;Con la elegante astucia digna de un Hércules Poirot en pleno esplendor, Charlie Paen desentrañará los enigmas y pistas cuidadosamente ocultas en el escenario del crimen. Sin embargo, ¿logrará descubrir al culpable antes de que la tragedia final caiga sobre algún otro inocente? En "Julieta Muere Envenenada", el suspense y la intriga se entrelazan en un emocionante juego de engaños y revelaciones impactantes. ¿Estás preparado para sumergirte en esta historia de amor, traición y misterio?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Charlie Paen"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-07-04T12:11:53.063624+00:00"/>
+        <meta name="calibre:title_sort" content="Julieta muere envenenada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1671</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e42c4132-cc12-492d-8d74-bcd1c8aad60e</dc:identifier>
+        <dc:title>El caso Telak</dc:title>
+        <dc:creator opf:file-as="Miloszewski, Zygmunt" opf:role="aut">Zygmunt Miloszewski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;«Un principio propio de Agatha Christie y un final digno de Dostoievski» (Paris Match). Una novela adictiva, ganadora del Premio Nagroda Wielkiego Kalibru (Mejor Novela Negra del Año).&lt;/p&gt;
+&lt;p&gt;Un domingo de primavera, en un antiguo monasterio de Varsovia, se celebra una terapia de grupo. La tranquilidad dura poco tiempo ya que uno de los participantes aparece muerto con un asador clavado en el ojo.&lt;/p&gt;
+&lt;p&gt;El fiscal Teodor Szacki asume las riendas de este «Caso Telak», que casi acabará por superarlo y que lo distraerá de la rutina de su trabajo, de las noticias de Varsovia y del mundo y de su monótono matrimonio. La mecánica de la terapia «de constelaciones» es el punto de partida: ¿puede alguno de los participantes haber caído preso de su propia ficción?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00S8NW3XS</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-17T21:51:02.170856+00:00"/>
+        <meta name="calibre:title_sort" content="caso Telak, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

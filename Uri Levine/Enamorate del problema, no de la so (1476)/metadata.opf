@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1476</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd6dc55e-fd98-4b5d-8171-6e7597a0c5e1</dc:identifier>
+        <dc:title>Enamórate del problema, no de la solución (Edición española)</dc:title>
+        <dc:creator opf:file-as="Levine, Uri" opf:role="aut">Uri Levine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-28T09:45:22+00:00</dc:date>
+        <dc:description>Descubre cómo triunfar con tu idea y crear impacto de la mano de un prestigioso empresario
+«Este libro debería ser lectura obligatoria para todo aspirante a emprendedor.»
+—Marc Randolph, cofundador de Netflix
+Construir una start-up y conseguir financiación es un verdadero viaje plagado de altibajos. Uri Levine —emprendedor, mentor y cofundador de Waze— lo sabe bien porque lleva veinte años creando decenas de empresas y ha sido testigo tanto de casos de éxito como de fracaso.
+En este libro, Levine comparte su método para fundar «unicornios» (compañías valoradas en más de mil millones de dólares) a partir de su experiencia, sirviéndose de ejemplos reales y del caso de Waze, que ostenta el récord de haber pagado la suma más elevada por una empresa de tecnología.
+Su recetario es sencillo: poner en el centro al usuario y partir de la identificación de un problema que vale la pena resolver y concebir empresas que cambien a mejor la vida de la gente corriente. El autor defiende que sólo hay decisiones correctas y que tomarlas es una de las cualidades más importantes de un CEO exitoso.
+Enamórate del problema, no de la solución enseña a emprendedores, profesionales de empresas de alta tecnología y empresarios todo el proceso de desarrollo de una start-up, comenzando desde el ajuste producto-mercado hasta la determinación del modelo de negocio y el afianzamiento de una vía de crecimiento.
+Está en nuestras manos generar un mayor impacto en la sociedad y ayudar a hacer del mundo un lugar mejor.</dc:description>
+        <dc:publisher>2024</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423437351</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T15:13:17+00:00"/>
+        <meta name="calibre:title_sort" content="Enamórate del problema, no de la solución (Edición española)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

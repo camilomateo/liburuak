@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2967</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76623599-48d4-462f-9236-4ab757b0c19a</dc:identifier>
+        <dc:title>El estrangulador</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-12-31T23:00:00+00:00</dc:date>
+        <dc:description>El protagonista está recluido en un manicomio penitenciario. Desde ahí lanza sus andanadas contra el mundo y recuerda su propia historia, la peripecia personal del estrangulador de Boston, repleta de pistas falsas o auténticas que hacen dudar al lector de que este loco sea un estrangulador, de que haya asesinado a tanta gente como proclama y de que la ciudad de sus desventuras sea Boston. ¿Acaso no es el prototipo del hombre nuevo insolidario, víctima y verdugo del principio de que el hombre es un loco para el otro hombre?</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:15.899072+00:00"/>
+        <meta name="calibre:title_sort" content="estrangulador, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

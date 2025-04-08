@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1758</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13e1affe-f6b3-4c1b-a033-4bd861dc8c7d</dc:identifier>
+        <dc:title>La Casa entre las Cenizas</dc:title>
+        <dc:creator opf:file-as="Galván Jr., Omar" opf:role="aut">Omar Galván Jr.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-21T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Tenemos el agrado de presentar al público lector un muy buen libro
+ de cuentos de Omar Galvan: "La casa entre las cenizas". Se trata de una
+ antología de breves relatos en los que aparece siempre el suspenso, aún
+ lo terrorífico, al mejor estilo de Allan Poe, de Hitchcock, de 
+Lovecraft; relatos en los que los hechos y las vivencias de los 
+personajes están tan bien descriptos que nos parece estar en la propia 
+escena.&lt;br&gt;Nos atrapa. Crea la atmósfera de suspenso y, por supuesto, el
+ goce estético que, más allá de la temática del relato, nos conmueve y 
+nos incentiva a seguir leyendo.&lt;/div&gt;</dc:description>
+        <dc:publisher>‎ Independently published</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DDYH9PS8</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>suspense</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:08.927856+00:00"/>
+        <meta name="calibre:title_sort" content="Casa entre las Cenizas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74d740af-004e-43b2-8cc6-db2bd2a7de78</dc:identifier>
+        <dc:title>Qatar</dc:title>
+        <dc:creator opf:file-as="Loaiza, Fonsi" opf:role="aut">Fonsi Loaiza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-27T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;El Mundial de Qatar 2022 es la competición deportiva de la 
+historia con más obreros muertos en la construcción de infraestructuras 
+(aproximadamente 7.000 trabajadores). Esta edición de la Copa del Mundo 
+de fútbol tiene por sede un país cuyo régimen somete totalmente a las 
+mujeres a la tutela masculina, persigue y pena con prisión la 
+homosexualidad, permite la tortura a presos y prohíbe los derechos 
+sindicales y de libertad de expresión, de conciencia y de reunión. A 
+golpe de talonario estos jeques han comprado voluntades ‒políticas, 
+deportivas y de los mercados‒ para blanquear su teocracia carente de 
+libertades, donde no se respetan los derechos humanos, y en la que manda
+ un autócrata que es agasajado por los cínicos Estados occidentales y 
+sus medios de comunicación. Una red de intereses internacional cuya 
+sombra llega hasta nuestras instituciones y empresas.&lt;br&gt;&lt;br&gt;Siguiendo 
+nuevamente el rastro de los negocios convenidos en palcos y despachos 
+del mundo del fútbol moderno, Fonsi Loaiza nos muestra la podredumbre y 
+corrupción que han posibilitado la celebración del que será recordado 
+como uno de los eventos deportivos más infames de la historia.&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Akal, S.A.</dc:publisher>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Fonsi Loaiza&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-02T19:58:29.520718+00:00"/>
+        <meta name="calibre:title_sort" content="Qatar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

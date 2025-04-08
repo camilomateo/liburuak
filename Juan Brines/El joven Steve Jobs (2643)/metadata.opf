@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2643</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3797ec61-2019-46f2-a125-b782b58e2d2f</dc:identifier>
+        <dc:title>El joven Steve Jobs</dc:title>
+        <dc:creator opf:file-as="Juan Brines" opf:role="aut">Juan Brines</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-08T06:00:00+00:00</dc:date>
+        <dc:description>“Solo aquellos que están tan locos para creer que pueden cambiar el mundo son quienes terminan por transformarlo.” Steve Jobs "La mejor novela sobre la vida de Steve Jobs, desde su nacimiento hasta la fundación de Apple." Karola Zárate, Economista y experta en finanzas internacionales. ¿Cuál es nuestro lugar en el mundo? O como Steve Jobs lo diría: ¿Cómo conseguimos dejar nuestra marca en el universo? Este es el retrato de un niño peculiar, y luego, un joven brillante pero problemático, obsesionado con descubrir su pasión y misión en la vida.</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>memorias</dc:subject>
+        <dc:subject>Tecnología</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-21T14:27:27.522980+00:00"/>
+        <meta name="calibre:title_sort" content="El joven Steve Jobs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

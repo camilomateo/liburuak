@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">764</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc69dacf-f363-4c01-97c0-058ae496b886</dc:identifier>
+        <dc:title>Escuela de escritura</dc:title>
+        <dc:creator opf:file-as="Abad, Mercedes" opf:role="aut">Mercedes Abad</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-11T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div data-v-809af916="" class="text-container"&gt;&lt;div data-v-7fdc4342="" data-v-809af916="" class="formated-text"&gt;&lt;p&gt;&lt;b&gt;Tras varios años sin publicar, vuelve Mercedes Abad al catálogo de Tusquets con una novela trepidante&lt;/b&gt;&lt;/p&gt;&lt;p&gt;¿Hasta dónde serías capaz de llegar con tal de sorprender al mundo con una obra maestra? ¿Qué llegarías a hacer para que reconozcan tu talento genial? ¿Dónde acaba la pasión por la literatura y dónde empiezan la loca ambición y la simple vanidad? De todo esto habla esta trepidante y suculenta historia, que arranca en un cementerio y reconstruye la experiencia en un taller de escritura. En ella nadie es quien parece ser, ni siquiera quien la relata. Porque por muy perspicaces que creamos ser, muchas veces nuestras interpretaciones del mundo y de las curiosas criaturas que lo pueblan no dejan de ser ficciones que la burlona realidad se aplica en desmentir para ponernos en nuestro sitio. &lt;i&gt;Escuela de escritura&lt;/i&gt; es una brillantísima reflexión sobre nuestra necesidad de crear, sobre las complejas relaciones del escritor con su obra y los espejismos del arte y el talento individual.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-25T10:54:15.824186+00:00"/>
+        <meta name="calibre:title_sort" content="Escuela de escritura"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

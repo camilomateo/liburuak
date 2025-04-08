@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2937</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c601b888-3fa3-4120-be8a-b3a03fa4717b</dc:identifier>
+        <dc:title>Estoy bien</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-03T23:00:00+00:00</dc:date>
+        <dc:description>El libro abre un debate sobre la existencia del más allá y da un mensaje de esperanza ante la muerte. A lo largo de cuarenta años de investigación, el autor ha reunido un total de 130 casos fascinantes de apariciones de gente ya fallecida, recopilados en un libro con gran documentación gráfica (fotos, mapas, archivos…). «Las experiencias seleccionadas para Estoy bien fueron vividas por mujeres y hombres de diferentes clases sociales, edades, creencias religiosas y niveles culturales. Todos tienen algo en común: no mienten.» J. J. Benítez. En su nuevo libro, J. J. Benítez, autor de la exitosa serie Caballo de Troya, trata sobre un tema de máxima actualidad: la muerte. Se trata de la primera investigación del autor, que empezó en 1968 y acabó a finales de 2012: 130 casos de muertos que “vuelven”. El autor ha viajado por todo el mundo en busca de historias y para hablar con los protagonistas o familiares de los casos. Más de 130 testimonios desde el otro lado del túnel que cambiarán su visión sobre la vida y la muerte. Nadie mejor que Benítez para contar historias de muertos que vuelven. Si tan solo uno de estos testimonios fuera cierto el «más allá» sería real. Un tema fascinante explicado por el mejor Benítez.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Espiritualidad</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:25.466377+00:00"/>
+        <meta name="calibre:title_sort" content="Estoy bien"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

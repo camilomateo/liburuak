@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2722</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be350063-5e7c-4f99-9051-bf87ddd730a6</dc:identifier>
+        <dc:title>El aprendiz</dc:title>
+        <dc:creator opf:file-as="Echanove, Jon" opf:role="aut">Jon Echanove</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-06T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Aventuras, acción y picaresca en una espléndida novela histórica ambientada en la Sevilla del siglo XVII. « Echanove recrea la Sevilla del siglo XVII con todo detalle y la convierte en escenario de una aventura que sabe a clásico y recuerda a Oliver Twist» . Félix J. Palma Desde que se quedó huérfano, el Lagartija malvive en el barrio de Triana junto con el Manco, poco mayor que él, y dos hermanos gemelos. Cada día se adentran en los callejones atestados de gente buscando monedas perdidas o algún mendrugo de pan, hasta que la fatalidad obliga a la cuadrilla de amigos a separarse. A partir de ese momento, el Lagartija tendrá que enfrentarse en solitario a las inclemencias del destino y andarse con sumo cuidado, sobre todo cuando aparezca en su vida Hendrick van Belle, un mercader flamenco involucrado en turbios negocios que lo embaucará para que sea su aprendiz. Solo dejando atrás la inocencia y armándose de valor y astucia, este joven pícaro podrá sobrevivir en un mundo de violencia, corrupción y ambición desmedida. Con la excelencia de los grandes maestros del género histórico, Jon Echanove nos traslada a través de los ojos de un niño a una Sevilla deslumbrante y hermosa, pero también sumamente despiadada.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-11-26T15:34:03.861448+00:00"/>
+        <meta name="calibre:title_sort" content="aprendiz, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

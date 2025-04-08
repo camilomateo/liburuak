@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1531</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90ceae73-f14f-46a7-86a7-ed5039850e2f</dc:identifier>
+        <dc:title>Días salvajes</dc:title>
+        <dc:creator opf:file-as="David Jiménez" opf:role="aut">David Jiménez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-22T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;UNA NOVELA SOBRE EL CORAJE DE VIVIR&lt;/p&gt;
+&lt;p align="justify"&gt;El joven millonario Bosco Zabala, heredero de una dinastía de banqueros, provoca un terrible &lt;strong&gt;accidente kamikaze&lt;/strong&gt; tras una noche de fiesta desbocada. La &lt;strong&gt;tragedia sacudirá a tres familias&lt;/strong&gt; que viven en mundos opuestos, enlazará sus destinos y las arrastrará al abismo donde anidan nuestros sentimientos más extremos. &lt;/p&gt;
+&lt;p align="justify"&gt;¿Qué estaríamos dispuestos a hacer por &lt;strong&gt;reparar el error fatal de un hijo&lt;/strong&gt;? Cuando el sistema protege al poderoso y falla al inocente, ¿dónde están los límites en la &lt;strong&gt;búsqueda de justicia&lt;/strong&gt;? ¿Puede la venganza calmar el dolor insoportable de la pérdida?&lt;br&gt;&lt;em&gt;Días salvajes&lt;/em&gt; es una conmovedora novela sobre el duelo, la culpa, la amistad y la lucha contra el olvido, y también un retrato descarnado de la &lt;strong&gt;España eufórica de los años 2000&lt;/strong&gt; , cuya resaca dejó heridas que siguen sin cicatrizar.&lt;/p&gt;
+&lt;p align="justify" style="font-size: large; font-weight: bold"&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">PMT4EAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0CTHPQYKL</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">209302729</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788408289364</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:39.967763+00:00"/>
+        <meta name="calibre:title_sort" content="Días salvajes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

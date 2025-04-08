@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2765</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">999a9b63-82df-49b7-b717-6c494a3fb49b</dc:identifier>
+        <dc:title>La loba fiel</dc:title>
+        <dc:creator opf:file-as="Ibarrola, Max" opf:role="aut">Max Ibarrola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una novela de suspense en estado puro Arizona, verano de mil novecientos noventa y seis. En un rancho situado en medio del desierto, una empleada de la máxima confianza se lleva, sin mediar explicación, al nieto de un multimillonario. Años más tarde, a pesar de los esfuerzos desesperados por dar con el niño y su secuestradora, ambos siguen en paradero desconocido, como si se los hubiera tragado la tierra. Liam Moore, un expolicía reconvertido en investigador, tendrá la inesperada oportunidad de ser el hombre que consiga resolver el misterio y devuelva al chico a su legítimo hogar. Sin embargo, conforme avanzan las indagaciones se pondrá en evidencia que nada es lo que parece. El detective y su ayudante se verán inmersos en un laberinto de engaños, motivos ocultos y cómplices inesperados, hasta el punto de que sus propias vidas acabarán por correr un riesgo inimaginable. Un intenso thriller a tres bandas en el que se ponen a prueba el verdadero significado de la fidelidad, el peso de la sangre en el complejo escenario de las grandes dinastías y la integridad de quien debe decidir entre hacer lo que es debido o asegurar su propia supervivencia. Max Ibarrola destaca por ser capaz de crear una trama de suspense en estado puro y totalmente impredecible.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Click Ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-29T10:30:04.534211+00:00"/>
+        <meta name="calibre:title_sort" content="loba fiel, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">769</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">901cd9a3-da3b-4c2c-9833-1b8392b63e85</dc:identifier>
+        <dc:title>Trincheras de cable</dc:title>
+        <dc:creator opf:file-as="Chiaverini, Jennifer" opf:role="aut">Jennifer Chiaverini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-22T06:00:00+00:00</dc:date>
+        <dc:description>En junio de 1917, el general John Pershing llegó a Francia con el objetivo de establecer las fuerzas norteamericanas en Europa. Descubrió rápido que comunicarse con las tropas destacadas en el campo de batalla era imposible. Necesitaba operadores capaces de gestionar las conexiones con rapidez y precisión, que hablaran perfectamente francés e inglés, que mantuvieran la serenidad en caso de encontrarse bajo el fuego enemigo y que fuesen totalmente discretos, puesto que las comunicaciones contenían información clasificada. Respondieron al anuncio más de 7600 mujeres, entre ellas Grace Banker, que trabajaba en AT&amp;T impartiendo cursos de manejo de centralitas; Marie Miossec, francesa y cantante de ópera; y Valerie DeSmedt, de veinte años, operadora en Pacific Telephone y decidida a luchar a favor de Bélgica, su país de origen. Las tres estuvieron entre las primeras mujeres que juraron lealtad al Ejército de los Estados Unidos. Los soldados varones a los que sustituyeron necesitaban un minuto para conectar una llamada. Las soldados de centralita lo hacían en solo diez segundos. Ridiculizadas a veces con el mote de «chicas hola», las mujeres del Cuerpo de Señales del Ejército de los Estados Unidos sirvieron con honor y jugaron un papel esencial en la consecución de la victoria aliada. El riesgo de muerte era real —trabajaban mientras llovían bombas a su alrededor—, igual que la amenaza de una nueva enfermedad mortal: la gripe española. No todas las operadoras telefónicas lograrían sobrevivir. Su historia nunca había sido el eje central de una novela… hasta ahora.</dc:description>
+        <dc:publisher>HarperCollins Ibérica, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="PAGINAS">627</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002338</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-25T10:54:20.622691+00:00"/>
+        <meta name="calibre:title_sort" content="Trincheras de cable"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

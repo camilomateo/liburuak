@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fdc94512-81d8-4435-a4b4-f66bba33b059</dc:identifier>
+        <dc:title>Descubriendonos</dc:title>
+        <dc:creator opf:file-as="Forner, Ana" opf:role="aut">Ana Forner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-06T10:22:17+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Dos amigos nunca deberían besarse... ¿O sí? ¿Eres de las que piensan que no pasa nada o de las que opinan todo lo contrario? &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;¿Has besado alguna vez a tu mejor amigo? Y cuando digo «besar» no me refiero a un piquito de nada, sino a un beso en condiciones, de esos que crean fuegos artificiales sobre tu cabeza, convierten tus huesos en plastilina e incendian tu piel. Si aún no lo has hecho, no lo hagas; te aseguro que no es una buena idea, a no ser, claro está, que queráis cambiar de nivel, ya sabes, pasar de una gran amistad a algo más intenso. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Me llamo Noe, vivo en Brooklyn, Nueva York, y comparto rellano con el que era mi mejor amigo, y digo «era» porque no sé si sigue siéndolo. Nos besamos, sí, y ahora nos estamos evitando a toda costa porque está claro que ninguno de los dos queremos cambiar de nivel, que no sabemos cómo mirarnos y que no tenemos ni idea de qué decirnos después del tremendo beso que nos dimos. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Si esto fuera un libro, supongo que este sería un buen comienzo, pero se trata de mi vida: es lo que siento, lo que callo y lo que guardo, que es mucho, y no comienza con este beso, sino mucho antes.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Zafiro eBooks</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6c800925-0763-4168-9795-907178682470</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Erótica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ana Forner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A ciento cincuenta pulsaciones por minuto"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:17.956703+00:00"/>
+        <meta name="calibre:title_sort" content="Descubriendonos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">527</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0d70032-a1f3-4837-882f-294695bb97d4</dc:identifier>
+        <dc:title>La conjura de los suicidas</dc:title>
+        <dc:creator opf:file-as="Petros Márkaris" opf:role="aut">Petros Márkaris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-03T08:37:50+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;El suicidio de un anciano durante la pandemia de covid revela a una sociedad que ha llegado al límite de sus fuerzas y de su paciencia.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;En Atenas, durante la pandemia de covid, la mayoría de las tiendas y de los bares permanecen cerrados, y muchas personas están, en todos los sentidos, al límite. A nadie le sorprende que la tasa de suicidios haya aumentado. Y, sin embargo, Kostas Jaritos no acaba de entender que un anciano de noventa años escriba en su carta de despedida: «¡Viva la conjura de los suicidas!» después de aludir a la soledad y la miseria en que vivía. ¿Hay algo más detrás de esta muerte que pura desesperación? ¿Y qué podría desencadenar esta nota entre una población al borde de sus fuerzas y de su paciencia, y muy susceptible a las vacunas y las restricciones? Kostas Jaritos tendrá que investigarlo. Así conseguirá conocer aspectos ineditos de Atenas y, sobre todo, el espíritu de resistencia de sus habitantes.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411072946</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Petros Márkaris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Kostas Jaritos"/>
+        <meta name="calibre:series_index" content="14"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:40:07.620896+00:00"/>
+        <meta name="calibre:title_sort" content="conjura de los suicidas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

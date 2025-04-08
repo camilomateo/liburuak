@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec21877f-6ce1-4e13-b998-f1e20fc74967</dc:identifier>
+        <dc:title>El final del hombre</dc:title>
+        <dc:creator opf:file-as="Mercero" opf:role="aut">Antonio Mercero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-19T19:17:50+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;span itemprop="description"&gt;Antonio Mercero irrumpe con fuerza en la 
+novela negra española con una trama brillante que no da tregua al lector
+ y con unos personajes que se graban a fuego en la memoria.
+&lt;br&gt;El final del hombre es la primera entrega de esta explosiva serie de novela negra protagonizada por Sofía Luna.
+&lt;br&gt;
+&lt;br&gt;«El mundo es de las mujeres.»
+&lt;br&gt;
+&lt;br&gt;La mañana en que el policía Carlos Luna se dispone a dejar para 
+siempre su antigua identidad para presentarse como Sofía Luna, con su 
+flamante nuevo DNI y una peluca rubia, o quizá morena, un asesinato 
+terrible sacude la Brigada de Homicidios: Jon, el hijo de un famoso 
+escritor de novelas históricas, ha sido asesinado. Todas las personas 
+relacionadas con la víctima ocultan algo.
+&lt;br&gt;Mientras avanza en la investigación, acompañada por su colega, y 
+antigua amante, Laura, Sofía deberá lidiar con una sociedad que se 
+resiste a los nuevos tiempos, y luchar por conservar su trabajo y el 
+amor de su hijo adolescente. &lt;/span&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fd6abb7b-62ec-4a72-9f13-b7f5d2d3214e</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Sofía Luna"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:17.286237+00:00"/>
+        <meta name="calibre:title_sort" content="final del hombre, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa9f67f6-5839-4c10-8ef9-b3771665877f</dc:identifier>
+        <dc:title>Romperás la noche con un grito</dc:title>
+        <dc:creator opf:file-as="Orange, David" opf:role="aut">David Orange</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-16T11:21:46+00:00</dc:date>
+        <dc:description>Cuando Ignacio despierta en mitad de la noche y descubre que alguien ha secuestrado a su bebé, todo cuanto ama se derrumba.La inspectora Bru, víctima de un brutal asalto en el pasado, y el teniente Israel, que convive con un grave problema familiar, deberán sobreponerse a sí mismos y cooperar entre ellos para encontrar al niño antes de que sea demasiado tarde. Los primeros pasos de la investigación y una oscura leyenda les harán pensar que este secuestro no es como otros. Detrás se esconde algo terrible y doloroso, una verdad difícil de asimilar.Este frenético thriller reflexiona sobre la infancia y el origen de la personalidad mientras policías y criminales recorren los lugares más sombríos de Valencia, la ciudad donde nunca se pone el sol. Olvida lo que sea que hayas leído hasta ahora y contén la respiración: en breve comenzarás a gritar.Una herida mal cerrada nunca deja de sangrar</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408252733</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:27.742572+00:00"/>
+        <meta name="calibre:title_sort" content="Romperás la noche con un grito"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

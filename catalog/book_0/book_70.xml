@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>100 Clásicos de la Literatura Universal: Vol.1</title>
+  <id>urn:book:33acacc6-a167-413c-a62b-13e9ac8ffbd0</id>
+  <updated>2023-01-17T11:52:38Z</updated>
+  <link href="./book_70.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="100 Clásicos de la Literatura Universal: Vol.1" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por D" />
+  <link href="../authors_0/authors_46_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="René Descartes" />
+  <link href="../../John%20William%20Polidori/100%20Clasicos%20de%20la%20Literatura%20Univer%20%2870%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../John%20William%20Polidori/100%20Clasicos%20de%20la%20Literatura%20Univer%20%2870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../John%20William%20Polidori/100%20Clasicos%20de%20la%20Literatura%20Univer%20%2870%29/100%20Clasicos%20de%20la%20Literatura%20U%20-%20John%20William%20Polidori.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="16 MB" />
+  <author>
+    <name>John William Polidori</name>
+    <uri>../authors_0/authors_44_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Federico García Lorca</name>
+    <uri>../authors_0/authors_45_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>René Descartes</name>
+    <uri>../authors_0/authors_46_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Edgar Allan Poe</name>
+    <uri>../authors_0/authors_47_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Henry James</name>
+    <uri>../authors_0/authors_48_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Arthur Conan Doyle</name>
+    <uri>../authors_0/authors_49_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>James Joyce</name>
+    <uri>../authors_0/authors_50_Page_1.xml</uri>
+  </author>
+  <published>2021-10-26T04:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Bauer Books</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">Antología contiene:</p>
+    <br xmlns="" />
+  </content>
+  <link href="../authors_0/authors_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de John William Polidori" />
+  <link href="../authors_0/authors_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Federico García Lorca" />
+  <link href="../authors_0/authors_46_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de René Descartes" />
+  <link href="../authors_0/authors_47_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Edgar Allan Poe" />
+  <link href="../authors_0/authors_48_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Henry James" />
+  <link href="../authors_0/authors_49_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Arthur Conan Doyle" />
+  <link href="../authors_0/authors_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de James Joyce" />
+  <link href="http://www.goodreads.com/book/title/100%20Cl%C3%A1sicos%20de%20la%20Literatura%20Universal%3A%20Vol.1" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/100%20Cl%C3%A1sicos%20de%20la%20Literatura%20Universal%3A%20Vol.1" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/100%20Cl%C3%A1sicos%20de%20la%20Literatura%20Universal%3A%20Vol.1%20John%20William%20Polidori" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=100%20Cl%C3%A1sicos%20de%20la%20Literatura%20Universal%3A%20Vol.1&amp;field-author=John%20William%20Polidori" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/John%20William%20Polidori" type="text/html" rel="related" title="John William Polidori en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/John%20William%20Polidori" type="text/html" rel="related" title="John William Polidori en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/PolidoriJohnWilliam" type="text/html" rel="related" title="John William Polidori en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=John%20William%20Polidori" type="text/html" rel="related" title="John William Polidori en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?John%20William%20Polidori" type="text/html" rel="related" title="John William Polidori en ISFDB" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Federico%20Garci%CC%81a%20Lorca" type="text/html" rel="related" title="Federico García Lorca en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Federico%20Garci%CC%81a%20Lorca" type="text/html" rel="related" title="Federico García Lorca en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/LorcaFedericoGarci%CC%81a" type="text/html" rel="related" title="Federico García Lorca en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Federico%20Garci%CC%81a%20Lorca" type="text/html" rel="related" title="Federico García Lorca en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Federico%20Garci%CC%81a%20Lorca" type="text/html" rel="related" title="Federico García Lorca en ISFDB" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Ren%C3%A9%20Descartes" type="text/html" rel="related" title="René Descartes en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Ren%C3%A9%20Descartes" type="text/html" rel="related" title="René Descartes en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DescartesRen%C3%A9" type="text/html" rel="related" title="René Descartes en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Ren%C3%A9%20Descartes" type="text/html" rel="related" title="René Descartes en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Ren%C3%A9%20Descartes" type="text/html" rel="related" title="René Descartes en ISFDB" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Edgar%20Allan%20Poe" type="text/html" rel="related" title="Edgar Allan Poe en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Edgar%20Allan%20Poe" type="text/html" rel="related" title="Edgar Allan Poe en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/PoeEdgarAllan" type="text/html" rel="related" title="Edgar Allan Poe en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Edgar%20Allan%20Poe" type="text/html" rel="related" title="Edgar Allan Poe en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Edgar%20Allan%20Poe" type="text/html" rel="related" title="Edgar Allan Poe en ISFDB" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Henry%20James" type="text/html" rel="related" title="Henry James en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Henry%20James" type="text/html" rel="related" title="Henry James en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/JamesHenry" type="text/html" rel="related" title="Henry James en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Henry%20James" type="text/html" rel="related" title="Henry James en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Henry%20James" type="text/html" rel="related" title="Henry James en ISFDB" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Arthur%20Conan%20Doyle" type="text/html" rel="related" title="Arthur Conan Doyle en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Arthur%20Conan%20Doyle" type="text/html" rel="related" title="Arthur Conan Doyle en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DoyleArthurConan" type="text/html" rel="related" title="Arthur Conan Doyle en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Arthur%20Conan%20Doyle" type="text/html" rel="related" title="Arthur Conan Doyle en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Arthur%20Conan%20Doyle" type="text/html" rel="related" title="Arthur Conan Doyle en ISFDB" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/James%20Joyce" type="text/html" rel="related" title="James Joyce en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/James%20Joyce" type="text/html" rel="related" title="James Joyce en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/JoyceJames" type="text/html" rel="related" title="James Joyce en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=James%20Joyce" type="text/html" rel="related" title="James Joyce en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?James%20Joyce" type="text/html" rel="related" title="James Joyce en ISFDB" target="_blank" />
+</entry>

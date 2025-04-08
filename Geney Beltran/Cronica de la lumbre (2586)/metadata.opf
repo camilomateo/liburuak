@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff2e719d-c075-49ae-a5fe-6f20a57b6a23</dc:identifier>
+        <dc:title>Crónica de la lumbre</dc:title>
+        <dc:creator opf:file-as="Beltrán, Geney" opf:role="aut">Geney Beltrán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-13T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;«¿Quién vive la otra mitad de nuestra vida?» Narsia, profesora de teatro de 58 años, acude con su exmarido al llamado de su hijo menor. Es febrero del año 2000. El joven les confiesa a sus padres que una semana atrás asesinó a su novia. No los ha citado, sin embargo, esperando ayuda, sino para que sean testigos de cómo salta al vacío desde ese décimo piso. Con el alma fracturada, Narsia retoma su vida en su ciudad natal, en Sinaloa. Nueve años después conoce a Arsenio, un periodista extraviado. La madre de su hija, con quien tenía un trato hostil luego de separarse, fue asesinada en un tiroteo, y desde entonces va tropezándose con su propia paternidad y en la constantebúsqueda de los relevos del amor. A pesar de sus diferencias, en poco tiempo surge entre Narsia y Arsenio una amistad verdadera: la singular sabiduría de la maestra de teatro se convierte en un inesperado faro para Arsenio. Pero Narsia padece una grave enfermedad cardiaca. Aunque es tratable mediante cirugía, ella no quiere cumplir un aniversario más de la muerte de su hijo en esta tierra. Las vidas de los personajes se cruzan aquí —rozándose o anudándose fatalmente— en un árbol narrativo monumental y minucioso. Geney Beltrán reflexiona con lucidez sobre la intimidad de la violencia y las heridas familiares que nos arman, sobre el arduo amor a los hijos y laimposibilidad de otros amores. Estas páginas son una crónica del fuego que todo lo consume. Y también de ese otro fuego que ilumina.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073848039</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-12T13:39:18.484181+00:00"/>
+        <meta name="calibre:title_sort" content="Crónica de la lumbre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

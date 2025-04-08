@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">971</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb2fdb8a-d612-4517-8312-b5d6cea11ced</dc:identifier>
+        <dc:title>El hombre de San Petersburgo</dc:title>
+        <dc:creator opf:file-as="Follett, Ken" opf:role="aut">Ken Follett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-23T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p style="text-align:center"&gt;&lt;B&gt;&lt;I&gt;El hombre de San Petersburgo&lt;/I&gt; es una de las novelas más apasionantes del célebre autor de &lt;I&gt;Los pilares de la Tierra.&lt;/I&gt;&lt;/B&gt;&lt;/P&gt; &lt;P&gt;En 1914 el mundo estaba en vísperas de la Gran Guerra. Tanto Francia e  Inglaterra como los imperios centrales trataban de conseguir el apoyo de  Rusia, que podía decidir el desenlace de la futura contienda.&lt;/P&gt; &lt;P&gt;En esos instantes cruciales de la historia, un aristócrata inglés, lord  Walden, y un joven y prometedor político llamado Winston Churchill  esperaban la llegada del príncipe Orlov, enviado del zar en misión  secreta para entablar conversaciones y establecer pactos con la  monarquía británica. Pero el príncipe no fue el único en llegar a  Londres desde las frías tierras al este de Europa: un enigmático personaje procedente de Siberia le seguía los pasos...&lt;/P&gt; &lt;P&gt;&lt;B&gt;Reseña:&lt;/B&gt;&lt;BR&gt;«Ken Follett lo ha vuelto a hacer. Esta novela se lee con la facilidad y  el impacto de un Martini bien preparado.»&lt;BR&gt;&lt;I&gt;TheNew York Times Book Review&lt;/I&gt;&lt;/P&gt;</dc:description>
+        <dc:publisher>DEBOLS!LLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788490329559</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-16T15:29:01.590462+00:00"/>
+        <meta name="calibre:title_sort" content="hombre de San Petersburgo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

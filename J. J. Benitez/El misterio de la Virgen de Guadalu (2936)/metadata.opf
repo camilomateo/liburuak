@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2936</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4eecc81-8d0a-4afd-b6d6-3eb46f2d8ac0</dc:identifier>
+        <dc:title>El misterio de la Virgen de Guadalupe</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-12-31T23:00:00+00:00</dc:date>
+        <dc:description>»No es fácil para mí acertar con las motivaciones que un buen día, allá por el año 1977, me arrastraron a investigar y escribir sobre la imagen de la Virgen de Guadalupe en México. Si tuviera que decidirme por una, creo que elegiría la curiosidad. En uno de mis viajes por América leí la noticia del descubrimiento en los ojos de la imagen de la Señora de Guadalupe de una figura humana. Para ser exactos, el hallazgo de un hombre con barba en el ojo derecho de la imagen que de forma misteriosa quedó impresa en la tilma o manta de un indio llamado Juan Diego el 12 de diciembre de 1531. Aquella noticia se me antojó tan descabellada y sensacional a un mismo tiempo que acepté el reto y me entregué por entero al esclarecimiento de aquel suceso. ¿Qué había de cierto en aquella noticia? »Afortunadamente, mis investigaciones no comenzaron hasta 1981. Y digo afortunadamente porque entre los años 1979 y 1980 otros científicos realizaron desconcertantes hallazgos. Smith y Callahan, utilizando películas infrarrojas, confirmaron que el rostro, manos, túnica y manto de la Virgen no eran pintura humana. En esas mismas fechas, otro eminente científico, el profesor Aste Tonsmann, especialista en computadoras, daba a conocer otro hallazgo revolucionario: además del ya citado hombre con barba, en lo más profundo de los ojos de la Virgen de Guadalupe, y mediante un sofisticado proceso de digitalización de imágenes, este ingeniero y profesor de la Universidad de Cornell (Nueva York) había encontrado otras doce figuras. »¿Qué significaba todo esto? ¿A quiénes correspondían estas imágenes? ¿Ante qué nuevo reto se enfrentaba la ciencia? Durante meses me he entregado en cuerpo y alma a la investigación de este singular misterio. »He llevado a cabo tres nuevos viajes a América, interrogando a historiadores, antropólogos, expertos en pintura y restauración, especialistas de todo tipo en la civilización azteca, médicos cirujanos, oftalmólogos y expertos en ordenadores. Han sido más de un centenar las obras consultadas e incontables las horas de estudio y reflexión sobre este desconcertante asunto. Fruto de ello ha sido este primer trabajo El misterio de Guadalupe, escrito al margen de todo sentimiento religioso. »Que el lector saque sus propias conclusiones sobre lo que, en mi opinión, constituye uno de los enigmas más asombrosos del siglo XX. (J. J. Benítez)</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:25.086359+00:00"/>
+        <meta name="calibre:title_sort" content="misterio de la Virgen de Guadalupe, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

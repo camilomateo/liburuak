@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">851</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02af42d8-60fb-49cb-98b7-fe586761a175</dc:identifier>
+        <dc:title>Dama negra</dc:title>
+        <dc:creator opf:file-as="Peterson, Anny" opf:role="aut">Anny Peterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-08T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Amor, intriga y pasión se unen en la segunda parte de la trilogía más excitante de Anny Peterson, una de las autoras de romántica mejor valoradas.&lt;/p&gt;
+&lt;p&gt;La inspectora Keira Ibáñez y el duque de Lerma se reencuentran tras la aparición del cuerpo sin vida de una alumna de la universidad, suceso que pone de nuevo en entredicho el prestigio del atractivo y poderoso aristócrata. Ambos tendrán que colaborar en la investigación, aunque eso signifique lidiar con la inevitable atracción que palpita entre ellos.&lt;/p&gt;
+&lt;p&gt;Keira está convencida de que Ástor corre peligro y de que el asesinato emula una de las jugadas más brutales en el ajedrez: el famoso sacrificio de la dama para arrinconar al rey. Comenzará así una arriesgada partida que podría hacerles perder la razón y el corazón.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Todo está en juego.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Anny Peterson&lt;/strong&gt; (Zaragoza, 1983), conocida en las redes sociales como Lady Fuxia, es licenciada en Arquitectura superior por la Universidad del País Vasco en San Sebastián y tiene un máster en Marketing, Publicidad y Diseño gráfico por la Nett Digital School. &lt;/p&gt;
+&lt;p&gt;Amante del cine y lectora acérrima, debutó como escritora de novela romántica en 2017 y desde entonces su carrera ha sido un éxito. Durante su infancia ya se divertía escribiendo y siempre tuvo el sueño de publicar un libro. Lo que no esperaba es que miles de lectoras se volcaran con sus historias y le permitieran dedicarse a la escritura a tiempo completo. --Este texto se refiere a la edición paperback.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Trilogía Kaissa"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-06-12T11:23:31+00:00"/>
+        <meta name="calibre:title_sort" content="Dama negra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3214</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4696163-ac67-4b8c-84a2-0768df55d416</dc:identifier>
+        <dc:title>Adiós, Tánger</dc:title>
+        <dc:creator opf:file-as="Salma, El Mounmi" opf:role="aut">El Mounmi Salma</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En las calles de Tánger, Alia se siente observada. Su presencia suscita turbación, aunque ella no comprende por qué: la desnudan con la mirada, la siguen, la insultan. Entonces, en la ilusoria intimidad de su cuarto, tratando de comprender qué ven los hombres, comienza a hacerse fotos. Posa, se acuesta, arquea la espalda, y poco a poco esas sesiones fotográficas se convierten en un ritual.&lt;br&gt;&lt;br&gt;Alia empieza a pasar tiempo con Quentin, un francés de su instituto. Junto a él, descubre un mundo de privilegios, de liviandad, pero también una libertad que se revela muy frágil. Cuando sus fotos se publican en internet, Alia se ve obligada a huir de su país para evitar ser acusada de ofensa a la moral. Sin saber si algún día podrá regresar a Tánger, se instala en Lyon, donde por fin se siente a salvo. Hasta que su pasado la acaba encontrando.&lt;br&gt;&lt;br&gt;Adiós, Tánger, primera novela de Salma El Moumni, retrata el poder destructor de la mirada de los hombres. Con un estilo afilado y directo, la joven novelista indaga en la imposibilidad de volver a casa y en el dolor del desarraigo, en la desgarradora experiencia de sentir el hurto de la identidad y el saqueo del cuerpo. Un aclamadísimo debut literario.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sexto Piso</dc:publisher>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:14.854278+00:00"/>
+        <meta name="calibre:title_sort" content="Adiós, Tánger"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

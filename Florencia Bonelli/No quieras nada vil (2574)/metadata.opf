@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2574</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fc5c4e5-551a-43b8-9222-577a1245da3c</dc:identifier>
+        <dc:title>No quieras nada vil</dc:title>
+        <dc:creator opf:file-as="Bonelli, Florencia" opf:role="aut">Florencia Bonelli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-27T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;La continuación de una historia de traiciones, engaños y un amor que resiste.&lt;/p&gt;
+&lt;p&gt;Decidida y sagaz, Manon Neville se consolida como la cabeza de la poderosa Casa Neville. Al tiempo que su influencia se extiende, sus enemigos urden nuevas conspiraciones para destruirla. Alexander Blackraven, su prometido, es un sostén fundamental para la formidable joven. Pero el amor apasionado que los une no está exento de ambigüedades ni de secretos que hunden sus raíces en el pasado.&lt;br&gt;Contra todo y contra todos, la joven pareja iniciará un largo viaje en clíper hacia China, durante el cual ambos se conocerán profundamente y vivirán aventuras que los pondrán a prueba. Pero la mano del enemigo es larga y, no importa cuánto se alejen de Londres, sus vidas continúan en peligro. En medio de la compleja red de mentiras y de traiciones que los rodea, Manon y Alexander intentarán consolidar un amor que por momentos parece imposible.&lt;br&gt;&lt;em&gt;La Casa Neville. No quieras nada vil&lt;/em&gt; es la segunda parte de la fantástica saga histórico-romántica que tiene a Manon por protagonista. En este volumen el thriller se intensifica en una trama sin respiro, que fascinará por igual a los lectores y a las lectoras que siguen a Florencia Bonelli desde siempre y a quienes se acerquen por primera vez a la magia de su imaginación y su escritura.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Planteta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="La casa neville"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-09-11T13:29:01+00:00"/>
+        <meta name="calibre:title_sort" content="No quieras nada vil"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

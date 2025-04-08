@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2984</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3bd8797e-cb1d-423b-b5dd-5c691f950fde</dc:identifier>
+        <dc:title>El hermano pequeño</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-12-31T23:00:00+00:00</dc:date>
+        <dc:description>La principal víctima de la corrupción es el propio corrupto, sobre todo si ha traicionado los ideales de honestidad de toda una vida. Es el caso de El hermano pequeño, una historia habitual en la España y la Europa de las corrupciones que Carvalho investiga con su talante de siempre, con su capacidad de descubrir el desorden que se esconde detrás de toda apariencia de orden. Un libro -compuesto por otros relatos- en el que el humor, el sarcasmo y la melancolía resucitan al Carvalho más esencial y su universo de personajes imprevisibles, como un loco enamorado de Marylin Monroe y un usurpador de la personalidad de Pepe Carvalho.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Pepe Carvalho"/>
+        <meta name="calibre:series_index" content="18"/>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:18+00:00"/>
+        <meta name="calibre:title_sort" content="hermano pequeño, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

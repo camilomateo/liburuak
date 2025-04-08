@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1704</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c15a38fb-e3bb-4dc9-88e9-efc3ade8c4c5</dc:identifier>
+        <dc:title>Me llamo Lucy Barton</dc:title>
+        <dc:creator opf:file-as="Strout, Elizabeth" opf:role="aut">Elizabeth Strout</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-23T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;En una habitación de hospital en pleno centro de Manhattan, delante del iluminado edificio Chrysler, cuyo perfil se recorta al otro lado de la ventana, dos mujeres hablan sin descanso durante cinco días y cinco noches. &lt;/p&gt;&lt;p class="description"&gt;Hace muchos años que no se ven, pero el flujo de su conversación parece capaz de detener el tiempo y silenciar el ruido ensordecedor de todo lo que no se dice. &lt;/p&gt;&lt;p class="description"&gt;En esa habitación de hospital, durante cinco días y cinco noches, las dos mujeres son en realidad algo muy antiguo, peligroso e intenso: una madre y una hija que recuerdan lo mucho que se aman.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-06T08:52:11.228289+00:00"/>
+        <meta name="calibre:title_sort" content="Me llamo Lucy Barton"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

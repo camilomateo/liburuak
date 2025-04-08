@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1447</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9cf6c3d-71cf-43c5-8802-13692a1c0db0</dc:identifier>
+        <dc:title>Anatomía del mal</dc:title>
+        <dc:creator opf:file-as="Wild, Jordi" opf:role="aut">Jordi Wild</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-13T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;En estas páginas nos embarcaremos en un viaje inquietante a través de &lt;span class="a-text-bold"&gt;ocho crímenes&lt;/span&gt;,
+ cada cual más terrible, con los que os mostraré y reflexionaré sobre la
+ maldad y cómo puede infiltrarse en los sitios menos esperados.&lt;/p&gt;&lt;p&gt;Indagaré dentro de las mentes enfermas de asesinos, &lt;span class="a-text-bold"&gt;psicópatas, ególatras y monstruos&lt;/span&gt;,
+ revelando, desde una perspectiva psicológica y científica, cuáles 
+fueron sus motivaciones y más oscuros secretos que los llevaron a 
+cometer estos crímenes imperdonables.&lt;/p&gt;&lt;p&gt;Y nos haremos preguntas incómodas y no siempre fáciles de responder:&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;¿Cómo es posible que personas con vidas aparentemente normales puedan infligir tanto dolor, incluso a sus seres queridos?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CVBBZ17X</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788466676991</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-20T15:25:37.497616+00:00"/>
+        <meta name="calibre:title_sort" content="Anatomía del mal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

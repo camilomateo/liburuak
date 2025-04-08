@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2940</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">deab7ef7-404a-4435-b076-ee82691bbe3d</dc:identifier>
+        <dc:title>A solas con la mar</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-08-31T23:00:00+00:00</dc:date>
+        <dc:description>A solas con la mar es un magistral resumen poético de las vivencias de J. J. Benítez en el verano de 1983, en la ciudad de Barbate. En esta época experimentó un cambio profundo en su vida, presintiendo el nacimiento de una nueva y trascendental etapa en su historia personal. Cambio que, poco tiempo después, le llevó a escribir su exitoso Caballo de Troya. Este es el primer libro que recopila la sorprendente y desconocida obra poética de un autor célebre por sus títulos sobre fenómenos paranormales y temas ocultos, y que en estas páginas desnuda su corazón y nos revela los secretos de su sentir y de sus vivencias más íntimas.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Poesía</dc:subject>
+        <dc:subject>Romántico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:26.629377+00:00"/>
+        <meta name="calibre:title_sort" content="A solas con la mar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

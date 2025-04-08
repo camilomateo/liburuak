@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">329</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc9149db-344f-4ef8-b673-7202e38a0447</dc:identifier>
+        <dc:title>Desaparecido</dc:title>
+        <dc:creator opf:file-as="Poveda, Pablo" opf:role="aut">Pablo Poveda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-13T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Arial'"&gt;&lt;strong style="color: #333333; background-color: #ffffff"&gt;Una extraña mujer le encarga que encuentre a su marido. Él acepta, a cambio de una generosa suma.&lt;br&gt;Lo que parece un asunto fácil de resolver, se convierte en un turbio caso que pondrá en peligro su vida.&lt;/strong&gt;&lt;span style="color: #333333; background-color: #ffffff"&gt; Han pasado algunos años desde su regreso a Alicante, los fantasmas del pasado lo perturban y Rojo no encuentra su lugar en la ciudad. Un error laboral le obligará a tomar una excedencia de un año. Sú única forma de seguir a flote es aceptando la oferta de una mujer, para que encuentre a su marido desaparecido, un extravagante empresario de la noche alicantina. Un encargo fuera de la ley. Un policía fuera de servicio. Un montón de corrupción, lujuria y mentiras que lo enfrentarán a sus peores pesadillas.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pablo Poveda Books</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>suspense</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pablo Poveda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Detectives novela negra"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2023-02-16T18:13:42.507156+00:00"/>
+        <meta name="calibre:title_sort" content="Desaparecido"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

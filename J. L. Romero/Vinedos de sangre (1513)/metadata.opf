@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7692e8d-6662-4745-9ff3-e7fd36d2b934</dc:identifier>
+        <dc:title>Viñedos de sangre</dc:title>
+        <dc:creator opf:file-as="Romero, J. L." opf:role="aut">J. L. Romero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-15T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;UNA FAMILIA CON MUCHO PODER. UN POLICÍA EN CRISIS. UN ESCENARIO TAN IDÍLICO COMO INQUIETANTE. «No podrás parar de leer esta historia de secretos entre viñas y tramontana, donde lo correcto no es siempre lo más justo». JORDI ÉVOLE La bodega Mas Vidal es una de las más grandes del país. Cuando su propietario Mateu Vidal, patriarca de una poderosa saga de empresarios, desaparece entre los cientos de hectáreas de viñedos, sus hijos no permiten que el caso recaiga únicamente en los policías de la zona. Quieren a los mejores y cuanto antes. López acaba de mudarse al Empordà, en el norte de Cataluña, huyendo del estrés y de la unidad de élite de la Policía Nacional en la que trabajaba. Cuando recibe una llamada de su antiguo jefe, sabe que le va a meter en un lío,pero no puede evitar coger el teléfono. Tras descubrir a Mateu Vidal ahogado en vino, López sabe que se acabó su tranquilidad. J. L. Romero convierte el Empordà, tierra de vino, mar y viento, en el escenario de una investigación sin tregua en la que López tendrá que lidiar con los fantasmas del pasado, el suyo y el del país. Una trama vibrante donde viejas rencillas, retorcidas y ocultas como las raíces de la vid, acaban emergiendo de la manera menos esperada.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones  B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-22T16:46:45.471946+00:00"/>
+        <meta name="calibre:title_sort" content="Viñedos de sangre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

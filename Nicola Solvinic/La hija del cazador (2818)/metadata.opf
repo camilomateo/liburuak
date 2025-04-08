@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2818</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6486fd5-2fdb-4d8a-bdf7-deb1a2e186ff</dc:identifier>
+        <dc:title>La hija del cazador</dc:title>
+        <dc:creator opf:file-as="Solvinic, Nicola" opf:role="aut">Nicola Solvinic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un ritmo frenético y una tensión adictiva para los lectores del género. Tras matar a un hombre con motivo de su deber como sheriff , Anna se ve asaltada por recuerdos reprimidos de su infancia. Después de tanto tiempo, creía haber logrado dejar atrás la sombra de su padre, pero ahora vuelve a soñar con él, con sus manos rojas de sangre y con cadáveres adornados con flores sacrificados al dios del bosque. Cuando un asesino en serie empieza a actuar con el mismo modus operandi de su padre, la vida de Anna se tambaleará. Tendrá entonces que recurrir a toda su experiencia para frenar los crímenes sin perderse en la oscuridad que la persigue y responder a la peor de las preguntas... ¿Es posible que su padre siga vivo?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Crossbooks</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-20T10:21:17+00:00"/>
+        <meta name="calibre:title_sort" content="hija del cazador, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

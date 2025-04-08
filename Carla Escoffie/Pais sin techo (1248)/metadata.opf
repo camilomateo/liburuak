@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a46d0dd7-f629-49d8-9a18-3e7c01d713de</dc:identifier>
+        <dc:title>País sin techo</dc:title>
+        <dc:creator opf:file-as="Escoffié, Carla" opf:role="aut">Carla Escoffie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-31T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;«LA NECESARIA TRANSFORMACIÓN DE LO APARENTEMENTE INDIVIDUAL EN COLECTIVO Y POLÍTICO ES LA BASE DE ESTE LIBRO, LA IMPORTANCIA DE EXPLICAR Y DEMOSTRAR LOS CONTINUOS INCUMPLIMIENTOS DE LEYES Y NORMAS QUE DEFIENDEN EL DERECHO A LA VIVIENDA.»&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;I&gt;&lt;B&gt;-zaida&lt;/B&gt;&lt;/I&gt; &lt;I&gt;&lt;B&gt;muxí&lt;/B&gt;&lt;/I&gt;&lt;/P&gt; &lt;P&gt;La crisis de vivienda existe y no podemos seguir ignorándola. Nuestras ciudades son cada vez más inhabitables: cada vez más caras, más distantes, más precarizadas y con menos servicios. Miles de personas están preocupadas por su imposibilidad de adquirir unavivienda en propiedad o, incluso, en arrendamiento. Sin embargo, esta problemática sigue siendo percibida como una preocupación individualizada y no como el problema estructural que realmente es.&lt;/P&gt; &lt;P&gt;A partir de entrevistas, investigación y casos judiciales, Carla Escoffié &amp;#8212;experta en el derecho a la vivienda y el derecho a la no discriminación&amp;#8212; traza una ruta por cinco ciudades: Mérida, San Francisco de Campeche,...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial México</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073830805</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-23T08:41:59.441407+00:00"/>
+        <meta name="calibre:title_sort" content="País sin techo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

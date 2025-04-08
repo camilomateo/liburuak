@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">685</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">158cddc4-900e-4a6a-a1e7-1f7b38f9ee3c</dc:identifier>
+        <dc:title>Nuestros muertos</dc:title>
+        <dc:creator opf:file-as="Rosa Ribas" opf:role="aut">Rosa Ribas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-28T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;b&gt;El caso que culmina la trilogía protagonizada por la saga de Hernández Detectives.  &lt;/b&gt;&lt;/p&gt;&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;os años desde que los Hernández, detectives en el barrio de 
+Sant Andreu, tuvieron que cerrar su agencia. El mundo ha cambiado y la 
+familia se ha disgregado: Mateo, el padre, trabaja en unas oficinas en 
+la parte alta de Barcelona; Amalia, en una empresa especializada en 
+seguridad, y Nora, que siempre quiso llevar una vida tranquila, da 
+clases en una academia nocturna. Aunque no lo reconozcan, han compartido
+ muchos casos en el pasado, algunos muertos y, por más que quieran 
+evitarla, alguna cuenta pendiente, que Lola, la matriarca, les recuerda.
+ También para que irremediablemente vuelvan a reunirse, y actúen juntos.
+ ¿Abrirán de nuevo la agencia? &lt;span class="a-text-italic"&gt;Nuestros muertos&lt;/span&gt; es la esperada y brillantísima continuación de &lt;span class="a-text-italic"&gt;Un asunto demasiado familiar&lt;/span&gt; y &lt;span class="a-text-italic"&gt;Los buenos hijos&lt;/span&gt;,
+ una serie policiaca que cuenta además la historia de una familia 
+disfuncional. Secretos que se callan, la convivencia con algunas 
+enfermedades mentales, y sobre todo la inteligencia para resolver 
+asuntos muy actuales, se entremezclan en una parte muy reconocible de la
+ Barcelona de nuestros días.&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-16T06:56:21.247129+00:00"/>
+        <meta name="calibre:title_sort" content="Nuestros muertos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

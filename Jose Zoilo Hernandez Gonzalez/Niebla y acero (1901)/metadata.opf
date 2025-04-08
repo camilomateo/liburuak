@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1901</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d78c24c-dd1c-42e7-b598-f19599ef109b</dc:identifier>
+        <dc:title>Niebla y acero</dc:title>
+        <dc:creator opf:file-as="Hernández González, José Zoilo" opf:role="aut">José Zoilo Hernández González</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-23T06:00:00+00:00</dc:date>
+        <dc:description>Hispania, año 456 d. C. Teodorico, rey de los visigodos, será el encargado de poner fin al acoso de los suevos sobre el territorio peninsular para instaurar la paz de Roma que el nuevo emperador desea. Tras la derrota de los suevos, Attax, Marco y su variopinto grupo, se unirán a las tropas del rey Teodorico y, bajo el amparo de su magnífico ejército, encontrarán la seguridad necesaria para saciar sus ansias de venganza. Pero en una época en la que la única ley válida es la que se escribe con la sangre de los derrotados, y un puñado de tierra en el que asentarse vale más que cualquier palabra, nada es lo que parece, y la amenaza de la traición puede esconderse detrás de cualquier sonrisa. Y, en ocasiones, el precio a pagar por culminar una venganza puede ser tan amargo que marque tu vida para siempre.</dc:description>
+        <dc:publisher>Ediciones  B</dc:publisher>
+        <dc:identifier opf:scheme="EPL">53319</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:series" content="Las cenizas de Hispania"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:58.333225+00:00"/>
+        <meta name="calibre:title_sort" content="Niebla y acero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

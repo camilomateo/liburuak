@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1429</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee585de2-5de2-40b1-a86f-0ca4b9a5e1cb</dc:identifier>
+        <dc:title>Una asesina en el espejo</dc:title>
+        <dc:creator opf:file-as="Andrea Aguilar-Calderón" opf:role="aut">Andrea Aguilar-Calderón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;La aparición de un misterioso manuscrito reabre un caso cerrado hace décadas. El culpable está cerca, mucho más de lo que pensamos.&lt;/p&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;El fervor religioso, el arte surrealista y la literatura se dan la mano hasta límites insospechados en este debut sorprendente.&lt;/p&gt;
+&lt;p align="justify"&gt;Un asesino utiliza los cadáveres de sus víctimas para realizar montajes reales, a escala natural, de pinturas surrealistas. Esta seriede brutales asesinatos, que quedaron sin resolver hace veinticinco años, vuelven a la luz al aparecer una hipótesis que nadie tuvo en cuenta. La nueva teoría se despliega en un manuscrito que aparece en las oficinas centrales del Poder Judicial. Nadie sabe quién lo escribió, pero la historia que relata parece la única que puede explicar por qué desaparecieron Irene García Valenzuela, principal sospechosa, y la agente Ana María González Fo, y por qué, de hecho, sus cuerpos jamás podrán encontrarse. En este debut sorprendente, el fervor religioso, el arte y la literatura se dan la mano hasta límites insospechados.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420467108</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0CPFQRHT8</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">H42k0AEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">201558810</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-20T15:13:29.647846+00:00"/>
+        <meta name="calibre:title_sort" content="Una asesina en el espejo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

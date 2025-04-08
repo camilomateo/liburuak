@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1654</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c99e91c1-8712-423e-9164-6f5c4fe2ca8a</dc:identifier>
+        <dc:title>Las doce llaves</dc:title>
+        <dc:creator opf:file-as="Villamayor, María" opf:role="aut">María Villamayor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-12T12:35:23+00:00</dc:date>
+        <dc:description>Las doce llaves atrapará al lector en una intriga constante, donde el amor y la aventura, como principales protagonistas, accionan un apasionante recorrido histórico por la ciudad de Valencia.
+Sara Ferrer, psicóloga y profesora de yoga, acaba de mudarse a la casa de sus sueños en el casco histórico de Valencia cuando recibe la noticia de que su hermana Alejandra regresa para vivir con ella. Huérfanas desde pequeñas, por culpa de un trágico accidente, han sido criadas por su tía Rosa. El encuentro casual de un cuaderno escrito por su padre pone a las hermanas Ferrer tras la pista de una serie de enigmas que les conducirán, a través de la parte más secreta y escondida de la ciudad, a una realidad que nunca hubiesen imaginado.
+¿Qué secreto esconden las antiguas puertas de la ciudad? ¿Quién está interesado en que no completen con éxito su búsqueda?</dc:description>
+        <dc:publisher>Booket</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408288121</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-07T13:32:35.824089+00:00"/>
+        <meta name="calibre:title_sort" content="doce llaves, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

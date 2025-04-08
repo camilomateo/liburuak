@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e5f4a29-7cd3-4855-827c-2904c6af9896</dc:identifier>
+        <dc:title>Cocina o barbarie</dc:title>
+        <dc:creator opf:file-as="Nicolau, María" opf:role="aut">María Nicolau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-27T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;«Nos da tanta pereza preparar la cena que
+ con la cantidad suficiente de azúcar seríamos capaces de comernos 
+cualquier mierda, pensar que está buena y defenderla a capa y espada. No
+ seáis bárbaros, ¡cocinad!»&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Cocinar no es seguir unas
+ instrucciones, ni someternos a una lista de ingredientes, ni planificar
+ minuciosamente la compra del supermercado. Al contrario, cocinar es 
+todo aquello que pasa en los márgenes de una receta: es improvisar, 
+arriesgar, decidir. Cocinar es ser libres. Contra la extinción de este 
+atrevimiento, contra el síndrome del no-tengo-tiempo y la barbarie de 
+una sociedad que come pero no cocina, este libro nos urge para recuperar
+ el sentido del acto más primigenio de la vida: alimentarnos.&lt;/p&gt;&lt;p&gt;Entusiasta
+ e inconformista, Maria Nicolau nos abre las puertas a una cocina rica, 
+sostenible, apasionada y, sobre todo, coherente. Una cocina explicada a 
+través de la historia y la ciencia, la naturaleza y la tecnología, los 
+episodios colectivos y la vivencia íntima. ¿Por qué la olla es el primer
+ invento de la civilización? ¿Qué hace que los pasteles se agranden en 
+el horno? ¿Por qué solo compramos salmón y merluza, teniendo el 
+Mediterráneo lleno de otras variedades de pescado? En este libro, más 
+allá de las recetas, encontraréis una cocina que responde a la necesidad
+ de subsistir, pero también al placer de compartir y que nos recuerda 
+que nosotros somos los últimos responsables de la manera en que vivimos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Península</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-15T15:51:29.623329+00:00"/>
+        <meta name="calibre:title_sort" content="Cocina o barbarie"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

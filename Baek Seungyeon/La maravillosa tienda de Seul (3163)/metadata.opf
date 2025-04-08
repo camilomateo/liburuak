@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0454035d-1063-405c-896d-e8e4ec5f3669</dc:identifier>
+        <dc:title>La maravillosa tienda de Seul</dc:title>
+        <dc:creator opf:file-as="Baek Seungyeon" opf:role="aut">Baek Seungyeon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-27T08:59:43+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Cuando el sueño de Hyoyoung de convertirse en realizadora de cine se hace añicos por culpa de su hermana, que ha sido víctima de una estafa financiera, la joven acepta trabajar como dependienta en una tienda situada en el moderno distrito de Yeonhui-dong, en Seúl. Allí los clientes pueden adquirir artículos para escribir cartas con la condición de contestar también a alguna de las que llegan.&lt;/p&gt;
+&lt;p&gt;Con el tiempo, Hyoyoung establece vínculos estrechos con los clientes, cada uno con su propia historia que contar, y con un joven en particular que le roba el corazón.&lt;/p&gt;
+&lt;p&gt;¿POR QUÉ LEER LA MARAVILLOSA TIENDA DE SEÚL?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-14T13:34:11.362025+00:00"/>
+        <meta name="calibre:title_sort" content="maravillosa tienda de Seul, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

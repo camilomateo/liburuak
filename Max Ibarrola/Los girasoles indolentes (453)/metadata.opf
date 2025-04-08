@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">453</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">790bb1b8-f243-4f82-ac72-90dcaaefb846</dc:identifier>
+        <dc:title>Los girasoles indolentes</dc:title>
+        <dc:creator opf:file-as="Ibarrola, Max" opf:role="aut">Max Ibarrola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Dos personas, trabajadores del Circo Robertson actualmente asentado en Londres, han sido asesinadas. El culpable ha dejado claro que no ha sido accidental, lo ha preparado bien y quiere que se vea su obra, por eso creen que volverá a pasar, no parará.&lt;/p&gt;
+&lt;p&gt;De todos los agentes disponibles en la Agencia Nacional del Crimen Británica, solo uno podría infiltrarse en aquel lugar sin despertar sospechas, Tom Baker. El agente tiene los conocimientos imprescindibles para poder infiltrarse sin levantar sospecha. En un ambiente desconocido y enfrentado inexorablemente a sus demonios personales, su única oportunidad para no fracasar será aferrarse a la única persona capaz de comprenderle. Aunque debe tener cuidado, todos tienen secretos y es difícil saber en quién confiar.&lt;/p&gt;
+&lt;p&gt;¿Qué oculta el aparentemente inocente Circo Robertson actualmente en la ciudad de Londres?&lt;/p&gt;
+&lt;p&gt;Max Ibarrola nos adentra en este original thriller en un ambiente tan atractivo como poco conocido como es el interior del espectáculo ambulante más famoso.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Click Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408270911</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Max Ibarrola&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-23T10:00:41.246143+00:00"/>
+        <meta name="calibre:title_sort" content="girasoles indolentes, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

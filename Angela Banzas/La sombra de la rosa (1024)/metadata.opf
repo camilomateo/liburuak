@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1024</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4a1e919-3904-488e-9b4a-4b65dd74cb4e</dc:identifier>
+        <dc:title>La sombra de la rosa</dc:title>
+        <dc:creator opf:file-as="Banzas, Ángela" opf:role="aut">Ángela Banzas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un asesino en serie obsesionado con los crímenes de la literatura. &lt;/p&gt;
+&lt;p&gt;Una profesora en el centro de una investigación. &lt;/p&gt;
+&lt;p&gt;Una experiencia de lectura sin tregua. VUELVE ÁNGELA BANZASLA VOZ DEL THRILLER GALLEGOUn asesino envuelto en sombras, una rosa, una cadena de espinas. Un bosque flotante donde el miedo oculta terribles secretos. Isla de Cortegada, 1910. El hallazgo del cadáver de una niña el día de la matanza genera gran conmoción entre los habitantes de la ría por las circunstancias y la atrocidad del crimen. Un culpable, el poeta Guillermo de Foz. Una condena, la muerte a garrote. Monasterio de Armenteira, Pontevedra, 2002. Las obras de restauración del claustro sacan a la luz un cuaderno inédito con la confesión del escritor maldito Guillermo de Foz. Antía Fontán, profesora de Literatura en La Sorbona, viajará a Galicia para llevar a cabo un estudio sobre este hallazgo. Lo que desconoce es que su estancia trascenderá lo profesional. Allí descubrirá una historia de amor y muerte, siniestros intereses y se verá envuelta en una serie de asesinatos perpetrados por una mente criminal que sigue el modus operandi de los ángeles caídos de la literatura. El apodado Asesino de la Rosa parece tener un solo destinatario: ella. Después del éxito de El silencio de las olas y La conjura de la niebla, la escritora Ángela Banzas despliega su virtuosismo narrativo y nos ofrece un rompecabezas en el que la tensión aumenta con cada página. La sombra de la rosa es una novela ágil, llena de resonancias y golpes de efecto, que explora la raíz del mal y nos conecta con el lado oscuro del amor y el más cruento de la literatura universal. Sombras, rosas y espinas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Suma de Letras</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-09-12T17:25:26.826956+00:00"/>
+        <meta name="calibre:title_sort" content="sombra de la rosa, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

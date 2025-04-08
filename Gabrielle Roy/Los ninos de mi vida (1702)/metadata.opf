@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1702</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbcad682-1a64-4985-93e3-8bf0778fc28f</dc:identifier>
+        <dc:title>Los niños de mi vida</dc:title>
+        <dc:creator opf:file-as="Roy, Gabrielle" opf:role="aut">Gabrielle Roy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Elsa es una joven inuit que vive a las afueras de una pequeña ciudad de blancos en el norte de Canadá, a orillas del río Koksoak. Una tarde, un soldado estadounidense de la base militar cercana la fuerza torpemente tras unos arbustos. Nueve meses después nace Jimmy, un angelito rubio de ojos azules y milagrosos tirabuzones que causa una auténtica conmoción en el poblado. Completamente volcada en su hijo, Elsa decide primero criarlo a la manera de los blancos y se somete a la tiranía de las posesiones fútiles. Más tarde, opta por cruzar su querido río Koksoak y se instala en el viejo y abandonado Fort Chimo, el hogar de su infancia, en busca de sus verdaderas raíces. Una maternidad sin rumbo y a la deriva, como la de su propio pueblo, que ni el amor más puro ni el tesón más firme parecen capaces de enderezar... Complemento perfecto de este volumen son los Tres cuentos esquimales que lo preceden: «Los satélites», «El teléfono» y «La silla de ruedas», tres miradas no exentas de humor sobre la devastadora influencia de la modernidad en el seno de la cultura inuit.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hoja de Lata Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418918919</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-06T08:52:10.919073+00:00"/>
+        <meta name="calibre:title_sort" content="niños de mi vida, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

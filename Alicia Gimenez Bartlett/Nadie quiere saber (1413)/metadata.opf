@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1413</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b524ed4e-3779-407a-bbb9-a9504a89414d</dc:identifier>
+        <dc:title>Nadie quiere saber</dc:title>
+        <dc:creator opf:file-as="Giménez Bartlett, Alicia" opf:role="aut">Alicia Giménez Bartlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-05T06:00:00+00:00</dc:date>
+        <dc:description>La inspectora Petra Delicado y el subinspector Fermín Garzón reciben la orden de reabrir un caso que había permanecido cinco años archivado: Alfonso Siguán, un empresario textil barcelonés de 70 años, liquidado en circunstancias sexuales escabrosas. Su cadáver se halló en su apartamento, adonde había acudido en compañía de una joven prostituta. Las culpas recayeron sobre el chulo de ésta; pero fue encontrado muerto a su vez en Marbella, tres días después. Las pesquisas se cerraron en falso. Ahora Petra y Fermín se enfrentan al silencio temeroso de la única testigo, la prostituta, y al rompecabezas de la vida profesional y familiar del empresario. La investigación se traslada a Roma, donde Petra vive situaciones de riesgo y desafío que son nuevas para ella y que confirman la habilidad de Alicia Giménez Bartlett para hacer de Petra Delicado uno de los personajes más atractivos de la novela española actual.</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.4</dc:identifier>
+        <dc:identifier opf:scheme="EPL">684</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Petra Delicado"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:timestamp" content="2024-04-08T15:29:28+00:00"/>
+        <meta name="calibre:title_sort" content="Nadie quiere saber"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

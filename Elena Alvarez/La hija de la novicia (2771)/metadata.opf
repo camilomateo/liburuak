@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2771</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14587dbd-ff11-4851-a8c9-09a146e79de9</dc:identifier>
+        <dc:title>La hija de la novicia</dc:title>
+        <dc:creator opf:file-as="Álvarez, Elena" opf:role="aut">Elena Álvarez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-27T00:00:00+00:00</dc:date>
+        <dc:description>La épica aventura de una mujer y una niña en la Europa del siglo IX, un continente arrasado tras la muerte de Carlomagno.Aquitania, año 814. La novicia Elvira es testigo de la muerte en extrañas circunstancias de una dama que acaba de dar a luz a una niña en un convento perdido en medio de las montañas. Esa misma noche, mientras vela su cadáver, un extraño las ataca a ella y a la huérfana. Asustada, Elvira prende fuego al convento para evitar que nadie las siga y huye con la recién nacida. Sin embargo, por mucho que trate de alejarse del peligro, las misteriosas circunstancias que rodean el nacimiento de esa niña las perseguirán hasta los confines del imperio de los francos. En una Europa inestable y en pleno proceso de cambio, ¿podrá una mujer sola descubrir el secreto que esconde el bebé que protege y salvar a ambas de una muerte segura?Con su nueva novela, Elena Álvarez ha construido una aventura histórica apasionante que es también un viaje al momento decisivo en el que el...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-31T07:29:18.133938+00:00"/>
+        <meta name="calibre:title_sort" content="hija de la novicia, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

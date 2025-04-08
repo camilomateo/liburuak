@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">449111d1-2cc1-4984-a30d-30da0ab451db</dc:identifier>
+        <dc:title>El triunfo de Sophia</dc:title>
+        <dc:creator opf:file-as="Corina Bomann" opf:role="aut">Corina Bomann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;b&gt;&lt;i&gt;El destino de Sophia&lt;/i&gt; se decide en la cautivadora última entrega de la trilogía best seller de Corina Bomann.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Nueva York, 1934&lt;/b&gt;. Sophia se encuentra de nuevo en una encrucijada. Durante años, las dos emperatrices del maquillaje, Helena Rubinstein y Elizabeth Arden, se han peleado por su talento arrastrándola en su batalla. Ahora Sophia sueña con independizarse y crear su propia empresa, pero cuando su amiga Henny acude a ella gravemente enferma, la necesidad de ayudarla le hará llamar de nuevo a la puerta de madame Rubinstein. Y aunque en el amor parece que la vida le sonríe, las noticias de la guerra en Europa son cada vez más inquietantes... y amenazan el futuro que anhela construir.&lt;/p&gt;
+&lt;p&gt;En un emocionante final lleno de sorpresas, Sophia tendrá que luchar con todas sus fuerzas para reunirse con el hombre que ama y realizar finalmente sus ambiciones.&lt;/p&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491297598</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Corina Bomann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Los colores de la belleza"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-03-03T07:31:25.675730+00:00"/>
+        <meta name="calibre:title_sort" content="triunfo de Sophia, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

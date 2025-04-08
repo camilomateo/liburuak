@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ed655c8-9e79-439b-a1d7-ffc1b5f940a5</dc:identifier>
+        <dc:title>El prisionero del cielo</dc:title>
+        <dc:creator opf:file-as="Ruiz Zafón, Carlos" opf:role="aut">Carlos Ruiz Zafón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-17T06:00:00+00:00</dc:date>
+        <dc:description>Barcelona, 1957. Daniel Sempere y su amigo Fermín, los héroes de &lt;i&gt;La Sombra del Viento&lt;/i&gt;, regresan de nuevo a la aventura para afrontar el mayor desafío de sus vidas. Justo cuando todo empezaba a sonreírles, un inquietante personaje visita la librería de Sempere y amenaza con desvelar un terrible secreto que lleva enterrado dos décadas en la oscura memoria de la ciudad. Al conocer la verdad, Daniel comprenderá que su destino le arrastra inexorablemente a enfrentarse con la mayor de las sombras: la que está creciendo en su interior. Rebosante de intriga y emoción, &lt;i&gt;El Prisionero del Cielo&lt;/i&gt; es una novela magistral donde los hilos de &lt;i&gt;La Sombra del Viento&lt;/i&gt; y &lt;i&gt;El Juego del Ángel&lt;/i&gt; convergen a través del embrujo de la literatura y nos conduce hacia el enigma que se oculta en el corazón de El Cementerio de los Libros Olvidados.</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:identifier opf:scheme="EPL">1575</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:series" content="El Cementerio de los Libros Olvidados"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-03-07T17:24:53.251463+00:00"/>
+        <meta name="calibre:title_sort" content="prisionero del cielo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

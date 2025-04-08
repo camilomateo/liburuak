@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2983</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9c2e960-e13a-4cb7-a313-520928a2beae</dc:identifier>
+        <dc:title>Las recetas de Carvalho</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-12-31T23:00:00+00:00</dc:date>
+        <dc:description>La cocina es una gozosa forma de evasión para espíritus inquietos como el de Pepe Carvalho. Sus novelas ofrecen diversas muestras de la cocina tradicional española. En este libro se recogen las mejores recetas a través de diversas secuencias culinarias de la famosa serie. La cocina es, como la literatura, otra manera de crear mundos imaginarios.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Hogar</dc:subject>
+        <meta name="calibre:series" content="Pepe Carvalho"/>
+        <meta name="calibre:series_index" content="15"/>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:18+00:00"/>
+        <meta name="calibre:title_sort" content="recetas de Carvalho, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

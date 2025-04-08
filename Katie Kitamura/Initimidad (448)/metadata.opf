@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">448</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1dff8482-942d-4ca5-abd4-2bb173092ead</dc:identifier>
+        <dc:title>Initimidad</dc:title>
+        <dc:creator opf:file-as="Katie Kitamura" opf:role="aut">Katie Kitamura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-07T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una joven se muda de Nueva York a La Haya para empezar a trabajar como intérprete en el Tribunal Penal Internacional. La plenitud que le procura su nueva vida –una estimulante red de conocidos y amigos, un buen empleo, una incipiente historia de amor– le hace sentir que tal vez ha encontrado, como anhelaba, un lugar al que llamar hogar. Sin embargo, ese bienestar pronto comienza a resquebrajarse. Adriaan, su amante, abandona unos días la ciudad para reunirse con su esposa y concluir los trámites del divorcio, y repentinamente deja de contestar sus llamadas. A la vez, la protagonista recibe el encargo de traducir durante un juicio a un exjefe de Estado de un país africano acusado de crímenes de guerra, lo que la obliga a hacer suya la voz del criminal y a establecer con él una suerte de complicidad que nunca hubiera deseado. Mujer introvertida y observadora, se esfuerza por descifrar lo que está ocurriendo a su alrededor, pero no encuentra más que incertidumbres. Lo que parecía ser un camino recto se ha convertido de pronto en un laberinto.&lt;/p&gt;
+&lt;p&gt;Hipnótica y de una rara intensidad emocional, Intimidades, cuarta novela de Katie Kitamura, muestra el indiscutible talento de la escritora estadounidense para desnudar lo familiar y revelar sus aspectos más desconcertantes. Una lectura adictiva que se cuestiona hasta qué punto llegamos a conocer y comprender verdaderamente las motivaciones de aquellos que nos rodean y que reflexiona sobre el modo en que las intimidades, escogidas o impuestas, condicionan el curso de nuestras vidas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sexto Piso</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419261410</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Katie Kitamura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-23T10:00:39.400683+00:00"/>
+        <meta name="calibre:title_sort" content="Initimidad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

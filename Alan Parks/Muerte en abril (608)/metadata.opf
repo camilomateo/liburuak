@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">608</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9b17b21-d3cf-4ef9-b039-a461ffeb50c2</dc:identifier>
+        <dc:title>Muerte en abril</dc:title>
+        <dc:creator opf:file-as="Parks, Alan" opf:role="aut">Alan Parks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una preciosa novela sobre secretos 
+familiares, recetas escondidas, amores perdidos y las pasiones que 
+heredamos de nuestros padres.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;¿Cuáles son los sabores que quedan grabados en nuestra memoria?&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Los
+ recuerdos vuelven a Julien a fuego lento ahora que debe despedirse de 
+su padre. De él heredó su pasión por la cocina, aunque teme que ya nunca
+ sabrá por qué, siendo uno de los chefs más talentosos, Henry no quiso 
+que su hijo siguiera sus pasos. Tampoco hablaron jamás de por qué la 
+madre de Julien los abandonó de manera repentina, ni de qué fue del 
+apreciado cuaderno de recetas donde el chef guardaba los secretos de sus
+ platos.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ese cuaderno obsesiona a Julien y está 
+decidido a encontrarlo. Entre sus páginas se esconden los sabores y 
+aromas que marcaron su infancia, pero lo que él no puede imaginar es que
+ su búsqueda podría develar muchos más secretos que los culinarios.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0BM52NZCS</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alan Parks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:41.441229+00:00"/>
+        <meta name="calibre:title_sort" content="Muerte en abril"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

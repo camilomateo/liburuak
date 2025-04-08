@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3010</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48be4eb4-dffe-47f3-8a93-c97f395495a4</dc:identifier>
+        <dc:title>Grandes ideas de la ciencia</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1968-12-31T23:00:00+00:00</dc:date>
+        <dc:description>El interés por la divulgación de los principios científicos lleva a Isaac Asimov a analizar en «Grandes ideas de la ciencia» las hipótesis y descubrimientos que destacados personajes llevaron a cabo a lo largo de la historia, y que hicieron posible la evolución de sus respectivos ámbitos de conocimiento: Tales y Pitágoras en las matemáticas, Hipócrates en la medicina, Linneo y Darwin en la biología, Galileo, Russell y Wöhler en la astronomía, Faraday, Rumford y Planck en el dominio de la física, son algunos de los casos que el autor utiliza para realizar un ameno recorrido por la evolución del saber científico.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Ciencias exactas</dc:subject>
+        <dc:subject>Ciencias naturales</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:51.988067+00:00"/>
+        <meta name="calibre:title_sort" content="Grandes ideas de la ciencia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

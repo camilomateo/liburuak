@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1891</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8deda636-c097-4aed-af4b-811befd373ef</dc:identifier>
+        <dc:title>El hombre en busca de sentido</dc:title>
+        <dc:creator opf:file-as="Frankl, Viktor" opf:role="aut">Viktor Frankl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-16T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"El hombre en busca de sentido" es el estremecedor relato en el que Viktor Frankl nos narra su experiencia en los campos de concentración.&lt;/p&gt;
+&lt;p&gt;Durante todos esos años de sufrimiento, sintió en su propio ser lo que significaba una existencia desnuda, absolutamente desprovista de todo, salvo de la existencia misma. Él, que todo lo había perdido, que padeció hambre, frío y brutalidades, que tantas veces estuvo a punto de ser ejecutado, pudo reconocer que, pese a todo, la vida es digna de ser vivida y que la libertad interior y la dignidad humana son indestructibles. En su condición de psiquiatra y prisionero, Frankl reflexiona con palabras de sorprendente esperanza sobre la capacidad humana de trascender las dificultades y descubrir una verdad profunda que nos orienta y da sentido a nuestras vidas.&lt;/p&gt;
+&lt;p&gt;La logoterapia, método psicoterapéutico creado por el propio Frankl, se centra precisamente en el sentido de la existencia y en la búsqueda de ese sentido por parte del hombre, que asume la responsabilidad ante sí mismo, ante los demás y ante la vida. ¿Qué espera la vida de nosotros?&lt;/p&gt;
+&lt;p&gt;El hombre en busca de sentido es mucho más que el testimonio de un psiquiatra sobre los hechos y los acontecimientos vividos en un campo de concentración, es una lección existencial. Traducido a medio centenar de idiomas, se han vendido millones de ejemplares en todo el mundo. Según la Library of Congress de Washington, es uno de los diez libros de mayor influencia en Estados Unidos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Herder Editorial</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B019H695T4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:53.498045+00:00"/>
+        <meta name="calibre:title_sort" content="hombre en busca de sentido, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

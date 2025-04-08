@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2891</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">962f5643-221a-4ec8-b299-13d8e744ba3d</dc:identifier>
+        <dc:title>El obrador de la esperanza</dc:title>
+        <dc:creator opf:file-as="Cazcarra, Montse" opf:role="aut">Montse Cazcarra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-23T00:00:00+00:00</dc:date>
+        <dc:description>HAY LUGARES QUE SON UN REFUGIO PARA EL CORAZÓN.HAY NOVELAS QUE TE LLENAN EL ALMA.La primera novela de la psicóloga Montse Cazcarra, autora de Amor sano, amor del bueno«Montse es sabiduría y corazón a la vez». Marta SegrellesUN OBRADOR REPLETO DE AROMAS, CAFÉ Y LIBROSHay lugares que son un verdadero refugio. Así lo siente Júlia con El obrador de la esperanza, la panadería de su abuela en la que trabaja desde hace años, pese a que su auténtico sueño es ejercer de psicóloga.Júlia es toda una experta en tomar decisiones desde el miedo, también en el amor. Por eso se ha prometido a sí misma sanar antes de dar más pasos. Pero el destino pone a Bruno en su camino, un antiguo compañero del instituto que acaba de perder a su madre.Un improvisado club de lectura en el obrador y un inquietante misterio familiar les hará ver que, en la vida, hay que arriesgarse para disfrutar de las pequeñas grandes cosas que esta nos brinda.UNA HISTORIA DE AMOR, ESPERANZA Y SEGUNDAS OPORTUNIDADES</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-10T16:14:57.842498+00:00"/>
+        <meta name="calibre:title_sort" content="obrador de la esperanza, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

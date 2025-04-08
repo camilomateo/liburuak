@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9d63513-ae75-40c2-a9dc-7f6e0d513fc7</dc:identifier>
+        <dc:title>Lo que no sabe medea</dc:title>
+        <dc:creator opf:file-as="Padilla, Ignacio" opf:role="aut">Ignacio Padilla</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Ignacio Padilla trabajó por más de veinte 
+años en la realización de esta novela. Finalmente, llega al encuentro de
+ sus lectores de manera póstuma, como una prueba más y definitiva del 
+talento minucioso y total de su autor.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;El primerode&lt;span class="a-text-bold"&gt;mayo de 1945&lt;/span&gt;, &lt;span class="a-text-bold"&gt;Joseph Goebbels&lt;/span&gt;, ministro de propaganda del &lt;span class="a-text-bold"&gt;Tercer Reich&lt;/span&gt;, y su esposa, &lt;span class="a-text-bold"&gt;Magda Goebbels&lt;/span&gt;,
+ se suicidan en un búnker subterráneo en el corazón de Berlín. Antes de 
+quitarse la vida, Magda mata a sus seis hijos —cinco niñas y un niño 
+deentre cinco y trece años— haciéndoles ingerir cápsulas de cianuro para
+ así salvarlos, piensa, del &lt;span class="a-text-bold"&gt;horror de la posguerra&lt;/span&gt;.&lt;/p&gt;&lt;p&gt;Con eltiempo, surgen teorías que señalan que alguno o varios de los &lt;span class="a-text-bold"&gt;niños Goebbels&lt;/span&gt; pudieron haber escapado del búnker. El teniente &lt;span class="a-text-bold"&gt;Harald&lt;/span&gt; &lt;span class="a-text-bold"&gt;Quandt,&lt;/span&gt; hijo del primer esposo de &lt;span class="a-text-bold"&gt;Magda Goebbels&lt;/span&gt;,se
+ entrega a perseguir estos rumores fantasmales alentado por una 
+esperanza turbulenta. Para él, la supervivencia de alguno de esos niños,
+ ahora adultos, representa una mínima posibilidad de redención para una 
+humanidad arrasada por la vergüenza y la barbarie. Así, se consagra a 
+rastrear o reconstruir las vidas de cuatro hijos perdidos del Reich.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ignacio Padilla&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-13T08:24:34.819552+00:00"/>
+        <meta name="calibre:title_sort" content="que no sabe medea, Lo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

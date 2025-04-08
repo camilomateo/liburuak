@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a944f5e7-4d9d-44e3-af35-6ae03ff28370</dc:identifier>
+        <dc:title>¿Pero qué has hecho?</dc:title>
+        <dc:creator opf:file-as="Lapena, Shari" opf:role="aut">Shari Lapena</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-12-26T19:01:48+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En el somnoliento pueblo de Fairhill nunca pasa nada.&lt;br&gt;&lt;br&gt;Los adolescentes se divierten contando historias de terror en el antiguo cementerio. Los padres confían en que sus hijos llegarán a casa del colegio sanos y salvos. Todos se conocen. Nadie vigila detrás de los visillos. Las puertas no se cierran con llave.&lt;/p&gt;
+&lt;p&gt;Pero esta mañana todo eso va a cambiar.&lt;br&gt;&lt;br&gt;Porque Diana Brewer no está durmiendo dulcemente en su cama. Su cuerpo yace sin vida en un campo de heno rodeado de buitres.&lt;/p&gt;
+&lt;p&gt;Así de rápido una chica se convierte en un fantasma. Y así una ciudad de rostros familiares y amables se transforma en un nido de sospechosos, en un lugar de miedo y paranoia.&lt;/p&gt;
+&lt;p&gt;Alguien de Fairhill lo hizo. Todos quieren respuestas.&lt;br&gt;Y una pregunta inocente podría ser mortal.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0DKYMFSN1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-04T07:23:48.178117+00:00"/>
+        <meta name="calibre:title_sort" content="¿Pero qué has hecho?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

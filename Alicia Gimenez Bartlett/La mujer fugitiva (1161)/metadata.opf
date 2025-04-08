@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8e62359-6ae6-4a2e-b394-f3aae10af07d</dc:identifier>
+        <dc:title>La mujer fugitiva</dc:title>
+        <dc:creator opf:file-as="Giménez Bartlett, Alicia" opf:role="aut">Alicia Giménez Bartlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-19T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Una mañana, el propietario de una furgoneta gastronómica 
+ambulante aparece apuñalado en su interior. El vehículo está aparcado en
+ una céntrica plaza, junto a otros de las mismas características. Todos 
+participan en unas jornadas festivas que organiza el Ayuntamiento de 
+Barcelona. Ningún testigo ha oído o visto nada durante la noche.&lt;/p&gt;&lt;p&gt;Tras
+ las primeras pesquisas, los encargados del caso, la inspectora Petra 
+Delicado y el subinspector Fermín Garzón, sólo cuentan con una pista: 
+los vecinos de las furgonetas cercanas a la del crimen aseguran que, la 
+tarde anterior, una mujer hizo una gran compra en el negocio de la 
+víctima. Poco después descubren quién es esa clienta, y tan importante 
+es el descubrimiento que encontrarla se convierte desde ese momento en 
+una prioridad. Sin embargo, parece que una mano misteriosa sigue a los 
+detectives amenazando con violencia a cualquier persona a la que 
+interroguen. Petra y Garzón se enfrentan a un criminal que intentará por
+ todos los medios que el enigma no se resuelva.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-25T19:39:51.291568+00:00"/>
+        <meta name="calibre:title_sort" content="mujer fugitiva, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

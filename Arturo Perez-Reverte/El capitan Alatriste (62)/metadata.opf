@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">62</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ff427e6-85f4-440f-b8b6-a9ac425f8f83</dc:identifier>
+        <dc:title>El capitán Alatriste</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-08T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Acción, historia y aventura se dan cita 
+como un torbellino en las inolvidables páginas de esta primera novela de
+ la serie «Las aventuras del capitán Alatriste», que comienza cuando el 
+valeroso protagonista acepta un peligroso encargo...&lt;/span&gt;&lt;/p&gt;&lt;p&gt;«No era el hombre más honesto ni el más piadoso, pero era un hombre valiente.»&lt;/p&gt;&lt;p&gt;Con estas palabras empieza &lt;span class="a-text-italic"&gt;El capitán Alatriste&lt;/span&gt;,
+ la historia de un soldado veterano de los tercios de Flandes que 
+malvive como espadachín a sueldo en el Madrid del siglo XVII. Sus 
+aventuras peligrosas y apasionantes nos sumergen sin aliento en las 
+intrigas de una España corrupta y en decadencia, las emboscadas en 
+callejones oscuros entre el brillo de dos aceros, las tabernas donde 
+Francisco de Quevedo compone sonetos entre pendencias y botellas de 
+vino, o los corrales de comedias donde las representaciones de Lope de 
+Vega terminan a cuchilladas. Todo ello de la mano de personajes 
+entrañables y fascinantes: el joven Íñigo Balboa, el implacable 
+inquisidor fray Emilio Bocanegra, el peligroso asesino Gualterio 
+Malatesta, o el diabólico secretario del rey, Luis de Alquézar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00634ITL4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Arturo Pérez-Reverte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T22:38:35.814208+00:00"/>
+        <meta name="calibre:title_sort" content="capitán Alatriste, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1089</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc6f28e5-235c-4851-b1b8-2f480f2b50a2</dc:identifier>
+        <dc:title>El libro que ojalá tus padres hubieran leído</dc:title>
+        <dc:creator opf:file-as="Philippa Perry" opf:role="aut">Philippa Perry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-28T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;En este libro, la reconocida psicoterapeuta británica Philippa Perry nos dice qué es lo que realmente importa y qué tipo de comportamientos debemos evitar en la relación con nuestros hijos, ofreciéndonos pautas para:&lt;/p&gt; &lt;p&gt;• Comprender cómo nuestra propia educación puede afectar la crianza.&lt;br /&gt;• Aceptar que cometemos errores y aprender qué podemos hacer al respecto.&lt;br /&gt;• Romper ciclos y patrones negativos.&lt;br /&gt;• Manejar nuestros propios sentimientos y los de nuestro hijo.&lt;br /&gt;• Entender lo que los diferentes comportamientos comunican.&lt;br /&gt;&lt;br /&gt;Lleno de sabios y sanos consejos, este es el libro que todos los padres querrán leer y que todos los hijos desearán que sus padres hayan leído.&lt;/p&gt;</dc:description>
+        <dc:publisher>Zafiro eBooks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408225164</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-12-12T07:20:57.810819+00:00"/>
+        <meta name="calibre:title_sort" content="libro que ojalá tus padres hubieran leído, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

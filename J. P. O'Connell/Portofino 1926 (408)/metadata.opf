@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3110b792-97cb-436c-9c43-fcbbe517093a</dc:identifier>
+        <dc:title>Portofino 1926</dc:title>
+        <dc:creator opf:file-as="O'Connell, J. P." opf:role="aut">J. P. O'Connell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La novela en la que se basa la serie Hotel Portofino Una apasionante novela sobre secretos familiares, amor y misterio en el lugar más idílico del mundo. Bella Ainsworth, en busca de un nuevo comienzo para su familia, lejos de su Londres natal, abre un pequeño y exclusivo hotel en Portofino. Pero este cambio tan deseado no sale como Bella esperaba: los huéspedes son exigentes y difíciles de complacer, su matrimonio peligra, sus hijos no logran dejar atrás los fantasmas de la guerra y, sin saber cómo, su hotel se encuentra en el punto de mira de un político local corrupto al servicio de Mussolini. Ambientado en la hermosa Riviera italiana, Portofino 1926 es una historia de despertar personal. Una novela que transcurre en un lugar idílico donde la influencia liberadora de la cultura, el clima y la cocina italiana acompaña a la familia británica protagonista, en busca de un nuevo comienzo en un momento de agitación como fue el ascenso del fascismo de Mussolini.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;J. P. O'Connell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-13T08:24:34.285259+00:00"/>
+        <meta name="calibre:title_sort" content="Portofino 1926"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

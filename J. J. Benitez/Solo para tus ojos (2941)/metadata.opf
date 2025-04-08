@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2941</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bfb5b77-8ee1-4ce8-9d5e-ce207f8fbcd5</dc:identifier>
+        <dc:title>Sólo para tus ojos</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;En 2016, J. J. Benítez cumplió 44 años en la investigación ovni. En estos momentos es uno de los investigadores más veteranos. Fruto de esa indagación constante y fatigosa han sido 22 libros sobre el tema. &lt;i&gt;Sólo para tus ojos&lt;/i&gt; es una selección de los 300 casos ovni que, por una u otra razón, más le impactaron.&lt;/p&gt;
+
+  &lt;p&gt;La obra comprende dos capítulos: «¿El fenómeno es real?» y «¿De dónde proceden?». Contiene además 300 dibujos, extraídos de los cuadernos de campo del autor.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">65631</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:39.449908+00:00"/>
+        <meta name="calibre:title_sort" content="Sólo para tus ojos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

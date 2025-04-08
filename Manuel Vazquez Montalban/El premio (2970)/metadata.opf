@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88189fab-d170-4fd5-9ada-2a11d2c7a104</dc:identifier>
+        <dc:title>El premio</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Un «ingeniero» de las finanzas esta contra las cuerdas y quiere limpiar su imagen promoviendo el premio mejor dotado de la literatura universal. La fiesta de concesión del Premio Venice-Lázaro Conesal congrega a una confusa turba de escritores, críticos, editores, financieros, políticos y todo tipo de arribistas y trepadores atraídos por la combinación de «dinero y literatura». Pero Lázaro Conesal será asesinado esa misma noche, y el lector asistirá a una indagación destinada a descubrir qué colectivo tiene el alma más asesina: el de los escritores, el de los críticos, el de los financieros o el de los políticos, aunque sea a costa de un cadáver nada exquisito que ha cumplido uno por uno todos los requisitos para ser asesinado. Carvalho se sumerge en este mar de tiburones, viajando en un jet privado y bebiendo las mejores marcas de whisky del mundo mientras traza la línea que cierra el círculo y da título a la novela que no llegó a ganar el premio: «Ouroboros».</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Pepe Carvalho"/>
+        <meta name="calibre:series_index" content="20"/>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:16+00:00"/>
+        <meta name="calibre:title_sort" content="premio, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

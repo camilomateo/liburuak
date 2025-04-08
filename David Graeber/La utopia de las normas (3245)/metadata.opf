@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09f629a1-38cb-46a0-ae77-27752e09ee4e</dc:identifier>
+        <dc:title>La utopía de las normas</dc:title>
+        <dc:creator opf:file-as="David Graeber" opf:role="aut">David Graeber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-09T06:00:00+00:00</dc:date>
+        <dc:description>Un libro imprescindible para los tiempos que vivimos, que nos arma de argumentos en el debate presente sobre el cambio de modelo y que nos señala el camino hacia un mundo mejor y más justo. ¿Cuál es el origen de ese afán por regular, imponer normas y burocratizar todos y cada uno de los aspectos de nuestra vida? Y lo más importante, ¿hasta qué punto nos arruina la vida toda esa cantidad de formularios, procedimientos y documentación? Graeber pone luz a las distintas formas con las que la burocracia se inmiscuye en nuestro día a día, revelando hasta qué punto llega a determinar nuestras vidas. Un interminable y abominable papeleo que anula la creatividad y consume gran parte del tiempo. El avance tecnológico se ha descubierto así como otro mecanismo más de control, mucho más poderoso, al que sin embargo nos hemos plegado sin oponer resistencia, seducidos por sus encantos. Navegando desde el influjo de la economía liberal de la segunda mitad del siglo xx hasta el significado oculto...</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788434423015</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:21.319745+00:00"/>
+        <meta name="calibre:title_sort" content="utopía de las normas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4f80369-e9b8-416e-9b71-f82b08fb4abd</dc:identifier>
+        <dc:title>Crímenes duplicados</dc:title>
+        <dc:creator opf:file-as="Hjorth, Michael" opf:role="aut">Michael Hjorth</dc:creator>
+        <dc:creator opf:file-as="Hjorth, Michael" opf:role="aut">Hans Rosenfeldt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-26T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Mientras una ola de calor azota Estocolmo, una serie de mujeres 
+son halladas brutalmente asesinadas, y la brigada de investigación 
+criminal se encuentra en un callejón sin salida. Los cuerpos llevan 
+la firma de Edward Hinde, un asesino en serie encarcelado hace quince 
+años gracias al psicólogo Sebastian Bergman. Sebastian, por su parte, 
+necesita poner orden en su caótica vida y actuar de una vez por todas 
+ante la revelación con la que acababa Secretos imperfectos. Gracias a 
+sus artimañas habituales, consigue hacerse un hueco en la 
+investigación y pronto descubre que todos los asesinatos están 
+relacionados con él y que nadie a su alrededor está a salvo. Ni él 
+mismo.&lt;/p&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01I7BGLF6</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Bergman"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-01-25T19:39:52.449752+00:00"/>
+        <meta name="calibre:title_sort" content="Crímenes duplicados"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

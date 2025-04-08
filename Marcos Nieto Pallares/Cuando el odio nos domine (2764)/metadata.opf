@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2764</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77af4156-d4c8-4efa-be0a-8520ba2af838</dc:identifier>
+        <dc:title>Cuando el odio nos domine</dc:title>
+        <dc:creator opf:file-as="Pallarés, Marcos Nieto" opf:role="aut">Marcos Nieto Pallarés</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;MADRID, 2023. El cuerpo desnudo de una mujer aparece rodeado de velas, con su alianza y una orquídea encima del pecho. La inspectora Nausica Yuste, agente de la Unidad Central de Delincuencia Especializada y Violenta, se persona en el lugar de los hechos. El parecido de la escena con el modus operandi de un mediático asesino en serie desconcierta a la inspectora. Pronto, se dará cuenta de que se enfrenta al imitador de un psicópata encarcelado desde hace dieciséis años.&lt;br&gt;Los medios de comunicación bautizan al asesino como Copycat al tiempo que la autopsia da a conocer un mensaje oculto en el cuerpo: Copycat da pistas sobre su paradero. ¿Qué pretende?&lt;br&gt;Poco a poco, Nausica se aproxima a la verdad, sin sospechar que su pasado guarda una inquietante conexión con el asesino. Pero ¿conseguirá desvelar la terrible verdad y detenerlo antes de que ataque de nuevo?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DMPG7GXG</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-29T10:30:04.287347+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando el odio nos domine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

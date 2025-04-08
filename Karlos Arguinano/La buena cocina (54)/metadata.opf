@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">602540e8-0b8a-4508-bf84-77a8376f1a7a</dc:identifier>
+        <dc:title>La buena cocina</dc:title>
+        <dc:creator opf:file-as="Arguiñano, Karlos" opf:role="aut">Karlos Arguiñano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-10T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div id="iframeContent" dir="auto"&gt;&lt;p&gt;El arte de escoger y mezclar bien 
+los ingredientes es uno de los secretos mejor guardados de la buena 
+cocina. Su éxito depende de una variedad de texturas y sabores que, bien
+ combinados, pueden tener un resultado explosivo. En este nuevo 
+recetario de Karlos Arguiñano descubrirás qué ingredientes usar en tu 
+día a día cuidando tu salud y con lo que tengas más a mano en la 
+despensa o el frigorífico. Con un práctico índice de sugerencias 
+clasificadas por ingredientes, estas 900 recetas superdeliciosas y 
+fáciles te permitirán preparar completos menús que incluyen legumbres, 
+carnes y aves, verduras y hortalizas, pescados, huevos, cereales, frutas
+ y postres.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Lentejas con calabacín y bolitas de boniato, 
+boquerones a la sidra con ensalada de patata o flan de puerros y gambas.
+ Platos de sencilla elaboración que siempre salen bien, auténticos y 
+saludables, para disfrutar de la buena cocina casera.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408235736</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>cocina</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Karlos Arguiñano&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:54:41.248479+00:00"/>
+        <meta name="calibre:title_sort" content="buena cocina, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

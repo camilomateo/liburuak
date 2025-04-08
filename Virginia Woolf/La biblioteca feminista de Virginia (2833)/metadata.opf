@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2833</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e3e86bb-b066-4050-8bea-a90fd88e17f4</dc:identifier>
+        <dc:title>La biblioteca feminista de Virginia Woolf</dc:title>
+        <dc:creator opf:file-as="Virginia Woolf" opf:role="aut">Virginia Woolf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-14T00:00:00+00:00</dc:date>
+        <dc:description>Esta colección imprescindible reúne siete de las obras más emblemáticas de Virginia Woolf, una de las figuras literarias más influyentes del siglo XX. Cada novela ofrece una ventana única al innovador estilo narrativo y la profunda exploración psicológica que caracterizan la obra de Woolf. Desde la introspección en la vida cotidiana en "La señora Dalloway" hasta la experimentación con el tiempo y la identidad en "Orlando", esta compilación es esencial para cualquier amante de la literatura.Ebooks incluidos:-La señora Dalloway: Una novela que sigue a Clarissa Dalloway a lo largo de un solo día mientras organiza una fiesta, entrelazando sus pensamientos y recuerdos con los de otros personajes.-Al Faro: Una reflexión sobre la familia y el tiempo, centrada en la visita de los Ramsay a su casa de verano en la isla de Skye.-Flush: La biografía ficticia del perro cocker spaniel de la poeta Elizabeth Barrett Browning, ofreciendo una perspectiva única de la vida victoriana.-Orlando:...</dc:description>
+        <dc:publisher>SAGA Egmont</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-26T10:50:53.212947+00:00"/>
+        <meta name="calibre:title_sort" content="biblioteca feminista de Virginia Woolf, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2964</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19299d04-9cf6-45a1-ad4a-1bf23d9748b8</dc:identifier>
+        <dc:title>La muchacha que pudo ser Emmanuelle</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-08-02T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Es un relato que fue publicado como una serie de entregas entre el 3 y el 30 de agosto de 1997 por &lt;cite&gt;EL PAÍS&lt;/cite&gt;. Nació como guion para la serie televisiva sobre Carvalho que iba a producir la televisión argentina bajo la dirección de Luis Baroné y con Juan Diego en el papel de Carvalho. La acción se desarrolla en Barcelona pero sirve de introducción a &lt;cite&gt;Quinteto de Buenos Aires&lt;/cite&gt;.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">2.1</dc:identifier>
+        <dc:identifier opf:scheme="EPL">32264</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Pepe Carvalho"/>
+        <meta name="calibre:series_index" content="20.1"/>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:15+00:00"/>
+        <meta name="calibre:title_sort" content="muchacha que pudo ser Emmanuelle, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

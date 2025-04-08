@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">626</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eae21315-02c7-4def-9cd7-bc12e88a1dd8</dc:identifier>
+        <dc:title>Qué bien me haces cuando me haces bien</dc:title>
+        <dc:creator opf:file-as="Espinosa, Albert" opf:role="aut">Albert Espinosa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-13T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;No esperaba nada y lo encontré todo.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;Qué bien me haces cuando me haces bien &lt;/span&gt;es mi tercer libro de relatos cortos tras &lt;span class="a-text-italic"&gt;Finales que merecen una historia &lt;/span&gt;(2018) y &lt;span class="a-text-italic"&gt;Si nos enseñaran a perder, ganaríamos siempre&lt;/span&gt; (2020). Es el final de esta trilogía de relatos que no dejan de ser cuentos para curar el alma.&lt;/p&gt;&lt;p&gt;Mi objetivo al escribirlos es entretener y que gocéis con unas historias que, por una&lt;/p&gt;&lt;p&gt;razón u otra, han preferido residir en pocas páginas Albert Espinosa.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425363337</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Albert Espinosa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42.377214+00:00"/>
+        <meta name="calibre:title_sort" content="Qué bien me haces cuando me haces bien"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

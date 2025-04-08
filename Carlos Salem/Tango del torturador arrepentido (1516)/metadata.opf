@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">241a0367-615e-44bb-a4dc-ed514b5c389a</dc:identifier>
+        <dc:title>Tango del torturador arrepentido</dc:title>
+        <dc:creator opf:file-as="Salem, Carlos" opf:role="aut">Carlos Salem</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-22T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div data-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;Buenos Aires, 1978.&lt;/span&gt; A dos años del &lt;span class="a-text-bold"&gt;golpe de Estado&lt;/span&gt;,
+ miles de personas son recluidas en centros clandestinos de detención. 
+La mayoría no saldrá con vida. Julio, joven hijo de un poderoso 
+industrial, es uno de ellos, un «&lt;span class="a-text-bold"&gt;desaparecido&lt;/span&gt;»
+ más. Salvará su vida el mayor Morales, a cargo del cuartel, porque le 
+recuerda a su hijo fallecido en un accidente. Tres meses más tarde, 
+Julio es «liberado», pero ya no será el mismo. Ha tomado una decisión.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Madrid, 2000&lt;/span&gt;.
+ Julio se llama ahora Jorge Luis. Lleva una vida acomodada y solitaria. 
+Durante una salida fortuita, se encuentra con Morales y despierta en él 
+la voz de Julio, que exige venganza. Se introduce en la vida del 
+exmilitar para destruirlo, y desarrolla hacia el hombre que debe matar 
+un afecto que no tuvo por su propio padre. &lt;/p&gt;&lt;p&gt;Pero la historia de ambos es una canción triste, un tango fatal del que ya suenan los compases finales.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Alrevés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419615671</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-22T16:46:46.424391+00:00"/>
+        <meta name="calibre:title_sort" content="Tango del torturador arrepentido"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

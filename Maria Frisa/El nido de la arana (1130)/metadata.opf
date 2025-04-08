@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a278e26-f6b6-40c8-a789-7d75282b8e4f</dc:identifier>
+        <dc:title>El nido de la araña</dc:title>
+        <dc:creator opf:file-as="Frisa, María" opf:role="aut">María Frisa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Un absorbente &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;thriller &lt;/span&gt;&lt;span class="a-text-bold"&gt;psicológico que explora tus límites y en el que nada es lo que parece. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;«Solo
+ una psicóloga como María podría haber escrito una novela que juega de 
+esta manera con tu mente, te atrapa desde la primera página y te 
+sorprende hasta la última.»&lt;/span&gt;&lt;br&gt;&lt;span class="a-text-bold"&gt;Inés Plana&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;¿Hasta dónde llegaría una madre para proteger a su hija? &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;¿Por qué sería capaz de sacrificarlo todo? &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Pienses lo que pienses, cuando termines de leer esta novela habrás cambiado de opinión. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;Katy
+ vive con su hija en un piso de lujo que, tras meses sin trabajar, Katy 
+ya no puede mantener. Así, ambas se ven obligadas a mudarse a un pequeño
+ apartamento de un edificio casi vacío de Madrid. Poco después, Katy 
+recibe una misteriosa llamada en la que le ofrecen el trabajo de sus 
+sueños. Parece el golpe de suerte que necesitaba. Lo que no imagina es 
+que una compleja telaraña tejida con los errores del pasado se cierne 
+sobre ella y que su peor pesadilla está a punto de empezar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08J8L783Z</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:17.118237+00:00"/>
+        <meta name="calibre:title_sort" content="nido de la araña, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">241</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fae7823-a9c8-4b32-9178-5795d1878903</dc:identifier>
+        <dc:title>La guerra y las palabras</dc:title>
+        <dc:creator opf:file-as="Volpi, Jorge" opf:role="aut">Jorge Volpi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T06:00:00+00:00</dc:date>
+        <dc:description>El primero de enero de 1994, un grupo armado tomó la ciudad de San Cristóbal de las Casas, así como otras localidades del estado de Chiapas, en el sureste de México. Su líder, el subcomandante Marcos, antiguo estudiante de filosofía y profesor universitario, se convirtió en una de las figuras más carismáticas de finales del siglo XX. Defendiendo los derechos de los indígenas y el paso a una verdadera democracia, conquistó tanto a la opinión pública como los intelectuales. Admirado y denostado, el subcomandante Marcos no tardó en convertirse en un mito: el primer escritor revolucionario dotado de sentido del humor. Empleando tanto los recursos propios de la ficción como el rigor del ensayo, Jorge Volpi reconstruye el ambiente intelectual en el que se urdió el alzamiento zapatista, deja que sus personajes intervengan por sí mismos, desmenuza sus acciones y sus palabras —por sus páginas desfilan figuras como Carlos Salinas de Gortari y Luis Donaldo Colosio al lado de Octavio Paz, Carlos Fuentes o Manuel Vázquez Montalbán—, y se esfuerza por interpretar el sentido último de la revuelta. «La guerra y las palabras» puede ser leída como la crónica de uno de los episodios más desconcertantes y trascendentes de los últimos años. A diez años del inicio del levantamiento, el apasionante, contradictorio y misterioso periplo del subcomandante Marcos y el Ejército Zapatista de Liberación Nacional aparece así como una de las mejores novelas latinoamericanas de nuestro tiempo.</dc:description>
+        <dc:publisher>Ediciones Era</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">69077</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Política</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jorge Volpi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-02T19:55:49.047022+00:00"/>
+        <meta name="calibre:title_sort" content="guerra y las palabras, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

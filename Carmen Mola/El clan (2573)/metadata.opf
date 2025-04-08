@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c29d26e1-77cf-408e-8b81-ba57dfe3cbff</dc:identifier>
+        <dc:title>El clan</dc:title>
+        <dc:creator opf:file-as="Mola, Carmen" opf:role="aut">Carmen Mola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Magnífica, brutal y enormemente adictiva, Carmen Mola se supera en el esperado desenlace de la serie Inspectora Elena Blanco.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cuando morir no importa, todo está permitido&lt;/em&gt;. &lt;strong&gt;Elena Blanco&lt;/strong&gt; , inspectora de la Brigada de Análisis de Casos (BAC) se enfrenta a su peor enemigo, una poderosa organización integrada por personalidades del mundo de la empresa, la política, la judicatura y la policía. &lt;strong&gt;El Clan&lt;/strong&gt;. Enfrentarse a él es acabar muerto. Aun así, la BAC afronta el desafío. Pero cuando Elena recibe unas imágenes en las que Zárate aparece tendido sobre un &lt;strong&gt;charco de sangre&lt;/strong&gt; , comete un error imperdonable.&lt;br&gt;Con la inspectora en busca y captura, acusada del &lt;strong&gt;asesinato de un policía&lt;/strong&gt; , y Zárate desaparecido, Mariajo, Reyes, Orduño y Buendía hacen la guerra por su cuenta. La llegada de una nueva inspectora en sustitución de Elena empeora la situación: parece &lt;strong&gt;enviada por el Clan&lt;/strong&gt; con la misión de acabar con la BAC y llevar a Blanco a la cárcel.&lt;br&gt;Sin embargo, el hallazgo de unos &lt;strong&gt;cadáveres que han sido eviscerados&lt;/strong&gt; lleva la investigación de Elena a cruzar todos los límites para salvar a su Brigada y encontrar a Zárate, sin saber si está vivo o muerto.&lt;br&gt;Es el &lt;strong&gt;principio del fin de la BAC&lt;/strong&gt;.&lt;br&gt;Ninguno de sus miembros se había enfrentado a un &lt;strong&gt;asesino tan despiadado&lt;/strong&gt; como el Clan.&lt;/p&gt;
+&lt;h3&gt;Biografía del autor&lt;/h3&gt;
+&lt;p&gt;Carmen Mola nació en la primavera de 2017, en Madrid, cuando los autores Jorge Díaz, Agustín Martínez y Antonio Mercero decidieron lanzarse a una aventura de creación colectiva que cristalizó en una primera novela, La novia gitana, a la que seguirían La red púrpura, La nena y Las madres. A lo largo de estos años, los tres autores han continuado con sus proyectos personales, tanto novelas como guiones.En 2021 Carmen Mola obtuvo el Premio Planeta de Novela con La Bestia, un apasionante thriller histórico, a la que le siguió El Infierno. El Clan es el brutal desenlace de la serie Inspectora Elena Blanco.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0D7H8JD2V</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788408291268</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">kkMPEQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0D7H8JD2V</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON_ES">8408291262</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">214993074</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Inspectora Elena Blanco"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2024-09-11T13:29:01+00:00"/>
+        <meta name="calibre:title_sort" content="clan, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

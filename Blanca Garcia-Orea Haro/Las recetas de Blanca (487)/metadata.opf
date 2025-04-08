@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">487</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4cbf3ca-dabe-4b16-a240-cee224da7319</dc:identifier>
+        <dc:title>Las recetas de Blanca</dc:title>
+        <dc:creator opf:file-as="Blanca García-Orea Haro" opf:role="aut">Blanca García-Orea Haro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;b&gt;Recetas para toda la familia y adaptadas a intolerancias.&lt;/b&gt;&lt;/p&gt;&lt;p style="background-color: #ffffff; font-weight: 600; font-family: 'Arial','sans-serif'; font-size: 13px"&gt; &lt;/p&gt;&lt;p&gt;&lt;b&gt;Tras el exito de su libro anterior&lt;/b&gt; &lt;i&gt;Dime que comes y te dire que bacterias tienes&lt;/i&gt; Blanca García-Orea propone &lt;b&gt;80 recetas nuevas&lt;/b&gt;,
+  fáciles de hacer en familia y adaptadas a intolerancias o ciertas  
+alergias, además de trucos para colocar y guardar los alimentos  
+correctamente en la nevera o consejos para las proporciones que deben  
+tener los distintos grupos de alimentos en nuestro plato. Tambien  
+aprenderás la diferencia entre grasas malas y buenas, más trucos para  
+reducir el índice glucemico de los alimentos, cómo sustituir el azúcar  
+de los platos, que alimentos debes tomar para alimentar a tu microbiota,
+  a planificar tu lista de la compra y tus menús semanales para 
+omnívoros,  vegetarianos y adaptados a dietas bajas en FODMAPS, y mucho 
+más. Todo se  ha recogido de una forma sencilla y completa para que 
+puedas sacarle el mayor partido y &lt;b&gt;¡comenzar hoy mismo a cuidarte!&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Blanca García-Orea Haro&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-29T12:11:51.025215+00:00"/>
+        <meta name="calibre:title_sort" content="recetas de Blanca, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

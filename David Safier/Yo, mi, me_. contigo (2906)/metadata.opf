@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2906</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3693e578-b9d4-40ae-9c33-42875d6da987</dc:identifier>
+        <dc:title>Yo, mi, me… contigo</dc:title>
+        <dc:creator opf:file-as="Safier, David" opf:role="aut">David Safier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ya es bastante difícil que un hombre y una mujer compartan la vida. Pero cuando un hombre y una mujer tienen que compartir además el mismo cuerpo, el caos es completo… Rosa busca soluciones para su corazón roto. Un día, mediante hipnosis, es transportada al pasado, con tan mala fortuna que se ve transformada en un caballero que está batiéndose en duelo. Estamos en el año 1594, y ese hombre se llama William Shakespeare. Rosa no podrá volver al presente hasta que descubra qué es el verdadero amor, y para lograrlo sólo cuenta con la ayuda de un Shakespeare enamoradizo que odia sentirse controlado por una mujer. Mientras discuten entre ellos compartiendo un mismo cuerpo, se darán cuenta de que antes de poder amar a alguien deben aprender a quererse a sí mismos.</dc:description>
+        <dc:publisher>Editorial Seix Barral, S. A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-84-322-0941-3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Humor</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:32:15.411521+00:00"/>
+        <meta name="calibre:title_sort" content="Yo, mi, me… contigo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1896</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6dd86793-cdc0-46d7-82b8-d9d8be8df504</dc:identifier>
+        <dc:title>Desatado</dc:title>
+        <dc:creator opf:file-as="Hill, Karl" opf:role="aut">Karl Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-12T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En el primer capítulo de esta serie de suspenso y crimen, un ex capitán del SAS sobrevive a un ataque violento y acaba en el punto de mira de un gángster peligroso de Glasgow. &lt;br&gt;&lt;br&gt;Adam Black, abogado y ex capitán del SAS, fue atacado mientras salía a correr por la noche en el tranquilo pueblo escocés de Eaglesham. Pero Black no acepta la emboscada de brazos cruzados y, mientras se defiende, mata a dos de los tres atacantes.&lt;br&gt;&lt;br&gt;Después de que la policía interroga a Black, deciden no presentar cargos. . . En su contra.&lt;br&gt;&lt;br&gt;Sin que Black lo sepa, los hombres que lo agredieron tienen vínculos con un criminal cruel, Peter Grant, que jura que se vengará.&lt;br&gt;&lt;br&gt;Black no es un hombre con quien meterse. Pero Peter Grant tampoco lo es; y cuando comienza una campaña de terror contra Black, su esposa y su hija, Black se niega a dejarse intimidar...¿pero a qué precio?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bloodhound Books</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <meta name="calibre:series" content="Adam Black"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:55.985542+00:00"/>
+        <meta name="calibre:title_sort" content="Desatado"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1110</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc2aee18-14be-43f1-bde9-bfd4db363a98</dc:identifier>
+        <dc:title>Esencialismo</dc:title>
+        <dc:creator opf:file-as="McKeown, Greg" opf:role="aut">Greg McKeown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-12T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;¿Sabes en qué inviertes tu tiempo y energía?&lt;br/&gt;Descubre lo que es verdaderamente esencial y obtén los mejores resultados.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Esencial no se trata de hacer más cosas en menos tiempo. Se trata de obtener sólo cosas bien hechas. No es una estrategia de gestión del tiempo, o una técnica de productividad. Es una disciplina sistemática para discernir lo que es absolutamente esencial y eliminar todo lo que no es, para que podamos enfocarnos en lo que realmente importa.&lt;/p&gt;&lt;p&gt;Al obligarnos a aplicar un criterio más selectivo de lo que es esencial, la búsqueda disciplinada de menos nos da el poder para recuperar el control de nuestras propias decisiones sobre dónde gastar nuestro tiempo y energía &amp;#8211;en lugar de dar a otros el permiso de elegir por nosotros.&lt;/p&gt;</dc:description>
+        <dc:publisher>AGUILAR</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786071133830</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:13.652226+00:00"/>
+        <meta name="calibre:title_sort" content="Esencialismo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c73ddb7-e8bb-47c0-8f9a-6a30c244ffaf</dc:identifier>
+        <dc:title>Con mucha hambre y poco tiempo</dc:title>
+        <dc:creator opf:file-as="Salamanca, Ismael" opf:role="aut">Ismael Salamanca (@ismaelcocinillas)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-14T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;¿Eres de los que tienen siempre mucha hambre y poco tiempo?&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;¿Te apetece probar sabores nuevos como el katsu sando o el falso risotto?&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;¿Te pirra el queso y quieres cocinar combinaciones imposibles, como las palomitas de parmesano?&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;¿No te resistes a un buen postre como el cheesecake?&lt;/B&gt;&lt;/P&gt;&lt;P&gt;Pues si esto es así, ¡este es tu libro de recetas!&lt;/P&gt; &lt;P&gt;En un tono natural y divertido, @isamelcocinillas nos propone 70 recetas, ricas, fáciles y brutales, que podrás degustar en cualquier momento del día.&lt;/P&gt; &lt;P&gt;&lt;B&gt;¿Te las vas a perder?&lt;/B&gt;&lt;/P&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418055652</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T14:46:10.128315+00:00"/>
+        <meta name="calibre:title_sort" content="Con mucha hambre y poco tiempo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

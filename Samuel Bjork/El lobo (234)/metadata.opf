@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d4386b9-3e73-45ff-b004-de73705c6b5e</dc:identifier>
+        <dc:title>El lobo</dc:title>
+        <dc:creator opf:file-as="Samuel Bjørk" opf:role="aut">Samuel Bjørk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;b&gt;El esperado regreso del autor del&lt;/b&gt; &lt;b&gt;best&lt;/b&gt; &lt;b&gt;seller internacional&lt;/b&gt; &lt;i&gt;&lt;b&gt;Viajo sola&lt;/b&gt;&lt;/i&gt; &lt;b&gt;con una impactante precuela  protagonizada por los inspectores&lt;/b&gt; &lt;b&gt;Krüger y&lt;/b&gt; &lt;b&gt;Munch.&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;Un granjero descubre los cuerpos de dos niños de once años en un campo  de Suecia junto a una liebre muerta. En el diario de uno de ellos hay  una anotación misteriosa: «Mañana hay luna llena. Tengo miedo del lobo».  Ocho años después, los cadáveres de otros dos pequeños son encontrados  en un terreno cerca de Oslo. El inspector Holger Munch, recién ascendido  a jefe de una nueva unidad de investigación, acaba de contratar a la  joven policía Mia Krüger, que ha deslumbrado a todos en la academia por  su intuición. En las fotos de la escena del crimen, Mia descubre un  detalle que ha pasado desapercibido hasta ahora y que no augura nada bueno. Y entonces otros dos chicos desaparecen...&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;La crítica ha dicho:&lt;/b&gt;&lt;br /&gt;«Ten cuidado, Jo Nesbø».&lt;br /&gt;&lt;i&gt;Bergens&lt;/i&gt; &lt;i&gt;Tidende&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«De nuevo Bjørk nos ofrece una historia de suspense llena de tensión y  emoción con una maestría que pocos escritores noruegos poseen. A lo  largo de sus páginas, sacude al lector hasta los huesos y le hace sentir que está en una montaña rusa... &lt;i&gt;El lobo&lt;/i&gt; es una magnífica novela de  intriga y una de esas raras lecturas que llegan a obsesionarte. Impresionante».&lt;br /&gt;&lt;i&gt;Randaberg 24&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Una vez más, Bjørk ha escrito una novela trepidante y adictiva que el  lector tardará mucho en olvidar. ¡Suspense escandinavo de primer nivel!».&lt;br /&gt;&lt;i&gt;ThrillZone &lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Esta precuela es la introducción perfecta para los lectores que todavía  no han descubierto a Samuel Bjørk. Todos los ingredientes que hacen sus libros adictivos están aquí».&lt;br /&gt;&lt;i&gt;Gva&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Entretenida y emocionante de principio a fin».&lt;br /&gt;&lt;i&gt;Telegraaf&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Increíblemente intrigante».&lt;br /&gt;&lt;i&gt;Trouw&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«La tensión mantiene al lector en vilo. Una lectura oblig</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491297680</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Bjørk&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="inspectores Krüger y Munch"/>
+        <meta name="calibre:series_index" content="0"/>
+        <meta name="calibre:timestamp" content="2023-01-31T07:44:34+00:00"/>
+        <meta name="calibre:title_sort" content="lobo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

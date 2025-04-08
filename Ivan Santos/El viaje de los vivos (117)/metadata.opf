@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d9735a0-9a23-462b-95d2-6368c226ec9b</dc:identifier>
+        <dc:title>El viaje de los vivos</dc:title>
+        <dc:creator opf:file-as="Santos, Iván" opf:role="aut">Iván Santos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-02T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;La vida de Rai y sus amigos ha cambiado en tan sólo un mes y 
+medio. Desde las 4 paredes del restaurante la realidad que vivían era 
+muy diferente a la que ve ahora a través de sus ojos. El mundo que 
+conocían se ha esfumado, ahora queda caos en la ciudad, y para su 
+sorpresa, el trayecto que quieren recorrer hasta llegar a su destino, 
+está lleno de peligros inesperados... pero ¿realmente son los zombies a 
+los que deberían temer? Rai y sus amigos descubren que la humanidad se 
+ha ido, en todos los sentidos.&lt;/p&gt;</dc:description>
+        <dc:publisher>Amazon</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B078T2271N</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Iván Santos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Los vivos"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:30.500648+00:00"/>
+        <meta name="calibre:title_sort" content="viaje de los vivos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

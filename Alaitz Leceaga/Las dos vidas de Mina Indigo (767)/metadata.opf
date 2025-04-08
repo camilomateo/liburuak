@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8833f46-8f32-4b8a-98bd-8fbf652129c8</dc:identifier>
+        <dc:title>Las dos vidas de Mina Índigo</dc:title>
+        <dc:creator opf:file-as="Leceaga, Alaitz" opf:role="aut">Alaitz Leceaga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mina Índigo es la médium más solicitada de Barcelona. En su palacete del céntrico pasaje de Permanyer organiza sesiones espiritistas para ricas damas de la alta sociedad, pero, en realidad, es una experta investigadora que usa sus contactos para obtener información comprometedora de sus clientes. En la Barcelona de 1888, a las puertas de la celebración de la Exposición Universal, Mina y y el nuevo patólogo forense, el británico doctor Ellis, se verán implicados en un asesinato que conmocionará a la ciudad. Tendrán que resolver el crimen, moviéndose entre lujosas fiestas en el Liceo y las calles más tortuosas del Raval, antes de que el escándalo y la sangre salpiquen las calles, mientras entre ellos surge una pasión inesperada. De la mano de unos personajes fascinantes y con la prosa magnética que la caracteriza, Alaitz Leceaga nos adentra en un lugar y momento histórico apasionantes, germen de lo que llegará a ser el siglo xx. «Sé por experiencia propia, Ellis, que los fantasmas nos siguen allá adonde vamos. Si quieres, puedo ayudarte con los tuyos».&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-25T10:54:18.840763+00:00"/>
+        <meta name="calibre:title_sort" content="dos vidas de Mina Índigo, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">619</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a559841-8fe9-4b69-bf48-b76cdfb1dd28</dc:identifier>
+        <dc:title>La estación</dc:title>
+        <dc:creator opf:file-as="Michelis, Jacopo De" opf:role="aut">Jacopo De Michelis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-12T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Conspiración y aventura en la Estación 
+Central de Milán, desde donde salían los trenes de deportados judíos 
+durante la 2ª Guerra Mundial.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;La novela que ha cautivado a prensa y público en Italia en 2022.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Milán, abril de 2003&lt;/span&gt;.
+ Riccardo Mezzanotte es un joven inspector de policía que acaba de 
+incorporarse a la Sección de la Policía Ferroviaria de la Estación 
+Central. Tiene una propensión innata a meterse en problemas y comienza a
+ investigar un caso que no parece interesar a nadie: alguien está 
+esparciendo cadáveres de animales horriblemente mutilados por la 
+estación.&lt;/p&gt;&lt;p&gt;Laura Cordero es una joven de veinte años, 
+hermosa y de buena familia, que esconde un secreto. Ella suele llamarlo 
+«el regalo» pero lo considera más bien una maldición de la que no puede 
+hablar. Colabora como voluntaria en un centro de atención a los 
+marginados que se encuentra en la Estación Central y también intenta 
+resolver un misterio:quiere encontrar a dos niños a los que ha visto 
+varias veces deambulando por los alrededores de la estación al 
+atardecer, solos.&lt;/p&gt;&lt;p&gt;La estación, poderosa como una 
+fortaleza, solemne como un mausoleo, enigmática como una pirámide 
+egipcia, parece albergar muchos más misterios: entre los dolorosos 
+pliegues de su historia, tras sus suntuosas columnas y, sobre todo, en 
+sus laberintos subterráneos, gran parte en desuso, donde normalmente ni 
+la policía se atreve a aventurarse, los destinos de Riccardo y Laura se 
+cruzarán y juntos encontrarán la resolución a los misterios que ambos 
+tratan de resolver.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">862c4b9f-2bf1-46a9-a94f-2093bcb40adb</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jacopo De Michelis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42.064915+00:00"/>
+        <meta name="calibre:title_sort" content="estación, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2909</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">385f09a4-184c-4579-81b6-2a7ccfbe1539</dc:identifier>
+        <dc:title>Rompamos el hielo</dc:title>
+        <dc:creator opf:file-as="Safier, David" opf:role="aut">David Safier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-29T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Urga lleva 33.000 años congelada en un iceberg al lado de un pequeño mamut pero ahora, por culpa del cambio climático, se deshiela y tras echar un vistazo al presente casi preferiría congelarse de nuevo. Aun así, esta mujer de la Edad de Piedra es sobre todo una luchadora, y antes de darse por vencida quiere averiguar si es posible ser feliz en un mundo tan extraño.&lt;/p&gt;&lt;p&gt;Junto con sus improbables acompañantes —Felix, un desastroso empresario, su ingeniosa hija Maya y el extraño capitán Lovskar— iniciará un viaje marcado por las amenazas y aventuras en el que no sólo descubrirán el amor y cómo aceptarse a sí mismos, sino también que a menudo la forma más perfecta de felicidad es la que experimentas cuando ayudas a los demás.&lt;/p&gt;&lt;p&gt;Safier firma una novela encantadora, divertidísima y sabia, y lo hace con un potente mensaje inspiracional, el de la búsqueda de la felicidad, y abordando temas tan actuales como el feminismo ;o el calentamiento global.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">57464</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:32:16.349971+00:00"/>
+        <meta name="calibre:title_sort" content="Rompamos el hielo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

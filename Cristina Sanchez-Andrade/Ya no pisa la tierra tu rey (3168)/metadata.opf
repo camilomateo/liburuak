@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb79f5dd-eb7d-4d72-b94e-244e01cabcfb</dc:identifier>
+        <dc:title>Ya no pisa la tierra tu rey</dc:title>
+        <dc:creator opf:file-as="Sánchez-Andrade, Cristina" opf:role="aut">Cristina Sánchez-Andrade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-14T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una novela nada convencional en la que la estrecha vida conventual contrasta con los excesos de la vida palaciega.&lt;/p&gt;
+&lt;p&gt;A través de la perversa (y, a la vez, inocente) mirada de unas monjas que juegan a no ser monjas, construye Cristina Sánchez-Andrade este original relato en el que la estrecha vida conventual contrasta con los excesos de la vida palaciega.&lt;/p&gt;
+&lt;p&gt;Una abadesa excéntrica y resentida, cuya misteriosa muerte es anunciada desde las primeras páginas, un fraile que ha agotado su vida buscando a Dios por la vía de la razón, un marqués pendenciero, su esposa, doña Hilda, que va al convento a jurar su virginidad, un extraño lacayo que hace pelotas de papel, una cocinera que aspira a ser marquesa y, finalmente, el Rey que ya no pisa la tierra, son los personajes que van entretejiendo esta intrigante historia.&lt;/p&gt;
+&lt;p&gt;Una novela nada convencional, escrita con una prosa sensual y lírica, en la que la soledad, el desamparo, la dura tarea de ser, la libertad y la búsqueda de la identidad personal aparecen como telón de fondo. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Anagrama</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-14T13:34:12.178303+00:00"/>
+        <meta name="calibre:title_sort" content="Ya no pisa la tierra tu rey"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

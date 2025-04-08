@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">999</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d5bef26-a577-4380-9b44-8d21bc38bce4</dc:identifier>
+        <dc:title>El fuego invisible</dc:title>
+        <dc:creator opf:file-as="Sierra, Javier" opf:role="aut">Javier Sierra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-02T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;David Salas, un prometedor lingüista del Trinity College de 
+Dublín, se encuentra, después de aterrizar en Madrid para pasar sus 
+vacaciones, con Victoria Goodman, una vieja amiga de sus abuelos, y con 
+su joven ayudante, una misteriosa historiadora del arte. Ese hecho 
+trastocará sus planes y lo empujará a una sorprendente carrera por 
+averiguar qué ha sucedido con uno de los alumnos de la escuela de 
+literatura que regenta lady Goodman. Para su sorpresa, la clave parece 
+esconderse en el mito del grial y su vinculación con España.&lt;br&gt;Remotas 
+iglesias románicas de los Pirineos, colecciones de arte en Barcelona, 
+libros antiguos y extraños códigos en piedra se alinean en una trama 
+llena de intriga que nos hará pensar sobre el origen de toda 
+inspiración, literatura y arte verdaderos.&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-23T12:48:38.935600+00:00"/>
+        <meta name="calibre:title_sort" content="fuego invisible, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

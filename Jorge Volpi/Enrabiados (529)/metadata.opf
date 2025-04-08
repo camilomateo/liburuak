@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4921ee8-8e50-4dab-87d4-0396b3a91824</dc:identifier>
+        <dc:title>Enrabiados</dc:title>
+        <dc:creator opf:file-as="Volpi, Jorge" opf:role="aut">Jorge Volpi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-21T14:14:05+00:00</dc:date>
+        <dc:description>&lt;p&gt;¿Puede detenerse lo irreversible? ¿Alguien puede convertirse en un
+ teorema sin solución? ¿Es posible huir de un destino que no nos 
+pertenece? ¿Son las redes sociales quienes nos impulsan a la batalla? 
+¿Un personaje de ficción puede redactar una declaración de principios? 
+¿Cabe toda la música en un solo cuerpo? Caminamos asediados por 
+interrogantes, sufrimos la desigualdad que nos imponen las esferas de 
+poder, respiramos la ira de sociedades cada vez más polarizadas. Vivimos
+ coléricos, iracundos, enrabiados. Como si se tratara de un manual sobre
+ la rabia, Jorge Volpi disecciona, incide y profundiza magistralmente en
+ los espacios que generan nuestras confrontaciones y en las hendiduras 
+en las que nos precipitamos o escapamos cada uno de nosotros.&lt;/p&gt;</dc:description>
+        <dc:publisher>Páginas de Espuma</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jorge Volpi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:40:09.695730+00:00"/>
+        <meta name="calibre:title_sort" content="Enrabiados"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

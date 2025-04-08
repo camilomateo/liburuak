@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2715</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e67bd7f1-5413-4f3e-84be-0e94c994c385</dc:identifier>
+        <dc:title>Réquiem por todos los muertos</dc:title>
+        <dc:creator opf:file-as="Colin Dexter" opf:role="aut">Colin Dexter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-18T18:41:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Vuelve Endeavour Morse, el mítico inspector de la policía de Oxford.&lt;/p&gt;
+&lt;p&gt;El inspector Morse podría haber estado de vacaciones en Grecia en lugar de investigando un caso que la policía ha descartado hace tiempo. Pero el brutal asesinato del sacristán de una iglesia de los suburbios le parece realmente fascinante. De hecho, no descubre solo un crimen sino dos, ya que la caída fatal del vicario de St. Frideswides desde la torre de la iglesia tiene todas las trazas de no haber sido accidental. Y a medida que ahonda en las vidas, en absoluto libres de mácula, del rebaño del difunto vicario, la lista de muertos se va incrementando. Parece que nada ni nadie vaya a compensar a Morse por el enredo en el que se ha metido. Así que se toma otra pinta, sigue sus corazonadas y se dispone a llegar al fondo de la cuestión.&lt;/p&gt;
+&lt;p&gt;Oxford como telón de fondo, una trama sin fisuras y un elaborado desarrollo de los personajes son las tres inconfundibles señas de identidad que han convertido a Colin Dexter en uno de los exponentes contemporáneos más relevantes del género, un verdadero maestro de la ficción policial clásica.&lt;/p&gt;
+&lt;p&gt;«Historias de aroma oxoniense protagonizadas por un personaje inolvidable. Si han visto la serie, pasen por los libros; si no, también».&lt;/p&gt;
+&lt;p&gt;Juan Carlos Galindo, El País&lt;/p&gt;
+&lt;p&gt;«Lo importante es contemplar a estos personajes de carne y hueso, creíbles, nunca pueriles ni demenciados, deambulando por las calles de Oxford, investigando, dialogando con estudiantes y dons y con otros, y asistir a sus comedidas penas».&lt;/p&gt;
+&lt;p&gt;Javier Marías&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Siruela</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Negra</dc:subject>
+        <meta name="calibre:series" content="Inspector Morse"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-11-22T11:06:51.283496+00:00"/>
+        <meta name="calibre:title_sort" content="Réquiem por todos los muertos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

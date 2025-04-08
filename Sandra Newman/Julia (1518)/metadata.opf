@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bfde011-6e1c-4ae3-9604-6ee32d1a0cfe</dc:identifier>
+        <dc:title>Julia</dc:title>
+        <dc:creator opf:file-as="Newman, Sandra" opf:role="aut">Sandra Newman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-26T16:51:50+00:00</dc:date>
+        <dc:description>Una brillante e imaginativa versión feminista del clásico de Orwell coincidiendo con el 75 aniversario de la primera publicación de 1984.
+Mejor Libro del Año según The Guardian, Los Angeles Times, Financial Times, Esquire, LitHub, People Magazine y Marie Claire
+Airstrip One, Londres, año 1984. Julia Worthing trabaja como mecánica en el Ministerio de la Verdad. Gobiernan el Partido y su líder, el Gran Hermano. Julia infringe las reglas con frecuencia, pero también coopera con el régimen cuando le conviene. Sabe cómo sobrevivir en un mundo de vigilancia constante. Pero cuando se siente intrigada por un colega, Winston Smith, todo a su alrededor se desmorona.
+Julia, nos muestra 1984 desde una nueva perspectiva. Subversiva, sagaz y tremendamente cautivadora, va más allá de la conocida historia de Winston Smith y enseña cómo es para las mujeres sobrevivir en el mundo feroz de Gran Hermano.
+
+Un viaje fascinante al totalitarismo de Orwell en 1984—The Guardian
+Newman no solo moderniza 1984, hace que sea esencial leerlo. — Sunday Times
+Una escritora poderosa e inteligente. Una novela maravillosamente escrita. ― The Times
+Newman demuestra ser una digna sucesora de Orwell—Los Angeles Times
+Subversiva. Inteligente. Y su final ¡Oh, si sólo pudiéramos hablar del final!—The Washington Post</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423365210</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-22T16:46:47.053271+00:00"/>
+        <meta name="calibre:title_sort" content="Julia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

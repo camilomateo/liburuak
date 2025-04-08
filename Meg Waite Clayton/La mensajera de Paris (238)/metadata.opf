@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf1de6bb-a6e3-4972-a6b7-a82b84c47a86</dc:identifier>
+        <dc:title>La mensajera de París</dc:title>
+        <dc:creator opf:file-as="Meg Waite Clayton" opf:role="aut">Meg Waite Clayton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;La autora de El último tren a la libertad, best seller de The New York Times, visita de nuevo los oscuros primeros días de la ocupación alemana en Francia en esta evocadora novela que gira en torno a una joven heredera norteamericana que ayuda a artistas perseguidos por los nazis a escapar de una Europa rota por la guerra.&lt;br&gt;Nanée, bella y adinerada, nació con espíritu aventurero. Para ella, aprender a volar equivale a libertad. Cuando los tanques alemanes cruzan la frontera y llegan a París, esta mujer, con un perro adorable y un corazón generoso, se suma a la Resistencia. Conocida como «la mensajera» porque parte de su trabajo consiste en pasar información a gente que vive escondida, Naneé utiliza sus encantos y sus habilidades para dar cobijo a los perseguidos y conducirlos hasta un lugar seguro.&lt;br&gt;El fotógrafo Edouard Moss ha huido de Alemania con su hija pequeña y acaba recluido en un campo de trabajo francés. Su vida colisiona con la de Nanée en este arrebatador relato de amor y peligro que se desarrolla con el telón de fondo de un mundo en llamas.&lt;br&gt;Inspirada en la vida real de Mary Jayne Gold, una rica heredera de Chicago que trabajó con el periodista norteamericano Varian Fry para sacar a escondidas de Francia a artistas e intelectuales, La mensajera de París es la cautivadora historia de una mujer indomable cuya fuerza, valentía y amor fueron un rayo de esperanza en tiempos de terror.&lt;br&gt;«Clayton describe con experiencia el papel que desempeñó una valiente norteamericana en la resistencia francesa durante la Segunda Guerra Mundial. […] La prosa lírica de Clayton invita a pensar e insufla vida a sus personajes. Su admirable retrato de una mujer compleja destaca con creces por encima de la mayoría de la ficción contemporánea de la Segunda Guerra Mundial».&lt;br&gt;PUBLISHERS WEEKLY&lt;br&gt;«Una potente y evocadora historia de amor cargada de heroísmo e intriga. La película Casablanca si Rick se hubiera dedicado al mundo del arte…».&lt;br&gt;SAN FRANCISCO CHRONICLE&lt;br&gt;«Un relato arrebatador de pe&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harlequin, una división de HarperCollins Ibérica, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491398226</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Meg Waite Clayton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-02T11:04:17.340913+00:00"/>
+        <meta name="calibre:title_sort" content="mensajera de París, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

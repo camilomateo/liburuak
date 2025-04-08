@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f38f4043-9c08-43ed-b651-aa1f6962dbe6</dc:identifier>
+        <dc:title>El caso Alaska Sanders</dc:title>
+        <dc:creator opf:file-as="Dicker, Joël" opf:role="aut">Joël Dicker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-22T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="background-color: #ffffff; color: #0f1111"&gt;«Sé lo que has hecho». Este mensaje, encontrado en el bolsillo del pantalón de Alaska Sanders, cuyo cadáver apareció el 3 de abril de 1999 al borde del lago de Mount Pleasant, una pequeña localidad de New Hampshire, es la clave de la nueva y apasionante investigación que, once años después de poner entre rejas a sus presuntos culpables, vuelve a reunir al escritor Marcus Goldman y al sargento Perry Gahalowood. En esta Ocasión contarán con la inestimable ayuda de una joven agente de policía, Lauren Donovan, empeñada en resolver la trama de secretos que se esconde tras el caso. A medida que vayan descubriendo quién era realmente Alaska Sanders, irán resurgiendo también los fantasmas del pasado y, entre ellos, especialmente el de Harry Quebert.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>suspense</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joël Dicker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Marcus Goldman"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:25.655520+00:00"/>
+        <meta name="calibre:title_sort" content="caso Alaska Sanders, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

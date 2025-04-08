@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1892</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca17c6a2-ea1d-4fa0-8574-1a70926a28c8</dc:identifier>
+        <dc:title>El Puente</dc:title>
+        <dc:creator opf:file-as="Brolly, Matt" opf:role="aut">Matt Brolly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-30T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Cuando el cuerpo de una joven es descubierto en un contenedor 
+de carga en Bristol, la policía sospecha que era una inmigrante ilegal 
+cuya muerte fue un trágico accidente. Pero su teoría es desmentida por 
+dos piezas de evidencia: el contenedor estaba programado para ser 
+enviado, no para recibir; y, aún más siniestro, una cámara de video con 
+transmisión en vivo la estaba filmando desde un compartimento oculto.&lt;/p&gt;&lt;p&gt;Alguien la vio morir. Lentamente.&lt;/p&gt;&lt;p&gt;DI
+ Louise Blackwell está embarazada de diez semanas, un hecho que en gran 
+parte ha mantenido en secreto, y entre episodios de náuseas matutinas 
+ahora tiene un asesinato que investigar. Si bien los muelles ofrecen 
+pocas otras pistas, el descubrimiento de más transmisiones en vivo 
+convence a Blackwell de que hay otras mujeres atrapadas... y que algunas
+ de ellas aún están vivas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oblong Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CLFNG4Y2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:53.974351+00:00"/>
+        <meta name="calibre:title_sort" content="Puente, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

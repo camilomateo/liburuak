@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">931</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b1673e1-3985-4480-a691-8d7bf335f5f2</dc:identifier>
+        <dc:title>Mujer océano</dc:title>
+        <dc:creator opf:file-as="Martín, Vanesa" opf:role="aut">Vanesa Martín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;«A un palmo de ti es fácil morderte. Guarda la lengua, que voy directa,&lt;/span&gt;&lt;br style="-webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;no sea que, al sentirla húmeda, la invite donde guardo ciertos ecos y duermen huracanes, allí donde más de uno murió a oscuras, perdiéndose en el intento de encontrar fuego,que cuando quemas es porque hay alma, y cuando hay alma, duelo.»&lt;/span&gt;&lt;br style="-webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;En &lt;/span&gt;&lt;i style="-webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Mujer océano&lt;/i&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;, Vanesa Martín se enfrenta, sin la complicidad de la música, a la poesía. Amor y desamor son los blancos donde van a dar las palabras afiladas, a veces estudiadas y a veces rabiosamente libres, de Vanesa. Una selección de poemas cercanos, urbanos y actuales en los que late la delicadeza y sensibilidad femenina, pero también el caos y la potencia del océano.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-04T12:12:26.027304+00:00"/>
+        <meta name="calibre:title_sort" content="Mujer océano"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

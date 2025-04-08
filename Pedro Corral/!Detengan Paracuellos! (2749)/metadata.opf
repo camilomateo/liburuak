@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2749</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac4e0a2c-b7ab-4d47-ab7b-3c46a7ae4912</dc:identifier>
+        <dc:title>¡Detengan Paracuellos!</dc:title>
+        <dc:creator opf:file-as="Corral, Pedro" opf:role="aut">Pedro Corral</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-21T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En el Madrid de 1936 surge la conmovedora historia del doctor Georges Henny, delegado de Cruz Roja Internacional, uno de los héroes humanitarios que tuvo el valor de enfrentarse a los horrores de una guerra sin cuartel, despiadada y brutal.&lt;/p&gt;
+&lt;p&gt;Alrededor del joven pediatra suizo confluyeron las iniciativas a favor de todas las víctimas de la contienda en una ciudad golpeada por el asedio de las tropas franquistas y por la represión republicana, que tuvo en Paracuellos del Jarama uno de sus capítulos más siniestros. Con testimonios y documentos inéditos que nos descubren figuras y hechos desconocidos, Pedro Corral ofrece nuevamente a los lectores una magistral lección de historia. &lt;/p&gt;
+&lt;p&gt;Desde los profundos abismos a los que condujo el odio entre españoles, surge la cima moral que representan los ejemplos de Henny, Felix Schlayer, Melchor Rodríguez o Luis Zubillaga como un faro de humanidad y esperanza, al que nos acerca el autor de una forma amena y trepidante. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788413847696</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CST374RG</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-18T07:33:29.127159+00:00"/>
+        <meta name="calibre:title_sort" content="¡Detengan Paracuellos!"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

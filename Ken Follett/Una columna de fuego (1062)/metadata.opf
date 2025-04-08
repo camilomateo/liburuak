@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1062</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bffe0dac-ff5e-4e45-af91-8a6f9588b23b</dc:identifier>
+        <dc:title>Una columna de fuego</dc:title>
+        <dc:creator opf:file-as="Follett, Ken" opf:role="aut">Ken Follett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;span itemprop="description"&gt;La saga de Los pilares de la Tierra y Un 
+mundo sin fin, que ha cautivado a millones de lectores, prosigue ahora 
+con una magistral nueva historia.
+&lt;br&gt;
+&lt;br&gt;Una columna de fuego arranca cuando el joven Ned Willard regresa a 
+su hogar en Kingsbridge por Navidad. Corre el año 1558, un año que 
+trastocará la vida de Ned y que cambiará Europa para siempre.
+&lt;br&gt;Las antiguas piedras de la catedral de Kingsbridge contemplan una 
+ciudad dividida por el odio religioso. Los principios elevados chocan 
+con la amistad, la lealtad y el amor, y provocan derramamientos de 
+sangre. Ned se encuentra de pronto en el bando contrario al de la 
+muchacha con quien anhela casarse, Margery Fitzgerald.
+&lt;br&gt;Cuando Isabel I llega al trono, toda Europa se vuelve en contra de 
+Inglaterra. La joven monarca, astuta y decidida, organiza el primer 
+servicio secreto del país para estar avisada ante cualquier indicio de 
+intrigas homicidas, levantamientos o planes de invasión.&lt;/span&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401018312</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06WLLVCKN</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela Histórica</dc:subject>
+        <meta name="calibre:series" content="Los pilares de la Tierra"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-11-05T15:16:28.617382+00:00"/>
+        <meta name="calibre:title_sort" content="columna de fuego, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

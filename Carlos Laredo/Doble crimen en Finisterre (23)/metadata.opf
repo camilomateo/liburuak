@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b53dfce-2d33-4f96-8406-69ddda0feb07</dc:identifier>
+        <dc:title>Doble crimen en Finisterre</dc:title>
+        <dc:creator opf:file-as="Laredo, Carlos" opf:role="aut">Carlos Laredo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-09T14:18:54+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Descubre por qué llaman Holmes a un guardia civil de las Rías Bajas. Doble crimen en Finisterre es la octava novela de la colección el cabo Holmes, con una nueva trama basada en un crimen que llevará al inteligente y metódico guardia, no solo hasta quien lo cometió, sino también hacia el complejo mundo de la trata de blancas. Como de costumbre, Carlos Laredo, con su lenguaje sencillo, fluido y culto, cuenta algo más que un doble crimen y la correspondiente investigación. Los hechos y los personajes son el soporte de una historia de intereses, sentimientos y circunstancias que muestran el lado más humano de los protagonistas, situados en el decorado mágico de la Galicia más recóndita, la Costa de la Muerte. La presencia casual del millonario y caprichoso detective Julio César Santos, amigo del cabo Holmes, que se mueve por los prostíbulos de lujo con soltura, aporta un toque irreverente de humor y colorido a la trama y acompaña al lector hasta el final sin hacerle perder su interés e intensidad.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Kokapeli</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Misterio</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carlos Laredo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="El cabo Holmes"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:14:35.390674+00:00"/>
+        <meta name="calibre:title_sort" content="Doble crimen en Finisterre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

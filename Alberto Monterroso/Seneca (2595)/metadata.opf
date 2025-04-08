@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f228df57-bc92-4e98-a0fb-a74f6dbc66e1</dc:identifier>
+        <dc:title>Séneca</dc:title>
+        <dc:creator opf:file-as="Monterroso, Alberto" opf:role="aut">Alberto Monterroso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-14T23:00:00+00:00</dc:date>
+        <dc:description>Retrato moral, histórico y político, "Séneca, la sabiduría del Imperio" analiza por vez primera este personaje esencial desde un contexto adecuado y completo. Así, se recoge con sumo detalle y de manera novedosa la relevancia de sus orígenes familiares, así como la de la Córdoba de su tiempo. Atendiendo a las fuentes romanas, a la obra del propio Séneca, a los estudios modernos y clásicos, pero desde un profundo conocimiento del personaje, de la filosofía y de la propia Historia de Roma, Alberto Monterroso nos muestra con extraordinaria amenidad tanto su pensamiento como su obra moral, trágica, poética, etc., lo que se va intercalando con la descripción de los hechos acontecidos en el plano personal. El resultado es una obra imprescindible, de obligada consulta para quienes quieran conocer por qué y cómo un hombre nacido en una de las ciudades más remotas del Imperio, la lejana Córdoba, llegaría a convertirse en el político e intelectual más eminente de Roma. ¿Cómo fue posible que ese hombre se alzara hasta la cumbre del Imperio y lo gobernara sabiamente en nombre del emperador? ¿Cómo es posible que su estela intelectual haya tenido implicaciones de primer nivel en el mundo de la política, de la religión, de la cultura y de la sociedad hasta pleno siglo XXI? ¿Qué tuvo y sigue teniendo de especial, de inefable, Lucio Anneo Séneca?
+
+
+
+La biografía intelectual del pensador cuyo poderoso influjo alcanza nuestros días y la crónica histórica de los mejores siglos de Roma.</dc:description>
+        <dc:publisher>Almuzara</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08VBPW2DM</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-12T13:39:21.485696+00:00"/>
+        <meta name="calibre:title_sort" content="Séneca"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2745</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e435ef67-3499-46c6-a008-e958f67d89df</dc:identifier>
+        <dc:title>Un perro de caracter</dc:title>
+        <dc:creator opf:file-as="Marai, Sandor" opf:role="aut">Sandor Marai</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-25T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Budapest, Nochebuena de 1928. Aunque envuelta en un espeso manto de nieve, la ciudad conserva un aspecto soberbio y majestuoso, y un escritor observa los escaparates iluminados con la mezcla de consternación y perplejidad que suele invadirlo siempre que se dispone a hacer alguna compra. Tal como ocurre desde hace más de una década, ha acordado con su esposa que no se intercambiarán ningún regalo para no agravar sus estrecheces económicas, pero él sabe que, como cada año, tendrá que cumplir con la tradición a riesgo de decepcionarla. Así, acaba comprando un cachorro de nombre Chútora, de pelo enmarañado y el tamaño de un puño, que pronto desempeñará un papel decisivo en su hogar hasta transformar para siempre la vida de todos.&lt;/p&gt;
+&lt;p&gt;Escrito en 1932 y ambientado en el sombrío período de entreguerras, Un perro de carácter es uno de los libros en los que se manifiesta la faceta autobiográfica de Sándor Márai con mayor originalidad. Con una prosa llena de vivacidad e ironía, una trama sin un atisbo de sentimentalismo, un protagonista inolvidable y un final impredecible, el autor de obras tan intensas y dramáticas como El último encuentro o Divorcio en Buda nos deslumbra de nuevo con una novela, inédita en español, que esconde una profunda meditación sobre las complejidades del ser humano.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-18T07:33:28.467157+00:00"/>
+        <meta name="calibre:title_sort" content="perro de caracter, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

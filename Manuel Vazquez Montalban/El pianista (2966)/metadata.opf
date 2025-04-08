@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2966</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">767cafd2-77eb-4b11-a8a8-1a9d9e058d08</dc:identifier>
+        <dc:title>El pianista</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-12-31T23:00:00+00:00</dc:date>
+        <dc:description>No era concertista, sino que tocaba en un club: sus ilusiones se habían desmoronado a la misma velocidad, con el mismo compás trágico que la historia de España. Un día, al local donde trabajaba llegó un viejo conocido. El pianista no le dijo nada: del mismo modo que él llevaba el estigma de la derrota en los pliegues de su existencia, el conocido ostentaba los signos del vencedor. De todos modos, el pianista no pudo evitar que la máquina del recuerdo se pusiera en marcha. Y de ese modo, durante un lapso mágico, él fue memoria y presente, exaltación y decadencia, vigor y sumisión: un fruto esquizofrénico de una historia particularmente difícil. El pianista, incluso más allá de la metáfora del esplendor y caída de un proyecto histórico, es una reivindicación de la ética como guía del comportamiento y una espléndida novela.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:15+00:00"/>
+        <meta name="calibre:title_sort" content="pianista, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">132</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">221ea06c-0f40-447f-9187-d0e9a3172e29</dc:identifier>
+        <dc:title>Desaprendizajes</dc:title>
+        <dc:creator opf:file-as="Bonald, José Manuel Caballero" opf:role="aut">José Manuel Caballero Bonald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-16T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;i style="-webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;b style="-webkit-tap-highlight-color: transparent;"&gt;Desaprendizajes&lt;/b&gt;&lt;/i&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt; es un poemario que interroga al lector con implacable recurrencia y otorga a su autor una personalidad poética, consistente y singular, inconfundible. El acento paródico, la subordinación sarcástica, la crítica de la cultura y de la sociedad, una ironía perceptible incluso &lt;/span&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;en la sintaxis, potencian la capacidad expresiva de una poesía que disecciona paisajes y figuras de la actualidad civil, pretendiendo de ese modo desaprender lo consabido para interpretar la realidad con un nuevo lenguaje o para corregir —como afirma el propio poeta— las erratas de la historia.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;José Manuel Caballero Bonald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T14:19:37.177322+00:00"/>
+        <meta name="calibre:title_sort" content="Desaprendizajes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

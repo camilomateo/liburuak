@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d5dbd0d-965e-4f7b-b445-f67bda9d966c</dc:identifier>
+        <dc:title>Operación Kerman</dc:title>
+        <dc:creator opf:file-as="Helalli, Sama" opf:role="aut">Sama Helalli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-27T00:00:00+00:00</dc:date>
+        <dc:description>Un thriller de acción liderado por mujeres con algo importante que decir sobre el mundo en el que vivimos hoy.Vera y Cloe, dos amigas hartas de ver sus ilusiones, su esfuerzo y su orgullo pisoteados por los más pudientes, deciden tomar cartas en el asunto y llevar a cabo su propio trabajo complementario: el robo a millonarios sin escrúpulos. Tras el éxito de su último atraco, una llamada las pilla por sorpresa. Se trata de Gladys, la mujer de la víctima, que sabe lo que han hecho. Lejos de entregarlas a la cárcel o exigirles la devolución de lo sustraído, les hace una propuesta de trabajo: recuperar para ella una alfombra excepcional valorada en millones de euros. Con este encargo, Vera y Cloe pasarán a formar parte de un equipo de inteligencia secreto creado por Gladys, en el que serán entrenadas para un atraco de alto riesgo en el que todas las piezas deben cuadrar a la perfección... o se atendrán a las consecuencias.</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-10T15:00:47.820533+00:00"/>
+        <meta name="calibre:title_sort" content="Operación Kerman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">471</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2dd2f411-d7ac-4a0d-a634-6bdb100e0933</dc:identifier>
+        <dc:title>Lo que callan los muertos</dc:title>
+        <dc:creator opf:file-as="Rivera, Ana Lena" opf:role="aut">Ana Lena Rivera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-19T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Gracia San Sebastián investiga el caso de Don Marcelo Pravia, un anciano de ciento doce años de edad, ex militar franquista, que cobra una sustanciosa pensión de jubilación. Don Marcelo no ha sido atendido por ningún médico en las últimas tres décadas y desde hace unos años se ha pasado a la banca por internet. Todo apunta a que alguien lleva treinta años percibiendo de manera indebida su pensión y sabe ocultarse bien.&lt;/p&gt;&lt;p&gt;Durante la investigación, una vecina de su madre, conocida en la comunidad como La Impugnada, se lanza al patio desde la ventana de su cocina de un sexto piso con una nota prendida en la falda dirigida al portero.&lt;/p&gt;&lt;p&gt;Gracia, que busca refugio en su ciudad natal a orillas del cantábrico, huyendo de su antigua vida de ejecutiva financiera en Nueva York tras la muerte de Martin, su hijo de tres años, se verá envuelta en una intrigante historia familiar llena de secretos inconfesables.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva Ediciones, S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ana Lena Rivera&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-24T20:44:12.485333+00:00"/>
+        <meta name="calibre:title_sort" content="que callan los muertos, Lo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

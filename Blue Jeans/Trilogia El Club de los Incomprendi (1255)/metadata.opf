@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1255</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">113e1eb4-2a8e-4203-816b-3858ee539ab9</dc:identifier>
+        <dc:title>Trilogía El Club de los Incomprendidos</dc:title>
+        <dc:creator opf:file-as="Jeans, Blue" opf:role="aut">Blue Jeans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-20T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;Únete
+ al fenómeno Blue Jeans, el autor español de novela juvenil romántica 
+más importante de los últimos años con más de medio millón de lectores. 
+¡Descúbrelo!&lt;/p&gt;&lt;p&gt;Valeria, Raúl, María, Bruno, Ester y Eli
+ formaron El Club de los Incomprendidos para apoyarse unos a otros en 
+momentos de tristeza. Todos han pasado por malos momentos pero ahora 
+viven días de felicidad y de alegría. Sin embargo, después de la calma, 
+siempre llega la tormenta: malentendidos, envidias, reencuentros 
+inesperados, historias que renacen, nuevos personajes y la reaparición 
+de alguien muy especial para todos ellos volverá a poner su amistad en 
+peligro.&lt;br&gt;&lt;br&gt; Amores imposibles, pasiones desbordantes, dudas inconfesables y ¡diversión asegurada!&lt;br&gt;&lt;br&gt; Déjate enamorar por la trilogía más seguida del momento; ¡&lt;span class="a-text-italic"&gt;Buenos días, princesa&lt;/span&gt;, &lt;span class="a-text-italic"&gt;No sonrías, que me enamoro&lt;/span&gt; y &lt;span class="a-text-italic"&gt;¿Puedo soñar contigo? &lt;/span&gt;te llegarán al corazón.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408126713</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-24T18:41:12.045878+00:00"/>
+        <meta name="calibre:title_sort" content="Trilogía El Club de los Incomprendidos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

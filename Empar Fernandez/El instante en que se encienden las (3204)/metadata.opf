@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3204</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6555dced-c0ea-4c17-86a5-23ce1d15a3f7</dc:identifier>
+        <dc:title>El instante en que se encienden las farolas</dc:title>
+        <dc:creator opf:file-as="Fernández, Empar" opf:role="aut">Empar Fernández</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p id="promoPriceBlockMessage_feature_div"&gt;Un accidente de tráfico, un semáforo en rojo que alguien no ha respetado, un coche que se da a la fuga, una mujer herida sin nombre en un hospital; un inmigrante que hace su ronda esa misma noche de tormenta resistiéndose a perder la poca dignidad que le queda, rebuscando en la basura, bajo la lluvia, algo que vender para sobrevivir.&lt;/p&gt;
+&lt;p&gt;Al día siguiente, un hombre aparece muerto dentro de un camión de basura, la mujer sin nombre recupera poco a poco su identidad y el inspector Tedesco deberá averiguar la verdad oculta tras esos dos sucesos: qué mató al hombre sin nombre; qué intención criminal late tras lo que parece un fortuito accidente de tráfico y, sobre todo, cómo avanzar cuando las pistas hablan más con su corazón que con su razón.&lt;/p&gt;
+&lt;p&gt;De nuevo, Empar Fernández, ganadora del Premio Hammett de la Semana Negra de Gijón a la mejor novela negra escrita en español en 2023, nos sobrecoge con una trama precisa y emociones contenidas que apelan a nuestra conciencia y a una realidad social que no por cotidiana es menos trascendente. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alrevés</dc:publisher>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:08.241486+00:00"/>
+        <meta name="calibre:title_sort" content="instante en que se encienden las farolas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2948</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b87effb6-d126-43c2-9ef6-9bd976b6659e</dc:identifier>
+        <dc:title>Tu niño interior quiere matar... conscientemente</dc:title>
+        <dc:creator opf:file-as="Dusse, Karsten" opf:role="aut">Karsten Dusse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Karsten Dusse, el maestro alemán del crimen con humor negro, nos sorprende con una nueva entrega de su aclamada serie El Asesino Mindfulness. Björn Diemel ha aprendido los principios de la atención plena y, al aplicarlos, ha mejorado su vida. Renunció a su estresante trabajo como abogado y emprendió su propio negocio. Ahora pasa más tiempo con su hija y discute menos con su esposa. Ah, sí, y lidera dos clanes mafiosos de manera relajada, ya que asesinó al jefe de uno y secuestró al otro. Pero, ¿por qué no puede disfrutar de sus logros? ¿Por qué sigue perdiendo los estribos? ¿Está cansado de matar? No es tan sencillo. Su terapeuta, Joschka Breitner, finalmente lo orienta en la dirección correcta: ¡todo se debe a su niño interior!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Mindfulness para asesinos"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-02-11T10:09:54.783424+00:00"/>
+        <meta name="calibre:title_sort" content="Tu niño interior quiere matar... conscientemente"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

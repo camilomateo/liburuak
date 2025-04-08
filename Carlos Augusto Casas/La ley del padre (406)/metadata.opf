@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">406</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a576de31-741c-4663-a902-a2f407a309b0</dc:identifier>
+        <dc:title>La ley del padre</dc:title>
+        <dc:creator opf:file-as="Carlos Augusto Casas" opf:role="aut">Carlos Augusto Casas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-09T09:55:13.424364+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;NI SIQUIERA EL PODER Y EL DINERO PUEDEN ESCONDER UN SECRETO PARA SIEMPRE&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Existe un mundo que solo pertenece a una élite. Una realidad que los demás creemos anhelar, pero que apenas un puñado de escogidos conocen. Es el mundo de las grandes fortunas y el poder. Un universo donde todos tenemos un precio, siempre que haya alguien dispuesto a pagarlo. Esta es la historia de una familia con mucho dinero y muy pocos escrúpulos.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Los Gómez-Arjona son dueños de un enorme imperio mediático y su patriarca, Arturo, parece tenerlo todo bajo control hasta que, en la celebración de su cumpleaños, alguien intenta envenenarlo. ¿Cuál de sus cuatro hijos -todos corruptos y ambiciosos, aunque cada uno de un modo distinto- quiere arrebatarle el poder? Todos los padres tienen su propia ley y, aunque suponga derribar a uno de los suyos, Arturo no dudará en llegar hasta el fi nal para aplicar la suya.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Así arranca este thriller lleno de traición, misterio y despecho fi rmado por uno de los autores más prestigiosos y premiados del género. Como si miráramos a través del ojo de la cerradura, Carlos Augusto Casas nos adentra en las altas esferas de la capital y nos acompaña a lo largo de una trama vertiginosa en la que pronto descubriremos que ni siquiera el poder y el dinero pueden silenciar un secreto para siempre.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">8466672575</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">61967508</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788466672580</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">2RqsEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Carlos Augusto Casas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-13T08:24:33.374042+00:00"/>
+        <meta name="calibre:title_sort" content="ley del padre, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

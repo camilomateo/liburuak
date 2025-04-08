@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">588</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ac72257-77e7-4fe8-bb59-799dc80fa92c</dc:identifier>
+        <dc:title>La larga siesta de Dios</dc:title>
+        <dc:creator opf:file-as="Coll, Pep" opf:role="aut">Pep Coll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Francia, mayo de 1940. Samuel Silverstein, un transportista de origen judío, se encuentra atrapado dentro del éxodo de fugitivos que las tropas nazis empujan hacia el Midi. A resultas de un bombardeo de la Luftwaffe, Silverstein lo pierde todo y comienza una nueva vida como agente de una organización clandestina que trabaja para salvar a niños judíos, escondiéndolos en las zonas rurales. El trabajo de vendedor ambulante le facilita los movimientos por los pueblos y masías de los valles del Ariège. Pronto descubrirá un monasterio en ruinas donde sobreviven decenas de niños y adolescentes, bajo la amenaza constante de los gendarmes a las órdenes del gobierno de Vichy. Mientras la barbarie nazi arrasa Europa y los judíos esperan que Yahvé se despierte de una vez, atravesar los Pirineos parece la única opción de escape. Pep Coll teje con traza, vigor y emoción una novela que, desgraciadamente, nos toca de cerca. Una expedición condenada al fracaso. Unos adolescentes huyendo de la barbarie. Unas montañas demasiado altas para alcanzar la libertad.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408270034</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-28T12:02:32.830177+00:00"/>
+        <meta name="calibre:title_sort" content="larga siesta de Dios, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">359</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e673d589-6be3-4ffb-a4c1-b692487e1681</dc:identifier>
+        <dc:title>Tú quédate conmigo... yo me encargo de que merezca la pena</dc:title>
+        <dc:creator opf:file-as="Rico, Beatriz" opf:role="aut">Beatriz Rico</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Me llamo Rita, fui Miss España y ahora vivo del faranduleo. Presento galas, hago publicidad en Instagram que me pagan con champús y ahora me han dado un programita muy mono en la tele. Mi novio Jaime ya no es mi novio. Le pillé un wasap que decía: Estoy más caliente que el queso de un sanjacobo. Así que le he echado el ojo a un vecino nuevo que es okupa, fontanero y tuno. Además, tengo problemas con las fuerzas del orden, es decir, que me he acostado con un policía, el pobre folla tan mal que ese minuto se me hizo largo, y ahora el tío no me deja en paz. Hago voluntariado en el hospital. Ahí me siento muy bien, no solo porque la bata blanca me queda fenomenal, sino porque tengo la sensación de que ayudando pinto algo gordo en este mundo, aunque tampoco me lo ponen fácil. Por suerte, tengo una ayudante, una espía: se llama Mariluz, es hábil como un ninja, muy inteligente y usa andador. Mi espía de la tercera edad y yo tenemos un plan que... Bueno, es que es muy largo de contar. Mejor, lee todo lo que voy a escribir y así te enteras bien. Tú quédate conmigo. Ya me encargo yo de que merezca la pena. «Transparente, dulce, sarcástica y disfrazada de frivolidad, entre las risas (las MUCHÍSIMAS risas), de repente, alguna bofetada que te habla de la vida, te emociona y te sacude los prejuicios. Un tesoro». JESSICA GÓMEZ&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418976483</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Beatriz Rico&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-24T08:48:11.925294+00:00"/>
+        <meta name="calibre:title_sort" content="Tú quédate conmigo... yo me encargo de que merezca la pena"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

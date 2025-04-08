@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3601a7db-b008-4884-8dbb-3dbb9456afb1</dc:identifier>
+        <dc:title>Promesa fatal</dc:title>
+        <dc:creator opf:file-as="Marsons, Angela" opf:role="aut">Angela Marsons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt; Cuando se descubre el cuerpo de un médico brutalmente asesinado en un bosque local,  &lt;span class="a-text-bold"&gt;la detective Kim Stone&lt;/span&gt; 
+ se sorprende al descubrir que la víctima es Gordon Cordell, un hombre 
+vinculado a un caso anterior en el que murió una joven colegiala. Gordon
+ tiene un pasado accidentado, pero ¿quién querría que muriera? &lt;/p&gt;&lt;p&gt; A
+ medida que avanza la investigación, el hijo de Gordon se ve involucrado
+ en un horrible accidente automovilístico que lo deja luchando por su 
+vida. Y Kim está segura de que no fue un accidente. &lt;/p&gt;&lt;p&gt; Cuando
+ una mujer es encontrada muerta en circunstancias sospechosas, Kim 
+establece un vínculo inquietante entre las víctimas y el Hospital 
+Russells Hall, el mismo donde trabajaba Gordon. &lt;/p&gt;&lt;p&gt; Con
+ Kim y su equipo todavía de luto por la pérdida de uno de los suyos, 
+están en su momento más débil y se enfrentan a uno de los asesinos en 
+serie más peligrosos que jamás hayan encontrado. Todo está en juego. 
+¿Podrá Kim mantener unido a su equipo y encontrar al asesino antes de 
+que se cobre su próxima víctima? &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-27T12:25:09.086098+00:00"/>
+        <meta name="calibre:title_sort" content="Promesa fatal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2620</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dddab45c-ad2a-400f-9ef9-939838d39c39</dc:identifier>
+        <dc:title>Desde que existe el amor</dc:title>
+        <dc:creator opf:file-as="Pagalday, Javier" opf:role="aut">Javier Pagalday</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Musical, vibrante, urbano.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Un libro para amantes de&lt;/strong&gt; LoveActually &lt;strong&gt;y de Nueva York.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Un racimo de historias evocadoras y emotivas que juegan con un único concepto, el amor en todas sus formas, y que tienen lugar en una ciudad concreta y mágica, Nueva York. El músico Javi Pagalday, integrante del grupo Meler, nos habla en su debut del amor entre amigos, entre familiares, del dolor de la ruptura, del duelo por la muerte del ser amado o del amor incondicional de animales como el perro.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JAVIER PAGALDAY&lt;/strong&gt; es músico e integrante del grupo Meler. &lt;em&gt;Desde que existe el amor&lt;/em&gt; es su debut en ficción.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419835932</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-20T12:10:30.380382+00:00"/>
+        <meta name="calibre:title_sort" content="Desde que existe el amor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

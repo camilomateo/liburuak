@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da9bc460-c27b-438d-a856-08273fc19093</dc:identifier>
+        <dc:title>La dama</dc:title>
+        <dc:creator opf:file-as="Jónasson, Ragnar" opf:role="aut">Ragnar Jónasson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-22T15:40:05+00:00</dc:date>
+        <dc:description>&lt;div data-v-7b0c7258="" class="text-container"&gt;&lt;div data-v-7b0c7258=""&gt;&lt;p&gt;&lt;b&gt;Una investigadora al límite de la jubilación.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Una arriesgada proposición.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Y solo quince días para resolver el caso más difícil de toda su carrera.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Hulda
+ Hermannsdóttir ha sido una de las mejores investigadoras de la policía 
+de Reikiavik. Cuando está a punto de cumplir los sesenta y cinco, su 
+jefe le propone jubilarse antes de tiempo. A cambio, podrá elegir un 
+último caso. La perspectiva de dejar un trabajo al que se ha entregado 
+en cuerpo y alma la inquieta; teme que los viejos demonios que siempre 
+la han perseguido den finalmente con ella. Para demorar este momento, la
+ veterana policía no duda en reabrir el asesinato de una mujer que un 
+compañero no logró resolver tiempo atrás. Ahora, Hulda se encargará 
+personalmente de ello con un único objetivo: dar con la verdad. Y solo 
+tiene quince días para lograrlo.&lt;/p&gt;&lt;p&gt;Ragnar Jónasson inicia con &lt;i&gt;La dama&lt;/i&gt;
+ una serie de novela negra fascinante que ha cautivado a lectores y 
+crítica de todo el mundo por su inteligente originalidad, ya que, 
+partiendo de los casos de la sagaz inspectora Hulda, nos permite 
+comprobar cómo ha cambiado la sociedad. Millones de lectores comparten 
+la opinión de Ian Rankin: «Me ha tenido literalmente enganchado», y no 
+es de extrañar: «Trazada con precisión de cirujano, la novela tiene un 
+final de auténtico infarto», &lt;i&gt;The Guardian&lt;/i&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ragnar Jónasson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspectora Hulda"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-02-21T12:18:05.647797+00:00"/>
+        <meta name="calibre:title_sort" content="dama, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

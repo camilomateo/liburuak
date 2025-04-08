@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3015</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f82be156-066c-424e-869c-3df7b6aa64b0</dc:identifier>
+        <dc:title>Con la Tierra nos basta</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1950-12-31T23:00:00+00:00</dc:date>
+        <dc:description>En este volumen, el maestro Asimov muestra en quince lecciones cómo se escribe el cuento corto de ciencia ficción: la idea brillante, el desarrollo rápido con economía de medios expresivos, el sorprendente giro final, encerrando tal vez la pequeña moraleja que nos hace pasar de risueños a pensativos. Con la Tierra nos basta, florilegio de invenciones fantásticas y maravillosas a las que el doctor Asimov nos tiene acostumbrados, contiene los siguientes relatos: El pasado muerto, Sufragio universal, Treta tridimensional, Cosas de niños, El lugar acuático, Espacio vital, El mensaje, Satisfacción garantizada, Fuego infernal, La trompeta del Juicio Final, ¡Cómo se divertían!, El chistoso, El bardo inmortal, Un día…, Soñar es asunto privado.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:series" content="Super Ficción"/>
+        <meta name="calibre:series_index" content="65"/>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:53.384422+00:00"/>
+        <meta name="calibre:title_sort" content="Con la Tierra nos basta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

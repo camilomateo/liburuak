@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">306</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6776a5c-8d04-4490-b7d2-79bc1a370e7f</dc:identifier>
+        <dc:title>La arquitectura del mal</dc:title>
+        <dc:creator opf:file-as="Vega, José Manuel" opf:role="aut">José Manuel Vega</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un directivo insaciable, una elegante madame, una consejera corrupta, un retorcido aristócrata... En los círculos de poder de Madrid se está gestando un peligroso juego de dinero, sexo y mentiras en el que cualquiera puede ser víctima o verdugo. Carlos Mir es un candidato a suceder al presidente de una de las grandes tecnológicas españolas. Cuando descubre que otro directivo aspira al cargo, inicia una serie de oscuras maniobras para eliminar a cualquiera que se interponga en su camino. Pero todo explota en el momento más inesperado cuando aparece un cadáver con unas misteriosas siglas grabadas en el vientre. El comisario Manuel Villacampa iniciará una investigación contrarreloj para averiguar qué ha sucedido. Inspirado en hechos reales, La arquitectura del mal es un trepidante thriller pegado a la actualidad sobre la corrupción en las altas esferas empresariales y políticas. Una novela provocadora donde es difícil separar la realidad de la ficción.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401030659</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;José Manuel Vega&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-14T08:08:50.193322+00:00"/>
+        <meta name="calibre:title_sort" content="arquitectura del mal, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

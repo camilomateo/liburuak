@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7d06c35-aa5c-429e-a64e-5113c1023255</dc:identifier>
+        <dc:title>La ciudad</dc:title>
+        <dc:creator opf:file-as="Zueco, Luis" opf:role="aut">Luis Zueco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-19T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p style="text-align:center"&gt;&lt;B&gt;Luis Zueco continúa con la construcción de su épica trilogía medieval con esta obra, un &lt;/B&gt;&lt;I&gt;&lt;B&gt;thriller histórico&lt;/B&gt;&lt;/I&gt;&lt;B&gt; que nos sumerge  en la vida cotidiana de la Edad Media a través de una trama llena de suspense de la que los lectores no podrán escapar.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;Año 1284.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Cae la noche en una de las ciudades medievales más bellas del mundo.  Poderosas montañas y murallas inexpugnables la protegen de los reinos que la rodean y codician.&lt;/P&gt; &lt;P&gt;&lt;I&gt;¿Te atreves a caminar por sus estrechas calles, por sus empinadas cuestas y sus asombrosos rincones? &lt;/I&gt;&lt;/P&gt; &lt;P&gt;Empieza a oscurecer. Sientes frío. Escuchas los rumores acerca de las  inexplicables muertes que se están sucediendo. De los secretos que  esconden los gremios. De la peligrosa mujer encerrada en las mazmorras.&lt;/P&gt; &lt;P&gt;Las puertas se cerrarán pronto. Corre.&lt;/P&gt; &lt;P&gt;Una noche más, nadie podrá escapar de la ciudad.&lt;/P&gt; &lt;P&gt;&lt;B&gt;La crítica ha dicho...&lt;/B&gt;&lt;BR&gt;«Una extraordinaria novela.»&lt;BR&gt;&lt;I&gt;SER&lt;/I&gt;&lt;/P&gt; &lt;P&gt;«Luis Zueco da respuesta a algunos enigmas sin resolver.»&lt;BR&gt;&lt;I&gt;ABC &lt;/I&gt;&lt;/P&gt; &lt;P&gt;«Una de las novelas históricas con más enganche.»&lt;BR&gt;&lt;I&gt;20 minutos&lt;/I&gt;&lt;/P&gt; &lt;P&gt;«Magnífica ambientación.»&lt;BR&gt;&lt;I&gt;Entre mis libros y yo &lt;/I&gt;&lt;/P&gt; &lt;P&gt;«Una trama sólida, bien construida, de la que he disfrutado mucho.»&lt;BR&gt;&lt;I&gt;Bookeando  &lt;/I&gt;&lt;/P&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Luis Zueco&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Medieval"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-03-09T11:08:56.137927+00:00"/>
+        <meta name="calibre:title_sort" content="ciudad, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2803</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">668e1c85-e0ff-4ebb-a8eb-ee99d9ff79ce</dc:identifier>
+        <dc:title>Era un buen chico</dc:title>
+        <dc:creator opf:file-as="Simonetta Agnello Hornby" opf:role="aut">Simonetta Agnello Hornby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-21T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un relato sobre la amistad, el poder feroz de la familia y el deseo de regresar a los orígenes. Esta es la historia de dos madres, dos mujeres fuertes que toman las riendas de sus respectivas familias, y de sus hijos, Giovanni y Santino. Ambos crecen juntos en el oeste de Sicilia y sueñan qué tipo de hombres serán. Los dos progresan en sus vidas y, bajo el telón de fondo de las guerras entre clanes mafiosos de los años ochenta, uno acabará siendo un reputado abogado y el otro un constructor de éxito. Pero la construcción, pública y privada, no conjuga bien con la transparencia ni la justicia y, con el paso del tiempo, los dos amigos se verán arrastrados a una espiral sin salida. Bajo el deslumbrante marco de una Sicilia desaparecida, Simonetta Agnello Hornby, una de las mejores escritoras contemporáneas, se adentra por primera vez de forma decidida en el submundo de la mafia de su amada isla.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>RBA Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411328777</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-16T07:08:28.498978+00:00"/>
+        <meta name="calibre:title_sort" content="Era un buen chico"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

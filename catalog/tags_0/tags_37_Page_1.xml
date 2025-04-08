@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>memorias</title>
+  <id>Calibre2opds:taglist:M:37</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_37_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="memorias" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por M" />
+  <entry>
+    <title>La caja de los relatos de Stephen King</title>
+    <id>calibre:book:2647</id>
+    <updated>2024-10-22T07:50:35Z</updated>
+    <link href="../../Claudio%20Hernandez/La%20caja%20de%20los%20relatos%20de%20Stephen%20K%20%282647%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Claudio%20Hernandez/La%20caja%20de%20los%20relatos%20de%20Stephen%20K%20%282647%29/La%20caja%20de%20los%20relatos%20de%20Steph%20-%20Claudio%20Hernandez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="201 KB" />
+    <author>
+      <name>Claudio Hernández</name>
+      <uri>../authors_1/authors_1741_Page_1.xml</uri>
+    </author>
+    <published>2017-06-23T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <summary>Stephen King empezó a escribir a la temprana edad de ocho años. Cuando salía del cine y si la película era buena, escribía una versión de la misma y se la enseñaba a su madre. Esta, un buen día, le dijo, que porque no escribía sus propios relatos o h...</summary>
+    <link href="../book_2/book_2647.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cartas a un buscador de sí mismo</title>
+    <id>calibre:book:1981</id>
+    <updated>2024-09-05T06:10:29Z</updated>
+    <link href="../../Henry%20David%20Thoreau/Cartas%20a%20un%20buscador%20de%20si%20mismo%20%281981%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Henry%20David%20Thoreau/Cartas%20a%20un%20buscador%20de%20si%20mismo%20%281981%29/Cartas%20a%20un%20buscador%20de%20si%20mism%20-%20Henry%20David%20Thoreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="161 KB" />
+    <author>
+      <name>Henry David Thoreau</name>
+      <uri>../authors_1/authors_1418_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [226]:</summary>
+    <link href="../book_1/book_1981.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las cenizas de Angela. Edición 20 aniversario</title>
+    <id>calibre:book:550</id>
+    <updated>2023-04-11T09:33:24Z</updated>
+    <link href="../../Frank%20McCourt/Las%20cenizas%20de%20Angela.%20Edicion%2020%20a%20%28550%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20McCourt/Las%20cenizas%20de%20Angela.%20Edicion%2020%20a%20%28550%29/Las%20cenizas%20de%20Angela.%20Edicion%20-%20Frank%20McCourt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Frank McCourt</name>
+      <uri>../authors_0/authors_406_Page_1.xml</uri>
+    </author>
+    <published>2017-10-25T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <summary>Una edición especial limitada y numerada para celebrar el 20º aniversario de uno de los mayores éxitos de las últimas décadas, con más de 17 millones de ejemplares vendidos. «Cuando recuerdo mi infancia, me pregunto cómo pude sobrevivir siquiera. Fue...</summary>
+    <link href="../book_0/book_550.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El crucero de la Chatarra Rodante</title>
+    <id>calibre:book:2382</id>
+    <updated>2024-09-09T10:34:19Z</updated>
+    <link href="../../F.%20Scott%20Fitzgerald/El%20crucero%20de%20la%20Chatarra%20Rodante%20%282382%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../F.%20Scott%20Fitzgerald/El%20crucero%20de%20la%20Chatarra%20Rodante%20%282382%29/El%20crucero%20de%20la%20Chatarra%20Rodan%20-%20F.%20Scott%20Fitzgerald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <author>
+      <name>F. Scott Fitzgerald</name>
+      <uri>../authors_1/authors_1406_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="memorias" />
+    <category term="Viajes" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [197]:</summary>
+    <link href="../book_2/book_2382.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El joven Steve Jobs</title>
+    <id>calibre:book:2643</id>
+    <updated>2024-10-21T04:27:27Z</updated>
+    <link href="../../Juan%20Brines/El%20joven%20Steve%20Jobs%20%282643%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Brines/El%20joven%20Steve%20Jobs%20%282643%29/El%20joven%20Steve%20Jobs%20-%20Juan%20Brines.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="354 KB" />
+    <author>
+      <name>Juan Brines</name>
+      <uri>../authors_1/authors_1738_Page_1.xml</uri>
+    </author>
+    <published>2021-05-08T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="memorias" />
+    <category term="Tecnología" />
+    <category term="Lang:es" />
+    <summary>“Solo aquellos que están tan locos para creer que pueden cambiar el mundo son quienes terminan por transformarlo.” Steve Jobs "La mejor novela sobre la vida de Steve Jobs, desde su nacimiento hasta la fundación de Apple." Karola Zárate, Economista y ...</summary>
+    <link href="../book_2/book_2643.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>En Blanca y negro</title>
+    <id>calibre:book:955</id>
+    <updated>2023-07-14T09:58:24Z</updated>
+    <link href="../../J.%20J.%20Benitez/En%20Blanca%20y%20negro%20%28955%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/En%20Blanca%20y%20negro%20%28955%29/En%20Blanca%20y%20negro%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="10 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>2022-06-01T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Ensayo" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <summary>En Blanca y negro es un homenaje a Blanca, la mujer que ayudó a Juanjo Benítez a cruzar la calle de la vida durante casi 40 años. Se trata del diario de una experiencia extrema: los últimos 280 días en la vida de la esposa de J. J. Benítez. El libro ...</summary>
+    <link href="../book_0/book_955.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La gran catástrofe amarilla</title>
+    <id>calibre:book:1191</id>
+    <updated>2024-02-05T05:55:57Z</updated>
+    <link href="../../J.%20J.%20Benitez/La%20gran%20catastrofe%20amarilla%20%281191%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20J.%20Benitez/La%20gran%20catastrofe%20amarilla%20%281191%29/La%20gran%20catastrofe%20amarilla%20-%20J.%20J.%20Benitez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <author>
+      <name>J. J. Benítez</name>
+      <uri>../authors_0/authors_684_Page_1.xml</uri>
+    </author>
+    <published>2020-10-12T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Planeta</dcterms:publisher>
+    <category term="Crónica" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <summary>Horas antes de partir hacia su segunda vuelta al mundo, J. J. Benítez recibe una carta procedente de EE. UU. La carta es abierta, pero no leída. Juanjo embarca en el Costa Deliziosa y, en plena navegación, surge la pandemia del coronavirus. Lo que se...</summary>
+    <link href="../book_1/book_1191.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sabiduría empresarial de Steve Jobs</title>
+    <id>calibre:book:2644</id>
+    <updated>2024-10-21T04:27:28Z</updated>
+    <link href="../../Steve%20Jobs/La%20sabiduria%20empresarial%20de%20Steve%20J%20%282644%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Steve%20Jobs/La%20sabiduria%20empresarial%20de%20Steve%20J%20%282644%29/La%20sabiduria%20empresarial%20de%20Ste%20-%20Steve%20Jobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="373 KB" />
+    <author>
+      <name>Steve Jobs</name>
+      <uri>../authors_1/authors_1739_Page_1.xml</uri>
+    </author>
+    <published>2012-04-20T11:23:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Ciencias sociales" />
+    <category term="Divulgación" />
+    <category term="memorias" />
+    <category term="Tecnología" />
+    <category term="Lang:es" />
+    <summary>Edición de Alan Ken Thomas**&amp;#160; Steve Jobs, padre y fundador de Apple, ha sido uno de los emprendedores más innovadores y visionarios de su generación. Si bien siempre ha habido división de opiniones respecto a su persona, nadie puede negar que te...</summary>
+    <link href="../book_2/book_2644.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El oficio de vivir</title>
+    <id>calibre:book:1985</id>
+    <updated>2024-09-05T06:10:30Z</updated>
+    <link href="../../Cesare%20Pavese/El%20oficio%20de%20vivir%20%281985%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cesare%20Pavese/El%20oficio%20de%20vivir%20%281985%29/El%20oficio%20de%20vivir%20-%20Cesare%20Pavese.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="405 KB" />
+    <author>
+      <name>Cesare Pavese</name>
+      <uri>../authors_1/authors_1421_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [239]:</summary>
+    <link href="../book_1/book_1985.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El síndrome de La Moncloa</title>
+    <id>calibre:book:243</id>
+    <updated>2023-02-02T08:58:30Z</updated>
+    <link href="../../Pilar%20Cernuda/El%20sindrome%20de%20La%20Moncloa%20%28243%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pilar%20Cernuda/El%20sindrome%20de%20La%20Moncloa%20%28243%29/El%20sindrome%20de%20La%20Moncloa%20-%20Pilar%20Cernuda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <author>
+      <name>Pilar Cernuda</name>
+      <uri>../authors_0/authors_171_Page_1.xml</uri>
+    </author>
+    <published>2011-01-24T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="memorias" />
+    <category term="Crónica" />
+    <category term="Historia" />
+    <category term="Lang:es" />
+    <summary>En palabras de la propia autora, esta es una «crónica oscura» sobre los cinco presidentes de la democracia española, que analiza de manera específica las profundas alteraciones de carácter que nuestros gobernantes han experimentado una vez afianzados...</summary>
+    <link href="../book_0/book_243.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Stephen King</title>
+    <id>calibre:book:2651</id>
+    <updated>2024-10-22T07:50:36Z</updated>
+    <link href="../../Adolfo%20Perez%20Agusti/Stephen%20King%20%282651%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Adolfo%20Perez%20Agusti/Stephen%20King%20%282651%29/Stephen%20King%20-%20Adolfo%20Perez%20Agusti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <author>
+      <name>Adolfo Pérez Agustí</name>
+      <uri>../authors_1/authors_1744_Page_1.xml</uri>
+    </author>
+    <published>2014-07-12T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Arte" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <category term="¿Sabes de cine?" />
+    <summary>¿Sabes de cine?: Este novelista norteamericano, escritor de novelas y relatos cortos, cuyos libros han alcanzado un gran éxito popular, es ya un clásico de la ficción y el terror desde los años setenta.  El papel de este escritor moderno puede compar...</summary>
+    <link href="../book_2/book_2651.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Steve Jobs</title>
+    <id>calibre:book:1066</id>
+    <updated>2023-11-05T04:16:30Z</updated>
+    <link href="../../Walter%20Isaacson/Steve%20Jobs%20%281066%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Walter%20Isaacson/Steve%20Jobs%20%281066%29/Steve%20Jobs%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Walter Isaacson</name>
+      <uri>../authors_0/authors_779_Page_1.xml</uri>
+    </author>
+    <published>2011-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBATE</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="memorias" />
+    <category term="Tecnología" />
+    <category term="Lang:es" />
+    <summary>La muerte de Steve Jobs conmocionó al mundo. Tras entrevistarlo en más de cuarenta ocasiones en sus últimos dos años de vida, además de a un centenar de personas de su entorno, familiares, amigos, adversarios y colegas, Walter Isaacson nos presenta l...</summary>
+    <link href="../book_1/book_1066.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Steve Jobs &amp; Apple</title>
+    <id>calibre:book:2646</id>
+    <updated>2024-10-21T04:27:28Z</updated>
+    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/Steve%20Jobs%20%26%20Apple%20-%20Michael%20Moritz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="789 KB" />
+    <author>
+      <name>Michael Moritz</name>
+      <uri>../authors_1/authors_1740_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="memorias" />
+    <category term="Tecnología" />
+    <category term="Lang:es" />
+    <summary>La historia de Apple es en realidad la historia de Steve Jobs, líder carismático y con una capacidad extraordinaria para gestionar talentos y materializar su visión: productos innovadores, de extrema complejidad y de gran belleza. «Steve Jobs &amp; Apple...</summary>
+    <link href="../book_2/book_2646.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una hormiga en París</title>
+    <id>calibre:book:714</id>
+    <updated>2023-05-17T01:10:44Z</updated>
+    <link href="../../Marc%20Vidal/Una%20hormiga%20en%20Paris%20%28714%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marc%20Vidal/Una%20hormiga%20en%20Paris%20%28714%29/Una%20hormiga%20en%20Paris%20-%20Marc%20Vidal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="531 KB" />
+    <author>
+      <name>Marc Vidal</name>
+      <uri>../authors_0/authors_532_Page_1.xml</uri>
+    </author>
+    <published>2013-10-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alienta Editorial</dcterms:publisher>
+    <category term="Ciencias sociales" />
+    <category term="Autoayuda" />
+    <category term="Divulgación" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <summary>Luchar por los sueños propios es la receta más importante que debe aplicar cualquier emprendedor a la hora de montar un negocio por su cuenta. Ésta es la premisa que ha regido la vida de Marc Vidal desde sus comienzos como empresario con tan solo die...</summary>
+    <link href="../book_0/book_714.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vivir para contarla</title>
+    <id>calibre:book:858</id>
+    <updated>2023-06-12T02:04:18Z</updated>
+    <link href="../../Gabriel%20Garcia%20Marquez/Vivir%20para%20contarla%20%28858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gabriel%20Garcia%20Marquez/Vivir%20para%20contarla%20%28858%29/Vivir%20para%20contarla%20-%20Gabriel%20Garcia%20Marquez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="582 KB" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../authors_0/authors_643_Page_1.xml</uri>
+    </author>
+    <published>2002-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Literatura Random House</dcterms:publisher>
+    <category term="Crónica" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <summary>Vivir para contarla es la novela de una vida y, a lo largo de sus páginas el lector de García Márquez descubrirá ecos de personajes e historias que han poblado sus inolvidables novelas como Cien años de soledad o El amor en los tiempos del cólera. Ad...</summary>
+    <link href="../book_0/book_858.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Yo confieso - 45 años de espía</title>
+    <id>calibre:book:202</id>
+    <updated>2023-01-26T07:24:42Z</updated>
+    <link href="../../Mikel%20Lejarza%20-%20Fernando%20Rueda/Yo%20confieso%20-%2045%20anos%20de%20espia%20%28202%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mikel%20Lejarza%20-%20Fernando%20Rueda/Yo%20confieso%20-%2045%20anos%20de%20espia%20%28202%29/Yo%20confieso%20-%2045%20anos%20de%20espia%20-%20Mikel%20Lejarza%20-%20Fernando%20Rueda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Mikel Lejarza - Fernando Rueda</name>
+      <uri>../authors_0/authors_129_Page_1.xml</uri>
+    </author>
+    <published>2019-02-21T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>13insurgentes</dcterms:publisher>
+    <category term="Cronica" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <summary>1974: Mikel Lejarza es captado por el servicio secreto para infiltrarse en ETA con el alias de El Lobo. 2019: Con otro nombre, Mikel Lejarza sigue trabajando para el CNI. Esta es su vida. Esta es la historia. Mikel Lejarza ha guardado silencio sobre ...</summary>
+    <link href="../book_0/book_202.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

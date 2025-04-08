@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2563</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97809496-01c7-4c9c-a408-997389c13af5</dc:identifier>
+        <dc:title>Las lobas de Pompeya</dc:title>
+        <dc:creator opf:file-as="Harper, Elodie" opf:role="aut">Elodie Harper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;En un mundo a punto de extinguirse, una mujer indomable busca cambiar el rumbo de su destino.&lt;/p&gt;
+&lt;p&gt;Corre el año 74 a. C. y en Pompeya conviven por igual comerciantes, esclavos y delincuentes. En sus calles es posible satisfacer todos los deseos y el burdel conocido como La Guarida del Lobo se ha vuelto famoso por complacer los gustos más exigentes.&lt;/p&gt;
+&lt;p&gt;Amara no es solo una más de las «lobas» que trabajan para Félix, el infame dueño del lugar, sino que es su favorita. Tras la muerte de su padre su familia se vio sumida en la pobreza y Amara tuvo que ser vendida como esclava; ahora depende de su astucia y valentía para darle un giro a su destino. ¿Tendrá Amara la valentía y el coraje que se requieren para recuperar su libertad?&lt;/p&gt;
+&lt;p&gt;«Una novela maravillosamente lúcida desde el punto de vista de su protagonista, Amara. El lector vive y siente Pompeya en este libro. Un gran hito.» &lt;strong&gt;Financial Times&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;«Vibrante y arrebatadora, rica en detalle histórico y narrada con convicción e inteligencia.» &lt;strong&gt;The Guardian&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-09T13:24:00+00:00"/>
+        <meta name="calibre:title_sort" content="lobas de Pompeya, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

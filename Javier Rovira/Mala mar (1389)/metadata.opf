@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eaec1a05-a7a8-4003-865b-9ad0e3aa7d8a</dc:identifier>
+        <dc:title>Mala mar</dc:title>
+        <dc:creator opf:file-as="Rovira, Javier" opf:role="aut">Javier Rovira</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-06T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded"&gt; &lt;p&gt;"Me llamo Tomás Salcedo y acabo de matar a mi hermana".&lt;/p&gt;&lt;p&gt;La
+ familia Salcedo está a punto de reunirse en la vieja casona de veraneo,
+ muy cerca de Llanes, para celebrar el cumpleaños de la madre. Lo que 
+pretendía ser un encuentro entrañable se convierte en tragedia, porque 
+el coche de Tomás, el primogénito, aparcado sobre la colina que rodea la
+ casa, se precipita por la pendiente. No tenía el freno de mano puesto y
+ su hermana Mariana, que estaba sentada en un banco del jardín, muere 
+atropellada. Mientras, los otros dos hermanos, Ángela, violonchelista de
+ éxito, y el descarriado Leo, se desplazan hacia Llanes ajenos a la 
+desgracia.&lt;/p&gt;&lt;p&gt;Ahora, los hermanos Salcedo tienen por 
+delante una investigación judicial, un incipiente escándalo público y la
+ necesidad de afrontar un turbulento pasado familiar marcado por la 
+mentira, la culpa y el silencio.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>RBA Libros</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B0BFBSS3CK</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:56:45.035165+00:00"/>
+        <meta name="calibre:title_sort" content="Mala mar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

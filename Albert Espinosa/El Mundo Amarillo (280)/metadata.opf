@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15cc2b2e-4afe-424b-bc45-4b4d1ff81c01</dc:identifier>
+        <dc:title>El Mundo Amarillo</dc:title>
+        <dc:creator opf:file-as="Espinosa, Albert" opf:role="aut">Albert Espinosa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>El mundo amarillo es un mundo fantástico que quiero compartir contigo. Es el mundo de los descubrimientos que hice durante los diez años que estuve enfermo de cáncer. Es curioso, pero la fuerza, la Vitalidad y los hallazgos que haces cuando estás enfermo también cuando estás bien, en el día a día.Este libro pretende que conozcas y entres en este mundo especial y diferente; pero, sobre todo, que descubras a los «amarillos». Ellos son el nuevo escalafón de la amistad, esas personas que no son ni amantes ni amigos, esa gente que se cruza en tu vida y que con una sola conversación puede llegar a cambiártela. No te adelanto más: tendrás que leer este libro para poder a encontrar tus «amarillos». Quizás uno de ellos sea yo…El mundo amarillo habla de lo sencillo que es creer en los sueños para que estos se creen. Y es que el creer y el crear están tan sólo a una letra de distancia.¿Qué esperas a saber quiénes son tus «amarillos»?</dc:description>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>det_history</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert Espinosa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-03T07:39:18.856874+00:00"/>
+        <meta name="calibre:title_sort" content="Mundo Amarillo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

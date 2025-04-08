@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2170</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c195ceb-ea23-41a8-b6c5-7aee7205e08a</dc:identifier>
+        <dc:title>Pezuco, el abuelo manco</dc:title>
+        <dc:creator opf:file-as="Zahonero, José" opf:role="aut">José Zahonero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>s</dc:subject>
+        <dc:subject>como</dc:subject>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Ámbito</dc:subject>
+        <dc:subject>rural</dc:subject>
+        <dc:subject>Egoísmo</dc:subject>
+        <dc:subject>Familia</dc:subject>
+        <dc:subject>Galantería</dc:subject>
+        <dc:subject>Hada</dc:subject>
+        <dc:subject>Ingratitud</dc:subject>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="122"/>
+        <meta name="calibre:timestamp" content="2024-09-06T12:21:27+00:00"/>
+        <meta name="calibre:title_sort" content="Pezuco, el abuelo manco"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

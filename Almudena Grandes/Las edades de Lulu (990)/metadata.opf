@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">990</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbbbac9d-6041-49d2-983b-8ad9a1da0184</dc:identifier>
+        <dc:title>Las edades de Lulú</dc:title>
+        <dc:creator opf:file-as="Grandes, Almudena" opf:role="aut">Almudena Grandes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Una historia de amor y de sexo que no se resigna a dejar de serlo. Sumida todavía en los temores de una infancia carente de afecto, Lulú, una niña de 15 años, sucumbe a la atracción que ejerce sobre ella un joven, amigo de la familia, a quien hasta entonces ella había deseado vagamente. Después de esta primera experiencia, Lulú, niña eterna, alimenta durante años, en solitario, el fantasma de aquel hombre que acaba por aceptar el desafío de prolongar indefinidamente, en su peculiar relación sexual, el juego amoroso de la niñez. Crea para ella un mundo aparte, un universo privado donde el tiempo pierde valor. Pero el sortilegio arriesgado de vivir fuera de la realidad se rompe bruscamente un día, cuando Lulú, ya con 30 años, se precipita, indefensa pero febrilmente, en el infierno de los deseos peligrosos.</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">2.7</dc:identifier>
+        <dc:identifier opf:scheme="EPL">3970</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Erótico</dc:subject>
+        <meta name="calibre:series" content="La sonrisa vertical"/>
+        <meta name="calibre:series_index" content="61"/>
+        <meta name="calibre:timestamp" content="2023-08-23T12:48:24.142202+00:00"/>
+        <meta name="calibre:title_sort" content="edades de Lulú, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

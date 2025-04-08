@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1712</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d1ed065-00e5-413e-a34e-c6d3fe635607</dc:identifier>
+        <dc:title>Un minuto para la medianoche</dc:title>
+        <dc:creator opf:file-as="Baldacci, David" opf:role="aut">David Baldacci</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-10T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un caso abierto en un pueblo lleno de secretos en el que desenterrar el pasado puede ser mucho más peligroso de lo que parece. Hace treinta años la hermana gemela de la agente del FBI Atlee Pine fue secuestrada. Tenía solo siete años y, aunque todo el mundo da por hecho que fue asesinada, para Atlee es un caso que no dará por cerrado hasta descubrir qué ocurrió. Unas vacaciones forzosas la llevan de vuelta a su antiguo hogar y Atlee reúne algunas pistas con los recuerdos de personas que conocieron a la familia. Sus padres, abrumados por la culpa, se separaron tras la tragedia; el padre acabó suicidándose, y poco después la madre la abandonó. La aparición del cadáver de una mujer en plena calle cubierta con un velo de novia la obliga a dejar a un lado su investigación y a concentrarse en atrapar al asesino antes de que vuelva a actuar. La crítica ha dicho: «Secretos y giros en casi cada página... una historia con aires góticos. Un relato brillante que te mantendrá despierto más allá de la medianoche». Providence Journal «Un misterio criminal que asusta». Associated Press «Baldacci firma una nueva novela con una trama llena de giros en la que las páginas avanzan prácticamente solas. Su estilo invita al lector a entrar en la acción rápidamente, de la que no pueden escapar en un recorrido salvaje. Baldacci se guarda la mayor sorpresa para el final, un momento culminante e inesperado con el que deja a sus lectores expectantes hasta su próximo libro». BookReporter.com «Pocos autores son capaces de enganchar a sus lectores tanto y tan rápido como David Baldacci». The Real Book Spy «Baldacci es un maestro de los thrillers llenos de giros y vueltas, mantiene al lector en tension hasta el final, donde le espera una gran sorpresa». Florida Times-Union&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Atlee Pine"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-08-06T08:52:12.547259+00:00"/>
+        <meta name="calibre:title_sort" content="minuto para la medianoche, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

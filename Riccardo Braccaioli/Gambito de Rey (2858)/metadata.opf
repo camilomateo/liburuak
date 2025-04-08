@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2858</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4dbe0696-4d21-4864-95c5-c5a4875958de</dc:identifier>
+        <dc:title>Gambito de Rey</dc:title>
+        <dc:creator opf:file-as="Braccaioli, Riccardo" opf:role="aut">Riccardo Braccaioli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-16T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Olivia, una &lt;strong&gt;investigadora&lt;/strong&gt; en &lt;strong&gt;potencial,&lt;/strong&gt; se &lt;strong&gt;encuentra&lt;/strong&gt; &lt;strong&gt;inmersa&lt;/strong&gt; en una carrera &lt;strong&gt;contra&lt;/strong&gt; &lt;strong&gt;el&lt;/strong&gt; &lt;strong&gt;tiempo&lt;/strong&gt; para &lt;strong&gt;localizar&lt;/strong&gt; a su amigo que &lt;strong&gt;ha&lt;/strong&gt; desaparecido, &lt;strong&gt;confrontando&lt;/strong&gt; una red de corrupción que &lt;strong&gt;pone&lt;/strong&gt; en &lt;strong&gt;peligro&lt;/strong&gt; las &lt;strong&gt;bases&lt;/strong&gt; de la academia. Con cada pista que &lt;strong&gt;persigue,&lt;/strong&gt; &lt;strong&gt;revela&lt;/strong&gt; más &lt;strong&gt;información&lt;/strong&gt; &lt;strong&gt;sobre&lt;/strong&gt; la organización &lt;strong&gt;clandestina&lt;/strong&gt; Equites Serpentarii y su &lt;strong&gt;arriesgado&lt;/strong&gt; juego de poder.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Cada&lt;/strong&gt; &lt;strong&gt;hallazgo&lt;/strong&gt; no solo la &lt;strong&gt;aproxima&lt;/strong&gt; a Valentino, sino que la enreda más en una trampa &lt;strong&gt;cuidadosamente&lt;/strong&gt; &lt;strong&gt;elaborada.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>BRALTON BOOKS</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DJGX22PL</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Inspectora Olivia Wolf"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-01-30T21:16:37.737742+00:00"/>
+        <meta name="calibre:title_sort" content="Gambito de Rey"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1bef7495-a43b-44cf-b553-b10a1c4f521d</dc:identifier>
+        <dc:title>Una nueva felicidad</dc:title>
+        <dc:creator opf:file-as="Cañete, Curro" opf:role="aut">Curro Cañete</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-10T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;«¿Qué pasaría si en lugar de hablar de la felicidad hiciéramos todo lo posible por ser felices?», se pregunta Curro, el protagonista de esta historia, un joven periodista en crisis cuya vida da un giro cuando, el día de su cumpleaños, aterriza en Playa Blanca, en Lanzarote, donde ha decidido retirarse por algún tiempo, darse un respiro, e iniciar la escritura de su primera novela. Pero lo último que imagina es que este verano se convierta en un punto de inflexión vital, viéndose rodeado de personas a quienes antes desconocía, y viviendo insólitas situaciones que cambiarán para siempre el rumbo de sus días.&lt;br&gt;Se reencontrará con su hermano que murió hace quince años, al descubrir casualmente una poesía escrita por él perdida en su maleta, y con él iniciará un camino en el que las coincidencias brillarán como estrellas y en el que el miedo que le tenía atrapado irá dando paso a la valentía que le ayudará a vivir por primera vez su propia vida.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">O6G6DAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788423351602</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B01IMJZ7OO</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <dc:subject>Desarrollo personal</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:59:56.771047+00:00"/>
+        <meta name="calibre:title_sort" content="nueva felicidad, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

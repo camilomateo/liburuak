@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">808</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45060c66-9c2a-4716-8954-8ee751323db3</dc:identifier>
+        <dc:title>El millonario de Silicon Valley</dc:title>
+        <dc:creator opf:file-as="Aguilar, Joshua A." opf:role="aut">Joshua A. Aguilar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div data-v-809af916="" class="text-container"&gt;&lt;div data-v-7fdc4342="" data-v-809af916="" class="formated-text"&gt;&lt;p style="text-align:center"&gt;&lt;b&gt;Cómo &lt;i&gt;El millonario de Silicon Valley&lt;/i&gt; puede convertirte en una persona más sabia, rica y feliz.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Con el precedente de haber sido un &lt;b&gt;fenómeno mundial &lt;/b&gt;con el libro &lt;i&gt;Diario Emprendedor&lt;/i&gt; en varios países, de haber sido traducido a varios idiomas y transformar la vida de miles de lectores, llega &lt;i&gt;El millonario de Silicon Valley&lt;/i&gt;, una mágica historia que con sus regalos colmará tu vida de &lt;b&gt;sabiduría, alegría &lt;/b&gt;y excelentes consejos para&lt;b&gt; triunfar en los negocios.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Sophie, una &lt;b&gt;emprendedora &lt;/b&gt;que quiere conseguir sus sueños. Larry, un sabio multimillonario retirado. Una serie de regalos le serán dados y solo si los supera &lt;b&gt;el regalo más grande&lt;/b&gt; le será descubierto.&lt;/p&gt;&lt;p&gt;Una historia, desarrollada en el emocionante Silicon Valley, nos enseña los &lt;b&gt;principios &lt;/b&gt;que han vuelto millonarias a miles de personas. Aprenderá cómo &lt;b&gt;alcanzar el éxito&lt;/b&gt;, solucionar sus problemas financieros y cultivar la felicidad en su vida. Deje que este libro lo lleve más allá de la frustración de las dificultades y le ofrezca la&lt;b&gt; vida feliz y plena&lt;/b&gt; que siempre ha anhelado.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>AGUILAR</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073171199</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-06T06:14:06.882036+00:00"/>
+        <meta name="calibre:title_sort" content="millonario de Silicon Valley, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

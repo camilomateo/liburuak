@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">741</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28d442fd-ba13-4d91-b1e0-321e5be1f2cf</dc:identifier>
+        <dc:title>No tengas miedo a nada</dc:title>
+        <dc:creator opf:file-as="Curro Cañete" opf:role="aut">Curro Cañete</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-12T00:00:00+00:00</dc:date>
+        <dc:description>ABRE TU MENTE. ENCUENTRA TU PROPÓSITO. CUMPLE TUS SUEÑOS. Sí, es posible transformar nuestra vida para vivirla de forma plena y maravillosa. Hace años, Curro Cañete descubrió que no solo era una posibilidad, sino que ayudar a otros a conseguirlo era su propósito. Desde entonces, sus libros han llegado a cientos de miles de lectores a los que ha enseñado que, cuando confías en ti y en la vida, todo lo que ves a tu alrededor también cambia. En este libro encontrarás un método para dejar atrás el miedo y el dolor, proteger tu paz interior y aprender a tomar tus decisiones con alegría, enfocándote en el camino hacia tus sueños. Aprenderás a escucharte con sabiduría y comprenderás, por fin, que en la vida no hay imposibles.  «Cuando los sueños que creías imposibles empiezan a hacerse realidad delante de ti, sientes muchísima emoción y felicidad. Tu mente se ensancha, tus posibilidades aumentan y los límites que existen para otros dejan de existir para ti.»   El nuevo libro de Curro Cañete, autor del éxito El poder de confiar en ti, que regresa con un método infalible para cumplir nuestros sueños</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408252566</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Tw1QEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09MBD3W21</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T12:00:09.893499+00:00"/>
+        <meta name="calibre:title_sort" content="No tengas miedo a nada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

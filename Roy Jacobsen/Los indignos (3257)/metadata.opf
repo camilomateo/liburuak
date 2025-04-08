@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3257</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e28938b-3d51-4cd5-9642-2122fe26aad2</dc:identifier>
+        <dc:title>Los indignos</dc:title>
+        <dc:creator opf:file-as="Jacobsen, Roy" opf:role="aut">Roy Jacobsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-17T03:50:07+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Centrada en uno de los episodios más cruentos y olvidados de la Segunda Guerra Mundial, en Los indignos —nominada al Premio de los Libreros de Noruega (2022)— Roy Jacobsen (autor finalista del Man Booker International Prize) revela los rostros de los niños que perdieron su inocencia durante la guerra, obligados a comportarse como adultos en un mundo sin esperanza.&lt;/p&gt;
+&lt;p&gt;Oslo, 1942. Carl, Olav y Roar crecieron juntos en el mismo edificio de departamentos al este de la ciudad. Apenas transitan la pubertad, pero sus vidas están lejos de ser juegos y travesuras. En un país ocupado por el ejército alemán, cada día deben encontrar maneras creativas para ayudar a sus familias en la resistencia y no convertirse en las próximas víctimas de la barbarie. Sin embargo, la ausencia de una figura paterna constante los orilla a una suerte de libertinaje. Con vecinos y amigos forman una pandilla mediante la que estafan, falsifican documentos y roban para sobrevivir. Y tampoco dudan en aniquilar al enemigo cuando es necesario… Son los indignos. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-04T12:04:12.903623+00:00"/>
+        <meta name="calibre:title_sort" content="indignos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

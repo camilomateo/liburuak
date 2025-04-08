@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1272</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a9725ae-b6ca-400b-a6e4-f5f40fef3645</dc:identifier>
+        <dc:title>La Ciudad de Vapor</dc:title>
+        <dc:creator opf:file-as="Zafón, Carlos Ruiz" opf:role="aut">Carlos Ruiz Zafón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-16T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;strong style="color: #000000"&gt;Carlos Ruiz Zafón concibió está obra como un reconocimiento a sus lectores, que le habían seguido a lo largo de la saga iniciada con &lt;/strong&gt;&lt;span style="color: #000000; font-weight: 600; font-style: italic"&gt;La Sombra del Viento.&lt;/span&gt;&lt;span style="color: #000000"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;«Puedo conjurar rostros de chiquillos del barrio de la Ribera con los que a veces jugaba o peleaba en la calle, pero ninguno que quisiera rescatar del país de la indiferencia. Ninguno excepto el de Blanca.» &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Un muchacho decide hacerse escritor al descubrir que sus invenciones le regalan un rato más de interés por parte de la niña rica que le ha robado el corazón. Un arquitecto huye de Constantinopla con los planos de una biblioteca inexpugnable. Un extraño caballero tienta a Cervantes para que escriba un libro como no ha existido jamás. Y Gaudí, navegando hacia una misteriosa cita en Nueva York, se deleita con la luz y el vapor, la materia de la que deberían estar hechas las ciudades.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; font-weight: 600"&gt;&lt;span style="color: #000000"&gt;El eco de los grandes personajes y motivos de las novelas de &lt;/span&gt;&lt;em style="color: #000000"&gt;El Cementerio de los Libros Olvidados&lt;/em&gt;&lt;span style="color: #000000"&gt; resuena en los cuentos de Carlos Ruiz Zafón —reunidos por primera vez, y algunos de ellos inéditos— en los que prende la magia del narrador que nos hizo soñar como nadie.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-07T17:32:13.687767+00:00"/>
+        <meta name="calibre:title_sort" content="Ciudad de Vapor, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

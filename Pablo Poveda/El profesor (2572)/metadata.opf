@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cb33fd5-c358-4bd2-976c-aea099da43c2</dc:identifier>
+        <dc:title>El profesor</dc:title>
+        <dc:creator opf:file-as="Poveda, Pablo" opf:role="aut">Pablo Poveda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-01T06:00:00+00:00</dc:date>
+        <dc:description>León es un joven profesor de literatura en el Liceum Copernicus de Varsovia. Destrozado por su ruptura sentimental, el As de corazones compagina su trabajo con su sueño de convertirse en escritor. Mientras se divierte con otras mujeres en busca de la felicidad sin éxito, su corazón se quedará atrapado cuando, en el inicio de curso, conozca por fin a su nueva alumna: Zofia Komarnicki. Varias copas, templanza. Una propuesta indecente. El romance prohibido entre el profesor y la adolescente, no sólo los llevará a una situación social comprometida. La joven, no será una chica normal de ojos azules. El desliz amoroso entre amantes, producto de una fantasía, destapará una caja de truenos que convertirá el mañana de León en otro mundo que no entraba en sus planes.</dc:description>
+        <dc:identifier opf:scheme="EPL">48714</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="El profesor"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-09-11T13:29:01+00:00"/>
+        <meta name="calibre:title_sort" content="profesor, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

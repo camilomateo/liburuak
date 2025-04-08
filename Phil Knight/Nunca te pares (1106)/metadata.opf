@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c2c1c27-9259-4332-a89e-34c8d82b11e8</dc:identifier>
+        <dc:title>Nunca te pares</dc:title>
+        <dc:creator opf:file-as="Phil Knight" opf:role="aut">Phil Knight</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;La historia jamás contada detrás de Nike, la marca deportiva más icónica del mundo, narrada por su creador.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Uno de los libros favoritos de Bill Gates de 2016.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Phil
+ Knight, director general de Nike, nos cuenta por primera vez la 
+auténtica historia detrás de la empresa que fundó en 1962, que hoy en 
+día factura más de 30.000 millones de dólares al año, y cuyo logo ha 
+llegado a ser un símbolo global, el icono más ubicuo y reconocido en 
+todo el mundo.&lt;/p&gt;&lt;p&gt;Todo comenzó con 50 dólares y una idea
+ sencilla: importar calzado deportivo económico y de gran calidad desde 
+Japón. Vendiendo esas zapatillas de deporte en el maletero de su coche 
+consiguió facturar 8.000 dólares durante el primer año. Progresivamente,
+ este pequeño negocio se convirtió en una &lt;span class="a-text-italic"&gt;start&lt;/span&gt;&lt;span class="a-text-italic"&gt;-up&lt;/span&gt;rompedora que revolucionó el mercado, creó una marca universal e innovadora y evolucionó hasta convertirse en el gigante actual.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;En estas memorias sinceras y viscerales, Phil&lt;/span&gt;&lt;span class="a-text-bold"&gt;Knight&lt;/span&gt;&lt;span class="a-text-bold"&gt;
+ relata los numerosos riesgos asumidos, los reveses sufridos y los 
+incipientes éxitos, pero sobre todo la relación con sus primeros 
+colaboradores y empleados, un grupo de inconformistas y luchadores que 
+acabaron sintiéndose como hermanos. Juntos, animados por la fuerza de un
+ objetivocomún y una fe profunda en el espíritu del deporte, 
+construyeron una marca que transformó todos los cánones establecidos.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CONECTA</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">097becee-4979-42be-ae26-16510d5fe3b6</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:12.390229+00:00"/>
+        <meta name="calibre:title_sort" content="Nunca te pares:"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

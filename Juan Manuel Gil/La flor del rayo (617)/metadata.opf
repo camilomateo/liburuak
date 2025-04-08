@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">617</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b87912d8-d698-4d33-9e22-afd5d01e0714</dc:identifier>
+        <dc:title>La flor del rayo</dc:title>
+        <dc:creator opf:file-as="Juan Manuel Gil" opf:role="aut">Juan Manuel Gil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span&gt;Este
+ es el libro de un escritor dispuesto a todo con tal de tener una 
+historia que contar en su próxima novela. Después de ganar un gran 
+premio literario, zarandeado por la presión y las expectativas, intenta 
+averiguar —desoyendo cualquier consejo— qué se esconde detrás de una 
+misteriosa escena que presencia mientras pasea a su perro: un hombre 
+llora abatido y una ambulancia asiste a una persona a las puertas del 
+jardín de una vieja casa.&lt;br&gt;  En esta alocada investigación, la vida y 
+la literatura no tardarán en confabularse para poner a prueba este 
+estrafalario método de inspiración que le induce a creer que la ficción 
+es la única herramienta válida para gestionar el amor, la inexpugnable 
+felicidad de la escritura o el devastador desgarro de la pérdida.&lt;br&gt;  &lt;/span&gt;&lt;span class="a-text-italic"&gt;La flor del rayo&lt;/span&gt;&lt;span&gt;
+ es la novela que consolida a Juan Manuel Gil como uno de los escritores
+ más originales del panorama narrativo español, tras ganar el Premio 
+Biblioteca Breve en 2021 con &lt;/span&gt;&lt;span class="a-text-italic"&gt;Trigo limpio&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Juan Manuel Gil&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:41.974191+00:00"/>
+        <meta name="calibre:title_sort" content="flor del rayo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

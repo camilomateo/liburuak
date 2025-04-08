@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">338</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30cf274e-ade0-437d-b6d3-bd10af0cb8bf</dc:identifier>
+        <dc:title>El maestro</dc:title>
+        <dc:creator opf:file-as="Escobar, Mario" opf:role="aut">Mario Escobar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Combinando de forma magistral la ficción con datos históricos, Mario Escobar sitúa al lector en la terrible situación de los judíos polacos y su lucha por la supervivencia en el Gueto de Varsovia. Varsovia, 1939Agnieszka Ignaciuk y su hijo, Henryk, llegan al orfanato de Korczak poco antes de estallar la Segunda Guerra Mundial. Allí, conocen y son testigos de la vida y obra de Janusz Korczak, el heroico maestro y autor que dedica su vida a los huérfanos polacos. Mientras los ocupantes nazis reducen y encierran a la población judía, un grupo estará dispuesto a ayudarlos a sobrevivir en el Gueto de Varsovia. Pero el tiempo corre en su contra, y los nazis tienen planeado destruir el Gueto y deshacerse de su más de medio millón de habitantes. &lt;/p&gt;
+&lt;p&gt;Todos sus nombres no aparecerán en los libros de historia, pero estos sucesos resuenan en nuestras mentes y no los debemos olvidar. El maestro, más que una basada en la historia verídica del hombre que dirigió dos orfanatos e inspiró la Declaración de los Derechos de los Niños de 1959, es el vivo testimonio de que las acciones de un solo hombre pueden cambiar el mundo para siempre. &lt;/p&gt;
+&lt;p&gt;MARIO ESCOBAR, novelista, historiador y colaborador habitual de National Geographic Historia, ha dedicado su vida a la investigación de los grandes conflictos humanos. Sus libros han sido traducidos a quince idiomas. Tiene más de dos millones de lectores en el mundo, fue el ganador del Premio Empik 2020 y el finalista del Premio International Latino Book 2020.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780063098879</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mario Escobar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-20T21:02:17.871020+00:00"/>
+        <meta name="calibre:title_sort" content="maestro, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

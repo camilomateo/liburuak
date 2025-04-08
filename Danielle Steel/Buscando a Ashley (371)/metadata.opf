@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">371</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bce21ee4-9a0a-41f8-adea-89316fcea443</dc:identifier>
+        <dc:title>Buscando a Ashley</dc:title>
+        <dc:creator opf:file-as="Steel, Danielle" opf:role="aut">Danielle Steel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-27T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;La conmovedora historia de dos mujeres fuertes y valientes que convierten una pérdida aplastante en la posibilidad de un reencuentro.&lt;/p&gt;
+&lt;p align="justify"&gt;Melissa Henderson fue autora superventas, pero después de perder a su hijo y de que su matrimonio se derrumbara, ahora dedica su energía a restaurar una antigua casa victoriana. Tras un incendio que amenaza la integridad de su hogar y provoca que aparezca en televisión, Melissa recibe una llamada de su hermana, Hattie, con la que hace años perdió el contacto.&lt;/p&gt;
+&lt;p align="justify"&gt;A pesar de todo, Hattie está decidida a ayudar a Melissa a pasar página, aunque eso signifique que esta última se vea obligada a reabrir uno de los capítulos más dolorosos de su vida. Juntas, las dos hermanas viajarána Irlanda para recuperar la relación que creían perdida y encontrar a la hija que, de adolescente, Melissa se vio obligada a dejar atrás: Ashley.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Danielle Steel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-03T07:31:24.459921+00:00"/>
+        <meta name="calibre:title_sort" content="Buscando a Ashley"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

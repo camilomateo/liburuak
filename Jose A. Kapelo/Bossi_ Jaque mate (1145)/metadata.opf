@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1254dc6-ff62-46f0-bb54-e27220042086</dc:identifier>
+        <dc:title>Bossi: Jaque mate</dc:title>
+        <dc:creator opf:file-as="José A. Kapelo" opf:role="aut">José A. Kapelo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-22T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;En en esta segunda entrega de la trilogía de «Memorias de un 
+narco español» volvemos a seguir la historia de Antonio. un ambicioso 
+narcotraficante. mientras construye un verdadero imperio s toma el 
+control del "Secreto” familiar. Con un ingenio agudo, realismo 
+descarnado y unos giros argumentales intrigantes. &lt;span class="a-text-italic"&gt;Bossi&lt;/span&gt; pinta el vivo retrato de un submundo que pocos conocen en realidad.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kapelo,
+ nos describe un personaje cuya determinación despiadada y gran 
+capacidad estratégica. construyó rápidamente su red y se convirtió en 
+uno de los traficantes más poderosos del continente europeo, guiado por 
+su segundo padre Peppe, un auténtico "Cappo" de la mafia italiana. Pero 
+no todo en su vida es expansión y éxito. Antonio ha tenido que tomar 
+algunas decisiones difíciles. Ha dejado atrás a su familia y vivir lejos
+ de su hijo y de su mujer para cuidarlos de todas las consecuencias del 
+camino que ha decidido tomar.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;Bossi&lt;/span&gt;
+ combina magistralmente la realidad con la ficción para transportar a 
+los lectores a un mundo oscuro y peligroso. Es más bien un recorte en el
+ alma y los sentimientos de su protagonista que, en primera persona y 
+con un lenguaje seco, desnuda el sufrimiento que lo atraviesa y el poco 
+valor que tiene su existencia cuando decide vivir, como el destino le 
+tiene marcado, al filo de la cornisa…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Barker and Jules LLC</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0C62L8YMS</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Memorias de un narco español"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-01-16T17:00:20.050458+00:00"/>
+        <meta name="calibre:title_sort" content="Bossi: Jaque mate"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

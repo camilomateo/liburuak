@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77d93a0d-73fd-4f74-b4b4-aa428aff3f21</dc:identifier>
+        <dc:title>Lo que no te mata te hace más fuerte</dc:title>
+        <dc:creator opf:file-as="Lagercrantz, David" opf:role="aut">David Lagercrantz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Lisbeth Salander está inquieta. Ha participado en un ataque &lt;i&gt;hacker&lt;/i&gt; sin razón aparente y está asumiendo riesgos que normalmente evitaría. Mientras, la revista &lt;i&gt;Millennium&lt;/i&gt; ha cambiado de propietarios. Quienes le critican, insisten en que Mikael Blomkvist ya es historia. &lt;br&gt;&lt;br&gt;Una
+ noche, Blomkvist recibe la llamada del profesor Frans Balder, un 
+eminente investigador especializado en Inteligencia Artificial quien 
+afirma tener en su poder información vital para el servicio de 
+inteligencia norteamericano. Su as en la manga es una joven rebelde, un 
+bicho raro que se parece mucho a alguien a quien Blomkvist conoce 
+demasiado bien. &lt;br&gt;&lt;br&gt;Mikael siente que esa puede ser la exclusiva que él y &lt;i&gt;Millennium&lt;/i&gt; tanto necesitan, pero Lisbeth Salander, como siempre, tiene sus propios planes.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;En &lt;i&gt;Lo que no te mata te hace más fuerte&lt;/i&gt;, la singular pareja aclamada por más de 80 millones de lectores en &lt;i&gt;Los hombres que no amaban a las mujeres&lt;/i&gt;, &lt;i&gt;La chica que soñaba con una cerilla y un bidón de gasolina&lt;/i&gt; y &lt;i&gt;La reina en el palacio de las corrientes de aire&lt;/i&gt; continúa su historia. Ha llegado la hora de que sus caminos se crucen de nuevo. Vuelve Lisbeth Salander. &lt;i&gt;Millennium&lt;/i&gt; continúa.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="BIBLIOETECA">3230708</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00YB2FJ9U</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;David Lagercrantz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Millenium"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:25:39.940043+00:00"/>
+        <meta name="calibre:title_sort" content="que no te mata te hace más fuerte, Lo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

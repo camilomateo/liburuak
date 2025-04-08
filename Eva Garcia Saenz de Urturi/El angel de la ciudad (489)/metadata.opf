@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">489</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e02ab86-245b-4e38-8f95-9ed3aea0b99b</dc:identifier>
+        <dc:title>El ángel de la ciudad</dc:title>
+        <dc:creator opf:file-as="Eva García Sáenz de Urturi" opf:role="aut">Eva García Sáenz de Urturi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;En una Venecia rodeada de misterio, el inspector Kraken se enfrenta a la encrucijada más compleja de su vida: resolver el pasado o apostar por el futuro.&lt;/p&gt;
+&lt;p align="justify"&gt;Un espléndido y decadente palazzo arde en una pequeña isla veneciana donde se celebra un encuentro de la Liga de Libreros Anticuarios. Los cuerpos de los invitados, todos conocidos de Kraken, no aparecen entre los escombros, y se sospecha que su madre, Ítaca, estuvo implicada en el incendio que sucedió en idénticas circunstancias décadas atrás.&lt;/p&gt;
+&lt;p align="justify"&gt;Mientras, en Vitoria, la inspectora Estíbaliz investiga un caso que puede tener las claves del atraco que acabó con la vida del padre de Kraken. Pero Unai es reacio a volver a la investigación en activo y siente que debe elegir entre la búsqueda de lo que les sucedió a sus padres o la familia que ha creado con Alba y su hija Deba.&lt;/p&gt;
+&lt;p align="justify"&gt;Un paseo por una Venecia donde las leyendas y la perturbadora figura del Ángel de la ciudad, mitad mecenas, mitad demonio, mueven los hilos de una vertiginosa trama repleta de amor al arte y de la búsqueda de la propia identidad.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0BSJ6M9DY</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788408271307</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">gk-zEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Eva García Sáenz de Urturi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Kraken"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:01:54.240613+00:00"/>
+        <meta name="calibre:title_sort" content="ángel de la ciudad, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

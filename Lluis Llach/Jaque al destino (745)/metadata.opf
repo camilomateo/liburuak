@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">745</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84ac6065-80bb-444c-86e3-ca2b4fd90cee</dc:identifier>
+        <dc:title>Jaque al destino</dc:title>
+        <dc:creator opf:file-as="Llach, Lluís" opf:role="aut">Lluís Llach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-08T06:00:00+00:00</dc:date>
+        <dc:description>Un grito en la oscuridad pasa desapercibido en el castillo. A la mañana siguiente se descubre un cadáver, cuya identidad puede hacer peligrar la dinastía del reino de Magens. El joven presbítero Orenç es el encargado de investigar el asesinato. Su condición de bastardo del rey Ebrard de Albir lo sitúa cerca de los círculos de poder. Pero la tarea es más que peligrosa: cualquier paso en falso puede hacerle caer en una telaraña de luchas intestinas, pasiones y ambiciones desbocadas. La traición acecha a la casa de los Albir. Las aspiraciones de Roma por mantener el estatus religioso en la zona contra la herejía albicar enturbian el entramado político. Y la guerra parece inevitable. Orenç solamente podrá contar con Brilhèta, una sirvienta de palacio que le descubrirá un mundo que el joven e inexperto religioso desconoce. Pero cada paso en la investigación es un peldaño más que lo acerca a una verdad incómoda.</dc:description>
+        <dc:publisher>Catedral</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">296</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002154</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-22T15:06:43.217917+00:00"/>
+        <meta name="calibre:title_sort" content="Jaque al destino"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

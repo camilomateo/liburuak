@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20eba238-d85e-444e-976d-afbbae9ad9cd</dc:identifier>
+        <dc:title>Lujuria</dc:title>
+        <dc:creator opf:file-as="Escobar, Mario" opf:role="aut">Mario Escobar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-13T22:00:00+00:00</dc:date>
+        <dc:description>En el centro de la ciudad de Málaga, nadie tiene secretos para nadie. ¿O tal vez sí los tengan?
+
+Amanda Romero es una trabajadora social de la ciudad de Málaga que trabaja en los Servicios Sociales, su exmarido Arturo es policía, ambos se separaron tras la desaparición de su hija pequeña un año antes. Tras regresar de una baja por depresión, Amanda comienza a investigar una serie de presuntos abusos a menores donde parece que la Jet Set de Marbella parece estar detrás. Junto a la ayuda de su hermana gemela Susana, investigará lo que se esconde entre los bajos fondos marbellíes y al mismo tiempo descubrirá unas pistas sobre la desaparición de su hija. Corrupción política, sobornos y trata de blancas son tan solo algunos de los asuntos turbios a los que se tendrán enfrentar nuestras protagonistas, poniendo en peligro sus vidas y las de sus seres queridos.</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Crímenes del Sur"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:18.934252+00:00"/>
+        <meta name="calibre:title_sort" content="Lujuria"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

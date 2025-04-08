@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2640</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb758b11-d2b8-4a3c-97f5-3d4a146058c5</dc:identifier>
+        <dc:title>El gato que cuidaba las bibliotecas</dc:title>
+        <dc:creator opf:file-as="Natsukawa, Sosuke" opf:role="aut">Sosuke Natsukawa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-06T07:25:53+00:00</dc:date>
+        <dc:description>Después del fenómeno japonésEl gato que amaba los libros, llega una novela que nos brinda un nuevo e inolvidable homenaje a la literatura.La joven Nanami no puede participar en actividades extraescolares por su asma, pero le encanta leer y pasar el tiempo en la biblioteca, entre historias. Un día, Nanami se da cuenta de que, a pesar de que la biblioteca está tan poco frecuentada como siempre, sus libros favoritos están desapareciendo poco a poco.Cuando avisa al personal, nadie la toma en serio. Pero entonces Nanami se topa con un misterioso hombre con un traje gris. Intenta seguirlo, pero fracasa y él deja a su paso tan solo un extraño haz de luz entre las estanterías. Es entonces cuando Tora, el gato favorito de los lectores, acude al rescate. ¿Podrán superar juntos los desafíos que les aguardan?SobreEl gato que amaba a los libros: «Una acogedora y encantadora narración sobre el poder de los libros».ManxIndependent«Ingenioso y cálido enigual medida, El gato que amaba a los...</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-21T14:01:16.309046+00:00"/>
+        <meta name="calibre:title_sort" content="gato que cuidaba las bibliotecas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

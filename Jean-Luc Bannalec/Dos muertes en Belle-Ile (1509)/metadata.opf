@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1509</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c46a42d-2bbd-4647-9045-d721fadc903b</dc:identifier>
+        <dc:title>Dos muertes en Belle-Île</dc:title>
+        <dc:creator opf:file-as="Jean-Luc Bannalec" opf:role="aut">Jean-Luc Bannalec</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-19T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El décimo caso del comisario Dupin le lleva a la «isla bonita», la mayor de las islas bretonas. Mientras la Bretaña vive uno de los meses de agosto más calurosos de su historia, aparece un cadáver sujeto a una boya cerca de Concarneau. Se trata de Patric Provost, un adinerado y despótico empresario de Belle-Île, propietario de tierras, inmuebles e incluso de una explotación de ovejas. Dupin y sus ayudantes averiguan que excepto una, todas las casas de Islonk, una diminuta aldea situada al suroeste de la isla, pertenecían al muerto. No tardan en descubrir también que la exmujer de Provost, de la que llevaba veinte años separado aunque no estaban divorciados, y la alcaldesa, embarcada en un ambicioso proyecto de energía verde que dotaría de independencia energética al lugar, son las principales beneficiarias de la herencia. Justo entonces tiene lugar un secuestro y aparece otro cadáver. El comisario Dupin tiene poco más de veinticuatro horas para resolver un nuevo caso antes de asistir a la fiesta que Nolween y sus compañeros han organizado para celebrar sus diez años en la Bretaña.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425361760</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">IBt9EAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Comisario Dupin"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:timestamp" content="2024-05-22T16:46:44.580440+00:00"/>
+        <meta name="calibre:title_sort" content="Dos muertes en Belle-Île"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

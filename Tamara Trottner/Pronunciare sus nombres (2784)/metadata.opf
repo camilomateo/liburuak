@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec04833f-c2ef-4979-96ff-235ec2d5405f</dc:identifier>
+        <dc:title>Pronunciaré sus nombres</dc:title>
+        <dc:creator opf:file-as="Trottner, Tamara" opf:role="aut">Tamara Trottner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-07T00:00:00+00:00</dc:date>
+        <dc:description>A través de una mirada tierna y aguda, asistimos al rescate del futuro en medio de una catástrofe humana y cruzamos el océano Atlántico para acompañar a los Trachtenberg y los Wolloch en su combate contra la muerte y el olvido.</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial México</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-09T07:18:54.189757+00:00"/>
+        <meta name="calibre:title_sort" content="Pronunciaré sus nombres"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7db47834-0e4c-4510-9d02-c4a1e25cbc9e</dc:identifier>
+        <dc:title>Los nombres prestados</dc:title>
+        <dc:creator opf:file-as="Alexis Ravelo" opf:role="aut">Alexis Ravelo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-22T11:56:45+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Tomás Laguna podría perfectamente ser un corredor de seguros jubilado que ha llegado a Nidocuervo para disfrutar con tranquilidad de su retiro en compañía de su perro Roco. Y Marta Ferrer podría pasar por una traductora que ha encontrado en el pueblo el sitio ideal para vivir en paz con su hijo Abel. Pero lo cierto es que ambos son verdugos insomnes llegados a ese rincón del mundo con nombres prestados, fingiendo que no son quienes hasta hace poco han sido. Sin embargo, el equilibrio entre la realidad y la ficción que cada uno ha elegido para sí es tan frágil que sucesos tan fortuitos como una tormenta o la elección de una foto para la portada de un periódico resucitarán los fantasmas del pasado, devolviendo a sus vidas una violencia que esperaban haber dejado atrás para siempre. &lt;/p&gt;
+&lt;p align="justify"&gt;Situada a mediados de los años ochenta del siglo XX, Los nombres prestados es una historia de acción y suspense, un wéstern moderno, una novela negra que funciona también como una alegoría que indaga en las causas y las consecuencias de la violencia política, en la vinculación entre víctimas y verdugos, en las obligadas paradas que habrá de hacer quien recorra el tortuoso camino hacia la redención.&lt;br&gt;&lt;br&gt;PREMIO DE NOVELA CAFÉ GIJÓN 2021&lt;/p&gt;
+&lt;p align="justify"&gt;«Una novela, muy bien estructurada, que se sirve de un narrador omnisciente para abordar temas de fondo tan importantes como la identidad, el perdón, la redención y la verdad».&lt;/p&gt;
+&lt;p align="justify"&gt;Del Acta del Jurado&lt;/p&gt;
+&lt;p align="justify"&gt;«Los personajes de Alexis Ravelo están hechos de piel mucho más que de tinta. Ni los buenos lo son por completo, ni los malos son la iniquidad hecha carne. Aman, sienten y sufren, aunque puede que no siempre lo hagan por los motivos más éticos». &lt;/p&gt;
+&lt;p align="justify"&gt;Marta Marne, El Periódico&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Siruela</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418859939</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:15.391232+00:00"/>
+        <meta name="calibre:title_sort" content="Los nombres prestados"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

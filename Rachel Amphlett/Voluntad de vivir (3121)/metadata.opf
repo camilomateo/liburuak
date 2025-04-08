@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43d84ee5-1c88-4892-9a5a-432a4e5382f3</dc:identifier>
+        <dc:title>Voluntad de vivir</dc:title>
+        <dc:creator opf:file-as="Amphlett, Rachel" opf:role="aut">Rachel Amphlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Tu próximo viaje podría ser el último...&lt;br&gt;&lt;br&gt;Cuando un tren lleno de pasajeros atropella un cuerpo en un tramo de vías conocido por los lugareños como "la milla del suicidio", pronto se revela que el hombre fue víctima de un asesinato premeditado.&lt;br&gt;&lt;br&gt;A medida que la investigación avanza y se descubre un patrón de asesinatos, la detective Kay Hunter se da cuenta de que la reciente reputación del lugar podría ser obra de un brutal asesino en serie.&lt;br&gt;&lt;br&gt;Con un retraso en casos no resueltos y tratando de descubrir quién está detrás de una venganza profesional en su contra, Kay debe mantenerse un paso por delante tanto del asesino como de sus propios adversarios.&lt;br&gt;&lt;br&gt;Cuando ocurre un segundo asesinato en menos de una semana, Kay comprende que el cronograma del asesino ha cambiado y que se le está acabando el tiempo para detenerlo...&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Saxon Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781917166232</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Los misterios de la detective Kay Hunter"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-03-03T15:06:06+00:00"/>
+        <meta name="calibre:title_sort" content="Voluntad de vivir"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

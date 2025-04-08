@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1319</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96e11d0d-c039-4975-b8e4-9867eaae14fa</dc:identifier>
+        <dc:title>Una mentira perfecta</dc:title>
+        <dc:creator opf:file-as="Spain, Jo" opf:role="aut">Jo Spain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;En la exclusiva urbanización de Withered Vale, la vida de sus seis familias parece tan idílica como las casas con jardín en las que viven. Dinero, éxito, privilegios; sus residentes lo tienen todo. Hasta que ocurre lo impensable: el cadáver de Olive Collins aparece dentro de la casa número cuatro. Todos están conmocionados por la noticia, pero lo cierto es que nadie pensó en ir a verla cuando desapareció de un día para otro tres meses atrás. La policía empieza a hacer preguntas y la fachada aparentemente impecable de toda la comunidad comienza a resquebrajarse. Sobre todo cuando parece que todos tienen secretos, intereses y motivos para desear su muerte.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:27.979503+00:00"/>
+        <meta name="calibre:title_sort" content="mentira perfecta, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

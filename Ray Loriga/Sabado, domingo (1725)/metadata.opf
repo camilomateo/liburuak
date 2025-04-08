@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1725</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80918707-4f0e-4266-adae-4f8b0d7dae2a</dc:identifier>
+        <dc:title>Sábado, domingo</dc:title>
+        <dc:creator opf:file-as="Ray Loriga" opf:role="aut">Ray Loriga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-01T06:00:00+00:00</dc:date>
+        <dc:description>La nueva novela de Ray Loriga: Premio Alfaguara de novela 2017 y uno de los escritores más singulares del panorama narrativo en español. Un adolescente y una historia sin resolver que marcará su futuro: un libro transgresor y original con un planteamiento cinematográfico. «Todo el mundo tiene un recuerdo oscuro, una medusa tenebrosa que, en perfecta simetría, mancha el futuro de su existencia.» Sábado, domingo narra una historia y la vuelve a contar años después. En la primera, un adolescente relata un suceso escabroso del verano anterior. Junto con su amigo Chino, salen un sábado y ligan con una camarera. La noche parece ir bien, hasta que todo se tuerce y acaba en desastre: es un funesto sábado que nuestro narrador se niega a recordar. Pero después de cada sábado, viene un domingo. Veinticinco años después, ese adolescente, que ahora es un hombre con muchas malas decisiones a cuestas, acompaña a su hija a la fiesta de Halloween en el Colegio Internacional de las afueras de Madrid. Allí comparte charla con una mujer desconocida que se oculta tras la máscara de un disfraz. La conversación, intrascendente en apariencia, pronto lo conduce a aquella noche. No hay más remedio que aceptar que finalmente es domingo, el día que nos obliga a enfrentarnos a nuestro pasado. Sábado, domingo es una novela sobre la culpa, sobre las deudas que se asumen como propias en la vida y sobre la huida que se impone cuando aceptar la realidad parece no ser posible.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-08T14:59:23.187131+00:00"/>
+        <meta name="calibre:title_sort" content="Sábado, domingo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

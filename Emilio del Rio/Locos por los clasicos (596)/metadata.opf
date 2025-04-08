@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">596</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">932185f8-86ff-4089-8471-d5863f84c7bf</dc:identifier>
+        <dc:title>Locos por los clásicos</dc:title>
+        <dc:creator opf:file-as="Emilio del Río" opf:role="aut">Emilio del Río</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-07T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Hay un momento mágico de la historia de la humanidad en el que se crean las bases de nuestra democracia, de nuestra civilización, de nuestra cultura; ese momento es de las culturas griega y romana, hace miles de años. Nuestra manera de ver el mundo y afrontar la vida vienen de ahí. La poesía, la filosofía, el teatro, la oratoria, la novela, la historia, la sátira, la fábula, el cuento…, todas estas formas de comunicación las inventan y las escriben por vez primera unos autores geniales, divertidos, inspiradores y estimulantes, llenos de vida, magia y energía: los autores grecolatinos. Este libro es una invitación a descubrirlos y disfrutarlos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467066494</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-02T11:40:19+00:00"/>
+        <meta name="calibre:title_sort" content="Locos por los clásicos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

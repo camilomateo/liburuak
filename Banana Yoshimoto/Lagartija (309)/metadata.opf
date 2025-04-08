@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">309</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f007b4b-a46c-4c95-854c-e1237fa13124</dc:identifier>
+        <dc:title>Lagartija</dc:title>
+        <dc:creator opf:file-as="Yoshimoto, Banana" opf:role="aut">Banana Yoshimoto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-06T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Uniendo armónicamente el Japón tradicional y el moderno, Banana 
+Yoshimoto ofrece en este volumen seis relatos cuyos protagonistas, 
+jóvenes y no tan jóvenes, hombres y mujeres, se enfrentan al paso del 
+tiempo y a la necesidad de superar sus traumas infantiles, sus amores 
+atormentados, los abandonos. También la de contemplar lúcidamente sus 
+vidas. Existencias que parecen discurrir sin rumbo, sin sentido, o sin 
+apenas sorpresas, tienen de pronto la oportunidad de albergar por 
+primera vez la esperanza en un futuro más feliz, en seis relatos tejidos
+ en un Tokio donde al atardecer la luna se funde con el cielo y empiezan
+ a parpadear las luces nocturnas.&lt;/p&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Banana Yoshimoto&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-14T08:13:36.325278+00:00"/>
+        <meta name="calibre:title_sort" content="Lagartija"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

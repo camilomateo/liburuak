@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f467d676-d5db-4687-96f2-df145b36d87b</dc:identifier>
+        <dc:title>Mejor muerto</dc:title>
+        <dc:creator opf:file-as="Susana Rodríguez Lezaun" opf:role="aut">Susana Rodríguez Lezaun</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-13T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-family: 'Roboto','Arial','Helvetica','Tahoma','sans-serif'; font-size: 15px"&gt;&lt;span style="color: #333333; background-color: #ffffff"&gt;La esperada nueva novela de la serie de la inspectora Marcela Pieldelobo, embarcada en una investigación contrarreloj en la que todos mienten y nadie parece tener prisa por dar con un eminente empresario secuestrado. Francisco Sarasola, un importante promotor inmobiliario de Pamplona, ha desaparecido sin dejar rastro. Horas después de la denuncia, la familia recibe un mensaje en el que puede verse al empresario malherido en el suelo. Exigen un millón de euros a cambio de su vida. Pocos días después, el subdirector de la empresa se esfuma y la joven amante del empresario es encontrada muerta en los lavabos de la estación de tren. Sarasola es un hombre difícil, acostumbrado a hacer su voluntad sin preocuparse de las consecuencias de sus actos. Durante la investigación, Pieldelobo encuentra una familia poco apenada: un hijo ansioso por hacerse con las riendas de la empresa; otro débil, controlado por su joven esposa, y un tercero que apenas es un muchacho asustado. La primera esposa lo odia abiertamente, y la segunda, devota del tarot, lo teme y se esfuerza por complacerlo para evitar su ira. Chantaje y extorsión, amenazas y violencia, odios enraizados que los asfixian y les impiden avanzar. La familia Sarasola sabe que su obligación es colaborar en la búsqueda de Francisco, pero es tan fácil vivir sin él. Al mismo tiempo, Marcela sigue lidiando con sus propios fantasmas, sus miedos y sus dudas. Tajante y decidida en lo profesional, sarcástica y dubitativa en lo personal y experta en ponerse zancadillas a sí misma, aprenderá, sin embargo, que los tiempos de crisis tejen extrañas alianzas.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410021402</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">205998183</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">MebwEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0CTCVC3CH</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Marcela Pieldelobo"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-03-15T07:54:01.395919+00:00"/>
+        <meta name="calibre:title_sort" content="Mejor muerto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

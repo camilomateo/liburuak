@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">955</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8332a22c-26ef-416b-8c69-bd16ba4208d9</dc:identifier>
+        <dc:title>En Blanca y negro</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-01T05:00:00+00:00</dc:date>
+        <dc:description>En Blanca y negro es un homenaje a Blanca, la mujer que ayudó a Juanjo Benítez a cruzar la calle de la vida durante casi 40 años. Se trata del diario de una experiencia extrema: los últimos 280 días en la vida de la esposa de J. J. Benítez. El libro discurre entre el miedo y la esperanza. Como siempre en la obra del escritor navarro, lo mejor hay que descubrirlo entre líneas. En definitiva: un libro para iniciados. Una obra a flor de piel, íntima, emocionante y brutal, que nos muestra las vulnerabilidades del autor</dc:description>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002074</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">392</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>memorias</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-14T07:58:21.631155+00:00"/>
+        <meta name="calibre:title_sort" content="En Blanca y negro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

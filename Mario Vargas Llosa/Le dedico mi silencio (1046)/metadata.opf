@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1046</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20e831f2-ce60-4290-837e-4b8009886cb7</dc:identifier>
+        <dc:title>Le dedico mi silencio</dc:title>
+        <dc:creator opf:file-as="Mario Vargas Llosa" opf:role="aut">Mario Vargas Llosa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-30T03:00:00+00:00</dc:date>
+        <dc:description>LA NUEVA NOVELA DEL PREMIO NOBEL DE LITERATURA MARIO VARGAS LLOSA La historia de un hombre que soñó un país unido por la música y enloqueció queriendo escribir un libro perfecto que lo contara Toño Azpilcueta pasa sus días entre su trabajo en un colegio, su familia y su gran pasión, la música criolla, sobre la que lleva investigando desde su juventud. Un día, una llamada le cambia la vida. Una invitación para ir a escuchar a un guitarrista desconocido, Lalo Molfino, personaje del que nadie sabe demasiado pero de gran talento, parece confirmar todas sus intuiciones: el amor profundo que siente por los valses, marineras, polkas y huainos peruanos tiene una razón más allá del placer de escucharlos (o bailarlos). Tal vez lo que ocurra es que la música criolla sea, en realidad, no sólo una seña de identidad de todo un país y expresión de esa actitud tan peruana de la huachafería («la mayor contribución de Perú a la cultural universal», según Toño Azpilcueta), sino algo mucho más importante: un elemento capaz de provocar una revolución social, de derribar prejuicios y barreras raciales para unir al país entero en un abrazo fraterno y mestizo. En un país fracturado y asolado por la violencia de Sendero Luminoso, la música podría ser aquello que recuerde a todos los que conforman la sociedad que, por encima de cualquier otra cosa, son hermanos y compatriotas. Y en esto, es posible que el virtuosismo de la guitarra de Lalo Molfino tenga mucho que ver. Toño Azpilcueta decide investigar más sobre Molfino, viajar a su lugar de origen, conocer a este personaje esquivo, saber de su historia, de su familia y amores, de cómo llegó a convertirse en un guitarrista tan excelso. Y se propone también escribir un libro donde contar la historia de la música criolla y desarrollar esa idea que ha inoculado en su mente el descubrimiento de este músico extraordinario. La ficción y el ensayo se entremezclan así, de forma magistral, en esta novela en la que el premio nobel peruano vuelve sobre un tema que le obsesiona desde hace años: las utopías. Eso es lo que persigue Toño Azpilcueta en última instancia: la utopía de generar, a través del arte, una idea de país.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">2222222</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-11-01T18:27:29.475186+00:00"/>
+        <meta name="calibre:title_sort" content="Le dedico mi silencio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

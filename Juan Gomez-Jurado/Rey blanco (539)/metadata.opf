@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">539</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95707a6a-8fc5-4855-bc4d-be0695addd59</dc:identifier>
+        <dc:title>Rey blanco</dc:title>
+        <dc:creator opf:file-as="Gómez-Jurado, Juan" opf:role="aut">Juan Gómez-Jurado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-04T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;ESPERO QUE NO TE HA YAS OLVIDADO DE MÍ.¿JUGAMOS?&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Cuando
+ Antonia Scott recibe este mensaje, sabe muy bien quién se lo envía. 
+También sabe que ese juego es casi imposible de ganar. Pero a Antonia no
+ le gusta perder.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Después de todo este tiempo 
+huyendo, la realidad ha acabado alcanzándola. Antonia es cinturón negro 
+en mentirse a sí misma, pero ahora tiene claro que si pierde esta 
+batalla, las habrá perdido todas.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;-La reina es
+ la figura más poderosa del tablero -dice el Rey Blanco-. Pero por 
+poderosa que sea una pieza de ajedrez, nunca debe olvidar que hay una 
+mano que la mueve.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;-Eso ya lo veremos-, responde Antonia.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;EL FINAL ES SOLO EL PRINCIPIO&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Juan Gómez-Jurado&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Antonia Scott"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-04-06T19:50:04.623207+00:00"/>
+        <meta name="calibre:title_sort" content="Rey blanco"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7532636-e31d-4a72-b9e4-3348e3ac517d</dc:identifier>
+        <dc:title>Venganza</dc:title>
+        <dc:creator opf:file-as="Black, Benjamin" opf:role="aut">Benjamin Black</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Los Delahaye y los Clancy comparten una historia de alianza y ambición que pasa de padres a hijos. Y ahora, también de muerte y preguntas sin respuesta: ¿Por qué Victor Delahaye iba a necesitar a un testigo para suicidarse? El doctor Quirke y su amigo el inspector Hackett interrogan a los miembros de ambas familias: Mona Delahaye, la joven y embriagadora viuda; James y Jonas Delahaye, los desconcertantes hijos gemelos; Jack Clancy, el mujeriego socio, y su hijo Davy. Sin embargo, cuando una nueva muerte —aún más sorprendente que la primera— los golpea a todos, resulta obvio que algún terrible secreto está en juego.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:series" content="Quirke"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2024-07-17T21:56:49.946945+00:00"/>
+        <meta name="calibre:title_sort" content="Venganza"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

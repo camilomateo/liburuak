@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1501</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">212dbe2a-87d0-4094-812e-57829c23d515</dc:identifier>
+        <dc:title>Isla con madre</dc:title>
+        <dc:creator opf:file-as="Neuman, Andrés" opf:role="aut">Andrés Neuman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Un hijo, una madre. Ella, joven todavía, ha enfermado. Intercambiando roles, él la cuida y, a la vez, se despide y la celebra.&lt;br&gt; Todas y cada una de las palabras de este libro resuenan con temblor, intensidad y precisión, delimitando el dolor compar-&lt;br&gt; tido con respeto amoroso. De hondura lírica y delicada sobriedad: así se revela su escritura. También su silencio.
+
+&lt;/p&gt;</dc:description>
+        <dc:publisher>La Bella Varsovia</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-10T06:43:26+00:00"/>
+        <meta name="calibre:title_sort" content="Isla con madre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

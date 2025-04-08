@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">600</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e73000e-7f2f-49c2-bb70-9c42bdbb08eb</dc:identifier>
+        <dc:title>No me tapes el sol</dc:title>
+        <dc:creator opf:file-as="Eduardo Infante" opf:role="aut">Eduardo Infante</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>¿Por qué tanto ensañamiento con el cinismo? Porque el cínico cometió el terrible pecado de señalar al idealismo con el dedo y gritar: «¡El rey va desnudo!». Desde entonces, los maestros de la filosofía los ignoran, los silencian, los tergiversan, los caricaturizan o directamente los descalifican para que su mensaje quede oculto. Platón defendió la existencia de un modelo eterno, perfecto e inmaterial de hombre al que debemos someternos. Pero Diógenes se ríe de esta teoría y busca por las calles de Atenas, con una linterna en pleno día, ese hombre ideal. Platón define al ser humano como «un animal de dos pies y sin plumas», y los académicos que lo escuchan admiran su sabiduría. Mientras tanto Diógenes sale a la calle, toma un gallo, le quita las plumas, lo tira al suelo de la elitista escuela y le dice a Platón: «Aquí tienes a tu hombre». Este se niega a debatir con Diógenes y lo trata siempre de loco. A partir de ese momento, los idealistas siguen la actitud del maestro.
+
+No me tapes el sol busca actualizar la filosofía cínica como salvavidas para subsistir con libertad, cordura y dignidad en un mundo pospandemia que parece navegar a la deriva.</dc:description>
+        <dc:publisher>Ariel</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788434433472</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-02T11:40:21+00:00"/>
+        <meta name="calibre:title_sort" content="No me tapes el sol"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

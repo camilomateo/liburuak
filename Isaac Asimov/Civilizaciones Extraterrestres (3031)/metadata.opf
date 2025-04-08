@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2023688b-0e7a-40b8-a156-edb95acf0951</dc:identifier>
+        <dc:title>Civilizaciones Extraterrestres</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1978-12-31T23:00:00+00:00</dc:date>
+        <dc:description>¿Estamos solos en el cosmos? ¿Somos los seres humanos los únicos capaces de escrutar las profundidades del espacio? ¿Los únicos que hemos creado dispositivos para prolongar el alcance de nuestros sentidos? ¿Los únicos dotados de inteligencia para comprender e interpretar lo que vemos y sentimos? Civilizaciones Extraterrestres hace pensar a sus lectores que tal vez no estemos solos: ignoramos dónde se encuentren otros seres inteligentes, pero están en alguna parte del universo. Asimov explica cuáles son los requisitos de la vida: agua, atmósfera, materia orgánica, energía, proximidad a una estrella y, para una civilización semejante a la nuestra, tierra seca y oceános. ¿Existe un lugar del inmenso universo donde estas condiciones sean una realidad? Civilizaciones Extraterrestres aprovecha todos los adelantos de la ciencia y tecnología modernas para crear una base sólida en la que se apoye toda clase de lectores.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Ciencias naturales</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:55.945907+00:00"/>
+        <meta name="calibre:title_sort" content="Civilizaciones Extraterrestres"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

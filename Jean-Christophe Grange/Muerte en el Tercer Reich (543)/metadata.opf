@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">543</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ef33a6a-74d6-443a-9c23-8eb3bfc4cca4</dc:identifier>
+        <dc:title>Muerte en el Tercer Reich</dc:title>
+        <dc:creator opf:file-as="Grangé, Jean-Christophe" opf:role="aut">Jean-Christophe Grangé</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-05T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Berlín,
+ 1930. Un asesino en serie acecha a las élites nazis. Un detective de la
+ Gestapo, un psicólogo y una psiquiatra criminal serán los encargados de
+ deternerlo. &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;Un &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;thriller&lt;/span&gt;&lt;span class="a-text-bold"&gt; histórico escrito por el autor de &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;Los ríos de color púrpura&lt;/span&gt;&lt;span class="a-text-bold"&gt;. &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Berlín,
+ vísperas de la Segunda Guerra Mundial. Las despreocupadas esposas de 
+los altos mandatarios del régimen nazi se reúnen para beber champán en 
+el Hotel Adlon. Cuando empiecen a aparecer asesinadas de forma macabra a
+ orillas del río Spree o cerca de los lagos, la policía pondrá el caso 
+en manos de tres individuos singulares: Franz Beewen, un policía brutal y
+ despiadado de la Gestapo; Mina von Hassel, una psiquiatra prestigiosa, y
+ Simon Kraus, el psicoanalista que trataba a las víctimas. Con todo en 
+su contra, este grupo deberá seguir los pasos del Monstruo y destaparán 
+una verdad insospechada. Porque, a menudo, el mal se esconde tras la más
+ inesperada de las fachadas.&lt;/p&gt;&lt;p&gt;«Una verdadera proeza literaria.» &lt;span class="a-text-bold a-text-italic"&gt;Le Figaro Magazine&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jean-Christophe Grangé&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-06T19:50:05.586846+00:00"/>
+        <meta name="calibre:title_sort" content="Muerte en el Tercer Reich"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

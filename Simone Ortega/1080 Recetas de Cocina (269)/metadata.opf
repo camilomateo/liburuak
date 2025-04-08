@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">269</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de49e11f-f70f-4c04-a836-783400d3df96</dc:identifier>
+        <dc:title>1080 Recetas de Cocina</dc:title>
+        <dc:creator opf:file-as="Ortega, Simone" opf:role="aut">Simone Ortega</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Inicialmente, sin pretenderlo, 1080 recetas de cocina ha marcado una época dentro de la amplia bibliografía existente sobre recetarios. Con cerca de dos millones de ejemplares vendidos, se ha convertido en el libro con el que tres generaciones de mujeres -y gran cantidad de hombres- han aprendido a cocinar.</dc:description>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">5705547533428</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>prose_contemporary</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Simone Ortega&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-03T07:39:14.423893+00:00"/>
+        <meta name="calibre:title_sort" content="1080 Recetas de Cocina"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

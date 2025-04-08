@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1794</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93d9132f-1182-4d24-b751-47a62f8f5dfb</dc:identifier>
+        <dc:title>Territorio Lovecraft</dc:title>
+        <dc:creator opf:file-as="Ruff, Matt" opf:role="aut">Matt Ruff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-08T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Chicago, 1954. Siguiendo la pista de su padre desaparecido de forma misteriosa, el joven de 22 años Atticus Turner se embarca en un road trip hasta la mágica y peligrosa Nueva Inglaterra, acompañado&lt;br&gt;&lt;br&gt;por su tío George y por Letitia, una amiga de la infancia. En su viaje a la mansión de Mr. Braithwhite se enfrentan tanto a los terrores mundanos de la América blanca de la época, como a los&lt;br&gt;&lt;br&gt;espíritus malignos salidos de las lecturas de H.P. Lovecraft y novelas pulp que Atticus devora.&lt;br&gt;&lt;br&gt;En la mansión, Atticus descubre a su padre encerrado, prisionero de una sociedad llamada la Orden del Alba Antigua, dirigida por Samuel Braithwhite y su hijo Caleb, que se han reunido para orquestar un ritual cuyo centro es el propio Atticus. Y la única posibilidad de salvarse a sí mismo y a sus acompañantes pasa por su propia destrucción.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423355303</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:16+00:00"/>
+        <meta name="calibre:title_sort" content="Territorio Lovecraft"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

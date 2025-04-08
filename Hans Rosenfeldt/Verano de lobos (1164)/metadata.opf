@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5972f7f-0220-46a6-bb2d-4cfa081dce6d</dc:identifier>
+        <dc:title>Verano de lobos</dc:title>
+        <dc:creator opf:file-as="Rosenfeldt, Hans" opf:role="aut">Hans Rosenfeldt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-27T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El hallazgo de restos humanos en el estómago de un lobo muerto en la localidad de Haparanda, en la frontera entre Suecia y Finlandia, pone en marcha una investigación que cambiará para siempre el destino de la policía Hannah Wester. El caso parece tener vínculos con un sangriento enfrentamiento entre narcotraficantes que tuvo lugar en Finlandia. Pero ¿cómo ha llegado el hombre hasta el bosque de las afueras de Haparanda? Hannah y sus compañeros deberán remover cielo y tierra para descubrir lo sucedido; el tiempo apremia y la aparición de nuevos cadáveres pondrá a Hannah y a su equipo en el punto de mira. Sobre todo, cuando Katja, la más brillante asesina a sueldo, llegue al pueblo. Con su aparición, Haparanda se verá azotada por varios acontecimientos tan inesperados como brutales. Adéntrate en Haparanda, un pueblo fronterizo donde todos son sospechosos. Del autor de la Serie Bergman, con más de 5 millones de lectores.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408243335</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09128ZXQW</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Q44lEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Harapanda"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-01-25T19:39:51.790237+00:00"/>
+        <meta name="calibre:title_sort" content="Verano de lobos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

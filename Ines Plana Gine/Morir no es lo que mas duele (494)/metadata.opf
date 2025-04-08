@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">494</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0cf4e8ad-ded3-4c53-b16d-e3251b07c72f</dc:identifier>
+        <dc:title>Morir no es lo que más duele</dc:title>
+        <dc:creator opf:file-as="Giné, Inés Plana" opf:role="aut">Inés Plana Giné</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;span itemprop="description"&gt;Un hombre aparece ahorcado en un pinar a 
+las afueras de Madrid, con los ojos arrancados de cuajo. En uno de sus 
+bolsillos se halla un misterioso papel con el nombre y la dirección de 
+una mujer: Sara Azcárraga, que vive a pocos kilómetros del escenario del
+ crimen. Frágil, solitaria, bebedora de vodka en soledad, Sara rehúye 
+cualquier contacto con los humanos y trabaja
+&lt;br&gt;desde casa. El teniente de la Guardia Civil Julián Tresser se hace 
+cargo del caso, asistido por el joven cabo Coira, que se enfrenta por 
+vez primera a una investigación criminal, una investigación difícil, sin
+ apenas pistas, con demasiados enigmas. A medida que el teniente Tresser
+ avance en sus indagaciones, descubrirá unos hechos que darán un trágico
+ vuelco a su existencia y le conducirán a un viaje a los infiernos que 
+marcará su vida para siempre.
+&lt;br&gt;Extraordinario thriller en línea con las novelas que se 
+están vendiendo en la actualidad. Una trama hipnótica, elaborada 
+y encajada perfectamente como un puzle, unos personajes 
+logradísimos, con alma y de carne y hueso, y un ritmo que hace imposible
+ dejar de leer.&lt;/span&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B077QNTMHP</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Inés Plana Giné&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:01:56.008582+00:00"/>
+        <meta name="calibre:title_sort" content="Morir no es lo que más duele"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">420bef55-7e5d-4d23-bdbc-960b3d490cc1</dc:identifier>
+        <dc:title>A lomos del tigre</dc:title>
+        <dc:creator opf:file-as="Livaneli, Zülfü" opf:role="aut">Zülfü Livaneli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-11T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Esta novela es un vívido relato de la vida en el exilio del último gran sultán otomano, así como también una poderosa denuncia de las hipocresías de Occidente.&lt;br&gt;&lt;br&gt;Abdülhamid II gobernó el Imperio otomano durante 33 años, de 1876 a 1909, cuando fue depuesto tras la Revolución de los Jóvenes Turcos y enviado al exilio en Salónica. Ahora, más de un siglo después de aquella fatídica noche del 27 de abril, Zülfü Livaneli da vida a los fascinantes últimos días del sultán derrocado, que precipitaron el colapso del imperio.&lt;br&gt;&lt;br&gt;Basada en las memorias de Atıf Hüseyin Bey, médico personal de Abdülhamid y de su séquito en el exilio, esta vibrante novela histórica explora la naturaleza del poder al tiempo que traza un matizado retrato psicológico del hombre que supervisó reformas progresistas pero que llegó a ser conocido como el «Sultán Rojo» por las masacres de armenios durante su reinado.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-21T14:01:15.337476+00:00"/>
+        <meta name="calibre:title_sort" content="A lomos del tigre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

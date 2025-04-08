@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90f95c92-0567-4fd9-8462-1c89ed4b86a8</dc:identifier>
+        <dc:title>La Catedral</dc:title>
+        <dc:creator opf:file-as="Ibáñez, Vicente Blasco" opf:role="aut">Vicente Blasco Ibáñez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Toledo</dc:subject>
+        <dc:subject>(Spain)</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Catedral</dc:subject>
+        <dc:subject>de</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-06T12:21:16+00:00"/>
+        <meta name="calibre:title_sort" content="Catedral, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

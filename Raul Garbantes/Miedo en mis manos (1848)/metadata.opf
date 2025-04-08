@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1848</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89f618e7-f0bc-4f55-9460-ab9a9497188d</dc:identifier>
+        <dc:title>Miedo en mis manos</dc:title>
+        <dc:creator opf:file-as="Garbantes, Raúl" opf:role="aut">Raúl Garbantes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-15T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Es el primer día para Alexis Carter en el Departamento de Homicidios de Wichita. Siente que no encaja en ese lugar y ha decidido mantener ocultas sus capacidades de empatía que le ayudan a vislumbrar cosas que otros no pueden ver. La tristeza por haber perdido a su novio a menudo la asalta y sabe que para superarla debe dar con su asesino.&lt;/p&gt;
+&lt;p&gt;Su nuevo jefe, Jaydan Cooper le ha asignado como compañera a la veterana teniente Anne Ashton en el primer caso de su carrera como perfiladora: debe investigar el asesinato de una mujer sin identificación que ha sido abandonada en un descampado.&lt;/p&gt;
+&lt;p&gt;Sin embargo, el asesino continúa cobrando nuevas víctimas; todas son mujeres independientes y exitosas. Ni Alexis ni Anne cuentan con pistas sólidas porque el criminal es muy hábil borrando su rastro en los lugares donde abandona los cuerpos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09QPPVY4H</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Casos criminales complejos"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-09-02T14:12:35.228060+00:00"/>
+        <meta name="calibre:title_sort" content="Miedo en mis manos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

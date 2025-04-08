@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">416f27f8-f5bf-43bf-bd63-f1f589d459b5</dc:identifier>
+        <dc:title>Ana que fue pop</dc:title>
+        <dc:creator opf:file-as="Luján, Rafa" opf:role="aut">Rafa Luján</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Uri, un fotógrafo de bodas, gana un premio de fotografía con el retrato de Rosa, una enigmática mujer que lleva décadas escondida en un paisaje olvidado de la costa de Murcia. Cuando la imagen se vuelve viral, Rosa aparece ahogada. Uri sospecha que esta muerte no ha sido un accidente y que podría haber sido provocada por su foto. Movido por un sentimiento de culpa, decide investigar el pasado de Rosa para averiguar de qué se escondía. &lt;/p&gt;
+&lt;p&gt;Treinta años antes, en 1989, Ana sueña con ser actriz y tiene una vida feliz hasta que se ve envuelta en un terrible crimen. Un vecino ha sido asesinado y solo ella sabe que el culpable es su propio marido. Cuando el horror se instala en su matrimonio, Ana tendrá que escoger entre seguir soportando la violencia o escapar. Pero antes de hacerlo se le presenta la oportunidad de cumplir su sueño: actuar en el videoclip de un famoso grupo británico. &lt;/p&gt;
+&lt;p&gt;Ahora, treinta años más tarde, el videoclip se ha convertido en un icono pop de los 90. Y todo indica que aquella grabación está relacionada con la muerte de Rosa. Por tanto, Uri tendrá que averiguar qué pasó durante el rodaje para descubrir quién la ha matado.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>AdN Editorial Grupo Anaya</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410138735</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:06.101317+00:00"/>
+        <meta name="calibre:title_sort" content="Ana que fue pop"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

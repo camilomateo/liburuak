@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Comic</title>
+  <id>Calibre2opds:taglist:C:90</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_90_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Comic" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por C" />
+  <entry>
+    <title>Crisis (de ansiedad)</title>
+    <id>calibre:book:1200</id>
+    <updated>2024-02-05T06:03:56Z</updated>
+    <link href="../../Juanjo%20Saez/Crisis%20%28de%20ansiedad%29%20%281200%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juanjo%20Saez/Crisis%20%28de%20ansiedad%29%20%281200%29/Crisis%20%28de%20ansiedad%29%20-%20Juanjo%20Saez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="37 MB" />
+    <author>
+      <name>Juanjo Sáez</name>
+      <uri>../authors_0/authors_870_Page_1.xml</uri>
+    </author>
+    <published>2013-12-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Comic" />
+    <category term="Lang:es" />
+    <summary>Con Crisis (de ansiedad) vuelve el Juanjo Sáez más trasgresor y políticamente incorrecto. Derecho a la vivienda (de cartón), obreros «reformados» porque finalmente se han arrodillado, finales de túneles iluminados tenuemente por el brillo de los ojos...</summary>
+    <link href="../book_1/book_1200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dominga habla sola</title>
+    <id>calibre:book:1198</id>
+    <updated>2024-02-05T06:00:25Z</updated>
+    <link href="../../Elisabeth%20Justicia/Dominga%20habla%20sola%20%281198%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elisabeth%20Justicia/Dominga%20habla%20sola%20%281198%29/Dominga%20habla%20sola%20-%20Elisabeth%20Justicia.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Elisabeth Justicia</name>
+      <uri>../authors_0/authors_869_Page_1.xml</uri>
+    </author>
+    <published>2023-03-03T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>AGUILAR</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Humor" />
+    <category term="Comic" />
+    <category term="Lang:es" />
+    <summary>Dominga habla sola ¡y a veces hasta se da la razón! La anciana más tierna, gamberra y viral de las redes nos muestra su ingenio y su filosofía vital en este libro de viñetas y textos en el que recopila algunas de sus más conocidas escenas junto a otr...</summary>
+    <link href="../book_1/book_1198.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kamasutra</title>
+    <id>calibre:book:991</id>
+    <updated>2024-02-05T06:10:10Z</updated>
+    <link href="../../Milo%20Manara/Kamasutra%20%28991%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Milo%20Manara/Kamasutra%20%28991%29/Kamasutra%20-%20Milo%20Manara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="38 MB" />
+    <author>
+      <name>Milo Manara</name>
+      <uri>../authors_0/authors_735_Page_1.xml</uri>
+    </author>
+    <published>1997-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Librolandia</dcterms:publisher>
+    <category term="Erótico" />
+    <category term="Fantástico" />
+    <category term="Relato" />
+    <category term="Comic" />
+    <category term="Lang:es" />
+    <summary>El encuentro casual entre un misterioso Sikh conducirá a la fascinante Parva y a la maliciosa Lulú a una audaz aventura, la cual culminará en un misterioso templo de la India, en donde las dos protagonistas se iniciarán en el arte y la técnica erótic...</summary>
+    <link href="../book_0/book_991.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La mitología en cómic</title>
+    <id>calibre:book:1201</id>
+    <updated>2024-02-05T06:12:10Z</updated>
+    <link href="../../Sandrine%20Mirza/La%20mitologia%20en%20comic%20%281201%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sandrine%20Mirza/La%20mitologia%20en%20comic%20%281201%29/La%20mitologia%20en%20comic%20-%20Sandrine%20Mirza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="110 MB" />
+    <author>
+      <name>Sandrine Mirza</name>
+      <uri>../authors_0/authors_871_Page_1.xml</uri>
+    </author>
+    <published>2023-03-17T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Anaya</dcterms:publisher>
+    <category term="Comic" />
+    <category term="Lang:es" />
+    <summary>¡Todos los episodios esenciales de la mitología en cómic!Desde el nacimiento del mundo hasta la fundación de Roma, pasando por los mitos más emblemáticos, como los Doce Trabajos de Heracles, Jasón y el Vellocino de Oro, la Guerra de Troya... y protag...</summary>
+    <link href="../book_1/book_1201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No se admiten devoluciones</title>
+    <id>calibre:book:1055</id>
+    <updated>2023-11-01T07:27:33Z</updated>
+    <link href="../../Rene%20Merino/No%20se%20admiten%20devoluciones%20%281055%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rene%20Merino/No%20se%20admiten%20devoluciones%20%281055%29/No%20se%20admiten%20devoluciones%20-%20Rene%20Merino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="36 MB" />
+    <author>
+      <name>René Merino</name>
+      <uri>../authors_0/authors_9_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Comic" />
+    <category term="Lang:es" />
+    <summary>Un entrañable testimonio en clave de humor que desmonta mitos sobre la paternidad.Ser padre conlleva retos y situaciones para las que, en muchos casos, no nos sentimos preparados. Con una sinceridad sin ambages y el humor ácido y tierno que lo carac...</summary>
+    <link href="../book_1/book_1055.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Todo saldrá bien... a veces</title>
+    <id>calibre:book:11</id>
+    <updated>2024-02-05T06:06:52Z</updated>
+    <link href="../../Rene%20Merino/Todo%20saldra%20bien_.%20a%20veces%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rene%20Merino/Todo%20saldra%20bien_.%20a%20veces%20%2811%29/Todo%20saldra%20bien_.%20a%20veces%20-%20Rene%20Merino.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="17 MB" />
+    <author>
+      <name>René Merino</name>
+      <uri>../authors_0/authors_9_Page_1.xml</uri>
+    </author>
+    <published>2022-07-25T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Comic" />
+    <category term="Lang:es" />
+    <summary>Con la sensibilidad y lucidez tan propias de su lenguaje, René Merino decide compartir su historia personal lidiando con la ansiedad y los problemas de salud mental. Tras una época de angustia desencadenada por la pérdida de trabajo, el autor entra ...</summary>
+    <link href="../book_0/book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

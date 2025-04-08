@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48104f77-1071-431a-86aa-5fa3c7d7e61d</dc:identifier>
+        <dc:title>Inocencia mortal</dc:title>
+        <dc:creator opf:file-as="Amphlett, Rachel" opf:role="aut">Rachel Amphlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sophie Whittaker compartió un aterrador secreto. Horas después, estaba muerta.&lt;br&gt;&lt;br&gt;La detective Kay Hunter y sus colegas quedan conmocionados por el brutal asesinato de una adolescente durante una fiesta privada en el campo de Kent.&lt;br&gt;&lt;br&gt;Una maraña de oscuros secretos queda al descubierto mientras motivos retorcidos apuntan a una historia de avaricia y corrupción dentro de la pequeña comunidad.&lt;br&gt;&lt;br&gt;Confrontada por un creciente número de sospechosos y enemigos que traman una venganza en su contra, Kay hace un descubrimiento impactante que la llevará a cuestionar en quién puede confiar.&lt;br&gt;&lt;br&gt;Inocencia mortal es un fascinante misterio de asesinato, el tercero de la serie Detective Kay Hunter.&lt;br&gt;&lt;br&gt;Los misterios de la detective Kay Hunter:&lt;br&gt;&lt;br&gt;1. Morir de miedo&lt;br&gt;2. Voluntad de vivir&lt;br&gt;3. Inocencia mortal&lt;br&gt;4. Deuda en el infierno&lt;br&gt;5. Un secreto custodiado&lt;br&gt;6. Los últimos restos&lt;br&gt;7. Huesos en silencio&lt;br&gt;8. Hasta la tumba&lt;br&gt;9. Sin salida&lt;br&gt;10. El lugar más oscuro&lt;br&gt;11. Un engaño letal&lt;br&gt;12. La temporada de la muerte&lt;br&gt;13. Una promesa mortal&lt;br&gt;14. Un silencio fatal &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Saxon Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781917166249</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Los misterios de la detective Kay Hunter"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-03-06T16:54:50+00:00"/>
+        <meta name="calibre:title_sort" content="Inocencia mortal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

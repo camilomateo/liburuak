@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3179</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab1693b0-5ffe-4a81-8191-f3ccfdea0032</dc:identifier>
+        <dc:title>Ejércitos de la oscuridad</dc:title>
+        <dc:creator opf:file-as="Ocampo, Silvina" opf:role="aut">Silvina Ocampo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-06T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ejércitos de la oscuridad es el libro más personal y acaso el más secreto de Silvina Ocampo. En él se mezclan argumentos para cuentos, epigramas, relatos de sueños, recuerdos de infancia. Su diversidad, sin embargo, no atenta contra su imperturbable armonía. Escrito entre mayo de 1969 y enero de 1970, en un cuaderno regalado por Alejandra Pizarnik, permaneció inédito en vida de su autora, que lo guardó celosamente durante años ("Soy como los animales -decía-, escondo lo que más me gusta"). La presente edición se completa con "Inscripciones en la arena" y con "Epigramas" -dos series compuestas entre 1950 y 1962 la primera, y entre 1980 y 1987 la segunda-, a los que se suman las "Analectas", una selección de reflexiones y de proyectos encontrados entre sus papeles. Textos afines todos, reveladores de esa perfecta complicidad de magia y sabiduría, de imaginación e inteligencia presente en cada línea escrita por Silvina Ocampo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-23T19:31:38.497628+00:00"/>
+        <meta name="calibre:title_sort" content="Ejércitos de la oscuridad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

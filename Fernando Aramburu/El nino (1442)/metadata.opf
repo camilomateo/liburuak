@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8061681f-5c0f-4eb5-987d-125dc4c129ad</dc:identifier>
+        <dc:title>El niño</dc:title>
+        <dc:creator opf:file-as="Fernando Aramburu" opf:role="aut">Fernando Aramburu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-03T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;Un accidente real en el País Vasco de los años ochenta, la vida devastada de una familia. Una historia emocionante, adictiva y conmovedora, como solo Aramburu sabe contar.&lt;/p&gt;
+&lt;p align="justify"&gt;Nicasio, ya jubilado, acostumbra a subir los jueves al cementerio de Ortuella a visitar la tumba de su nieto. Es uno de los muchos niños fallecidos tras una explosión de gas en un colegio de aquella localidad, un accidente que sacudió al País Vasco y a toda España en 1980. Por las andanzas del abuelo, una figura que se agranda hasta hacerse inolvidable, por el testimonio de la madre muchos años después, por la crónica objetiva de lo que le ocurrió a la familia, descubriremos cómo aquella tragedia lacerante y devastadora les alteró, cómo sacó a relucir aspectos inesperados, cómo trastocó sus vidas. Con la maestría habitual de Aramburu, el lector se verá inmerso en una historia de emociones inesperadas, una exploración psicológica y literaria con afilado bisturí que nos mantiene pegados al devenir de los destinos de los protagonistas. Una novela que alberga una densidad emocional tan alta que exige una lectura atenta, hasta la última línea, para entender, comprender, emocionarnos con el destino de sus protagonistas. &lt;/p&gt;
+&lt;p align="justify"&gt;Nueva entrega del extraordinario friso de «Gentes Vascas», &lt;em&gt;El niño&lt;/em&gt; es una historia desgarradora, inolvidable, un prodigio literario del mejor Aramburu. Por el tratamiento humanísimo de los protagonistas, y por los recursos literarios empleados, &lt;em&gt;El niño&lt;/em&gt; vuelve a ser una novela memorable, llamada a convertirse en acontecimiento literario.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411074636</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">206706803</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5pj0EAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0CVLK4X9J</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-20T15:25:36.334423+00:00"/>
+        <meta name="calibre:title_sort" content="El niño"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">942a537a-4e4a-4f3a-94e0-6b7c02989566</dc:identifier>
+        <dc:title>Lugares oscuros</dc:title>
+        <dc:creator opf:file-as="Gillian Flynn" opf:role="aut">Gillian Flynn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-10T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Una historia addictiva y formidablemente escrita que, a través del misterio, indaga en el papel de la memoria y nos adentra en los sentimientos más crudos del ser humano. Un thriller como solo Gillian Flynn, la autora de Perdida, sabe hacerlo. Libby Day tenía siete años cuando su madre y sus dos hermanas fueron víctimas de lo que los medios llamaron la masacre de la granja de Kinnakee, Kansas. Ella salvó la vida y testificó contra su hermano Ben, a quien señaló como el culpable. Veinticinco años después, el Kill Club -una sociedad secreta obsesionada con crímenes célebres- localiza a una Libby en franca decadencia y pretende que les ayude a escarbar en los cabos sueltos de aquella noche, quizá en busca de alguna prueba que absuelva a Ben. Ella aceptará remover el pasado y volver a contactar con personas a las que deseó olvidar, siempre y cuando reciba a cambio algún tipo de honorario. Lo que Libby no sabe es que una verdad inimaginable saldrá a flote y la pondrá de nuevo en aquella misma situación: huyendo de la muerte en una carrera desquiciada. Reseñas:«Con su aterrador debut, Heridas abiertas, Gillian Flynn hizo saltar todas las alarmas. Lugares oscuros es la confirmación de que no era ninguna broma.»Val McDermid «Gillian Flynn es de lo mejorcito, una narradora aguda, mordaz e irresistible con talento para lo macabro.»Stephen King «La escritura de Gillian Flynn es tremendamente buena. La leería a ella antes que a cualquier otro escritor de novela negra.»Kate Atkinson «Lugares oscuros te atrapa desde la primera página, y no te suelta.»Karin Slaugther «Perturbadora y original.»New York Magazine «La amarás o la detestarás, pero no podrás olvidar fácilmente a Libby Day. [...] Un thriller que te mantiene en una tensión continua.»New York Times Book Review «La segunda novela de Flynn es una maravillosa evocación de la monótona vida pueblerina. El recurso narrativo de la ruptura temporal funciona magníficamente bien y el ambiente es espeluznantemente macabro.»The Guardian&lt;/p&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788416195794</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01AIRXNTY</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-30T17:17:56.784343+00:00"/>
+        <meta name="calibre:title_sort" content="Lugares oscuros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

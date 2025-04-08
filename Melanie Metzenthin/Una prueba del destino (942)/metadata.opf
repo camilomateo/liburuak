@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">942</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cd7b03d-11bd-42a7-8e99-a84f8a2a33d2</dc:identifier>
+        <dc:title>Una prueba del destino</dc:title>
+        <dc:creator opf:file-as="Metzenthin, Melanie" opf:role="aut">Melanie Metzenthin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-07-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Hamburgo, 1913. La enfermera Martha tiene tres hijos maravillosos junto a su gran amor, Paul, un bonito apartamento e incluso una invitación a Estados Unidos para visitar a su amiga Milli. Pero el estallido de la Primera Guerra Mundial impacta también en la ciudad, y los sueños de futuro de Martha se hacen añicos. A pesar de tener cuarenta y un años, Paul es reclutado y Martha tiene que encargarse sola de la supervivencia de su familia en ese período tan difícil. Cuando Paul regresa con graves heridas después de un ataque enemigo, su matrimonio se ve expuesto a una dura prueba.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419638267</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="La enfermera del puerto"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-07-14T07:48:34.492351+00:00"/>
+        <meta name="calibre:title_sort" content="prueba del destino, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">602</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd06908c-5a86-4f21-a0f1-0829d6b764a1</dc:identifier>
+        <dc:title>Furia</dc:title>
+        <dc:creator opf:file-as="Wolff, Tracy" opf:role="aut">Tracy Wolff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-16T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif" size="4"&gt;«He vuelto al Instituto Katmere, pero me siento extraña, me atormentan cosas que no recuerdo haber vivido, y sigo luchando por comprender quién o qué soy realmente. Cuando empiezo a sentirme segura de nuevo, Hudson reaparece con sus ideas de venganza, insiste en que hay secretos que no conozco, secretos que pueden abrir una brecha entre Jaxon y yo para siempre. Pero enemigos mucho peores nos están esperando…»&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif" size="4"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif" size="4"&gt;«Con el Círculo atrapado en una jugada de poder y la Corte de Vampiros tratando de arrastrarme hacia su mundo, lo único que todos tenemos claro es dejar Katmere significaría mi muerte segura. Tengo que luchar, no solo por mi vida, sino por la de todos. Solo sé que salvar a las personas que amo requerirá sacrificio. Quizás más de lo que puedo dar.»&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Crave"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-05-02T11:40:22.827384+00:00"/>
+        <meta name="calibre:title_sort" content="Furia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

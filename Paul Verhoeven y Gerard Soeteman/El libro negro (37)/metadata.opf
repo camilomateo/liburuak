@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b33486d-31b6-4401-96e8-751b13de1971</dc:identifier>
+        <dc:title>El libro negro</dc:title>
+        <dc:creator opf:file-as="Paul Verhoeven &amp; Gerard Soeteman" opf:role="aut">Paul Verhoeven y Gerard Soeteman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ambientada en La Haya a finales de la Segunda Guerra Mundial El libro negro tiene como protagonista a Rachel, una joven judía perseguida por el régimen nazi cuya única posibilidad de salvación es colaborar con ellos ejerciendo de espía. Ya introducida en la organización, Rachel empieza a trabajar bajo la supervisión de un oficial alemán del cual se enamorará sin remedio y descubrirá que el asesinato de sus padres no fue un accidente casual como creía y otras verdades difíciles de aceptar, una de ellas tan dura como que tanto los nazis como los ejércitos aliados se aprovecharon de la exterminación de los judíos.
+Pero, ¿en quién puede confiar? ¿cómo conseguirá Rachel llegara distinguir la verdad de la mentira? La clave del misterio se encuentra en el libro negro, vigilado con celosía por el guardián de registros y libros judío de La Haya. Las páginas de este cuaderno reflejan cuánto dinero se dio a los judíos (que posteriormente les fue robado) pero también quién del ejército de la Resistencia recibía comisiones por estas 'fugas' de dinero que les conducía irremediablemente a la muerte. Bajo un cielo bombardeado y con la ayuda de su amante, el oficial alemán, Rachel está dispuesta a todo para encontrar la verdad.</dc:description>
+        <dc:publisher>El Aleph Editores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788476697733</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Verhoeven y Gerard Soeteman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:22:20.086734+00:00"/>
+        <meta name="calibre:title_sort" content="libro negro, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

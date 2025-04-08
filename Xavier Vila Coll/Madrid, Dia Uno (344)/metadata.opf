@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">880544bd-08d1-44cb-ab57-b0ced07bd55d</dc:identifier>
+        <dc:title>Madrid, Día Uno</dc:title>
+        <dc:creator opf:file-as="Xavier Vila Coll" opf:role="aut">Xavier Vila Coll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Madrid. Año 2019. Ante la atónita mirada del ejército, un terrible brote de una enfermedad desconocida hasta la fecha desata un caos sin precedentes. En apenas unas horas, la capital es tomada por una ingente cantidad de bestias hambrientas que devoran a todo aquel que se cruza en su camino. En esta historia coral, nada es lo que parece y los protagonistas, poco tienen que ver con los héroes típicos de los libros apocalípticos. ¿Te atreves a descubrir qué es el Claus 1/256 y el apocalipsis que es capaz de desatar?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B088PC2PPG</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Xavier Vila Coll&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-21T12:24:59.204830+00:00"/>
+        <meta name="calibre:title_sort" content="Madrid, Día Uno"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

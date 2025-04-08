@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2969</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f439a92e-fa47-4859-9c58-8b05f87ae9b6</dc:identifier>
+        <dc:title>Los alegres muchachos de Atzavara</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Atzavara es un pueblecito de montaña cerca de la costa de Tarragona. Paulatinamente abandonado por sus habitantes originales, ha sido tomando por gentes de la ciudad que, transformando las casas semiderruidas en mansiones espléndidas, pretenden convertirlo en su paraíso estival. En el verano de 1974 se reúne allí un grupo heterogéneo. Son profesionales con una posición consolidada, entre los que no faltan los matrimonios liberados y los homosexuales. Procedente de otro ámbito social, se les suma un joven que pretende servirse de ellos para mejorar su posición.&lt;/p&gt;
+&lt;p&gt;A través de un relato dividido en cuatro voces distintas, &lt;i&gt;Los alegres muchachos de Atzavara&lt;/i&gt; describe magistralmente una época marcada por el fin de la represión social y sexual, detallando las características, los prejuicios y las contradicciones de una burguesía acomodada y moderna que se resiste a olvidar sus sueños de juventud.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">69329</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:16.205017+00:00"/>
+        <meta name="calibre:title_sort" content="alegres muchachos de Atzavara, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

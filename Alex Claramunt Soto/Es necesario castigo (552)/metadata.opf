@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">552</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c42149fd-c5cf-48d7-ae57-c538a1db8ebe</dc:identifier>
+        <dc:title>Es necesario castigo</dc:title>
+        <dc:creator opf:file-as="Àlex Claramunt Soto" opf:role="aut">Àlex Claramunt Soto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; Cuando Felipe II encomendó en 1567 el gobierno de los Países Bajos a &lt;span class="a-text-bold"&gt;Fernando Álvarez de Toledo, III duque de Alba&lt;/span&gt;,
+ el experimentado militar, de sesenta años de edad, se puso en camino 
+hacia Bruselas con un cometido claro: castigar a los rebeldes que se 
+habían alzado contra el rey el año anterior, perseguir la herejía 
+protestante y modernizar las finanzas del país. Alba tuvo que bregar con
+ burgomaestres y abades díscolos, con una población que observaba con 
+temor a los soldados españoles veteranos llegados con el duque, y con 
+las incursiones de los mendigos del mar, piratas empleados por Guillermo
+ de Orange, el principal líder de los rebeldes huidos al extranjero. El 
+descontento de la población ante las políticas defensivas y fiscales de 
+Alba se agravó por una serie de catástrofes naturales en forma de 
+inundaciones y malas cosechas, y desembocó en 1572 en una revuelta 
+masiva desencadenada por la conquista de la ciudad holandesa de Briel el
+ 1 de abril de aquel año por los mendigos del mar. La rebelión se 
+extendió con rapidez de norte a sur de los Países Bajos y enfrentó a 
+Alba al mayor desafío con el que se había topado hasta ese momento. Fue 
+este el &lt;span class="a-text-bold"&gt;verdadero inicio de la Guerra de Flandes&lt;/span&gt;.
+ A la postre, aunque el duque logró derrotar a Guillermo de Orange en 
+las provincias del sur, y aunque en una ardua campaña recuperó mucho del
+ terreno perdido merced a la veteranía de &lt;span class="a-text-bold"&gt;los tercios españoles&lt;/span&gt;,
+ incluida la estratégica ciudad de Haarlem tras un épico asedio de ocho 
+meses, el ejército real no logró imponerse a los rebeldes, que lograron 
+asentar en las provincias de Holanda y Zelanda una administración 
+política y militar que propició el surgimiento, unos años después, de 
+las Provincias Unidas de los Países Bajos.  &lt;/div&gt;</dc:description>
+        <dc:publisher>Desperta Ferro Ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-11T07:33:22+00:00"/>
+        <meta name="calibre:title_sort" content="Es necesario castigo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

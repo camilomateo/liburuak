@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por I</title>
+  <id>Calibre2opds:taglist:N:1:I</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_1_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por I" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por N" />
+  <link href="./tags_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Novela" />
+  <entry>
+    <title>Irène</title>
+    <id>calibre:book:668</id>
+    <updated>2023-05-15T05:51:22Z</updated>
+    <link href="../../Pierre%20Lemaitre/Irene%20%28668%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Lemaitre/Irene%20%28668%29/Irene%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="524 KB" />
+    <author>
+      <name>Pierre Lemaitre</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2006-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Camille Verhoeven" />
+    <summary>Camille Verhoeven [1]: El comandante Camille Verhoeven vive la vida perfecta: está casado con la maravillosa Irène, con la que espera su primer hijo. Pero su felicidad se resquebraja tras un asesinato inusualmente salvaje. Desde que la noticia se hac...</summary>
+    <link href="../book_0/book_668.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El inductor</title>
+    <id>calibre:book:2622</id>
+    <updated>2024-09-20T02:10:30Z</updated>
+    <link href="../../Lee%20Child/El%20inductor%20%282622%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lee%20Child/El%20inductor%20%282622%29/El%20inductor%20-%20Lee%20Child.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="379 KB" />
+    <author>
+      <name>Lee Child</name>
+      <uri>../authors_0/authors_224_Page_1.xml</uri>
+    </author>
+    <published>2003-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Jack Reacher" />
+    <summary>Jack Reacher [7]: Clandestino: sin duda la situación más solitaria y vulnerable para trabajar. Sin embargo, Jack Reacher está dispuesto a actuar en esas condiciones cuando un equipo extraoficial de la DEA le propone una misión de alto riesgo. Reputad...</summary>
+    <link href="../book_2/book_2622.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los inocentes</title>
+    <id>calibre:book:328</id>
+    <updated>2023-02-16T07:13:44Z</updated>
+    <link href="../../David%20Baldacci/Los%20inocentes%20%28328%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Baldacci/Los%20inocentes%20%28328%29/Los%20inocentes%20-%20David%20Baldacci.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="521 KB" />
+    <author>
+      <name>David Baldacci</name>
+      <uri>../authors_0/authors_231_Page_1.xml</uri>
+    </author>
+    <published>2012-04-17T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Will Robie" />
+    <summary>Will Robie [1]: Estados Unidos tiene enemigos, algunos de ellos personas sin escrúpulos a quienes no pueden detener ni la policía ni el FBI ni el ejército siquiera. En esos casos, el gobierno recurre a Will Robie, un sicario frío e implacable que nun...</summary>
+    <link href="../book_0/book_328.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La isla de las tormentas</title>
+    <id>calibre:book:572</id>
+    <updated>2023-05-04T10:57:38Z</updated>
+    <link href="../../Ken%20Follett/La%20isla%20de%20las%20tormentas%20%28572%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ken%20Follett/La%20isla%20de%20las%20tormentas%20%28572%29/La%20isla%20de%20las%20tormentas%20-%20Ken%20Follett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="542 KB" />
+    <author>
+      <name>Ken Follett</name>
+      <uri>../authors_0/authors_425_Page_1.xml</uri>
+    </author>
+    <published>1978-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Bélico" />
+    <category term="Lang:es" />
+    <summary>En su argumento, Follet nos habla de la “Operación Fortaleza”, trama de engaño que los aliados llevaron a cabo con el fin de que las fuerzas alemanas dieran por hecho la agrupación de un supuesto ejército en el sur de la costa inglesa, e interpretara...</summary>
+    <link href="../book_0/book_572.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por Q</title>
+  <id>Calibre2opds:taglist:A:38:Q</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_38_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por Q" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por A" />
+  <link href="./tags_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autoayuda" />
+  <entry>
+    <title>Querida yo : tenemos que hablar : conócete y sé feliz contigo</title>
+    <id>calibre:book:2678</id>
+    <updated>2024-10-22T08:08:34Z</updated>
+    <link href="../../Elizabeth%20Clapes/Querida%20yo%20_%20tenemos%20que%20hablar%20_%20c%20%282678%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elizabeth%20Clapes/Querida%20yo%20_%20tenemos%20que%20hablar%20_%20c%20%282678%29/Querida%20yo%20_%20tenemos%20que%20hablar%20-%20Elizabeth%20Clapes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="837 KB" />
+    <author>
+      <name>Elizabeth Clapés</name>
+      <uri>../authors_0/authors_542_Page_1.xml</uri>
+    </author>
+    <published>2022-02-02T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Antes, cuando escuchaba hablar sobre la importancia de «conocerse a una misma», no lo entendía. Cuando llevas treinta años viviendo contigo, ¿se puede saber qué es lo que te falta por conocer? ¿De verdad hay algo que puede pillarte por sorpresa?
+
+   ...</summary>
+    <link href="../book_2/book_2678.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

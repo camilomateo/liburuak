@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3042</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cae99de-9da5-4f62-a0e1-ddbc6a76bcb5</dc:identifier>
+        <dc:title>Los propios dioses</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1971-12-31T23:00:00+00:00</dc:date>
+        <dc:description>El futuro. En un universo paralelo, con leyes físicas ligeramente distintas a las nuestras, sus habitantes descubren la forma de intercambiar materia con nosotros. Materia que, una vez en el universo de destino, y merced a las diferencias físicas entre ambos, comienza a desprender energía de forma espontánea. Una vez consumida la capacidad energética del material puede volver a ser intercambiado, para recomenzar el ciclo. ¿Qué podríamos hacer con un suministro de energía gratuita e inagotable?</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:series" content="Solaris ficción"/>
+        <meta name="calibre:series_index" content="65"/>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:57.621132+00:00"/>
+        <meta name="calibre:title_sort" content="propios dioses, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

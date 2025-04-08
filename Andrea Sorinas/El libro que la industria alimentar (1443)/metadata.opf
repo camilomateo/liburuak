@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">431bf853-9c99-481b-860e-3eaf7fd5b318</dc:identifier>
+        <dc:title>El libro que la industria alimentaria no quiere que leas</dc:title>
+        <dc:creator opf:file-as="Sorinas, Andrea" opf:role="aut">Andrea Sorinas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-13T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;La guía definitiva para aprender a comer de forma saludable y mantener la motivación a lo largo del tiempo. &lt;/p&gt;
+&lt;p align="justify"&gt;¿Cuántas veces te has propuesto comer sano y has tirado la toalla? Muchas, ¿verdad? No me extraña. Entre el bombardeo de información que cada día ves en redes, la industria alimentaria engatusándote con etiquetas ambiguas y eufemismos, y tu falta de motivación, pues apaga y vámonos. &lt;/p&gt;
+&lt;p align="justify"&gt;Andrea Sorinas te dará en este libro soluciones sencillas, prácticas, y muy fáciles de entender, a problemas difíciles. Aquí aprenderás, en primer lugar, a comprar bien. Y es que, te voy a decir un si compras bien, comes bien. &lt;/p&gt;
+&lt;p align="justify"&gt;Este es el libro que la industria alimentaria no querría que comprases. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libros Cúpula</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">qTr2EAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788448040956</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0CVZKQ351</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">208886019</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Nutrition</dc:subject>
+        <meta name="calibre:timestamp" content="2024-04-20T15:25:36.568796+00:00"/>
+        <meta name="calibre:title_sort" content="libro que la industria alimentaria no quiere que leas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

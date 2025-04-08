@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Erotico</title>
+  <id>Calibre2opds:taglist:E:33</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Erotico" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por E" />
+  <entry>
+    <title>Demasiados bombones para el embajador</title>
+    <id>calibre:book:196</id>
+    <updated>2023-01-26T07:16:22Z</updated>
+    <link href="../../Lara%20Smirnov/Demasiados%20bombones%20para%20el%20embajad%20%28196%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lara%20Smirnov/Demasiados%20bombones%20para%20el%20embajad%20%28196%29/Demasiados%20bombones%20para%20el%20emb%20-%20Lara%20Smirnov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="684 KB" />
+    <author>
+      <name>Lara Smirnov</name>
+      <uri>../authors_0/authors_123_Page_1.xml</uri>
+    </author>
+    <published>2019-01-29T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zafiro eBooks</dcterms:publisher>
+    <category term="Romance" />
+    <category term="Erotico" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <summary>Título: Demasiados bombones para el embajador Autor: Lara Smirnov Formato: EPUB Etiqueta: Novela Romántica, Erótica, Humor Alejandro de la Encina y del Roble, excelentísimo embajador de España en Japón, siente que ha encontrado por fin a su alma geme...</summary>
+    <link href="../book_0/book_196.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

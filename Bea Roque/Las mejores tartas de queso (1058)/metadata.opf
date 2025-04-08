@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1058</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1f767e4-147a-47d0-9654-b934d6332d47</dc:identifier>
+        <dc:title>Las mejores tartas de queso</dc:title>
+        <dc:creator opf:file-as="Bea Roque" opf:role="aut">Bea Roque</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-29T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Cuando sabes que podrías sobrevivir solo con queso, pan y vino, y además tu postre favorito son las tartas de queso, no os extrañará que os diga que lloré de la emoción cuando me propusieron hacer este libro. Comencé inmediatamente a hacer un índice mental de todas esas recetas que quería incluir, y lamentablemente eran demasiadas porque solo me habían ofrecido escribir un libro, no una trilogía. Y es que las posibilidades de las tartas de queso son infinitas: con o sin horno, con o sin base, densas o ligeras, más o menos cuajadas, con o sin mermelada, dulces o semi saladas y cada una de ellas se merece un libro entero. Hace unos años la tarta de queso del restaurante La Viña en San Sebastián se hizo popular como la mejor tarta de queso de España (y cuya receta también encontrarás aquí dentro), y de ahí se hizo mundialmente conocida como la Basque Burnt Cheesecake y ha sido elegida por el New York Times como el sabor del año 2021. Realmente las tartas de queso han sufrido un boom en los últimos años. Y en este libro hay algo para todos: desde los cheesecakes clásicos que admiten cualquier sabor y combinación hasta las recetas de tartas de queso de toda la vida, versiones individuales o tartas de queso sin horno, o una vuelta al mundo con las versiones más interesantes de cada país, cheesecake, käsekuchen, gâteau au fromage... y también las nuevas de autor, cada una con su toque diferente y atrevido dependiendo de las mezclas de queso con versiones cremosas, tipo coulant de interiores casi líquidos. Ya seas quesero o dulcero, aquí encontrarás seguro tu tarta de queso.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cúpula</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B09FY8B3KW</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788448028930</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Y21CEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Gastronomía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-11-01T18:27:34.261629+00:00"/>
+        <meta name="calibre:title_sort" content="mejores tartas de queso, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

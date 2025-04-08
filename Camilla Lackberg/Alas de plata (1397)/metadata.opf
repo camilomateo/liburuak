@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1397</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c9de3da-b4ae-4585-80a9-aa911e7db477</dc:identifier>
+        <dc:title>Alas de plata</dc:title>
+        <dc:creator opf:file-as="Läckberg, Camilla" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-13T11:04:18+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Faye lleva una nueva vida en un pueblo de Italia. Su compañía 
+Revenge va viento en popa y su exmarido está en la cárcel. Pero 
+justo cuando piensa que todo ha vuelto a la normalidad, su 
+pequeña burbuja de felicidad se ve de nuevo amenazada al descubrir 
+que alguien intenta arruinar el sueño por el que tanto ha luchado. Los 
+fantasmas del pasado todavía parecen estar muy cerca y dispuestos a 
+arrebatarle todo lo que es suyo. Faye tiene que regresar a Estocolmo 
+para salvar lo que más quiere. También hace una escapada a Madrid, un 
+guiño a los lectores de nuestro país, que la autora adora. 
+
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Maeva Ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-08T12:39:41.419264+00:00"/>
+        <meta name="calibre:title_sort" content="Alas de plata"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">75</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b52acb78-5e1c-4aac-aa16-3971526fcd4b</dc:identifier>
+        <dc:title>El Extraño Caso de Conrad Jones</dc:title>
+        <dc:creator opf:file-as="Rhode, Alexander" opf:role="aut">Alexander Rhode</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-07T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Conrad Jones es un escritor de éxito que acaba de despertar tras 
+siete años en coma. El problema llega cuando descubre que está acusado 
+de haber asesinado en el pasado a cuatro a niños, de ser el responsable 
+de los crímenes del apodado por la prensa Hombre del Saco.&lt;br&gt;En una 
+carrera contrarreloj por descubrir la verdad deberá enfrentarse a sus 
+demonios internos, a su auge y a su caída como el mejor escritor de 
+novela negra de su generación y todas las personas que lo rodean y que 
+insisten en acusarlo de semejantes crímenes, incluida su mujer y sus 
+hijos.&lt;br&gt;&lt;br&gt;BIENVENIDOS A LA NOVELA POLICIACA MÁS INQUIETANTE Y ORIGINAL DE LA TEMPORADA&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0BHPCHKTF</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Rhode&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:02:42.950743+00:00"/>
+        <meta name="calibre:title_sort" content="Extraño Caso de Conrad Jones, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">569</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75f8e1c7-6752-40b4-8901-3e18c96141e3</dc:identifier>
+        <dc:title>La novia del obispo</dc:title>
+        <dc:creator opf:file-as="Tusquets, Eugenia &amp; Iriarte, Marga" opf:role="aut">Eugenia Tusquets</dc:creator>
+        <dc:creator opf:file-as="Tusquets, Eugenia &amp; Iriarte, Marga" opf:role="aut">Marga Iriarte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un cadáver que parece el producto de un asesinato ritual, una periodista en busca de una exclusiva y una policía que ni se imagina el peligro que corren al investigar. Barcelona, 2021. Judit no busca otra cosa en su profesión que hallar la exclusiva que la lance al estrellato y le permita medrar en la redacción del periódico donde trabaja. Esa oportunidad se presenta cuando su amiga Nora, policía, recibe el encargo de investigar el asesinato del obispo de Sant Ciprià, cuyo cadáver ha aparecido con la espada de San Miguel clavada en el pecho y una inscripción que reza: «Y si yo por Belcebú echo fuera los demonios, ¿por quién los echan vuestros hijos?». Todo es muy extraño, pero lleva a pensar en algo: el obispo era uno de los mejores exorcistas de la ciudad. Y algo que nadie sabía… Tenía una amante. Las pruebas apuntan en tantas direcciones que no será un caso fácil de resolver ni tampoco lo será… sobrevivir a la investigación.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libros de Seda</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419386342</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-23T20:13:44.051800+00:00"/>
+        <meta name="calibre:title_sort" content="novia del obispo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

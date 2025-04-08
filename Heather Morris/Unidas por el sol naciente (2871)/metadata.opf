@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2871</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49dad882-c09f-4034-9c21-f6aa703bfa52</dc:identifier>
+        <dc:title>Unidas por el sol naciente</dc:title>
+        <dc:creator opf:file-as="Morris, Heather" opf:role="aut">Heather Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-09T14:02:14+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El 14 de febrero de 1942, el Vyner Brooke, un barco mercante que transportaba a un grupo desesperado de expatriados que huían de Singapur fue hundido por bombarderos japoneses. Aunque muchos de los pasajeros se ahogaron de inmediato, Nesta, enfermera australiana y Norah sobrevivieron milagrosamente pero fueron tomadas como prisioneras de guerra y trasladadas a campos. &lt;/p&gt;
+&lt;p&gt;Durante casi cuatro años, junto con cientos de mujeres y niños, lucharon por sobrevivir, contra enfermedades, el hambre y la brutalidad impensable infligida por los soldados japoneses y consiguieron encontrar, en sí mismas y juntas, un coraje e ingenio extraordinarios.&lt;/p&gt;
+&lt;p&gt;Esta es una historia de hermandad: los lazos inquebrantables que las mujeres forjan frente a la adversidad. Una historia de cómo las mujeres de todo el mundo pelearon y ganaron la Segunda Guerra Mundial, de diferentes maneras, tanto como lo hicieron los hombres.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-02T12:10:17.713449+00:00"/>
+        <meta name="calibre:title_sort" content="Unidas por el sol naciente"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

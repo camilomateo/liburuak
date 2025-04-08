@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1769</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf534294-beef-482d-b064-df9dea773233</dc:identifier>
+        <dc:title>Al sur de la razón</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-16T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Una obra inédita, 101 reflexiones y 101 ilustraciones de J. J. Benítez.&lt;/p&gt;
+&lt;p&gt;Cuando los lectores de J. J. Benítez suponían que el escritor navarro lo había dicho todo (más de sesenta libros publicados), aparece Al sur de la razón. Imposible definirlo, ni adelantar su contenido. ¿Es lo que sabía Benítez y nunca se atrevió a publicar? Nunca lo sabremos… Ni siquiera el final es lo que parece. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408152064</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:10+00:00"/>
+        <meta name="calibre:title_sort" content="Al sur de la razón"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

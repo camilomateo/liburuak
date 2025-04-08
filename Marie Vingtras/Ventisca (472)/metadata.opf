@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">472</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c65d4b9c-5fd9-4ab8-a2c3-3ee2a9b02198</dc:identifier>
+        <dc:title>Ventisca</dc:title>
+        <dc:creator opf:file-as="Marie Vingtras" opf:role="aut">Marie Vingtras</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-20T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La tormenta de nieve está causando estragos en Alaska. En el corazón de la tormenta, un niño desaparece. Solo tomó unos segundos, el tiempo para volver a atarse los cordones de los zapatos, para que Bess soltara la mano del niño y lo perdiera de vista. Ella sale a buscarlo, seguida de cerca por los pocos habitantes de este extremo del mundo. Comienza entonces una frenética carrera contra la muerte, donde se revela el destino de cada uno frente a los elementos. Con esta mirada en el corazón de la naturaleza, Marie Vingtras, con una escritura incisiva, se centra en la intimidad de sus personajes y, con delicadeza, revela los tormentos de sus almas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Nórdica</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Marie Vingtras&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-24T20:46:29.263923+00:00"/>
+        <meta name="calibre:title_sort" content="Ventisca"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

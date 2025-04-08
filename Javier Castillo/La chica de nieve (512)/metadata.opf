@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">512</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4be92720-5d4a-4e91-9fbf-c2a923690cc2</dc:identifier>
+        <dc:title>La chica de nieve</dc:title>
+        <dc:creator opf:file-as="Castillo, Javier" opf:role="aut">Javier Castillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;La novela más leída del confinamiento.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;El &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;thriller &lt;/span&gt;&lt;span class="a-text-bold"&gt;perfecto que cambia las reglas del género.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;El desfile más famoso del planeta.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una niña de tres años desaparecida.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;¿Dónde está Kiera Templeton?&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Nueva York, 1998, cabalgata de Acción de Gracias. Kiera Templeton,
+ desaparece entre la multitud. Tras una búsqueda frenética por toda la 
+ciudad, alguien encuentra unos mechones de pelo junto a la ropa que 
+llevaba puesta la pequeña.&lt;br&gt;En 2003, el día que Kiera habría cumplido 
+ocho años, sus padres, Aaron y Grace Templeton, reciben en casa un 
+extraño paquete: una cinta VHS con la grabación de un minuto de Kiera 
+jugando en una habitación desconocida.&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B082WMSLRM</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Javier Castillo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Miren Triggs"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:39:55.870543+00:00"/>
+        <meta name="calibre:title_sort" content="chica de nieve, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1836</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">605d20ad-9042-4232-ae30-008df2ca99e1</dc:identifier>
+        <dc:title>El silencio de la guerra</dc:title>
+        <dc:creator opf:file-as="Antonio Monegal" opf:role="aut">Antonio Monegal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-17T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;No hay un tiempo ajeno por completo al conflicto, en que la guerra no forme parte de la cultura: la arrastramos en nuestro pasado y su sombra se proyecta en el futuro como amenaza. Pero ¿qué es la guerra para quienes no la han vivido en carne propia? ¿Y de dónde sale el caudal de imágenes y relatos que nutren y configuran nuestro conocimiento del fenómeno? ¿Acaso son imparciales, no obedecen a ciertos códigos y propósitos? Éste no es un libro sobre la naturaleza de las guerras, sino sobre las representaciones que de ellas se han ofrecido en la literatura, las artes visuales y los medios de comunicación, a través de los cuales la memoria individual y la colectiva se entretejen. Más que un tema de investigación, se trata de un desafío intelectual: ¿cómo pensar y cómo decir la guerra? Antonio Monegal aborda algunas de las cuestiones que plantea el tratamiento de la guerra en nuestra tradición, desde la épica a la tragedia y la elegía, para intentar definir una ética de la representación capaz de hacer justicia a lo indecible.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Acantilado</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419958167</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-30T12:04:06.275968+00:00"/>
+        <meta name="calibre:title_sort" content="silencio de la guerra, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

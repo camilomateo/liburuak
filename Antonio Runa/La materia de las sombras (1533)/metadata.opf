@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">059fbfc5-f0a9-4ca7-8d35-cfb9f8ee73bf</dc:identifier>
+        <dc:title>La materia de las sombras</dc:title>
+        <dc:creator opf:file-as="Runa, Antonio" opf:role="aut">Antonio Runa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-26T11:25:44+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;La nueva obra de terror Antonio Runa (La Órbita de Endor)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Una
+ plaga de suicidios misteriosos está asolando la ciudad. La policía se 
+plantea varias hipótesis que van desde la influencia de una secta 
+peligrosa a un nuevo tipo de terrorismo. La investigación está en un 
+callejón sin salida.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Al mismo tiempo, un experimento 
+científico que pretendía crear un genuino ente psicosomático de la nada,
+ acaba por desbocarse al alcanzar… un éxito inesperado.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;La
+ única persona que podría marcar la diferencia en ambos casos es el 
+detective de lo insólito Isaac Zarco, quien ha recibido la 
+visita inesperada de una forma de vida imposible con la que no 
+tenía trato desde su infancia.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold a-text-italic"&gt;La materia de las sombras&lt;/span&gt;&lt;span&gt;
+ es una historia que se desarrolla en varios frentes y que llevará a su 
+protagonista a medirse a amenazas que superarían a cualquiera, y que 
+bien podrían servir para destruirle desde dentro y convertirlo en 
+aquello contra lo que lucha incansablemente.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:40.405067+00:00"/>
+        <meta name="calibre:title_sort" content="materia de las sombras, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1772</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca645216-274b-41f4-a65a-13ab1384361a</dc:identifier>
+        <dc:title>El ADN del placer</dc:title>
+        <dc:creator opf:file-as="Jorge Dotto" opf:role="aut">Jorge Dotto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-21T22:00:00+00:00</dc:date>
+        <dc:description>En este nuevo libro, Jorge Dotto, médico patólogo y genetista, autor también de Genética. Cómo puede cambiar nuestras vidas, nos explica de modo ameno y entretenido, de qué manera los genes participan en nuestras situaciones de placer, al tiempo que subraya la importancia de los factores ambientales y la propia voluntad de las personas para lograr un mejor vínculo con las distintas formas de recompensarse. “Conocer nuestros genes es acceder a un mapa de nuestra relación con el placer”. Así podría resumirse la propuesta de Jorge Dotto para este libro, que intenta aportar elementos para analizar nuestras costumbres, hábitos y conductas desde su especialización científica y aumentar nuestra posibilidad de disfrute y animarnos a sentir cada vez más placer.</dc:description>
+        <dc:publisher>Grupo Planeta - Argentina</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:11.536251+00:00"/>
+        <meta name="calibre:title_sort" content="ADN del placer, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">546</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0137b391-669f-4edd-b5cc-c81cfcff328d</dc:identifier>
+        <dc:title>Narcopiso</dc:title>
+        <dc:creator opf:file-as="Paco Gómez Escribano" opf:role="aut">Paco Gómez Escribano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; El Pirri pasa la mayoría de su tiempo en el bar del Julito, &lt;span class="a-text-bold"&gt;un ecosistema en el que el mismísimo Bukowski no habría desentonado&lt;/span&gt;, haciendo crucigramas y leyendo novelas negras que le proporciona su amigo el &lt;span class="a-text-bold"&gt;Cortecín&lt;/span&gt;,
+ con el que mantiene una extraña amistad que se remonta a la infancia, y
+ que terminó de bibliotecario y experto del género. En el antro también 
+conviven el &lt;span class="a-text-bold"&gt;Perla&lt;/span&gt;, que trata de explicarle los misterios de la vida a su compinche el &lt;span class="a-text-bold"&gt;Araña&lt;/span&gt;, que quizá entiende bien la vida, pero es incapaz de entender a su amigo; y el &lt;span class="a-text-bold"&gt;Tijeras&lt;/span&gt;, que perdió a sus amigos en el último «trabajo». Además, también pasan allí las horas la &lt;span class="a-text-bold"&gt;Carmen&lt;/span&gt;,
+ una falsa pitonisa que sobrevive cobrando a los demás por adivinar un 
+futuro del que no tiene ni idea, y los sobrinos del Araña y sus 
+brothers, las nuevas generaciones que las antiguas ya ni entienden. Un 
+día, los vecinos de un inmueble cercano, hartos de pedir ayuda a la 
+Policía, recurren al Perla para ver si él puede desalojar a los camellos
+ de un narcopiso que han montado en su comunidad. El Perla, que sabe que
+ contará con la ayuda del Araña, pedirá ayuda al Pirri, que intentará 
+tomar una decisión consensuada con el Tijeras. A partir de aquí, la 
+historia tomará un camino desconocido para todos&lt;span class="a-text-bold"&gt;.
+ Paco Gómez Escribano regresa con su más genuino estilo planteando uno 
+de los problemas que más afectan a los barrios: los narcopisos&lt;/span&gt;. A través de una de sus novelas con más fuerza narrativa te conquistará de forma que no querrás parar de leer.  &lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Alrevés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-06T19:50:06+00:00"/>
+        <meta name="calibre:title_sort" content="Narcopiso"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

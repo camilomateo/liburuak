@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58ff533c-9857-4253-995f-4e014a475997</dc:identifier>
+        <dc:title>La cofradía de las viudas</dc:title>
+        <dc:creator opf:file-as="Hernández, Mónica" opf:role="aut">Mónica Hernández</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-16T19:05:32+00:00</dc:date>
+        <dc:description>Siglo XVII. La pugna por el poder en la Nueva España se intensifica con la llegada de un nuevo virrey. Las prebendas y privilegios otorgados por el antiguo representante de la corona han levantado envidias y enfrentamientos entre la burguesía, el Estado y la Iglesia, representada en esta lucha por su brazo armado, la Santa Inquisición.En medio de este choque una nueva fuerza está surgiendo de las sombras: una hermandad secreta de mujeres que han heredado las imprentas de sus difuntos maridos. Cuando el reputado impresor Bernardo Calderón muere inesperadamente, Paula, su esposa, será buscada por los miembros de esta cofradía y se adentrará de golpe en un mundo de libros prohibidos, traiciones y asesinatos. Este provocador thriller histórico está basado en personajes reales, mujeres de carne y hueso que consiguieron con inteligencia y osadía superar las barreras de su género, consiguiendo mantener durante siglos una influencia definitiva en la vida de México que, hasta ahora, no...</dc:description>
+        <dc:publisher>Planeta México</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-15T16:09:50.538974+00:00"/>
+        <meta name="calibre:title_sort" content="cofradía de las viudas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

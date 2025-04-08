@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f174b988-f50f-403b-986a-5a357a0feb3b</dc:identifier>
+        <dc:title>Lloverá tierra seca sobre Annual</dc:title>
+        <dc:creator opf:file-as="Morlán, Santiago Díaz" opf:role="aut">Santiago Díaz Morlán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Annual, verano de 1921.&lt;br&gt;Un lugar y una fecha grabados a fuego 
+en la memoria de España. El comienzo de uno de los mayores desastres 
+militares de la historia de nuestro país. El germen de muchos males que 
+aún hoy conforman el imaginario colectivo. Desenlace trágico de una 
+aventura colonial plagada de irresponsabilidad, desidia y corrupción, 
+pero también de ejemplos de heroísmo, entrega y sacrificio.&lt;br&gt;Ángel, el
+ humilde soldado castellano que abandona su Soria natal por primera vez.
+ Manuel, el escéptico militar, expolicía desubicado, encargado de una 
+investigación ministerial. Diego, oficial soñador y enamorado que trata 
+de cumplir su deber desde la valentía y el honor.&lt;br&gt;Las vidas de los 
+tres protagonistas, de orígenes todos ellos tan diferentes, transcurren 
+separadas en un escenario bélico que acabará finalmente envolviéndolos y
+ conduciendo sus caminos hacia un final en el que la tragedia vivida 
+dejará en ellos una huella imborrable.&lt;/div&gt;</dc:description>
+        <dc:publisher>Pàmies</dc:publisher>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:30:05.890490+00:00"/>
+        <meta name="calibre:title_sort" content="Lloverá tierra seca sobre Annual"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1006</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">547b7a84-65da-4846-8af3-66c164809c9c</dc:identifier>
+        <dc:title>Controlaré tus sueños</dc:title>
+        <dc:creator opf:file-as="Verdon, John" opf:role="aut">John Verdon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-18T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;¿Cómo
+ pueden tener el mismo sueño cuatro personas? ¿Por qué iban a suicidarse
+ después de soñarlo? John Verdon, la gran sensación del thriller a 
+escala internacional, ha vuelto con un nuevo libro que recordará a sus 
+seguidores el ritmo cinematográfico de su escalofriante novela debut &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;Sé lo que estás pensando&lt;/span&gt;&lt;span class="a-text-bold"&gt;.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Cuatro
+ personas que no se han visto nunca, que viven en distintas partes del 
+país y que no parecen tener nada en común explican que han tenido el 
+mismo sueño: una pesadilla recurrente cuyo elemento más inquietante es 
+un cuchillo ensangrentado con la cabeza tallada de un lobo en la 
+empuñadura.&lt;/p&gt;&lt;p&gt;Todos los hombres son hallados muertos 
+posteriormente: las muñecas cortadas por un puñaL, en aparentes casos de
+ suicidio. La policía enseguida descubre que las víctimas tenían dos 
+hechos significativos en común: todos habían pernoctado recientemente en
+ un mismo hotel viejo y misterioso de las montañas de Adirondack y todos
+ habían consultado al mismo hipnoterapeuta.&lt;/p&gt;&lt;p&gt;Gurney se
+ apresura a resolver otra serie de interrogantes imposibles, que en esta
+ ocasión desorientarán tanto a su cabeza como a su corazón.&lt;/p&gt;&lt;p&gt;Una
+ trama sorprendente y compleja, que nos hará plantearnos por qué 
+consentimos ser vigilados, pese a que todos tememos por nuestra 
+intimidad e intentamos protegerla.&lt;/p&gt;&lt;p&gt;Involucrado en la 
+resolución de su crimen más desconcertante hasta la fecha, Dave Gurney 
+no sólo se enfrentará a un ingenioso asesino que parece controlar los 
+sueños de sus víctimas, sino también a una despiadada unidad de la CIA 
+con un programa tan oscuro como peligroso.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788499189574</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="David Gurney"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2023-08-27T13:13:02.845552+00:00"/>
+        <meta name="calibre:title_sort" content="Controlaré tus sueños"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5862fdbc-588c-431a-866f-ddc4664dc715</dc:identifier>
+        <dc:title>Una tienda en París</dc:title>
+        <dc:creator opf:file-as="Huerta, Màxim" opf:role="aut">Màxim Huerta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;¿Alguna vez has pensado empezar de cero en otra ciudad? Fue entonces cuando todo cambió. Justo al acercarme a aquel viejo cartel de madera escrito en francés que vendían en un anticuario improvisado de Madrid. Aux tissus des Vosges, Alice HUMBERT, nouveautés.&lt;br&gt;Entré sin decir nada. Tenía la mirada perdida del que logra lo que quiere. En pocos segundos presentí un vuelco y una irreprimible necesidad de cambiar de vida. Traducido quería decir: tejidos de los Vosgos, Alice Humbert, novedades. Significaba más, mucho más...&lt;/p&gt;
+&lt;p class="description"&gt;Màxim Huerta nos transporta al París de los felices años veinte de la mano de dos mujeres maravillosas, irresistibles y arrebatadoras. Una novela conmovedora, sensible y terriblemente sentimental que te hará soñar. Sin duda alguna, el libro más romántico del año.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Martínez Roca</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788427039278</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Màxim Huerta&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-14T15:53:26.851250+00:00"/>
+        <meta name="calibre:title_sort" content="tienda en París, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

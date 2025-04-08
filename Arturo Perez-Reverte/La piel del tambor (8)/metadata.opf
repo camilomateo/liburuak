@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">306dc191-b2f8-44d3-99f0-7cb8928ad686</dc:identifier>
+        <dc:title>La piel del tambor</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Un pirata informático que se infiltra en el Vaticano. Una iglesia barroca, en Sevilla, que mata para defenderse. Tres pintorescos malvados que aspiran a mantener viva la copla española. Una bella aristócrata andaluza. Un apuesto sacerdote-agente especialista en asuntos sucios. Un banquero celoso y su secretario ludópata. Una septuagenaria que bebe coca-cola. La tarjeta postal de una mujer muerta un siglo atrás. Y el misterioso legado del capitán Xaloc, último corsario español, desaparecido frente a las costas de Cuba en 1898.&lt;/p&gt;&lt;p&gt;Con esos ingredientes, Arturo Pérez-Reverte construye en &lt;i&gt;La piel del tambor&lt;/i&gt; una ingeniosa, compleja y fascinante trama novelesca. Con su imaginación desbordante, su espectacular dominio de la ingeniería narrativa y de los diversos géneros superpuestos —misterio, policíaco, historia, romanticismo, aventura, folletín— el autor nos sumerge sin aliento en una historia que corta al lector cualquier posible retirada, arrastrándolo a un enigma cuya clave se esconde a la sombra de los viejos muelles del Guadalquivir; donde todavía hoy, en las noches de luna llena, sombras de mujer agitan sus pañuelos y goletas tripuladas por fantasmas siguen zarpando rumbo a las Antillas.&lt;/p&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.9</dc:identifier>
+        <dc:identifier opf:scheme="EPL">1202</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arturo Pérez-Reverte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:03:34.961396+00:00"/>
+        <meta name="calibre:title_sort" content="piel del tambor, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

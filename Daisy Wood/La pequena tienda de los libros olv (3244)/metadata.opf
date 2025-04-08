@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3244</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31c40b07-57a7-4b3e-9cb9-98dd1e379eda</dc:identifier>
+        <dc:title>La pequeña tienda de los libros olvidados</dc:title>
+        <dc:creator opf:file-as="Wood, Daisy" opf:role="aut">Daisy Wood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;PARA HUIR DE LA GUERRA, SOLO QUEDA UN LUGAR DONDE ESCONDERSE Una ciudad devastada, un secreto peligroso, una traición impactante 1940. Los nazis han ocupado París y los judíos buscan un lugar donde esconderse mientras, asustados, observan en silencio las deportaciones a Auschwitz. Pero Jacques Duval no puede quedarse de brazos cruzados, por lo que decide ocultar en el almacén de su pequeña librería a varios de ellos mientras su esposa Mathilde se une a la Resistencia francesa. Es una época oscura llena de horror e incertidumbre, y sus decisiones podrían cambiar el curso de los acontecimientos. 2022. Juliette y su marido llegan a la Ciudad del Amor para disfrutar de una escapada y buscar la misteriosa plaza representada en el cuadro de Mémé, la abuela de Juliette. Sin embargo, durante el viaje, la mujer descubre que su marido la ha traicionado y la relación se resquebraja. Juliette necesita un cambio y el destino está a su favor: cuando se topa con una librería abandonada en venta, decide aprovechar la oportunidad y quedarse en París. Allí, el encanto de los libros la arrastra a un torbellino de encuentros y misterios del pasado. Y puede que, a pesar de todo, pueda volver a creer en el amor. Una novela sobre el poder del amor en tiempos de guerra&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Newton Compton Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:21+00:00"/>
+        <meta name="calibre:title_sort" content="pequeña tienda de los libros olvidados, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

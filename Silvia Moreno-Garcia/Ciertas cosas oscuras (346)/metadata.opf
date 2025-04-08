@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">724434a4-06ac-48d0-9457-507c135911d8</dc:identifier>
+        <dc:title>Ciertas cosas oscuras</dc:title>
+        <dc:creator opf:file-as="Moreno-Garcia, Silvia" opf:role="aut">Silvia Moreno-Garcia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Bienvenidos a Ciudad de México, un oasis en un mar de vampiros. Domingo, un solitario recolector de basura que vive en la calle, trata de sobrevivir en una ciudad indiferente y amenazadora cuando una hastiada vampiresa a la fuga aparece en su vida. Atl, descendiente de bebedores de sangre aztecas, es inteligente, preciosa y peligrosa, y Domingo queda hipnotizado. Atl necesita escapar rápidamente de la ciudad, lejos del clan narco-vampírico rival que la persigue sin descanso. También requiere de un ayudante y Domingo es perfecto para ese trabajo. Su plan no incluye hacer nuevos amigos, pero poco a poco Atl se encariña con el joven y su innegable encanto. Mientras el rastro de cadáveres se extiende a sus espaldas, la policía local y los jefes de la mafia se acercan cada vez más. Vampiros, humanos, policías y criminales se encuentran en las oscuras calles de Ciudad de México. ¿Tendrán Atl y Domingo alguna oportunidad de salir vivos? ¿O la ciudad terminará devorándolos a todos? Una novela negra que inyecta sangre fresca a los cuentos de vampiros. «Con una prosa vibrante y una forma estelar de crear el mundo, Ciertas cosas oscuras es uno de los mejores libros que he leído en años».V. E. Schwab, autora best seller del New York Times&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>EDICIONES URANO</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Silvia Moreno-Garcia&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-21T12:25:00.862069+00:00"/>
+        <meta name="calibre:title_sort" content="Ciertas cosas oscuras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

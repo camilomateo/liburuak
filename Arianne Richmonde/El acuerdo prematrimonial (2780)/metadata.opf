@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2780</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">610a725f-aa80-4e8e-94cf-8ea7578007ab</dc:identifier>
+        <dc:title>El acuerdo prematrimonial</dc:title>
+        <dc:creator opf:file-as="Richmonde, Arianne" opf:role="aut">Arianne Richmonde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-22T12:10:03+00:00</dc:date>
+        <dc:description>Ella firmó. Ahora debe pagar el precio...Miro a los ojos de mi nuevo marido y sonrío. Es el día de nuestra boda y me siento como la mujer más afortunada del mundo. Lucas es perfecto. Me trae el desayuno a la cama por la mañana, ramos de flores por la tarde y nunca sale de la habitación sin darme antes un beso. Aun así, no puedo deshacerme de esa duda persistente que me ronda la cabeza, especialmente en lo que respecta al acuerdo prematrimonial que insistió en que firmara. ¿Acaso cree que solo me interesa su dinero? Me convenzo a mí misma de que no importa. Lo quiero, y mi amor por él es tan fuerte que ingenuamente creo que podrá superar cualquier obstáculo...Tres años después, todo ha cambiado. Ya no queda nada de la seguridad que una vez sentí junto a él. Cuando miro a Lucas hoy, no reconozco a la persona con la que me casé. Estoy atrapada con un hombre al que nunca he llegado a conocer de verdad en una casa que cada vez se parece más a una prisión.Cada día que pasa el terror...</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-09T07:18:53.512542+00:00"/>
+        <meta name="calibre:title_sort" content="acuerdo prematrimonial, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

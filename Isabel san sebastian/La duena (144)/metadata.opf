@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2af3ffd9-e0f5-4871-8ea4-00991540c75b</dc:identifier>
+        <dc:title>La dueña</dc:title>
+        <dc:creator opf:file-as="Isabel San Sebastián" opf:role="aut">Isabel san sebastian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-24T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Año 1069&lt;/b&gt;&lt;/span&gt; de Nuestro Señor. 
+Cristianos y musulmanes libran una lucha sin cuartel en Hispania, 
+divididos a su vez en reinos y taifas arrasados por disputas intestinas.
+ En ese mundo despiadado, Auriola relata a su nieto Diego la gesta de su
+ abuelo Ramiro, caballero de frontera caído en combate al servicio de su
+ rey, mientras defiende sola la tierra que su esposo ganó con la espada.
+ Abuela y nieto deberán sobrevivir a las guerras fratricidas entre 
+Navarra, León y Castilla, salvar el legado familiar y plantar cara a la 
+brutal acometida de los almorávides.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Además de una obra que refleja en toda su crudeza y fascinación una época determinante de España,&lt;/span&gt; &lt;span class="a-text-bold a-text-italic"&gt;La Dueña&lt;/span&gt;&lt;span class="a-text-bold"&gt;
+ es un emotivo relato que llega al corazón y que nos muestra cómo los 
+grandes conflictos de la Historia afectan a miles de historias anónimas 
+escritas con sangre y sudor.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Isabel san sebastian&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-19T07:55:17.691653+00:00"/>
+        <meta name="calibre:title_sort" content="dueña, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

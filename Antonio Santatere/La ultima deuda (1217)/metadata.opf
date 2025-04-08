@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1217</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee3eb6c4-1e01-4dd5-81e1-0c4497fbd62d</dc:identifier>
+        <dc:title>La última deuda</dc:title>
+        <dc:creator opf:file-as="Santatere, Antonio" opf:role="aut">Antonio Santatere</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-17T00:00:00+00:00</dc:date>
+        <dc:description>Todos acarreamos deudas, algunas escritas en papel y otras grabadas a fuego en el alma. Javier Garrido (Nono) -un implacable cobrador de deudas resentido con el fracaso empresarial de su padre-, es testigo de ello mientras lucha con las sombras de su pasado y las exigencias del manipulador propietario de la empresa a la que ha vendido su alma. Pero cuando su destino se entrelaza con el de Luis Velasco, un hombre desesperado por salvar la vida de su hijo enfermo, se desvela inesperadamente una ventana a un pasado oculto por infinitas capas de negación.</dc:description>
+        <dc:publisher>unoeditorial.com</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CSPQVSDR</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-20T13:14:50.803024+00:00"/>
+        <meta name="calibre:title_sort" content="última deuda, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

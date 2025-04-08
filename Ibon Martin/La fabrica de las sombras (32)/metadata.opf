@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">374ec2c6-3b12-4559-9f58-a8289c0ed6bf</dc:identifier>
+        <dc:title>La fábrica de las sombras</dc:title>
+        <dc:creator opf:file-as="Martín, Ibon" opf:role="aut">Ibon Martín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-18T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span itemprop="description"&gt;Subtitulado: &lt;b&gt;Un oscuro secreto se esconde en los bosques de Navarra&lt;/b&gt;
+&lt;br&gt;
+&lt;br&gt;Anochece en el norte de Navarra. Una fría niebla flota entre los 
+árboles de la selva de Irati, que duerme despojada de hojas en su 
+letargo invernal. Una joven aparece ahorcada en los arcos de la Real 
+Fábrica de Armas de Orbaizeta. Cuando todas las hipótesis apuntan al 
+suicidio, la escritora Leire Altuna recibe el encargo de investigar el 
+caso. No será fácil. Tendrá que buscar respuestas en un remoto pueblo de
+ apenas una docena de habitantes, un lugar inquietante donde nada ni 
+nadie es lo que parece. Sus pesquisas, que la colocarán en el centro de 
+una macabra diana, sacarán a la luz viejas traiciones y secretos 
+familiares desgarradores. Mientras tanto, las gélidas aguas del río que 
+atraviesa el lugar volverán a teñirse de sangre.
+&lt;br&gt;
+&lt;br&gt;Ibon Martin teje una historia de intriga y pistas falsas sin igual, 
+una trama trepidante que arrastra al lector a un terrirorio poblado de 
+mitos y leyendas. La narración vuela con maestría entre los oscuros años
+ del contrabando en la frontera y un presente plagado de sombras. Unas 
+páginas estremecedoras que nos ecuerdan que el mal y el ayer nunca 
+cierran del todo la puerta.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Travel Bug</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">92b8a6c0-83bf-48b9-88a9-85f3743d2a99</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ibon Martín&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:19:34.383122+00:00"/>
+        <meta name="calibre:title_sort" content="fábrica de las sombras, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

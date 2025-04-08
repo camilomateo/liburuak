@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2935</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b060206c-7893-4de9-9c8c-fcc2c76b2772</dc:identifier>
+        <dc:title>Ovnis, S. O. S. a la humanidad</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1974-12-31T23:00:00+00:00</dc:date>
+        <dc:description>«Una formidable catástrofe asolará la Tierra muy pronto. Ellos lo saben y tienen prisa por ayudarnos...» Pero ¿quiénes son estos seres del espacio? ¿Cúal es su origen, cúal su nivel mental y físico? ¿Qué es y qué representa lo que los miembros del Instituto Peruano de Relaciones Interplanetarias denominan «Confederación de Planetas de la Galaxia»? ¿Qué han revelado a los distintos grupos que se mueven ya en todo el mundo y que, al igual que en Perú, están en comunicación con los seres del espacio? ¿Qué es la misión RAMA? ¿Cómo son sus mundos y cómo sus ciudades, su sociedad y su concepto de Dios...? Todas estas preguntas y otras muchas fueron contestadas con amplitud por los miembros del IPRI. Y las respuestas, recogidas en este libro, son sobrecogedoras.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:24.698591+00:00"/>
+        <meta name="calibre:title_sort" content="Ovnis, S. O. S. a la humanidad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

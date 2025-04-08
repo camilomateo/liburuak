@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4938d23-4569-4edb-b1cb-4b9e1179cf6a</dc:identifier>
+        <dc:title>El italiano</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;LA NUEVA NOVELA DE ARTURO PÉREZ-REVERTE&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Una historia de amor, mar y guerra&lt;/b&gt;&lt;/p&gt; &lt;p&gt;«Su estilo elegante se combina con un gran manejo de la lengua española. Pérez-Reverte es un maestro.»&lt;br&gt;&lt;i&gt;&lt;b&gt;La Stampa&lt;/b&gt;&lt;/i&gt;&lt;/p&gt; &lt;p&gt;&lt;i&gt;«Nada
+ traiciona, tanto tiempo después, la mujer que desde hace dos  años vive
+ sola junto al mar con un perro y unos libros. Qué otra cosa, decide, 
+sería el impulso, o el deseo, de permanecer abrazada a ese hombre para 
+siempre. Ignora qué habrá en su cabeza dentro de un par de horas, cuando
+ la claridad del día la despeje del todo e ilumine con más crudeza su 
+conciencia. Lo cierto es&lt;/i&gt;  &lt;i&gt;que&lt;/i&gt;&lt;i&gt; en este momento, sin duda alguna, desearía morir si él muriera.»&lt;/i&gt;&lt;br&gt;En
+ los años 1942 y 1943, durante la Segunda Guerra Mundial, buzos de  
+combate italianos hundieron o dañaron catorce barcos aliados en 
+Gibraltar y la bahía de Algeciras. En esta novela, inspirada en hechos 
+reales, sólo algunos personajes y situaciones son&lt;/p&gt; &lt;p&gt;imaginarios. 
+Elena Arbués, una librera de veintisiete años, encuentra  una madrugada 
+mientras pasea por la playa a uno de esos buzos, desvanecido entre la 
+arena y el agua. Al socorrerlo, la joven ignora que esa determinación 
+cambiará su vida y que el amor será sólo parte de una peligrosa 
+aventura.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0973MQ7NT</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Arturo Pérez-Reverte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T22:41:14.207358+00:00"/>
+        <meta name="calibre:title_sort" content="El italiano"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

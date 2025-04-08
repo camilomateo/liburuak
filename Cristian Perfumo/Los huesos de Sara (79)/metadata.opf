@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">79</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8913d0cb-68c5-427a-a332-46a123aaa761</dc:identifier>
+        <dc:title>Los huesos de Sara</dc:title>
+        <dc:creator opf:file-as="Perfumo, Cristian" opf:role="aut">Cristian Perfumo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-14T21:38:28+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;b&gt;&lt;span class="a-text-bold"&gt;Hay secretos que deberían permanecer enterrados para siempre&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;El
+ cráneo del dinosaurio carnívoro más grande del mundo ha desaparecido 
+del remoto sitio de la Patagonia donde estaba siendo excavado. Teresa 
+Estévez, la paleontóloga que lidera la expedición, descubre que el 
+ladrón ha dejado en su lugar una falange humana y una críptica nota con 
+una única interpretación posible: el hueso pertenece a su mentora, Sara 
+Lombardi, desaparecida en ese mismo lugar cuatro años atrás.&lt;br&gt;Con la 
+ayuda de un periodista, Teresa se embarcará en una peligrosa carrera por
+ recuperar uno de los fósiles más valiosos del planeta al mismo tiempo 
+que descubre qué pasó con Sara Lombardi.&lt;br&gt;&lt;br&gt;&lt;span class="a-text-italic"&gt;No
+ te pierdas este thriller de misterio que te llevará a uno de los 
+rincones más increíbles de la Patagonia a través de la adictiva pluma de
+ Cristian Perfumo, ganador del Premio Literario de Amazon y escritor 
+best-seller en España y Latinoamérica.&lt;/span&gt;  &lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Cristian Perfumo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:02:44+00:00"/>
+        <meta name="calibre:title_sort" content="Los huesos de Sara"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

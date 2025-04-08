@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a616864-3b17-475a-9337-41ebb4461d5c</dc:identifier>
+        <dc:title>La vida secreta de las vacas</dc:title>
+        <dc:creator opf:file-as="Young, Rosamund" opf:role="aut">Rosamund Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Las vacas son capaces amar, se divierten practicando todo tipo de juegos y establecen lazos de amistad y vínculos profundos que duran toda una vida. Tienen sus preferencias. Se enfurruñan y guardan rencor. Pueden ser de lo más vanidosas. Algunas son muy ágiles a la hora de aprender y otras son cortas de entendimiento. Las hay orgullosas, tímidas, amables y creativas de formas inesperadas. En resumen: nuestras amigas son tan variadas como los humanos. Y aunque la gran parte de su día consiste en comer, siempre sacan tiempo para actividades «extracurriculares», como el babysitting, jugar al escondite, recolectar moras o pelearse con un árbol.&lt;/span&gt;&lt;br style="-webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Todas estas características y comportamientos han sido observados, documentados, interpretados y ahora relatados por Rosamund Young según su propia experiencia al frente de su granja familiar en Worcestershire, Inglaterra. En ella, las vacas, ovejas, gallinas y cerdos tienen completa libertad de movimiento y no hay separaciones entre crías y madres. Encuentran ayuda cada vez que la buscan y sus dietas son complementadas con hojas, brotes, flores y hierbas.&lt;/span&gt;&lt;br style="-webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Con mucho humor y sabiduría, de una forma cálida y repleta de anécdotas que permanecen en la memoria del lector, Rosamund Young nos ofrece en estas páginas un fascinante recorrido por el mundo secreto de una de las especies que más hemos explotado a lo largo del la historia y que, sin embargo, sigue siendo una gran desconocida.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432233630</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Rosamund Young&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-27T11:03:55.799559+00:00"/>
+        <meta name="calibre:title_sort" content="vida secreta de las vacas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

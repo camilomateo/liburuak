@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46082121-a66b-4ed2-b205-cbeb8b58efc9</dc:identifier>
+        <dc:title>El pintor de los muertos</dc:title>
+        <dc:creator opf:file-as="Antonio Puente Mayor" opf:role="aut">Antonio Puente Mayor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-23T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sevilla, 1672. Cuando el banquero Pietro Bertorelli es hallado muerto en su casa palacio con un extraño símbolo en el cuerpo, la Inquisición abre una investigación. Esta les conduce hasta un discípulo del afamado pintor Juan de Valdés Leal, quien se halla trabajando en un encargo para la hermandad de la Santa Caridad. Convencido de la inocencia de su pupilo, el artista cierra un trato sin precedentes: colaborar en la búsqueda del verdadero asesino a cambio de la libertad del muchacho. Lo que el maestro no imagina es que, al poco de iniciarse las pesquisas, dos nuevos cadáveres serán descubiertos en las mismas circunstancias que el primero. El pintor de los muertos es un thriller ambientado en la segunda mitad del siglo XVII, cuando Sevilla luchaba por recuperarse de la terrible epidemia que diezmó su población. Un escenario lúgubre y a la vez fascinante, en el que la religión y el arte, la miseria y la opulencia, el pecado y la virtud, compartían espacio, y donde el talento de Valdés Leal posibilitó la creación de dos obras maestras: los Jeroglíficos de las Postrimerías.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Algaida Editores</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Ht5fEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788491897033</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Antonio Puente Mayor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:15:15.900999+00:00"/>
+        <meta name="calibre:title_sort" content="pintor de los muertos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

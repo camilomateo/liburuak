@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de16a839-2f24-4619-9c79-8e8761c7f5b2</dc:identifier>
+        <dc:title>Una época dorada</dc:title>
+        <dc:creator opf:file-as="Jacobs, Anne" opf:role="aut">Anne Jacobs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Nuevos desafíos para la familia Koch y un viaje que despierta anhelos profundamente escondidos en la quinta y emocionante entrega de la nueva saga familiar de Anne Jacobs, autora de La villa de las telas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wiesbaden, 1965.&lt;/strong&gt; El Café del Ángel vive años prósperos bajo la dirección de Hilde y necesita con urgencia más personal. Pero cuando Hilde contrata a un nuevo camarero italiano, Giuseppe, a sus padres les resulta difícil aceptar su mentalidad «sureña». También hay turbulencias en el matrimonio de su hermano, Willi, que triunfa en el teatro de Wiesbaden mientras coquetea con una guapa compañera. Cuando la situación en el café llega a un punto insostenible, Hilde decide hacer las maletas. Inspirada por las descripciones de Giuseppe de su tierra natal, parte hacia Italia con su cuñada Svetlana. Ambas anhelan tomarse un respiro, pero ¿realmente van a dejar el café en manos de la familia? El sol del verano y el mar azul pueden hacer olvidar todas las dudas... &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DRYYH6CL</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="El Café del Ángel"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2025-03-14T13:34:11.208025+00:00"/>
+        <meta name="calibre:title_sort" content="Una época dorada, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

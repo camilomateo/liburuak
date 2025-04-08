@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">383</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">516579b2-3b99-4dfe-a58b-ef9cee136453</dc:identifier>
+        <dc:title>Cada atardecer</dc:title>
+        <dc:creator opf:file-as="Longarela, Andrea" opf:role="aut">Andrea Longarela</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-24T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Primer libro de la bilogía Somos secretos de Andrea Longarela. Martina lleva cinco años sin pintarse los labios. Más o menos desde que Jon se marchó. Jon lleva cinco años pensando en ella. En lo que hizo. En las decisiones del pasado. La vida de Sergio es un caos. Tanto como para verse en la calle y acabar llamando a la puerta de la casa de Martina, su hermanastra. «¿Veré de nuevo a Victoria?», piensa. Y lo desea. Más que nada. Vic lo tiene todo. Trabajo, novio, dinero, talento y belleza. No hay espacio para el fracaso. Solo lo hubo una vez, pero hace ya tiempo que no se permite pensar en el único error de su vida. Y Gabi ..., bueno, Gabi está cansada de ser un desastre. Si no, pregúntaselo al nuevo inquilino del piso de enfrente. Se llama Guzmán y está a punto de compartir demasiado con ella en un patio de vecinos. ¿Qué ocurre cuando el pasado regresa y debes enfrentarte a él? ¿Qué pasa cuando vives tan anclada en el presente que avanzar resulta imposible? ¿Qué sucede si el futuro no solo depende de quién quieres ser sino también de quien un día fuiste? «Los secretos tienen el poder de decepcionar, de dañar, de romperte, de cambiar tu vida o de darle un sentido nuevo e inesperado. Los secretos pueden conseguir lo que las verdades a la cara nunca lograron.»&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Crossbooks</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Andrea Longarela&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Somos secretos"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-03-04T13:11:46.153183+00:00"/>
+        <meta name="calibre:title_sort" content="Cada atardecer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

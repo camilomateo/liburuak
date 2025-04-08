@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f5f1332-cef5-46f8-bb3a-13a9cb7c440f</dc:identifier>
+        <dc:title>No fue penal</dc:title>
+        <dc:creator opf:file-as="Villoro, Juan" opf:role="aut">Juan Villoro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-14T06:36:56+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;No fue penal ofrece dos versiones de una misma jugada. En forma dramática, ese lance une a dos amigos que el destino convirtió en enemigos. El Tanque dirige un equipo que descenderá a segunda división si pierde el partido. Desde su pequeña prisión de director técnico, enfrenta algo más que el marcador: su futuro y su pasado están en juego. Con la garganta hecha trizas, lucha contra la torpeza de sus propios jugadores y las decisiones del árbitro. Mientras tanto, es observado por Valeriano Fuentes, el examigo con el que compartió una tragedia que cambió sus vidas y que ahora está a cargo de la implacable justicia del VAR.&lt;/p&gt;
+&lt;p&gt;Durante años, Juan Villoro, ganador del Premio Internacional Manuel Vázquez Montalbán por Dios es redondo, ha escrito crónicas y ensayos de futbol. Esta vez se sirve de dos narraciones complementarias para contar una historia sobre la pasión deportiva, la hermandad y sus rivalidades, y para explorar la condición teatral de quienes intervienen en el juego desde fuera de la cancha.&lt;/p&gt;
+&lt;p&gt;Las jugadas polémicas dependen de quien las mira. No fue penal pone en escena una desconcertante condición del deporte: lo que para unos es legítimo, para otros es un agravio.&lt;/p&gt;
+&lt;p&gt;El partido se detiene y la acción es revisada por el VAR. ¿Cuál será la sentencia? Dos historias muy distintas explican ese inquietante momento de decisión.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Almadía Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786078851386</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T09:00:00.494251+00:00"/>
+        <meta name="calibre:title_sort" content="No fue penal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

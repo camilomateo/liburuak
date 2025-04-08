@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1861</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">215cb478-9a55-40db-bbfb-e8f9d7cec5aa</dc:identifier>
+        <dc:title>Sex Shop: En busca del amor</dc:title>
+        <dc:creator opf:file-as="Freyre, Solange" opf:role="aut">Solange Freyre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-28T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="box-sizing: inherit; margin-top: 0px; color: rgb(45, 55, 72); font-family: Montserrat, sans-serif; font-size: 17px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Tan solo soy una chica, en busca del amor, el amor de hombre-mujer. Como tú, como ella, como él, como elle, como Julia Roberts en Notting Hill, pero con bastante menos pasta. En este relato, que abarca más o menos un año de mi vida, entre realidad y fantasía, con muchos &lt;span class="a-text-italic" style="box-sizing: inherit;"&gt;flashbacks &lt;/span&gt;y bastante neurosis, con notas en blanco y negro, y notas de muchos colores, te resumo mi vida amorosa, mi búsqueda de amor, mis experiencias como dependienta en un &lt;span class="a-text-italic" style="box-sizing: inherit;"&gt;sex shop&lt;/span&gt; y mis experiencias en Tinder. Puestas a buscar, no descarto nada. El que busca, encuentra.&lt;/p&gt;&lt;p style="box-sizing: inherit; margin-top: 0px; color: rgb(45, 55, 72); font-family: Montserrat, sans-serif; font-size: 17px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Mi vida transcurre en un bucle del sex shop a casa, de casa al sex shop, con algunos encuentros Tinder en medio. Estas experiencias me hacen repasar mi visa amorosa como en una película, o como si leyera un libro. Al final, se trata de aprender e ir mejorando, en todo en general, pero en especial, en los asuntos del amor.&lt;/p&gt;&lt;p style="box-sizing: inherit; margin-top: 0px; color: rgb(45, 55, 72); font-family: Montserrat, sans-serif; font-size: 17px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Creo en el amor hombre-mujer, y es a lo que me voy a referir: la búsqueda consciente e inconsciente de ese compañero anhelado.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DBVLCFBF</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:37+00:00"/>
+        <meta name="calibre:title_sort" content="Sex Shop: En busca del amor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

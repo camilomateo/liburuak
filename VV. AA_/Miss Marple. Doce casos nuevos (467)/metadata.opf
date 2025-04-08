@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48ed46f9-aa56-4267-8d64-a326673486e5</dc:identifier>
+        <dc:title>Miss Marple. Doce casos nuevos</dc:title>
+        <dc:creator opf:file-as="VV. AA." opf:role="aut">VV. AA.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-09T14:01:48+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Después de 45 años, vuelve Miss Marple, la inmortal detective de la Gran Dama del Crimen.&lt;br&gt;Un maravilloso homenaje a la mejor investigadora de la historia.&lt;br&gt;La inmortal Miss Marple, la legendaria detective creada por Agatha Christie, vuelve a la acción tras su último caso cuarenta y cinco años atrás. Doce célebres escritoras contemporáneas capturan la voz única de la sagaz investigadora en doce nuevas historias, doce nuevos y trepidantes casos repletos de misterio, emoción e ingenio con los que rememorar a una de las detectives más importantes de todos los tiempos. Una celebración triunfal del legado de Agatha Christie y una lectura esencial para los amantes del crimen.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467069570</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;VV. AA.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-24T20:44:11.852065+00:00"/>
+        <meta name="calibre:title_sort" content="Miss Marple. Doce casos nuevos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

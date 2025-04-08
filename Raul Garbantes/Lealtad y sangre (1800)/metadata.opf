@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1800</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8434f05-5122-4767-b952-c6df914ddf72</dc:identifier>
+        <dc:title>Lealtad y sangre</dc:title>
+        <dc:creator opf:file-as="Garbantes, Raúl" opf:role="aut">Raúl Garbantes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mujeres policías son víctimas de asesinatos.&lt;br&gt;Una familia con un pasado oscuro.&lt;br&gt;¿Podrán Aneth y Goya atar cabos y evitar que siga esta terrible ola de homicidios?&lt;/p&gt;
+&lt;p&gt;Cuando la inspectora Aneth Castillo descubre que su mejor amiga, Linda Amatista, oficial de la policía, ha sido brutalmente asesinada, intuye la operación de una conspiración criminal de gran envergadura. Aneth, motivada por la ira y la tristeza, se propone descubrir la verdad.&lt;/p&gt;
+&lt;p&gt;A su vez, el inspector Guillermo Goya se decanta por la hipótesis de un asesino solitario, pero por primera vez siente que la comunicación con su compañera empieza a fallar.&lt;/p&gt;
+&lt;p&gt;¿Podrán Aneth y Goya resolver el caso antes que otra mujer policía se convierta en víctima?&lt;/p&gt;
+&lt;p&gt;Lealtad y sangre: Una serie policíaca de Aneth y Goya es el tercer libro de la serie Crímenes en tierras violentas. Si te gustan las historias escalofriantes y con suspense de principio a fin, entonces esta novela de Raúl Garbantes te fascinará.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Crímenes en tierras violentas"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:18+00:00"/>
+        <meta name="calibre:title_sort" content="Lealtad y sangre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

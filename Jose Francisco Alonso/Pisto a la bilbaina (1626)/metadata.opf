@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1626</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5908bd32-f680-4e62-bd5b-0935b921f6bb</dc:identifier>
+        <dc:title>Pisto a la bilbaína</dc:title>
+        <dc:creator opf:file-as="Alonso, José Francisco" opf:role="aut">José Francisco Alonso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-04T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;La mujer de un rico ingeniero de Bilbao ha sido &lt;span class="a-text-bold"&gt;secuestrada &lt;/span&gt;y el marido, cuando se dispone a pagar el rescate, descubre que tiene un &lt;span class="a-text-bold"&gt;amante&lt;/span&gt;. ¿Cuánto vale la vida de la persona que amas? ¿Tres millones de euros? ¿Y si tiene un amante? El &lt;span class="a-text-bold"&gt;profesor Loizaga&lt;/span&gt;
+ siente la curiosidad para llegar hasta el final de la historia y 
+descubrir qué se esconde detrás de todo, así que decide investigar con 
+la ayuda de su amigo, el oficial de la &lt;span class="a-text-bold"&gt;Ertzaintza&lt;/span&gt; Román Escudero. Y su madre, la increíble &lt;span class="a-text-italic"&gt;ama&lt;/span&gt; Loizaga.&lt;/p&gt;&lt;p&gt;Primera entrega del profesor Loizaga, un tipo &lt;span class="a-text-bold"&gt;irónico,&lt;/span&gt;
+ en un caso de adulterio y mucha comida acontecido en el Bilbao actual. 
+Como si del mejor Montalbán se tratara, José Francisco Alonso teje una 
+conexión entre &lt;span class="a-text-bold"&gt;género negro, humor y gastronomía&lt;/span&gt;, conformando una voz propia e inconfundible dentro del panorama de la novela negra.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Alrevés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-13T16:06:43.053910+00:00"/>
+        <meta name="calibre:title_sort" content="Pisto a la bilbaína"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

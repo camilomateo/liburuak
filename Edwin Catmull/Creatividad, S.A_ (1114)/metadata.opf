@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77a6e756-64ec-43db-97b3-82c2d99bc7a4</dc:identifier>
+        <dc:title>Creatividad, S.A.</dc:title>
+        <dc:creator opf:file-as="Catmull, Edwin" opf:role="aut">Edwin Catmull</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-24T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;Las fórmulas para crear entornos creativos de la mano del fundador y presidente de los estudios Disney-Pixar Studios.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;I&gt;Creatividad, S.A.&lt;/I&gt; es un libro para profesionales que deseen llevar a sus equipos a cumbres más altas, un manual para cualquier lector que valore la originalidad y el primer viaje al centro neurálgico de Pixar Animation: a sus reuniones, sus evaluaciones de cierre de proyecto y las sesiones del Braintrust de las que nacieron algunas de las películas más exitosas de la historia del cine. Es, en el fondo, un libro acerca de cómo se construye una cultura creativa, pero también, como afirma su autor, «un reflejo de las ideas que creo que hacen aflorar lo mejor que llevamos dentro.»&lt;/P&gt; &lt;P&gt;Cuando Ed Catmull era joven tenía un sueño: hacer la primera película de animación por ordenador. Persiguió este sueño como estudiante en la Universidad de Utah, y se asoció con George Lucas, en una colaboración que, indirectamente, le llevó a fundar Pixar con...</dc:description>
+        <dc:publisher>CONECTA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788416029204</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:14.308233+00:00"/>
+        <meta name="calibre:title_sort" content="Creatividad, S.A."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

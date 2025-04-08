@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2856</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5d51f52-a76c-4cc4-b7e4-5a33c570be22</dc:identifier>
+        <dc:title>El romántico</dc:title>
+        <dc:creator opf:file-as="Boyd, William" opf:role="aut">William Boyd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-20T14:28:20+00:00</dc:date>
+        <dc:description>La nueva y monumental novela de William Boyd, «uno de nuestros mejores narradores contemporáneos» según The Spectator. «Un viaje salvaje a través del siglo XIX... irresistible».Financial Times «Prácticamente imposible dejar de leerlo».Daily Mirror «Una maravillosa escapada literaria».VogueNacido en 1799, Cashel Greville Ross tiene la oportunidad de vivir muchas vidas. Son años alegres, pero devastadores, años de suerte y también de pérdidas inesperadas. Trasladándose del condado de Cork a Londres y de Waterloo a Zanzíbar, Cashel desafía el destino en todos los continentes, vivirá extravagantes aventuras en frenética búsqueda de su verdadero yo, se enfrentará a una terrible elección moral en un pueblo de Sri Lanka como parte del ejército de las Indias Orientales, viajará a Pisa, donde entrará en el mundo de los poetas románticos y en Rávena, la ciudad de Romeo y Julieta, conocerá al amor de su vida.Soldado, amante, padre, amigo de célebres poetas como el propio Lord Byron,...</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-30T21:16:37.494088+00:00"/>
+        <meta name="calibre:title_sort" content="romántico, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

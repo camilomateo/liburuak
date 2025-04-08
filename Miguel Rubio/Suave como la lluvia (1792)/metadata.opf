@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1792</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9aae4db-c407-442e-babe-e458df08966b</dc:identifier>
+        <dc:title>Suave como la lluvia</dc:title>
+        <dc:creator opf:file-as="Rubio, Miguel" opf:role="aut">Miguel Rubio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-02T06:00:00+00:00</dc:date>
+        <dc:description>«Me cogió del cuello y me dio un beso largo y cálido, como solo ella podía darlos. Un beso de esos que sabía perfectamente que me colocaban a sus pies.» A Pablo, un hombre mediocre, varado en un mundo pequeño, le acaban de diagnosticar una enfermedad terminal. Pero esto es solo el inicio de un tobogán imparable en el que los ángulos muertos de su vida se apoderan de él y le obligan a regresar a un pasado doloroso que ha marcado su existencia. Eva, su amor de juventud, es ahora una mujer derrotada por la tragedia, consumida por la pena y el dolor. Ambos tratarán de tener una segunda oportunidad el tiempo que les quede, aunque a su alrededor empiecen a acumularse los engaños, las mentiras y los muertos, porque saben que hay personas que siempre estarán encadenadas. Las novelas de Miguel Rubio contienen una prosa capaz de combinar los golpes más rotundos con las más dulces caricias. Son un trago seco que bebemos de golpe, como si la vida nos fuera en ello. Si el lector tiene algo que hacer en las próximas horas, mejor que se aleje de este libro.</dc:description>
+        <dc:publisher>Carena</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50001657</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">200</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:16.408162+00:00"/>
+        <meta name="calibre:title_sort" content="Suave como la lluvia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

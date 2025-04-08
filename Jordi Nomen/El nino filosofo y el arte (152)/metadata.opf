@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">152</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">152001ec-6b86-4dbe-9969-491b657c6988</dc:identifier>
+        <dc:title>El niño filósofo y el arte</dc:title>
+        <dc:creator opf:file-as="Nomen, Jordi" opf:role="aut">Jordi Nomen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-29T17:04:46+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;La herramienta ideal para desarrollar el pensamiento creativo y la sensibilidad estética en los niños y niñas.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;em style="color: #000000"&gt;El niño filósofo y el arte&lt;/em&gt;&lt;span style="color: #000000"&gt; es la segunda entrega de la biblioteca de filosofía para niños de Jordi Nomen. En esta ocasión traza los puentes entre la filosofía y el arte con el objetivo de promover el desarrollo del pensamiento creativo y la sensibilidad estética en la infancia. El libro, útil tanto en casa como en la escuela, se divide en una primera parte teórica y una segunda parte práctica que contiene actividades basadas en recursos musicales, plásticos, literarios y fotográficos para llevar a cabo con los niños. La labor pedagógica de Jordi Nomen ha sido reconocida con varios premios, y su libro &lt;/span&gt;&lt;em style="color: #000000"&gt;El niño filósofo&lt;/em&gt;&lt;span style="color: #000000"&gt;, ya traducido a varias lenguas, lo ha consolidado como un referente en el campo de la filosofía para niños.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Arpa Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-01-19T07:55:27+00:00"/>
+        <meta name="calibre:title_sort" content="niño filósofo y el arte, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

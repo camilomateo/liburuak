@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1065</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5444a2d2-712d-4e93-959d-786db501fdb5</dc:identifier>
+        <dc:title>El hombre de la guerra</dc:title>
+        <dc:creator opf:file-as="Pinilla, Ramiro" opf:role="aut">Ramiro Pinilla</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-07-17T07:04:05+00:00</dc:date>
+        <dc:description>En el centenario del autor, una novela inédita que da la medida de la maestría narrativa de Ramiro Pinilla.
+«Pinilla es uno de los cinco grandes nombres de la literatura española de los últimos cien años.» Román Piña, El Cultural
+«Pinilla ha levantado universos y ha creado personajes de fuste inspirado en su inmediato entorno vasco. Se le ha comparado con Faulkner y García Márquez.»  Víctor Amela, La Vanguardia
+«Un novelista mayor. Pinilla es de los pocos que seguirán contando dentro de varios decenios.» Ricardo Senabre, El Cultural
+«Una demostración más de que la gran literatura puede ser, al tiempo que amena, divertida, el mayor entretenimiento del mundo, una pieza clave en la construcción y comprensión del universo en el que vivimos.» Enrique Murillo, El País
+«Pinilla pertenece al grupo de raros forjadores de mitologías.» Ariadna Castellarnau, Lateral
+Urko Pínaga regresa del exilio para asistir al entierro de su tía Flora, con la que vivió antes de marcharse a Inglaterra, como tantos niños vascos. Urko se encuentra con un Getxo diferente al que conoció, pero sobre todo con una casa, la de la tía, que ahora se le presenta como un lugar misterioso cargado de repente de secretos. ¿Por qué tiene un aviso de derribo por parte de las autoridades? ¿Por qué su prima Regina se comporta de un modo tan extraño? ¿Mantuvo Flora a escondidas alguna relación que no le confesó a su sobrino? ¿Ha fallecido de muerte natural? El contraste entre lo que Flora le contaba por carta y lo que Urko se encuentra alimenta las sospechas en torno a una mujer a la que en realidad el protagonista quizá desconocía por completo.</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411073455</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-11-05T15:16:29.968155+00:00"/>
+        <meta name="calibre:title_sort" content="hombre de la guerra, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

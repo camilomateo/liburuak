@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d90a31bf-b729-4897-bf81-eb4b462157f2</dc:identifier>
+        <dc:title>El clavo</dc:title>
+        <dc:creator opf:file-as="Alarcón, Pedro Antonio de" opf:role="aut">Pedro Antonio de Alarcón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Detective</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Stories</dc:subject>
+        <dc:subject>Spanish</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>19th</dc:subject>
+        <dc:subject>Century</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-06T12:21:20+00:00"/>
+        <meta name="calibre:title_sort" content="clavo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

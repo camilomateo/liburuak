@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">412</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7d67224-1063-4feb-b3cf-06659414d6d1</dc:identifier>
+        <dc:title>El lugar alejado más cercano posible</dc:title>
+        <dc:creator opf:file-as="Long, Hayley" opf:role="aut">Hayley Long</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Este libro comienza con una terrible sacudida y se desarrolla a partir de los fragmentos dejados por esa imprevista conmoción. Griff y Dylan viajan con sus padres a su nuevo hogar en Brooklyn cuando sufren un accidente automovilístico. La vida de los chicos cambia radicalmente al quedar huérfanos y tener que mudarse a Gales a vivir con sus tíos. Pero tener un hogar y un nuevo lugar donde comenzar no es suficiente. Griff se mantiene encerrado en sí mismo y Dylan quiere sacar a su hermano del dolor, pero antes él mismo tendrá que dar el paso necesario para que ambos puedan seguir adelante. La galardonada autora Hayley Long nos presenta ahora el poderoso relato de un amor fraterno que se sobrepone a una gran tragedia. "Un relato estremecedor sobre la pena, la esperanza y la hermandad. &lt;/p&gt;
+&lt;p&gt;" Kat Ellis, autora de Purge&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Océano Gran Travesía</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Hayley Long&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-13T08:46:52.240174+00:00"/>
+        <meta name="calibre:title_sort" content="lugar alejado más cercano posible, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">391</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5432924-9a4c-4b39-9fbe-9b5de2b4b882</dc:identifier>
+        <dc:title>El gran libro de la venta online</dc:title>
+        <dc:creator opf:file-as="Miquel Baixas Calafell" opf:role="aut">Miquel Baixas Calafell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-22T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;¿Quieres vender online pero no sabes por donde empezar? Miquel Baixas 
+nos descubre el mundo de los sistemas de venta desde cero, describiendo 
+todas las claves y todos los procesos de una manera sencilla para que 
+acercar nuestro negocio tradicional al mercado online y explicando paso a
+ paso las nuevas estrategias para vender más y con alcance 
+internacional.&lt;/p&gt;</dc:description>
+        <dc:publisher>Deusto</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miquel Baixas Calafell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-04T13:11:47+00:00"/>
+        <meta name="calibre:title_sort" content="gran libro de la venta online, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

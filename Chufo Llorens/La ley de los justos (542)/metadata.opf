@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">152f9172-2adf-431d-89fc-769cadafd1e9</dc:identifier>
+        <dc:title>La ley de los justos</dc:title>
+        <dc:creator opf:file-as="Lloréns, Chufo" opf:role="aut">Chufo Lloréns</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;En la Barcelona modernista germina una 
+historia de amor entre dos jóvenes de clases sociales distintas. Una 
+gran novela histórica de pasión, ideales y venganza.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;A
+ finales del siglo XIX, Barcelona vive una época de esplendor. Acaba de 
+celebrarse con gran éxito la Exposición Universal y una burguesía 
+próspera y culta, que busca inspiración en los salones parisinos, exhibe
+ su elegancia en fiestas y veladas musicales. Pero al otro lado de la 
+ciudad, donde las calles se estrechan y huelen a pobreza, el rencor y la
+ injusticia están fraguando una revolución capaz de recurrir a la 
+violencia más descarnada.&lt;/p&gt;&lt;p&gt;Práxedes Ripoll dirige con 
+mano de hierro a los obreros de la fábrica que lleva su nombre, pero no 
+consigue que sus hijos vayan por el camino que él pretende. El mayor, 
+Germán, es un vividor que goza del favor de las mujeres y disfruta de 
+los placeres que le ofrece la Barcelona más canalla mientras que el 
+menor, Antonio, está decidido a abrazar el sacerdocio para el resto de 
+sus días. Y Candela, su joven y rebelde sobrina, que no está conforme 
+con el papel que destina para la mujer la machista sociedad de la época,
+ tampoco está dispuesta a seguir sus designios.&lt;/p&gt;&lt;p&gt;Y es 
+que, desde hace un tiempo, Candela se ve a escondidas con Juan Pedro 
+Bonafont, el hijo de la costurera; un muchacho de mirada franca y amante
+ de los libros de quien se ha enamorado perdidamente. Un amor imposible 
+para las rígidas costumbre de los Ripoll, quienes no dudarán en usar 
+todos los medios a su alcance para frustrar los planes de la pareja.&lt;/p&gt;&lt;p&gt;Con
+ la habilidad de los grandes maestros de la novela histórica, Chufo 
+Lloréns teje un tapiz geográfico y humano apasionante. Su pluma ágil y 
+perspicaz nos conduce desde los lujosos reservados del teatro del Liceo 
+hasta los lóbregos sótanos donde se tramaban las conjeturas anarquistas,
+ mientras el destino de los personajes se va trenzando en una Barcelona 
+que se debate entre la atracción por la modernidad y el miedo a unos 
+cambios sociales violentos e inevitables.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;La crítica ha dicho...&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00SXF01VM</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Chufo Lloréns&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-06T19:50:05.376562+00:00"/>
+        <meta name="calibre:title_sort" content="ley de los justos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

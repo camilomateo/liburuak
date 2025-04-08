@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">705</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab5bdc49-fe38-429f-92e5-941cd089e8fe</dc:identifier>
+        <dc:title>La felicidad cabe en una taza de café</dc:title>
+        <dc:creator opf:file-as="Kawaguchi, Toshikazu" opf:role="aut">Toshikazu Kawaguchi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-13T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;b&gt;Llega una nueva delicia con sabor japonés del autor de &lt;/b&gt;&lt;i&gt;&lt;b&gt;Antes de que se enfríe el café&lt;/b&gt;&lt;/i&gt;&lt;b&gt;, la novela que ya ha conquistado a más  de un millón de lectores en todo el mundo.&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Un fenómeno esperanzador sobre los arrepentimientos del pasado, la  promesa del futuro y el increíble regalo que es el presente.&lt;/b&gt;&lt;/p&gt;
+ &lt;p align="JUSTIFY"&gt;Dicen que en la cafetería Funikuri Funikura hay una mesa en la que  puedes sentarte, pedir un café y viajar al pasado durante el tiempo que tarda este en enfriarse.&lt;/p&gt;
+ &lt;p align="JUSTIFY"&gt;Bajo la atenta mirada de la encantadora camarera Kazu, los clientes del  café se enfrentarán a los momentos más importantes de sus vidas y  descubrirán que la felicidad consiste en saber perdonarse a uno mismo.&lt;/p&gt;
+  &lt;p align="JUSTIFY"&gt;Con un tono delicado y una cuidada atmósfera, Kawaguchi nos relata  cuatro historias de redención y esperanza llenas de personajes  inolvidables, tiernos, contradictorios ysorprendentes que ya habitan en el corazón de multitud de lectores.&lt;/p&gt;
+  &lt;p&gt;«Toshikazu Kawaguchi comparte con nosotros la receta de la serenidad: llega la secuela de &lt;i&gt;Antes de que se enfríe el café&lt;/i&gt;».&lt;br /&gt;&lt;i&gt;La Repubblica&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Un bálsamo para las almas heridas».&lt;br /&gt;&lt;i&gt;Panorama&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Volvemos a la cafetería en la que reviviremos en pasado con nuevas  historias, aún más conmovedoras y poéticas, sobre el dolor y la valentía».&lt;br /&gt;&lt;i&gt;La Lettura&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Una lectura emocionante y emotiva para alejar las preocupaciones cotidianas».&lt;br /&gt;&lt;i&gt;Publishers Weekly&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Una nueva historia sobre la cafetería de Tokio en la que basta una taza  de café para viajar en el tiempo y hacer las paces con el pasado».&lt;br /&gt;&lt;i&gt;La Stampa&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«El escritor japonés que se ha catapultado a las listas de más vendidos».&lt;br /&gt;&lt;i&gt;La Repubblica&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Un rápido viaje de ida y vuelta al pasado o al futuro para  reencontrarse con un ser querido en el que los protagonistas no tienen  la posibilidad de</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401030185</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Antes de que se enfríe el café"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:19.915418+00:00"/>
+        <meta name="calibre:title_sort" content="felicidad cabe en una taza de café, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

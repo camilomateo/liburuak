@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f269d582-f42f-43d3-aec2-94f77cacae08</dc:identifier>
+        <dc:title>Terror de Estado</dc:title>
+        <dc:creator opf:file-as="Hillary Rodham Clinton y Louise Penny" opf:role="aut">Hillary Clinton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-22T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;
+  &lt;b&gt;Hillary Clinton y Louise Penny nos sorprenden con un&lt;/b&gt;
+  &lt;i&gt;
+    &lt;b&gt; thriller&lt;/b&gt;&lt;/i&gt;
+  &lt;b&gt; cargado de adrenalina e información privilegiada.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;i&gt;Terror de Estado&lt;/i&gt; sigue la trayectoria de una secretaria de
+  Estado  novel que se incorpora a la administración de su rival, un
+  presidente  que llega al poder tras un mandato que relegó a Estados
+  Unidos a un segundo plano en el tablero internacional. Cuando una
+  serie de ataques terroristas dinamita el orden establecido, esta mujer
+  será  la encargada de aglutinar al equipo que descifre aquella
+  conspiración  letal, un plan calculado al milímetro para sacar
+  provecho de un gobierno estadounidense débil y desconectado de la realidad.&lt;/p&gt;
+&lt;p&gt;Este&lt;i&gt; thriller&lt;/i&gt; de alto voltaje revela secretos políticos de
+  alcance  global accesibles tan sólo a quien conoce la Casa Blanca
+  desde dentro.&lt;/p&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418681677</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Hillary Clinton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-02T20:04:55.701302+00:00"/>
+        <meta name="calibre:title_sort" content="Terror de Estado"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

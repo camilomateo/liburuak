@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1365</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05781173-9c49-435e-9260-9f955d9f225e</dc:identifier>
+        <dc:title>Entender la Rusia de Putin</dc:title>
+        <dc:creator opf:file-as="Poch-de-Feliu, Rafael" opf:role="aut">Rafael Poch-de-Feliu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-30T23:00:00+00:00</dc:date>
+        <dc:description>Un libro para entender la Rusia actual, más allá de los lugares comunes que pueblan habitualmente las noticias La Rusia poscomunista y el particular régimen del presidente Putin, su nacionalismo, su crítico desdén y desconfianza hacia Occidente, así como el consenso que tiene en la sociedad rusa, no se comprenden sin atender a los años noventa, a la autodisolución de la URSS por sus propios dirigentes y al rasgo central que esa década imprimió en la conciencia social y nacional de los rusos: la humillación. Aquel periodo supuso una traumática depresión para millones de personas, y ofreció el medio idóneo para la reconversión de una casta administrativa en clase propietaria. Una vez realizada esa operación, se planteó la cuestión del Estado: recuperar su maltrecha función y restablecer su prestigio, tanto dentro como fuera del país. Vladimir Putin fue el encargado de esa restauración.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <meta name="calibre:timestamp" content="2024-04-03T10:30:00.641595+00:00"/>
+        <meta name="calibre:title_sort" content="Entender la Rusia de Putin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

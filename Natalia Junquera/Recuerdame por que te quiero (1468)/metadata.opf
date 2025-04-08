@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1468</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6991317d-5934-4d85-af70-324eefb38878</dc:identifier>
+        <dc:title>Recuérdame por qué te quiero</dc:title>
+        <dc:creator opf:file-as="Natalia Junquera" opf:role="aut">Natalia Junquera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-13T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una novela sobre el amor y la lealtad&lt;/p&gt;
+&lt;p&gt;Natalia Junquera debuta en ficción con una novela valiente cargada de amor a Galicia.&lt;/p&gt;
+&lt;p&gt;Milagros es una de esas aldeas gallegas donde los hombres emigran y las mujeres esperan. Lola pactó con su marido, Manuel, que estaría tres años en Argentina, pero tras un par de visitas, él deja de dar señales de vida. Mientras el resto de los vecinos regresa de América, Lola mantiene su vida en suspenso, buscando justificaciones para la falta de noticias de Manuel. Su principal apoyo es Pablo, su cuñado, quien todas las noches escribe en secreto a la mujer que se despierta cada día deseando la carta de otro. El regreso de Manuel, dos décadas después, revolucionará una aldea aparentemente tranquila pero llena de secretos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491292265</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0B2R4XD86</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T14:46:10.590273+00:00"/>
+        <meta name="calibre:title_sort" content="Recuérdame por qué te quiero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

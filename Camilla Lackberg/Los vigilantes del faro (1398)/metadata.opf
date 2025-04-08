@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75381ceb-7b44-485b-b46b-b7341d12bdf2</dc:identifier>
+        <dc:title>Los vigilantes del faro</dc:title>
+        <dc:creator opf:file-as="Läckberg, Camilla" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-13T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una historia de antiguas leyendas y tragedias 
+familiares entre la década de 1870 y la época actual. La novela más 
+espectral de la serie Los crímenes de Fjällbacka (Novela negra)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Desde
+ que Patrik se ha reincorporado al trabajo, Erica se dedica de lleno a 
+sus gemelos. Apenas tiene tiempo para ir a visitar a Annie Wester, una 
+compañera de instituto que acaba de regresar a Fjällbacka. Junto con su 
+hijo Sam, Annie se ha instalado en el faro de la remota isla de Gråskär,
+ a pesar de los rumores que circulan sobre el lugar.  Cuando Mats 
+Sverin, contable del ayuntamiento de Fjällbacka, aparece asesinado, 
+Patrik se enfrenta a una nueva investigación. ¿Por qué regresó tan 
+precipitadamente a Fjällbacka tras muchos años fuera? Y ¿qué relación 
+mantenía con Annie, su antigua novia, y la última persona que lo vio con
+ vida? Erica emprenderá una investigación paralela y descubrirá que 
+presente y pasado se entremezclan en esta fascinante nueva entrega de  
+Los crímenes de Fjällbacka.&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00CD2EMO8</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788415532934</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Los crímenes de Fjällbacka"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2024-04-08T12:39:41.603230+00:00"/>
+        <meta name="calibre:title_sort" content="vigilantes del faro, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

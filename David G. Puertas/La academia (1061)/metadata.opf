@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1061</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f987697-7b4e-4d7c-a5be-b54c2d60f3e9</dc:identifier>
+        <dc:title>La academia</dc:title>
+        <dc:creator opf:file-as="Puertas, David G." opf:role="aut">David G. Puertas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-06T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;b&gt;Un internado de élite. Un cadáver sin identificar. Demasiados secretos.&lt;/b&gt;&lt;/p&gt;
+  &lt;p style=""&gt;&lt;b&gt;«Si te enganchaste a &lt;/b&gt;&lt;i&gt;&lt;b&gt;Élite &lt;/b&gt;&lt;/i&gt;&lt;b&gt;y &lt;/b&gt;&lt;i&gt;&lt;b&gt;El internado&lt;/b&gt;&lt;/i&gt;&lt;b&gt;, este libro te va a flipar».&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Andrea Compton&lt;/b&gt;&lt;/p&gt;
+ &lt;p style=""&gt;&lt;b&gt;«¡Altamente adictivo! Misterio, drama, amor y desenfreno, lo tiene todo».&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Inés Hernand&lt;/b&gt;&lt;/p&gt;
+ &lt;p style=""&gt;&lt;b&gt;TODOS CALLAN.&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;Un selecto grupo de alumnos ingresa en la academia Roca Negra, una institución elitista ubicada en un paraje frío e inhóspito de Baqueira. Este prestigioso internado les garantiza convertirse en los líderes del mañana. A cambio, solo deben acatar las normas y mantener la compostura. Pero todo da un giro inesperado cuando la nieve los deja incomunicados y un cadáver con evidentes signos de violencia aparece en escena.&lt;/p&gt;
+ &lt;p style=""&gt;&lt;b&gt;TODOS MIENTEN.&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;Será entonces cuando la policía inicie una investigación que pondrá en el punto de mira a esos estudiantes privilegiados, quienes hasta hace poco confiaban los unos en los otros. Sin embargo, ahora deberán asumir que entre ellos hay, al menos, un asesino.&lt;/p&gt;
+ &lt;p style=""&gt;&lt;b&gt;TODOS COMPARTEN UN SECRETO... HASTA EL FINAL. &lt;/b&gt;&lt;/p&gt;
+  &lt;p style=""&gt;&lt;b&gt;¿Cómo actuarías si las únicas personas en las que puedes confiar también pudieran traicionarte?&lt;/b&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>2023</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-84-253-6581-2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-11-05T15:16:28.157675+00:00"/>
+        <meta name="calibre:title_sort" content="academia, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

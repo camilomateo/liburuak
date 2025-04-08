@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2868</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">456cec7b-0979-4089-bf5e-1f29a8a03f5d</dc:identifier>
+        <dc:title>Azul serenidad o la muerte de los seres queridos</dc:title>
+        <dc:creator opf:file-as="Díez, Luis Mateo" opf:role="aut">Luis Mateo Díez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-16T00:00:00+00:00</dc:date>
+        <dc:description>Novela ganadora del Premio Nacional de las Letras Españolas. El gran libro sobre el duelo de la literatura contemporánea en español, por el autor Premio Nacional de las Letras y Premio Cervantes.«[Un] libro bellísimo, que es a la postre un libro de consuelo». Javier Goñi, Babelia (El País)Este relato está escrito desde la inmediatez de unas pérdidas familiares que, de nuevo, auspiciaron la difícil disyuntiva de la imposibilidad de entender la muerte y la necesidad de comprenderla. La muerte que viene, la muerte que se espera, la muerte avasalladora, la muerte voluntaria...Está escrito para el consuelo, no podría estarlo para ahondar en el dolor que nos separa de esos seres queridos que impregnan con su aura nuestra memoria. La rememoración de estos hechos, donde nada se inventa, quiere también suscitar el rumor de la ausencia que, en su benigna murmuración, ayude a pacificar lo que el tiempo alivia y el recuerdo reclama.La crítica ha dicho:«[Su obra destaca] por su prosa...</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-02T12:10:16.413926+00:00"/>
+        <meta name="calibre:title_sort" content="Azul serenidad o la muerte de los seres queridos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

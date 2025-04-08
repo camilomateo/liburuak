@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">693</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a5d1184-e310-4f16-bd1f-aec3c2c0bda9</dc:identifier>
+        <dc:title>Algún tiempo atrás. La vida de Gustavo Cerati</dc:title>
+        <dc:creator opf:file-as="Sergio MArchi" opf:role="aut">Sergio Marchi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-01T06:00:00+00:00</dc:date>
+        <dc:description>La biografía definitiva de Gustavo Cerati, uno de los músicos argentinos de mayor trascendencia internacional, escrita por uno de los periodistas e historiadores que mejor lo conoció, y que pone en un mismo, exhaustivo tomo, hecho de infinidad de entrevistas y un enorme archivo personal, las distintas dimensiones del hombre y el artista, su recorrido vital, su fuerza creativa y su enorme legado. La perfección es inalcanzable. Sin embargo, Gustavo Cerati la buscó con fuerza y pasión en su arte. En conexión con ese espíritu irreductible, Algún tiempo atrás. La vida de Gustavo Cerati aborda el recorrido vital y creativo del hombre y del artista con la misma conciencia -la de que hay enigmas de imposible resolución- pero sin limitarse jamás en su afanosa investigación. Decidido a recuperar la parte más luminosa de esta figura única, la de uno de los músicos argentinos de mayor proyección internacional, Sergio Marchi no deja rincón sin visitar: en procura tanto del compositor e intérprete que trascendió masivamente con Soda Stereo y luego se reinventó en una extraordinaria carrera solista, como del hijo de una familia trabajadora que -dato que suele olvidarse bajo el prejuicioso mito del "cheto"- llegó desde el interior del país a la Buenos Aires de los 50; del niño travieso, curioso y activo; del adolescente insaciable que conoció la ebullición rockera de los 70; de ese muchacho que supo que habría de hacerse a sí mismo a fuerza de talento y también de trabajo. Del ser enamoradizo que encontró en las mujeres un manantial inagotable de inspiración, mucho amor y no pocos padecimientos; del marido y padre que anheló ser. Del obrero musical que muy poca gente conoció; que experimentó con el rock, el pop, la electrónica, con la tecnología y con sus pelos. Y de la estrella hábil, escurridiza y audaz que lidió con adversidades externas e internas y supo sortear muchas de las trampas de la fama. Del hombre que transitó varias lunas y unas cuantas vidas. En virtud de una investigación minuciosa, una multitud de entrevistas exclusivas a otros artistas, amigos y allegados, y un archivo personal enorme forjado a través de una relación de años que fue un vínculo profesional pero también de afecto y complicidad, Marchi pone en juego las múltiples dimensiones de este hacedor de universos, desbarata algunas falsas creencias y recupera la magia de un personaje a la vez mítico y absolutamente real y sensible, de carne y hueso.</dc:description>
+        <dc:publisher>SUDAMERICANA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">2222222</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-16T07:12:36.153441+00:00"/>
+        <meta name="calibre:title_sort" content="Algún tiempo atrás. La vida de Gustavo Cerati"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

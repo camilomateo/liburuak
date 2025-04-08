@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b9e1e18-d493-4663-b971-072416a6e3e3</dc:identifier>
+        <dc:title>Mongo Blanco</dc:title>
+        <dc:creator opf:file-as="Bardem, Carlos" opf:role="aut">Carlos Bardem</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-22T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p style="text-align:center"&gt;&lt;B&gt;Carlos&lt;/B&gt; &lt;B&gt;Bardem vuelve a la escritura con la apasionante epopeya  de un personaje real, el poderoso y legendario Mongo Blanco, en una épica y ambiciosa novela plagada de acción.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Tras la muerte de su padre, el joven malagueño Pedro Blanco se echa a la  mar en busca de un futuro mejor. Gracias a su pericia y fuerza de voluntad, escala posiciones hasta convertirse en &lt;B&gt;Mongo Blanco&lt;/B&gt;, uno  de los grandes negreros del siglo XIX. Pero la traición de una persona  muy cercana a él lo llevará al comienzo de su caída en desgracia.&lt;/P&gt; &lt;P&gt;Así se lo cuenta a su médico desde el manicomio en el que está encerrado  sin sospechar que su historia todavía no ha terminado, ya que alguien de  su pasado ha vuelto para cobrarse una deuda pendiente. En el ocaso de su vida, &lt;B&gt;Mongo Blanco&lt;/B&gt; tendrá ocasión de redimirse o ser finalmente  víctima de sus excesos.&lt;/P&gt; &lt;P&gt;&lt;B&gt;España, Cuba o África son algunos de los escenarios de un envolvente  relato ricamente ambientado, profusamente documentado y escrito con un  nivel de detalle y emoción asombroso, que ningún amante de la novela  histórica, de aventuras o de la literatura en general podrá dejar pasar.&lt;/B&gt;&lt;/P&gt; &lt;p style="text-align:center"&gt;&lt;I&gt;«Yo: don Pedro Blanco, negrero. Un loco. Gigante o monstruo. El Mongo  Blanco. El Gran Mago-Espejo-Sol. El Rey de Gallinas. El Pirata. El  Padre. El Hermano. De los arrabales de Málaga al trono de África, de la  gloria de La Habana a un manicomio de Barcelona. Una pistola. Si tuviera  una pistola mancharía una pared con mis sesos. Esta es mi culpa y mi penitencia. Esta es mi historia.»&lt;/I&gt;&lt;/P&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:15.017225+00:00"/>
+        <meta name="calibre:title_sort" content="Mongo Blanco"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

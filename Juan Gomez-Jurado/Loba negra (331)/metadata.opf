@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">331</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b654a6c-aa25-4c19-8868-48e39c3d97a8</dc:identifier>
+        <dc:title>Loba negra</dc:title>
+        <dc:creator opf:file-as="Gómez-Jurado, Juan" opf:role="aut">Juan Gómez-Jurado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-23T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;El &lt;em&gt;thriller&lt;/em&gt; que los 250.000 lectores de &lt;em&gt;Reina Roja&lt;/em&gt; están esperando.&lt;/strong&gt;
+&lt;strong&gt;SEGUIR VIVA&lt;/strong&gt;&lt;br&gt;
+Antonia Scott no tiene miedo a nada. Solo a sí misma.
+&lt;strong&gt;NUNCA FUE&lt;/strong&gt;&lt;br&gt;
+Pero hay alguien más peligroso que ella. Alguien que podría vencerla.
+&lt;strong&gt;TAN DIFÍCIL&lt;/strong&gt;&lt;br&gt;
+La Loba negra está cada vez más cerca. Y Antonia, por primera vez, está asustada.
+&lt;strong&gt;La crítica y los lectores opinan sobre Antonia Scott:&lt;/strong&gt;&lt;br&gt;
+«Es literalmente imposible no engancharse. Antonia Scott es lo mejor que le ha ocurrido al &lt;em&gt;thriller&lt;/em&gt; internacional en los últimos años.»&lt;br&gt;
+&lt;em&gt;ABC&lt;/em&gt;
+«El mejor escritor de &lt;em&gt;thriller&lt;/em&gt; de Europa es Juan Gómez-Jurado.»&lt;br&gt;
+&lt;em&gt;Zenda&lt;/em&gt;
+«Gómez-Jurado, autor en auge internacional, ha hilado un personaje cautivador, el de Antonia Scott.»&lt;br&gt;
+&lt;em&gt;La Vanguardia&lt;/em&gt;
+«Atrapa irremediablemente al lector.»&lt;br&gt;
+&lt;em&gt;Booklist&lt;/em&gt;
+**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Juan Gómez-Jurado&lt;/strong&gt;  (Madrid, 1977) es periodista y autor de varias novelas de gran éxito, traducidas a cuarenta lenguas. Su último  &lt;em&gt;thriller&lt;/em&gt; ,  &lt;em&gt;Reina Roja&lt;/em&gt;  (La Trama, 2018), se ha convertido en un gran fenómeno de ventas, con más de doscientos cincuenta mil ejemplares vendidos, y ha consagrado a su autor como uno de los máximos exponentes del género a nivel internacional. Actualmente es colaborador en varios medios y cocreador de los podcast  &lt;em&gt;Todopoderosos&lt;/em&gt; y  &lt;em&gt;Aquí hay dragones&lt;/em&gt;. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07X6JD96W</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788466666619</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">wy2sDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07X6JD96W</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Juan Gómez-Jurado&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-16T18:17:43.708539+00:00"/>
+        <meta name="calibre:title_sort" content="Loba negra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

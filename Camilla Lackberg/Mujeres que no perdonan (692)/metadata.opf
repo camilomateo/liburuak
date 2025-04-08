@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">692</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d388db9c-7fdd-4662-ad55-a90c20aa19c0</dc:identifier>
+        <dc:title>Mujeres que no perdonan</dc:title>
+        <dc:creator opf:file-as="Läckberg, Camilla" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-25T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Camilla Läckberg, una de las autoras de novela negra más leídas del mundo, con 26 millones de ejemplares vendidos en 60 países, se aleja de sus series de Fjällbacka y Faye y nos regala su novela más negra y adictiva: Mujeres que no perdonan, una historia cargada de tensión, suspense y giros impredecibles. Ingrid, Victoria y Birgitta son tres mujeres muy distintas. Para el resto del mundo, llevan vidas aparentemente perfectas, pero las tres tienen algo en común: sufren en secreto la tragedia de vivir sometidas a sus maridos. Hasta que un día, llevadas al límite, planean, sin tan siquiera conocerse, el crimen perfecto.«Una trama perfecta de una de las maestras de la ficción mundial.» La Repubblica «Una novela fascinante sobre tres mujeres que deberán enfrentarse a los hombres responsables de convertir sus vidas en un auténtico infierno.» La Gazzetta del Sud&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-16T07:12:35.097194+00:00"/>
+        <meta name="calibre:title_sort" content="Mujeres que no perdonan"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

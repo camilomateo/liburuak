@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">641</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">991b3431-c32a-44db-b29a-21dc256c9506</dc:identifier>
+        <dc:title>El ladrón de miedos</dc:title>
+        <dc:creator opf:file-as="Pérez, Luis David" opf:role="aut">Luis David Pérez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-01T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h5&gt;Cuando el bien y el mal conviven en la misma casa, pero no se puede discernir quién es uno y el otro.&lt;/h5&gt;
+&lt;p&gt;Oviedo. 21 de septiembre. La capital asturiana celebra San Mateo, su fiesta grande.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;La inspectora de Homicidios Marta Escudero y su compañero Quiroga refuerzan la plantilla durante el turno diurno. A media tarde reciben un aviso.&lt;br&gt;&lt;br&gt;Un matrimonio, bajo los efectos de una nueva droga, ha cometido la mayor atrocidad de sus vidas. El hombre es Rodri, un exjugador de fútbol profesional.&lt;br&gt;&lt;br&gt;El caso se vuelve mediático y muchos interrogantes se abren durante la investigación, repleta de trabas y obstáculos. Marta está decidida a impartir justicia, aunque no imagina a quién deberá enfrentarse.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Luis David Pérez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspectora Escudero"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:32:21.822375+00:00"/>
+        <meta name="calibre:title_sort" content="ladrón de miedos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

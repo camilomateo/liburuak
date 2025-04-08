@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e616d20b-f8de-4490-8f78-6651f7e2cbd6</dc:identifier>
+        <dc:title>Tejido de sombras</dc:title>
+        <dc:creator opf:file-as="Manso, Noni" opf:role="aut">Noni Manso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-16T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;El famoso blogger Asher Knight ha muerto en extrañas circunstancias.&lt;br&gt;&lt;br&gt;¿Qué harías?&lt;br&gt;&lt;br&gt;A) Postearlo.&lt;br&gt;B) Nada.&lt;br&gt;C) Investigar su muerte.&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CVVG2LXX</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-20T15:17:36.379282+00:00"/>
+        <meta name="calibre:title_sort" content="Tejido de sombras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

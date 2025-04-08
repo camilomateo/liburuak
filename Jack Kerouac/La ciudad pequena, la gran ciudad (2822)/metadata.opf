@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2822</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e58da970-2dbb-46c2-add5-0241cf5f8406</dc:identifier>
+        <dc:title>La ciudad pequeña, la gran ciudad</dc:title>
+        <dc:creator opf:file-as="Kerouac, Jack" opf:role="aut">Jack Kerouac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-12T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;&lt;strong&gt;Entre la calma rural y el vértigo urbano: el viaje iniciático de los hermanos Martin en una América cambiante.&lt;/strong&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Antes de que Jack Kerouac se convirtiera en la voz de una generación, La ciudad pequeña, la gran ciudad, su poderoso y conmovedor debut literario, ya capturaba el pulso vibrante de la América de posguerra. Inspirado por el duelo por la muerte de su padre, su infancia en Lowell y movido por la determinación de escribir la Gran Novela Americana, la historia sigue a la familia Martin, en especial a los hermanos Joe y Peter, en su trayecto desde una pequeña ciudad de Massachusetts hasta la bulliciosa Nueva York.&lt;/p&gt;&lt;p&gt;En este cruce de caminos entre lo rural y lo urbano, Kerouac captura la tensión, las esperanzas y las desilusiones de una juventud que busca su lugar en un mundo cambiante. Con una prosa lírica y evocadora, que recuerda a grandes novelistas estadounidenses como Thomas Wolfe, Kerouac traza un retrato íntimo y visceral de una...</dc:description>
+        <dc:publisher>Editorial Anagrama</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-23T13:00:53.076104+00:00"/>
+        <meta name="calibre:title_sort" content="ciudad pequeña, la gran ciudad, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

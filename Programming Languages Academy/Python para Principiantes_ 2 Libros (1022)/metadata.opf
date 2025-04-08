@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1022</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc71558b-feec-4fe0-94b2-f2f2658cd28c</dc:identifier>
+        <dc:title>Python para Principiantes: 2 Libros en 1: Programación de Python para principiantes + Libro de trabajo de Python (Spanish Edition)</dc:title>
+        <dc:creator opf:file-as="Academy , Programming Languages" opf:role="aut">Programming Languages Academy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-30T22:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B087ZKJPK8</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-09-12T17:25:23.427576+00:00"/>
+        <meta name="calibre:title_sort" content="Python para Principiantes: 2 Libros en 1: Programación de Python para principiantes + Libro de trabajo de Python (Spanish Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

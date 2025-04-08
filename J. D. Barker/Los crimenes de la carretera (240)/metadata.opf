@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">240</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9a439c3-2322-48c3-b540-0064aecd20c7</dc:identifier>
+        <dc:title>Los crímenes de la carretera</dc:title>
+        <dc:creator opf:file-as="J. D. Barker &amp; James Patterson" opf:role="aut">J. D. Barker</dc:creator>
+        <dc:creator opf:file-as="J. D. Barker &amp; James Patterson" opf:role="aut">James Patterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-23T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt; &lt;p&gt;Una noche, Michael Fitzgerald descubre a una joven muerta en su bañera al volver del supermercado. Al lado del cadáver hay una pluma de gorrión. Aterrorizado, llama a la policía, que le interroga sobre la víctima, Alyssa Tepper, a la que él asegura no conocer. El detective Dobbs y la agente Gimble, del FBI, unen fuerzas en lo que parece un simple asesinato: cuando salen a la luz fotos en las que Michael aparece besando a Alyssa, es arrestado de inmediato, pero a las pocas horas aparece otra víctima con el mismo patrón: una pluma de gorrión colocada al lado del cuerpo. Cuando aparecen más, no solamente en Los Ángeles sino repartidas por todo el país, tienen claro que se enfrentan a un nuevo serial killer, al que apodan Birdman.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Imprevisible. Inquietante.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Piérdete en la mente del asesino.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Vuelve J. D. Barker, autor de la trilogía de El cuarto mono&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;J. D. Barker&quot;: &quot;&quot;, &quot;James Patterson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-02T19:52:46.976388+00:00"/>
+        <meta name="calibre:title_sort" content="crímenes de la carretera, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

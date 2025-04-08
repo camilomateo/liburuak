@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2696</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1901687-5848-42b6-be34-91d397d766b1</dc:identifier>
+        <dc:title>Los versos sueltos del Edén</dc:title>
+        <dc:creator opf:file-as="Rivas, Paloma" opf:role="aut">Paloma Rivas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-05T00:00:00+00:00</dc:date>
+        <dc:description>LOS MUROS MÁS INFRANQUEABLES SON LOS DE LA PROPIA MENTE
+La joven psicóloga Lis de la Serna regresa a su Cantabria natal para ocupar el puesto de jefa del área de salud mental en la residencia Santa Teresa. Regentada por la congregación de las Carmentalias y ubicada entre los acantilados de Comillas, Lis ya estuvo allí cuando el suicidio de su pareja la llevó a internarse en el centro. Pero, ahora que piensa que sus problemas han quedado atrás y que puede empezar de cero,no sospecha que el engaño, la traición y el asesinato acechan entre las paredes de la institución. Cuando descubre las extrañas circunstancias que rodean a una muerte que tuvo lugar allí, Lis se adentra en un mundo peligroso donde imperan el secreto, la dominación y el crimen. ¿Podrá enfrentarse a la verdad que esconde la residencia Santa Teresa y salir indemne?
+En su primera novela, Paloma Rivas, psicóloga sanitaria y neuropsicóloga de profesión, ha construido un escalofriante thriller psicológico plagado de sorpresas que llevará a los lectores a explorar los rincones más oscuros de la mente.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-31T16:50:32.474957+00:00"/>
+        <meta name="calibre:title_sort" content="versos sueltos del Edén, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

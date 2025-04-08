@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc8b5526-a749-4129-ba1e-71493cf924ab</dc:identifier>
+        <dc:title>En plena noche</dc:title>
+        <dc:creator opf:file-as="Santiago, Mikel" opf:role="aut">Mikel Santiago</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-03T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Un grupo de rock. Un concierto. Una chica desaparecida. &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Han pasado más de veinte años, pero hay noches que nunca terminan. &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;Tras el éxito de &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;El mentiroso&lt;/span&gt;&lt;span class="a-text-bold"&gt;, llega la segunda parte de la trilogía ambientada en Illumbe, el pueblo con más misterios y secretos del País Vasco. &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;¿Puede
+ una noche marcar el destino de todos los que la vivieron? Han pasado 
+más de veinte años desde que Diego Letamendia, estrella del rock en 
+declive, actuó por última vez en su pueblo natal, Illumbe. Esa fue la 
+noche del final de su banda y su grupo de amigos, y también la de la 
+desaparición de Lorea, su novia. La policía nunca logró esclarecer lo 
+ocurrido con la chica, que fue vista saliendo a toda prisa de la sala de
+ conciertos, como si huyera de algo o de alguien. Después de aquello, 
+Diego emprendió una carrera de éxitos en solitario y jamás regresó al 
+pueblo.&lt;/p&gt;&lt;p&gt;Cuando uno de los miembros de la banda muere 
+en un extraño incendio, Diego decide volver a Illumbe. Han pasado muchos
+ años y el reencuentro con los antiguos amigos es difícil: ninguno de 
+ellos sigue siendo la persona que fue. Mientras, crece la sospecha de 
+que el incendio no fue accidental. ¿Es posible que todo esté relacionado
+ y que, tanto tiempo después, Diego pueda encontrar nuevas pistas sobre 
+lo que pasó con Lorea?&lt;/p&gt;&lt;p&gt;Mikel Santiago vuelve a ambientar en el pueblo imaginario del País Vasco, donde ya transcurría su anterior novela, &lt;span class="a-text-italic"&gt;El mentiroso&lt;/span&gt;,
+ esta historia marcada por un pasado que podría tener terribles 
+consecuencias en el presente. Este thriller magistral nos envuelve en la
+ nostalgia de los años noventa al tiempo que vamos desenredando el 
+misterio de aquella noche que todos luchan por olvidar.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Trilogía de Illumbe"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-04-23T20:14:47.031350+00:00"/>
+        <meta name="calibre:title_sort" content="En plena noche"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

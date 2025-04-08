@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1190</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9bd2834-aac0-49a6-8852-97c4c23a9ac1</dc:identifier>
+        <dc:title>El Club del Crimen de los Jueves</dc:title>
+        <dc:creator opf:file-as="Osman, Richard" opf:role="aut">Richard Osman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-16T15:20:29+00:00</dc:date>
+        <dc:description>&lt;p&gt;En un pacífico complejo privado para jubilados, cuatro improbables amigos se reúnen una vez a la semana para revisar antiguos casos de asesinatos locales que quedaron sin resolver. Ellos son Ron, un exactivista socialista lleno de tatuajes y revolución; la dulce Joyce, una viuda que no es tan ingenua como aparenta; Ibrahim, un antiguo psiquiatra con una increíble capacidad de análisis, y la tremenda y enigmática Elizabeth, que, a sus 81 años, lidera el grupo de investigadores aficionados… o no tanto.&lt;/p&gt;
+&lt;p&gt;Cuando un promotor inmobiliario de la zona es hallado muerto con una misteriosa fotografía junto al cuerpo, El Club del Crimen de los Jueves se encuentra en medio de su primer caso real. Aunque sean octogenarios, los cuatro amigos guardan algunos trucos en la manga.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;¿Podrá este grupo poco ortodoxo pero brillante atrapar al asesino?&lt;/b&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467060560</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-01T09:12:45.241404+00:00"/>
+        <meta name="calibre:title_sort" content="Club del Crimen de los Jueves, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

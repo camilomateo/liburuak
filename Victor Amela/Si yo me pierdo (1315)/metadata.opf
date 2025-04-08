@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1315</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1868fad0-73fa-4b62-9d72-184860c4af47</dc:identifier>
+        <dc:title>Si yo me pierdo</dc:title>
+        <dc:creator opf:file-as="Amela, Víctor" opf:role="aut">Víctor Amela</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Federico García Lorca desembarcó en Cuba procedente de Nueva York en marzo de 1930, invitado por una semana. Pero discurrieron más de tres meses hasta que el poeta andaluz decidió volver a España, embriagado de música y belleza caribeñas, soneros y santeros, terrazas y palmeras, ron blanco, sensualidad negra y noches de Malecón. ¿Qué hizo el poeta en «los días más felices de mi vida», como definió sus días cubanos? ¿Cómo Cuba tiñó la obra, la persona y el destino de Federico? «Si yo me pierdo —advirtió por carta a sus padres— que me busquen en Cuba.» Y se perdió. ¿Para encontrarse? Esta novela lo cuenta.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423362370</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T11:44:05+00:00"/>
+        <meta name="calibre:title_sort" content="Si yo me pierdo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

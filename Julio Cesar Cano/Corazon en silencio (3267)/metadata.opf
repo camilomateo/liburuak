@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">430b4e90-ac6c-493b-b0cb-bf4450eece2d</dc:identifier>
+        <dc:title>Corazón en silencio</dc:title>
+        <dc:creator opf:file-as="Cano, Julio César" opf:role="aut">Julio César Cano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-26T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¿Quién querría atacar a las víctimas, unos jóvenes supervivientes con un futuro incierto?&lt;/p&gt;
+&lt;p&gt;Castellón acaba de estrenar nueva comisaría cuando se cometen varios crímenes con elementos en común: las víctimas son jóvenes extranjeros sin arraigo y el culpable se ha suicidado tras cometer el asesinato. Bartolomé Monfort, junto a sus inseparables Silvia Redó y Pablo Morata, lleva a cabo una investigación contrarreloj para evitar más muertes.&lt;/p&gt;
+&lt;p&gt;En la esfera personal, Monfort y la jueza Elvira Figueroa están pasando por un momento delicado en su relación y el inspector está muy preocupado por la salud de su padre. Una vez más, antepone el trabajo a sus seres queridos, al dolor de tener el corazón hecho pedazos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DPHKJL2M</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="La serie del Inspector Monfort"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2025-04-07T20:12:26.552904+00:00"/>
+        <meta name="calibre:title_sort" content="Corazón en silencio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

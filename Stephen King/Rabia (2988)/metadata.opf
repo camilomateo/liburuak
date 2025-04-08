@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2988</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c946f68-68fb-42f7-8bcc-6c38ab67079f</dc:identifier>
+        <dc:title>Rabia</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1977-09-05T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Charles Decker es un adolescente de 18 años que sufre de esquizofrenia, al que quieren internar en un correccional por agredir a un profesor con una llave inglesa, provocándole un grave traumatismo craneal. Pistola en mano, y para que no lo encierren, secuestra a su clase toda una mañana. Para que la situación sea más llevadera Charles les cuenta parte de su infancia y su adolescencia; mientras, el ambiente empieza a caldearse entre los alumnos, y pronto comienzan a atacarse verbal y físicamente, contagiados de la demencia de Charles.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">8427011504</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-12T07:49:57.967457+00:00"/>
+        <meta name="calibre:title_sort" content="Rabia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

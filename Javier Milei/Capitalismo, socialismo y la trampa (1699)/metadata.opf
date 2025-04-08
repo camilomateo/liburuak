@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f268480-8c05-4f7a-831d-9f9bf37af857</dc:identifier>
+        <dc:title>Capitalismo, socialismo y la trampa neoclásica</dc:title>
+        <dc:creator opf:file-as="Milei, Javier" opf:role="aut">Javier Milei</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Cuando la realidad no encaja en un modelo (económico, para el 
+caso), lo más sensato debiera ser revisar dicho sistema y tratar de 
+detectar sus errores. Sin embargo, para los economistas neoclásicos y 
+neokeynesianos, dice el autor, cuando el modelo no cuaja con el mundo 
+real, no se lo descarta, porque la culpa pasa a ser de la realidad. Y 
+siempre con el mismo diagnóstico: fallo de mercado.&lt;br&gt;&lt;br&gt; En este 
+nuevo libro, un Javier Milei ya ungido presidente de la Nación 
+Argentina, retoma ideas que ha venido analizando, ajustando y 
+defendiendo durante años, solo que ahora lo hace en un viaje que se 
+proyecta en las principales tribunas ideológicas de la actualidad para 
+terminar arribando a una verdadera lección de macroeconomía.&lt;br&gt;&lt;br&gt; De 
+la teoría económica a la acción política, en efecto, porque como suele 
+decir el primer mandatario: "El problema de Occidente es que no solo 
+debemos enfrentarnos a quienes, a pesar de una evidencia empírica 
+abrumadora, siguen bregando por el socialismo empobrecedor, sino también
+ a líderes, pensadores y académicos que, amparados en un marco teórico 
+equivocado, socavan los fundamentos del sistema que nos ha dado la mayor
+ expansión de riqueza y prosperidad de la historia".
+
+&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Planeta Argentina</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">369a0635-7503-4db3-9c53-294896e8567f</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:47.519230+00:00"/>
+        <meta name="calibre:title_sort" content="Capitalismo, socialismo y la trampa neoclásica"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

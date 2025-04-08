@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f31794d-2170-4124-a8ae-5a594121680e</dc:identifier>
+        <dc:title>Cancelado</dc:title>
+        <dc:creator opf:file-as="Everett, Percival" opf:role="aut">Percival Everett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-07T06:18:04+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;American Ficcion ( Cancelado ) Oscar 2024 al mejor guión adaptado.&lt;/p&gt;
+&lt;p&gt;Thelonious "Monk" Ellison es un escritor en crisis, aclamado por la crítica y rechazado por diecisiete editoriales que creen que no hay lectores para sus libros. Además, está pasando por un momento familiar muy difícil. Su madre está enferma de Alzheimer y tiene que enfrentarse al suicidio de su padre, ocurrido siete años atrás. Necesita dinero y, arrebatado por la ira y la desesperación, publica bajo seudónimo una novela con todos los ingredientes del típico bestseller de escritor negro. El mundo cotidiano del personaje está lleno de personajes con vidas complicadas por su condición marginal: una hermana médica en contra de los antiabortistas, un hermano gay cirujano plástico en paro y divorciado, una madre con Alzheimer que ha sufrido el suicidio de su marido. Al mismo tiempo, el mundo editorial está representado en las conversaciones entre editores y críticos con las frases que utilizan para las ventas y su obsesión por el gusto general de los lectores.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>De conatus</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410182066</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:59.827731+00:00"/>
+        <meta name="calibre:title_sort" content="Cancelado"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

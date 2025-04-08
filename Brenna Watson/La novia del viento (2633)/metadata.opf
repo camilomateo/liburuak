@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2633</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f239f9d-7193-448a-8604-0590a092572d</dc:identifier>
+        <dc:title>La novia del viento</dc:title>
+        <dc:creator opf:file-as="Watson, Brenna" opf:role="aut">Brenna Watson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-30T00:00:00+00:00</dc:date>
+        <dc:description>Apasionada, libre, indómita. Ella es la novia del viento. Una artista que emergió con la fuerza de la naturaleza para cautivar el mundo.Una historia de superación y coraje inspirada en lavida de la pintora Leonora Carrington.Londres, 1937. Si hay algo que Rebecca Heyworth odie más que asistir a las fiestas que organizan sus padres es saber que pronto se verá obligada a escoger marido. Ella no quiere a un hombre que la controle, solo quiere pintar y que la dejen vivir a su manera.De momento, tiene que conformarse con asistir a unas clases de arte, pero todo cambia cuando el atractivo Leopold se cruza en su camino.Leopold Blum, un pintor de origen alemán afincado en París, es miembro destacado del surrealismo y acude a la capital inglesa para exponer su obra. Fascinado por la vitalidad y la pasión de la joven, la invita a acompañarlo a Francia.Tras romper con su familia y su pasado, Rebecca viajará hasta la ciudad de la luz, donde se codeará con los artistas del momento, vivirá...</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-21T14:01:14.100433+00:00"/>
+        <meta name="calibre:title_sort" content="novia del viento, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

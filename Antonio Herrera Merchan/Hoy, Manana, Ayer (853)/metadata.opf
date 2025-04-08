@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">853</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7529c98-8a5d-4f2e-87ca-8b0a1ae2cfdd</dc:identifier>
+        <dc:title>Hoy, Mañana, Ayer</dc:title>
+        <dc:creator opf:file-as="Merchán, Antonio Herrera" opf:role="aut">Antonio Herrera Merchán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-25T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Luis camina con una nota inquietante sobre un descubrimiento científico que hará cambiar la historia de la humanidad, la ciencia y la propia evolución. Los periodistas Pablo y Sofía son invitados a casa de Manolo, investigador responsable de esa nota y ese descubrimiento. Encerrados en esa casa, a voluntad propia, se enfrentarán contra Manolo, contra sí mismos y contra la sociedad. Basada en una realidad científica actual sobre la edición genética y el síndrome de Down, y una ficción no tan lejana, te hará plantearte quién eres o cómo quieres ser. Te hará reflexionar sobre los conceptos de la felicidad, la libertad de elección y el respeto.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Universo de Letras</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-06-12T12:02:08.276258+00:00"/>
+        <meta name="calibre:title_sort" content="Hoy, Mañana, Ayer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

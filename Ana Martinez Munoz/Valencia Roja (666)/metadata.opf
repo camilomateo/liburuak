@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebe54beb-84ef-4839-9a50-bd749160c7dc</dc:identifier>
+        <dc:title>Valencia Roja</dc:title>
+        <dc:creator opf:file-as="Ana Martínez Muñoz" opf:role="aut">Ana Martínez Muñoz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;Alfaguara Negra presenta una nueva serie de alto impacto protagonizada por una inspectora llamada a hacer historia: Nela Ferrer.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;«Un
+ viaje a las entrañas de una ciudad en la que palpitan la pornografía, 
+el crimen y la muerte. Una estupenda ópera prima, construida con oficio y
+ solvencia».&lt;br&gt;&lt;/span&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Arantza Portabales&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Miguel
+ Murillo, afamado productor y director de cine para adultos, aparece 
+brutalmente asesinado durante la celebración del festival Valencia 
+Roja,el primer evento dedicado a la industria del sexo en la ciudad bajo
+ el lema «El porno es cultura». La grotesca puesta en escena hace pensar
+ en una venganza y el entorno de la pornografía teme que sus secretos 
+más turbios vean la luz.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Nela Ferrer, nombrada 
+recientemente jefa del Grupo de Homicidios de Valencia, ha vuelto de 
+Madrid para refugiarse en sus raíces huyendo de una relación tormentosa.
+ Pero la aparición de nuevos cadáveres en posturas macabras que emulan 
+violentos actos sexuales la llevará a indagar con su nuevo equipo en los
+ rincones opacos de la élite local, destapando sus prácticas más 
+extremas.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Reseñas:&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;«Una primera novela impresionante».&lt;br&gt;Alzira Martins, editora francesa de Stieg Larsson&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;«Una trama perfecta [...]. Ana Martínez Muñoz será una de las protagonistas del thriller español en los próximos años».&lt;br&gt;Vincenzo Ostuni, editor italiano de Margaret Atwood&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420463421</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">z-GzEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-15T15:51:19.308189+00:00"/>
+        <meta name="calibre:title_sort" content="Valencia Roja"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3255</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7169ddff-744c-49e4-bdbb-1108f4614aa4</dc:identifier>
+        <dc:title>La Templanza</dc:title>
+        <dc:creator opf:file-as="Dueñas, María" opf:role="aut">María Dueñas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="text-align: start; text-indent: 0px; widows: 1; display: inline !important; float: none; background-color: transparent; "&gt;Nada hacía suponer a Mauro Larrea que la fortuna que levantó tras años de tesón y arrojo se le derrumbaría con un estrepitoso revés. Ahogado por las deudas y la incertidumbre, apuesta sus últimos recursos en una temeraria jugada que abre ante él la oportunidad de resurgir. Hasta que la perturbadora Soledad Montalvo, esposa de un marchante de vinos londinense, entra en su vida envuelta en claroscuros para arrastrarle a un porvenir que jamás sospechó. &lt;/span&gt;&lt;br style="text-align: start; text-indent: 0px; widows: 1; background-color: transparent; "&gt;&lt;br style="text-align: start; text-indent: 0px; widows: 1; background-color: transparent; "&gt;&lt;span style="text-align: start; text-indent: 0px; widows: 1; display: inline !important; float: none; background-color: transparent; "&gt;De la joven república mexicana a la espléndida Habana colonial; de las Antillas al Jerez de la segunda mitad del XIX, cuando el comercio de sus vinos con Inglaterra convirtió la ciudad andaluza en un enclave cosmopolita y legendario. Por todos estos escenarios transita &lt;/span&gt;&lt;font class="Apple-style-span" face="Arial, Verdana, sans-serif" size="2"&gt;&lt;span class="Apple-style-span" style="line-height: 18px; widows: 1; background-color: transparent; "&gt;La templanza&lt;/span&gt;&lt;/font&gt;&lt;span style="text-align: start; text-indent: 0px; widows: 1; display: inline !important; float: none; background-color: transparent; "&gt; ,una novela que habla de glorias y derrotas, de minas de plata, intrigas de familia, viñas, bodegas y ciudades soberbias cuyo esplendor se desvaneció en el tiempo. Una historia de coraje ante las adversidades y de un destino alterado para siempre por la fuerza de una pasión&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0); font-family: Arial, Verdana, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: transparent; "&gt;.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00T5B5KQ4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788408139966</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-04T12:04:12.596599+00:00"/>
+        <meta name="calibre:title_sort" content="Templanza, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

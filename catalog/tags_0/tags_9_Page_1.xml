@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Histórico</title>
+  <id>Calibre2opds:taglist:H:9</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Histórico" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por H" />
+  <entry>
+    <title>La alcoba escondida</title>
+    <id>calibre:book:353</id>
+    <updated>2023-02-23T01:18:58Z</updated>
+    <link href="../../Almudena%20Navarro/La%20alcoba%20escondida%20%28353%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Almudena%20Navarro/La%20alcoba%20escondida%20%28353%29/La%20alcoba%20escondida%20-%20Almudena%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="588 KB" />
+    <author>
+      <name>Almudena Navarro</name>
+      <uri>../authors_0/authors_248_Page_1.xml</uri>
+    </author>
+    <published>2013-11-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Una apasionante novela ambientada en un pequeño pueblo manchego en los tiempos convulsos de la Segunda República que conjuga amor, política y ambición. Doña Enriqueta, la pistolera, es una mujer fuerte que controla férreamente la vida en la comarca e...</summary>
+    <link href="../book_0/book_353.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Antonio y Cleopatra</title>
+    <id>calibre:book:2430</id>
+    <updated>2024-09-09T10:34:30Z</updated>
+    <link href="../../Shakespeare/Antonio%20y%20Cleopatra%20%282430%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Shakespeare/Antonio%20y%20Cleopatra%20%282430%29/Antonio%20y%20Cleopatra%20-%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="131 KB" />
+    <author>
+      <name>Shakespeare</name>
+      <uri>../authors_1/authors_1645_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [21]:</summary>
+    <link href="../book_2/book_2430.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El bosque de los cuatro vientos</title>
+    <id>calibre:book:92</id>
+    <updated>2023-01-18T00:09:28Z</updated>
+    <link href="../../Maria%20Oruna/El%20bosque%20de%20los%20cuatro%20vientos%20%2892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Oruna/El%20bosque%20de%20los%20cuatro%20vientos%20%2892%29/El%20bosque%20de%20los%20cuatro%20vientos%20-%20Maria%20Oruna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <author>
+      <name>María Oruña</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2020-08-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>A comienzos del siglo XIX, el doctor Vallejo viaja de Valladolid a Galicia junto con su hija Marina para servir como médico en un poderoso monasterio de Ourense. Allí descubrirán unas costumbres muy particulares y vivirán la caída de la Iglesia. Mari...</summary>
+    <link href="../book_0/book_92.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El caballero de Harmental</title>
+    <id>calibre:book:2440</id>
+    <updated>2024-09-09T10:34:31Z</updated>
+    <link href="../../Alejandro%20Dumas/El%20caballero%20de%20Harmental%20%282440%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alejandro%20Dumas/El%20caballero%20de%20Harmental%20%282440%29/El%20caballero%20de%20Harmental%20-%20Alejandro%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="263 KB" />
+    <author>
+      <name>Alejandro Dumas</name>
+      <uri>../authors_1/authors_1593_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aventuras" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [13]:</summary>
+    <link href="../book_2/book_2440.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cicatrices del desastre</title>
+    <id>calibre:book:568</id>
+    <updated>2023-04-23T10:13:44Z</updated>
+    <link href="../../Luis%20Bolivar%20Troya/Cicatrices%20del%20desastre%20%28568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20Bolivar%20Troya/Cicatrices%20del%20desastre%20%28568%29/Cicatrices%20del%20desastre%20-%20Luis%20Bolivar%20Troya.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="961 KB" />
+    <author>
+      <name>Luis Bolívar Troya</name>
+      <uri>../authors_0/authors_421_Page_1.xml</uri>
+    </author>
+    <published>2022-02-11T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Carena</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Ernesto Delgado &amp; Carles Gil" />
+    <summary>Ernesto Delgado &amp; Carles Gil [1]: Reus, junio de 1939. Un capitán del ejército nacional es secuestrado mientras vuelve al campo de concentración situado en el manicomio de Reus. Su cadáver aparece días después salvajemente torturado. Ernesto Delgado,...</summary>
+    <link href="../book_0/book_568.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Código Chile</title>
+    <id>calibre:book:1823</id>
+    <updated>2024-08-28T00:55:05Z</updated>
+    <link href="../../Carlos%20Basso/Codigo%20Chile%20%281823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Basso/Codigo%20Chile%20%281823%29/Codigo%20Chile%20-%20Carlos%20Basso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <author>
+      <name>Carlos Basso</name>
+      <uri>../authors_1/authors_1304_Page_1.xml</uri>
+    </author>
+    <published>2015-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>SUMA</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Carlos Basso construye una historia repleta de intrigas en una novela que incluye cruentos crímenes, misiones nazis, espías del Vaticano y un grupo secreto de ex agentes de la DINA de inspiración esotérica. El violento crimen simultáneo de unos ancia...</summary>
+    <link href="../book_1/book_1823.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El collar de la Reina</title>
+    <id>calibre:book:2441</id>
+    <updated>2024-09-09T10:34:31Z</updated>
+    <link href="../../Alejandro%20Dumas/El%20collar%20de%20la%20Reina%20%282441%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alejandro%20Dumas/El%20collar%20de%20la%20Reina%20%282441%29/El%20collar%20de%20la%20Reina%20-%20Alejandro%20Dumas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="703 KB" />
+    <author>
+      <name>Alejandro Dumas</name>
+      <uri>../authors_1/authors_1593_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aventuras" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [12]:</summary>
+    <link href="../book_2/book_2441.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Corazón de perro</title>
+    <id>calibre:book:2432</id>
+    <updated>2024-09-09T10:34:30Z</updated>
+    <link href="../../Mijail%20Bulgakov/Corazon%20de%20perro%20%282432%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mijail%20Bulgakov/Corazon%20de%20perro%20%282432%29/Corazon%20de%20perro%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="148 KB" />
+    <author>
+      <name>Mijaíl Bulgákov</name>
+      <uri>../authors_1/authors_1647_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Histórico" />
+    <category term="Sátira" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [18]:</summary>
+    <link href="../book_2/book_2432.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los días de Birmania</title>
+    <id>calibre:book:2434</id>
+    <updated>2024-09-09T10:34:30Z</updated>
+    <link href="../../George%20Orwell/Los%20dias%20de%20Birmania%20%282434%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20Orwell/Los%20dias%20de%20Birmania%20%282434%29/Los%20dias%20de%20Birmania%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="306 KB" />
+    <author>
+      <name>George Orwell</name>
+      <uri>../authors_1/authors_1609_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [7]:</summary>
+    <link href="../book_2/book_2434.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dime quién soy</title>
+    <id>calibre:book:855</id>
+    <updated>2023-06-12T02:02:12Z</updated>
+    <link href="../../Julia%20Navarro/Dime%20quien%20soy%20%28855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julia%20Navarro/Dime%20quien%20soy%20%28855%29/Dime%20quien%20soy%20-%20Julia%20Navarro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="873 KB" />
+    <author>
+      <name>Julia Navarro</name>
+      <uri>../authors_0/authors_267_Page_1.xml</uri>
+    </author>
+    <published>2010-06-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Un periodista recibe una propuesta para investigar la azarosa vida de su bisabuela, una mujer de la que sólo se sabe que huyó de España abandonando a su marido y a su hijo poco antes de que estallara la Guerra Civil. Para rescatarla del olvido deberá...</summary>
+    <link href="../book_0/book_855.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El filibusterismo</title>
+    <id>calibre:book:2400</id>
+    <updated>2024-09-09T10:34:23Z</updated>
+    <link href="../../Jose%20Rizal/El%20filibusterismo%20%282400%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Rizal/El%20filibusterismo%20%282400%29/El%20filibusterismo%20-%20Jose%20Rizal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="343 KB" />
+    <author>
+      <name>José Rizal</name>
+      <uri>../authors_1/authors_1637_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Histórico" />
+    <category term="Otros" />
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [221]:</summary>
+    <link href="../book_2/book_2400.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Geranios en el balcón</title>
+    <id>calibre:book:312</id>
+    <updated>2023-02-16T08:33:16Z</updated>
+    <link href="../../Carolina%20Pobla/Geranios%20en%20el%20balcon%20%28312%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carolina%20Pobla/Geranios%20en%20el%20balcon%20%28312%29/Geranios%20en%20el%20balcon%20-%20Carolina%20Pobla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="574 KB" />
+    <author>
+      <name>Carolina Pobla</name>
+      <uri>../authors_0/authors_218_Page_1.xml</uri>
+    </author>
+    <published>2018-06-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva Ediciones, S.A.</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Geranios en el balcón by Carolina Pobla. Cuando la familia se convierte en fuente de inspiración: una cautivadora novela basada en la historia de los abuelos de la autora. La novela ofrece una enriquecedora visión de la historia de España del último ...</summary>
+    <link href="../book_0/book_312.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La heredera del mar</title>
+    <id>calibre:book:2686</id>
+    <updated>2024-10-22T08:11:24Z</updated>
+    <link href="../../Juan%20Francisco%20Ferrandiz/La%20heredera%20del%20mar%20%282686%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Francisco%20Ferrandiz/La%20heredera%20del%20mar%20%282686%29/La%20heredera%20del%20mar%20-%20Juan%20Francisco%20Ferrandiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="969 KB" />
+    <author>
+      <name>Juan Francisco Ferrándiz</name>
+      <uri>../authors_1/authors_1765_Page_1.xml</uri>
+    </author>
+    <published>2024-03-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>1348. La Corona de Aragón vive una de sus épocas más convulsas. Una enfermedad terrible y desconocida llega al puerto de Barcelona y comienza a propagarse por sus calles cuando Marina Montaner, descendiente de un largo linaje de mercaderes valenciano...</summary>
+    <link href="../book_2/book_2686.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Jodía Pavía (1525)</title>
+    <id>calibre:book:63</id>
+    <updated>2023-01-17T11:40:42Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/Jodia%20Pavia%20%281525%29%20%2863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/Jodia%20Pavia%20%281525%29%20%2863%29/Jodia%20Pavia%20%281525%29%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="681 KB" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2000-08-06T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zenda</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Durante su cautiverio, tras caer derrotado en la batalla de Pavía frente a las tropas de Carlos V, Francisco I de Francia, escribe una carta a Mimí.Pequeño relato de Arturo Pérez-Reverte publicado en la sección «Los relatos del verano» del suplemento...</summary>
+    <link href="../book_0/book_63.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La isla de la mujer dormida</title>
+    <id>calibre:book:2685</id>
+    <updated>2024-10-22T08:11:24Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/La%20isla%20de%20la%20mujer%20dormida%20%282685%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/La%20isla%20de%20la%20mujer%20dormida%20%282685%29/La%20isla%20de%20la%20mujer%20dormida%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="472 KB" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2024-10-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>LA NUEVA NOVELA DE ARTURO PÉREZ-REVERTE. Una novela de mar, amor y aventuras en el Egeo durante los años de la Guerra Civil española. Buscaba la boca delhombre con la suya, húmeda de sal. -¿Tienes frío? -preguntó él. -No, no Tengo miedo. -¿A qué? -A ...</summary>
+    <link href="../book_2/book_2685.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Niebla y acero</title>
+    <id>calibre:book:1901</id>
+    <updated>2024-09-03T09:33:58Z</updated>
+    <link href="../../Jose%20Zoilo%20Hernandez%20Gonzalez/Niebla%20y%20acero%20%281901%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Zoilo%20Hernandez%20Gonzalez/Niebla%20y%20acero%20%281901%29/Niebla%20y%20acero%20-%20Jose%20Zoilo%20Hernandez%20Gonzalez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="663 KB" />
+    <author>
+      <name>José Zoilo Hernández González</name>
+      <uri>../authors_1/authors_1357_Page_1.xml</uri>
+    </author>
+    <published>2019-05-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones  B</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Las cenizas de Hispania" />
+    <summary>Las cenizas de Hispania [2]: Hispania, año 456 d. C. Teodorico, rey de los visigodos, será el encargado de poner fin al acoso de los suevos sobre el territorio peninsular para instaurar la paz de Roma que el nuevo emperador desea. Tras la derrota de ...</summary>
+    <link href="../book_1/book_1901.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La niña que miraba los trenes partir</title>
+    <id>calibre:book:1811</id>
+    <updated>2024-08-27T09:07:36Z</updated>
+    <link href="../../Ruperto%20Long/La%20nina%20que%20miraba%20los%20trenes%20parti%20%281811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ruperto%20Long/La%20nina%20que%20miraba%20los%20trenes%20parti%20%281811%29/La%20nina%20que%20miraba%20los%20trenes%20p%20-%20Ruperto%20Long.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Ruperto Long</name>
+      <uri>../authors_1/authors_1298_Page_1.xml</uri>
+    </author>
+    <published>2016-04-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>AGUILAR</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Años cuarenta del siglo XX, en un mundo azotado por los conflictos bélicos. Charlotte, una niña belga de ocho años, desaparece de la Lieja ocupada por los nazis, dejando atrás su casa y su infancia feliz. Junto con la familia huye de los perseguidore...</summary>
+    <link href="../book_1/book_1811.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Noli me tangere</title>
+    <id>calibre:book:2402</id>
+    <updated>2024-09-09T10:34:24Z</updated>
+    <link href="../../Jose%20Rizal/Noli%20me%20tangere%20%282402%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Rizal/Noli%20me%20tangere%20%282402%29/Noli%20me%20tangere%20-%20Jose%20Rizal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="462 KB" />
+    <author>
+      <name>José Rizal</name>
+      <uri>../authors_1/authors_1637_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Histórico" />
+    <category term="Otros" />
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [224]:</summary>
+    <link href="../book_2/book_2402.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Os salvaré la vida</title>
+    <id>calibre:book:997</id>
+    <updated>2023-08-23T02:48:38Z</updated>
+    <link href="../../Joaquin%20Leguina/Os%20salvare%20la%20vida%20%28997%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joaquin%20Leguina/Os%20salvare%20la%20vida%20%28997%29/Os%20salvare%20la%20vida%20-%20Joaquin%20Leguina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="623 KB" />
+    <author>
+      <name>Joaquín Leguina</name>
+      <uri>../authors_0/authors_739_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Rubén Buren</name>
+      <uri>../authors_0/authors_740_Page_1.xml</uri>
+    </author>
+    <published>2017-09-05T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Os salvaré la vida es una sólida y emocionante novela que recrea la vida de Melchor Rodríguez, personaje histórico y singular absolutamente apasionante con un papel infravalorado hasta ahora durante la Guerra Civil y en la trayectoria del anarcosindi...</summary>
+    <link href="../book_0/book_997.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La reina de espadas</title>
+    <id>calibre:book:1845</id>
+    <updated>2024-08-30T02:25:26Z</updated>
+    <link href="../../Javier%20Mas/La%20reina%20de%20espadas%20%281845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Mas/La%20reina%20de%20espadas%20%281845%29/La%20reina%20de%20espadas%20-%20Javier%20Mas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="326 KB" />
+    <author>
+      <name>Javier Más</name>
+      <uri>../authors_1/authors_1320_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Almuzara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>España, 1448. Dos mujeres luchan por el poder en la corona de Castilla: la reina Isabel de Portugal, madre de futura Isabel la Católica, y la condesa de Montalbán, doña Juana de Pimentel. Ambas se enfrentarán en una lucha sin piedad para poseer la Lo...</summary>
+    <link href="../book_1/book_1845.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El rey se divierte</title>
+    <id>calibre:book:2413</id>
+    <updated>2024-09-09T10:34:26Z</updated>
+    <link href="../../Victor%20Hugo/El%20rey%20se%20divierte%20%282413%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Victor%20Hugo/El%20rey%20se%20divierte%20%282413%29/El%20rey%20se%20divierte%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="115 KB" />
+    <author>
+      <name>Victor Hugo</name>
+      <uri>../authors_1/authors_1420_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [244]:</summary>
+    <link href="../book_2/book_2413.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La saga de los malditos</title>
+    <id>calibre:book:720</id>
+    <updated>2023-05-17T01:10:56Z</updated>
+    <link href="../../Chufo%20Llorens/La%20saga%20de%20los%20malditos%20%28720%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chufo%20Llorens/La%20saga%20de%20los%20malditos%20%28720%29/La%20saga%20de%20los%20malditos%20-%20Chufo%20Llorens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Chufo Lloréns</name>
+      <uri>../authors_0/authors_389_Page_1.xml</uri>
+    </author>
+    <published>2003-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Dos vidas.Dos mujeres.Dos amores por los que luchar.Judería de Toledo, 1387. A Esther y Simón los une un amor imposible: la familia de ella vería con buenos ojos que se casara con Rubén, un joven rabino de futuro prometedor. Todo empeora cuando una ...</summary>
+    <link href="../book_0/book_720.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trincheras de cable</title>
+    <id>calibre:book:769</id>
+    <updated>2023-05-25T00:54:22Z</updated>
+    <link href="../../Jennifer%20Chiaverini/Trincheras%20de%20cable%20%28769%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jennifer%20Chiaverini/Trincheras%20de%20cable%20%28769%29/Trincheras%20de%20cable%20-%20Jennifer%20Chiaverini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="997 KB" />
+    <author>
+      <name>Jennifer Chiaverini</name>
+      <uri>../authors_0/authors_575_Page_1.xml</uri>
+    </author>
+    <published>2023-05-22T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica, S.A.</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>En junio de 1917, el general John Pershing llegó a Francia con el objetivo de establecer las fuerzas norteamericanas en Europa. Descubrió rápido que comunicarse con las tropas destacadas en el campo de batalla era imposible. Necesitaba operadores cap...</summary>
+    <link href="../book_0/book_769.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La última librería de Londres</title>
+    <id>calibre:book:505</id>
+    <updated>2023-04-01T02:02:02Z</updated>
+    <link href="../../Madeline%20Martin/La%20ultima%20libreria%20de%20Londres%20%28505%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Madeline%20Martin/La%20ultima%20libreria%20de%20Londres%20%28505%29/La%20ultima%20libreria%20de%20Londres%20-%20Madeline%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="525 KB" />
+    <author>
+      <name>Madeline Martin</name>
+      <uri>../authors_0/authors_373_Page_1.xml</uri>
+    </author>
+    <published>2022-03-02T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Londres, 1939. Una ciudad devastada por la guerra se une a través de los libros. Inspirada en la verdadera historia de la Segunda Guerra Mundial de las pocas librerías que sobrevivieron al Blitz, una novela atemporal de pérdida, amor y el poder imper...</summary>
+    <link href="../book_0/book_505.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

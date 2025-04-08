@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d220e9a-fc7d-4b58-83bb-6555b6a9ad03</dc:identifier>
+        <dc:title>El médico de Tesalia</dc:title>
+        <dc:creator opf:file-as="Zouroudi, Anne" opf:role="aut">Anne Zouroudi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-23T05:00:00+00:00</dc:date>
+        <dc:description>Chrissa Kaliga lanza con furia su ramo de guirnaldas contra las olas que rompen bajo sus pies. En casa, sus sobrinas y sus tías hablan en voz baja mientras observan con suspicacia a Nula, su hermana mayor. En el pueblo todos esperan la llegada del ministro de Obras Públicas, pero antes llega un inesperado visitante, Hermes Diaktoros. El novio de Chrissa ha desparecido y Hermes tendrá que resolver este caso, pero antes, tendrá que poner calma en las agrias y agitadas relaciones entre las dos hermanas y frustrar las mezquinas intrigas del ex alcalde del pueblo mientras oscuros rumores llenan la boca de sus habitantes.</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anne Zouroudi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:26:04.644594+00:00"/>
+        <meta name="calibre:title_sort" content="médico de Tesalia, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19c0b634-9369-4b39-8632-1867eff6e079</dc:identifier>
+        <dc:title>La cuidadora y la villa misteriosa</dc:title>
+        <dc:creator opf:file-as="Escobar, Mario" opf:role="aut">Mario Escobar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-17T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Vuelve La cuidadora que ha revolucionado el thriller.&lt;br&gt;&lt;br&gt;Una adictiva y nueva novela de la saga más esperada del momento.&lt;br&gt;&lt;br&gt;Mario Escobar ganador Premio Empik 2020 novela más leída en Polonia.&lt;br&gt;&lt;br&gt;&lt;br&gt;Yo solía cuidar ancianos en casas peligrosas, ahora apenas puedo creerme que esté intentando buscar respuestas sobre la muerte de mis padres. Necesito entrar a trabajar en una residencia de ancianos de lujo. Allí puedo esconderme de nuevo de mi vida y mi pasado, pero sobre todo busco respuestas.&lt;br&gt;&lt;br&gt;Aunque siento algo de recelo hacia el director del centro y parte del personal, hay una anciano que me intriga, Francisco Quiroga y una tierna anciana llamado Andrea que parece guardar muchos secretos.&lt;br&gt;&lt;br&gt;No quiero que nadie descubra mis verdaderas intenciones, pero tengo demasiada curiosidad por la sección cerrada que había sido antes un psiquiátrico, que el director tiene bajo llave : «Ten cuidado con lo que deseas».&lt;br&gt;&lt;br&gt;¿Cometí un terrible error mudándome aquí con mi familia?&lt;br&gt;&lt;br&gt;Pensaba que había dejado atrás mis secretos oscuros. Pero ¿podría ser este apacible barrio residencial el sitio más peligroso de todos?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DQQ5W833</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="La cuidadora"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-02-25T19:50:25.369963+00:00"/>
+        <meta name="calibre:title_sort" content="cuidadora y la villa misteriosa, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2993a73e-bbb3-469e-b9c1-dfda509607ac</dc:identifier>
+        <dc:title>Sira</dc:title>
+        <dc:creator opf:file-as="Dueñas, María" opf:role="aut">María Dueñas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-16T12:10:15+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Vuelve a sumergirte en un tiempo inolvidable.&lt;/p&gt;
+&lt;p&gt;Después de El tiempo entre costuras,&lt;br&gt;SIRA, la nueva novela de María Dueñas. &lt;/p&gt;
+&lt;p&gt;La Segunda Gran Guerra llega a su fin y el mundo emprende una tortuosa reconstrucción. Concluidas sus funciones como colaboradora de los Servicios Secretos británicos, Sira afronta el futuro con ansias de serenidad. No lo logrará, sin embargo. El destino le tendrá preparada una trágica desventura que la obligará a reinventarse, tomar sola las riendas de su vida y luchar con garra para encauzar el porvenir.&lt;/p&gt;
+&lt;p&gt;Entre hechos históricos que marcarán una época, Jerusalén, Londres, Madrid y Tánger serán los escenarios por los que transite. En ellos afrontará desgarros y reencuentros, cometidos arriesgados y la experiencia de la maternidad.&lt;/p&gt;
+&lt;p&gt;Sira Bonnard —antes Arish Agoriuq, antes Sira Quiroga — ya no es la inocente costurera que nos deslumbró entre patrones y mensajes clandestinos, pero su atractivo permanece intacto.&lt;/p&gt;
+&lt;p&gt;Vuelve Sira, carismática e inolvidable. Vuelve la protagonista de El tiempo entre costuras. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Sira Quiroga"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-04-07T20:12:27.134776+00:00"/>
+        <meta name="calibre:title_sort" content="Sira"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

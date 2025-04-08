@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1056</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">721543bd-c0f0-485a-b1a9-89491a0551de</dc:identifier>
+        <dc:title>En torno al hombre</dc:title>
+        <dc:creator opf:file-as="José Ramón Ayllón" opf:role="aut">José Ramón Ayllón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-23T04:15:34+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;Este &lt;span class="a-text-bold"&gt;libro &lt;/span&gt;ha hecho atractiva la &lt;span class="a-text-bold"&gt;Filosofía&lt;/span&gt;
+ a numerosas promociones de Bachillerato. De ahí su constante reedición.
+ Y es que ha nacido después de mil intentos de explicar con amenidad las
+ preguntas esenciales.&lt;/p&gt;&lt;p&gt;Se centra, sobre todo, en esas
+ cualidades que hacen del hombre algo más que un mono con pantalones. De
+ ese hombre que plantea la lucha por la vida con el esfuerzo y la 
+belleza de un deporte. Por eso es, en gran medida, un texto de &lt;span class="a-text-bold"&gt;Antropología&lt;/span&gt; y &lt;span class="a-text-bold"&gt;Ética&lt;/span&gt;. &lt;br&gt;Somos
+ carne, sudor, vísceras, dientes..., y sobre todo somos el lúcido 
+habitante de esa casa bioquímica. Nos han dicho que el ser humano es un 
+paquete de átomos, una sombra que pasa, un pobre loco que representa su 
+papel sobre el escenario de la muerte. Pero tenemos labios y voz para 
+besar y cantar, y sospechamos que la vida no tiene punto final. &lt;br&gt;El debate en torno al hombre queda abierto desde la primera página.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Rialp, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-11-01T18:27:33+00:00"/>
+        <meta name="calibre:title_sort" content="En torno al hombre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

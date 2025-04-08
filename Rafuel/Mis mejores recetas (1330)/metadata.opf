@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1330</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e751cd87-3e3b-40ab-9db1-d3ad4d50b215</dc:identifier>
+        <dc:title>Mis mejores recetas</dc:title>
+        <dc:creator opf:file-as="Rafuel" opf:role="aut">Rafuel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Rafael Antonín, @rafuel55 en Instagram, cansado de que sus hijas no acudieran a la mesa cuando las llamaba para comer, decidió convocarlas por las redes sociales. Las chicas se presentaron inmediatamente, pero no fueron las únicas: también a sus contactos les llamó la atención. Así fue como este cocinero apasionado, hecho a sí mismo, descubrió el poder de internet. Con más de medio millón de seguidores en Instagram, el secreto de @rafuel55 es presentar las recetas a un ritmo trepidante y con gran simpatía. De este modo tan personal, fácil y dinámico nos enseña a cocinar en casa las recetas más convincentes y, sobre todo, sabrosas.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Las mejores recetas de Rafuel, el &lt;i&gt;influencer&lt;/i&gt; gastronómico más querido de Instagram.&lt;/b&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408242208</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:30.415159+00:00"/>
+        <meta name="calibre:title_sort" content="Mis mejores recetas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

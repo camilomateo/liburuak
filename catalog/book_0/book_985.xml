@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>El método</title>
+  <id>urn:book:c20cdd40-6e78-4db9-ab8c-42ffd3ed59a8</id>
+  <updated>2023-08-27T03:32:08Z</updated>
+  <link href="./book_985.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="El método" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../authorlist/authorlist_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por M" />
+  <link href="../../Phil%20Stutz/El%20metodo%20%28985%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Phil%20Stutz/El%20metodo%20%28985%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Phil%20Stutz/El%20metodo%20%28985%29/El%20metodo%20-%20Phil%20Stutz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="624 KB" />
+  <author>
+    <name>Phil Stutz</name>
+    <uri>../authors_0/authors_729_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Barry Michels</name>
+    <uri>../authors_0/authors_730_Page_1.xml</uri>
+  </author>
+  <published>2012-07-10T06:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+  <category term="Autoayuda" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Autoayuda, Lang:es
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <p xmlns="">
+      <b>Miedo, angustia, celos... Tus problemas no son
+    insuperables.</b>
+      <br />
+      <b>Basta con disponer de los instrumentos adecuados y el
+    método para saber utilizarlos.</b>
+      <br />
+      A través de cinco dinámicas y prácticas
+    herramientas, los terapeutas Phil Stutz y Barry Michels han
+    creado un método que da el poder a las personas para ser
+    los protagonistas activos de su propia transformación
+    personal y convertir sus miedos y ansiedades en oportunidades.
+      <br />
+      A lo largo de este proceso de transformación
+    personal los lectores encontrarán el coraje,
+    adquirirán la disciplina, mejorarán la
+    comunicación y desarrollarán su creatividad -- y los
+    obstáculos desaparecerán. Durante años Stutz y
+    Michels han enseñado estas técnicas a sus pacientes,
+    pero ahora con
+      <i>El método</i>
+      estas poderosas y revolucionarias
+    herramientas están al alcance de todos los lectores que
+    quieran...
+    </p>
+  </content>
+  <link href="../authors_0/authors_729_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Phil Stutz" />
+  <link href="../authors_0/authors_730_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Barry Michels" />
+  <link href="http://www.goodreads.com/book/title/El%20m%C3%A9todo" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/El%20m%C3%A9todo" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/El%20m%C3%A9todo%20Phil%20Stutz" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=El%20m%C3%A9todo&amp;field-author=Phil%20Stutz" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Phil%20Stutz" type="text/html" rel="related" title="Phil Stutz en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Phil%20Stutz" type="text/html" rel="related" title="Phil Stutz en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/StutzPhil" type="text/html" rel="related" title="Phil Stutz en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Phil%20Stutz" type="text/html" rel="related" title="Phil Stutz en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Phil%20Stutz" type="text/html" rel="related" title="Phil Stutz en ISFDB" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Barry%20Michels" type="text/html" rel="related" title="Barry Michels en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Barry%20Michels" type="text/html" rel="related" title="Barry Michels en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/MichelsBarry" type="text/html" rel="related" title="Barry Michels en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Barry%20Michels" type="text/html" rel="related" title="Barry Michels en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Barry%20Michels" type="text/html" rel="related" title="Barry Michels en ISFDB" target="_blank" />
+</entry>

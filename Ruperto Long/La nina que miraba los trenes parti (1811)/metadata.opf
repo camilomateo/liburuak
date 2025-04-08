@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1811</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">596b3577-59ab-4638-8868-d04d75e602ae</dc:identifier>
+        <dc:title>La niña que miraba los trenes partir</dc:title>
+        <dc:creator opf:file-as="Long, Ruperto" opf:role="aut">Ruperto Long</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-23T06:00:00+00:00</dc:date>
+        <dc:description>Años cuarenta del siglo XX, en un mundo azotado por los conflictos bélicos. Charlotte, una niña belga de ocho años, desaparece de la Lieja ocupada por los nazis, dejando atrás su casa y su infancia feliz. Junto con la familia huye de los perseguidores, viviendo increíbles peripecias y ocultándose en míseros escondites de pueblos y ciudades. Alter, su tío, obligado a desempeñar funciones en uno de los guetos donde Hitler ordena confinar a los judíos —incluidos los padres del muchacho—, debe afrontar una extrema disyuntiva ética. Dimitri Amilakvari, militar francés de origen georgiano, desembarca en el norte de África al frente de la mítica Legión Extranjera, para enfrentar al mariscal alemán Rommel y su temido Afrika Korps. Domingo López Delgado, un soldado uruguayo, se enrola como voluntario en las fuerzas de la Francia Libre y es destinado a la Legión Extranjera en Bir Hakeim, África del Norte, donde será testigo de la grandeza humana de su superior, Amilakvari, y ambos participarán en un combate legendario. Cuatro historias de vida que se entrelazan para transportarnos en el tiempo. La estremecedora novela de Ruperto Long surge de una investigación profunda sobre una época en la que confluyeron xenofobias, persecuciones, guerras y migraciones. Sin embargo, más allá de esos hechos siniestros que la humanidad arrastra hasta nuestros días, el narrador rescata de la realidad historias de amor —entre padres e hijos, entre hermanos, entre amantes, entre amigos—, impregnadas de una empecinada defensa de la vida, de la libertad, del prójimo, de la tierra natal: múltiples relatos de afectos que triunfan y perduran más allá de la barbarie.</dc:description>
+        <dc:publisher>AGUILAR</dc:publisher>
+        <dc:identifier opf:scheme="EPL">49535</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-27T07:07:35.939354+00:00"/>
+        <meta name="calibre:title_sort" content="niña que miraba los trenes partir, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

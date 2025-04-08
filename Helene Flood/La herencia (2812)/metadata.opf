@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2812</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f86e82b3-0d0f-4955-ab15-4633d924254f</dc:identifier>
+        <dc:title>La herencia</dc:title>
+        <dc:creator opf:file-as="Flood, Helene" opf:role="aut">Helene Flood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-03T11:53:05+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Antes de que Erling sufriera un ataque al corazón y cayera fulminado en la calle, ya había sufrido una serie de "casi" accidentes bastante sospechosos. Ahora, sola en su inmensa casa, Evy, su esposa durante cuarenta y cinco años, reflexiona: hay algo que no encaja con la muerte de su marido. Además, todo a su alrededor empieza a cambiar, de forma muy sutil… objetos que desaparecen de la casa, sus hijos aparecen sin avisar y claramente le ocultan cosas, la puerta del sótano, que siempre está cerrada, de repente está entreabierta… Cuando aparece después de muchos años un viejo amigo de la juventud de Erling con algo que contarle Evy empieza a tener miedo. ¿Puede ser que alguien deseara hacerle daño a Erling? ¿Y si ahora la persona que iba tras él, va tras ella?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-20T10:21:16.220900+00:00"/>
+        <meta name="calibre:title_sort" content="herencia, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

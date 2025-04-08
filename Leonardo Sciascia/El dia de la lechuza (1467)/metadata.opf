@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96e03ecc-3486-4b25-ab32-06a7ef581494</dc:identifier>
+        <dc:title>El día de la lechuza</dc:title>
+        <dc:creator opf:file-as="Leonardo Sciascia" opf:role="aut">Leonardo Sciascia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-13T10:34:04+00:00</dc:date>
+        <dc:description>&lt;p&gt;En la plaza de un pequeño pueblo siciliano, Salvatore Colasberna, 
+socio de una pequeña empresa contratista y antiguo albañil, es asesinado
+ cuando está a punto de subir al autobús que se dirige a Palermo. Los 
+pasajeros del autobús, aterrados, se apresuran a huir, y nadie ha visto 
+nada, o eso dicen. Pero las circunstancias de su muerte parecen cada vez
+ más complejas y puede que la misteriosa desaparición del campesino 
+Mendolìa guarde relación con el caso. Un joven capitán de los 
+carabineros de C., ex partisano procedente de la ciudad de Parma, será 
+el encargado de llevar a cabo la investigación y de rasgar con su empeño
+ el silencio plomizo de toda una sociedad. Sus lúcidas pesquisas tal vez
+ le lleven a un entramado que cabría calificar de mafioso.&lt;/p&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T14:46:10.395272+00:00"/>
+        <meta name="calibre:title_sort" content="día de la lechuza, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

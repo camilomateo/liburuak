@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07b16a04-aae6-464f-9f2c-aa41ddac4a76</dc:identifier>
+        <dc:title>La edad de la luz</dc:title>
+        <dc:creator opf:file-as="Scharer, Whitney" opf:role="aut">Whitney Scharer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;Modelo de portada, musa de Man Ray y reportera gráfica durante la segunda guerra mundial, Lee Miller fue una artista casi desconocida por el público no iniciado. En esta novela íntima y vibrante, Whitney Scharer recorre las múltiples facetas de la vida de esta fotógrafa extraordinaria para otorgarle el merecido reconocimiento que su época le negó.&lt;/p&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p class="description"&gt;El libro arranca con una Lee Miller envejecida y consumida por el alcohol en pleno intento de conservar un trabajo en la revista Vogue, tarea que cumple a regañadientes. Como ultimátum a su desidia, su editora le encarga un extenso artículo sobre el tiempo que compartió con el famoso Man Ray en el excitante París de principios de los años treinta. Así, el relato nos presenta a una jovencísima Lee decidida a hacerse un nombre en el mundo de la fotografía. El encuentro fortuito con Ray y la inesperada admisión como asistente en su estudio darán lugar a una intensa y turbulenta relación sentimental que, si bien estimulará al máximo la creatividad de ambos, los abocará a una espiral de celos y traiciones que pondrá fin al idilio de forma traumática.&lt;/p&gt;&lt;p class="description"&gt;Además de un delicioso paseo por el París bohemio, con sus legendarios cafés, sus cabarets cargados de humo y sus fiestas surrealistas, &lt;i&gt;La edad de la luz&lt;/i&gt; es también un viaje por las fotografías más emblemáticas de Miller como reportera, a través de escenas intercaladas en la narración. Pero, sobre todo, es el retrato de una mujer presa de enormes contradicciones e inseguridades, dotada de un talento y una valentía fuera de lo común que la han convertido en un icono del siglo XX.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Whitney Scharer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-13T19:25:34.838599+00:00"/>
+        <meta name="calibre:title_sort" content="edad de la luz, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

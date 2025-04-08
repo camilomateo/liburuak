@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7aa6a348-19f9-42dc-82b7-38f458cb12d3</dc:identifier>
+        <dc:title>¿De quién te escondes?</dc:title>
+        <dc:creator opf:file-as="Link, Charlotte" opf:role="aut">Charlotte Link</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="font-family: Arial, Verdana, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Al final Simon tiene que hacer esa pregunta a Nathalie. Dos días atrás se tropezó con esta joven en la playa. Estaba demacrada y asustada, y él se ofreció a ayudarla. Una decisión impulsiva que se ha vuelto en su contra, pues desde entonces se han visto envueltos en una espiral creciente de violencia y muerte, que les ha convertido en blancos..., ¿de quién? &lt;/span&gt;&lt;br style="font-family: Arial, Verdana, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;br style="font-family: Arial, Verdana, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="font-family: Arial, Verdana, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Nathalie no está simplemente perdida o desamparada, como él creyó. ¿Es una víctima? ¿Es culpable? ¿Qué está pasando? &lt;/span&gt;&lt;br style="font-family: Arial, Verdana, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;br style="font-family: Arial, Verdana, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="font-family: Arial, Verdana, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;¿De quién te escondes?, un suspense psicológico impecable, nos lleva a una decisión cuyas consecuencias, como sucede tantas veces, era imposible prever, al tiempo que va atrapándonos en una historia de secretos, mentiras, asesinatos y una sórdida red que trafica con los sueños y la vida de quienes tienen poco que perder.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425355776</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B073ZN5H5Y</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte Link&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:32.983870+00:00"/>
+        <meta name="calibre:title_sort" content="¿De quién te escondes?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

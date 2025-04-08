@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2692</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08768096-46ac-4952-b4ca-07467df76f41</dc:identifier>
+        <dc:title>Estirpe de sangre</dc:title>
+        <dc:creator opf:file-as="Aza, Sandra" opf:role="aut">Sandra Aza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-24T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Es la hora de restaurar el honor familiar. Es la hora de culminar la venganza. Tras el auto de fe que le ha dejado huérfano, Alonso acude a la Inclusa para recuperar a su hermano Diego, pero allí enfrenta la peor de las noticias cuando le comunican que el niño murió al poco de ingresar. Roto de pena, se apoya en sus amigos, Juan y Antonio, quienes le ayudan a superar esta nueva pérdida introduciéndole en el duro pero fascinante mundo de la picaresca. Una noche rescatan de un atraco a don Gonzalo Soto de Armendía, marqués de Velarde, quien los recompensa incorporándolos al servicio de su casa. Este nuevo vuelco en la vida de Alonso le abrirá las puertas de otro Madrid muy distinto al que conoce, el de la aristocracia; le sumergirá en un sinfín de aventuras y desventuras; le pondrá en el camino a personas que marcarán su futuro y también su pasado, y, sobre todo, le brindará la oportunidad de consumar su venganza y al fin restaurar el honor de los Castro.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Libelo de sangre"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-10-26T10:29:48.698586+00:00"/>
+        <meta name="calibre:title_sort" content="Estirpe de sangre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

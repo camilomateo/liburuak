@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1548</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fae52dda-5059-4235-86fa-462e2b238605</dc:identifier>
+        <dc:title>Para morir siempre hay tiempo</dc:title>
+        <dc:creator opf:file-as="Conde, Carmen" opf:role="aut">Carmen Conde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div data-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;Una
+ novela de suspense y llena de sentido del humor donde Julia, su 
+protagonista, se verá envuelta en una red de tráfico de arte &lt;/span&gt;.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;Novela galardonada por unanimidad con el P&lt;/span&gt;&lt;span class="a-text-italic"&gt;remio de Novela Negra La &lt;/span&gt;&lt;span class="a-text-italic"&gt;Trama.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Escritora
+ frustrada, obsesiva y adicta a los medicamentos, Julia Irazu es una 
+auténtica experta en complicarse la vida, pero esta vez los problemas 
+vienen de fuera. De manera accidental se ve envuelta en una red de 
+tráfico de arte, entre intereses millonarios ydelincuentes sin 
+escrúpulos, y conoce a Viktor Sokolov, un supuesto espía ruso junto al 
+cual vivirá una aventura llena de peligros entre Bilbao, Palermo y San 
+Petersburgo.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Paradójicamente, será entonces cuando Julia descubra un principio básico que desconocía. Y es que, &lt;/span&gt;&lt;span class="a-text-bold"&gt;para morir, siempre hay tiempo.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Dueña
+ de una prosa adictiva y dotada de un fino sentido del humor, Carmen 
+Conde irrumpe con fuerza en el actual panorama literario, dispuesta a 
+robar muchas horas de sueño a los lectores con esta novela de espías que
+ no se parece a ninguna otra.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B019WU0ARQ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:43.869030+00:00"/>
+        <meta name="calibre:title_sort" content="Para morir siempre hay tiempo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

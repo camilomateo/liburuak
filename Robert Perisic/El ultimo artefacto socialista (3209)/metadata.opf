@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f7a3bc5-8c4e-4760-8ab8-1c7ca3167e03</dc:identifier>
+        <dc:title>El último artefacto socialista</dc:title>
+        <dc:creator opf:file-as="Robert Perišić" opf:role="aut">Robert Perišić</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-01T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Han pasado varios años desde que terminó la guerra de los Balcanes. Oleg y Nikola, un par de empresarios buscavidas al servicio del nuevo capitalismo, han llegado a N., una ciudad fronteriza que parece haber sido olvidada por el mundo, para reabrir la antigua fábrica de turbinas. Con la ayuda del antiguo ingeniero, Sobotka, intentarán ganarse la confianza de la población local predicando el evangelio socialista yugoslavo de la «autogestión». Pero sus verdaderos objetivos se revelarán mucho más oscuros. Pronto el proyecto empieza a descontrolarse, y Oleg y Nikola luchan por mantener el control de la fábrica, donde la llegada de la «nueva prosperidad» resucita viejas rencillas e imprevisibles reencuentros.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Impedimenta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419581938</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">222152809</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8419581933</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:11.561809+00:00"/>
+        <meta name="calibre:title_sort" content="El último artefacto socialista"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

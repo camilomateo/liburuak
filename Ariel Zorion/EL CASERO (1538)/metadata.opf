@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa4c8bf0-1f2e-41ca-81af-77b69b6b199f</dc:identifier>
+        <dc:title>EL CASERO</dc:title>
+        <dc:creator opf:file-as="Zorion, Ariel" opf:role="aut">Ariel Zorion</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-30T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Un cambio de profesión.&lt;br&gt;Un traslado.&lt;br&gt;Una forma de dejar atrás el pasado.&lt;br&gt;El comienzo de una nueva vida.&lt;br&gt;&lt;br&gt;Cuando
+ Stacey se muda de ciudad, espera que ese comienzo le ayude a dejar 
+atrás sucesos desagradables vividos unos meses atrás. Fue víctima de 
+acoso en su trabajo y pasó por un auténtico calvario.&lt;br&gt;&lt;br&gt;Ha 
+encontrado una oferta para alquilar una vivienda que no puede 
+desaprovechar, sobre todo ahora que está planteándose poner en marcha su
+ propio negocio mientras lo compagina con su nuevo empleo. &lt;p&gt;Aparecerán personas con las que compartir su vida, aunque no todas serán recomendables.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CZJ59L7Y</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:41.638705+00:00"/>
+        <meta name="calibre:title_sort" content="CASERO, EL"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

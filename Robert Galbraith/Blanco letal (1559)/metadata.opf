@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1559</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec13bc43-af71-4171-a9e3-93c3d8450bc0</dc:identifier>
+        <dc:title>Blanco letal</dc:title>
+        <dc:creator opf:file-as="Robert Galbraith" opf:role="aut">Robert Galbraith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-25T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Billy, un joven con problemas mentales, se presenta en el despacho de Cormoran Strike para pedirle que investigue un crimen que cree haber presenciado de niño. Pero cuando el detective se dispone a hacerle más preguntas, Billy sale corriendo despavorido de la oficina.&lt;/p&gt;
+&lt;p&gt;Tratando de llegar al fondo de la historia, Strike y Robin Ellacott, su antigua asistente y ahora socia de la agencia, emprenden un camino sinuoso que los lleva desde las salas más recónditas y secretas del Parlamento hasta una mansión señorial perdida en el campo.&lt;/p&gt;
+&lt;p&gt;Y mientras el caso se vuelve cada vez más complejo, la vida de Strike se complica: su fama como detective privado le impide pasar desapercibido y su relación con Robin se tensa día a día.&lt;/p&gt;
+&lt;p&gt;Blanco letal, la novela más épica de una serie que ha vendido más de once millones de ejemplares en todo el mundo, nos ofrece un nuevo episodio turbador y muy emocionante de Cormoran Strike y Robin Ellacott.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417384814</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Cormoran Strike"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:46.884639+00:00"/>
+        <meta name="calibre:title_sort" content="Blanco letal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

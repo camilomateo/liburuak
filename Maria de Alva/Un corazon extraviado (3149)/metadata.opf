@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e39bf4d-15bd-49a0-9901-944d1ac44a86</dc:identifier>
+        <dc:title>Un corazon extraviado</dc:title>
+        <dc:creator opf:file-as="Alva, Maria de" opf:role="aut">Maria de Alva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Esta novela rescata una biograf&amp;#237;a novelada del poeta, Pedro Garfias perteneciente a la Generaci&amp;#243;n del 27, su vida en Espa&amp;#241;a, su paso por la Residencia de Estudiantes y amistad con los miembros de dicho grupo, su participaci&amp;#243;n dentro de la guerra civil, su exilio en M&amp;#233;xico y su muerte en la ciudad de Monterrey, al norte de M&amp;#233;xico. &amp;#191;Qu&amp;#233; es un extrav&amp;#237;o? &amp;#191;significa algo la p&amp;#233;rdida? El coraz&amp;#243;n extraviado es una novela sobre los que no salen en la foto, aquellos artistas mujeres y hombres de la Generaci&amp;#243;n del 27 que no formaron parte de la n&amp;#243;mina, pero cuya existencia anodina, se empecina en aparecer. Fueron parte de la Segunda Rep&amp;#250;blica y vivieron la guerra, acabando desplazados en el exilio.&lt;/p&gt;&lt;p&gt;&amp;#191;Qui&amp;#233;n fue Pedro Garfias?&lt;/p&gt;&lt;p&gt;&amp;#191;Qui&amp;#233;nes fueron las Sinsombrero?&lt;/p&gt;&lt;p&gt;Qu&amp;#233; fue Madrid con ellos y los dem&amp;#225;s, c&amp;#243;mo fue su arte y la p&amp;#233;rdida de Espa&amp;#241;a. Pedro Garfias, un...</dc:description>
+        <dc:publisher>Harpercollins Español</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-10T15:00:50.173305+00:00"/>
+        <meta name="calibre:title_sort" content="corazon extraviado, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

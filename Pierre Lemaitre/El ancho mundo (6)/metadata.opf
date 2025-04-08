@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a84c9c8-cfcc-4611-a747-fbe11c80fa4f</dc:identifier>
+        <dc:title>El ancho mundo</dc:title>
+        <dc:creator opf:file-as="Pierre Lemaitre" opf:role="aut">Pierre Lemaitre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Beirut, París, Saigón, 1948. Una trepidante
+ saga familiar llena de secretos, peripecias, aventuras amorosas, 
+turbios negocios y crímenes.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;El ancho mundo&lt;/span&gt;
+ narra las aventuras, desventuras, peripecias y secretos de los 
+Pelletier, una familia propietaria de una fábrica de jabones en Beirut, 
+ciudad bajo influencia francesa, con la Guerra de Indochina y el París 
+de la posguerra y la reconstrucción como telón de fondo. Y todo con un 
+toque de exotismo y varios asesinatos.&lt;/p&gt;&lt;p&gt;Lemaitre nos 
+cuenta tres historias de amor, dos procesiones, la historia de Buda y 
+Confucio, las peripecias de un periodista ambicioso, una muerte trágica,
+ la vida del gato Joseph, los maltratos de una esposa insoportable, la 
+corrupción de los gobiernos, un descenso a los infiernos...&lt;/p&gt;&lt;p&gt;Una
+ novela magistral, luminosa y oscura a la vez, tierna y dura, llena de 
+vueltas, cautivante, que juega deliciosamente con los códigos del 
+folletín.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Pierre Lemaitre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:01:08.151194+00:00"/>
+        <meta name="calibre:title_sort" content="ancho mundo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

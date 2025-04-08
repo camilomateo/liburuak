@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1305</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fbd5000-2b7e-40cb-9047-f2dc558e8c5e</dc:identifier>
+        <dc:title>Las trampas del afecto</dc:title>
+        <dc:creator opf:file-as="Jungstedt, Mari" opf:role="aut">Mari Jungstedt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-10T23:00:00+00:00</dc:date>
+        <dc:description>Tras la muerte del señor Ramberg, sus hijos, Julia, Maria y Daniel heredan la propiedad de una granja construida en el siglo XVII que forma parte del patrimonio histórico de Gotland. Maria desea salir de un matrimonio infeliz con un marido alcohólico y Daniel tiene una gran deuda de juego que debe saldar cuanto antes. De modo que contratan los servicios de la agencia inmobiliaria donde trabaja Sanna Widding, cuyo cuerpo sin vida aparece al día siguiente en un pantano. El inspector de policía  Anders Knutas investiga el caso junto a su colega, Karin Jacobsson. Pronto varios intentos de asesinato ponen en peligro a otros habitantes de la isla, y todos tienen algo en común: el deseo de vender la prestigiosa granja de Gotland.</dc:description>
+        <dc:publisher>Maeva Ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Anders Knutas"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:timestamp" content="2024-03-21T11:44:03+00:00"/>
+        <meta name="calibre:title_sort" content="trampas del afecto, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

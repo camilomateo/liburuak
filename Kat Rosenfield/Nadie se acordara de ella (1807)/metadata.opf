@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1807</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">592f2cbe-6a3c-4d5c-b52b-f002829edc95</dc:identifier>
+        <dc:title>Nadie se acordará de ella</dc:title>
+        <dc:creator opf:file-as="Rosenfield, Kat" opf:role="aut">Kat Rosenfield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-11T06:00:00+00:00</dc:date>
+        <dc:description>Una novela inteligente e ingeniosa de suspense psicológico en la que una chica humilde de un pequeño pueblo conoce a una bella influencer de Instagram de la gran ciudad, con un giro mortal que sorprenderá incluso al lector más inteligente. En una hermosa mañana de octubre en una zona rural de Maine, un investigador de homicidios de la policía estatal se detiene en la deprimida ciudad de Copper Falls. El almacén de chatarra está en llamas, y Lizzie Oullette, una pobre mujer prácticamente vagabunda aparece muerta, y su esposo, Dwayne, no aparece por ningún lado. A medida que el escándalo recorre la comunidad, las investigaciones del detective Ian Bird lo alejan inesperadamente del pequeño pueblo de Maine y lo conducen a una lujosa casa adosada varias horas al sur de allí. Adrienne Richards, rubia y fabulosa influencer y esposa de un multimillonario caído en desgracia, había estado alquilando la pequeña casa del lago de Lizzie para hacer turismo rural… a pesar de que Copper Falls es cualquier cosa menos una ciudad turística. A medida que se aclara la conexión de Adrienne con el caso, también lo hace su conexión con Lizzie, quien narra su historia desde el más allá de la tumba. Cada mujer se siente desesperadamente sola a su manera, y navegan en una relación que trasciende los límites de clase: transaccional, complicada y, finalmente, mortal. Una historia de privilegios, identidades y astucia, en la que dos mujeres de mundos opuestos descubren los peligros de codiciar la vida de otra persona.</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002223</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">304</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-27T07:07:34.722267+00:00"/>
+        <meta name="calibre:title_sort" content="Nadie se acordará de ella"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

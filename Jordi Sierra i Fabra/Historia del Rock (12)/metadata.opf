@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05f44b56-df77-4cc6-8dc4-2db9c5a65b4d</dc:identifier>
+        <dc:title>Historia del Rock</dc:title>
+        <dc:creator opf:file-as="Jordi Sierra i Fabra" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>¿Cómo nacieron el rock;n roll, el rythm and blues, el brit pop, el heavy metal y el country...? ¿Cómo surgió la música de masas gracias a fenómenos como Elvis Presley, los Beatles, los Rolling Stones, Bob Dylan, Queen, Kiss o Madonna, entre tantos otros genios que han hecho la historia del rock? ¿Cómo transformó el mundo de la música el walkman o el MP3? ¿Cómo se organizaron los primeros macroconciertos? ¿Cómo ha cambiado el papel de las discográficas en el mercado musical?
+
+
+
+Historia del rock es un viaje apasionante, con magníficas ilustraciones a color de Xavier Bartumeus, donde conoceremos las tendencias, las modas, los mitos y leyendas, además de las anécdotas de los cantantes y las canciones que han dado forma a este género que revolucionó la historia de la música universal.</dc:description>
+        <dc:publisher>Siruela</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788416854653</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:07:49.211359+00:00"/>
+        <meta name="calibre:title_sort" content="Historia del Rock"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

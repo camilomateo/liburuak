@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f2b3dfb-d25f-48e6-b912-deef6919c13f</dc:identifier>
+        <dc:title>la casa perfecta</dc:title>
+        <dc:creator opf:file-as="Pierce, Blake" opf:role="aut">Blake Pierce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-08T16:25:34+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="a-text-bold"&gt;La criminóloga Jessie Hunt, de 29 años, recién
+ salida de la Academia del FBI, regresa para verse acosada por su padre 
+asesino, atrapada en un juego letal del gato y el ratón. Mientras tanto,
+ debe apresurarse a detener a un asesino en un nuevo caso que le lleva 
+hasta las profundidades de los suburbios—y al precipicio de su propia 
+mente. Y se da cuenta de que la clave para su supervivencia depende de 
+que descifre su pasado—un pasado al que no quería volver a enfrentarse.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">B07ZS4NR1M</dc:identifier>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Blake Pierce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:39+00:00"/>
+        <meta name="calibre:title_sort" content="casa perfecta, la"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">031d0ab0-bb4d-4d20-8355-9720fd325105</dc:identifier>
+        <dc:title>Hécate: La diosa de las brujas</dc:title>
+        <dc:creator opf:file-as="Weber, Courtney" opf:role="aut">Courtney Weber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Courtney Weber nos lleva en un viaje a través de las tradiciones, las leyendas, la historia y la mitología de Hécate, antigua diosa de las encrucijadas, los fantasmas y la brujería, y también quizás la diosa más querida hoy en día. A la vez que explora la relevancia de Hécate para practicantes paganos actuales, Courtney proporciona herramientas, técnicas, prácticas y sugerencias para incorporar a Hécate en tu propio viaje mágico y espiritual.&lt;/p&gt;
+&lt;p&gt;Cada capítulo se centra en un aspecto diferente de la diosa y explora la mitología original, el contexto histórico y las connotaciones contemporáneas, para concluir con hechizos y rituales personales. El capítulo final es un grimorio lleno de rituales, ofrendas y otras prácticas para ayudar a los lectores a conectarse con esta extraordinaria deidad. El libro también explora la ética de la magia, lo que significa ser una bruja en el siglo XXI y las prácticas recomendadas para tener éxito en la brujería. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SIRIO</dc:publisher>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:12.221766+00:00"/>
+        <meta name="calibre:title_sort" content="Hécate: La diosa de las brujas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

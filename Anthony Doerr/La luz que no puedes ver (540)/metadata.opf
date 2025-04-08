@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">540</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31aa6c36-0635-4644-8a7c-ecb42f7b5f52</dc:identifier>
+        <dc:title>La luz que no puedes ver</dc:title>
+        <dc:creator opf:file-as="Doerr, Anthony" opf:role="aut">Anthony Doerr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-25T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Premio Pulitzer de Ficción 2015.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Un corazón puro puede brillar aun en la noche más oscura. Y en el más terrible de los tiempos.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Marie-Laure
+ vive con su padre en París, cerca del Museo de Historia Natural, donde 
+él trabaja como responsable de sus mil cerraduras. Cuando, siendo muy 
+niña, Marie-Laure se queda ciega, su padre le construye una perfecta 
+miniatura de su barrio para que pueda memorizarla gracias al tacto y 
+encontrar el camino a casa. A sus doce años, los nazis ocupan París y 
+padre e hija tienen que huir a la ciudad amurallada de Saint-Malo. Con 
+ellos se llevan la que podría ser la más preciada y peligrosa joya del 
+museo.&lt;/p&gt;&lt;p&gt;En una ciudad minera de Alemania, el joven 
+huérfano Werner crece junto a su hermana pequeña, cautivado por una 
+rudimentaria radio que ambos encuentran. Werner se convierte en un 
+experto en construir y reparar estos aparatos cruciales para los nuevos 
+tiempos, un talento que no pasa desapercibido a las Juventudes 
+Hitlerianas.&lt;/p&gt;&lt;p&gt;Siguiendo al ejército alemán, Werner 
+deberá atravesar el corazón en guerra de Europa. Hasta que en la última 
+noche antes de la liberación de Saint-Malo los caminos de Werner y 
+Marie-Laure por fin se crucen. Y sus vidas cambien para siempre.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00UIEGCQO</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Anthony Doerr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-06T19:50:04.891175+00:00"/>
+        <meta name="calibre:title_sort" content="luz que no puedes ver, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

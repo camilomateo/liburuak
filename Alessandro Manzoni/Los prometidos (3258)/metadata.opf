@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3258</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b629aaaf-9ad0-4d5f-ab85-b0f32bb0577b</dc:identifier>
+        <dc:title>Los prometidos</dc:title>
+        <dc:creator opf:file-as="Manzoni, Alessandro" opf:role="aut">Alessandro Manzoni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En las primeras páginas de este clásico de la literatura universal del siglo XIX, la inminente boda entre Renzo y Lucia, dos jóvenes humildes, se ve de pronto amenazada por el deseo de don Rodrigo y la fuerza bruta de sus esbirros. La interrupción dará lugar a una serie de peripecias siempre inesperadas, en que varios personajes memorables se irán cruzando en el destino de los dos prometidos, que viven en carne propia las tensiones de una época y un espacio, el siglo XVII en la región de Milán, marcados por el hambre, la peste, la ocupación española y la incapacidad de la ley y sus representantes para impartir justicia. Alessandro Manzoni no sólo construye historia particular y antigua de gran poder de seducción. Su novela es, también, universal y contemporánea. Nos habla de nuestras pasiones y transformaciones, de la Italia de hoy, del abuso eterno de los poderosos e incluso de la posverdad.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410317253</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-04T12:04:13.098776+00:00"/>
+        <meta name="calibre:title_sort" content="prometidos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

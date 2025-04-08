@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2520</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">651dea14-b6cf-44cb-bd85-135b05b6688e</dc:identifier>
+        <dc:title>Paradise Lost</dc:title>
+        <dc:creator opf:file-as="Milton, John" opf:role="aut">John Milton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fall</dc:subject>
+        <dc:subject>of</dc:subject>
+        <dc:subject>man</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>Adam</dc:subject>
+        <dc:subject>(Biblical</dc:subject>
+        <dc:subject>figure)</dc:subject>
+        <dc:subject>Eve</dc:subject>
+        <dc:subject>Bible.</dc:subject>
+        <dc:subject>Genesis</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Biblical</dc:subject>
+        <dc:subject>events</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:48+00:00"/>
+        <meta name="calibre:title_sort" content="Paradise Lost"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

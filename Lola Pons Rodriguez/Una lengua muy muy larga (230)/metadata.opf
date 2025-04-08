@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">230</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09474613-6fff-4116-a5f5-8e6246330cc7</dc:identifier>
+        <dc:title>Una lengua muy muy larga</dc:title>
+        <dc:creator opf:file-as="Rodríguez, Lola Pons" opf:role="aut">Lola Pons Rodríguez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;¿De dónde diablos salió la ñ? ¿Hablaba Lope de Vega japonés? ¿‘Yerno’ viene de ‘infierno’? ¿Qué tienen en común el maestro Yoda y el Marqués de Santillana? ¿Sabías que en la Edad Media se abreviaba mucho + q hoy? &lt;/span&gt;&lt;em style="color: #000000"&gt;Una lengua muy muy larga&lt;/em&gt;&lt;span style="color: #000000"&gt; contiene más de cien historias para leer de un tirón o poco a poco, en orden o en desorden, que constituyen la forma más divertida de acercarse al pasado y presente del español, una lengua tan larga en el tiempo como ancha en el espacio que hoy hablan más de 500 millones de personas en el mundo. Conocer el pasado de la lengua española es la mejor manera de entender sus posibilidades y su uso en el presente. Lola Pons, historiadora de la lengua en la Universidad de Sevilla, ofrece divulgación científica de calidad en este libro, ampliación del ya clásico &lt;/span&gt;&lt;em style="color: #000000"&gt;Una lengua muy larga&lt;/em&gt;&lt;span style="color: #000000"&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;«Una combinación brillante de erudición y frescura. Lola Pons pone la historia de la lengua al alcance de cualquier lector.» Francisco Rico, de la Real Academia Española.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Arpa Editores</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">63ee49eb-27e5-4e02-98a5-5635955e9e8b</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Lola Pons Rodríguez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-27T11:04:01.519272+00:00"/>
+        <meta name="calibre:title_sort" content="lengua muy muy larga, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

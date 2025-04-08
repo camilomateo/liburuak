@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9968093-c67a-4fa5-86f0-c1fd28bbb061</dc:identifier>
+        <dc:title>Los secretos de las marcas</dc:title>
+        <dc:creator opf:file-as="Fernando de Córdoba" opf:role="aut">Fernando de Córdoba</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Descubre por qué las marcas son tan importantes e influyen 
+nuestras vidas de las formas más variadas, y cómo consiguen que nos 
+veamos (a nosotros mismos, a los demás y al mundo que nos rodea), 
+actuemos y consumamos de una determinada manera.&lt;/p&gt;&lt;p&gt;¿Cómo
+ se crean?, ¿por qué las hay tan parecidas y tan diferentes?, ¿por qué 
+nos identificamos con ellas?, ¿por qué mueren y, algunas, resucitan?, 
+¿quién decide sus nombres?, ¿cuándo se diseña el logo?&lt;/p&gt;&lt;p&gt;En &lt;span class="a-text-italic"&gt;Los secretos de las marcas,&lt;/span&gt;
+ Fernando de Córdoba nos desvela los aspectos más relevantes que rodean 
+el nacimiento y desarrollo de las marcas, y cómo estas pueden hacer que 
+nos sintamos más creativos, mejor integrados en un grupo o que un 
+refresco nos sepa especialmente bien. Porque una marca es mucho más que 
+un logo: es todo un conjunto de asociaciones.&lt;/p&gt;&lt;p&gt;Queramos
+ o no, nos guste o no, las marcas forman parte de nuestra cultura y de 
+la sociedad, y guardan un montón de historias curiosas, anécdotas y 
+significados ocultos. Son, en definitiva, el encuentro cautivador entre 
+diseño, psicología, filosofía y economía.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-18T14:49:21+00:00"/>
+        <meta name="calibre:title_sort" content="Los secretos de las marcas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

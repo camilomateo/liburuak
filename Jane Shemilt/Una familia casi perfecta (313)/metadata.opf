@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">313</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc20774c-8225-4864-abdc-fd8d35d80a2a</dc:identifier>
+        <dc:title>Una familia casi perfecta</dc:title>
+        <dc:creator opf:file-as="Shemilt, Jane" opf:role="aut">Jane Shemilt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Jenny es una doctora casada con un famoso neurocirujano y madre de tres adolescentes. Cuando su hija de quince años, Naomi, no regresa a casa después de la escuela, la vida perfecta que Jenny creía haber construido se desmorona. Las autoridades dan la voz de alarma y comienza una campaña nacional para buscar a la pequeña, pero sin éxito: Naomi se ha esfumado y la familia está destruida. Pasan los meses y las peores hipótesis se vuelven cada vez más plausibles, pero a falta de pistas, la atención sobre el caso se diluye. Jenny, sin embargo, no se rinde. Un año después de la desaparición de su hija, sigue buscando la verdad. Pronto se da cuenta de que las personas en las que confiaba están ocultando secretos terribles, y la primera, su propia hija. Siguiendo las tenues huellas que la niña ha dejado atrás, Jenny se dará cuenta de que su hija es muy diferente de la chica que creía haber criado...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Newton Compton Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jane Shemilt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-16T07:33:14.802004+00:00"/>
+        <meta name="calibre:title_sort" content="familia casi perfecta, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

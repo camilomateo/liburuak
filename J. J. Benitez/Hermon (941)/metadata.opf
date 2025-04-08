@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">941</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a62e8347-8cef-40e7-b44e-7bdad38d32f3</dc:identifier>
+        <dc:title>Hermón</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-21T06:00:00+00:00</dc:date>
+        <dc:description>En esta nueva entrega J. J. Benítez, adentrará en capítulos que fueron sospechosamente silenciados por los evangelistas. Apariciones de Jesús de Nazaret tras su resurrección, primer cisma entre los discípulos, análisis del ADN... Un libro duro, valiente y tierno en el que el Hijo del Hombre aparece de nuevo, fascinando con sus palabras y su irresistible humanidad.</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408004677</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Caballo de Troya"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2023-07-07T11:51:22.237365+00:00"/>
+        <meta name="calibre:title_sort" content="Hermón"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

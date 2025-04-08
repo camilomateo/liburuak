@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcf5f04f-d509-483d-a408-b005426f311f</dc:identifier>
+        <dc:title>Quédate a mi lado</dc:title>
+        <dc:creator opf:file-as="Amarillo, Noelia" opf:role="aut">Noelia Amarillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-13T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Por la ganadora a la Mejor autora española y Mejor romance erótico del 2011 según la revista Románticas.&lt;/strong&gt; En una ciudad en la que puedes tocar el cielo? o caer en el infierno.&lt;br&gt;Invisible para aquellos que lo rodean, Jared camina sin rumbo por las calles de una gran ciudad, buscando un futuro mejor que el presente en que está inmerso. Su deambular le lleva hasta una pequeña tienda regentada por Dolores y su nieta, Nuria. Allí, la afable anciana le dará la oportunidad de cambiar su presente, aun en contra de los deseos de su desconfiada nieta.&lt;br&gt;Bajo la desamparada apariencia de Jared, Nuria descubrirá a un hombre valiente que conquistará su corazón, aun sin pretenderlo y que, asustado por la pasión que siente por ella, intentará por todos los medios ocultársela. Al fin y al cabo, no tiene nada que ofrecer, él solo es un ?sin techo? más.&lt;br&gt;Pero Nuria no es una jovencita soñadora e insegura, sabe lo que quiere, y está dispuesta a luchar por conseguirlo. Utilizará todas las armas a su alcance para vencer los recelos de Jared, y la pasión, será una de ellas? Si la pasión llama a tu puerta, ¿Te atreverías a rechazarla? **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Zafiro Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788415410867</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Erótica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Noelia Amarillo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:17.536253+00:00"/>
+        <meta name="calibre:title_sort" content="Quédate a mi lado"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

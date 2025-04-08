@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">967</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f3d3ca0-7573-49f5-8207-ba79ff25decd</dc:identifier>
+        <dc:title>El tiempo de la sal</dc:title>
+        <dc:creator opf:file-as="Pereiro, María Teresa" opf:role="aut">María Teresa Pereiro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div style="text-align: justify;"&gt;Era el tiempo de las luces y sus sombras, del pueblo ahogado por 
+la ciudad. En el Vigo de 1878, sólo el mar permanece inalterable, y 
+Sabela, una joven trabajadora de la crepuscular industria de la salazón,
+ se aferra a él enredándose en el pasado como único modo de afrontar el 
+futuro. Hasta que un veraniego día de fiesta se cruza en su vida un 
+desconocido que parece conocerla mejor que un amigo, un extranjero con 
+el cual comparte más que con cualquier vecino, un hombre que empieza a 
+vivir tras recorrer veinte mil leguas con su imaginación. El tiempo de 
+la sal es una novela intimista en la que se entrelazan realidad y 
+ficción, donde se explora desde las profundidades de una ría que esconde
+ secretos enterrados en la lejana batalla de Rande hasta la superficie 
+de las relaciones de la embrionaria burguesía viguesa decimonónica. Una 
+historia para descubrir que hasta las más grandes e inesperadas 
+aventuras empiezan por un primer paso, y que nunca es tarde para 
+emprender un viaje.&lt;/div&gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419392091</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">6O_wzwEACAAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-16T15:28:57.880065+00:00"/>
+        <meta name="calibre:title_sort" content="tiempo de la sal, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1657</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">891bdbad-9856-4a83-a66b-1804458d9020</dc:identifier>
+        <dc:title>La mujer que arañaba las paredes</dc:title>
+        <dc:creator opf:file-as="Adler-Olsen, Jussi" opf:role="aut">Jussi Adler-Olsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Un día de invierno, la joven y prometedora política danesa Merete Lynggaard desaparece durante un viaje sin dejar rastro. La policía inicia una infructuosa investigación, mientras los medios hacen todo tipo de conjeturas, desde asesinato o suicido hasta desaparición voluntaria. Cinco años más tarde, cuando el caso ya está olvidado, el policía Carl Mørck jefe del Departamento Q, la unidad especial dedicada a casos no resueltos, decide reabrirlo. Gracias a su intuición y al talento de su sagaz asistente, Hafez-el-Assad, aparecen nuevos indicios que dan un giro inesperado al caso.</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="EPL">4798</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">2.3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Los casos del Departamento Q"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-07-07T13:32:36.347337+00:00"/>
+        <meta name="calibre:title_sort" content="mujer que arañaba las paredes, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

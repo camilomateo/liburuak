@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1427</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5a44561-f6a8-40a8-af60-3e6cb5c9b2b7</dc:identifier>
+        <dc:title>La revuelta de las cariatides</dc:title>
+        <dc:creator opf:file-as="Márkaris, Petros" opf:role="aut">Petros Márkaris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-04T06:00:00+00:00</dc:date>
+        <dc:description>La pandemia ha quedado atrás, y Kostas Jaritos ya es jefe de las Fuerzas de Seguridad del Ática, un logro que celebrará con su familia y sus amigos. Después de recibir las felicitaciones del ministro del Interior, regresa a Jefatura… esta vez con uniforme. Entre los cambios que provoca ese nombramiento, el más importante es el de su sucesión: por primera vez, será una mujer, Antigoni Ferleki, la que ocupe el puesto de jefa del Departamento de Homicidios. Pronto, Kostas debe garantizar la seguridad de tres ricos empresarios extranjeros que viajarán a Grecia con el objetivo de invertir en algunos recintos arqueológicos. Los medios de comunicación los acogen con entusiasmo, pero no todo el mundo está contento. Un grupo de mujeres, autodenominado 'las Cariátides', no ven con buenos ojos ese proyecto. Las consecuencias serán trágicas en esa Atenas que se transforma sin perder nunca su identidad.</dc:description>
+        <dc:publisher>Tusquets Editores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411074612</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Jaritos"/>
+        <meta name="calibre:series_index" content="16"/>
+        <meta name="calibre:timestamp" content="2024-04-09T09:16:20.860165+00:00"/>
+        <meta name="calibre:title_sort" content="revuelta de las cariatides, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed154ab2-9ec3-43bc-9e06-fb97df67d43a</dc:identifier>
+        <dc:title>El cuaderno de Nerina</dc:title>
+        <dc:creator opf:file-as="Lahiri, Jhumpa" opf:role="aut">Jhumpa Lahiri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-15T06:00:00+00:00</dc:date>
+        <dc:description>Un libro único en el que la ganadora del Premio Pulitzer y del Pen Hemingway da voz a una misteriosa escritora cuyos poemas cuentan una vida sospechosamente parecida a la suya.En el fondo del cajón de un escritorio de su casa de Roma, la autora halla algunos objetos olvidados por sus anteriores dueños: sellos, un diccionario griego-italiano, botones, postales que nunca se enviaron, la foto de tres mujeres de pie frente a una ventana y un cuaderno fucsia con el nombre de «Nerina» manuscrito en la cubierta. ¿Quién es esa mujer sin apellido? Como una poeta clásica o medieval, o como una misteriosa artista del Renacimiento, Nerina escapa a la historia y a la geografía. Apátrida, políglota, culta, escribe en su cuaderno poemas excepcionales y cotidianos sobre su vida entre Roma, Londres, Calcuta y Boston, sobre su vínculo con el mar, con su familia y con las palabras, y en ellos Jhumpa Lahiri vislumbra una identidad. Entre ella y Nerina, cuya existencia se confía a los versos y a muy...</dc:description>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788426423962</dc:identifier>
+        <dc:language>es</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-05T16:55:58.738714+00:00"/>
+        <meta name="calibre:title_sort" content="cuaderno de Nerina, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

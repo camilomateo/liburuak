@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">410</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49dd399b-4d76-4249-9931-82ccb40c516f</dc:identifier>
+        <dc:title>¡Apocalipsis vaca!</dc:title>
+        <dc:creator opf:file-as="Guy Edmonds y Matt Zeremes" opf:role="aut">Guy Edmonds y Matt Zeremes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;¡¿PODRÁN JIMMY Y SUS AMIGOS SOBREVIVIR AL VACAPOCALIPSIS?!&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Llega una nueva serie desternillante, llena de zombis, explosiones, aventuras y... ¿vacas?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;¡HOLA! Me llamo JIMMY y ahora mismo estoy viviendo un APOCALIPSIS ZOMBI de lo más friki.&lt;/p&gt;&lt;p&gt;Todos
+ los adultos de mi ciudad, Birriavilla, se han convertido en zombis, 
+pero no en zombis devoracerebros como los de las pelis. ¡Estos zombis 
+son VACAS! ¡De las de verdad! ¡Van por ahí haciendo mu y babeando a 
+saco! Y, cuidado, porque si te babean encima estás listo. Pero no listo 
+en plan superdotado, precisamente...Por suerte, ¡mis amigos y yo tenemos
+ un plan para salvar el mundo!&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;En esta desternillante serie encontrarás:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;*Una historia divertida y accesible en formato diario, ideal para lectores reticentes.&lt;/p&gt;&lt;p&gt;*Ilustraciones tipo cómic que mantendrán el interés de los niños y niñas.&lt;/p&gt;&lt;p&gt;*Una narración hilarante y alocada que encantará a los lectores.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Molino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Guy Edmonds y Matt Zeremes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Diarios zombri"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-03-13T08:46:50+00:00"/>
+        <meta name="calibre:title_sort" content="¡Apocalipsis vaca!"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

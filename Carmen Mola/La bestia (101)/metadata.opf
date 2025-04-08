@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90ac37a0-694b-4944-93a5-2b5a56d983a5</dc:identifier>
+        <dc:title>La bestia</dc:title>
+        <dc:creator opf:file-as="Carmen Mola" opf:role="aut">Carmen Mola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-04T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Corre el año 1834 y Madrid, una pequeña ciudad que trata de abrirse paso más allá de las murallas que la rodean, sufre una terrible epidemia de cólera. Pero la peste no es lo único que aterroriza a sus habitantes: en los arrabales aparecen cadáveres desmembrados de niñas que nadie reclama. Todos los rumores apuntan a la Bestia, un ser a quien nadie ha visto pero al que todos temen. Cuando la pequeña Clara desaparece, su hermana Lucía, junto con Donoso, un policía tuerto, y Diego, un periodista buscavidas, inician una frenética cuenta atrás para encontrar a la niña con vida. En su camino tropiezan con fray Braulio, un monje guerrillero, y con un misterioso anillo de oro con dos mazas cruzadas que todo el mundo codicia y por el que algunos están dispuestos a matar. &lt;br&gt;&lt;strong&gt;De manera magistral, Carmen Mola teje, con los hilos del mejor &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;thriller&lt;/span&gt;&lt;strong&gt; , esta novela impactante, frenética e implacable, de infierno y oscuridad.&lt;/strong&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">14JJEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788408249849</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8408249843</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Carmen Mola&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:15:16.454078+00:00"/>
+        <meta name="calibre:title_sort" content="La bestia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

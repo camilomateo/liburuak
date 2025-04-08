@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1809</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9220f53-9314-42f9-940d-84c0220627e7</dc:identifier>
+        <dc:title>El choque</dc:title>
+        <dc:creator opf:file-as="Linwood Barclay" opf:role="aut">Linwood Barclay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Glen Barber no es la única persona en el pequeño pueblo de Milford, Connecticut, que tiene quebraderos de cabeza. La crisis económica ha puesto su negocio de construcción en una situación más que comprometida y, después de que un misterioso incendio redujera a cenizas una de sus obras, las cosas no han hecho más que empeorar.&lt;br&gt;Su esposa, Sheila, tiene sus propios planes para sacarlos del atolladero, pero entonces tiene un accidente y los sueños de prosperidad se desvanecen en una neblina de desesperación, dolor y rabia. En busca de respuestas, Glen comenzará a indagar en las circunstancias del trágico incidente solo para descubrir el lado oscuro de la idílica vecindad de Milford.&lt;br&gt;&lt;strong&gt;"Las páginas vuelan. Es un thriller para leer de un tirón." Michael Connelly&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;"¿Cómo he podido pasar toda mi vida sin Linwood Barclay? Con esta novela Barclay se sitúa en lo más alto del panteón del suspense." Stephen King &lt;/strong&gt;&lt;br&gt;&lt;strong&gt;"Tiene unos personajes fascinantes y una trama inteligente. El planteamiento es impecable, y está narrado con todo el talento del mundo." The Washington Times&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-27T07:07:35.362164+00:00"/>
+        <meta name="calibre:title_sort" content="El choque"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

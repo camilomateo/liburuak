@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3059</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1b2a1b7-9e54-4372-85e3-a35c0a03d604</dc:identifier>
+        <dc:title>Bóvedas de acero (Traducción de Luis G. Prado)</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1953-12-31T23:00:00+00:00</dc:date>
+        <dc:description>En el Enclave Espacial, a las afueras de la Ciudad de Nueva York, un científico de los Mundos Exteriores ha aparecido asesinado. El detective Elijah Baley tiene que ocuparse de este caso en la para él inquietante y odiosa compañía de un robot humanoide: R. Daneel Olivaw. La investigación es delicada ya que puede terminar con el equilibrio entre los descendientes de la colonización estelar, en perfecta comunión con sus robots, y los habitantes de la Tierra, que, refugiados en grandes metrópolis subterráneas a las que llaman Ciudades, sobreviven precariamente a la falta de recursos naturales y temen a los robots.
+«La clásica representación de la ciudad como útero, la metrópolis como madre, que ha quedado fijada en la imaginación desde entonces… Bóvedas de acero y El sol desnudo son los mejores libros que jamás escribió Asimov». The Guardian.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-14T11:03:59.279209+00:00"/>
+        <meta name="calibre:title_sort" content="Bóvedas de acero (Traducción de Luis G. Prado)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

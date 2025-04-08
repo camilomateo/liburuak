@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1801</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4dc713e-366a-4381-a2d3-f30cc040528c</dc:identifier>
+        <dc:title>Colección Thriller Psicológico</dc:title>
+        <dc:creator opf:file-as="Crespo, Jana" opf:role="aut">Jana Crespo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-13T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Lee GRATIS, con Kindle Unlimited, esta colección de tres novelas de thriller psicológico.&lt;br&gt; &lt;/p&gt;&lt;ul class="a-unordered-list a-vertical"&gt;&lt;li&gt;&lt;span class="a-list-item"&gt;⭐⭐⭐⭐⭐” Atrapa de principio a fin”&lt;br&gt;⭐⭐⭐⭐⭐” Un tono ágil que te engancha, tiene ritmo y unos personajes creíbles”&lt;br&gt;⭐⭐⭐⭐⭐” La historia engancha hasta el final”&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span class="a-list-item"&gt;⭐⭐⭐⭐⭐ "Me la zampé de un tirón. Emocionante, engancha y ya no puedes dejarla"&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span class="a-list-item"&gt;⭐⭐⭐⭐⭐ "Sencillamente excelente"&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span class="a-list-item"&gt;⭐⭐⭐⭐⭐
+ "Una historia cotidiana que logra enganchar desde la primera página. 
+Con giros en la trama que sinceramente uno no se espera"&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DD565X4X</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:18.502756+00:00"/>
+        <meta name="calibre:title_sort" content="Colección Thriller Psicológico"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

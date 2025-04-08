@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">028d03bf-617c-4c22-8186-92fc6e908805</dc:identifier>
+        <dc:title>Crime and Punishment</dc:title>
+        <dc:creator opf:file-as="Dostoyevsky, Fyodor" opf:role="aut">Fyodor Dostoyevsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective</dc:subject>
+        <dc:subject>and</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Stories</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>Petersburg</dc:subject>
+        <dc:subject>(Russia)</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Murder</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>aspects</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:38+00:00"/>
+        <meta name="calibre:title_sort" content="Crime and Punishment"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

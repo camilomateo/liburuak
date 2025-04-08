@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1054</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa095d9c-8a64-4fd1-83ec-ffc03c6a0149</dc:identifier>
+        <dc:title>Los santos salvajes</dc:title>
+        <dc:creator opf:file-as="Natalia Monje" opf:role="aut">Natalia Monje</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-24T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una apasionante y aterradora historia folk horror en la Galicia profunda. La periodista y divulgadora Natalia Monje elige para su primera novela una trama antropológica con toques de folk horror, sobre la construcción del enemigo y del miedo, y la manera en que eso se perpetúa en prácticas oscuras que, aunque parecen desaparecidas, pueden reactivarse con un pequeño cambio. Su protagonista es una investigadora que se topa en una aldea de la Galicia rural con la terrible muerte de una mujer embarazada, aparentemente atacada por un buey semental. Lo que parece un accidente toma un sesgo más siniestro cuando resulta que el cadáver del feto no aparece por ninguna parte. Se plantea así una reflexión en forma de apasionante novela sobre las mentalidades, sobre cómo se crean los mitos, se deforman y perduran disfrazados a través de los siglos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467071559</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">V8PMEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-11-01T18:27:32.700930+00:00"/>
+        <meta name="calibre:title_sort" content="santos salvajes, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

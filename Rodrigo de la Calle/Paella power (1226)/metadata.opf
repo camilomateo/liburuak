@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1226</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc97b320-0331-45f2-9aac-7c14ba3449f7</dc:identifier>
+        <dc:title>Paella power</dc:title>
+        <dc:creator opf:file-as="Rodrigo de la Calle" opf:role="aut">Rodrigo de la Calle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-14T22:00:00+00:00</dc:date>
+        <dc:description>Una propuesta atrevida con los arroces y las paellas tradicionales y modernas como base, con una gran variedad de maneras y alternativas de prepararlas, desde la clásica paella valenciana hasta el arroz negro, pasando por la paella de verduras o la de marisco, y con las técnicas necesarias para cada ocasión, detalladas minuciosamente para convertirnos en grandes expertos del arroz.</dc:description>
+        <dc:publisher>Planeta Gastro</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Manuales y cursos</dc:subject>
+        <dc:subject>Hogar</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-20T15:22:18+00:00"/>
+        <meta name="calibre:title_sort" content="Paella power"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

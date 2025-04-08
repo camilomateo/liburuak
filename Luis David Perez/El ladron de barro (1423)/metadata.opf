@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1423</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49dd73dc-6a08-4b46-8bb6-4ba7a48346bc</dc:identifier>
+        <dc:title>El ladrón de barro</dc:title>
+        <dc:creator opf:file-as="Pérez, Luis David" opf:role="aut">Luis David Pérez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h5&gt;¿Puede un dibujo de barro desenmascarar la sonrisa del hombre más afortunado?&lt;/h5&gt;
+&lt;p&gt;La inspectora Marta Escudero aterriza en Alicante para liderar la Unidad Central de Inteligencia Criminal y hacerse cargo de un suceso que se ha convertido en mediático: El caso de «Las tres palmeras».&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;Un reconocido empresario de la ciudad, y aspirante a la alcaldía, aparece brutalmente asesinado junto a su esposa y la empleada doméstica en el jardín de su residencia.&lt;br&gt;&lt;br&gt;De manera simultánea, varias viviendas de lujo son asaltadas por alguien que deja una marca característica en la pared: el símbolo del euro dibujado en barro.&lt;br&gt;&lt;br&gt;La habilidad del intruso para evadir los sistemas de seguridad de todas las fincas pone en alerta al equipo de la UCIC, que intenta establecer una conexión entre ambos.&lt;br&gt;&lt;br&gt;El caso se encuentra en un callejón sin salida. La inspectora sabe que la llave para resolver el misterio podría estar en destapar los secretos más ocultos de los sospechosos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Inspectora Escudero"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-04-09T09:16:19.951614+00:00"/>
+        <meta name="calibre:title_sort" content="ladrón de barro, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

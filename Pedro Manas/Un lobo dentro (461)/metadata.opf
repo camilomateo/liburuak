@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">461</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c525e453-9399-4380-90c6-61a1923a8630</dc:identifier>
+        <dc:title>Un lobo dentro</dc:title>
+        <dc:creator opf:file-as="Mañas, Pedro" opf:role="aut">Pedro Mañas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-15T15:08:40+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;b&gt;Una historia de acoso desde el punto de vista del acosador.&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;Un juego inocente que se desboca hasta dejar de ser un juego. Una broma, una burla, un mote, un rumor, un mensaje anónimo, una amenaza, un golpe, una paliza.&lt;/p&gt;
+ &lt;p&gt;Así empieza todo, y no como en las películas.&lt;/p&gt;
+ &lt;p&gt;Una historia que sucede todos los días, en todas partes, a un montón de personas distintas. Víctimas que ya no saben si se meten con ellas por ser como son o si son así porque se meten con ellas. Hasta que, un día, una de esas víctimas decide que, si no puede dejar de sentir miedo, será quien lo infunda.&lt;/p&gt;
+ &lt;p&gt;La historia de cómo Jacob se convirtió en Lobo. De cómo ambos crecieron a la vez, pero no del mismo modo.&lt;/p&gt;
+ &lt;p&gt;La historia sobre el monstruo en que cualquiera puede convertirse.&lt;/p&gt;
+ &lt;p&gt;Incluso, la víctima.&lt;/p&gt;</dc:description>
+        <dc:publisher>NUBE DE TINTA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418050404</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Pedro Mañas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-24T20:44:10.916620+00:00"/>
+        <meta name="calibre:title_sort" content="lobo dentro, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">347</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f998c50-fbc1-4965-8c2f-5e2b525017e4</dc:identifier>
+        <dc:title>Autobiografía del algodón</dc:title>
+        <dc:creator opf:file-as="Garza, Cristina Rivera" opf:role="aut">Cristina Rivera Garza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;"Autobiografía del algodón Autobiografía algodón dota de un nuevo y  extraordinario significante al territorio de la frontera norte de   México, que aquí se erige majestuoso sobre el movimiento nómada y las  rutas de recuerdos." Yásnaya Elena Aguilar Indagar sobre el origen  personal es abrir la puerta a muchas preguntas, a silencios y respuestas  impensadas que a veces terminan por  ser un revés de la memoria. En  Autobiografía del algodón, Cristina Rivera Garza sigue con curiosidad y  asombro los pasos de aquellos hombres y mujeres que habitan su pasado  familiar, obreros y campesinos que trabajaron la tierra que ahora  conforma la frontera entre Tamaulipas y Texas, una región que alcanzó un  alto nivel económico, social y cultural gracias al sistema de siembra  del algodón. Es así que esta novela es, además de íntima, un reencuentro  con el territorio. O un desencuentro, debido a la migración,  deportación, expulsión y repatriación de aquellos campesinos algodoneros  que, tras el fracaso del sistema, dejaron libre su espacio, antes  símbolo de progreso, hoy ocupado por la llamada guerra contra el narco.&lt;/P&gt;</dc:description>
+        <dc:publisher>Literatura Random House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073194426</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Cristina Rivera Garza&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-21T12:29:28.572637+00:00"/>
+        <meta name="calibre:title_sort" content="Autobiografía del algodón"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3ed4d99-b5a1-43d7-a527-f555186f483b</dc:identifier>
+        <dc:title>Soñar como sueñan los árboles</dc:title>
+        <dc:creator opf:file-as="Lozano, Brenda" opf:role="aut">Brenda Lozano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-15T00:00:00+00:00</dc:date>
+        <dc:description>«Gloria Felipe miró la primera plana delperiódico recién impreso como si miraraun barco entrando de noche al marabierto. También un mar dentro de ella.»Las vidas de Gloria Felipe y de Nuria Valencia se entrelazan en torno al robo de una niña pequeña que conmociona a la capital mexicana en la década de 1940. Por medio de una narradora que (en sus propias palabras) «no canta mal las rancheras», somos testigos de la batalla de los Miranda Felipe por recuperar a la menor de sus integrantes y de la crianza angustiosa de los Fernández Valencia para salvar a su propia niña de un peligro potencial que la policía no ha podido frenar y los medios reportan con el tono de un thriller.Atravesada por diversas imágenes de agua –en forma de lluvia, mar, brisa, estanque o charco– que reflejan el estado anímico de sus personajes, Soñar como sueñan los árboles ofrece una mirada crítica de los mandatos de la maternidad, y muestra también las posibilidades de rebeldía y autodeterminación que...</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073840200</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-03T12:01:59.817887+00:00"/>
+        <meta name="calibre:title_sort" content="Soñar como sueñan los árboles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

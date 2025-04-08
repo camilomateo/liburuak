@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1043</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54b9c114-2239-42a1-85d7-02ede139b377</dc:identifier>
+        <dc:title>El murciélago</dc:title>
+        <dc:creator opf:file-as="Jo Nesbø" opf:role="aut">Jo Nesbø</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-06T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Harry Hole es enviado a Sydney desde Oslo para que investigue 
+el asesinato de una mujer noruega, Inger Holter, cuyo cadáver ha sido 
+encontrado entre oscuras rocas, al pie de un acantilado. La policía 
+sospecha que fue violada antes de morir, pero no se ha hallado rastro 
+alguno de ADN.&lt;/p&gt;&lt;p&gt;Harry Hole tendrá como compañero de 
+investigación a Andrew Kengsinton, detective aborigen australiano. Ambos
+ sospechan del novio de Inger, Evans White, atractivo camello conocido 
+por la policía. Sin embargo, Harry comienza a vislumbrar que el caso es 
+más complejo de lo que a priori pudiera parecer, y poco después el 
+equipo de investigación relaciona una serie de desapariciones y 
+asesinatos sin resolver que sugieren que un asesino en serie anda 
+suelto.&lt;/p&gt;&lt;p&gt;Harry Hole es un joven y brillante detective,
+ pero esconde un oscuro secreto. Durante su estancia en Sydney se 
+enamorará perdidamente de Birgita Enquist, a quien le confesará lo que 
+oculta su pasado y qué le aleja de su país...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00TZ9EX0A</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Harry Hole"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-10-20T11:12:32.822303+00:00"/>
+        <meta name="calibre:title_sort" content="murciélago, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

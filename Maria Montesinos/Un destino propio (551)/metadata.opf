@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">551</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">259321cb-0d48-4432-ae3b-d312ebc46beb</dc:identifier>
+        <dc:title>Un destino propio</dc:title>
+        <dc:creator opf:file-as="Montesinos, María" opf:role="aut">María Montesinos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;El mundo está cambiando y nadie podrá impedirlo. Una sociedad se resiste al fin de una época. Una mujer busca su propio destino.&lt;/strong&gt; Algunas novelas tienen el poder de reflejar la vida en todo su esplendor, trasladarnos a una época prodigiosa, captar el instante preciso en el que todo estaba a punto de cambiar. Esta es una de esas novelas. Micaela es una joven maestra que llega a Comillas, uno de los pueblos más elegantes de la costa cántabra, en el verano de 1883. Allí conoce a Héctor Balboa, un indiano que acaba de regresar de Cuba tras amasar una gran fortuna y está construyendo una escuela para los hijos -y no las hijas- de los aldeanos. Micaela empieza entonces su batalla para que también las niñas puedan recibir la educación que merecen y necesitan, al tiempo que entre ella y Héctor va surgiendo una atracción capaz de derribar todas las barreras. Ambientada a finales del siglo XIX, en un momento histórico decisivo y lleno de contrastes, &lt;em&gt;Un destino propio&lt;/em&gt; nos habla de aquellas primeras mujeres valientes que se atrevieron a alzar la voz contra una sociedad que se negaba a escucharlas. **&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;María Montesinos&lt;/strong&gt; es licenciada en Periodismo por la Universidad Complutense de Madrid y ha trabajado tanto en medios como en comunicación social. Su novela Un destino propio se ha visto precedida de una gran expectación. &lt;/p&gt;
+&lt;p&gt;Facebook: mariamontesinos.escritora &lt;br&gt;Instagram: mriamontesinos &lt;br&gt;Twitter: Mriamontesinos &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Un destino propio"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-04-11T07:33:22+00:00"/>
+        <meta name="calibre:title_sort" content="destino propio, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2770</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c81db527-baa6-4dee-8716-e3376721b928</dc:identifier>
+        <dc:title>El camino</dc:title>
+        <dc:creator opf:file-as="Niewierra, Anya" opf:role="aut">Anya Niewierra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;LOTTE RECORRE EL CAMINO DE SANTIAGO EN BUSCA DE RESPUESTAS SOBRE LA MUERTE DE SU MARIDO. La chocolatera Lotte Bonnet vive feliz en el sur de Limburgo con su marido Emil, un exrefugiado de Bosnia. Tras el cáncer que su esposo acaba de superar, nada la prepara para la noticia que está por llegar: Emil se ha suicidado mientras hacía el Camino de Santiago para celebrar su recuperación. Todavía devastada, once meses después Lotte viaja a Bosnia con la intención de esparcir las cenizas. Allí descubre que Emil mintió sobre su identidad. Llena de preguntas, decide hacer el Camino ella misma, según la ruta y la planificación de Emil. Quiere saber qué lo impulsó a cometer ese acto de desesperación. Pero alguien la sigue, alguien que no quiere que descubra la verdad. Ganadora del Premio del Público al Libro Holandés, del Premio Hebban de suspense y del Premio Thrillzone a mejor thriller.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>RBA Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411329613</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-31T07:29:17.972796+00:00"/>
+        <meta name="calibre:title_sort" content="camino, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

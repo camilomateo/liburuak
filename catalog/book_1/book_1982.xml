@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Todo lo bueno es libre y salvaje</title>
+  <id>urn:book:266877fb-6000-4115-a40d-9e477df14c8c</id>
+  <updated>2024-09-05T06:10:30Z</updated>
+  <link href="./book_1982.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Todo lo bueno es libre y salvaje" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por T" />
+  <link href="../authors_1/authors_1418_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Henry David Thoreau" />
+  <link href="../../Henry%20David%20Thoreau/Todo%20lo%20bueno%20es%20libre%20y%20salvaje%20%281982%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Henry%20David%20Thoreau/Todo%20lo%20bueno%20es%20libre%20y%20salvaje%20%281982%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Henry%20David%20Thoreau/Todo%20lo%20bueno%20es%20libre%20y%20salvaje%20%281982%29/Todo%20lo%20bueno%20es%20libre%20y%20salvaj%20-%20Henry%20David%20Thoreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="181 KB" />
+  <author>
+    <name>Henry David Thoreau</name>
+    <uri>../authors_1/authors_1418_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+  <category term="Filosofía" />
+  <category term="Lang:es" />
+  <category term="Biblioteca PruébaT" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Libro 217 en la Biblioteca PruébaT serie
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Filosofía, Lang:es
+    </p>
+  </content>
+  <link href="../series_0/series_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libro 217 en la Biblioteca PruébaT serie" />
+  <link href="../authors_1/authors_1418_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Henry David Thoreau" />
+  <link href="http://www.goodreads.com/book/title/Todo%20lo%20bueno%20es%20libre%20y%20salvaje" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Todo%20lo%20bueno%20es%20libre%20y%20salvaje" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Todo%20lo%20bueno%20es%20libre%20y%20salvaje%20Henry%20David%20Thoreau" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Todo%20lo%20bueno%20es%20libre%20y%20salvaje&amp;field-author=Henry%20David%20Thoreau" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Henry%20David%20Thoreau" type="text/html" rel="related" title="Henry David Thoreau en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Henry%20David%20Thoreau" type="text/html" rel="related" title="Henry David Thoreau en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/ThoreauHenryDavid" type="text/html" rel="related" title="Henry David Thoreau en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Henry%20David%20Thoreau" type="text/html" rel="related" title="Henry David Thoreau en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Henry%20David%20Thoreau" type="text/html" rel="related" title="Henry David Thoreau en ISFDB" target="_blank" />
+</entry>

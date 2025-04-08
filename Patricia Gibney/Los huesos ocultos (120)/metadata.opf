@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4a0f4e9-35c0-4dd6-908f-9e957e7ce28e</dc:identifier>
+        <dc:title>Los huesos ocultos</dc:title>
+        <dc:creator opf:file-as="Gibney, Patricia" opf:role="aut">Patricia Gibney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Cuando el cadáver de Isabel Gallagher aparece con cortes y puñaladas por todo el cuerpo, Lottie Parker se hace cargo de la investigación. Parece un crimen pasional y el primer sospechoso es Jack, el marido de Isabel, pero ese mismo día se denuncia la desaparición de otra mujer, Joyce Breslin. Y lo peor de todo es que, unas horas más tarde, alguien secuestra a Evan, el hijo de Joyce, en la guardería.
+Desesperada por encontrar a Evan y a su madre, Lottie y su equipo indagan en el pasado de Isabel y Joyce hasta que descubren que ambas se habían reunido en secreto últimamente y nadie parece saber el motivo.
+Cuando una mujer del pueblo encuentra un esqueleto de niño pequeño enterrado en una colina, el pánico se apodera del cuerpo de policía. ¿Pertenecen esos huesos al pequeño Evan?</dc:description>
+        <dc:publisher>Principal de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418216466</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Patricia Gibney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Lottie Parker"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:32.409414+00:00"/>
+        <meta name="calibre:title_sort" content="huesos ocultos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

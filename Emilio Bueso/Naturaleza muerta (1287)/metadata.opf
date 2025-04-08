@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1287</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4ab964e-77bb-4f17-8c2a-97ca4a9056a8</dc:identifier>
+        <dc:title>Naturaleza muerta</dc:title>
+        <dc:creator opf:file-as="Emilio Bueso" opf:role="aut">Emilio Bueso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-22T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;VUELVE EL AUTOR REFERENCIA DEL TERROR EN ESPAÑA CON UNA NOVELA QUE ATRAPA SIN PIEDAD. &lt;/p&gt;
+&lt;p align="justify"&gt;"Uno de los mejores autores de género en castellano. De hecho, llamarlo "de género" es limitarlo. Emilio es un gran escritor y ya". &lt;br&gt;&lt;strong&gt;Mariana Enríquez&lt;/strong&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;"Emilio Bueso escribe de una manera terroríficamente adictiva: aunque tengas el corazón en un puño no podrás dejar de leer". &lt;br&gt;&lt;strong&gt;Juan Gómez-Jurado&lt;/strong&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;UNA MUJER QUE HUYE DE TODO.&lt;br&gt;UNA CASA AISLADA JUNTO AL PANTANO.&lt;br&gt;UNA TENSIÓN QUE CRECE BAJO EL AGUA. &lt;/p&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;LAS LUCES MÁS PRECIOSAS ESCONDEN LOS ORÍGENES MÁS OSCUROS.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466677455</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">202363386</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">EyLkEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8466677445</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-15T07:54:01.671632+00:00"/>
+        <meta name="calibre:title_sort" content="Naturaleza muerta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

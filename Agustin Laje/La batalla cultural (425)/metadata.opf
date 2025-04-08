@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">425</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ccf0203-bf48-4b2a-8b76-e59ea3ab5f21</dc:identifier>
+        <dc:title>La batalla cultural</dc:title>
+        <dc:creator opf:file-as="Laje, Agustin" opf:role="aut">Agustin Laje</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-08T13:16:15+00:00</dc:date>
+        <dc:description>&lt;p&gt;La cultura ha dejado de ocupar el lugar secundario que antaño se 
+le adjudicaba. Reflejo, epifenómeno, superestructura o mero condimento 
+determinado por otras esferas sociales: la cultura estuvo condenada 
+durante mucho tiempo a la marginalidad respecto de lo político y lo 
+económico. Pero hoy esto ha dejado de ser así. La cultura se ha vuelto 
+estructural. Se confunde con lo económico, penetra por completo lo 
+político: la cultura atraviesa el corazón mismo del poder. Agustín Laje,
+ escritor, politólogo, intelectual y conferencista, presenta en este 
+trabajo seis capítulos sobre la historia política de la cultura. A lo 
+largo del libro, dialoga con los más reconocidos sociólogos, filósofos, 
+politólogos, antropólogos e historiadores, posicionándose a la altura de
+ los grandes intelectuales. El interés de Laje estriba en desvelar de 
+qué manera la cultura, en el mundo moderno y, sobre todo, en nuestra 
+fase posmoderna, se convierte en materia política. Esto mismo es lo que 
+se denomina “batalla cultural”: una confrontación de carácter político 
+cuyo fin es la influencia sobre los elementos de una cultura a través de
+ los dispositivos y las instituciones culturales. Pero a Laje no lo 
+mueve únicamente un interés de carácter académico. Desde la primera 
+página, el autor hace explícita su intencionalidad política: brindar 
+herramientas teóricas para lo que denomina “Nueva Derecha”. Frente a la 
+Nueva Izquierda, el progresismo y el globalismo, Laje propone esforzarse
+ por construir nuevas derechas organizadas a través del concepto de 
+“batalla cultural”. Libertarios no progresistas, patriotas no 
+estatalistas, conservadores y tradicionalistas no inmovilistas: con esta
+ fórmula, Laje explora las posibilidades para una articulación 
+hegemónica capaz de dar lugar a una nueva identidad política superadora:
+ una Nueva Derecha. «El más reciente libro de Laje es un texto 
+importante en defensa de miles de años de valores y tradiciones que 
+compartimos a lo largo del Occidente». Ben Shapiro&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Agustin Laje&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-14T15:53:27.388630+00:00"/>
+        <meta name="calibre:title_sort" content="batalla cultural, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

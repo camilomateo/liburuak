@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">009ba760-7c59-453c-af71-b9690b1c9f39</dc:identifier>
+        <dc:title>Orbital</dc:title>
+        <dc:creator opf:file-as="Harvey, Samantha" opf:role="aut">Samantha Harvey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-10T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;&lt;strong&gt;Un himno maravilloso a lo ordinario y lo espectacular narrado a cuatrocientos quilómetros de la Tierra.&lt;/strong&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;strong&gt;Premio Booker 2024.&lt;/strong&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Un grupo de seis astronautas lleva a cabo una misión rutinaria en la Estación Espacial Internacional, en la órbita terrestre baja. La de Pietro, italiano, es monitorizar los microbios presentes en la nave. Chie, la tripulante japonesa, cultiva cristales de proteínas y, al igual que sus compañeros, es objeto de estudio del impacto de la microgravedad en el funcionamiento neuronal. Shaun, el americano del grupo, observa qué les ocurre a las raíces de las plantas ante la falta de luz y gravedad para saber cuándo y cómo poder cultivarlas. Nell, del Reino Unido, recoge los datos que le proporcionan sus cuarenta ratones acerca del desgaste muscular en el espacio. Roman y Anton, que ocupan el módulo ruso, están al cargo del mantenimiento del generador de oxígeno. Todos deben informar sobre sus cefaleas;...</dc:description>
+        <dc:publisher>Editorial Anagrama</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-10T16:14:58.831112+00:00"/>
+        <meta name="calibre:title_sort" content="Orbital"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

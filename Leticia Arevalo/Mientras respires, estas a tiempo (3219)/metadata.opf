@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7e8e4e0-6175-44a7-813d-2d6db803b893</dc:identifier>
+        <dc:title>Mientras respires, estás a tiempo</dc:title>
+        <dc:creator opf:file-as="Arévalo, Leticia" opf:role="aut">Leticia Arévalo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-13T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¿Qué se hace cuando no se puede hacer nada?&lt;/p&gt;
+&lt;p&gt;La primera novela de la coach emocional Leticia Arévalo: una historia sobre el perdón y el amor propio.&lt;/p&gt;
+&lt;p&gt;A sus treinta y tres años, la vida de Eva se detiene. Lo único que puede salvarla es un trasplante de corazón, pero dispone de muy pocos días para conseguirlo. Poco tiempo para su cuerpo, que se debilita, mucho tiempo para su mente, que se fortalece.&lt;/p&gt;
+&lt;p&gt;Aislada y en completa soledad, Eva solo se tiene a sí misma, una libreta y un lápiz. Entonces comienza a escribir cartas a quienes culpa de su malestar: sus ex.&lt;/p&gt;
+&lt;p&gt;Y mientras escribe, se da cuenta de que en la quietud mental encuentra las respuestas a las preguntas que la han acechado toda su vida; que cada palabra tiene consecuencias, y cada silencio también; que la cura para el mal de amores está en la soledad, y que no es lo mismo vivir que sentirse viva.&lt;/p&gt;
+&lt;p&gt;Esta es una historia sobre el perdón y el amor más poderoso de todos, el propio. Un recordatorio de que el éxito radica en creer en uno mismo. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:17.452055+00:00"/>
+        <meta name="calibre:title_sort" content="Mientras respires, estás a tiempo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

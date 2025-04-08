@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">643</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">daff09d9-6194-4868-a44b-7ab442ac8ec6</dc:identifier>
+        <dc:title>El mal camino</dc:title>
+        <dc:creator opf:file-as="Santiago, Mikel" opf:role="aut">Mikel Santiago</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-13T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="color: rgb(0, 0, 0); font-family: Arial, Verdana, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);"&gt;El famoso escritor Bert Amandale y su familia se trasladan a la Provenza Francesa huyendo de un sinfin de problemas en Londres. Las cosas parecen ir por el buen camino hasta que Chucks Basil, amigo íntimo de Bert y problemática estrella de rock se muda al pueblo de al lado. Una noche Chucks atropella a un hombre en la carretera y se da a la fuga. Pero el cadáver desaparece por completo y nadie parece haber oído nada... hasta que una serie de extraños acontecimientos comienzan a rodearlos. &lt;/span&gt;&lt;br style="color: rgb(0, 0, 0); font-family: Arial, Verdana, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e17a68ab-71b2-449a-9a4c-45712ebd3eae</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mikel Santiago&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:37:25.650019+00:00"/>
+        <meta name="calibre:title_sort" content="mal camino, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

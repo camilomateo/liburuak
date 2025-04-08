@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">075bf1f8-13f0-4af5-871a-f0b87d930093</dc:identifier>
+        <dc:title>Axel</dc:title>
+        <dc:creator opf:file-as="García-Rey, Luis" opf:role="aut">Luis García-Rey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-01T09:21:52+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;span class="a-text-italic"&gt;Miércoles, 13 de marzo de 2019&lt;/span&gt;.&lt;/b&gt; El agente de la &lt;span class="a-text-bold"&gt;policía&lt;/span&gt;
+ judicial Axel Nash no es capaz de tomarse la vida con calma y, si no 
+hay casos que resolver, se aburre mortalmente. No en vano dejó su Vigo 
+natal para buscar más acción en Madrid. Una mañana recibe la llamada de 
+su nueva compañera, Loor Galván, a la que apenas conoce, pero con la 
+que, sorprendentemente, conecta: Marcos Goya, presentador radiofónico de
+ un programa nocturno, acaba de aparecer en un hotelucho de citas &lt;span class="a-text-bold"&gt;asesinado a cuchilladas&lt;/span&gt; y con restos aparentes de haber sido &lt;span class="a-text-bold"&gt;torturado&lt;/span&gt;.&lt;/p&gt;&lt;p&gt;Mientras
+ tanto en Vigo, Omar Pombo y su amigo Javier Grande, Jarvis, que, como 
+muchos otros jóvenes de las Rías Baixas, han acabado &lt;span class="a-text-bold"&gt;trapicheando&lt;/span&gt; para el &lt;span class="a-text-bold"&gt;narcotráfico&lt;/span&gt;, acaban de meterse en un lío descomunal: han perdido un cargamento y las consecuencias son previsibles. Y no son buenas.&lt;/p&gt;&lt;p&gt;Un mundo con personajes demasiado apegados al &lt;span class="a-text-bold"&gt;poder&lt;/span&gt; —y a los &lt;span class="a-text-bold"&gt;vicios&lt;/span&gt;— de los &lt;span class="a-text-bold"&gt;grandes empresarios, trata de blancas y prostitución, narcotráfico&lt;/span&gt;, mucho &lt;span class="a-text-bold"&gt;cine&lt;/span&gt; y mucha &lt;span class="a-text-bold"&gt;música&lt;/span&gt; en &lt;span class="a-text-bold"&gt;dos tramas perfectamente enlazadas&lt;/span&gt;, con giros magistrales y &lt;span class="a-text-bold"&gt;dos protagonistas inolvidables&lt;/span&gt;: eso y más es &lt;span class="a-text-italic"&gt;Axel&lt;/span&gt;, el debut narrativo del periodista Luis García-Rey.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467068832</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Luis García-Rey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-09T10:32:38.342423+00:00"/>
+        <meta name="calibre:title_sort" content="Axel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

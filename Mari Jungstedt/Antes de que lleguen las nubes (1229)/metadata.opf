@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b85d4d12-f51b-40c7-828b-78c850191c08</dc:identifier>
+        <dc:title>Antes de que lleguen las nubes</dc:title>
+        <dc:creator opf:file-as="Jungstedt, Mari" opf:role="aut">Mari Jungstedt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En una tarde brumosa, cuatro turistas viajan a Ronda para admirar el Puente Nuevo, una construcción de casi cien metros de altura. Debido al mal tiempo, tres de ellos deciden regresar al hotel. El fiscal malagueño Florián Vega se queda solo haciendo fotos, mientras su esposa sueca, Marianne, y sus amigos lo esperan durante horas.Cuando al día siguiente su cuerpo aparece destrozado en un barranco, asignan el caso al inspector Héctor Correa, investigador de Homicidios de la Comisaría Provincial de Málaga. Para poder interrogar a los testigos, solicita la colaboración de Lisa Hagel, una traductora sueca que se acaba de instalar en un pueblo malagueño. Juntos ahondarán en el caso mientras tratan de lidiar con su propio bagaje emocional.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419110381</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Málaga"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-02-22T17:03:56.497952+00:00"/>
+        <meta name="calibre:title_sort" content="Antes de que lleguen las nubes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2893</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ccfa9e99-c31d-4972-926b-43cf672208d4</dc:identifier>
+        <dc:title>Cruce de damas</dc:title>
+        <dc:creator opf:file-as="Olabarrieta, María Boado" opf:role="aut">María Boado Olabarrieta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-23T00:00:00+00:00</dc:date>
+        <dc:description>Un thriller judicial en el que la pugna entre dos mujeres destapará los mecanismos y entresijos de la justicia.Verano de 1991. Las fiestas de la pequeña localidad de Oña, en Burgos, se tiñen de un aire ominoso cuando una joven es encontrada en su coche, semidesnuda, inconsciente y con claros signos de violencia. Todas las señales apuntan a Miguel, el chico con el que había intimado en un bar a la vista de todo el pueblo, que será condenado a doce años de cárcel.Septiembre de 1997. Marta, una joven abogada que estuvo presente la noche de los hechos, debe visitar a Miguel en la cárcel para la gestión del patrimonio de su madre. Al recibir un indicio de su posible inocencia, Marta decidirá reabrir el expediente de esta agresión seis años más tarde, con la convicción de que los detalles de este crimen no son lo que parecen.Una historia de intriga y sororidad que atrapa desde la primera página.</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-10T16:14:58.178665+00:00"/>
+        <meta name="calibre:title_sort" content="Cruce de damas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b81fcc95-16c9-4b4c-a846-2a503a4f92a6</dc:identifier>
+        <dc:title>El retrato de casada</dc:title>
+        <dc:creator opf:file-as="O'Farrell, Maggie" opf:role="aut">Maggie O'Farrell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El matrimonio era su destino. Ahora tendrá que sobrevivir a él. La esperadísima nueva novela de Maggie O’Farrell tras el gran éxito internacional de Hamnet. Florencia, mediados del siglo XVI. Lucrezia, tercera hija del gran duque Cosimo de’ Medici, es una niña callada y perspicaz, con un singular talento para el dibujo, que disfruta de su discreto y tranquilo lugar en el palazzo. Pero cuando muere su hermana Maria, justo antes de casarse con Alfonso d’Este, primogénito del duque de Ferrara, Lucrezia se convierte inesperadamente en el centro de atención: el duque se apresura a pedir su mano, y su padre a aceptarla. Poco después, con solo quince años, se traslada a la corte de Ferrara, donde es recibida con recelo. Su marido, doce años mayor, es un enigma: ¿es en realidad el hombre sensible y comprensivo que le pareció al principio o un déspota implacable al que todos temen? Lo único que está claro es lo que se espera de ella: que proporcione cuanto antes un heredero que asegure la continuidad del título. Con la misma belleza y emoción con las que nos cautivó en Hamnet, Maggie O’Farrell vuelve a demostrar su inigualable talento para adentrarse en los recovecos del pasado en El retrato de casada, una novela que reinterpreta desde la ficción un capítulo de la Italia renacentista y narra la lucha contra el destino de una joven asombrosa. «O’Farrell es simplemente excepcional (...) Delicadamente escrita y llena de imágenes vívidas.» The Guardian «Ingeniosa, imaginativa, humana, irónica, verdadera... todavía mejor que su última novela.» Scotsman «Esta cautivadora historia sobre el poder, la política y la lucha de una mujer por su supervivencia es otra obra maestra de la autora.» The Globe and Mail«Lo que hace tan interesantes sus novelas es su apuesta por cambiar siempre de ángulo o decidirse por el más inesperado, su estilo lírico y delicado aunque directo y estremecedor, su atención al detalle producto de una investigación profunda que, sin embargo, llega con gran naturalidad a la página.» Mariana Enriquez&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libros del Asteroide</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Maggie O'Farrell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:40:04.345361+00:00"/>
+        <meta name="calibre:title_sort" content="retrato de casada, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

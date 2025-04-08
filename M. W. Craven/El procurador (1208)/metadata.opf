@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65bf14bf-787c-4b43-bb8f-bbaee2330b04</dc:identifier>
+        <dc:title>El procurador</dc:title>
+        <dc:creator opf:file-as="M. W. Craven" opf:role="aut">M. W. Craven</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La fascinante y nueva entrega de la serie protagonizada por Washington Poe.Por el autor de El show de las marionetas y Verano negro.«Un thriller brutal y apasionante.» The Sun«La mejor trama de misterio del año.» Morning Star«Magistral e ingeniosamente sangriento, con un gran sentido de lugar.» Sunday MirrorSi crees que sabes lo que va a pasar a continuación es porque estás exactamente donde él quiere que estés...Es Navidad y un asesino en serie deja a la vista partes del cuerpo de su última víctima por todo Cumbria. Un extraño mensaje aparece en cada escena del crimen: # BSC6.Washington Poe y Tilly Bradshaw, de la Agencia Nacional contra el Crimen, se enfrentan a un caso que no tiene sentido. ¿Por qué algunas víctimas fueron anestesiadas, mientras que otras murieron en una agonía espantosa? ¿Por qué su único sospechoso niega lo que pueden probar de manera irrefutable, pero admite cosas de las que ni siquiera eran conscientes? ¿Y por qué todas las víctimas se tomaron las mismas dos semanas libres del trabajo tres años antes?Y cuando una agente del FBI caída en desgracia se pone en contacto con ellos, las cosas toman un giro aún más oscuro. Porque no cree que Poe esté lidiando con un asesino en serie en absoluto; ella cree que está lidiando con alguien mucho, mucho peor, un hombre que se hace llamar «el Procurador».Y nada volverá a ser lo mismo. . .Lo que se ha dicho sobre esta serie en España:«Washington Poe, el nuevo enfant terrible de la novela negra. [...] Engancha desde el primer momento.» Juan Carlos Galindo, El País«En El show de las marionetas, el misterio sobre el protagonista compite con el suspense de la trama.» La Vanguardia«Una novela ágil, profesionalmente planteada y resuelta, en la línea de Connelly y, antes que él, de aquel Dashiell Hammett que inventó el género.» Juan Bolea, El Periódico de Aragón«Washington Poe promete dar muchas satisfacciones a los amantes del género.» Negra y mortal&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Rocaeditorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418014833</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">rRZYEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09PXFHXVH</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Whashington Poe"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-02-06T17:17:25.975150+00:00"/>
+        <meta name="calibre:title_sort" content="procurador, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

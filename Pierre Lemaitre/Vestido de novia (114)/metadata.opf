@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d61343e0-bb2f-414a-9fa2-acbbe95c2d86</dc:identifier>
+        <dc:title>Vestido de novia</dc:title>
+        <dc:creator opf:file-as="Lemaitre, Pierre" opf:role="aut">Pierre Lemaitre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>No dejes que nadie te desvele nada de esta historia
+«Un thriller diabólico, que se lee del tirón, con fascinación y miedo. Arte del grande.»
+Avantages
+Sophie Duguet no entiende qué le sucede: pierde objetos, olvida situaciones, es detenida en un supermercado por pequeños robos que no recuerda haber cometido. Y los cadáveres comienzan a acumularse a su alrededor.
+No podemos desvelar nada más de este thriller para así mantener intacto el escalofriante placer de la lectura y la adictiva búsqueda de la verdad por parte del lector.
+Por el ganador del Premio Goncourt con Nos vemos allá arriba, el Premio de Novela Negra Europea, el Premio del Festival de Cine Policiaco de Cognac, el Premio del Salon du Polar, el Dagger Award, el Premio Lirea la mejor novela francesa, el Premio Roman France Télévisions y el Premio de los Libreros de Nancy-Le Point,con medio millón de lectores.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>es</dc:language>
+        <dc:subject>det_crime</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pierre Lemaitre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:28.733903+00:00"/>
+        <meta name="calibre:title_sort" content="Vestido de novia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

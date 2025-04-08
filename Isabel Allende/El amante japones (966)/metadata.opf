@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">966</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e70dc38-7093-4fcc-983c-32493da218db</dc:identifier>
+        <dc:title>El amante japones</dc:title>
+        <dc:creator opf:file-as="Allende, Isabel" opf:role="aut">Isabel Allende</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;La
+ historia de amor entre la joven Alma Velasco y el jardinero japonés 
+Ichimei conduce al lector por un recorrido a través de diversos 
+escenarios que van desde la Polonia de la Segunda Guerra Mundial hasta 
+el San Francisco de nuestros días.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;«A los veintidós 
+años, sospechando que tenían el tiempo contado, Ichimei y Alma se 
+atragantaron de amor para consumirlo entero, pero mientras más 
+intentaban agotarlo, más imprudente era el deseo, y quien diga que todo 
+fuego se apaga solo tarde o temprano, se equivoca: hay pasiones que son 
+incendios hasta que las ahoga el destino de un zarpazo y aun así quedan 
+brasas calientes listas para arder apenas se les da oxígeno.»&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401026188</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-16T15:28:57.099048+00:00"/>
+        <meta name="calibre:title_sort" content="amante japones, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

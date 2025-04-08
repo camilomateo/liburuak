@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3080</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">902af531-d0e8-40ce-aed0-8083a3e63a2b</dc:identifier>
+        <dc:title>Microsoft Word - DIARIO DE GUERRA A DOS MANOS. b</dc:title>
+        <dc:creator opf:file-as="irene" opf:role="aut">irene</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-27T08:02:46+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">c2c9bc74-583d-487b-b975-0a4c9b5ccdb3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-22T10:18:40+00:00"/>
+        <meta name="calibre:title_sort" content="Microsoft Word - DIARIO DE GUERRA A DOS MANOS. b"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

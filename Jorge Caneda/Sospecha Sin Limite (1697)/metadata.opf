@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1697</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">feea3c56-4c6d-4894-a7f0-210db0b556e3</dc:identifier>
+        <dc:title>Sospecha Sin Límite</dc:title>
+        <dc:creator opf:file-as="Caneda, Jorge" opf:role="aut">Jorge Caneda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-22T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Casandra lleva años intentando reconducir su vida, sosteniendo una
+ delicada relación con su madre Victoria que la cuestiona a cada 
+momento.&lt;br&gt;&lt;br&gt;&lt;span class="a-text-bold"&gt;¿Qué madre no haría lo que fuera por su hijo? &lt;/span&gt;&lt;br&gt;&lt;br&gt;Su
+ nueva pareja le ofrece un trabajo en la empresa multinacional que está a
+ punto de lanzar un producto que especulará con el dinero de inversores a
+ los que promete gigantescas rentabilidades.&lt;br&gt;&lt;br&gt;Pero el destino hace
+ que Ethan, su hijo adolescente, junto a su compañera Silvia, se 
+involucren en algo que les superará y será la fuente de todos los 
+problemas.&lt;br&gt;&lt;br&gt;Hasta que Victoria Hudson tome las riendas del destino de su hija, de su nieto, y de los asesinos.&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0D32FMD61</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:47.220369+00:00"/>
+        <meta name="calibre:title_sort" content="Sospecha Sin Límite"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

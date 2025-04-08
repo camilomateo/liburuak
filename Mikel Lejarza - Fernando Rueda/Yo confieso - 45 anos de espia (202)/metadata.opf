@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">202</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">108f1f14-b037-4841-900b-8b6c924ec35c</dc:identifier>
+        <dc:title>Yo confieso - 45 años de espía</dc:title>
+        <dc:creator opf:file-as="Lejarza, Mikel - Rueda Fernando" opf:role="aut">Mikel Lejarza - Fernando Rueda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-21T06:00:00+00:00</dc:date>
+        <dc:description>1974: Mikel Lejarza es captado por el servicio secreto para infiltrarse en ETA con el alias de El Lobo. 2019: Con otro nombre, Mikel Lejarza sigue trabajando para el CNI. Esta es su vida. Esta es la historia. Mikel Lejarza ha guardado silencio sobre su vida hasta este momento. Ahora ha decidido desvelar en primera persona en el libro Yo confieso todo lo que ha hecho y todo por lo que ha pasado. Ha escrito, con la ayuda del periodista Fernando Rueda, unas memorias duras, sinceras, en las que por primera vez cuenta todo lo que ha sido su vida, sin olvidarse de los momentos amargos, de su éxitos e, incluso, de aquellas actuaciones de las que no está especialmente satisfecho. Yo confieso es un libro humano en el que Mikel ha querido que Mamen, su mujer, confidente y compañera en algunas de sus misiones, aporte su visión personal sobre los hechos, recordando los momentos vividos en una relación complicada, como no podía ser otra que la vivida por una mujer que ha compartido 40 años con el agente más antiguo que tienen los servicios secretos españoles.</dc:description>
+        <dc:publisher>13insurgentes</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Cronica</dc:subject>
+        <dc:subject>memorias</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mikel Lejarza - Fernando Rueda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:24:40.739954+00:00"/>
+        <meta name="calibre:title_sort" content="Yo confieso - 45 años de espía"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

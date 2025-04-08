@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1539</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">500aa2ce-b852-482a-8f28-73a587661ebc</dc:identifier>
+        <dc:title>Dantalión</dc:title>
+        <dc:creator opf:file-as="Lorenzo, Eduardo Rodríguez" opf:role="aut">Eduardo Rodríguez Lorenzo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Dantalión, hombre o demonio, recorre las ruinas humeantes de una España sincrónica donde se dan cita simultáneamente todas las épocas históricas y literarias. Bajo los bombardeos de una guerra eterna comandada por inquisidores, a través de ciudades en llamas, prostíbulos decimonónicos, pensiones y cadalsos, solo encuentra en su camino víctimas o verdugos que pondrán a prueba el pesimismo faústico con el que trata de mantenerse por encima del sinsentido del mundo y de la existencia.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Trasunto</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9798990306950</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:41.864102+00:00"/>
+        <meta name="calibre:title_sort" content="Dantalión"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

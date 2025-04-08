@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a976597c-8be4-43db-8347-0c8140ca56e5</dc:identifier>
+        <dc:title>Las cenizas de Angela. Edición 20 aniversario</dc:title>
+        <dc:creator opf:file-as="McCourt, Frank" opf:role="aut">Frank McCourt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-25T05:00:00+00:00</dc:date>
+        <dc:description>Una edición especial limitada y numerada para celebrar el 20º aniversario de uno de los mayores éxitos de las últimas décadas, con más de 17 millones de ejemplares vendidos. «Cuando recuerdo mi infancia, me pregunto cómo pude sobrevivir siquiera. Fue, naturalmente, una infancia desgraciada, se entiende: las infancias felices no merecen que les prestemos atención. La infancia desgraciada irlandesa es peor que cualquier infancia desgraciada corriente, y la infancia desgraciada irlandesa católica es peor todavía». Así empieza Las cenizas de Ángela, las memorias de la infancia de Frank McCourt que en 1997 fueron galardonadas con el premio Pulitzer, el premio de la Crítica y el de Los Angeles Times, además de convertirse en libro del año en Estados Unidos. Posteriormente fue adaptado a la gran pantalla por Alan Parker en 1999.</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>memorias</dc:subject>
+        <meta name="calibre:timestamp" content="2023-04-11T07:33:21+00:00"/>
+        <meta name="calibre:title_sort" content="cenizas de Angela. Edición 20 aniversario, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

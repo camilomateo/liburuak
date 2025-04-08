@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">623</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c67f921-0b7b-4da5-bd8b-ac4cd4fd7cc9</dc:identifier>
+        <dc:title>La familia Medeiros</dc:title>
+        <dc:creator opf:file-as="Júlia Lopes de Almeida" opf:role="aut">Júlia Lopes de Almeida</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un patriarca acostumbrado a dominarlo todo, un mundo cambiante y una generación joven, abolicionista y con nuevas ideas que no se conforma.﻿Octavio Medeiros vuelve desde Alemania, donde ha estado estudiando ingeniería, a la hacienda de su padre en Campinas, Sao Paulo. Trae con él ideas nuevas, quiere modernizar los cultivos y rechaza la esclavitud, lo que hace que se enfrente a su padre, el comandante Medeiros. Asimismo, en la casa familiar de Santa Genoveva vive ahora su prima, una joven altiva que tampoco está de acuerdo con la esclavitud, que colabora económicamente con los fondos de manumisión y que guarda un secreto que hace temblar al comandante, hombre retrógrado y dominante, casado con una mujer sumisa, sin voz ni voto, que cree que no solo puede dominar a los esclavos y dejar las cosas como están, sino también concertar los matrimonios de sus hijos sin pedirles su opinión.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libros de Seda</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417626945</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">s7SvEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Júlia Lopes de Almeida&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42.223006+00:00"/>
+        <meta name="calibre:title_sort" content="familia Medeiros, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

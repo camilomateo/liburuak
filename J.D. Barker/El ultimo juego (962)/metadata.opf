@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">962</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbdccbc7-4f32-46fe-b9ca-f530b2ff94a3</dc:identifier>
+        <dc:title>El último juego</dc:title>
+        <dc:creator opf:file-as="Barker, J.D." opf:role="aut">J.D. Barker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-28T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;La polémica presentadora de radio Jordan Briggs ha conseguido 
+ser una de las voces más famosas del país, con un estilo de lo más 
+personal: es incapaz de contenerse y dice siempre lo que piensa, por 
+impopular que sea, a micro abierto frente a millones de oyentes.&lt;/p&gt;&lt;p&gt;Cuando
+ uno de sus oyentes, Bernie, le propone empezar un juego en directo, 
+Jordan lo ve cómo la mejor forma de empezar la mañana y acepta, sin 
+darse cuenta de que, sin querer, va a abrir una puerta al pasado y el 
+juego de Bernie se va a convertir en una trampa mortal que dejará muchas
+ víctimas en su camino.&lt;/p&gt;&lt;p&gt;Está claro que Bernie quiere 
+venganza, y Jordan comprenderá que toda acción tiene sus consecuencias… 
+La policía tiene las horas contadas para conseguir atar cabos y 
+anticiparse a este asesino que siempre va un paso por delante.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-16T15:28:53.002762+00:00"/>
+        <meta name="calibre:title_sort" content="último juego, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

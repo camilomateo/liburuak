@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">838</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a28f746-a3f7-4d87-932f-0ca22ffefe08</dc:identifier>
+        <dc:title>Los muertos no saben nadar</dc:title>
+        <dc:creator opf:file-as="Ana Lena Rivera" opf:role="aut">Ana Lena Rivera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;span style="color: rgb(51, 51, 51); font-family: 'Amazon Ember', Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;En pleno mes de diciembre, en la playa de San Lorenzo de Gijón un niño encuentra el brazo amputado de un hombre en el agujero del muro donde guarda sus tesoros. El brazo pertenece a Alfredo Santamaría, que estaba siendo investigado en la comisaría central de Oviedo por una presunta estafa piramidal. El jefe de la Policía del Principado asigna el caso al comisario Rafael Miralles. Gracia San Sebastián, investigadora de fraudes contratada por la policía para indagar en las finanzas de la víctima, tiene que desentrañar un complejo entramado de blanqueo de dinero en el que interviene un poderoso grupo de mafiosos rumanos sin escrúpulos. En su vida personal, la relación con Rodrigo sigue viento en popa para disgusto de su exmarido, Jorge, que viene de visita desde Estados Unidos para gestionar un ambicioso proyecto empresarial.&lt;/span&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08VS8RKCN</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Gracia San Sebastián"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-06-09T11:56:08.433607+00:00"/>
+        <meta name="calibre:title_sort" content="muertos no saben nadar, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

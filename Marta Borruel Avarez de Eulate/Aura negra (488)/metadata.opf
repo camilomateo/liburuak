@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bfc7321-8831-44b0-b840-2be774c634b8</dc:identifier>
+        <dc:title>Aura negra</dc:title>
+        <dc:creator opf:file-as="Eulate, Marta Borruel Ávarez de" opf:role="aut">Marta Borruel Ávarez de Eulate</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En un remoto pueblo de montaña aparece de repente una extraña joven.&lt;/p&gt;
+&lt;p&gt;Es la nieta de Delia, una anciana algo esquiva que apenas tiene relación con sus vecinos y que, además, se niega a recibirla. Esto desata los rumores y la inquina de los habitantes del lugar, que sospechan que la chica esconde algo turbio. En una espiral creciente de tensión, agravada por dos asesinatos, la joven se convertirá en el foco del odio y las murmuraciones de un pueblo que, como ella, tiene un pasado enterrado que amenaza con salir a la superficie en cualquier momento.&lt;/p&gt;
+&lt;p&gt;Aura Negra es un thriller rural en el que sus protagonistas esconden mucho más de lo que enseñan; también es un drama psicológico en el que la violencia y el aislamiento amenazan con destruirlo todo; pero es, sobre todo, una historia compleja, profunda, real y negra por la que se cuelan ranuras de luz, amor y redención. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Eunate</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Marta Borruel Ávarez de Eulate&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:01:53.800799+00:00"/>
+        <meta name="calibre:title_sort" content="Aura negra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

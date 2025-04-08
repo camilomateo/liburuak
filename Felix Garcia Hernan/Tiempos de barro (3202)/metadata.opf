@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3202</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af4326e3-3c23-4a1d-9a77-769c203cf704</dc:identifier>
+        <dc:title>Tiempos de barro</dc:title>
+        <dc:creator opf:file-as="Hernán, Félix García" opf:role="aut">Félix García Hernán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-04T23:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">9788467073522</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:07.253476+00:00"/>
+        <meta name="calibre:title_sort" content="Tiempos de barro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

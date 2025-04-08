@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3240</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7889a880-9b67-4ff6-a247-e007340ce364</dc:identifier>
+        <dc:title>Curando el mundo</dc:title>
+        <dc:creator opf:file-as="Rivas, Diego González &amp; Ferreira, María" opf:role="aut">Diego González Rivas</dc:creator>
+        <dc:creator opf:file-as="Rivas, Diego González &amp; Ferreira, María" opf:role="aut">María Ferreira</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El profundo viaje humano y cultural del cirujano Diego González Rivas, considerado uno de los mejores del mundo, que ha operado a más de 10.000 pacientes en 136 países. La vida de Diego es una mezcla de aventura, valentía y empatía, y demuestra que, para sanar el mundo, debemos comprenderlo y narrarlo. Curando el mundo es un viaje más allá de los quirófanos. En cada destino, se sumerge en la vida local y se enfrenta a situaciones que le sacan de su zona de confort. Nos encontramos conversaciones con brujos en el Congo, cenas con príncipes saudíes o cómo operar en un hospital de Gaza sin luz. El libro no solo trata de retos médicos, sino del Diego más personal, de sus miedos, dudas y esperanzas. A través de sus ojos, descubrimos un mundo donde la medicina y el entendimiento humano están entrelazados. Desde avanzados hospitales hasta centros médicos con recursos limitados, Diego consigue encontrar el modo de curar desde el respeto y la humildad. Reseña: «El doctor Diego González Rivas podría haber decidido no compartir su técnica y hacerse rico, pero ha elegido montarse en un camión y operar en Gaza o en Sierra Leona, salvando muchas vidas por el camino. Este libro es un testimonio de pasión, generosidad, y de cómo entender la medicina de la mejor manera posible.» DAVID BRONCANO.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401036231</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:20.532486+00:00"/>
+        <meta name="calibre:title_sort" content="Curando el mundo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

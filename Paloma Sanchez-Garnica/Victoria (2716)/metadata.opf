@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2716</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">159f895e-6f88-4a37-a7ab-9a6b1f118e14</dc:identifier>
+        <dc:title>Victoria</dc:title>
+        <dc:creator opf:file-as="Sánchez-Garnica, Paloma" opf:role="aut">Paloma Sánchez-Garnica</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-21T15:31:52+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Se enfrentaron al horror y lucharon contra la injusticia. Pero nada reconcilia más que el amor.&lt;/p&gt;
+&lt;p&gt;Recién terminada la Segunda Guerra Mundial, en un Berlín arrasado y sin futuro aparente, Victoria sobrevive cantando cada noche en el club Kassandra. Pese a tener una mente prodigiosa, capaz de crear un poderoso sistema de cifrado de mensajes, su hija Hedy y su hermana Rebecca dependen de ese mísero sueldo para sobrevivir. Un chantaje sin escrúpulos por parte de los rusos obligará a Victoria a viajar sola a Estados Unidos, donde, sin embargo, disfrutará del amor incondicional del capitán Norton. Allí descubrirá que la que parecía la sociedad más democrática del mundo esconde una rancia capa de racismo e injusticias de la mano del Ku Klux Klan y el senador McCarthy.&lt;/p&gt;
+&lt;p&gt;Una novela grandiosa en la que los resentimientos, el dolor de la pérdida y las decisiones difíciles serán superados gracias al coraje de unos personajes que luchan firmemente por defender lo que más aman. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-11-22T11:06:51.448057+00:00"/>
+        <meta name="calibre:title_sort" content="Victoria"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

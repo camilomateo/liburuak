@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">88</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7bdee87-665e-41a1-af85-5177c90ba906</dc:identifier>
+        <dc:title>Vivo o muerto</dc:title>
+        <dc:creator opf:file-as="Robotham, Michael" opf:role="aut">Michael Robotham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-17T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Audie Palmer ha pasado los últimos diez años de su vida en prisión 
+por un delito de robo armado, en el que, cuatro personas resultaron 
+muertas, incluyendo a dos miembros de la banda de asaltantes. Siete 
+millones de dólares desaparecieron en dicho robo y todo el mundo cree 
+que Audie sabe en dónde está el dinero.&lt;/p&gt;&lt;p&gt;Durante diez años, Audie 
+ha sido golpeado, apuñalado, estrangulado y amenazado por los guardias 
+de la cárcel, por el resto de presos y por mafiosos, todos ellos en 
+búsqueda de la respuesta a una sola pregunta; ¿dónde están escondidos 
+los siete millones de dólares que desaparecieron hace casi una década? 
+Pero de repente, Audie desaparece el día antes de cumplir su condena.&lt;br&gt;&lt;br&gt;En
+ ese momento, comienza la frenética y desesperada búsqueda de Audie, lo 
+que nadie se puede imaginar es que él no está huyendo. Audie está 
+intentando salvar una vida… y no se trata solo de la de él mismo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial de Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788416867622</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06XSN35VR</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Prisión</dc:subject>
+        <dc:subject>policía</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Robotham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:09:24.623117+00:00"/>
+        <meta name="calibre:title_sort" content="Vivo o muerto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

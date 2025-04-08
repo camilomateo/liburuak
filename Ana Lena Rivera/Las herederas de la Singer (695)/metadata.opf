@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">695</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40808ba1-a5ae-476b-a761-275bba7bc95b</dc:identifier>
+        <dc:title>Las herederas de la Singer</dc:title>
+        <dc:creator opf:file-as="Ana Lena Rivera" opf:role="aut">Ana Lena Rivera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-03T11:37:06.752966+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;Las herederas de la Singer&lt;/span&gt; &lt;strong&gt;cuenta la conmovedora historia de las mujeres de una familia ligadas a una máquina de coser que custodió un secreto durante cuatro generaciones.&lt;/strong&gt;&lt;/p&gt;
+&lt;p align="justify"&gt;El día que la joven Aurora se vio obligada a trabajar en la mina tras el accidente de su padre, se juró a sí misma hacer lo que fuera necesario para salir de aquel infierno.&lt;/p&gt;
+&lt;p align="justify"&gt;Un matrimonio sin amor y la máquina de coser Singer de segunda mano que recibe como regalo de bodas le proporcionarán una nueva forma de salir adelante, hasta que un terrible suceso convierte la Singer en la única prueba de la amenaza que la perseguirá toda la vida.&lt;/p&gt;
+&lt;p align="justify"&gt;Muchos años después, la complicidad que teje con su biznieta Alba desvelará el secreto que ha planeado sobre las mujeres de su familia.&lt;/p&gt;
+&lt;p align="justify"&gt;&lt;strong&gt;Reseña:&lt;/strong&gt;&lt;br&gt;«Ana Lena Rivera exhibe un lenguaje fresco y contemporáneo, además de una gran habilidad a la hora de construir espacios cotidianos.»&lt;br&gt;&lt;strong&gt;Jurado XXIX Premio Torrente Ballester&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">59682719</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788425361159</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09MMP3HCY</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">LE1REAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-17T11:09:57.599695+00:00"/>
+        <meta name="calibre:title_sort" content="Las herederas de la Singer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

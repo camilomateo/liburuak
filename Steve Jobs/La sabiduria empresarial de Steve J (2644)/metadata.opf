@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2644</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9dc6ffd3-9cba-4a48-bad1-aa6e526df193</dc:identifier>
+        <dc:title>La sabiduría empresarial de Steve Jobs</dc:title>
+        <dc:creator opf:file-as="Steve Jobs" opf:role="aut">Steve Jobs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-20T23:23:00+00:00</dc:date>
+        <dc:description>Edición de Alan Ken Thomas**&amp;#160; Steve Jobs, padre y fundador de Apple, ha sido uno de los emprendedores más innovadores y visionarios de su generación. Si bien siempre ha habido división de opiniones respecto a su persona, nadie puede negar que tenía el don de comprender y anticipar qué es lo que la gente desea antes siquiera de que sepa que existe.&amp;#160; El inspirador del iMac, el iPod, el iPhone y el iPad nos regala en este libro, en forma de citas, sus palabras sobre el liderazgo, la tecnología, la actitud empresarial, su legado…&amp;#160; · La innovación es lo que distingue a un líder de un seguidor.&amp;#160; · Comenzamos con una forma idealista de ver las cosas: que hacer algo con la máxima calidad, hacerlo bien a la primera, sería en realidad más barato que tener que volver a hacerlo.&amp;#160; · Las personas mayores llegan y preguntan: «¿Qué es eso?». Pero un muchacho pregunta: «¿Qué puedo hacer con ello?».&amp;#160; · Básicamente pensamos en ver la televisión para desconectar el cerebro y en usar el ordenador cuando quieres encenderlo.</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencias sociales</dc:subject>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>memorias</dc:subject>
+        <dc:subject>Tecnología</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-21T14:27:27.850676+00:00"/>
+        <meta name="calibre:title_sort" content="La sabiduría empresarial de Steve Jobs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

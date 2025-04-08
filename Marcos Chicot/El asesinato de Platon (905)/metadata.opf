@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">905</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e0873b7-dd24-4fc2-89a9-43e1c1385255</dc:identifier>
+        <dc:title>El asesinato de Platón</dc:title>
+        <dc:creator opf:file-as="Chicot, Marcos" opf:role="aut">Marcos Chicot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-26T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;strong style="color: #333333; background-color: #ffffff"&gt;El autor de &lt;/strong&gt;&lt;span style="font-style: italic; color: #333333; font-weight: 600; background-color: #ffffff"&gt;El asesinato de Sócrates&lt;/span&gt;&lt;strong style="color: #333333; background-color: #ffffff"&gt; regresa con una extraordinaria novela sobre Platón, el filósofo más influyente de la historia occidental.&lt;/strong&gt;&lt;span style="color: #333333; background-color: #ffffff"&gt; Altea, una de las más brillantes discípulas de Platón, no sabe que su vida y la del bebé que espera se encuentran en peligro y que tiene al enemigo en su propia casa. Por su parte, su amigo y maestro Platón arriesga la vida para intentar hacer realidad su gran proyecto: unir la política y la filosofía con el fin de que gobiernen la razón, la justicia y la sabiduría, en lugar de la retórica vacía de los demagogos, la corrupción y la ignorancia. Como telón de fondo, el surgimiento de una nueva potencia y un general con aura de invencible ponen en juego la supervivencia tanto de Esparta como de la propia Atenas. Tensión, intriga, traiciones y un amor que desafía a su época confluyen en una novela que recrea de modo impecable el tapiz de la Grecia Clásica y el pensamiento del filósofo más importante de la historia.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Histórica</dc:subject>
+        <meta name="calibre:timestamp" content="2023-06-26T15:25:18.329920+00:00"/>
+        <meta name="calibre:title_sort" content="asesinato de Platón, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

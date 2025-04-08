@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c179c32-016c-4b2c-b984-fcc1ff3d3f3f</dc:identifier>
+        <dc:title>Resolvemos asesinatos</dc:title>
+        <dc:creator opf:file-as="Richard Osman" opf:role="aut">Richard Osman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-05T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="center" style="font-weight: bold"&gt;&lt;span style="color: #000000"&gt;¿UN CRIMEN SIN SOLUCIÓN?&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center" style="font-weight: bold"&gt;&lt;span style="color: #000000"&gt;CONFÍA EN NUESTRA EXPERIENCIA.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Steve, un policía retirado, disfruta de su tranquila jubilación: las noches de trivia en el pub, su banco favorito en el parque y su gato esperándole en casa. De vez en cuando acepta algún pequeño trabajo de investigación, pero sus días de grandes aventuras han quedado atrás. Ahora, la acción es cosa de su nuera, Amy...o eso cree él. &lt;/p&gt;
+&lt;p&gt;Para Amy, la adrenalina es parte esencial de la vida. En su trabajo en seguridad privada, cada día trae nuevos riesgos. Actualmente está en una isla remota protegiendo a Rosie D'Antonio, una autora superventas, hasta que un cadáver y una bolsa de dinero convierten el paraíso en una pesadilla. Sin más opciones, lanza un SOS al único en quien confía: su suegro Steve. &lt;/p&gt;
+&lt;p&gt;Así comienza una vertiginosa carrera contrarreloj que los llevará por distintos rincones del mundo. Pero, ¿podrán Amy y Steve mantenerse un paso por delante de un enemigo mortal? &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policíaco</dc:subject>
+        <meta name="calibre:timestamp" content="2025-03-23T19:31:38.835751+00:00"/>
+        <meta name="calibre:title_sort" content="Resolvemos asesinatos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

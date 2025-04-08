@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">956</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd31352f-e0c9-4d67-a985-8eb12ae03c48</dc:identifier>
+        <dc:title>Belén</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-25T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Caná. Caballo de Troya 9 fue publicado en 2011, pero estaba incompleto. Por razones técnicas, algunas de las páginas del diario del mayor de la USAF fueron retiradas por la editorial. Ahora son publicadas en su absoluta totalidad. Durante seis meses —entre abril y octubre del año 27 de nuestra era— Jesús se vio obligado a huir para no ser capturado por el Sanedrín; huyó sin cesar. Belén es un libro que descubre por qué Jesús no pudo ser un esenio, así como un repaso por las principales sectas judías: fariseos, saduceos, escribas, cenotas, esenios, nazirs... Los prodigios de Jesús que nunca fueron relatados. ¿Qué sucedió durante ese tiempo? No se lo pierda... Le sorprenderá y emocionará: pasajes desconocidos de la vida del Maestro. Con Belén, J. J. Benítez termina la serie Caballo de Troya. Una aventura literaria que empezó en 1984 con la publicación del primer volumen&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408264736</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Caballo de Troya"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:timestamp" content="2023-07-14T07:58:22.867351+00:00"/>
+        <meta name="calibre:title_sort" content="Belén"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

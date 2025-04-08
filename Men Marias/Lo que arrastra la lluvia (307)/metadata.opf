@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">307</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e6499e1-7f7d-4cfc-a625-eb824dc39cb2</dc:identifier>
+        <dc:title>Lo que arrastra la lluvia</dc:title>
+        <dc:creator opf:file-as="Marías, Men" opf:role="aut">Men Marías</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-13T06:20:29+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una novela inquietante y sobrecogedora sobre los límites entre el bien y el mal y la locura&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Granada, 2007&lt;/span&gt;&lt;span&gt;.
+ Un padre y una hija mueren a la vez. Pocos meses después, Marina, madre
+ y esposa de los fallecidos, aparece en un parque. Ha dejado de ser la 
+mujer que era, profesora de latín y aficionada a la moda, para 
+convertirse en una mendiga que vaga por las calles de la ciudad.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Carmen
+ y su familia viven en el mejor ático de la plaza Bib-Rambla y disfrutan
+ de una vida cómoda y sin preocupaciones. O al menos así era hasta que 
+Marina aparece en su camino y acepta la generosidad de Carmen, que se 
+ofrece a ayudarla.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Cuando las vidas de las dos 
+mujeres se cruzan, ambas toman un nuevo rumbo que las conduce hasta las 
+profundidades del alma humana. Y es que, a veces, el agradecimiento 
+puede convertirse en envidia y desconfianza...&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Una 
+descarnada novela negra que nos invita a reflexionar sobre los límites 
+del dolor y las fronteras entre la locura y el silencio, pero también 
+sobre la grandeza de la misericordia, la compasión y el amor por el ser 
+humano.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Men Marías&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-14T08:08:50.458661+00:00"/>
+        <meta name="calibre:title_sort" content="que arrastra la lluvia, Lo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

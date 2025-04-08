@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75e3ed26-cde3-4716-9a02-8bc3365c3601</dc:identifier>
+        <dc:title>El caso del castillo de Comper</dc:title>
+        <dc:creator opf:file-as="Bannalec, Jean-Luc" opf:role="aut">Jean-Luc Bannalec</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-29T22:00:00+00:00</dc:date>
+        <dc:description>A finales de verano, el comisario Dupin se retira con su equipo de colaboradores al bosque de Brocelianda. Según dicen los bretones, esta tierra de castillos milenarios y tradiciones ancestrales es el último país de las hadas que queda en el mundo. Pero el brutal asesinato de un experto en la figura del Rey Arturo trastoca los planes del comisario, a quien nombran inmediatamente investigador jefe del caso. Pronto aparecen nuevas víctimas entre el grupo de especialistas en sagas artúricas reunidos en la zona. ¿Qué saben los científicos de las recientes excavaciones en el bosque y por qué se niegan a hablar?</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Comisario Dupin"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:56.641004+00:00"/>
+        <meta name="calibre:title_sort" content="caso del castillo de Comper, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1655</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bed52b1-e10a-4bfc-80db-b99396081005</dc:identifier>
+        <dc:title>Castigos justificados</dc:title>
+        <dc:creator opf:file-as="Hjorth, Michael &amp; Rosenfeldt, Hans" opf:role="aut">Michael Hjorth</dc:creator>
+        <dc:creator opf:file-as="Hjorth, Michael &amp; Rosenfeldt, Hans" opf:role="aut">Hans Rosenfeldt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Una estrella de televisión es hallada muerta de un tiro a la 
+cabeza en una escuela abandonada. Su cuerpo se encuentra de cara a la 
+pared y, atadas a una silla del aula, unas hojas de examen. A juzgar por
+ el número de respuestas incorrectas, la víctima suspendió el examen más
+ importante de su vida.&lt;br&gt;Este horrible asesinato es el primero de una 
+serie de muertes que tendrán como víctimas a personajes famosos. La 
+Brigada Criminal de Torkel Hölgrund se encargará del caso y sólo gracias
+ a la pericia de Sebastian Bergman lograrán, siguiendo las pistas 
+halladas en chats de internet y en cartas anónimas publicadas en los 
+periódicos, resolver el misterio.&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408181569</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Sebastian Bergman"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2024-07-07T13:32:36.001839+00:00"/>
+        <meta name="calibre:title_sort" content="Castigos justificados"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

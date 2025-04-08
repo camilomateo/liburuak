@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Amor y Pedagogía</title>
+  <id>urn:book:c2b4166f-b38c-4c71-803d-07a422365865</id>
+  <updated>2024-09-06T02:21:21Z</updated>
+  <link href="./book_2133.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Amor y Pedagogía" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por U" />
+  <link href="../authors_1/authors_1513_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Miguel de Unamuno" />
+  <link href="../../Miguel%20de%20Unamuno/Amor%20y%20Pedagogia%20%282133%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Miguel%20de%20Unamuno/Amor%20y%20Pedagogia%20%282133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Miguel%20de%20Unamuno/Amor%20y%20Pedagogia%20%282133%29/Amor%20y%20Pedagogia%20-%20Miguel%20de%20Unamuno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="159 KB" />
+  <author>
+    <name>Miguel de Unamuno</name>
+    <uri>../authors_1/authors_1513_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+  </content>
+  <link href="../authors_1/authors_1513_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Miguel de Unamuno" />
+  <link href="http://www.goodreads.com/book/title/Amor%20y%20Pedagog%C3%ADa" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Amor%20y%20Pedagog%C3%ADa" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Amor%20y%20Pedagog%C3%ADa%20Miguel%20de%20Unamuno" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Amor%20y%20Pedagog%C3%ADa&amp;field-author=Miguel%20de%20Unamuno" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Miguel%20de%20Unamuno" type="text/html" rel="related" title="Miguel de Unamuno en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Miguel%20de%20Unamuno" type="text/html" rel="related" title="Miguel de Unamuno en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/UnamunoMiguelde" type="text/html" rel="related" title="Miguel de Unamuno en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Miguel%20de%20Unamuno" type="text/html" rel="related" title="Miguel de Unamuno en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Miguel%20de%20Unamuno" type="text/html" rel="related" title="Miguel de Unamuno en ISFDB" target="_blank" />
+</entry>

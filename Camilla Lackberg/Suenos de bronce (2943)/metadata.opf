@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2943</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71bc1eed-5bf3-4ea8-b667-a75773e281b5</dc:identifier>
+        <dc:title>Sueños de bronce</dc:title>
+        <dc:creator opf:file-as="Läckberg, Camilla" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-24T16:10:34+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;El esperado regreso al universo Faye de Camilla Läckberg, la autora de novela negra más importante de Europa.&lt;/p&gt;
+&lt;p&gt;Jack, el exmarido de Faye, ha muerto y con él muchas de sus preocupaciones, pero ahora su vida se ve amenazada por la única persona en el mundo que puede vencerla: su propio padre. Fugado de la cárcel en la que cumplía condena, Faye tendrá que enfrentarse a sus mayores miedos para hacerle frente: no es sólo ella la que está en peligro, también tiene que proteger a sus seres queridos y a la obra de su vida, su imperio Revenge. Además, la policía de Estocolmo sigue sus pasos muy de cerca, por lo que Faye reúne a su círculo más íntimo y solicita su ayuda para planificar la venganza final. Sin embargo, tendrá que prestar especial atención a un personaje misterioso, una mujer de oscuro pasado y gran determinación, una némesis perfecta de Faye que opera entre las sombras y puede llegar a arrebatárselo todo. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-11T10:09:53.991408+00:00"/>
+        <meta name="calibre:title_sort" content="Sueños de bronce"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

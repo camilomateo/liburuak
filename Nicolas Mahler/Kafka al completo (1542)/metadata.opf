@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e72ee925-be91-45e0-bbc8-0e8a63fb3887</dc:identifier>
+        <dc:title>Kafka al completo</dc:title>
+        <dc:creator opf:file-as="Mahler, Nicolas" opf:role="aut">Nicolas Mahler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;«¿Sabías que una vez fui dibujante?», escribió, mitad irónico, 
+mitad orgulloso, Franz Kafka en 1913. En algún momento, a Kafka le gustó
+ dibujar más que cualquier otra cosa. Qué mejor manera de homenajearlo, 
+entonces, que con la publicación de una biografía gráfica en el 
+centenario de su muerte. ¿Y quién más apropiado para crearla que el 
+ilustrador Nicolas Mahler, con quien comparte minimalismo y mordacidad? 
+Kafka al completo es un retrato de la vida y obra del gran escritor 
+moderno que no rehuye las grandes preguntas: ¿Quién escribió la secuela 
+de La metamorfosis? ¿De qué trataba realmente El proceso? De una manera 
+desternillante y original, Mahler cuenta las vicisitudes, luchas, dudas y
+ bloqueos de uno de los más destacados novelistas de la literatura 
+universal.&lt;/p&gt;</dc:description>
+        <dc:publisher>SALAMANDRA GRAPHIC</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:42.470497+00:00"/>
+        <meta name="calibre:title_sort" content="Kafka al completo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

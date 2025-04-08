@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3158</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c64b39b6-8df6-48c0-a4d3-9a982450a944</dc:identifier>
+        <dc:title>Ser feliz es fácil</dc:title>
+        <dc:creator opf:file-as="Vilaseca, Borja" opf:role="aut">Borja Vilaseca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-09T16:48:28+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En un mundo donde abunda el estrés, la ansiedad, la depresión y el vacío existencial hablar de felicidad es blasfemia. Y afirmar que es fácil, una provocación en toda regla. La sociedad se ha convertido un gran manicomio. La única razón por la que no estamos todos encerrados es porque somos demasiados. Uno de los síntomas de esta enajenación colectiva es que cada vez más personas padecen algún tipo de neurosis y de enfermedad mental. Nos hemos vuelto maestros en hacernos desdichados. Al estar tan poseídos por la mente, vivimos de tal forma que hacemos casi imposible la felicidad.&lt;/p&gt;
+&lt;p&gt;Este provocador libro combina la sabiduría de filosofías orientales ancestrales con los últimos descubrimientos en el ámbito de la neurociencia. Y comparte contigo la mentalidad que tienen todas las personas que son genuinamente felices. Su lectura te servirá para descubrir cómo cuidar tu cuerpo, tu mente, tu espíritu y tu sistema nervioso para sentirte en paz contigo mismo. También te enseñará a cultivar el amor y la compasión para lidiar con personas descentradas sin perturbarte. Y te inspirará para hacerte amigo de la vida, aprovechando todo lo que te pasa para crecer y evolucionar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VERGARA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-14T13:34:10.567946+00:00"/>
+        <meta name="calibre:title_sort" content="Ser feliz es fácil"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

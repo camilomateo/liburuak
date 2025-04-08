@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">658</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f217f2e-03df-493a-a7f7-e3f564d0cc34</dc:identifier>
+        <dc:title>La edad bajo sospecha</dc:title>
+        <dc:creator opf:file-as="Moure, Teresa" opf:role="aut">Teresa Moure</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-02T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Si en nuestra época las categorías de género o raza han saltado 
+por los aires, como trajes que nos venían estrechos, la edad continúa 
+ahí, dictando esquemas de comportamiento, prediciéndonos: “Está en plena
+ adolescencia”, “tiene la crisis de los cuarenta”, “ya no tiene edad 
+para eso”, se oye por todas partes, como si todavía nos costase someter a
+ crítica una clasificación que, como el género o la raza, parece 
+ajustarse a lo biológico, pero, en realidad, es un mecanismo social que 
+pretende imprimir determinadas formas de obediencia. Teresa Moure 
+analiza el fenómeno del edadismo y las edadofobias, mostrando que, sin 
+limitarse a la vejez, como comúnmente se ha hecho, detrás de etiquetas 
+aparentemente inocuas se esconde una forma de control y discriminación 
+ejercida sobre todas las franjas de la vida. Pone así al descubierto las
+ endiabladas metáforas, prejuicios y estereotipos que sustentan la edad 
+como aspecto primordial para interpretar nuestra existencia e identidad,
+ al mismo tiempo que reflexiona sobre las desviaciones a este 
+imaginario. Como sostiene Moure, no se trata de “negar las evidencias 
+del tiempo en la piel, sino de abandonar el hábito de construir, a 
+partir de ellas, unas etapas bien definidas, de romper los estadios de 
+larva, crisálida y mariposa”. &lt;br&gt;&lt;br&gt;Teresa Moure es novelista, 
+dramaturga, ensayista y poeta. Varias de sus obras escritas en gallego 
+han sido traducidas al español (Hierba mora, Artes subversivas para 
+cultivar jardines, Una madre tan punk, La palabra de las hijas de Eva u 
+Ostracia), así como a otras lenguas. En Catarata ha publicado 
+Lingüística se escribe con A (2021).
+
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Los Libros de La Catarata</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-15T15:51:11+00:00"/>
+        <meta name="calibre:title_sort" content="La edad bajo sospecha"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

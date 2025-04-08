@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1888</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17a7fd8e-a79a-4091-b7e8-0007c4ef4735</dc:identifier>
+        <dc:title>La zarina</dc:title>
+        <dc:creator opf:file-as="Ellen Alpsten" opf:role="aut">Ellen Alpsten</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p style="text-align:center"&gt;&lt;B&gt;Catalina I de Rusia&lt;/B&gt;&lt;/P&gt; &lt;p style="text-align:center"&gt;&lt;B&gt;La epopeya de hielo y nieve de una sierva que se convirtió en zarina. &lt;/B&gt;&lt;/P&gt; &lt;P&gt;La noche de la muerte de Pedro I el Grande de Rusia, Catalina, su segunda esposa, preocupada por la sucesión, decide ocultar el fallecimiento del zar. Durante las horas de incertidumbre que siguen a la muerte del que fuera su amante y su amigo, Catalina repasa su azarosa vida. Hija ilegítima de un siervo, fue vendida como criada, mató en defensa propia y vivió innumerables desventuras hasta que su destino la llevó al campo de batalla del ejército del zar. Allí, el general Menshikov, íntimo amigo de Pedro el Grande, la tomará bajo su tutela, conocerá al zar, se convertirá en su amante y años después llegará a ser su esposa.&lt;/P&gt; &lt;P&gt;&lt;tab&gt; &lt;I&gt;La zarina&lt;/I&gt; es la aventura de una mujer insólita y valiente, y también la historia del nacimiento de la Rusia moderna, de un Imperio turbulento e inestable, de la locura de la guerra y de la brutalidad del siglo XVIII, cuando la vida humana apenas tenía valor.&lt;/P&gt; &lt;P&gt;&lt;B&gt;Reseñas:&lt;/B&gt;&lt;BR&gt;«Extraordinario novelón con aroma ruso. &lt;I&gt;La zarina&lt;/I&gt; es la versión definitiva de Cenicienta: una campesina analfabeta que se convierte en emperatriz de Rusia. A su lado, &lt;I&gt;Juego de tronos&lt;/I&gt; parece una canción de cuna.»&lt;BR&gt;Daisy Goodwin&lt;/P&gt; &lt;P&gt;«Magníficas escenas de corte, intrigas de primer orden, celos entre damas, batallas sanguinarias... una epopeya de hielo y nieve que conquistará a los lectores, en un marco histórico absolutamente irreprochable y narrado a un ritmo vertiginoso.»&lt;BR&gt;Matteo Strukul&lt;/P&gt; &lt;P&gt;«&lt;I&gt;La zarina&lt;/I&gt; debería venir con una advertencia sanitaria: una vez que empiezas a leer, es imposible dejarla.»&lt;BR&gt;Hannah Rothschild&lt;/P&gt; &lt;P&gt;«&lt;I&gt;La zarina&lt;/I&gt; es deliciosa. Tan detallada como las joyas y las incrustaciones de esmalte de las creaciones de Fabergé [...] Te maravillarás con este elegante relato de la historia, tejido con emoción y brí</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425359798</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:51.984596+00:00"/>
+        <meta name="calibre:title_sort" content="zarina, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

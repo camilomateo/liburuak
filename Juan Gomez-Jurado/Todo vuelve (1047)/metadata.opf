@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1047</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27344878-3721-4636-b879-d422e51b0d0e</dc:identifier>
+        <dc:title>Todo vuelve</dc:title>
+        <dc:creator opf:file-as="Gómez-Jurado, Juan" opf:role="aut">Juan Gómez-Jurado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un plan imposible.
+Todo lo que Aura Reyes necesita es continuar con vida diez minutos más.
+No es tarea fácil.
+Las otras son cuatro, son más fuertes y ella -una figura acorralada en el patio de la cárcel- nunca ha sabido defenderse demasiado bien.
+O tal vez sí.
+Una huida sin tregua.
+Porque Aura tiene que recuperar a sus hijas. También a sus amigas.
+Y por eso ha trazado un plan que arranca dentro de diez minutos.
+Así que no.
+No tiene ninguna intención de morir hoy.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Todo arde"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-11-01T18:27:29+00:00"/>
+        <meta name="calibre:title_sort" content="Todo vuelve"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

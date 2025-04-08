@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">776</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca5e0bbd-ef27-4dcd-b378-758177a20dce</dc:identifier>
+        <dc:title>El faro del silencio</dc:title>
+        <dc:creator opf:file-as="Martín, Ibon" opf:role="aut">Ibon Martín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Una tarde de otoño, la noche llama a las puertas de un remoto faro de la costa vasca, el cuerpo de una mujer aparece a los pies de la torre de luz. El asesino se ha llevado la grasa de su abdomen. Leire, la escritora bilbaína que ha encontrado el cadáver, se convierte en la principal sospechosa. Desesperada, se verá obligada a iniciar una inquietante investigación que sacará a la luz intrigas familiares y conspiraciones económicas. Sus pasos, que avanzan con más decisión que las pesquisas oficiales, no tardarán en desvelarle que está ante un imitador del Sacamantecas, al brutal asesino en serie que aterrorizó Vitoria en el siglo XIX. Pasaia, una población dividida por la pretendida construcción de una nueva dársena, es el escenario de estas páginas. Tras su apariencia de apacible pueblo pesquero, se oculta un puerto industrial en decadencia, en el que algunos habitantes guardan una oscura verdad.</dc:description>
+        <dc:publisher>Travel Bug</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.4</dc:identifier>
+        <dc:identifier opf:scheme="EPL">26353</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:series" content="Los crímenes del faro"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-05-25T11:32:54.451392+00:00"/>
+        <meta name="calibre:title_sort" content="faro del silencio, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

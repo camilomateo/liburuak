@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1760</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6410677-8883-4938-9981-ab9b8e374c45</dc:identifier>
+        <dc:title>Desaparecida en Frozen Falls</dc:title>
+        <dc:creator opf:file-as="Wolfe, Leslie" opf:role="aut">Leslie Wolfe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-21T21:16:42+00:00</dc:date>
+        <dc:description>&lt;div&gt;En un fresco día de otoño en la pequeña ciudad de Mount Chester, 
+la detective Kay Sharp se encuentra cara a cara con el pasado del que 
+lleva huyendo la última década. Su exmarido, Brian, ha sido acusado de 
+matar a Rachel, la ex mejor amiga de Kay, la mujer con la que Brian le 
+fue infiel y a quien dejó embarazada.&lt;br&gt;&lt;br&gt;Dos días antes, Kay recibió
+ un mensaje suplicante de Rachel diciendo: «Espero que me perdones. Sé 
+que no tengo derecho, pero te necesito». En el momento en que Kay le 
+devolvió la llamada, ya era tarde: Rachel ya estaba muerta. ¿Podría 
+Brian ser el asesino?&lt;br&gt;&lt;br&gt;Verlo despierta en Kay un torrente de 
+recuerdos dolorosos, pero, a pesar de su angustia, está dispuesta a 
+arriesgar su carrera para demostrar su inocencia, enfrentándose a la 
+presión de su equipo, que no quiere que trabaje en una investigación que
+ le es tan cercana. &lt;br&gt;&lt;br&gt;Cuando Kay visita a la madre de Rachel, 
+descubre algo desgarrador que hace que el caso sea aún más crítico: la 
+hija de ocho años de Rachel, Holly, ha desaparecido. &lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Misterio</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:09+00:00"/>
+        <meta name="calibre:title_sort" content="Desaparecida en Frozen Falls"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

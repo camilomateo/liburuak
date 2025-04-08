@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1851</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6c71f4c-478b-4cfc-9dd8-edf1072290ff</dc:identifier>
+        <dc:title>El candidato</dc:title>
+        <dc:creator opf:file-as="Nacho Abad" opf:role="aut">Nacho Abad</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-10T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Galardón Letras del Mediterráneo 2020 otorgado por la Diputación de Castellón&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Lázaro, uno de los empresarios más respetados de España, decide presentarse a las elecciones generales como candidato de un partido que apuesta por la ecología, la transparencia y una nueva manera de hacer política. Sorprendentemente, las encuestas le dan como ganador. Sin embargo, dos días antes de las elecciones, la prensa destapa una denuncia por una agresión sexual ocurrida diez años atrás.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Lázaro defiende su inocencia alegando que los grandes poderes que mueven los hilos en la sombra le quieren sacar a empujones de la carrera electoral. La batalla por su credibilidad ante la opinión pública no ha hecho más que empezar.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Nacho Abad ha novelado en El candidato una magnífica intriga en la que desvela cómo se manipulan las noticias y se maneja emocionalmente al electorado a través del marketing político. Una trama que deja sin aliento hasta llegar a un final sorprendente.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08LQJXNTN</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788491649588</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:34+00:00"/>
+        <meta name="calibre:title_sort" content="El candidato"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

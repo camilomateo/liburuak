@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">458f62d9-3cd6-438b-a7f5-29c85f609776</dc:identifier>
+        <dc:title>El palacio de la inocencia</dc:title>
+        <dc:creator opf:file-as="Garbantes, Raúl" opf:role="aut">Raúl Garbantes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;A la mitad de un sueño lleno de pesadillas, Diana recibe una llamada aterradora. Su hermana Bárbara y su pequeño sobrino Leo han sido brutalmente asesinados. Mientras que Mina, su sobrina de cinco años, ha desaparecido y es probable que el mismo homicida la haya secuestrado. Diana buscará la ayuda de Justo, el jefe del Departamento de Homicidios, para iniciar una exhaustiva investigación sobre el crimen e intentar localizar a Mina. Ambos se encontrarán con enigmas y mensajes encriptados dejados por el infanticida, como un juego perverso para despistarlos en su búsqueda. ¿Podrá Diana descifrar los acertijos a tiempo y hallar aún con vida a su sobrina?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Raúl Garbantes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Mujer en apuros"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:35.807782+00:00"/>
+        <meta name="calibre:title_sort" content="palacio de la inocencia, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

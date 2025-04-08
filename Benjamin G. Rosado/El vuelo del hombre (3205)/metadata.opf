@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3205</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81ef7095-fa28-4c2c-9eaf-d715d84f12db</dc:identifier>
+        <dc:title>El vuelo del hombre</dc:title>
+        <dc:creator opf:file-as="Benjamín G. Rosado" opf:role="aut">Benjamín G. Rosado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-27T10:00:30+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Una moderna novela de aventuras sobre el poder de la ficción para cambiar el argumento de nuestras vidas.&lt;br&gt;El joven filólogo Diego Marín viaja a Valparaíso para resolver su incierto porvenir académico cuando un encuentro fortuito le proporciona inspiración para escribir su primera novela. El éxito inesperado de su publicación le permite instalarse en Nueva York, donde la vida y el amor se interponen en la escritura de su segundo libro, y su nombre acaba cayendo en el olvido.&lt;/p&gt;
+&lt;p align="justify"&gt;  Cuando una llamada de su antiguo editor le pone sobre la pista de un accidente extraordinario que reproduce fielmente el final de su famosa novela, Marín viaja sin dudarlo a la selva de Colombia. Pero el destino se cruza de nuevo en su camino y mientras investiga comprenderá que algunas historias merecen ser contadas a cualquier precio, mientras que otras imponen su silencio para salvar una vida.&lt;/p&gt;
+&lt;p align="justify"&gt;  Benjamín G. Rosado debuta como un escritor valiente con una voz torrencial que se mueve entre la picaresca y la erudición. El vuelo del hombre ha obtenido el respaldo unánime del jurado del Premio Biblioteca Breve, que reconoce el talento de «un gran fabulador en la mejor tradición de narradores como Auster o Bolaño».&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:08.920087+00:00"/>
+        <meta name="calibre:title_sort" content="El vuelo del hombre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

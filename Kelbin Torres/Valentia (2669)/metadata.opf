@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4683b544-7f4a-4870-bc0a-70b9ae36bf5e</dc:identifier>
+        <dc:title>Valentía</dc:title>
+        <dc:creator opf:file-as="Kelbin Torres" opf:role="aut">Kelbin Torres</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-25T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Este no es un libro de esos que dejas olvidados en un rincón, es un libro de esos a lo que vuelves cada vez que lo necesitas. Es de esos que logan derrumbarte, pero también hacerte brillar. Te hará llorar y reír, te acercará más a la vida. Aquí encontrarás verdades, de esas sin filtro, que te hacen reflexionar. No encontrarás utopías, pues cada palabra nace de una experiencia. Valentía es un camino, tiene sus obstáculos, sus dolores y tristezas, pero también está lleno de esperanza, de fe. Es un libro que avivará el fuego de tu corazón, pondrá tus emociones a flor de piel y, sobre todo, te recordará que en esta vida vale mucho más ser valiente que cualquier otra cosa.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:04:36.192487+00:00"/>
+        <meta name="calibre:title_sort" content="Valentía"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

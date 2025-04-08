@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1351</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6638e908-7020-469c-b09b-b9365aaa707b</dc:identifier>
+        <dc:title>La Última Reliquia</dc:title>
+        <dc:creator opf:file-as="Costoya, Rodrigo" opf:role="aut">Rodrigo Costoya</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Año 1588. Felipe II, el rey más poderoso que jamás ha existido, pone en marcha dos operaciones secretas. Con la primera pretende derrotar a su gran enemiga, la reina de Inglaterra. Para ello, envía una poderosa flota con la consigna de rendir Londres. La llamada Armada Invencible no tendrá éxito, y provocará un rápido contraataque inglés sobre las costas españolas antes de que los barcos del rey tengan tiempo de restañar sus heridas. Es ahí cuando una mujer se distinguirá en la defensa de su ciudad, Coruña. A través de la segunda operación, el rey trata de completar la colección de reliquias sagradas que ha ido almacenando en su imponente residencia, construida como símbolo de su reinado: El Escorial. Ya atesora más de siete mil, confiscadas por sus mejores hombres en antiguos santuarios, pero le falta la que él más anhela. La más valiosa de la cristiandad. La última reliquia. Ambrosio de Morales, el erudito más prestigioso de su época, parte en dirección a Compostela con intención de ejecutar la voluntad del soberano. Nada hace augurar la endiablada conjura que acabará propiciando la desaparición de los restos del apóstol Santiago durante los tres siglos posteriores. Felipe II, el pirata Francis Drake, Elizabeth I, Miguel de Cervantes y María Pita viven entre estas páginas. También la princesa de Éboli, el arzobispo Sanclemente o los protagonistas del mítico Pleito de los cinco obispados, entre otros muchos. Buen viaje, te deseo. Al final de esta aventura nada será igual ante tus ojos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Pàmies</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410070073</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:35+00:00"/>
+        <meta name="calibre:title_sort" content="La Última Reliquia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

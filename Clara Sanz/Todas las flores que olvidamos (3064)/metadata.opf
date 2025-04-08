@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3064</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee3b6711-0296-4b36-b8c1-2920cff0ce5a</dc:identifier>
+        <dc:title>Todas las flores que olvidamos</dc:title>
+        <dc:creator opf:file-as="Sanz, Clara" opf:role="aut">Clara Sanz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¿Qué ocurre cuando el destino se empeña en devolverte al pasado?&lt;/p&gt;
+&lt;p&gt;Me llamo Isabel, aunque siempre he querido que me llamen Bella. Mi vida se parecía mucho a la de cualquier chica hasta que un día recibí una carta desde el pueblo soriano en el que veraneaba de niña. Una tormenta emocional puso todo patas arriba y me llevó a descubrir sentimientos que nunca había experimentado.&lt;/p&gt;
+&lt;p&gt;El regreso a un pasado que me había empeñado en olvidar y que me haría recordar el olor y los colores de las flores que cultivaban mis abuelos y, también, un reencuentro inesperado con la persona que lo cambiaría todo.&lt;/p&gt;
+&lt;p&gt;Una novela en la que descubrirás que lo más bonito siempre está por llegar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-19T08:18:47.025069+00:00"/>
+        <meta name="calibre:title_sort" content="Todas las flores que olvidamos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

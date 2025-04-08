@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1092</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3c9f7e1-8f4d-4f41-b79a-28a5ff52a740</dc:identifier>
+        <dc:title>Lo oscuro que hay en mi</dc:title>
+        <dc:creator opf:file-as="Convertini, Horacio" opf:role="aut">Horacio Convertini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-24T20:27:50+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="1"&gt;Al desmontar el modesto departamento de su padre recién fallecido, Luis hace un sorpresivo descubrimiento: un bolso con cien mil dólares.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="1"&gt;Durante el funeral le revelan que tenía algo muy peligroso en el baúl del auto estacionado en una localidad del interior, donde murió. Una reflexión sobre quiénes somos en realidad, qué exponemos, qué tapamos y qué atrocidades hay en el lado B de cada persona.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="1"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="1"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="1"&gt;Luis es un empleado municipal porteño que disfruta de una vida monótona. Su "aplastamiento", como llama a esos súbitos y persistentes ataques de indolencia, se ve sacudido cuando su padre -un viajante de comercio que vende baratijas chinas- muere de un paro cardíaco en Bahía Blanca. Al desmontar su modesto departamento descubre un bolso con cien mil dólares y, a los pocos días, uno de sus viejos clientes le revela que tiene para entregarle algo muy peligroso que su padre guardaba en el baúl del auto.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="1"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="1"&gt;En esta novela, Horacio Convertini consigue sumergirnos no solo en la aventura desenfrenada y peligrosa que encara Luis al enfrentar el enigma que ha sido su propio padre, sino también nos lleva a desentrañar los secretos que todos escondemos a nuestros seres más amados y aun a nosotros mismos.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789877388060</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-12-12T07:34:15.342399+00:00"/>
+        <meta name="calibre:title_sort" content="oscuro que hay en mi, Lo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

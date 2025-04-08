@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2985</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f21bb349-a64e-4414-85a7-5a53602766d1</dc:identifier>
+        <dc:title>Cuarteto</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Manuel Vázquez Montalbán utiliza en Cuarteto un recurso muy característico de su obra narrativa, una investigación de corte policíaco como hilo conductor para profundizar en unas vidas y en unos comportamientos, mediante una gran precisión narrativa que configura un mecanismo sutil pleno de virtuosismo y densidad. El lector se siente atrapado por una historia, la de un cuarteto que son cinco, dos parejas que al final no lo son, un inspector cuya investigación no lleva a ninguna parte. Historia y personajes que ganan en consistencia a medida que avanza el relato de sus encuentros y separaciones y donde sólo al final se alcanza el sosiego.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:18.661201+00:00"/>
+        <meta name="calibre:title_sort" content="Cuarteto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

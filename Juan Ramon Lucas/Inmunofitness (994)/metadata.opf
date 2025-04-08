@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">994</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29846dcf-010f-40a3-9131-0df7cba712c8</dc:identifier>
+        <dc:title>Inmunofitness</dc:title>
+        <dc:creator opf:file-as="Lucas, Juan Ramón" opf:role="aut">Juan Ramón Lucas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-12T09:21:17+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span&gt;Nuestro cuerpo alberga alrededor de cuarenta billones de 
+células, un sistema biológico perfectamente organizado para asegurar la 
+continuidad de la especie mediante una compleja disposición de defensas,
+ contraataques y estrategias biológicas. Sí, se trata del sistema 
+inmunitario.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Además de protegernos de bacterias, 
+hongos, parásitos y virus, este sistema se enfrenta a su propio 
+envejecimiento conocido con el término "inmunosenescencia". La buena 
+noticia es que puedes fortalecer tu sistema inmunitario: Juan Ramón 
+Lucas te presenta el Inmunofitness, un estilo de vida que marca un antes
+ y un después en el cuidado del sistema inmune y mejora de la calidad de
+ vida. Sus pilares son la vacunación, la alimentación saludable, el 
+ejercicio y una mente sana, es decir, un sueño reparador, contacto con 
+entornos verdes y exposición al sol en condiciones saludables.&lt;/span&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Escrito
+ con sencillez, simpatía y buen humor, este libro te enseña a mejorar tu
+ bienestar y a prepararte para lo que pueda venir, incluyendo el 
+inevitable declive de tu organismo. Sólo debes aplicar ciertas pautas y 
+hábitos, respaldados por la ciencia y la experiencia personal del autor.
+ ¡No esperes más y empieza a entrenar tu salud!&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alienta Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-08-23T12:48:30.786551+00:00"/>
+        <meta name="calibre:title_sort" content="Inmunofitness"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0309fc02-38b3-41f3-8aa0-030b432597aa</dc:identifier>
+        <dc:title>Llévate mi dolor</dc:title>
+        <dc:creator opf:file-as="Gordéyeva, Katerina" opf:role="aut">Katerina Gordéyeva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Premio Internacional Anna Politkóvskaya&lt;br&gt;Premio Geschwister Scholl&lt;br&gt;&lt;br&gt;La guerra es una fábrica de monstruos. Quien había sido nuestro vecino, nuestro amigo o incluso el familiar más próximo, puede convertirse de un día para otro en una bestia jamás imaginada. Lo más habitual es que la guerra saque lo peor de cada uno, pero también puede hacer que emerja la humanidad más admirable. Se muestran aquí unos cuantos ejemplos, de una diversidad enorme. Desde febrero de 2022, Katerina Gordéyeva ha viajado por toda Europa (Polonia, España, Estonia, Italia, Alemania...) para entrevistarse con las personas de la guerra de Ucrania; aquellas que han logrado, contra todo pronóstico, no convertirse en bestias y, por el azar más impensable, continuar viviendo. Un libro de importantes catarsis: primero, la de quienes pensaban que nunca podrían hablar sobre lo que han vivido estos últimos años. También la de la autora, hija de Rostov del Don y con familia ucraniana. Y finalmente la nuestra, pues leyendo estos testimonios no podremos volver a pensar en este conflicto de la misma manera.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Comanegra</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:15+00:00"/>
+        <meta name="calibre:title_sort" content="Llévate mi dolor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

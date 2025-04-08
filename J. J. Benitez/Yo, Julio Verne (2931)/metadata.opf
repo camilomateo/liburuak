@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2931</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9ff99f6-5ae5-4963-ae7a-57228bf0f65e</dc:identifier>
+        <dc:title>Yo, Julio Verne</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-12-31T23:00:00+00:00</dc:date>
+        <dc:description>«Yo, Julio Verne» revela a los cientos de miles de lectores del enigmático bretón la «cara oculta» de un hombre atormentado que se «suicidó» por el trabajo. ¿Fue Verne un profeta de la ciencia? ¿Cuántos de sus lectores han descubierto la subterránea y esotérica lectura de sus libros? ¿Supo que hizo de abogado contra su voluntad y que trabajó en la Bolsa durante cinco años? ¿Quién reconocería en él a un fracasado en el amor y en el matrimonio? ¿Por qué fue víctima de un atentado? ¿Perteneció a una oculta hermandad iniciática? Julio Verne, fanático de los enigmas, murió en 1905. Su tumba, en opinión de J. J. Benítez, constituye su último y gran criptograma. El mensaje de la sepultura de Amiens, como la propia vida de Verne, le estremecerá.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">34412</dc:identifier>
+        <dc:identifier opf:scheme="REVISIÓN">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:23.119959+00:00"/>
+        <meta name="calibre:title_sort" content="Yo, Julio Verne"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

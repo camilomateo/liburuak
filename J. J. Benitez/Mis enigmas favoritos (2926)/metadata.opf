@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2926</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63dd11ac-cd6f-46d7-89af-48124170674f</dc:identifier>
+        <dc:title>Mis enigmas favoritos</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Uno de los proyectos más ambiciosos de la extensa trayectoria de Benítez como cronista y notario de lo oculto. Según el autor «el objetivo de esta obra es ofrecer lo más granado de las leyendas y enigmas que, afortunadamente, aún conserva nuestro mundo. Y siempre en el marco de una aventura permanente». Para conseguirlo J. J. Benítez ha recorrido más de tres millones de kilómetros durante veinte años. «Mis enigmas favoritos» incluye un total de treinta misterios. Entre ellos, los «geoglifos» de Chile, las «estrellas de Chartres», el «túnel de los ídolos» de Costa Rica, el enigma de los «hombres-alados», «el arca de los nommos» de Mali y el valle de «las siete luminarias» de México… En suma, una excepcional antología personal de alguien que conoce a fondo los principales hechos y casos que desde siempre han estimulado la imaginación y la curiosidad de los hombres.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:20.697549+00:00"/>
+        <meta name="calibre:title_sort" content="Mis enigmas favoritos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

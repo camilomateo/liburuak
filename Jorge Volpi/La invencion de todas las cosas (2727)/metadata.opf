@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2727</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbea4ada-e99c-4719-83bc-fb134020c069</dc:identifier>
+        <dc:title>La invención de todas las cosas</dc:title>
+        <dc:creator opf:file-as="Jorge Volpi" opf:role="aut">Jorge Volpi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-30T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un viaje apasionante y original a la imaginación como origen y motor del mundo&lt;/p&gt;
+&lt;p&gt;Por el ganador del Premio Alfaguara de novela, el Biblioteca Breve y el José Donoso&lt;/p&gt;
+&lt;p&gt;«Un libro que atrapa, nos invita a explorar el mapa genético de nuestras ideas y nos devuelve al mundo más sabios».&lt;br&gt;Irene Vallejo&lt;/p&gt;
+&lt;p&gt;«Somos máquinas de contar».&lt;/p&gt;
+&lt;p&gt;Con un relato que se tiende desde el big bang hasta hoy, La invención de todas las cosas nos muestra que los seres humanos somos aquello que nos contamos. Las ficciones que garantizan la cooperación entre inpiduos y grupos dieron vida a las religiones y los mitos; las que tienen que ver con límites de territorios, razas o culturas han provocado o justificado invasiones, guerras y masacres; hay otras que determinan nuestras relaciones personales o cívicas; la magia y la astrología sin duda son ficciones, pero también lo son la ciencia, la filosofía, el arte, la literatura, la música, el teatro, la televisión, las redes sociales... e incluso la política o el amor. Esta es, en definitiva, una historia sobre cómo a diario construimos y reconstruimos la realidad por medio de la imaginación. Nos pasamos la vida entre ficciones, nos dice Volpi, sin apenas darnos cuenta de que nosotros también lo somos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-11T07:23:55.604952+00:00"/>
+        <meta name="calibre:title_sort" content="invención de todas las cosas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

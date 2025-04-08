@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">648</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3974a21c-34b9-4cd7-b5f5-d2804c580ca2</dc:identifier>
+        <dc:title>Uno de los nuestros</dc:title>
+        <dc:creator opf:file-as="Barton, Fiona" opf:role="aut">Fiona Barton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-02T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La nueva novela de la autora del bestseller internacional La viuda. Elise es una ambiciosa detective; o lo era antes de que el cáncer del que se recupera le hiciese tambalear sus cimientos. Ahora se acaba de mudar a Ebbing, un idílico pueblo en el que no conoce a nadie. Durante su convalecencia, asiste desde su ventana a las tensiones entre los turistas de fin de semana y los lugareños. Elise sólo puede adivinar lo que sucede tras las puertas de sus vecinos; sin embargo, Dee, la joven que la ayuda con la limpieza, es una presencia invisible que ve y oye todo. Todo se hace añicos cuando dos adolescentes son hospitalizados y un hombre desaparece. Elise se verá de nuevo en marcha en busca de respuestas, pero la pequeña comunidad cierra filas para guardar bien sus secretos. «Repleto de giros, engancha hasta la última página» The Sun&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408273509</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">e-yzEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-10T14:29:08.719754+00:00"/>
+        <meta name="calibre:title_sort" content="Uno de los nuestros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

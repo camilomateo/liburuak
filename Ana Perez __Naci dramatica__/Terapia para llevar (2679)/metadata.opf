@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2959f024-de64-4e26-affb-5dea3411fb62</dc:identifier>
+        <dc:title>Terapia para llevar</dc:title>
+        <dc:creator opf:file-as="Ana Pérez «Nací dramática»" opf:role="aut">Ana Pérez «Nací dramática»</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-16T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¿Estás desconectado de ti mismo? ¿Sientes que te pasa algo, pero no sabes qué es? ¿La opinión de los demás te condiciona demasiado? Los pequeños malestares del día a día son una gran oportunidad para mejorar.&lt;/p&gt;
+&lt;p&gt;En Terapia para llevar encontrarás 20 conceptos clave de psicología y 5 herramientas prácticas para llevar mejor el día a día.&lt;/p&gt;
+&lt;p&gt;Aprende a relativizar, a evitar los pensamientos intrusivos y a poner límites que te hagan sentir bien. Descubre cómo aumentar tu autoestima, dejar de procrastinar y confiar más en ti. Gestiona el fracaso, el miedo al futuro y la peor de las rupturas amorosas.&lt;/p&gt;
+&lt;p&gt;En definitiva, escúchate, entiende tus emociones y, sobre todo, actúa para mejorarlas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>psicología</dc:subject>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:08:34.761948+00:00"/>
+        <meta name="calibre:title_sort" content="Terapia para llevar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

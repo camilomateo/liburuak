@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2929</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2140d524-10ad-4b97-8378-c88e5bebeb84</dc:identifier>
+        <dc:title>Al fin libre</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Quizá no lo sepa, pero hay «otro» J. J. Benítez. Además del investigador y narrador, hay un J. J. Benítez que «pinta» con las palabras. Un «buzo» audaz e incansable de las profundidades humanas. Un «alpinista» de la Verdad. Un «alquimista» del pensamiento y un «Robin Hood» de la esperanza. En Al fin libre, ese «otro» J. J. Benítez da un triple salto mortal sobre sí mismo y cae, de pie e impecable, sobre la muerte. Nadie, hasta hoy, se atrevió a quitarle la máscara a esa gran desconocida. Si usted teme a la muerte, atrévase con el «otro» J. J. Benítez. Este «cruzado», este «capitán Trueno» de lo imposible, le hará libre… Al fin libre.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Espiritualidad</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:22.318921+00:00"/>
+        <meta name="calibre:title_sort" content="Al fin libre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

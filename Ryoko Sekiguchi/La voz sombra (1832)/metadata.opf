@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1832</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34e2d92d-3b4d-411f-a234-40a4fc123924</dc:identifier>
+        <dc:title>La voz sombra</dc:title>
+        <dc:creator opf:file-as="Sekiguchi, Ryoko" opf:role="aut">Ryoko Sekiguchi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Antes de la invención de la fotografía y de las grabaciones sonoras, a los vivos no les quedaban de quien moría sino unos pocos objetos que lo habían acompañado; su olor impregnado en la ropa; la letra, si la persona sabía escribir; retratos pintados, para quienes podían permitírselos, o mechones de pelo.&lt;/p&gt;
+&lt;p&gt;La voz es una extensión del cuerpo y la única parte que no puede enterrarse: la voz permanece intacta y altera el sentido del tiempo, pues está condenada a quedarse en un presente eterno. «El mensaje de este libro, o más bien la moraleja que se extrae de su lectura, es únicamente éste: graba la voz de tus seres queridos», nos dice Ryoko Sekiguchi al inicio de esta obra singularmente emotiva y delicada en la que la autora de Nagori vuelve a demostrar una especial lucidez para describir y catalogar las experiencias más íntimas y trascendentales del ser humano.&lt;/p&gt;
+&lt;p&gt;Compuesto de breves fragmentos, este inclasificable libro es una historia de la voz de quienes se han ido y de cómo continúa afectando a quienes aún viven. Una exploración original y bellísima sobre la memoria, la desaparición y la huella que dejamos en el mundo. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Periférica</dc:publisher>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-30T12:04:05.390105+00:00"/>
+        <meta name="calibre:title_sort" content="voz sombra, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

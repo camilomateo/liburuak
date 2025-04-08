@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">803</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9a66703-3326-46f2-a073-64c146df483c</dc:identifier>
+        <dc:title>Enséñale a tu ansiedad quién manda</dc:title>
+        <dc:creator opf:file-as="Minden, Joel" opf:role="aut">Joel Minden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="text-align:center"&gt;&lt;b&gt;Un programa de 3 pasos para recuperar el control de tu vida&lt;/b&gt;&lt;/p&gt;&lt;p&gt;¿La &lt;b&gt;ansiedad&lt;/b&gt; está controlando tu vida? ¿Determina a dónde vas, qué  haces o con quién pasas el tiempo? ¿Te mantiene atrapado en una burbuja de &lt;b&gt;miedo&lt;/b&gt; y &lt;b&gt;pánico&lt;/b&gt;? La ansiedad surge en cualquier momento y lugar; por eso, necesitas habilidades inmediatas y sencillas para seguir adelante cuando la preocupación se apodera de ti. Esta  &lt;b&gt;guía&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;fácil&lt;/b&gt; de usar te ayudará a dominarla y a dejar de evitar a las personas, los lugares y las cosas que te ponen ansioso.&lt;/p&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p&gt;En&lt;i&gt; Enséñale a tu ansiedad&lt;/i&gt;&lt;i&gt;quién&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;i&gt;manda&lt;/i&gt; encontrarás un &lt;b&gt;enfoque&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;práctico&lt;/b&gt; y directo de tres pasos basado en la &lt;b&gt;terapia cognitivo-conductual (tcc)&lt;/b&gt; para ayudarte a responder de forma eficaz a los pensamientos angustiantes   y los desafíos futuros y a hacer las paces con la incertidumbre. Si estás listo para vivir una vida plena sin que la ansiedad se interponga de manera constante, esta guía te mostrará cómo lograrlo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>AGUILAR</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-31T11:18:15.577503+00:00"/>
+        <meta name="calibre:title_sort" content="Enséñale a tu ansiedad quién manda"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

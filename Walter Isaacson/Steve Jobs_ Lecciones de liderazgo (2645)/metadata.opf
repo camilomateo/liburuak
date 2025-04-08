@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2645</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de41631f-6e57-4aab-b5a4-a87be9368422</dc:identifier>
+        <dc:title>Steve Jobs: Lecciones de liderazgo</dc:title>
+        <dc:creator opf:file-as="Isaacson, Walter" opf:role="aut">Walter Isaacson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;El nombre de Steve Jobs es sinónimo de innovación, liderazgo y éxito. Su personalidad arrolladora, su intuición para los negocios y su carisma hicieron de él un gurú de la tecnología, que logró convertir a su empresa, Apple, en la compañía de innovación tecnológica más importante del mundo.&lt;/p&gt;&lt;p&gt;Steve Jobs lideró desde la dirección de Apple la revolución de la industria musical y de telefonía. Consiguió una simbiosis poco habitual al crear productos de culto que se han convertido en productos de masas. Millones de personas de todo el mundo han seguido sus presentaciones a través de internet, y han hecho colas durante horas fuera de sus tiendas para ser los primeros en comprar el último dispositivo de Apple. Su experiencia es, y seguirá siendo dentro de cien años, un caso de estudio en las mejores escuelas de negocios.&lt;/p&gt;&lt;p&gt;Walter Isaacson, autor de la célebre biografía de Steve Jobs, nos explica las claves de liderazgo que convirtieron al creador de Apple en uno de los empresarios más exitosos del mundo.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">19387</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Ciencias sociales</dc:subject>
+        <dc:subject>Negocios</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-21T14:27:28+00:00"/>
+        <meta name="calibre:title_sort" content="Steve Jobs: Lecciones de liderazgo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

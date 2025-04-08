@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1546</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ccb70f53-8b49-4381-8022-bfaffb35523d</dc:identifier>
+        <dc:title>Los secretos de la mente millonaria</dc:title>
+        <dc:creator opf:file-as="Eker, T. Harv" opf:role="aut">T. Harv Eker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Todos tenemos un patrón personal del dinero arraigado en nuestro subconsciente, y es este patrón, más que cualquier otra cosa, lo que determinará nuestra vida financiera. Puedes saberlo todo sobre mercadotecnia, ventas, negociaciones, acciones, propiedad inmobiliaria y finanzas en general, pero si tu patrón del dinero no está programado para el éxito nunca tendrás mucho dinero; y si, de algún modo lo consigues, ¡lo perderás con gran facilidad! La buena noticia es que ahora, aplicando las sencillas instrucciones contenidas en este libro, puedes programar de nuevo tu patrón del dinero para que te lleve al éxito económico de una forma natural y automática. ¡Los resultados te sorprenderán!</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:43.394369+00:00"/>
+        <meta name="calibre:title_sort" content="secretos de la mente millonaria, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

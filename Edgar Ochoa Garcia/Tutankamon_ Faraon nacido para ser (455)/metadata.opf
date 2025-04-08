@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">455</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53e2c1c4-c141-4fac-bf66-f13db3b0f3df</dc:identifier>
+        <dc:title>Tutankamón: Faraón nacido para ser leyenda</dc:title>
+        <dc:creator opf:file-as="García, Edgar Ochoa" opf:role="aut">Edgar Ochoa García</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Cuando escuchas el nombre de Tutankamón... ¿qué te viene a la mente? ¿Su máscara funeraria, su tumba, sus tesoros? Con esta novela conocerás la vida del faraón niño y las hazañas que le convirtieron en leyenda. Descubrirás cómo a sus nueve años pasa a ser faraón del Antiguo Egipto, cómo restaura la religión politeísta con Amón como dios principal. Sus batallas, su matrimonio, sus hijas, los misterios que rodearon su muerte y todos los detalles de los 5.398 objetos enterrados junto a él en la KV62 del Valle de los Reyes, que permanecieron ocultos hasta noviembre de 1922.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Autografía</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419445001</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Edgar Ochoa García&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-23T10:00:41.927541+00:00"/>
+        <meta name="calibre:title_sort" content="Tutankamón: Faraón nacido para ser leyenda"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2799</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abed0bc4-b6e7-4c1d-a3f9-a955537c63aa</dc:identifier>
+        <dc:title>La calle del delito</dc:title>
+        <dc:creator opf:file-as="London, Kate" opf:role="aut">Kate London</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un joven adolescente es brutalmente asesinado en una oscura calle de Londres y el único testigo del crimen huye de la escena. La inspectora Sarah Collins es la encargada de llevar a cabo la investigación. &lt;/p&gt;
+&lt;p&gt;Pero su investigación amenaza el trabajo policial que el detective Kieran Shaw está poniendo en marcha para desmantelar una peligrosa banda criminal y no lo puede permitir. La agente Lizzie Griffiths forma parte de esta operación encubierta mientras enfrenta el desafío de ser madre soltera y de reencontrarse con Shaw. Todo es demasiado para ella, su vida ha llegado a una encrucijada en la que debe decidir entre su carrera y su maternidad.&lt;/p&gt;
+&lt;p&gt;Sarah y Lizzie son dos mujeres muy diferentes en un mundo de hombres. Luchan por el mismo ideal mientras lidian con la política interna de la policía. Las dos saben que deben encontrar al asesino sin poner en riesgo la Operación Perseo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Motus</dc:publisher>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-16T07:08:27.848500+00:00"/>
+        <meta name="calibre:title_sort" content="calle del delito, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

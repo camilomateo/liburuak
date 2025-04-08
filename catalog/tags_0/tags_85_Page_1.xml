@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tecnología</title>
+  <id>Calibre2opds:taglist:T:85</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_85_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Tecnología" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por T" />
+  <entry>
+    <title>El joven Steve Jobs</title>
+    <id>calibre:book:2643</id>
+    <updated>2024-10-21T04:27:27Z</updated>
+    <link href="../../Juan%20Brines/El%20joven%20Steve%20Jobs%20%282643%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Brines/El%20joven%20Steve%20Jobs%20%282643%29/El%20joven%20Steve%20Jobs%20-%20Juan%20Brines.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="354 KB" />
+    <author>
+      <name>Juan Brines</name>
+      <uri>../authors_1/authors_1738_Page_1.xml</uri>
+    </author>
+    <published>2021-05-08T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="memorias" />
+    <category term="Tecnología" />
+    <category term="Lang:es" />
+    <summary>“Solo aquellos que están tan locos para creer que pueden cambiar el mundo son quienes terminan por transformarlo.” Steve Jobs "La mejor novela sobre la vida de Steve Jobs, desde su nacimiento hasta la fundación de Apple." Karola Zárate, Economista y ...</summary>
+    <link href="../book_2/book_2643.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sabiduría empresarial de Steve Jobs</title>
+    <id>calibre:book:2644</id>
+    <updated>2024-10-21T04:27:28Z</updated>
+    <link href="../../Steve%20Jobs/La%20sabiduria%20empresarial%20de%20Steve%20J%20%282644%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Steve%20Jobs/La%20sabiduria%20empresarial%20de%20Steve%20J%20%282644%29/La%20sabiduria%20empresarial%20de%20Ste%20-%20Steve%20Jobs.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="373 KB" />
+    <author>
+      <name>Steve Jobs</name>
+      <uri>../authors_1/authors_1739_Page_1.xml</uri>
+    </author>
+    <published>2012-04-20T11:23:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Ciencias sociales" />
+    <category term="Divulgación" />
+    <category term="memorias" />
+    <category term="Tecnología" />
+    <category term="Lang:es" />
+    <summary>Edición de Alan Ken Thomas**&amp;#160; Steve Jobs, padre y fundador de Apple, ha sido uno de los emprendedores más innovadores y visionarios de su generación. Si bien siempre ha habido división de opiniones respecto a su persona, nadie puede negar que te...</summary>
+    <link href="../book_2/book_2644.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Steve Jobs</title>
+    <id>calibre:book:1066</id>
+    <updated>2023-11-05T04:16:30Z</updated>
+    <link href="../../Walter%20Isaacson/Steve%20Jobs%20%281066%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Walter%20Isaacson/Steve%20Jobs%20%281066%29/Steve%20Jobs%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Walter Isaacson</name>
+      <uri>../authors_0/authors_779_Page_1.xml</uri>
+    </author>
+    <published>2011-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBATE</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="memorias" />
+    <category term="Tecnología" />
+    <category term="Lang:es" />
+    <summary>La muerte de Steve Jobs conmocionó al mundo. Tras entrevistarlo en más de cuarenta ocasiones en sus últimos dos años de vida, además de a un centenar de personas de su entorno, familiares, amigos, adversarios y colegas, Walter Isaacson nos presenta l...</summary>
+    <link href="../book_1/book_1066.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Steve Jobs &amp; Apple</title>
+    <id>calibre:book:2646</id>
+    <updated>2024-10-21T04:27:28Z</updated>
+    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/Steve%20Jobs%20%26%20Apple%20-%20Michael%20Moritz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="789 KB" />
+    <author>
+      <name>Michael Moritz</name>
+      <uri>../authors_1/authors_1740_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="memorias" />
+    <category term="Tecnología" />
+    <category term="Lang:es" />
+    <summary>La historia de Apple es en realidad la historia de Steve Jobs, líder carismático y con una capacidad extraordinaria para gestionar talentos y materializar su visión: productos innovadores, de extrema complejidad y de gran belleza. «Steve Jobs &amp; Apple...</summary>
+    <link href="../book_2/book_2646.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

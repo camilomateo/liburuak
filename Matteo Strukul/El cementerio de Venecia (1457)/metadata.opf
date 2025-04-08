@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1457</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">968739fb-f010-48d6-8d7e-8c45593faa2f</dc:identifier>
+        <dc:title>El cementerio de Venecia</dc:title>
+        <dc:creator opf:file-as="Strukul, Matteo" opf:role="aut">Matteo Strukul</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-24T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una ciudad diezmada por la enfermedad y la corrupción. Una diabólica conspiración que amenaza con derrocar a la poderosa aristocracia veneciana. La nueva novela del autor de Los Médici. Venecia, 1725. Mientras una epidemia de viruela siembra de víctimas la ciudad, el cuerpo sin vida de una mujer perteneciente a una de las familias más ilustres aparece en las aguas del Rio dei Mendicanti. El pintor Canaletto es convocado en la sede de los inquisidores del Estado. Uno de sus cuadros más recientes representa una escena en el lugar exacto en el que ha aparecido el cadáver de la mujer, y hay quien sospecha de la implicación del artista en el crimen. El dux en persona le encarga la misión secreta de investigar el homicidio y la presencia de cierto noble en la escena del crimen. En sus pesquisas, Canaletto descubrirá una ciudad desconocida. ¿Qué secretos se ocultan en los palacios venecianos? ¿Qué verdades deberían permanecer sepultadas?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <meta name="calibre:timestamp" content="2024-04-30T14:46:08.668282+00:00"/>
+        <meta name="calibre:title_sort" content="cementerio de Venecia, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

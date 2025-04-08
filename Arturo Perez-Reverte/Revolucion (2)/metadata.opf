@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">885a54ca-e72f-4e5b-8b65-d08ff1f88ec9</dc:identifier>
+        <dc:title>Revolución</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-01T07:36:06+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;LA NUEVA NOVELA DE ARTURO PÉREZ-REVERTE,&lt;/span&gt;&lt;br&gt;&lt;span class="a-text-bold"&gt;UNO DE LOS LIBROS DEL AÑO SEGÚN &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;EL CORREO&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Un hombre, tres mujeres y una revolución. Un viaje al corazón humano y a la aventura.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;«La etapa creativa que está atravesando Arturo Pérez-Reverte resulta asombrosa. ¿[&lt;span class="a-text-italic"&gt;Revolución&lt;/span&gt; es] la mejor novela de Pérez-Reverte? Al menos y sin duda, una de las mejores».&lt;br&gt;&lt;span class="a-text-bold"&gt;Sergio Vila-Sanjuán, &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;La Vanguardia&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Ésta
+ es la historia de un hombre, tres mujeres, una revolución y un tesoro. 
+La revolución fue la de México en tiempos de Emiliano Zapata y Francisco
+ Villa. El tesoro fueron quince mil monedas de oro de a veinte pesos de 
+las denominadas maximilianos, robadas en un banco de Ciudad Juárez el 8 
+de mayo de 1911. El hombre se llamaba Martín Garret Ortizy era un joven 
+ingeniero de minas español. Todo empezó para él ese mismo día, cuando 
+desde su hotel oyó un primer disparo lejano. Salió a la calle para ver 
+qué ocurría y a partir de ese momento su vida cambió para siempre...&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;Revolución&lt;/span&gt;
+ es mucho más que una novela sobre los dramáticos acontecimientos que 
+sacudieron la república mexicana en el primer tercio del siglo XX. Es un
+ relato de iniciación y madurez a través del caos, la lucidez y la 
+violencia: el asombroso descubrimiento de las reglas ocultas que 
+determinan el amor, la lealtad, la muerte y la vida.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Arturo Pérez-Reverte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T20:06:20.603884+00:00"/>
+        <meta name="calibre:title_sort" content="Revolución"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

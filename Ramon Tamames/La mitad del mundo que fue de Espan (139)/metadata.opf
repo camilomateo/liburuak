@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24d4dcd6-5fe1-4cb5-a372-5570a66615dd</dc:identifier>
+        <dc:title>La mitad del mundo que fue de España</dc:title>
+        <dc:creator opf:file-as="Tamames, Ramón" opf:role="aut">Ramón Tamames</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-18T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;En otro tiempo España estuvo al frente de las naciones, en cuanto a títulos de posesión y conquista, en lo que geográficamente fue medio mundo. Eso no sucedió por casualidad: al término de ocho siglos de reconquista en la Península, los españoles llegaron al Nuevo Mundo (1492), cuya ulterior conquista y dominio no fue ningún milagro, sino un hecho histórico bien conocido pero no suficientemente valorado por propios y ajenos&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Los gestores de esa gran expansión fueron, en su mayoría, gente del pueblo que, más allá del oro y la gloria, buscaban emular a sus héroes de libros de caballería, dejando sus nombres para la Historia; generaciones asombrosas de navegantes, conquistadores, cristianizadores… que además no operaron con &lt;i&gt;pólvora del rey, &lt;/i&gt;sino con su propia financiación convenida en capitulaciones muy precisas.&lt;/p&gt;
+&lt;p&gt;España tuvo un proyecto de globalización histórica entre los siglos XVI y XVIII que alcanzó sus puntos álgidos en las Américas, así como en todo el inmenso Océano Pacífico (Molucas, Filipinas, Carolinas, Marianas, archipiélagos del Sur), que, durante muchas décadas, configuraron el llamado &lt;i&gt;Spanish Lake&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;Ese mismo Pacífico está hoy en disputa más que nunca, entre las dos superpotencias. Como en 1494, tendrán que ponerse de acuerdo –la idea de muchos politólogos—, con un nuevo tratado al modo de Tordesillas que, ciertamente, no debe dar paso no a una nueva hegemonía de riesgo planetario, sino a un mundo multipolar en busca de la paz perpetua.&lt;/p&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467062663</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ramón Tamames&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-19T07:55:11.334034+00:00"/>
+        <meta name="calibre:title_sort" content="mitad del mundo que fue de España, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

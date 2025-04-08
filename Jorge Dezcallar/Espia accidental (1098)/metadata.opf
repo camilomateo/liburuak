@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1098</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">067dec0f-750d-43e8-a9f6-18ed8dd456a6</dc:identifier>
+        <dc:title>Espía accidental</dc:title>
+        <dc:creator opf:file-as="Jorge Dezcallar" opf:role="aut">Jorge Dezcallar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-15T03:00:00+00:00</dc:date>
+        <dc:description>Asís está de vuelta en Damasco, la ciudad que le vio nacer, tras varios años pagando sus errores de juventud en la Legión Extranjera. Un agente del CNI le ha hecho una tentadora propuesta para trabajar con los servicios de inteligencia españoles, y eso le permite regresar a una Siria destrozada por la guerra y montar allí un negocio como tapadera de otras actividades. Pronto descubrirá que detrás está el Mossad, se verá envuelto en un embrollo que implica a varios países y se dará cuenta de que convertirse en espía, aunque sea por accidente, tiene un precio que tal vez no pueda pagar.
+
+
+Jorge Dezcallar se adentra por primera vez en el mundo de la ficción con esta novela en la que, quizá, todo parecido con la realidad no sea pura coincidencia.</dc:description>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788413841946</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09B2L847Z</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-12-28T14:38:22.002922+00:00"/>
+        <meta name="calibre:title_sort" content="Espía accidental"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

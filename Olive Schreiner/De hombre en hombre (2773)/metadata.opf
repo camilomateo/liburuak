@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2773</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45780cc4-dc1c-4bd3-8952-57bd9ed18878</dc:identifier>
+        <dc:title>De hombre en hombre</dc:title>
+        <dc:creator opf:file-as="Schreiner, Olive" opf:role="aut">Olive Schreiner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-07T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;En la Sudáfrica colonial del siglo XIX&lt;/strong&gt;, dos niñas blancas de origen inglés nacen y se crían en una granja. La hermana mayor se casa con un exitoso hombre de negocios, pero, dueña de un espíritu curioso y adelantado a su época, no dejará nunca de luchar por la igualdad en el matrimonio. La hermana menor, en cambio, tras sufrir abusos a los quince años por parte de su tutor, se verá condenada al ostracismo y buscará la manera de desaparecer de la faz de la tierra.&lt;/p&gt;
+&lt;p&gt;De hombre en hombre es una apasionante novela sobre el amor fraterno, el colonalismo y la subyugación de las mujeres en la sociedad victoriana. Su autora, Olive Schreiner, una de las escritoras más célebres de la Sudáfrica colonial de finales del siglo XIX y principios del XX, trabajó en ella durante más de cuarenta años, hasta su muerte en 1920. Además de ser conocida por sus novelas y crónicas sobre las costumbres sudafricanas, fue una pionera del feminismo y una gran reformadora social antirracista. Seis años después de su muerte, una versión inacabada de esta novela logró ver la luz. Casi un siglo después, el premio Nobel J.M. Coetzee redescubre este gran clásico, inédito hasta ahora en lengua española y, guiado por una profunda admiración por «el genio literario de Schreiner», decide editarlo y añadirle un final acorde a nuestros tiempos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-31T07:29:18.457305+00:00"/>
+        <meta name="calibre:title_sort" content="De hombre en hombre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

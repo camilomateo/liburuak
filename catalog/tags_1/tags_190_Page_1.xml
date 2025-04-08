@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Domestic</title>
+  <id>Calibre2opds:taglist:D:190</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_190_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Domestic" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por D" />
+  <entry>
+    <title>Little Women</title>
+    <id>calibre:book:2069</id>
+    <updated>2024-09-06T02:09:07Z</updated>
+    <link href="../../Louisa%20May%20Alcott/Little%20Women%20%282069%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Louisa%20May%20Alcott/Little%20Women%20%282069%29/Little%20Women%20-%20Louisa%20May%20Alcott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="517 KB" />
+    <author>
+      <name>Louisa May Alcott</name>
+      <uri>../authors_1/authors_1467_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Autobiographical" />
+    <category term="Fiction" />
+    <category term="Young" />
+    <category term="Women" />
+    <category term="--" />
+    <category term="Sisters" />
+    <category term="Domestic" />
+    <category term="Family" />
+    <category term="Life" />
+    <category term="New" />
+    <category term="England" />
+    <category term="Bildungsromans" />
+    <category term="Mothers" />
+    <category term="and" />
+    <category term="daughters" />
+    <category term="March" />
+    <category term="(Fictitious" />
+    <category term="characters)" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [278]:</summary>
+    <link href="../book_2/book_2069.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pride and Prejudice</title>
+    <id>calibre:book:2073</id>
+    <updated>2024-09-06T02:09:08Z</updated>
+    <link href="../../Jane%20Austen/Pride%20and%20Prejudice%20%282073%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jane%20Austen/Pride%20and%20Prejudice%20%282073%29/Pride%20and%20Prejudice%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="379 KB" />
+    <author>
+      <name>Jane Austen</name>
+      <uri>../authors_1/authors_1484_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="England" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Young" />
+    <category term="Women" />
+    <category term="Love" />
+    <category term="Stories" />
+    <category term="Sisters" />
+    <category term="Domestic" />
+    <category term="Courtship" />
+    <category term="Social" />
+    <category term="classes" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [282]:</summary>
+    <link href="../book_2/book_2073.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Imperialist</title>
+    <id>calibre:book:2507</id>
+    <updated>2024-09-09T10:34:45Z</updated>
+    <link href="../../Sara%20Jeannette%20Duncan/The%20Imperialist%20%282507%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sara%20Jeannette%20Duncan/The%20Imperialist%20%282507%29/The%20Imperialist%20-%20Sara%20Jeannette%20Duncan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="325 KB" />
+    <author>
+      <name>Sara Jeannette Duncan</name>
+      <uri>../authors_1/authors_1662_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Autobiographical" />
+    <category term="Fiction" />
+    <category term="Imperialism" />
+    <category term="--" />
+    <category term="Domestic" />
+    <category term="Political" />
+    <category term="Ontario" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2507.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Mill on the Floss</title>
+    <id>calibre:book:2536</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../George%20Eliot/The%20Mill%20on%20the%20Floss%20%282536%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20Eliot/The%20Mill%20on%20the%20Floss%20%282536%29/The%20Mill%20on%20the%20Floss%20-%20George%20Eliot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="577 KB" />
+    <author>
+      <name>George Eliot</name>
+      <uri>../authors_1/authors_1677_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="England" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Psychological" />
+    <category term="Young" />
+    <category term="Women" />
+    <category term="Love" />
+    <category term="Stories" />
+    <category term="Domestic" />
+    <category term="Siblings" />
+    <category term="Conflict" />
+    <category term="of" />
+    <category term="generations" />
+    <category term="Vendetta" />
+    <category term="Loss" />
+    <category term="(Psychology)" />
+    <category term="Water" />
+    <category term="mills" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2536.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

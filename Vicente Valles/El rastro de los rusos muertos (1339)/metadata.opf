@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1eecc1c-f0cd-4db2-86e8-ba84d3437d9b</dc:identifier>
+        <dc:title>El rastro de los rusos muertos</dc:title>
+        <dc:creator opf:file-as="Vallés, Vicente" opf:role="aut">Vicente Vallés</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-07T23:00:00+00:00</dc:date>
+        <dc:description>A través de una intrigante cadena de asesinatos y muertes inexplicadas de espías y diplomáticos rusos por todo el mundo, Vicente Vallés nos sumerge en un relato tan trepidante como real. ¿Intenta Rusia desestabilizar y provocar situaciones de crisis para conquistar a la opinión pública occidental? ¿Es Donald Trump presidente de Estados Unidos gracias a la interferencia de Vladímir Putin? ¿Son los mafiosos que se instalaron en la costa española una correa de transmisión del Kremlin? ¿Han manipulado los servicios secretos rusos a las sociedades democráticas para condicionar procesos electorales en Francia, Países Bajos, Alemania, España o Italia? Quizá nada de esto haya ocurrido, pero el poder de la Rusia de Putin reside en que todos creen que sí ha ocurrido. El antiguo agente del KGB es hoy el espía que domina el mundo. Porque las guerras ya no se ganan en los campos de batalla, sino en internet y en las redes sociales.</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Ciencias sociales</dc:subject>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:32.384504+00:00"/>
+        <meta name="calibre:title_sort" content="rastro de los rusos muertos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

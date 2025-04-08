@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">409322f8-5408-4471-9ade-3abe05c73ebb</dc:identifier>
+        <dc:title>Marismas</dc:title>
+        <dc:creator opf:file-as="Roger, Beatriz &amp; Soldevila, Luiso" opf:role="aut">Beatriz Roger</dc:creator>
+        <dc:creator opf:file-as="Roger, Beatriz &amp; Soldevila, Luiso" opf:role="aut">Luiso Soldevila</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-12T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;Una
+ tarde, a pocos días de Navidad, la pequeña Bashira desaparece sin dejar
+ rastro en los jardines de un hostal en las marismas del río Ter. 
+Mientras el comisario Narváez y su equipo se movilizan para encontrar 
+cualquier rastro de la niña, el detective Nico Ros, que ha llegado a 
+Llafranc para pasar las fiestas en familia, es contratado para reforzar 
+la investigación por Jamal Daher, conocido narcotraficante de la zona y 
+amigo de la infancia de Nico.&lt;br&gt;&lt;span class="a-text-bold"&gt;Las 
+inclemencias del clima invernal, el complicado paisaje y los secretos y 
+mentiras de los habitantes de las marismas complican una búsqueda contra
+ reloj, pues cada hora que pasa disminuyen las esperanzas de encontrar a
+ Bashira con vida. En las ciénagas del Ter nada ni nadie es lo que 
+parece.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:46.416686+00:00"/>
+        <meta name="calibre:title_sort" content="Marismas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

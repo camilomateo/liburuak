@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1869</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0978775-f40b-4c5e-bd37-b46bf8fc9ee5</dc:identifier>
+        <dc:title>El sexo y el fracaso del absoluto</dc:title>
+        <dc:creator opf:file-as="Žižek, Slavoj" opf:role="aut">Slavoj Žižek</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-18T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Para delimitar el nuevo materialismo, Žižek critica y desafía no solo el trabajo de Alain Badiou, Robert Brandom, Joan Copjec, Quentin Meillassoux y Julia Kristeva (por nombrar solo algunos), sino también toda una ristra de conceptos desde la ciencia popular y la mecánica cuántica hasta las diferencias sexuales y la filosofía analítica. Žižek da vida a la tríada hegeliana de la noción de esencia-ser. Aporta nuevas lecturas radicales de Hegel y Kant junto con apuntes hilarantes sobre cine, política y cultura popular. Descubrimos en esta obra al Žižek más provocador y disruptivo hasta la fecha.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Paidós</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:40+00:00"/>
+        <meta name="calibre:title_sort" content="sexo y el fracaso del absoluto, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">871</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9538c658-8d0e-414e-8c0c-39fe6cf36e42</dc:identifier>
+        <dc:title>No te despiertes</dc:title>
+        <dc:creator opf:file-as="Lawler, Liz" opf:role="aut">Liz Lawler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Lo peor no es lo que te ha sucedido, lo peor es que nadie te cree&lt;br&gt;Cuando Alex Taylor abre los ojos, se da cuenta de que está tumbada en una mesa de operaciones. No recuerda nada, así que está segura de que debe tratarse de un accidente. Por suerte, es doctora y le tranquiliza saber que pronto sus compañeros la ayudarán a reconstruir lo sucedido. Solo hay un problema: la persona que se encuentra frente a ella no es un médico y la obliga a tomar una decisión aterradora. Cuando se despierta de nuevo, se encuentra a salvo pero muy confundida. A medida que van surgiendo los primeros recuerdos de lo ocurrido, Alex decide contarlo. Pero nadie está dispuesto a creerla. Le dicen que todo es fruto de su imaginación, una pesadilla consecuencia de un accidente. Marginada por sus compañeros, su familia y su pareja, Alex está a punto de aceptar que ha per¬dido la cabeza por completo… Hasta que conoce a otra víctima.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Newton Compton Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-19T15:31:24.152733+00:00"/>
+        <meta name="calibre:title_sort" content="No te despiertes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

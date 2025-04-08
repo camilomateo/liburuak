@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">583</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05beb503-cc5b-4212-960c-27a45975575f</dc:identifier>
+        <dc:title>El antropoceno. Una breve introducción</dc:title>
+        <dc:creator opf:file-as="Ellis, Erle C." opf:role="aut">Erle C. Ellis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-18T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;El presente volumen aborda de una forma global, documentada y 
+actual el impacto que las actividades humanas -y muy especialmente a lo 
+largo de los dos últimos siglos- vienen dejando en el planeta Tierra en 
+su conjunto, un impacto cuya huella en su superficie ha dado lugar a lo 
+que puede considerarse una nueva era geológica: el Antropoceno. Asentado
+ en una sólida base científica, Erle C. Ellis traza de forma sumamente 
+interesante y multidisciplinar (desde la biología a la economía, pasando
+ por la geología, la química, la gestión ambiental, la agricultura, la 
+arqueología...) la historia de este proceso ya irreversible, a fin de 
+plantear las posibles alternativas que se ofrecen a la especie humana 
+para afrontarlo, sin rehuir tampoco, alejándose del radicalismo y de 
+dogmas ideológicos, los aspectos filosóficos y políticos que lleva 
+aparejados.&lt;/p&gt;</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-28T11:16:50.802784+00:00"/>
+        <meta name="calibre:title_sort" content="antropoceno. Una breve introducción, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

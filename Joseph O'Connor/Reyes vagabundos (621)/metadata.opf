@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">621</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abf8137d-7a0b-4b85-a413-3db7e5b8f286</dc:identifier>
+        <dc:title>Reyes vagabundos</dc:title>
+        <dc:creator opf:file-as="Joseph O’Connor" opf:role="aut">Joseph O’Connor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-02T17:00:56+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Este es el testimonio de cómo nace y muere 
+un grupo de rock: la historia de la esperanza ciega que lo alumbra y de 
+las ambiciones que lo condenan. Una novela de una profundidad y una 
+gracia deslumbrantes, de un conocimiento musical enciclopédico y una 
+comprensión profunda y conmovedora del alma humana.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Luton,
+ 1982. La música pop obsesiona a una generación, y el joven irlandés 
+Robbie Goulding conoce a tres personas que le cambiarán la vida. Fran 
+Mulvey es un chaval vietnamita que lleva dentro a Bowie, Dylan, Mercury,
+ Lennon y Patti Smith. Sarah-Thérèse Sherlock, futura música del año de 
+la &lt;span class="a-text-italic"&gt;Rolling Stone&lt;/span&gt;, es la 
+única que viste el look Madonna mejor que la propia Madonna. Seán, su 
+hermano mellizo, aprendió a tocar la batería en el reformatorio. Juntos 
+forman los Ships in the Night, un grupo que bebe del New Wave y el ska, 
+de Mahler y del blues, y que salta a la fama sin paracaídas. Música y 
+amistad, ambición y traiciones se funden en una sinfonía atronadora 
+hasta que, de repente, se hace el silencio. Londres, 2012. Ya olvidado 
+por las listas de éxitos, Robbie escribe sus memorias. Su historia es la
+ de aquellos que lo han tenido todo y no han tenido nada; los que saben 
+lo cerca que está la vida de la muerte; los que han sido a la vez reyes y
+ vagabundos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Impedimenta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph O’Connor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42.136141+00:00"/>
+        <meta name="calibre:title_sort" content="Reyes vagabundos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

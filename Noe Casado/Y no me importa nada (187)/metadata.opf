@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edc0bafa-122e-47a7-96c3-714f7d70f646</dc:identifier>
+        <dc:title>Y no me importa nada</dc:title>
+        <dc:creator opf:file-as="Casado, Noe" opf:role="aut">Noe Casado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-10T12:25:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Mi relación con Ezra fue igual que un cóctel de frutos secos: 
+cuando abres la bolsa, te prometes a ti misma que te comerás únicamente 
+lo que te gusta y tirarás a la basura esos garbanzos tan duros que solo 
+meten para rellenar. Aunque al final te sorprendes, pues acabas con 
+todo, con lo bueno y con lo malo.&lt;br&gt;&lt;br&gt;Del mismo modo acepté a Ezra, un hombre que representaba cuanto yo aborrecía y que, además, se jactaba de ello.&lt;br&gt;&lt;br&gt;Pasé
+ por alto las señales e hice oídos sordos a sus advertencias de que no 
+era tan solo el típico malote que fumaba a escondidas en el instituto, 
+robaba en los supermercados o falsificaba las notas.&lt;br&gt;&lt;br&gt;Ezra hacía 
+mucho daño a quienes él decidía, en especial a las mujeres. No le 
+temblaba el pulso para mantener su posición dentro de ese mundo sórdido 
+en que estaba instalado.&lt;br&gt;&lt;br&gt;Yo fui testigo de ello.&lt;br&gt;&lt;br&gt;Intenté huir.&lt;br&gt;&lt;br&gt;Y a punto estuve de lograrlo.&lt;br&gt;&lt;br&gt;Sin embargo, debería haberme alejado antes.&lt;/div&gt;</dc:description>
+        <dc:publisher>Esencia</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Erótica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Noe Casado&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Ice Star"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:18.769761+00:00"/>
+        <meta name="calibre:title_sort" content="Y no me importa nada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

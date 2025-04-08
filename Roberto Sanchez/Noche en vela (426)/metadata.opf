@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa32839c-5ae7-420f-a06d-1c68558fb387</dc:identifier>
+        <dc:title>Noche en vela</dc:title>
+        <dc:creator opf:file-as="Sánchez, Roberto" opf:role="aut">Roberto Sánchez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-10T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;A caballo entre la novela negra clásica y el thriller más actual,&lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;Noche en vela&lt;/span&gt;&lt;span class="a-text-bold"&gt;
+ es una emocionante historia plagada de sorpresas. Gracias a su 
+conocimiento íntimo del mundo de la radio, Roberto Sánchez, director del
+ programa&lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt; Si amanece nos vamos&lt;/span&gt;&lt;span class="a-text-bold"&gt;en Cadena SER&lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;,&lt;/span&gt;&lt;span class="a-text-bold"&gt; ha construido una trama de suspense magistral que se quedará grabada en la memoria de los lectores.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;La
+ desaparición de Tomás Luzón, un actor que gozó de cierta fama en 
+España, coincide con el asesinato de la actriz Cristina Corral. Ambos 
+compartieron una historia de amor, por lo que Tomás se convierte en el 
+principal sospechoso de su muerte.&lt;/p&gt;&lt;p&gt;Años después, 
+Luzón ha reunido pruebas que demuestran quién es el verdaderoasesino. 
+Pero para revelarlo y vengarse se reserva una jugadamaestra: llamar a un
+ programa nocturno de radio,&lt;span class="a-text-italic"&gt; Noche en vela,&lt;/span&gt;
+ ycontaren directo lo que realmente sucedió la noche del crimen. 
+¿Conseguirá demostrar su inocencia antes de que sea demasiado tarde?&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401029882</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Roberto Sánchez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-14T15:53:27.803277+00:00"/>
+        <meta name="calibre:title_sort" content="Noche en vela"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

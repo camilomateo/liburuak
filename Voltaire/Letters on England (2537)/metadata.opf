@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2537</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a7c24be-704d-4327-938d-7e1ff35732d9</dc:identifier>
+        <dc:title>Letters on England</dc:title>
+        <dc:creator opf:file-as="Voltaire" opf:role="aut">Voltaire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>18th</dc:subject>
+        <dc:subject>Century</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Great</dc:subject>
+        <dc:subject>Britain</dc:subject>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Imaginary</dc:subject>
+        <dc:subject>Letters</dc:subject>
+        <dc:subject>Intellectual</dc:subject>
+        <dc:subject>Life</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:52+00:00"/>
+        <meta name="calibre:title_sort" content="Letters on England"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">952</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b101f1f-a587-45b5-9a94-36efa8ba7853</dc:identifier>
+        <dc:title>Masada</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-30T06:00:00+00:00</dc:date>
+        <dc:description>Con esta novela-testimonio, J. J. Benítez completa el famoso diario del mayor norteamericano que «saltó» a los tiempos de Jesús de Nazaret. Si en Jerusalén. Caballo de Troya 1 se afirmaba que los evangelistas no habían contado la verdad sobre el Nazareno, en esta nueva obra vuelve a demostrarse. Y J. J. Benítez lo hace en otros dos oscuros y fascinantes capítulos de la vida de Cristo: sus apariciones después de muerto y su infancia. Conozca cómo se preparó este segundo «traslado» a la Palestina del año 30. Sepa también «algo» que el mundo ha ignorado: el diabólico plan ruso-norteamericano Rapto de Europa. En cuanto a los descubrimientos de Jasón en esta segunda «exploración», he aquí algunos de los que desvela Masada. Caballo de Troya 2: ¿sabía usted, por ejemplo, que en la llamada «última cena» muchas de las palabras del Galileo fueron manipuladas e ignoradas por los sucesores de san Pedro? ¿Sabía que las apariciones del Maestro después de su resurrección fueron más numerosas que...</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408004639</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Caballo de Troya"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-07-14T07:58:18.116492+00:00"/>
+        <meta name="calibre:title_sort" content="Masada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5ff0e7b-9867-4939-a51d-a4cbfecf660e</dc:identifier>
+        <dc:title>Todo saldrá bien... a veces</dc:title>
+        <dc:creator opf:file-as="Merino, René" opf:role="aut">René Merino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-25T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;Con la sensibilidad y lucidez tan propias de su lenguaje, &lt;span class="a-text-bold"&gt;René Merino&lt;/span&gt;
+ decide compartir su historia personal lidiando con la ansiedad y los 
+problemas de salud mental. Tras una época de angustia desencadenada por 
+la pérdida de trabajo, el autor entra en una espiral de síntomas 
+(ansiedad, insomnio, ataques de pánico…) que le condicionan hasta el 
+punto de no poder seguir con su rutina habitual: &lt;span class="a-text-bold"&gt;uno de esos momentos en la vida en los que alguien «se rompe».&lt;/span&gt;
+ René lucha contra su enfermedad y sus prejuicios hasta que al fin busca
+ ayuda profesional… y empieza a remontar. Al hacerlo, nos abre los ojos 
+sobre nuestras propias ideas preconcebidas y nos hace partícipes de &lt;span class="a-text-bold"&gt;un emotivo viaje hacia la sanación&lt;/span&gt; en el que muchos nos veremos reflejados.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Comic</dc:subject>
+        <meta name="calibre:timestamp" content="2023-01-17T21:06:50+00:00"/>
+        <meta name="calibre:title_sort" content="Todo saldrá bien... a veces"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

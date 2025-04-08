@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1831</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc64788f-d782-42a6-a968-019205312829</dc:identifier>
+        <dc:title>El mapa de un mundo nuevo</dc:title>
+        <dc:creator opf:file-as="Zueco, Luis" opf:role="aut">Luis Zueco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;PRIMERO CONQUISTÓ LA CORONA. DESPUÉS CONQUISTÓ EL MUNDO. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Tras el éxito de El tablero de la reina, Luis Zueco nos sumerge de nuevo en un periodo clave de la historia de España, el final del reinado de Isabel la Católica.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;MÁS DE 300.000 EJEMPLARES VENDIDOS. &lt;/p&gt;
+&lt;p&gt;Año 1496. Tras conseguir la unión de Castilla y Aragón, conquistar Granada y las Islas Canarias, Isabel la Católica se encuentra en los años finales de su vida, pero también en los que ostenta más poder. Un poder y un legado que no está dispuesta a perder, ni siquiera después su muerte.&lt;/p&gt;
+&lt;p&gt;Esta novela narra los años que cambiaron para siempre el curso de la historia. Cuando cada barco que regresaba a puerto podía transformar el mundo, un mapa se convertía en el bien más preciado de una corona y las hazañas de un viajero eran capaces de incendiar un imperio.&lt;/p&gt;
+&lt;p&gt;LEER A LUIS ZUECO ES VIAJAR EN EL TIEMPO.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-30T12:04:05.173370+00:00"/>
+        <meta name="calibre:title_sort" content="mapa de un mundo nuevo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

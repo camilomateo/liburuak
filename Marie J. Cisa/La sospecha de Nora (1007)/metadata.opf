@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1007</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d8cc2a2-fc36-4d39-a1d9-b376a70fc2bc</dc:identifier>
+        <dc:title>La sospecha de Nora</dc:title>
+        <dc:creator opf:file-as="Cisa, Marie J." opf:role="aut">Marie J. Cisa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-15T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Nora tiene una apacible vida. Su existencia se resume en ocuparse de su casa, cuidar de su único hijo, mantener un matrimonio tranquilo y hacer reseñas de las novelas de suspenso que tanto le gustan.&lt;br&gt;La vida pasa por su lado y ella se mantiene al margen de todas las decisiones, incluso de las que la involucran directamente. Sin embargo, los últimos acontecimientos hacen que muchas cosas empiecen a cobrar sentido frente a sus ojos.&lt;br&gt;Todo comenzó con una llamada al teléfono de su hijo, la noche que desapareció Ruby Morris, convirtiéndolo en el único sospechoso de su muerte.&lt;br&gt;Sin embargo, no eran amigos y no tenían nada en común.&lt;br&gt;Ante lo extraño de la situación, las autoridades insisten en que todo fue un lamentable accidente, a excepción de la inspectora Eva Guzmán. Una policía con métodos poco convencionales, que sabe de primera mano que las apariencias engañan y que las verdades comienzan a salir con solo mover algunas piezas del juego.&lt;br&gt;&lt;br&gt;Una madre que quiere llegar a la verdad, sin importar las consecuencias.&lt;br&gt;Una detective que se resiste a creer que todo fue un accidente.&lt;br&gt;Y un secreto que muchos quieren esconder.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-27T13:18:58.259538+00:00"/>
+        <meta name="calibre:title_sort" content="sospecha de Nora, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8165727d-4231-401b-8117-cd4454b4f4ac</dc:identifier>
+        <dc:title>Sana tus heridas en pareja</dc:title>
+        <dc:creator opf:file-as="Orihuela, Anamar" opf:role="aut">Anamar Orihuela</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;¿Por qué atraigo siempre al mismo tipo de pareja? &lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;¿Cómo doy y recibo amor? &lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;¿Construyo un amor compañero y positivo, o amo desde el hambre y la carencia? &lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;¿Por qué el amor puede desaparecer de un minuto a otro?&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Muchos de nosotros crecimos observando y entendiendo el &lt;B&gt;amor &lt;/B&gt;desde lugares muy &lt;B&gt;equivocados&lt;/B&gt;. Tuvimos como referencia a nuestros padres, nuestros abuelos y personas importantes de nuestra vida que nos dijeron qué podíamos esperar del amor y cómo amar y ser amados, pero nadie nos dio un &lt;B&gt;ejemplo sano de cómo construir un amor compañero, un amor sanador.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;En este indispensable libro para las parejas actuales, Anamar nos confirma que para construir una pareja sana se requiere &lt;B&gt;trabajo personal, buena voluntad y deseos de una comunicación sincera.&lt;/B&gt; Y aunque muchas de las situaciones querodean la relación de pareja no son muy claras -nuestros modelos familiares, nuestras heridas, nuestras...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial México</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073168366</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-23T08:41:58.644409+00:00"/>
+        <meta name="calibre:title_sort" content="Sana tus heridas en pareja"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

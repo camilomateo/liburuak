@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dfb99bfa-7239-4f3a-8a18-04c878cab384</dc:identifier>
+        <dc:title>Los treinta apellidos</dc:title>
+        <dc:creator opf:file-as="Prado, Benjamín" opf:role="aut">Benjamín Prado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;¿Llevar un apellido ilustre te obliga a defenderlo por encima, incluso, de tus ideas?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;JuanUrbano,profesorde literatura,escritorpor encargo y detectiveocasional, protagonista también de las novelas &lt;span class="a-text-italic"&gt;Mala gente quecamina&lt;/span&gt;, &lt;span class="a-text-italic"&gt;Operación Gladio&lt;/span&gt; y &lt;span class="a-text-italic"&gt;Ajuste de cuentas&lt;/span&gt;,
+ es contratado inesperadamente por un hombre perteneciente a 
+unafamiliadedicada durante generaciones a los negocios -no siempre 
+limpios ni confesables, y en cierta época no solo de bienes sino 
+tambiénde personas- para localizar a los descendientes de una hija 
+secreta de su bisabuelo. En su investigación, Urbanodebesortear la 
+resistencia de los otros miembros del clan, que no están dispuestos a 
+compartir su imperio con una nueva heredera.&lt;/p&gt;&lt;p&gt;Este es 
+el comienzo de una oscura trama que se desplaza de España a Cuba y de 
+ahí a África, y descubre al lector cómo se crearon algunasde las grandes
+ fortunasenEspaña, de dónde procede el dinero que las hizo tan poderosas
+ y qué intentan esconder sus miembros para preservar sus intereses.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07BNR4LRR</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Benjamín Prado&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42.020986+00:00"/>
+        <meta name="calibre:title_sort" content="treinta apellidos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

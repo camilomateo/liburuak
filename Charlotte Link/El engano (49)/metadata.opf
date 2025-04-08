@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80f18695-f974-4955-aa09-5edffd604125</dc:identifier>
+        <dc:title>El engaño</dc:title>
+        <dc:creator opf:file-as="Link, Charlotte" opf:role="aut">Charlotte Link</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-02T05:00:00+00:00</dc:date>
+        <dc:description>Para Kate Linville, solitaria policía de Scotland Yard, solo hay una persona en el mundo que merezca su amor y su confianza: el antiguo jefe de policía de Scarborough Richard Linville, su padre, a cuya sombra creció. Cuando este aparece brutalmente asesinado en su casa, ella pierde su último apoyo. Kate abandona Londres para regresar a su hogar con el objetivo de seguir de cerca el caso. El inspector encargado de la investigación, Caleb Hale, no le inspira demasiada confianza. Parece más interesado en buscar respuestas fáciles que en averiguar la verdad. Y Kate presiente que el caso de su padre es mucho más complejo de lo que cree la policía. A medida que Kate avance en sus pesquisas, el pasado de su padre irá saliendo a la luz demostrando que nada tiene que ver con el hombre a quien ella creía conocer. ¿Quién era realmente Richard Linville? ¿Qué escondía? ¿Quién quería verlo muerto?</dc:description>
+        <dc:publisher>DEBOLS!LLO</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte Link&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:27:37.733911+00:00"/>
+        <meta name="calibre:title_sort" content="engaño, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

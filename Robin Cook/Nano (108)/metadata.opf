@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b895422-4279-4b87-9a60-b92869a516d5</dc:identifier>
+        <dc:title>Nano</dc:title>
+        <dc:creator opf:file-as="Cook, Robin" opf:role="aut">Robin Cook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Tras una experiencia traumática, Pia Grazdani ha decidido abandonar los estudios de medicina y dedicarse por completo a la investigación. Ahora trabaja en Nano, un instituto de nanotecnología enclavado en las montañas de Colorado y custodiado como una fortaleza. Nano pertenece al competitivo mundo de la producción molecular y su proyecto estrella es la fabricación de microrrobots capaces de devorar virus y bacterias. Un día, Pia sale a correr y se encuentra con un desconocido que se ha desmayado mientras hacía ciclismo. El hombre, de rasgos asiáticos, está inconsciente y lleva ropa con el logo de Nano, por lo que ella deduce que debe de ser también empleado de la compañía. Pia llama enseguida a una ambulancia, y comprueba que el hombre no respira y que su corazón no late. Sin embargo, incluso antes de que llegue la ambulancia, el desconocido empieza a recuperarse y a hablar. Ella no entiende sus palabras, pero tiene claro que está aterrorizado. ¿Cómo se explica esta milagrosa recuperación? ¿Y qué relación guarda este ciclista con las investigaciones del Instituto Nano? A pesar de sus recientes malas experiencias, Pia no dudará en ponerse a investigar este misterioso incidente.</dc:description>
+        <dc:identifier opf:scheme="EPL">20786</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robin Cook&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:25.040728+00:00"/>
+        <meta name="calibre:title_sort" content="Nano"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">535</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ff2f1a1-ef47-4911-99d3-368448994a9f</dc:identifier>
+        <dc:title>La reina roja</dc:title>
+        <dc:creator opf:file-as="Gómez-Jurado, Juan" opf:role="aut">Juan Gómez-Jurado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="color: rgb(51, 51, 51); font-family: arial; font-size: 12px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Antonia Scott es una mujer muy especial. Tiene un don que es al mismo tiempo una maldición: una extraordinaria inteligencia. Gracias a ella ha salvado decenas de vidas, pero también lo ha perdido todo. Hoy se parapeta contra el mundo en su piso casi vacío de Lavapiés, del que no piensa volver a salir. Ya no queda nada ahí fuera que le interese lo más mínimo.&lt;/span&gt;&lt;br style="color: rgb(51, 51, 51); font-family: arial; font-size: 12px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="color: rgb(51, 51, 51); font-family: arial; font-size: 12px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;El inspector Jon Gutiérrez está acusado de corrupción, suspendido de empleo y sueldo. Es un buen policía metido en un asunto muy feo, y ya no tiene mucho que perder. Por eso acepta la propuesta de un misterioso desconocido: ir a buscar a Antonia y sacarla de su encierro, conseguir que vuelva a hacer lo que fuera que hiciera antes, y el desconocido le ayudará a limpiar su nombre. Un encargo extraño aunque aparentemente fácil.&lt;/span&gt;&lt;br style="color: rgb(51, 51, 51); font-family: arial; font-size: 12px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="color: rgb(51, 51, 51); font-family: arial; font-size: 12px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Pero Jon se dará cuenta en seguida de que con Antonia nada es fácil.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Juan Gómez-Jurado&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Antonia Scott"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:40:15.055324+00:00"/>
+        <meta name="calibre:title_sort" content="reina roja, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

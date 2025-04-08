@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2650</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36324374-f8b5-4b4b-a2f8-1e0a6afc89f8</dc:identifier>
+        <dc:title>Todo sobre Stephen King</dc:title>
+        <dc:creator opf:file-as="Ariel Bosi" opf:role="aut">Ariel Bosi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-31T22:00:00+00:00</dc:date>
+        <dc:description>¿Sabías que Stephen King repitió curso cuando era niño? ¿O que su primer empleo fue en una gasolinera? ¿Habías oído alguna vez que solo cobró un dólar como anticipo por su novela &lt;i&gt;Christine&lt;/i&gt; para que la editorial pudiese invertir dinero en autores noveles?&lt;/p&gt; &lt;p&gt;«Todo sobre Stephen King» nos descubre a uno de los autores más prolíficos y de mayor éxito de nuestro tiempo. Una obra llena de curiosidades y material inédito, imprescindible para entender el mundo del escritor que popularizó la pasión por la lectura: los primeros relatos que escribió de niño; sus poesías y novelas inacabadas; el viejo ejemplar de Lovecraft que marcó su vida; los objetos más buscados por los coleccionistas; el simbolismo de &lt;i&gt;La Torre Oscura&lt;/i&gt;; su infancia en una caravana, con la pobreza siempre acechándole; el grave accidente que estuvo a punto de provocarle la muerte; el asiduo rechazo por parte de las editoriales, y, por fin, el éxito y el reconocimiento merecidos cuando, como en un giro del destino, su mujer rescató de la papelera parte de un manuscrito que él había desechado: &lt;i&gt;Carrie&lt;/i&gt;.&lt;/p&gt; &lt;p&gt;Un viaje sin retorno por la vida y obra del rey del terror. Si aún no eres un ferviente lector de Stephen King, no te preocupes, esta obra te convertirá en uno.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.2</dc:identifier>
+        <dc:identifier opf:scheme="EPL">34166</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Biografía</dc:subject>
+        <dc:subject>Crítica y teoría literaria</dc:subject>
+        <dc:subject>Crónica</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T05:50:36.264623+00:00"/>
+        <meta name="calibre:title_sort" content="Todo sobre Stephen King"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

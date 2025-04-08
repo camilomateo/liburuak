@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">545</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ed1cc79-58f8-4d0b-b501-c66f0659e292</dc:identifier>
+        <dc:title>Lobo blanco, lobo negro</dc:title>
+        <dc:creator opf:file-as="Santiago Blasco" opf:role="aut">Santiago Blasco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-25T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Los componentes de la caballería ligera española que se situaba en los límites de los territorios conquistados en América eran conocidos como Dragones de Cuera. Su misión consistía en proteger las nuevas fronteras de los ataques permanentes de las tribus indias que había sido desplazadas y veían con sumo recelo la llegada de los españoles. Esta es la historia de un joven dragón que, al haber perdido a su madre, fue educado en el rastreo y en el combate por su padre, un respetado dragón de cuera, así como por sus cuidadores, una familia de indios pueblo. Por tanto, era buen conocedor de las costumbres y técnicas de lucha de ambas razas. Algo que muy pocos poseían.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Algaida Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Santiago Blasco&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-06T19:50:06.000717+00:00"/>
+        <meta name="calibre:title_sort" content="Lobo blanco, lobo negro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

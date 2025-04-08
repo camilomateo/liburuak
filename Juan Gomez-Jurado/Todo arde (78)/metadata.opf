@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">78</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9eece7e7-b957-4722-877f-5b82fdbc877b</dc:identifier>
+        <dc:title>Todo arde</dc:title>
+        <dc:creator opf:file-as="Gómez-Jurado, Juan" opf:role="aut">Juan Gómez-Jurado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-05T12:32:13+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;VUELVE EL AUTOR MÁS VENDIDO&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;2.500.000 ejemplares vendidos&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;«Después
+ de todo lo que ha pasado con la trilogía Reina Roja, sólo había una 
+forma de dar las gracias a mis lectores: intentar escribir una novela 
+todavía mejor.»&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Juan Gómez-Jurado&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Esta es la historia de tres mujeres que lo han perdido todo.&lt;/p&gt;&lt;p&gt;Incluso el miedo.&lt;/p&gt;&lt;p&gt;Por eso son tan peligrosas.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Esta es la historia de una venganza imposible, sin ninguna posibilidad de éxito.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Esta es la historia de tres mujeres que se atreven a hacer lo que los demás sólo nos atrevemos a imaginar.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Algo muy poderoso está a punto de ocurrir.&lt;/p&gt;&lt;p&gt;Y nada volverá a ser igual.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;SIEMPRE GANAN LOS MISMOS.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;ES HORA DE CAMBIAR LAS REGLAS.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Juan Gómez-Jurado&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:02:44.085690+00:00"/>
+        <meta name="calibre:title_sort" content="Todo arde"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

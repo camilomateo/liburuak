@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09f4d595-28ca-4b37-bd15-f8bf6398f9ac</dc:identifier>
+        <dc:title>El amor tiene muchos nombres</dc:title>
+        <dc:creator opf:file-as="Knight, Olivia" opf:role="aut">Olivia Knight</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div id="iframeContent" dir="auto"&gt;&lt;p&gt;«Las relaciones son mediocres. Los
+ rollos de una noche, también. ¿El motivo? En el primer caso suele 
+primar la costumbre, y en el segundo, una necesidad mal gestionada, que 
+parece que nos convierta en animales sin cerebro. La gente no es seria, 
+no ama de verdad el placer, ni, por supuesto, se atreve a explorarlo. 
+Por fortuna existo yo, la alternativa. Y me encontré con Moira en el 
+momento preciso para salvarla de una vida gris, como hice antes con 
+otras chicas. He querido que fuera su voz la que os contase los detalles
+ más entretenidos de nuestra historia, porque creo que lo imprescindible
+ ya lo he apuntado aquí.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Pasadlo muy bien con la lectura,&lt;/p&gt;&lt;br&gt;&lt;p&gt;G.  »&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Zafiro Books</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Erótica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Olivia Knight&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:19+00:00"/>
+        <meta name="calibre:title_sort" content="amor tiene muchos nombres, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1284</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4f4966f-be97-4fc9-affc-06491456e46f</dc:identifier>
+        <dc:title>La librera de Madrid</dc:title>
+        <dc:creator opf:file-as="Escobar, Mario" opf:role="aut">Mario Escobar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-07T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una libreria que debe huir del fascismo.&amp;#160;&lt;/p&gt;
+&lt;p&gt;Una ciudad a punto de cambiar para siempre.&amp;#160;&lt;/p&gt;
+&lt;p&gt;Un homenaje a la los libros y a su capacidad para salvarnos.&lt;/p&gt;
+&lt;p&gt;Madrid, 1934. Soplan vientos de cambio en la España de la Segunda República cuando Bárbara, una joven alemana que ha conseguido huir de Berlín tras la victoria del partido nazi en las elecciones, abre una pequeña librería.&amp;#160;&lt;/p&gt;
+&lt;p&gt;Esta se convierte en un lugar donde soñar con un futuro libre y esperanzador, pero el estallido de la Guerra Civil amenaza con destruir todo lo que Bárbara ha construido. Será su amor por las letras y por un joven republicano lo que la mantenga aferrada a un país que se enfrenta a una espiral de odio y terror que ella conoce demasiado bien y que la obligará a luchar por su vida una vez más.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-10T20:24:51.121716+00:00"/>
+        <meta name="calibre:title_sort" content="La librera de Madrid"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

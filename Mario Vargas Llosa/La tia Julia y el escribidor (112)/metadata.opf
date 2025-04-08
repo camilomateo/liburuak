@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73c81c00-47ba-46d7-a146-d76abc8aa3be</dc:identifier>
+        <dc:title>La tia Julia y el escribidor</dc:title>
+        <dc:creator opf:file-as="Llosa, Mario Vargas" opf:role="aut">Mario Vargas Llosa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-17T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;Vargas
+ Llosa crea una sátira exquisita de la literatura rosa y de la novela 
+popular que tanto éxito ha tenido en los países de habla hispana, al 
+tiempo que cuestiona la hipocresía, el racismo y el clasismo de la 
+sociedad limeña de la época, con la maestría a la que ya nos tiene 
+acostumbrados.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;«El género novelesco no ha nacido para contar verdades, éstas, al pasar a la ficción, se vuelven siempre mentiras.»&lt;br&gt;&lt;span class="a-text-bold"&gt;Mario Vargas Llosa&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Ya
+ en el título de esta novela de Mario Vargas Llosa, publicada en 1977, 
+se recoge la doble historia en que se vertebra su argumento: por un 
+lado, la relación amorosa del joven escritor Varguitas con una mujer de 
+su familia mayor que él, la tía Julia; y por otro, la desaforada 
+presencia del folletinista Pedro Camacho en la misma emisora de radio 
+donde Varguitas trabaja. La noble pasión amorosa entre la tía Julia y el
+ aprendiz de novelista, que la sociedad limeña de losaños cincuenta 
+trata por todos los medios de impedir, se combina en esta novela de 
+Vargas Llosa con las narraciones truculentas del folletinista de las 
+ondas.&lt;/p&gt;&lt;p&gt;El contrapunto de una encendida pasión con 
+aires shakesperianos y su correlato melodramático y la inesperada 
+confluencia del devoto de la alta literatura y el escribidor rastrero 
+son algunas claves de esta narración mayor de Mario Vargas Llosa. &lt;span class="a-text-italic"&gt;La tía Julia y el escribidor&lt;/span&gt;
+ reúne el interés de los relatos de aventuras, donde la atención del 
+lector queda sujeta a un final feliz continuamente postergado, y el más 
+desternillante y grotesco pasatiempo, gracias sin duda a las divertidas 
+aportaciones del escribidor Camacho, uno de los grandes personajes del 
+novelista peruano.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420498935</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mario Vargas Llosa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:27.444462+00:00"/>
+        <meta name="calibre:title_sort" content="tia Julia y el escribidor, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

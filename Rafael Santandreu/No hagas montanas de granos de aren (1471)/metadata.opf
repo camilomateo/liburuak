@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1471</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5d8059b-a7e8-4062-8f88-34961b84492f</dc:identifier>
+        <dc:title>No hagas montañas de granos de arena (y TODO son granos de arena)</dc:title>
+        <dc:creator opf:file-as="Santandreu, Rafael" opf:role="aut">Rafael Santandreu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-13T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span&gt;La terapia que ha transformado a millones de personas. Una 
+nueva mentalidad que hará que te sientas cada día más contento, que no 
+te enfades por pequeñeces y que goces de una gran autoestima.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Este libro incluye capítulos especiales para:&lt;/span&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- Combatir el sobrepeso con facilidad.&lt;br&gt;- Conquistar el éxito en lo que te propongas.&lt;br&gt;- Resolver los conflictos de pareja.&lt;br&gt;- Superar la muerte de un ser querido.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T15:13:16+00:00"/>
+        <meta name="calibre:title_sort" content="No hagas montañas de granos de arena (y TODO son granos de arena)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

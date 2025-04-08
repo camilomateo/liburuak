@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e59402b3-4790-40cc-8f47-da87ef25b1b9</dc:identifier>
+        <dc:title>Puente a ningún sitio</dc:title>
+        <dc:creator opf:file-as="Carlos Laredo" opf:role="aut">Carlos Laredo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-30T23:05:26+00:00</dc:date>
+        <dc:description>&lt;p&gt;El cabo primero José Souto está disgustado porque no consigue 
+avanzar en la investigación del triple asesinato cometido en la aldea de
+ Lires hace más de un año. Una familia entera, fríamente asesinada una 
+noche, sin motivo aparente. No hay huellas, no hay testigos. Su amigo, 
+el millonario detective Julio César Santos acude en su ayuda. Nadie se 
+beneficia, aparentemente, del crimen. Solo, quizá, una pariente lejana 
+que vive en Bruselas, pero que tiene una coartada irrefutable. La 
+paciencia del cabo Holmes (como llaman sus amigos al jefe del puesto de 
+la Guardia Civil de Corcubión, en la Costa de la Muerte Gallega), su 
+metodología y el ingenio de su amigo Santos, libre de ir y venir a su 
+antojo sin sujetarse a ninguna regla, consiguen poco a poco horadar el 
+muro que protege a los posibles culpables del crimen, incluidos algunos 
+miembros de los servicios secretos belgas, en una interesante intriga 
+salpicada de pistas falsas, muertes de testigos y otras dificultades. La
+ novena novela de la serie del Cabo Holmes, como todas las anteriores, 
+narra con un lenguaje sencillo y preciso, y con ciertos toques de humor,
+ una historia que mantiene en vilo al lector de principio a fin.&lt;/p&gt;</dc:description>
+        <dc:publisher>Carlos Laredo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Carlos Laredo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:16:52.441536+00:00"/>
+        <meta name="calibre:title_sort" content="Puente a ningún sitio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

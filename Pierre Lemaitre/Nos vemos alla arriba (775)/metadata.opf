@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">775</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e72f9485-9fa3-4f0e-903a-15680eecb381</dc:identifier>
+        <dc:title>Nos vemos allá arriba</dc:title>
+        <dc:creator opf:file-as="Lemaitre, Pierre" opf:role="aut">Pierre Lemaitre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;En noviembre de 1918, tan solo unos días antes del armisticio, el teniente d'Aulnay-Pradelle ordena una absurda ofensiva que culminará con los soldados Albert Maillard y Édouard Péricourt gravemente heridos, en un confuso y dramático incidente que ligará sus destinos inexorablemente.&lt;/p&gt;
+
+    &lt;p&gt;Édouard, de familia adinerada y con un talento excepcional para el dibujo, ha sufrido una horrible mutilación y se niega a reencontrarse con su padre y su hermana. Albert, de origen humilde y carácter pusilánime, concilia el sueño abrazado a una cabeza de caballo de cartón y está dispuesto a lo indecible con tal de compensar a Édouard, a quien debe la vida. Y Pradelle, aristócrata venido a menos, cínico y mujeriego, está obsesionado con recuperar su estatus social.&lt;/p&gt;
+
+    &lt;p&gt;De regreso en París, los tres excombatientes se rebelarán contra una realidad que los condena a la miseria y al olvido. Así, Édouard pergeña una ingeniosísima estafa con el fin de vengarse de su progenitor, que siempre lo repudió por su sensibilidad y sus habilidades artísticas. De paso quiere ayudar al fiel Albert, cuyo prurito es huir a las antípodas para olvidar a Cécile, su amor perdido. Aunque tal vez el más ambicioso sea Pradelle, que sacudirá la conciencia de Francia entera mediante una monumental operación delictiva concebida para amasar una rápida fortuna. Los escollos son considerables, pero la voluntad de los tres parece infinita.&lt;/p&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">2.3</dc:identifier>
+        <dc:identifier opf:scheme="EPL">15530</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Sátira</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:series" content="Los hijos del desastre"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-05-25T11:32:53.484229+00:00"/>
+        <meta name="calibre:title_sort" content="Nos vemos allá arriba"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

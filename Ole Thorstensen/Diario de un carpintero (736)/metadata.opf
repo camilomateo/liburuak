@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">736</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92473a91-22b5-4be1-a476-8d099e75445a</dc:identifier>
+        <dc:title>Diario de un carpintero</dc:title>
+        <dc:creator opf:file-as="Thorstensen, Ole" opf:role="aut">Ole Thorstensen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-10T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-weight: 600; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;Tras el éxito de&lt;/span&gt;&lt;em style="color: #000000"&gt; El libro de la madera&lt;/em&gt;&lt;span style="color: #000000"&gt;, llega un nuevo descubrimiento nórdico; aclamado y publicado por Karl Ove Knausgård: «Un tributo poético y enriquecedor al trabajo manual.»&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-weight: 600; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;Traducido en 16 países.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;em style="color: #000000"&gt;Diario de un carpintero&lt;/em&gt;&lt;span style="color: #000000"&gt; es una historia sencilla y cautivadora a la vez sobre la rehabilitación de un loft, desde el momento en el que el maestro carpintero Ole Thorstensen entrega un presupuesto hasta que la casa está lista para ser ocupada. A medida que el proyecto evoluciona, vemos el proceso de construcción a través de los ojos de Thorstensen: los meticulosos detalles, el proceso de solucionar problemas, la paciencia y el trabajo en equipo necesario para llevarlo todo a cabo y, sobre todo, el complejo y fructífero diálogo con los clientes que le encomendaron el trabajo. Thorstensen aborda mucho más que los delicados aspectos prácticos de su oficio. Su pasión y experiencia de treinta años lo llevan hasta profundas reflexiones sobre la naturaleza del trabajo manual, los oficios y la vida misma.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;em style="color: #000000"&gt;Diario de un carpintero&lt;/em&gt;&lt;span style="color: #000000"&gt; es una fuente de inspiración para todo tipo de reformas y proyectos, una oda al trabajo bien hecho que transmite la felicidad de ver cómo va tomando forma.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:59:59.774792+00:00"/>
+        <meta name="calibre:title_sort" content="Diario de un carpintero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

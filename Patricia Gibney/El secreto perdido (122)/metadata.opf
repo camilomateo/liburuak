@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6dda429-6dc8-41b4-8f42-a24b0c14449b</dc:identifier>
+        <dc:title>El secreto perdido</dc:title>
+        <dc:creator opf:file-as="Gibney, Patricia" opf:role="aut">Patricia Gibney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-18T05:00:00+00:00</dc:date>
+        <dc:description>Llega el tercer caso de la inspectora Lottie Parker La inspectora Lottie Parker acude a la escena de un crimen en una remota granja en el lúgubre campo irlandés. Allí, cristales rotos, sillas volcadas y el cuerpo destrozado de una mujer cuentan una terrible historia. Lottie cree que ha identificado al asesino, pero una perturbadora pista la llevará a pensar que está relacionado con el antiguo caso del asilo de Saint Declan, el último caso que investigó su padre antes de suicidarse. Cuando aparece una nueva víctima con la lengua cortada, Lottie comprende que debe darse prisa. ¿Será capaz de hacer frente a sus demonios y descubrir la verdad antes de que el asesino vuelva a cobrarse otra vida?</dc:description>
+        <dc:publisher>Principal de los Libros</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policíaco</dc:subject>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Misterio</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Patricia Gibney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Lottie Parker"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:33.666754+00:00"/>
+        <meta name="calibre:title_sort" content="secreto perdido, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

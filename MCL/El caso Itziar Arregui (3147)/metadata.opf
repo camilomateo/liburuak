@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac3bb5ab-8c47-45be-8010-a2f191cc6c01</dc:identifier>
+        <dc:title>El caso Itziar Arregui</dc:title>
+        <dc:creator opf:file-as="MCL" opf:role="aut">MCL</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-04T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Suances, 27 de septiembre de 2008.&lt;br&gt;El cuerpo sin vida de una niña aparece en la cuneta de la carretera que va de Suances a las afueras. Todo apunta a una persona, pero a medida que se investiga más profundo nada es lo que parece. Incluso cuando el caso se cierra, la verdad parece no estar presente.&lt;br&gt;La inspectora Lara Martinez, movida por su instinto no dejará que las señales que han cerrado el caso la nublen, y cuando recibe un mensaje misterioso, no duda en regresar para descubrir lo más peligroso. El subinspector Velasco la ayudará en este caso.&lt;br&gt;Gabriel Arregui se enfrentará a una dura realidad.&lt;br&gt;&lt;br&gt;Adéntrate en este misterioso thriller, y descubre lo perversa que puede ser la mente humana, aun cuando no lo parece.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DXTXW3CM</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Lara Martinez"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-03-10T15:00:49.534553+00:00"/>
+        <meta name="calibre:title_sort" content="caso Itziar Arregui, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

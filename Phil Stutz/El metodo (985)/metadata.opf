@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">985</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c20cdd40-6e78-4db9-ab8c-42ffd3ed59a8</dc:identifier>
+        <dc:title>El método</dc:title>
+        <dc:creator opf:file-as="Stutz, Phil &amp; Michels, Barry" opf:role="aut">Phil Stutz</dc:creator>
+        <dc:creator opf:file-as="Stutz, Phil &amp; Michels, Barry" opf:role="aut">Barry Michels</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-10T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Miedo, angustia, celos... Tus problemas no son insuperables.&lt;/b&gt;&lt;br&gt;&lt;b&gt;Basta con disponer de los instrumentos adecuados y el m&amp;eacute;todo para saber utilizarlos.&lt;/b&gt;&lt;br&gt;A trav&amp;eacute;s de cinco din&amp;aacute;micas y pr&amp;aacute;cticas herramientas, los terapeutas Phil Stutz y Barry Michels han creado un m&amp;eacute;todo que da el poder a las personas para ser los protagonistas activos de su propia transformaci&amp;oacute;n personal y convertir sus miedos y ansiedades en oportunidades. &lt;br&gt;A lo largo de este proceso de transformaci&amp;oacute;n personal los lectores encontrar&amp;aacute;n el coraje, adquirir&amp;aacute;n la disciplina, mejorar&amp;aacute;n la comunicaci&amp;oacute;n y desarrollar&amp;aacute;n su creatividad -- y los obst&amp;aacute;culos desaparecer&amp;aacute;n. Durante a&amp;ntilde;os Stutz y Michels han ense&amp;ntilde;ado estas t&amp;eacute;cnicas a sus pacientes, pero ahora con &lt;i&gt;El m&amp;eacute;todo&lt;/i&gt; estas poderosas y revolucionarias herramientas est&amp;aacute;n al alcance de todos los lectores que quieran...</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425349546</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-08-23T12:48:15+00:00"/>
+        <meta name="calibre:title_sort" content="método, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

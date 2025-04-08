@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ed68ef9-fd43-4128-a8fb-b12e170d8fc9</dc:identifier>
+        <dc:title>La cabeza de mi padre</dc:title>
+        <dc:creator opf:file-as="Alma Delia Murillo" opf:role="aut">Alma Delia Murillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="a-text-bold"&gt;Escribo para soltar el peso de cuarenta años rumiando el mito de mi padre, las infinitas versiones de mi padre.&lt;br&gt;&lt;/span&gt;&lt;br&gt;A sus cuarenta años, como un &lt;span class="a-text-italic"&gt;road&lt;/span&gt; &lt;span class="a-text-italic"&gt;trip&lt;/span&gt;,
+ sin más referente que una fotografía vieja, una hija emprende 
+la búsqueda de su padre. Mientras narra la decisión de ir a conocerlo y 
+el viaje que la lleva de Ciudad de México a Michoacán, iremos 
+construyendo, junto a ella, el pasado, los amores, las alegrías, los 
+accidentes, las ausencias.&lt;br&gt;&lt;br&gt;«Todos somos hijos de Pedro Páramo», 
+nos dice Alma Delia Murillo, ante el factor tan común que es el abandono
+ del hogar por parte del padre. Frente a este hecho, ella se desnuda en 
+cada capítulo para hablarnos de la necesidad de reconstruir ese símbolo 
+de peso universal, para lograr definirse.&lt;br&gt;&lt;br&gt;Su vida, entonces, se 
+despliega como el entramado de esta búsqueda: entre siete hermanos y 
+una madre trabajadora, la protagonista crece y reflexiona no sólo sobre 
+su biografía, sino también sobre la historia de un país profundamente 
+dividido en donde las mujeres no han contado lo suficiente, desde su 
+punto de vista, el relato del padre.&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alma Delia Murillo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-19T07:55:15.336180+00:00"/>
+        <meta name="calibre:title_sort" content="cabeza de mi padre, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

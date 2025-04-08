@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">416c4ae7-745d-465c-9737-e3b94c7b5e61</dc:identifier>
+        <dc:title>La memoria del alambre</dc:title>
+        <dc:creator opf:file-as="Bárbara Blasco" opf:role="aut">Bárbara Blasco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-11T06:00:00+00:00</dc:date>
+        <dc:description>El alambre posee memoria. Una vez doblado tenderá a su posición combada, no importan los esfuerzos que se hagan por enderezarlo. La protagonista, una cantante de orquesta que reniega de las canciones comerciales que difunden como virus, recibe un mensaje de la madre de Carla, su amiga de adolescencia. Quiere saber qué pasó entonces, recuperar su historia. Entonces es la amistad que vale más que cualquier familia, son las drogas que derriban puertas a patadas, es el sexo, el más oscuro de los misterios, y son las canciones de los años 80, la música como el más potente conductor de emociones, el último hábitat donde sobrevive la adolescencia. Reconstruye así su propia memoria hasta llegar a la ruta del bacalao, donde la muerte de la melodía coincide con la muerte de la inocencia. Hasta ese momento en que el alambre se tuerce definitivamente.</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela. Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2023-08-23T12:48:18.629081+00:00"/>
+        <meta name="calibre:title_sort" content="memoria del alambre, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

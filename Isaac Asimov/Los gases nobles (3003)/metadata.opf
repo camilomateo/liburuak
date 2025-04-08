@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3003</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecf4efa8-16ed-4bd5-b5f9-853194359ef9</dc:identifier>
+        <dc:title>Los gases nobles</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1965-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Estimulante viaje a través del mundo de la química moderna y atinado recordatorio de que en ninguna rama de la Ciencia puede ser considerado como «absoluto» el conocimiento ni darse por «terminada» la investigación.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Ciencias naturales</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:50.656167+00:00"/>
+        <meta name="calibre:title_sort" content="gases nobles, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4976a235-7b86-4313-8539-c525a842d023</dc:identifier>
+        <dc:title>Entre los muertos</dc:title>
+        <dc:creator opf:file-as="Santiago, Mikel" opf:role="aut">Mikel Santiago</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-08T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;Hay muertos que nunca descansan, y tal vez no deban hacerlo hasta que se les haga justicia. Nadie lo sabe mejor que Nerea Arruti, agente de la Ertzaintza en Illumbe, una mujer solitaria que arrastra también sus propios cadáveres y fantasmas del pasado.&lt;/span&gt;&lt;/p&gt;
+&lt;p align="justify" style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;Una historia de amor prohibida, una muerte supuestamente accidental, una mansión con vistas al Cantábrico donde todos tienen algo que ocultar y un personaje misterioso conocido como el Cuervo cuyo nombre aparece como una sombra a lo largo de la novela. Estos son los ingredientes de una investigación que se irá complicando página tras página y en la que Arruti, tal como descubrirán pronto los lectores, será mucho más que la agente encargada del caso.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mikel Santiago&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Trilogía de Illumbe"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:40:13.197311+00:00"/>
+        <meta name="calibre:title_sort" content="Entre los muertos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

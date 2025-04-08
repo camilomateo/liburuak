@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1698</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9aae6341-1018-44ab-962f-78e44ea8b5bf</dc:identifier>
+        <dc:title>Adoptando ChatGPT</dc:title>
+        <dc:creator opf:file-as="Publishing, DBR" opf:role="aut">DBR Publishing</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-26T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;¿A veces sientes que llevar tu negocio es como una subida interminable?&lt;br&gt;&lt;br&gt;No estás solo en esto.&lt;br&gt;&lt;br&gt;Estadísticas
+ reveladoras de la Oficina de Estadísticas Laborales muestran que cerca 
+de uno de cada cinco negocios nuevos cierra antes de alcanzar los dos 
+años.&lt;br&gt;&lt;br&gt;Y si eso no te hace reflexionar, escucha esto: casi la mitad se rinde antes del quinto año.&lt;br&gt;&lt;br&gt;Eso son muchos sueños destrozados y cuentas bancarias vacías.&lt;br&gt;&lt;br&gt;Pero, ¿y si tuvieras un &lt;span class="a-text-bold"&gt;arma secreta &lt;/span&gt;para no solo sobrevivir, sino realmente prosperar en este entorno desafiante?&lt;br&gt;&lt;br&gt;La respuesta podría estar al alcance de tu mano—sí, estamos hablando de tecnología, pero no de cualquier tecnología.&lt;br&gt;&lt;br&gt;Nos referimos a ChatGPT, un tipo específico de inteligencia artificial.&lt;br&gt;&lt;br&gt;Imagina
+ un mundo donde las quejas de los clientes se manejan sin problemas, tu 
+perfil en redes sociales siempre está activo y tu negocio recoge datos 
+valiosos, todo sin agotarte.&lt;br&gt;&lt;br&gt;Esto no es una historia ficticia.&lt;/div&gt;</dc:description>
+        <dc:publisher>anonymous</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CTFPCDDW</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:47+00:00"/>
+        <meta name="calibre:title_sort" content="Adoptando ChatGPT"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1289</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22bef7e9-5620-48b1-9edc-d667e9c5dd35</dc:identifier>
+        <dc:title>El precio del honor</dc:title>
+        <dc:creator opf:file-as="Andrea Camilleri" opf:role="aut">Andrea Camilleri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-29T12:48:16+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Política, mafia y religión en una de las obras más especiales del inolvidable maestro de la novela negra.&lt;br&gt;Andrea Camilleri tiene veinte años y debe presentarse a un examen en Palermo. Un amigo de la familia que también tiene que ir a la capital accede a llevarle en su camioneta cuando, de repente, tres hombres armados detienen el vehículo: "¿Qué os apetece hoy?" les pregunta el conductor. "Dos cajas de salmonetes, dos de lenguado y dos de pulpo". Es el precio que pagarán para tener un viaje seguro, un curioso "trato entre caballeros" y, también, la primera experiencia de Camilleri con la mafia.&lt;br&gt;El precio del honor es una obra sobre los sicilianos y sus poco ortodoxos métodos de intercambio: entre jueces y ladrones, políticos y mafiosos, pecadores y sacerdotes. Y es que, sólo en Sicilia, puedes negociar incluso con Dios.&lt;br&gt;Con el ingenio irresistible que lo hiciera célebre en todo el mundo, Andrea Camilleri nos regala unas páginas inteligentes e hilarantes que nos ayudan a comprender unas costumbres que han forjado el carácter de todo un país.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423362844</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-15T07:56:25.204752+00:00"/>
+        <meta name="calibre:title_sort" content="El precio del honor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">222594a3-5d54-45f1-a48e-8d17b1687860</dc:identifier>
+        <dc:title>Razones para seguir viviendo</dc:title>
+        <dc:creator opf:file-as="Haig, Matt" opf:role="aut">Matt Haig</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-25T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;¿Qué significa sentirse realmente vivo?&lt;/strong&gt;&lt;br /&gt;A los veinticuatro años, el mundo de Matt Haig se derrumbó. No encontraba razones para seguir viviendo. Ésta es la historia real de cómo superó su depresión, triunfó sobre la enfermedad y aprendió a vivir otra vez gracias a los libros y la escritura.&lt;br /&gt;Según el propio autor: «Escribí este libro porque los viejos clichés son los más reales. En el fondo del pozo todo se ve negro. Hay luz al final del túnel, aunque no la veamos… Y las palabras, a veces, pueden realmente liberarte».&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Inteligente, original, honesto y humano.&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;«Matt Haig es asombroso», Stephen Fry.&lt;br /&gt;«Magnífico», The Huffington Post.&lt;br /&gt;«Un escritor de gran talento»,&lt;br /&gt;The New York Times.&lt;br /&gt;«Fascinante y bellamente escrito», Ian Rankin.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;«Aunque Razones para seguir viviendo sea un libro sobre salud mental y creamos que será una lectura&lt;br /&gt;deprimente, la verdad es que su ironía te deja una sensación optimista al final de la lectura. Matt Haig,&lt;br /&gt;con toda su dolorosa honestidad, puede haber escrito el libro de 2015», Lisa Talks About.&lt;br /&gt;&lt;br /&gt;«Una obra de arte que nos da esperanza», Harrogate Advertiser Series.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432229336</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-01-27T10:59:12+00:00"/>
+        <meta name="calibre:title_sort" content="Razones para seguir viviendo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

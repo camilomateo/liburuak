@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b84827d9-9339-489e-9729-c9839f40a6ca</dc:identifier>
+        <dc:title>Memoria del comunismo</dc:title>
+        <dc:creator opf:file-as="Jiménez Losantos, Federico" opf:role="aut">Federico Jiménez Losantos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;¿Por
+ qué se creían los bolcheviques con derecho a imponer a todos su idea de
+ sociedad y a asesinar a los que la rechazaban e incluso a los que no 
+llegaban a hacerlo?&lt;/p&gt;Esta es la 
+gran cuestión del siglo que el mundo lleva a cuestas desde que Lenin 
+tomó el poder: ¿por qué los comunistas se creen legitimados para robar y
+ matar en nombre de una utopía que apenas esconde su afán de poder 
+ilimitado?&lt;br&gt;&lt;br&gt;Lo peor del sistema 
+de Lenin no es que se crea con derecho a imponer su dictadura y a matar a
+ sus opositores, sino que las sociedades democráticas acepten ese 
+derecho a robar y matar de los comunistas. Esta Memoria del comunismo 
+recuerda por qué sucede. Y cómo, conociendo su historia y la de España, 
+cabe evitarlo.  &lt;/div&gt;</dc:description>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491642381</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B078WCNL6R</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:56:46.249105+00:00"/>
+        <meta name="calibre:title_sort" content="Memoria del comunismo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

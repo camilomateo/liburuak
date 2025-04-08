@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2982</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf2effd7-e108-4d98-9fb3-97b7b612ccb9</dc:identifier>
+        <dc:title>Roldán, ni vivo ni muerto</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Pepe Carvalho se enfrentó también a uno de los enigmas más inquietantes de la España democrática: el de Luis Roldán, director de la Guardia Civil, fugitivo de la justicia y durante un tiempo tal vez vivo o tal vez muerto, tal vez oculto aquí u oculto allá, nadie lo sabía. Todo un desafío para la habitual perspicacia de Carvalho, que Vázquez Montalbán cuenta al lector con su habitual sentido del humor, en un tema novelesco brindado como nunca por la realidad.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Pepe Carvalho"/>
+        <meta name="calibre:series_index" content="19"/>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:18+00:00"/>
+        <meta name="calibre:title_sort" content="Roldán, ni vivo ni muerto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

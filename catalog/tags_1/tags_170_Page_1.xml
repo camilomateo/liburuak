@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>tales</title>
+  <id>Calibre2opds:taglist:T:170</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_170_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="tales" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por T" />
+  <entry>
+    <title>Black Canaan</title>
+    <id>calibre:book:2501</id>
+    <updated>2024-09-09T10:34:43Z</updated>
+    <link href="../../Robert%20E.%20Howard/Black%20Canaan%20%282501%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20E.%20Howard/Black%20Canaan%20%282501%29/Black%20Canaan%20-%20Robert%20E.%20Howard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="228 KB" />
+    <author>
+      <name>Robert E. Howard</name>
+      <uri>../authors_1/authors_1658_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="Louisiana" />
+    <category term="--" />
+    <category term="Race" />
+    <category term="relations" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2501.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dracula</title>
+    <id>calibre:book:2076</id>
+    <updated>2024-09-06T02:09:08Z</updated>
+    <link href="../../Bram%20Stoker/Dracula%20%282076%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Bram%20Stoker/Dracula%20%282076%29/Dracula%20-%20Bram%20Stoker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="425 KB" />
+    <author>
+      <name>Bram Stoker</name>
+      <uri>../authors_1/authors_1485_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="Epistolary" />
+    <category term="Fiction" />
+    <category term="Gothic" />
+    <category term="Vampires" />
+    <category term="--" />
+    <category term="Dracula" />
+    <category term="Count" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="Transylvania" />
+    <category term="(Romania)" />
+    <category term="Whitby" />
+    <category term="(England)" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [284]:</summary>
+    <link href="../book_2/book_2076.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Modern Prometheus</title>
+    <id>calibre:book:2071</id>
+    <updated>2024-09-06T02:09:07Z</updated>
+    <link href="../../Mary%20Shelley/The%20Modern%20Prometheus%20%282071%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mary%20Shelley/The%20Modern%20Prometheus%20%282071%29/The%20Modern%20Prometheus%20-%20Mary%20Shelley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="262 KB" />
+    <author>
+      <name>Mary Shelley</name>
+      <uri>../authors_1/authors_1482_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Science" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="Gothic" />
+    <category term="Scientists" />
+    <category term="--" />
+    <category term="Monsters" />
+    <category term="Frankenstein" />
+    <category term="Victor" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="Frankenstein's" />
+    <category term="monster" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [281]:</summary>
+    <link href="../book_2/book_2071.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Story of the Three Little Pigs</title>
+    <id>calibre:book:2062</id>
+    <updated>2024-09-06T02:09:06Z</updated>
+    <link href="../../L.%20Leslie%20Brooke/The%20Story%20of%20the%20Three%20Little%20Pigs%20%282062%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../L.%20Leslie%20Brooke/The%20Story%20of%20the%20Three%20Little%20Pigs%20%282062%29/The%20Story%20of%20the%20Three%20Little%20P%20-%20L.%20Leslie%20Brooke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="608 KB" />
+    <author>
+      <name>L. Leslie Brooke</name>
+      <uri>../authors_1/authors_1479_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fairy" />
+    <category term="tales" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [270]:</summary>
+    <link href="../book_2/book_2062.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Strange Case of Dr. Jekyll and Mr. Hyde</title>
+    <id>calibre:book:2078</id>
+    <updated>2024-09-06T02:09:08Z</updated>
+    <link href="../../Robert%20Louis%20Stevenson/The%20Strange%20Case%20of%20Dr.%20Jekyll%20and%20%282078%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Louis%20Stevenson/The%20Strange%20Case%20of%20Dr.%20Jekyll%20and%20%282078%29/The%20Strange%20Case%20of%20Dr.%20Jekyll%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="145 KB" />
+    <author>
+      <name>Robert Louis Stevenson</name>
+      <uri>../authors_1/authors_1413_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Science" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="London" />
+    <category term="(England)" />
+    <category term="--" />
+    <category term="Physicians" />
+    <category term="Psychological" />
+    <category term="Self-experimentation" />
+    <category term="in" />
+    <category term="medicine" />
+    <category term="Multiple" />
+    <category term="personality" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [289]:</summary>
+    <link href="../book_2/book_2078.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Tales of Mother Goose</title>
+    <id>calibre:book:2067</id>
+    <updated>2024-09-06T02:09:07Z</updated>
+    <link href="../../Charles%20Perrault/The%20Tales%20of%20Mother%20Goose%20%282067%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charles%20Perrault/The%20Tales%20of%20Mother%20Goose%20%282067%29/The%20Tales%20of%20Mother%20Goose%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="525 KB" />
+    <author>
+      <name>Charles Perrault</name>
+      <uri>../authors_0/authors_105_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fairy" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="France" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="French" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [277]:</summary>
+    <link href="../book_2/book_2067.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The call of Cthulhu</title>
+    <id>calibre:book:2088</id>
+    <updated>2024-09-06T02:09:10Z</updated>
+    <link href="../../H.%20P.%20Lovecraft/The%20call%20of%20Cthulhu%20%282088%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20P.%20Lovecraft/The%20call%20of%20Cthulhu%20%282088%29/The%20call%20of%20Cthulhu%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="102 KB" />
+    <author>
+      <name>H. P. Lovecraft</name>
+      <uri>../authors_1/authors_1489_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="Cthulhu" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2088.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Dunwich Horror</title>
+    <id>calibre:book:2510</id>
+    <updated>2024-09-09T10:34:46Z</updated>
+    <link href="../../H.%20P.%20Lovecraft/The%20Dunwich%20Horror%20%282510%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20P.%20Lovecraft/The%20Dunwich%20Horror%20%282510%29/The%20Dunwich%20Horror%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="193 KB" />
+    <author>
+      <name>H. P. Lovecraft</name>
+      <uri>../authors_1/authors_1489_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="American" />
+    <category term="--" />
+    <category term="20th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2510.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The little mermaid</title>
+    <id>calibre:book:2093</id>
+    <updated>2024-09-06T02:09:12Z</updated>
+    <link href="../../H.%20C.%20Andersen/The%20little%20mermaid%20%282093%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20C.%20Andersen/The%20little%20mermaid%20%282093%29/The%20little%20mermaid%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="461 KB" />
+    <author>
+      <name>H. C. Andersen</name>
+      <uri>../authors_1/authors_1491_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fairy" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="Denmark" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Danish" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2093.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Phantom of the Opera</title>
+    <id>calibre:book:2509</id>
+    <updated>2024-09-09T10:34:46Z</updated>
+    <link href="../../Gaston%20Leroux/The%20Phantom%20of%20the%20Opera%20%282509%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gaston%20Leroux/The%20Phantom%20of%20the%20Opera%20%282509%29/The%20Phantom%20of%20the%20Opera%20-%20Gaston%20Leroux.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="264 KB" />
+    <author>
+      <name>Gaston Leroux</name>
+      <uri>../authors_1/authors_1664_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="Musical" />
+    <category term="Fiction" />
+    <category term="Opera" />
+    <category term="--" />
+    <category term="Paris" />
+    <category term="(France)" />
+    <category term="Composers" />
+    <category term="Phantom" />
+    <category term="of" />
+    <category term="the" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="French" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2509.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The snow Queen</title>
+    <id>calibre:book:2095</id>
+    <updated>2024-09-06T02:09:12Z</updated>
+    <link href="../../H.%20C.%20Andersen/The%20snow%20Queen%20%282095%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20C.%20Andersen/The%20snow%20Queen%20%282095%29/The%20snow%20Queen%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="893 KB" />
+    <author>
+      <name>H. C. Andersen</name>
+      <uri>../authors_1/authors_1491_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fairy" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="Denmark" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Danish" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2095.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The ugly duckling</title>
+    <id>calibre:book:2096</id>
+    <updated>2024-09-06T02:09:12Z</updated>
+    <link href="../../H.%20C.%20Andersen/The%20ugly%20duckling%20%282096%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20C.%20Andersen/The%20ugly%20duckling%20%282096%29/The%20ugly%20duckling%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <author>
+      <name>H. C. Andersen</name>
+      <uri>../authors_1/authors_1491_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fairy" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="Denmark" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Danish" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2096.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Works of Edgar Allan Poe — Volume 1</title>
+    <id>calibre:book:2444</id>
+    <updated>2024-09-09T10:34:32Z</updated>
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282444%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282444%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="265 KB" />
+    <author>
+      <name>Edgar Allan Poe</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="American" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Poe" />
+    <category term="Edgar" />
+    <category term="Allan" />
+    <category term="1809-1849" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2444.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Works of Edgar Allan Poe — Volume 2</title>
+    <id>calibre:book:2445</id>
+    <updated>2024-09-09T10:34:32Z</updated>
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282445%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282445%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="296 KB" />
+    <author>
+      <name>Edgar Allan Poe</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Short" />
+    <category term="Stories" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="American" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2445.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Works of Edgar Allan Poe — Volume 3</title>
+    <id>calibre:book:2446</id>
+    <updated>2024-09-09T10:34:32Z</updated>
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282446%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282446%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="309 KB" />
+    <author>
+      <name>Edgar Allan Poe</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="American" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2446.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Works of Edgar Allan Poe — Volume 4</title>
+    <id>calibre:book:2447</id>
+    <updated>2024-09-09T10:34:32Z</updated>
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282447%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282447%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="280 KB" />
+    <author>
+      <name>Edgar Allan Poe</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Short" />
+    <category term="Stories" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="American" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2447.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Works of Edgar Allan Poe — Volume 5</title>
+    <id>calibre:book:2450</id>
+    <updated>2024-09-09T10:34:33Z</updated>
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282450%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282450%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="288 KB" />
+    <author>
+      <name>Edgar Allan Poe</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="American" />
+    <category term="Poetry" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2450.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

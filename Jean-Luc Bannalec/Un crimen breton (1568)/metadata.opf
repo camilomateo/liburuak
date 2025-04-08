@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1568</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2912b1b8-71d4-4220-8583-3674bba9b8be</dc:identifier>
+        <dc:title>Un crimen bretón</dc:title>
+        <dc:creator opf:file-as="Bannalec, Jean-Luc" opf:role="aut">Jean-Luc Bannalec</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-10T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Unas salinas donde ronda la muerte, un 
+oscuro secreto y un comisario de ciudad que ha sido desterrado a una 
+pequeña población de la Bretaña francesa.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold a-text-italic"&gt;Un crimen Bretón&lt;/span&gt;&lt;span class="a-text-bold"&gt;
+ es el tercer caso del comisario Dupin, protagonista de la serie de 
+novela policíaca que ya se ha convertido para muchos en la lectura 
+imprescindible de cada verano.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Es bien sabido, dicen 
+los viejos bretones, que el olor intenso de la flor de sal provoca 
+alucinaciones. Y eso es justamente lo que el comisario Georges Dupin 
+cree tener cuando alguien trata de matarlo mientras estaba visitando las
+ salinas de la península de Guérande.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Carece de 
+sentido; nadie, excepto su amiga, la periodista Lilou Breval, sabe que 
+estaría allí. Por hacerle un favor y, sobre todo, para alejarse del 
+aburrido papeleo de la comisaría de Concarneau, Dupin accedió. Tras el 
+tiroteo, sin embargo, la periodista no responde a sus llamadas, y poco 
+después la dan por desaparecida.&lt;/span&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Aunque las salinas 
+de Guérande quedan fuera de su jurisdicción, y la comisaria Sylvaine 
+Rose, decidida a defender su terreno, no le deja trabajar a su gusto, 
+Dupin empieza una investigación sembrada de cadáveres, coartadas falsas,
+ rencillas personales, conflictos de intereses... y antiguas leyendas 
+bretonas.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425353628</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Comisario Dupin"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:49.021910+00:00"/>
+        <meta name="calibre:title_sort" content="crimen bretón, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

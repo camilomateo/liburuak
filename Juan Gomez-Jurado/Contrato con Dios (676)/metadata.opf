@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cea7e361-91c8-4e50-ae6c-3cd984300384</dc:identifier>
+        <dc:title>Contrato con Dios</dc:title>
+        <dc:creator opf:file-as="Gómez-Jurado, Juan" opf:role="aut">Juan Gómez-Jurado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;La periodista Andrea Otero ha echado a perder su prometedora carrera al publicar un artículo contra el mayor anunciante de su periódico. Cuando la contacta un grupo de arqueólogos para cubrir su expedición a Jordania, no duda ni un instante: será una exclusiva sensacional.&lt;/p&gt;&lt;p&gt;La «Expedición Moisés» está financiada por un misterioso multimillonario, Raymond Kayn, y sus fines son tan oscuros que en la penumbra acechan terroristas islámicos, los servicios secretos israelíes y un curioso agente del Vaticano, el padre Anthony Fowler.&lt;/p&gt;&lt;p&gt;En las arenas de Jordania podría esconderse el Arca de la Alianza, pero lo que nadie sospecha es la enorme destrucción que algunos están dispuestos a provocar para que secretos milenarios no salgan a la luz.&lt;/p&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="EPL">10810</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">2.5</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Aventuras</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-15T15:51:28.745089+00:00"/>
+        <meta name="calibre:title_sort" content="Contrato con Dios"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

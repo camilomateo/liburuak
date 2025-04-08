@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2942</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42717db7-cba6-41fa-842a-7f4ee6a54070</dc:identifier>
+        <dc:title>El Papa rojo</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Sería un mal servicio al lector. Desvelar el argumento de «El Papa rojo (La gloria del olivo)», al igual que sucede con los «Caballos de Troya» y «La rebelión de Lucifer», se nos antoja un sacrilegio. No busque en estas líneas un resumen del libro que —aparentemente por casualidad— ha caído en sus manos. Roma, Coimbra, Brighton, París, Ginebra… son algunos de los escenarios de lo que —a primera vista— sólo le parecerá el fruto de una prodigiosa imaginación. Juzgue por sí mismo. Quizá, al final, ya no esté tan seguro. De lo que no hay duda es de que el autor —fiel a su peculiar estilo— llegó a arriesgar su propia integridad física, provocando su detención por la policía de Roma…, «por exigencias del guión». Y una última observación. No se alarme ante el inesperado final de «El Papa rojo (La gloria del olivo)». J. J. Benítez es así…</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:39.905384+00:00"/>
+        <meta name="calibre:title_sort" content="Papa rojo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

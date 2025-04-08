@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1090</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0a28b7b-0971-4503-99ae-3e4ae70461ea</dc:identifier>
+        <dc:title>La casa de las novias</dc:title>
+        <dc:creator opf:file-as="Cockram, Jane" opf:role="aut">Jane Cockram</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Suspense psicológico, thriller, bestseller, mansión, esposas, influencer, acoso digital, redes sociales, campiña inglesa, secretos de familia, crímenes, accidentes misteriosos La vida y carrera de Miranda es una montaña rusa. Su ascenso meteórico como influencer en la industria del bienestar y estilo de vida se ha convertido en una caída humillante después de promover unos productos controvertidos. Está desesperada por huir de los haters y trolls que la avergüenzan por todo internet. Es entonces cuando recibe una carta de un primo que la sumergirá en un oscuro misterio familiar. La curiosidad por saber más sobre su familia, a la que no conoce prácticamente, ya que su madre murió cuando era una niña, y su necesidad de huir, la llevan a Barnsley. Allí la casa familiar es ahora un pequeño hotel regentado por Daphne, la mujer de su tío Max, que es la nueva novia de La Casa de las Novias (en honor al título del libro de su madre que las hizo famosas, a la casa y a ella). Pero la casa no es lo que espera. El destino lujoso y ganador de varios premios de restauración ya no existe y nadie sabe dónde está Daphne. ¿Qué ha pasado en la casa? ¿Qué oscuras mentiras esconde La Casa de la Novias?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-12-12T07:20:57.972723+00:00"/>
+        <meta name="calibre:title_sort" content="casa de las novias, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

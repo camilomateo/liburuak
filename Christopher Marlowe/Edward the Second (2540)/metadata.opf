@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2540</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee1a063c-2be1-4482-9b08-f2877b1173ba</dc:identifier>
+        <dc:title>Edward the Second</dc:title>
+        <dc:creator opf:file-as="Marlowe, Christopher" opf:role="aut">Christopher Marlowe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Edward</dc:subject>
+        <dc:subject>II</dc:subject>
+        <dc:subject>King</dc:subject>
+        <dc:subject>of</dc:subject>
+        <dc:subject>England</dc:subject>
+        <dc:subject>1284-1327</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Great</dc:subject>
+        <dc:subject>Britain</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>1307-1327</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:52.634435+00:00"/>
+        <meta name="calibre:title_sort" content="Edward the Second"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

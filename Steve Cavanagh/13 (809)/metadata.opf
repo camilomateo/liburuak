@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">809</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f3c7a2b-f7e2-4a30-982a-3120874c78e3</dc:identifier>
+        <dc:title>13</dc:title>
+        <dc:creator opf:file-as="Steve Cavanagh" opf:role="aut">Steve Cavanagh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-09T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;EL ASESINO NO ESTÁ EN EL BANQUILLO DE LOS ACUSADOS... ESTÁ ENTRE EL JURADO&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;"Hasta donde sabe, ¿hay algún impedimento para que usted forme parte de este jurado?"&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;El asesinato no fue la parte más complicada. Fue tan solo el inicio del juego.&lt;/p&gt;&lt;p&gt;Joshua Kane se ha estado preparando toda su vida para este momento. Él ya lo había hecho anteriormente. Pero esta vez será la más importante.&lt;/p&gt;&lt;p&gt;Este es el juicio por asesinato del siglo. Y Kane ha asesinado para obtener el mejor asiento en la sala.&lt;/p&gt;&lt;p&gt;Pero hay alguien a su acecho. Alguien que sospecha que el asesino no es el acusado.&lt;/p&gt;&lt;p&gt;Kane sabe que el tiempo se agota y lo único que quiere es el veredicto de la condena antes de ser descubierto.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;"El mejor&lt;em&gt;thriller&lt;/em&gt; legal en muchos años. Mezcla a la perfección giros adictivos con personajes que nunca podrás atrapar. Cavanagh es el John Grisham para una nueva generación, único y emocionante.&lt;em&gt;13&lt;/em&gt; es mi libro favorito del año."&lt;strong&gt;Sarah Pinborough&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;"Excepcional, una intriga tensa muy original, construida brillantemente con un clímax espectacular. Cavanagh es de lo mejor del momento. Créanme"&lt;strong&gt;Lee Child&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Eddie Flynn"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2023-06-06T06:14:07.962902+00:00"/>
+        <meta name="calibre:title_sort" content="13"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40598075-258c-42a4-9523-b441417f8ed8</dc:identifier>
+        <dc:title>El enjambre</dc:title>
+        <dc:creator opf:file-as="Romero, Jose Gil" opf:role="aut">Jose Gil Romero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-19T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;UNA JOVEN TRADUCTORA ENFRENTADA DE NUEVO A UNA PELIGROSA TRAMA DE ESPIONAJE EN LA NEBLINOSA GALICIA DE POSGUERRA.&lt;br&gt;UN OSCURO CENSOR OBSESIONADO POR ENCONTRAR A LA AUTORA DE UN MISTERIOSO MANUSCRITO.&lt;br&gt;UN DESCUBRIMIENTO CIENTÍFICO REVOLUCIONARIO AMBICIONADO POR TODAS LAS POTENCIAS IMPLICADAS EN LA SEGUNDA GUERRA MUNDIAL.&lt;br&gt;1941.
+ El nazismo avanza en Europa. El férreo control del generalísimo Franco,
+ igual que un viento helado, sopla sobre los acantilados gallegos.&lt;br&gt;José
+ Luis Merinero es censor del Ministerio de Propaganda, un hombre 
+amargado que ha perdido a su esposa y que transforma en cenizas los 
+libros que toca.&lt;br&gt;Una mañana, al censor se le encarga investigar un 
+misterioso manuscrito titulado El enjambre, una trepidante novela 
+autobiográfica donde la traductora Elsa Braumann relata cómo tiene que 
+robar los secretos que una prestigiosa científica nazi esconde en cierto
+ cuaderno rojo.&lt;br&gt;Trescientas páginas de distancia separan a José Luis 
+Merinero de la autora del manuscrito, pero a medida que el censor avanza
+ entre espías, asesinos y traiciones, va sintiendo por ella una suerte 
+de fascinación. Pronto advierte el censor que el empeño de Elsa está 
+transformándola en una sombra.&lt;br&gt;El manuscrito, sin embargo, es una obra inacabada: nada se sabe del desenlace de la misión y la traductora está desaparecida.&lt;br&gt;Llevado
+ por una insaciable sed de redención, el censor comenzará a investigar 
+lo que en realidad le ocurrió a Elsa Braumann. Este hombre oscuro, al 
+que ya no le quedaban esperanzas, cree que para ella hay salvación 
+todavía.&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491398677</dc:identifier>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T14:46:10+00:00"/>
+        <meta name="calibre:title_sort" content="enjambre, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

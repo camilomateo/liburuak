@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3020</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c12a85c5-b220-4c0a-a369-ec606d24af5e</dc:identifier>
+        <dc:title>Más Allá 12</dc:title>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">AA. VV.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1954-04-30T23:00:00+00:00</dc:date>
+        <dc:description>Revista mensual de aventuras apasionantes en el mundo de la magia científica.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">64229</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Publicaciones periódicas</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:series" content="Más Allá"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:54.223474+00:00"/>
+        <meta name="calibre:title_sort" content="Más Allá 12"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

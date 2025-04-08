@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1252</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb735bd4-7d5f-492e-a515-f8895b0cf014</dc:identifier>
+        <dc:title>Sexo con cinco</dc:title>
+        <dc:creator opf:file-as="Antúnez, Amor" opf:role="aut">Amor Antúnez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>¿Qué tanto sabes sobre sexo? ¿Conoces los secretos que se pueden esconder en tu boca a la hora de brindar placer a tumpareja? ¿Has hecho alguna vez una agenda para el disfrute sexual? Desde una perspectiva profesional, lejos de tabús y posturas conservadoras, Amor Antúnez da respuestas honestas y abiertas a estas y muchas otras preguntas que quizá te has hecho repetidas veces pero no te has atrevido a formular. A través de su amplia experiencia en el campo de la sexología y la educación sexual, Antúnez atiende muchas inquietudes surgidas en sus consultas, así como en los diversos espacios comunicacionales en los que se ha desenvuelto. Este libro es una invitación a escapar de las rutinas aprendidas y permitirnos el disfrute y el placer que nos puede proporcionar un encuentro sexual pleno.</dc:description>
+        <dc:publisher>Grupo Planeta - Venezuela</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789802714995</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-23T08:42:00.394433+00:00"/>
+        <meta name="calibre:title_sort" content="Sexo con cinco"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

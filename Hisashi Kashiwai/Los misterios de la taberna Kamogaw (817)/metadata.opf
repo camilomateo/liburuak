@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">817</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1a98cd0-2770-4b36-9503-256469d84f50</dc:identifier>
+        <dc:title>Los misterios de la taberna Kamogawa</dc:title>
+        <dc:creator opf:file-as="Kashiwai, Hisashi" opf:role="aut">Hisashi Kashiwai</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La novela más apetitosa que leerás jamás. Una historia deliciosa que combina misterios y cocina y que triunfa en Japón y en todo el mundo Los misterios de la taberna Kamogawa es una de las novelas más apetitosas que vas a leer jamás. Una historia llena de ternura sobre una pareja de detectives formada por el padre y la hija del Kamogawa Shokudo, un restaurante escondido en Kioto, que siempre está lleno. El éxito entre la clientela radica en que este dúo singular se ha especializado en preparar exactamente el plato que el público anhela y recuerda de su pasado y no es capaz de reproducir o encontrar. Y lo hacen investigando la historia de la persona en cuestión. Kamogawa Koishi y su padre Nagare, antiguo detective, escuchan las confidencias de sus comensales, que anhelan revivir un momento mágico, y recrean los platos cocinados por sus seres queridos, en una novela deliciosa en todos los sentidos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419346346</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="La taberna Kamogawa"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-06-06T06:14:20.377269+00:00"/>
+        <meta name="calibre:title_sort" content="misterios de la taberna Kamogawa, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

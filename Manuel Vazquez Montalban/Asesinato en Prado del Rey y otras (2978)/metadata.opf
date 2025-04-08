@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2978</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fee484c5-c30d-4e16-bbc9-d2a9d1b6996e</dc:identifier>
+        <dc:title>Asesinato en Prado del Rey y otras historias sórdidas</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Hay sordidez en la historia fundamental de este libro, Asesinato en Prado del Rey; mejor dicho, sordideces agarradas a distintos niveles culturales y sociales, como si cada cual tuviera que llevar a cuestas sus propias garrapatas. Otras tres historias van de sórdidas por este libro y por la vida. La una hace referencia a los altos y bajos de una sala de fiestas de alto standing, que no por serlo se ve libre del acecho de la sordidez, ese SIDA estético que se filtra en las mejores estancias. Otra demuestra las venturas y desventuras de un sociólogo sexual y está inspirada en un personaje real que conocí en aquella Barcelona tan llena de mayistas parafranceses, franceses o posfranceses y en la que coexistía el extraño ménage á trois entre Marat, Sade y el general Franco. Finalmente el libro se cierra con la sordidez de un trío y un degüello: un pobre hombre, una pobre mujer y un pobre perro. No exagero. Cosas así he visto y se han visto.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Pepe Carvalho"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:17+00:00"/>
+        <meta name="calibre:title_sort" content="Asesinato en Prado del Rey y otras historias sórdidas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

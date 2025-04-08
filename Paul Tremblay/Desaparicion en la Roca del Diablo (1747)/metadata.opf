@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1747</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2decd20-3b53-42cc-b213-7d9ea204c5e7</dc:identifier>
+        <dc:title>Desaparición en la Roca del Diablo</dc:title>
+        <dc:creator opf:file-as="Paul Tremblay" opf:role="aut">Paul Tremblay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-16T05:00:00+00:00</dc:date>
+        <dc:description>En una noche de verano, Elizabeth Sanderson recibe una devastadora noticia: su hijo adolescente, Tommy, ha desaparecido en la espesura de un parque local, cerca del sitio popularmente conocido como la Roca del Diablo.Mientras la investigación policial se estanca, Elizabeth se sume en una pesadilla en la que a veces cree entrever la silueta fantasmagórica de su hijo…La misma que otros lugareños afirman haber visto de madrugada por la ventana. Con todo, no es hasta que empiezan a aparecer páginas arrancadas del diario de Tommy, cuyos textos esconden más de un secreto, cuando la desaparición en la Roca del Diablo se revela como un suceso verdaderamente perturbador.Paul Tremblay ganó el Premio de Novela Bram Stoker por Una cabeza llena de fantasmas, de la que Stephen King llegó a escribir que le había 'matado de miedo'. Con Desaparición en la Roca del Diablo vuelve a nadar entre los géneros del terror y el misterio introduciéndose en una familia y una población cuya aparente paz oculta en realidad muchas fisuras.</dc:description>
+        <dc:publisher>NOCTURNA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417834074</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:06.966834+00:00"/>
+        <meta name="calibre:title_sort" content="Desaparición en la Roca del Diablo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

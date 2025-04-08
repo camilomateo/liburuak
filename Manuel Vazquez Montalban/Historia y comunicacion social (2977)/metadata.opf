@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2977</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb5c933c-a56a-4994-8739-61012371aaed</dc:identifier>
+        <dc:title>Historia y comunicación social</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Historia y comunicación social no es una historia «de» la comunicación social: es un análisis de cómo el poder —los grupos que lo constituyen y los que aspiran a reemplazarlos— reproduce sus valores en sociedades cambiantes a través de unos instrumentos también cambiantes, cuya eficacia resulta maximizada por el progreso técnico: de ese modo se produce una interrelación entre la historia —la evolución de las sociedades y sus aparatos de dominación— y los sistemas y principios de la comunicación que legitima, critica y moldea conciencias.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Comunicación</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:17+00:00"/>
+        <meta name="calibre:title_sort" content="Historia y comunicación social"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

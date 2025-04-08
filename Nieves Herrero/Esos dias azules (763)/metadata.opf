@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d67a9d3-0f7f-4987-9299-57d8e99b3f19</dc:identifier>
+        <dc:title>Esos días azules</dc:title>
+        <dc:creator opf:file-as="Nieves Herrero" opf:role="aut">Nieves Herrero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-10T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Esta novela es una de las más conmovedoras historias de amor que jamás se han escrito. El relato de una pasión imposible y secreta que permanecerá para siempre en el alma de los lectores.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Nieves Herrero desvela por primera vez la verdadera vida de Pilar de Valderrama, la musa de Antonio Machado, una mujer que, en el ocaso de sus días, tuvo la valentía de confesar al mundo que ella fue la Guiomar de la que hablaban algunos de los versos más hermosos del poeta. Miembro de la alta sociedad madrileña, casada y con tres hijos, arriesgó todo por el amor del único hombre que supo comprenderla.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;A través del testimonio y la documentación inédita facilitada por la nieta de Guiomar, la autora reconstruye esta historia fascinante al tiempo que nos conduce a través de unos años clave de nuestra historia reciente, que culminan con la muerte de Machado en Colliure en 1939. En su bolsillo hallaron un último verso: «Esos días azules y ese solde la infancia». ¿Murió pensando en Pilar, la mujer real, siempre vestida de azul, oculta tras la Guiomar de los poemas? La respuesta está en estas páginas.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-25T10:54:14.684205+00:00"/>
+        <meta name="calibre:title_sort" content="Esos días azules"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2819</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e25f9283-3416-45fe-a680-f209dd9754a2</dc:identifier>
+        <dc:title>El quinto testigo</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-14T00:00:00+00:00</dc:date>
+        <dc:description>En tiempos difíciles, la delincuencia es una de las pocas cosas que sigue siendo rentable, pero si el abogado defensor Mickey Haller esperaba un repunte del negocio durante la recesión económica, la realidad es otra. Parece que incluso las personas que necesitan representación legal para no ir a la cárcel tienen que hacer recortes. De hecho, la parte más importante del negocio de Mickey en este momento no consiste en mantener a los clientes fuera de la cárcel, sino en mantener un techo sobre sus cabezas, ya que el auge de las ejecuciones hipotecarias afecta a miles de personas a las que se concedieron hipotecas poco realistas y que ahora se enfrentan a que las echen a la calle. Lisa Trammel es cliente de Mickey desde hace ocho meses y, aunque hasta ahora ha conseguido que el banco no le quite la casa, la tensión y la sensación de injusticia le han pasado factura. Hace poco, el banco consiguió una orden de alejamiento para impedirle protestar contra sus prácticas. Ahora, un...</dc:description>
+        <dc:publisher>AdN Editorial Grupo Anaya</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-20T10:21:17+00:00"/>
+        <meta name="calibre:title_sort" content="quinto testigo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

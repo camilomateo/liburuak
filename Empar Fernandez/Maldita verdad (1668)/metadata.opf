@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1668</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2552fc7-6877-4538-a5af-5da4a4434129</dc:identifier>
+        <dc:title>Maldita verdad</dc:title>
+        <dc:creator opf:file-as="Fernández, Empar" opf:role="aut">Empar Fernández</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Desde su divorcio, hace ya varios años, Olga Bernabé convive con su hijo Daniel, que se ha convertido en un desconocido de 17 años con el que apenas cruza alguna palabra. Una noche de finales de septiembre, Olga regresa a casa a medianoche, agotada tras una larguísima jornada en el hospital en el que trabaja y sintiéndose más sola que nunca. Comprueba que Daniel no ha cenado y que está acostado en su habitación con los auriculares puestos. Decide no despertarlo, pero lo que descubrirá al día siguiente la impulsará a conocer la auténtica vida de su hijo. De la mano de Raul Forcano, un investigador en ciernes, retrocederemos en la vida de los protagonistas, hasta llegar a un suceso que quizás sea mejor seguir ignorando. Conocer la verdad resultará para los implicados una verdadera maldición.</dc:description>
+        <dc:publisher>Ediciones Versátil</dc:publisher>
+        <dc:identifier opf:scheme="EPL">47476</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2024-07-17T21:51:01.673004+00:00"/>
+        <meta name="calibre:title_sort" content="Maldita verdad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

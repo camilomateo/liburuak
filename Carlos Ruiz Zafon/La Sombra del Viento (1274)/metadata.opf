@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">231233f2-e5b9-4c1c-8c06-4316aa8c7c13</dc:identifier>
+        <dc:title>La Sombra del Viento</dc:title>
+        <dc:creator opf:file-as="Zafon, Carlos Ruiz" opf:role="aut">Carlos Ruiz Zafón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-28T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;Un amanecer de 1945, un muchacho es conducido por su padre a un misterioso lugar oculto en el corazón de la ciudad vieja: el Cementerio de los Libros Olvidados. Allí encuentra La Sombra del Viento, un libro maldito que cambiará el rumbo de su vida y le arrastrará a un laberinto de intrigas y secretos enterrados en el alma oscura de la ciudad. Ambientada en la enigmática Barcelona de principios del siglo XX, este misterio literario mezcla técnicas de relato de intriga, de novela histórica y de comedia de costumbres, pero es, sobre todo, una tragedia histórica de amor cuyo eco se proyecta a través del tiempo. Con gran fuerza narrativa, el autor entrelaza tramas y enigmas a modo de muñecas rusas en un inolvidable relato sobre los secretos del corazón y el embrujo de los libros, manteniendo la intriga hasta la última página.&lt;/P&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial USA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307806796</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-07T17:32:14.130199+00:00"/>
+        <meta name="calibre:title_sort" content="Sombra del Viento, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

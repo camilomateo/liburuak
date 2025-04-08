@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2861</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45aff643-c87e-415f-a58f-dc4671e431c3</dc:identifier>
+        <dc:title>Una vida</dc:title>
+        <dc:creator opf:file-as="Palomas, Alejandro" opf:role="aut">Alejandro Palomas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-16T16:10:06+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;VUELVE AMALIA. VUELVE UNA MADRE. El cierre de un universo que ha conquistado a más de 150.000 lectores.&lt;/p&gt;
+&lt;p&gt;¿Cuánto sabe una madre? ¿Cuánto calla, cuánto dice, cuánto miente? Mientras las madres viven, los hijos somos hijos por encima de todo: más hijos que hermanos, más que maridos, más que padres. Colgamos de nuestras madres como el escalador de su mosquetón, no importa la edad, no importa la distancia. Si hasta su muerte mandan sus genes, después de su muerte manda la ausencia. «Si mamá me viera…», «Mamá se estará riendo, seguro», «¿Qué pensaría mamá de esto?». Hablamos con ellas cuando nadie nos mira, porque sabemos que están, aunque no las veamos. Sabemos que son eternas.&lt;/p&gt;
+&lt;p&gt;La tarde en que Fer, Emma y Silvia llevan a urgencias a su madre, aquejada de lo que parece una leve infección, no imaginan que la vida ha dispuesto para ellos un escenario totalmente inesperado. Al salir del hospital después del breve ingreso, el paisaje familiar es otro: los tres hermanos se convierten a la fuerza en hijos y cuidadores mientras se preparan para la posible orfandad que quizá vaya a dejar tras de sí un ser tan excéntrico e insustituible como Amalia.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Con su excelente prosa emocional, Alejandro Palomas cierra a lo grande el universo narrativo que inició con Una madre y que continuó con Un perro y Un amor, y que vuelve a mostrarnos con un texto intenso, vibrante y lleno de vida en su mejor versión. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-30T21:16:38.116907+00:00"/>
+        <meta name="calibre:title_sort" content="vida, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

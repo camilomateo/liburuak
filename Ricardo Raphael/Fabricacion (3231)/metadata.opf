@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3231</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0db20cab-7d95-4684-9bf2-57565bf2e4e2</dc:identifier>
+        <dc:title>Fabricación</dc:title>
+        <dc:creator opf:file-as="Raphael, Ricardo" opf:role="aut">Ricardo Raphael</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-12T19:52:56+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Cuando la verdad es fabricada&lt;/p&gt;
+&lt;p&gt;La madrugada del 12 de julio de 2005 un joven empresario desapareció en extrañas circunstancias en la Ciudad de México. Su familia aseguró de inmediato que había sido víctima de un secuestro y, con el paso de los meses, las calles se llenaron de anuncios espectaculares llamando a la población para que ayudara a localizar a los plagiarios.&lt;/p&gt;
+&lt;p&gt;Esta es la historia de un duelo fabricado que se convirtió en un descarado circo mediático; el mito de una madre que, bajo la fachada de una mujer devastada, torció los hechos para ganar notoriedad e influencia, mientras destruía la vida de muchas personas inocentes.&lt;/p&gt;
+&lt;p&gt;Ricardo Raphael explora la paradoja que significa que una persona pueda ser víctima y victimaria al mismo tiempo: una manipulación de la realidad que sucede si la verdad se subordina a la política y si las instancias responsables de impartir justicia son sustituidas por un increíble entramado de corrupción, crueldad y tráfico de influencias. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:19+00:00"/>
+        <meta name="calibre:title_sort" content="Fabricación"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

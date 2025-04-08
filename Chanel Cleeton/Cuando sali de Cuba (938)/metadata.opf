@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">938</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c850373b-8bee-4192-a0ec-d78f97a56e75</dc:identifier>
+        <dc:title>Cuando salí de Cuba</dc:title>
+        <dc:creator opf:file-as="Chanel Cleeton" opf:role="aut">Chanel Cleeton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Cuando salí de Cuba: Una mujer entre el amor, la nostalgia por su país y el deseo de venganza&lt;br&gt;&lt;br&gt;Palm Beach, 1960. Beatriz Pérez, una chica rebelde e independiente, vive en Estados Unidos desde que tuvo que exiliarse de Cuba junto a su familia. Sin embargo, no puede superar la pérdida de su hogar, de sus amigos y de su hermano. Mientras la Guerra Fría se extiende como un huracán sobre las costas del estrecho de Florida, Beatriz se ve atrapada entre el choque de la política cubanoamericana y un romance prohibido. Cuando las cambiantes mareas de la historia amenacen todo aquello por lo que ha luchado, deberá elegir entre su pasado y su futuro.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">GxHAEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788419638250</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-04T12:12:37.796055+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando salí de Cuba"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

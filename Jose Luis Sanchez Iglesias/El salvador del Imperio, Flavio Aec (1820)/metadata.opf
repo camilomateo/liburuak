@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1820</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">896b1d93-c10d-4a96-a87a-40dd871f46cd</dc:identifier>
+        <dc:title>El salvador del Imperio, Flavio Aecio</dc:title>
+        <dc:creator opf:file-as="Iglesias, José Luis Sánchez" opf:role="aut">José Luis Sánchez Iglesias</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En el año 476, el caudillo de los hérulos, Odoacro, destituyó al emperador de Occidente, Rómulo Augusto, enviando las insignias del poder imperial a Constantinopla, capital del Imperio Romano de Oriente. El Imperio romano de Occidente había llegado a su fin. ¿Qué había ocurrido para que el mayor imperio del mundo conocido desapareciese? Durante cientos de años se fueron sucediendo una serie de hechos que propiciaron el fin del Imperio: luchas internas entre el emperador y todos aquellos que aspiraban a ocupar su lugar; degradación y corrupción en la administración y entre sus funcionarios; un ejército en decadencia y descomposición que había perdido los valores que le habían hecho invencible, y por último, la llegada a los territorios del imperio de una serie de pueblos, denominados «bárbaros», que en muchas ocasiones habían sido contratados por los propios emperadores o los que aspiraban a deponerlos para servirse de ellos como fuerza armada. No obstante, en ese periodo, un general romano, Flavio Aecio de Mesia, ejerció las funciones de jefe del estado, magister militum, durante el mandato del emperador Valentiniano iii y consiguió frenar las acometidas de los pueblos bárbaros, retrasando la caída del Imperio de Occidente durante una generación. Su fama y su valor, así como la proeza conseguida, fueron tales que lo consideraron el salvador de Imperio de Occidente y sus contemporáneos de Oriente le dieron el sobrenombre de «el último romano». Esta es su historia. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Almuzara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-28T10:55:04.734929+00:00"/>
+        <meta name="calibre:title_sort" content="salvador del Imperio, Flavio Aecio, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

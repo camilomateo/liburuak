@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">447</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d4668a4-0fd9-47a6-94cf-07f16cbe4cf7</dc:identifier>
+        <dc:title>De vuelta a casa</dc:title>
+        <dc:creator opf:file-as="Morton, Kate" opf:role="aut">Kate Morton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-14T06:00:00+00:00</dc:date>
+        <dc:description>¿Hacia dónde nos lleva la estela de lo que callamos?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Nochebuena de 1959, Altos de Adelaida, Australia. Al final de un día caluroso, en los alrededores de la mansión de la familia Turner, un repartidor realiza un descubrimiento espeluznante. Comienza una investigación policial y el pequeño pueblo de Tambilla se ve sacudido por uno de los casos de asesinato más desconcertantes y dolorosos de la historia de Australia del Sur.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sesenta años más tarde y después de haber perdido su empleo en el periódico, Jess recibe una llamada inesperada por la que decide abandonar Londres y regresar a Sídney. Su abuela Nora, con quien se crio, ha sufrido una caída y está ingresada. El recuerdo de su querida abuela contrasta con la realidad al encontrar a una mujer frágil y desconcertada.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sin nada que hacer en casa de Nora, Jess se dedica a curiosear y encuentra un libro que detalla la investigación policial de una tragedia ya olvidada: la de la familia Turner. Mientras lo hojea, descubre una asombrosa conexión entre su familia y aquel suceso. Desde entonces la búsqueda de la verdad será el único camino posible.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;De vuelta a casa es el regreso de una de las grandes voces de la narrativa actual. Kate Morton construye una novela épica, de personajes memorables, que explora el poder de la maternidad, la erosión que provocan los recuerdos guardados durante generaciones y el poder curativo de la verdad.</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491295624</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Kate Morton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-23T10:00:39.029983+00:00"/>
+        <meta name="calibre:title_sort" content="De vuelta a casa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

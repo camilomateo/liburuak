@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">944</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad388708-bd29-41e6-955c-026af9441c17</dc:identifier>
+        <dc:title>Jordán</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-19T06:00:00+00:00</dc:date>
+        <dc:description>Si no es fácil describir los siete anteriores volúmenes de la serie «Caballo de Troya», la octava entrega Jordán supera todo lo imaginable. No se esfuerce. Su imaginación se quedará corta. En Jordán, usted quedará atrapado, y arrastrado por las sorpresas. Nadie, hasta hoy, ha narrado con tanto detenimiento el supuesto «bautismo» de Jesús de Nazaret. Nadie se había atrevido a relatar, con semejante crudeza, lo que pudo ocurrir en aquella histórica jornada, en uno de los afluentes del río Jordán. ¿Sabía que el Maestro nunca se retiró al desierto, y que no fue tentado por el diablo? Nunca, tanto, le parecerá tan poco.</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408004691</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Caballo de Troya"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-14T07:48:36.681914+00:00"/>
+        <meta name="calibre:title_sort" content="Jordán"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

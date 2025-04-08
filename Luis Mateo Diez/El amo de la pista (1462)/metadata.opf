@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1462</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e01b4bcb-6269-45bf-8463-bea074a4c540</dc:identifier>
+        <dc:title>El amo de la pista</dc:title>
+        <dc:creator opf:file-as="Luis Mateo Díez" opf:role="aut">Luis Mateo Díez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-03T09:44:00+00:00</dc:date>
+        <dc:description>La nueva novela del Premio Cervantes 2023«[Su obra destaca] por su prosa singular, que sorprende por sus continuos y nuevos desafíos, su pericia y dominio del lenguaje, así como su humor expresionista con el que retrata la complejidad humana».Del acta del jurado del Premio Cervantes«Llegó Cirro, el tiempo escampa».Cantero es un joven desorientado y sin voluntad que no sabe qué hacer con su vida. Perdió a sus padres y ha sido expulsado de la casa de su tío, que se siente traicionado por él. Vive a la que salta y acaba a merced de Cirro Cobalto, un personaje que lo enreda de mala manera y lo mantendrá bajo sus órdenes con extrañas encomiendas. Otros dos misteriosos personajes, Denís y Lombardo, intervendrán en los acontecimientos que le llevarán a las más inesperadas situaciones, entre el riesgo y la irrealidad de lo que pudiera parecerse a una disparatada película.El amo de la pista es una novela plena de ingenio e imaginación prodigiosa sobre la vulnerabilidad y la capacidad...</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420477251</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T14:46:09.454271+00:00"/>
+        <meta name="calibre:title_sort" content="amo de la pista, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

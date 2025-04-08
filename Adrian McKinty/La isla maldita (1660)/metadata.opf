@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1660</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39cbc077-8053-46bc-8089-c99f6337e8c6</dc:identifier>
+        <dc:title>La isla maldita</dc:title>
+        <dc:creator opf:file-as="McKinty, Adrian" opf:role="aut">Adrian McKinty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Heather ha logrado cambiar de vida: se ha casado con Tom, un joven y brillante médico viudo con dos hijos. Cuando su marido recibe una invitación para asistir a un congreso en Australia, deciden que la familia al completo lo acompañe para afianzar la relación entre Heather y los hijos adolescentes de Tom y lograr que la nueva familia funcione. Pero las que iban a ser unas idílicas vacaciones acabarán tomando un rumbo muy distinto.&lt;/p&gt;
+&lt;p&gt;Inicialmente, visitar la minúscula Isla Holandesa parece un sueño hecho realidad: koalas, pingüinos... animales fascinantes al alcance de la mano, algo imposible de experimentar en ningún otro lugar del mundo. Sin embargo, la Holandesa es una isla privada dominada por el clan de los O'Neill, una familia que no perdonará un accidente, convirtiendo las vacaciones de Tom y Heather en una auténtica pesadilla.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-07T13:32:36.861472+00:00"/>
+        <meta name="calibre:title_sort" content="La isla maldita"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

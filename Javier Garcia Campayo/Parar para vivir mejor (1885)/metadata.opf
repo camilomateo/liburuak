@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1885</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">144b133a-de78-407b-8928-9e500dbed15b</dc:identifier>
+        <dc:title>Parar para vivir mejor</dc:title>
+        <dc:creator opf:file-as="Javier García Campayo" opf:role="aut">Javier García Campayo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Guía definitiva para liberarte de la ansiedad y del ruido mental&lt;br&gt;&lt;br&gt;La mayoría de las personas vamos siempre corriendo, ¿tú también?&lt;/p&gt;
+&lt;p&gt;Vivimos en un mundo estresado y acelerado. Una sociedad superocupada donde cuidarse, disfrutar de la vida, descansar o desconectar se considera algo irresponsable, vago e incluso egoísta.&lt;/p&gt;
+&lt;p&gt;El doctor Javier García Campayo, uno de los psiquiatras más prestigiosos de nuestro país, nos explica en Parar para vivir mejor, las principales causas del malestar que experimentamos los seres humanos en nuestro día a día y nos da las herramientas que nos permitirán eliminar el sufrimiento innecesario ante las curvas e imprevistos que con toda seguridad vamos a sufrir en nuestra vida.&lt;/p&gt;
+&lt;p&gt;En este completo manual el lector conocerá sencillas prácticas de meditación y de mindfulness que le ayudarán a gestionar las emociones negativas y a combatir el estrés y la ansiedad.&lt;/p&gt;
+&lt;p&gt;Un libro imprescindible que nos enseña que la calma proporciona bienestar y fortalece nuestra salud mental.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:50+00:00"/>
+        <meta name="calibre:title_sort" content="Parar para vivir mejor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

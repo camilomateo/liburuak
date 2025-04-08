@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d241c6f2-f6c8-40bf-9e1d-f55ee12797eb</dc:identifier>
+        <dc:title>Los inocentes</dc:title>
+        <dc:creator opf:file-as="Baldacci, David" opf:role="aut">David Baldacci</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-17T05:00:00+00:00</dc:date>
+        <dc:description>Estados Unidos tiene enemigos, algunos de ellos personas sin escrúpulos a quienes no pueden detener ni la policía ni el FBI ni el ejército siquiera. En esos casos, el gobierno recurre a Will Robie, un sicario frío e implacable que nunca hace preguntas y siempre atrapa a su presa. Pero quizá Will Robie acaba de cometer el primer —y último— error de su carrera. El trabajo más reciente que le han encomendado ha salido mal. Robie ha sido enviado a eliminar a una persona en Washington, pero en la misión hay algo que no encaja, y él hace algo impensable: se niega a matar. A partir de ese momento, Robie se convierte en el blanco y debe escapar de su propia gente. En su huida, se cruza con una adolescente díscola que ha escapado de un hogar de acogida. Pero no es un fugitiva cualquiera: sus padres han sido asesinados y su propia vida corre peligro. Contraviniendo todas sus costumbres profesionales, Robie decide salir de las sombras para salvar la vida de la muchacha… y tal vez la suya propia.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Baldacci&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Will Robie"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-02-16T18:13:42.269039+00:00"/>
+        <meta name="calibre:title_sort" content="inocentes, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

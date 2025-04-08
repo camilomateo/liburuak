@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e6fb4b7-17ef-4639-b029-265b9b202bdd</dc:identifier>
+        <dc:title>Pandemia</dc:title>
+        <dc:creator opf:file-as="Robin Cook" opf:role="aut">Robin Cook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-27T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;El maestro del thriller médico vuelve con una explosiva novela sobre un virus mortal y sus oscuros orígenes.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Cuando una joven aparentemente sana se desploma de repente en el metro de Nueva York y muere al llegar al hospital, su caso es atribuido a una agresiva variante de la gripe. Hasta que acaba sobre la mesa de autopsias del veterano médico forense Jack Stapleton, quien descubre unas sorprendentes anomalías: la joven había sufrido un trasplante de corazón y, además, su ADN coincide con el del órgano recibido.&lt;/P&gt; &lt;P&gt;Después de que otras dos víctimas fallezcan de forma igualmente fulminante, Jack comienza a temer que la ciudad se enfrente a una pandemia sin precedentes. Y, cuando nuevos casos son descubiertos en Los Ángeles, Londres y Roma, Jack debe emprender una carrera contrarreloj para averiguar qué clase de virus puede causar estos estragos. Su investigación le conduce a un fascinante nuevo tipo de ingeniería genética que está haciendo soñar a la comunidad...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401024788</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robin Cook&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-02T20:06:33.904551+00:00"/>
+        <meta name="calibre:title_sort" content="Pandemia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

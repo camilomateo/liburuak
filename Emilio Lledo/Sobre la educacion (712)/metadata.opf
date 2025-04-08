@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">712</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4540c8e6-c660-4705-a65c-a5302d18e3e1</dc:identifier>
+        <dc:title>Sobre la educación</dc:title>
+        <dc:creator opf:file-as="Emilio Lledó" opf:role="aut">Emilio Lledó</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La defensa a ultranza de una educación moderna y emancipadora, de enfoque humanista y con un papel clave reservado a la Filosofía.&lt;/p&gt;
+&lt;p&gt;Emilio Lledó, uno de los más relevantes pensadores españoles de nuestro tiempo, ha situado la educación en el centro de su filosofía, y el ideal pedagógico que defiende se alimenta, por supuesto, de unos sólidos cimientos filosóficos con especial atención en la filosofía griega clásica, al lenguaje y a la memoria, pero también de una larga experiencia en las aulas.&lt;/p&gt;
+&lt;p&gt;Lledó, a favor de una educación pública «que haga desaparecer las azarosas e injustas diferencias que necesariamente impone la sociedad», defiende también una organización moderna e interdisciplinaria -no asignaturesca- de los conocimientos, reflexiona sobre la identidad, la necesidad de cultivar el lenguaje, los peligros de la obsesión tecnológica, de la escuela y la universidad, y de la paulatina desaparición de las Humanidades.&lt;/p&gt;
+&lt;p&gt;«En la raíz de la palabra "educación" está un verbo latino que significa "guiar", "conducir"; pero también sacar algo de alguien: guiar, pues, y desarrollar lo que yace en el fondo originario de cada naturaleza que es dinamismo, posibilidad, evolución, progreso.» Emilio Lledó&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Taurus</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencias sociales</dc:subject>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:35.275259+00:00"/>
+        <meta name="calibre:title_sort" content="Sobre la educación"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

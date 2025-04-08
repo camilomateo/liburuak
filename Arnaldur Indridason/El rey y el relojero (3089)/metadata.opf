@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3089</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e294e774-067c-4e67-8a59-eb38459f5cf9</dc:identifier>
+        <dc:title>El rey y el relojero</dc:title>
+        <dc:creator opf:file-as="Indridason, Arnaldur" opf:role="aut">Arnaldur Indridason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-20T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;SECRETOS, PODER Y CULPA.&lt;/p&gt;
+&lt;p&gt;EL PRIMER THRILLER HISTÓRICO DEL GRAN REFERENTE DE LA NOVELA NEGRA, ARNALDUR INDRIDASON.&lt;/p&gt;
+&lt;p&gt;En Copenhague, un relojero de origen islandés repara un reloj astronómico de más de doscientos años de antigüedad en el palacio real. Allí, recibe la visita del monarca danés, Cristián VII, que, acusado de ser mentalmente inestable, ha sido apartado del trono por su propio hijo.&lt;/p&gt;
+&lt;p&gt;Las charlas nocturnas entre los dos hombres se convierten en algo habitual y cada vez más confidencial, y el relojero acaba relatando el trágico destino de sus progenitores. Será entonces cuando el rey descubra de una forma descarnada lo que oculta el despiadado ejercicio del poder.&lt;/p&gt;
+&lt;p&gt;Una novela trepidante ambientada en el siglo XVIII, cuando Islandia era gobernada con mano de hierro por la corona danesa.&lt;/p&gt;
+&lt;p&gt;ADÉNTRATE EN EL UNIVERSO DE INDRIDASON.&lt;br&gt;18 MILLONES DE LECTORES YA LO HAN HECHO. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-23T09:50:04.352816+00:00"/>
+        <meta name="calibre:title_sort" content="rey y el relojero, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

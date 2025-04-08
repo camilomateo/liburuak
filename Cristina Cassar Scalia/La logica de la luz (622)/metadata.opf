@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">622</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a36269b-f145-4c58-a574-e01703827af1</dc:identifier>
+        <dc:title>La lógica de la luz</dc:title>
+        <dc:creator opf:file-as="Cristina Cassar Scalia" opf:role="aut">Cristina Cassar Scalia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-27T18:51:41+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Son las cuatro y media de la mañana. Desde su barca, el doctor Manfredi Monterreale y Sante Tammaro, periodista de una publicación digital, vislumbran en la costa a un hombre que arrastra con dificultad una gran maleta y la arroja entre las rocas. Unas horas más tarde, la subcomisaria Vanina Garrasi recibe una llamada anónima: una voz femenina dice haber presenciado esa misma noche, en un chalé junto al mar, el asesinato de una chica. Los dos hechos resultan estar relacionados y dan lugar a una investigación mucho más delicada de lo esperado. La perspicaz Vanina, cuya vida privada se complica cada día más, tendrá que moverse con cautela entre los poderosos personajes de la capital etnea. Gracias a la ayuda del comisario jubilado Biagio Patanè, convertido ya en «compañero estable», desentrañará una intriga que depara sorpresas hasta la última página.LIBR9877085&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Cristina Cassar Scalia&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Vanina Garrasi"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42.178109+00:00"/>
+        <meta name="calibre:title_sort" content="lógica de la luz, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

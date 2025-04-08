@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db6c364d-49f2-4b77-83d0-cf25e6dc4c34</dc:identifier>
+        <dc:title>Purasangre</dc:title>
+        <dc:creator opf:file-as="Pino, Noelia Lorenzo" opf:role="aut">Noelia Lorenzo Pino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-07T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="center" style="font-style: italic"&gt;Escribo desde Irún.&lt;/p&gt;
+&lt;p align="center" style="font-style: italic"&gt;Anoche vi a la chica del abrigo rojo.&lt;/p&gt;
+&lt;p align="center" style="font-style: italic"&gt;Encontradla, por favor.&lt;/p&gt;
+&lt;p align="center" style="font-style: italic"&gt;Corre peligro.&lt;/p&gt;
+&lt;p&gt;Un mensaje misterioso enviado a la Ertzaintza y una desaparición repentina en la ciudad fronteriza de Irún reúnen a la oficial Lur de las Heras y a la agente Maddi Blasco en un enigmático e inquietante caso. &lt;/p&gt;
+&lt;p&gt;La desaparecida es Sua, una chica del entorno cercano de Lur, pero a la que hace años que no ve. A través de la reconstrucción de los días previos a su desaparición, Lur y Maddi se ven envueltas en el mundo oculto de la joven, una telaraña de relaciones tóxicas, miedo, depresión y adicciones.&lt;/p&gt;
+&lt;p&gt;Las dos mujeres no solo deberán descubrir qué ha pasado con Sua, sino tratar de que este descenso al lado más oscuro del ser humano no afecte a sus vidas personales.&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;¿Conocemos realmente a las personas que nos rodean? ¿Y a nosotros mismos? ¿Qué seríamos capaces de hacer en una situación extrema?&lt;/p&gt;
+&lt;p&gt;Elogiada por autores de la talla de Ibón Martín o Susana Martín Gijón, llega la nueva y esperada novela de Noelia Lorenzo Pino, una de las escritoras más leídas del euskalnoir, con el regreso de la pareja de ertzainas favorita de los lectores: Lur de las Heras y Maddi Blasco.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Lur y Maddi"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-03-10T20:24:50.350821+00:00"/>
+        <meta name="calibre:title_sort" content="Purasangre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

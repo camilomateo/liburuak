@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9686b229-d2ff-4431-91ec-f16d7634c8c9</dc:identifier>
+        <dc:title>La última bestia</dc:title>
+        <dc:creator opf:file-as="Mosteiro, Josan" opf:role="aut">Josan Mosteiro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una impactante novela ambientada en Galicia con la que Josan Mosteiro se confirma como una de las voces más prometedoras del thriller español. La periodista Asunta Loureiro protagoniza todos los noticiarios del país cuando, durante una rueda de prensa de un partido de ultraderecha gallego, un político la insulta y ella le suelta un bofetón. Poco después, ese mismo político aparece en el bosque muerto con las manos amputadas. Con el paso de los días aparecerán más cuerpos de hombres, todos ellos mutilados. Cuando recibe un correo electrónico de la última víctima, esta vez, una mujer asesinada el día anterior, en el que le pide que descubra al culpable, la periodista se enfrentará a un dilema esencial: ¿será capaz de saltarse la ley para hacer justicia? Bajo las raíces de los árboles alguien cultiva un secreto, el aire de un misterio, la tierra de un crimen.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-27T17:24:55.719781+00:00"/>
+        <meta name="calibre:title_sort" content="última bestia, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

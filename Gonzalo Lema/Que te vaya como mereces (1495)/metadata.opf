@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1495</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72e160af-97f2-4768-a795-10d04ec7d399</dc:identifier>
+        <dc:title>Que te vaya como mereces</dc:title>
+        <dc:creator opf:file-as="Lema, Gonzalo" opf:role="aut">Gonzalo Lema</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-23T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="books-expander-content"&gt;
+                    &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;UNA NOVELA POLICIAL AMBIENTADA EN BOLIVIA, GANADORA DEL XI PREMIO INTERNACIONAL DE NOVELA NEGRA L'H CONFIDENCIAL 2017.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Cochabamba
+ (Bolivia), 2015. Santiago Blanco es un investigador policial retirado. A
+ sus cincuenta y seis años, tiene una novia, Gladis, que atiende un 
+puesto de comida frente al edificio en el que él trabaja como portero. 
+Ese edificio es del coronel Uribe, que lo contrató cuando Blanco 
+renunció a su puesto y llegó a vivir debajo de un puente.&lt;/p&gt;&lt;p&gt;Un
+ viejo delincuente reciclado como camarero llamado Abrelatas le pide 
+ayuda para encontrar el cadáver de su hijo, robado de la morgue. En 
+medio de una investigación macabra, y ante la visión desoladora de una 
+realidad corrupta, Santiago Blanco deberá resolver al mismo tiempo su 
+futuro sentimental y existencial.&lt;/p&gt;&lt;p&gt;Un relato de 
+denuncia que supone una crítica brutal a los estamentos de poder 
+bolivianos, a los bancos arruinados, a la corrupción política, 
+protagonizada por un personaje que dejará huella en el lector y le 
+recordará al mejor Philip Marlowe de Chandler.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial de Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788416867400</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01N0I7WZB</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-10T06:31:14.775786+00:00"/>
+        <meta name="calibre:title_sort" content="Que te vaya como mereces"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3006</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a56c2e0e-7a76-45fa-959b-29a02ee25067</dc:identifier>
+        <dc:title>Isaac Asimov Magazine 8</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac &amp; Gardner, Martin &amp; Smith, Stephanie A. &amp; Bowker, Richard &amp; Young, Robert F. &amp; Watson, Ian &amp; Martin, George R. R. &amp; Gunn, James E. &amp; Kittredge, Mary &amp; Farber, Sharon N. &amp; Smith, Dorothy" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:creator opf:file-as="Asimov, Isaac &amp; Gardner, Martin &amp; Smith, Stephanie A. &amp; Bowker, Richard &amp; Young, Robert F. &amp; Watson, Ian &amp; Martin, George R. R. &amp; Gunn, James E. &amp; Kittredge, Mary &amp; Farber, Sharon N. &amp; Smith, Dorothy" opf:role="aut">Martin Gardner</dc:creator>
+        <dc:creator opf:file-as="Asimov, Isaac &amp; Gardner, Martin &amp; Smith, Stephanie A. &amp; Bowker, Richard &amp; Young, Robert F. &amp; Watson, Ian &amp; Martin, George R. R. &amp; Gunn, James E. &amp; Kittredge, Mary &amp; Farber, Sharon N. &amp; Smith, Dorothy" opf:role="aut">Stephanie A. Smith</dc:creator>
+        <dc:creator opf:file-as="Asimov, Isaac &amp; Gardner, Martin &amp; Smith, Stephanie A. &amp; Bowker, Richard &amp; Young, Robert F. &amp; Watson, Ian &amp; Martin, George R. R. &amp; Gunn, James E. &amp; Kittredge, Mary &amp; Farber, Sharon N. &amp; Smith, Dorothy" opf:role="aut">Richard Bowker</dc:creator>
+        <dc:creator opf:file-as="Asimov, Isaac &amp; Gardner, Martin &amp; Smith, Stephanie A. &amp; Bowker, Richard &amp; Young, Robert F. &amp; Watson, Ian &amp; Martin, George R. R. &amp; Gunn, James E. &amp; Kittredge, Mary &amp; Farber, Sharon N. &amp; Smith, Dorothy" opf:role="aut">Robert F. Young</dc:creator>
+        <dc:creator opf:file-as="Asimov, Isaac &amp; Gardner, Martin &amp; Smith, Stephanie A. &amp; Bowker, Richard &amp; Young, Robert F. &amp; Watson, Ian &amp; Martin, George R. R. &amp; Gunn, James E. &amp; Kittredge, Mary &amp; Farber, Sharon N. &amp; Smith, Dorothy" opf:role="aut">Ian Watson</dc:creator>
+        <dc:creator opf:file-as="Asimov, Isaac &amp; Gardner, Martin &amp; Smith, Stephanie A. &amp; Bowker, Richard &amp; Young, Robert F. &amp; Watson, Ian &amp; Martin, George R. R. &amp; Gunn, James E. &amp; Kittredge, Mary &amp; Farber, Sharon N. &amp; Smith, Dorothy" opf:role="aut">George R. R. Martin</dc:creator>
+        <dc:creator opf:file-as="Asimov, Isaac &amp; Gardner, Martin &amp; Smith, Stephanie A. &amp; Bowker, Richard &amp; Young, Robert F. &amp; Watson, Ian &amp; Martin, George R. R. &amp; Gunn, James E. &amp; Kittredge, Mary &amp; Farber, Sharon N. &amp; Smith, Dorothy" opf:role="aut">James E. Gunn</dc:creator>
+        <dc:creator opf:file-as="Asimov, Isaac &amp; Gardner, Martin &amp; Smith, Stephanie A. &amp; Bowker, Richard &amp; Young, Robert F. &amp; Watson, Ian &amp; Martin, George R. R. &amp; Gunn, James E. &amp; Kittredge, Mary &amp; Farber, Sharon N. &amp; Smith, Dorothy" opf:role="aut">Mary Kittredge</dc:creator>
+        <dc:creator opf:file-as="Asimov, Isaac &amp; Gardner, Martin &amp; Smith, Stephanie A. &amp; Bowker, Richard &amp; Young, Robert F. &amp; Watson, Ian &amp; Martin, George R. R. &amp; Gunn, James E. &amp; Kittredge, Mary &amp; Farber, Sharon N. &amp; Smith, Dorothy" opf:role="aut">Sharon N. Farber</dc:creator>
+        <dc:creator opf:file-as="Asimov, Isaac &amp; Gardner, Martin &amp; Smith, Stephanie A. &amp; Bowker, Richard &amp; Young, Robert F. &amp; Watson, Ian &amp; Martin, George R. R. &amp; Gunn, James E. &amp; Kittredge, Mary &amp; Farber, Sharon N. &amp; Smith, Dorothy" opf:role="aut">Dorothy Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1977-02-14T23:00:00+00:00</dc:date>
+        <dc:description>Desde su aparición en 1977, el cite xml:lang=enIsaac Asimov’s Science Fiction Magazine/cite, avalado por el más prestigioso autor del género, ha venido publicando la mejor y más reciente producción de relatos de los nuevos valores de la ciencia ficción, creando un amplísimo e inestimable fondo editorial del que, en estas selecciones, ofrecemos mensualmente lo más destacado. Además de un relato del propio Isaac Asimov, en esta octava selección se incluyen relatos firmados, entre otros destacados autores, por Martin Gardner —máxima autoridad mundial en pasatiempos lógicos—, Richard Bowker, Ian Watson, Robert F. Young y la joven y prometedora Stephanie A. Smith.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">73420</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:series" content="Isaac Asimov Magazine"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:51.138238+00:00"/>
+        <meta name="calibre:title_sort" content="Isaac Asimov Magazine 8"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

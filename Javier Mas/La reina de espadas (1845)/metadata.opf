@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1845</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">206a4b63-ea3f-4038-aa09-6c4c9dbac7ca</dc:identifier>
+        <dc:title>La reina de espadas</dc:title>
+        <dc:creator opf:file-as="Más, Javier" opf:role="aut">Javier Más</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>España, 1448. Dos mujeres luchan por el poder en la corona de Castilla: la reina Isabel de Portugal, madre de futura Isabel la Católica, y la condesa de Montalbán, doña Juana de Pimentel. Ambas se enfrentarán en una lucha sin piedad para poseer la Lobera, la mítica y misteriosa espada de Fernando III que reposa en Sevilla, cuyo poder puede dar la victoria definitiva. Entre ellas avanza la construcción de la Catedral de Sevilla. La muerte del maestro de Obras y del arzobispo traerá a escena a la reina de la Corona de Aragón, María de Trastámara, cuya injerencia puede desequilibrar la batalla en Castilla y establecer un nuevo mapa peninsular. Liberado el cerrojo desde dentro, terminó de abrir la vitrina y cogió con su mano derecha aquella importantísima reliquia. Le pareció sentir recorrer por su cuerpo, en ese momento, una fuerza inusitada. Estaba más seguro de sí mismo, más intrépido, más dispuesto a luchar contra todo. Asida por la empuñadura, la levantó hacia el techo sin dejar de mirarla. Era la espada de Fernando III. Era la mítica Lobera, el arma que había ganado todas las batallas de quienes la habían empuñado.</dc:description>
+        <dc:publisher>Editorial Almuzara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-30T12:25:26.162458+00:00"/>
+        <meta name="calibre:title_sort" content="reina de espadas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

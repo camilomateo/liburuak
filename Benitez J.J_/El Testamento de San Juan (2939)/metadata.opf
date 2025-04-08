@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2939</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">907d7476-fd31-4db1-ba62-97d61890066b</dc:identifier>
+        <dc:title>El Testamento de San Juan</dc:title>
+        <dc:creator opf:file-as="Benítez J.J." opf:role="aut">Benítez J.J.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-01-01T23:00:00+00:00</dc:date>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">8408046764</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">JlsJAAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788408046769</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:26.249644+00:00"/>
+        <meta name="calibre:title_sort" content="Testamento de San Juan, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

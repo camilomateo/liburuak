@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por H</title>
+  <id>Calibre2opds:taglist:L:613:H</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_613_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por H" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <link href="./tags_613_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:en" />
+  <entry>
+    <title>Hamlet, Prince of Denmark</title>
+    <id>calibre:book:2464</id>
+    <updated>2024-09-09T10:34:36Z</updated>
+    <link href="../../William%20Shakespeare/Hamlet%2C%20Prince%20of%20Denmark%20%282464%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/Hamlet%2C%20Prince%20of%20Denmark%20%282464%29/Hamlet%2C%20Prince%20of%20Denmark%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="137 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [310]:</summary>
+    <link href="../book_2/book_2464.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Heart of Darkness</title>
+    <id>calibre:book:2459</id>
+    <updated>2024-09-09T10:34:35Z</updated>
+    <link href="../../Joseph%20Conrad/Heart%20of%20Darkness%20%282459%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joseph%20Conrad/Heart%20of%20Darkness%20%282459%29/Heart%20of%20Darkness%20-%20Joseph%20Conrad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="139 KB" />
+    <author>
+      <name>Joseph Conrad</name>
+      <uri>../authors_1/authors_1592_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [313]:</summary>
+    <link href="../book_2/book_2459.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Horla</title>
+    <id>calibre:book:2462</id>
+    <updated>2024-09-09T10:34:36Z</updated>
+    <link href="../../Guy%20de%20Maupassant/The%20Horla%20%282462%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Guy%20de%20Maupassant/The%20Horla%20%282462%29/The%20Horla%20-%20Guy%20de%20Maupassant.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="82 KB" />
+    <author>
+      <name>Guy de Maupassant</name>
+      <uri>../authors_1/authors_1594_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [329]:</summary>
+    <link href="../book_2/book_2462.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

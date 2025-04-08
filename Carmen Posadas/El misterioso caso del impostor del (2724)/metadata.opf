@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2724</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b2adc01-2652-4b1f-a352-973d236f14f5</dc:identifier>
+        <dc:title>El misterioso caso del impostor del Titanic</dc:title>
+        <dc:creator opf:file-as="Posadas, Carmen" opf:role="aut">Carmen Posadas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-08T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;En abril de 1912, la adinerada viuda de Peñasco tuvo un &lt;span class="a-text-bold"&gt;mal presentimiento&lt;/span&gt; mientras almorzaba en su palacete de Madrid. &lt;span class="a-text-bold"&gt;Algo les había pasado a su único hijo y su nuera&lt;/span&gt;,
+ a quienes en ese momento creía en París, disfrutando de su luna de 
+miel. La dama no se equivocaba: a pesar de las advertencias que les 
+había hecho, &lt;span class="a-text-bold"&gt;los recién casados se habían embarcado en el que se creía el barco más seguro del mundo y sin duda era el más lujoso: El Titanic&lt;/span&gt;. Pocos días después las funestas nuevas llegaron a la mansión de la viuda: &lt;span class="a-text-bold"&gt;su hijo había perecido y su nuera estaba sana y salva&lt;/span&gt;, pero rota de dolor en Nueva York.&lt;/p&gt;&lt;p&gt;Se pone en marcha así una intriga al más puro estilo &lt;span class="a-text-bold"&gt;Carmen Posadas&lt;/span&gt;, ambientada en el Madrid de principios de siglo y entre cuyo elenco destacan &lt;span class="a-text-bold"&gt;Emilia Pardo Bazán&lt;/span&gt; y uno de sus personajes ¿de ficción?, el dandy reconvertido en &lt;span class="a-text-bold"&gt;detective Ignacio Selva. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Años después del hundimiento del Titanic&lt;/span&gt;, entra en contacto con Selva una dama adinerada de Avilés con una noticia insólita: &lt;span class="a-text-bold"&gt;su hermano, un indiano millonario que había sido dado por muerto en el naufragio,&lt;/span&gt; &lt;span class="a-text-bold"&gt;aparece&lt;/span&gt;
+ en su mansión de La Habana para susto primero y alegría después de su 
+viuda. Tras la sorpresa inicial, se despierta la sospecha en la familia.
+ &lt;span class="a-text-bold"&gt;¿Ha vuelto ese hombre de entre los muertos o no es más que un impostor?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0D1N26DYD</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-11T07:23:55.122159+00:00"/>
+        <meta name="calibre:title_sort" content="misterioso caso del impostor del Titanic, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9a010eb-2cd1-4d94-b72a-939e6a881776</dc:identifier>
+        <dc:title>Caída libre</dc:title>
+        <dc:creator opf:file-as="Sadowsky, Nina" opf:role="aut">Nina Sadowsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;El &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;thriller&lt;/span&gt;&lt;span class="a-text-bold"&gt; que estabas esperando. Una novela que atrapará a los lectores de Patricia Highsmith y Gillian Flynn.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;¿Qué
+ harías si descubrieras que el amor de tu vida ha ensuciado sus manos 
+con sangre? ¿Estarías dispuesta a matar por él? ¿Estarías dispuesta a 
+morir?&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;Entonces...&lt;/span&gt;&lt;/p&gt;&lt;p&gt;En
+ el que debía ser el día más feliz de su vida, momentos después de dar 
+el «sí, quiero», un terrible secreto sale a la luz y amenaza con sacudir
+ la vida de Ellie para siempre: años atrás, su flamante marido Rob había
+ sido un asesino a sueldo. Quinn, su mentor, apareció después de la 
+ceremonia con un encargo para ella: matar a un hombre; de lo contrario, 
+el cadáver que encontrarían sería el de Rob.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;Ahora...&lt;/span&gt;&lt;/p&gt;&lt;p&gt;En
+ la paradisíaca isla de Santa Lucía, Ellie no está disfrutando 
+precisamente de una luna de miel. No puede sacarse de la cabeza que esas
+ manos que ahora lucen un anillo de casado estén manchadas de sangre. Y 
+hay gente muy peligrosa que aún sigue tras su pista. Rob nunca hubiera 
+imaginado que arrastraría a Ellie al siniestro mundo en que él se 
+encuentra atrapado. Y Ellie nunca hubiera imaginado hasta dónde sería 
+capaz de llegar para defender al hombre al que ama.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>DEBOLS!LLO</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01MRLDQEO</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Nina Sadowsky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:01:59.214236+00:00"/>
+        <meta name="calibre:title_sort" content="Caída libre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

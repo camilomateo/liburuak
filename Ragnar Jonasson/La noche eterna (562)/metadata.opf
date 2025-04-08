@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">562</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a0c7d9d-c4b8-4b93-a81a-cf3485e82bdf</dc:identifier>
+        <dc:title>La noche eterna</dc:title>
+        <dc:creator opf:file-as="Ragnar Jónasson" opf:role="aut">Ragnar Jónasson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-14T07:54:29+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Han pasado muchos años desde la última vez que Ásta puso un pie en Kálfshamarsnes, una pequeña lengua de tierra del norte de Islandia en la que parece que el tiempo se hubiera congelado: las rocas basálticas, imponentes y hermosas; las vastas extensiones de tierra, con sus luces y sombras; y, por encima de todo, el faro. En esos lugares apartados, Ásta pasó parte de su infancia y que ahora la acogen. Tres días antes de Navidad, el cuerpo de Ásta es hallado sin vida al pie del acantilado, exactamente en el mismo lugar donde, veintiséis años antes, su madre y su hermana menor perdieron la vida en extrañas circunstancias. Ari Thór será el encargado de un caso en el que el pasado será una pieza fundamental para resolver el misterio. Oscuro y absorbente, la cuarta entrega de la serie Islandia Negra es un thriller inquietante, atmosférico y totalmente sobrecogedor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Islandia Negra"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2023-04-17T11:30:19.862884+00:00"/>
+        <meta name="calibre:title_sort" content="noche eterna, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

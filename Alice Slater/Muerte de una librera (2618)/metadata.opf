@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4987f726-2191-4a84-b790-cb7e75b46c26</dc:identifier>
+        <dc:title>Muerte de una librera</dc:title>
+        <dc:creator opf:file-as="Slater, Alice" opf:role="aut">Alice Slater</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-23T09:59:43+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;«Lo realmente fantástico de la novela es la capacidad de su autora para evocar esa cualidad ligeramente misteriosa que siempre tienen las personas que trabajan en las librerías».&lt;br&gt;The Daily Mail&lt;br&gt;A Roach, librera solitaria y fanática de los crímenes reales, no le interesa en absoluto hacer amigos. Tiene toda la compañía que necesita en sus novelas sobre asesinos en serie, en sus truculentos podcasts y en su adorada mascota, el caracol Bleep. Hasta que Laura empieza a trabajar en la librería y, con su seductora sonrisa, se convierte de inmediato en la librera favorita de los clientes. Pero bajo esa brillante envoltura, Roach percibe enseguida algo inquietante y que conoce muy bien: la misma oscuridad que anida en su interior.&lt;br&gt;Así, a medida que el magnetismo se va convirtiendo en obsesión, Roach decide que formará parte de la existencia de Laura, tanto si esta lo quiere como si no… Después de todo, ¿quién no mataría por vivir una buena historia? &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Siruela</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410183872</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-20T12:10:30.018913+00:00"/>
+        <meta name="calibre:title_sort" content="Muerte de una librera"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

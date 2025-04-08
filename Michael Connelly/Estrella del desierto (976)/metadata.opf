@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">976</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2fc4c1ae-1d36-4dfd-ad0e-fc3f110253c1</dc:identifier>
+        <dc:title>Estrella del desierto</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-17T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Renée Ballard y Harry Bosch trabajan juntos para dar caza a la «ballena blanca» del detective, el asesino de una familia enteraHa pasado un año desde que la detective Renée Ballard abandonó el cuerpo de policía cansada de la misoginia, la desmoralización y una burocracia interminable. Sin embargo, después de que el jefe de policía en persona le diga que puede elegir su propio destino en el departamento, Ballard recupera su placa y deja la «sesión nocturna» para reconstruir la Unidad de Casos Abiertos en la codiciada División de Robos y Homicidios. &lt;/p&gt;
+&lt;p&gt;Harry Bosch lleva años trabajando en un caso que le atormenta, pero que no ha conseguido resolver: el asesinato de toda una familia a manos de un psicópata que sigue en libertad. Ballard le hace una oferta: si viene a trabajar con ella como investigador voluntario en la nueva Unidad de Casos Abiertos, podrá perseguir su «ballena blanca» con el respaldo de los recursos del departamento de policía. &lt;/p&gt;
+&lt;p&gt;Ambos deberán dejar de lado viejos resentimientos para volver a trabajar juntos y dar alcance a un peligroso asesino.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411481656</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">yTW0EAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Harry Bosch"/>
+        <meta name="calibre:series_index" content="25"/>
+        <meta name="calibre:timestamp" content="2023-08-16T15:29:06.100111+00:00"/>
+        <meta name="calibre:title_sort" content="Estrella del desierto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

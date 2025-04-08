@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b95c2e33-4527-44ce-85f3-3b1cda59cd9e</dc:identifier>
+        <dc:title>Casas de cristal</dc:title>
+        <dc:creator opf:file-as="Penny, Louise" opf:role="aut">Louise Penny</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;b&gt;La novela más intrigante de Louise Penny hasta la fecha:&lt;/b&gt;&lt;/p&gt;
+ &lt;p style=""&gt;&lt;b&gt;Three Pines como nunca lo habías visto.&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;Cuando una figura misteriosa aparece en Three Pines un frío día de noviembre, lo primero que sienten Armand Gamache y el resto de los vecinos es curiosidad. Luego, recelo. El recién nombrado comisario de la Sûreté de Québec sospecha que la criatura tiene raíces profundas y oscuras intenciones. Sin embargo, confía en que sus temores crecientes no se hagan realidad. Unos días más tarde, la triste figura se ha evaporado y se halla un cadáver en la iglesia...&lt;/p&gt;
+ &lt;p&gt;Alternando los rápidos intercambios de una sala de audiencia del tribunal con los sucesos que se han desarrollado en Three Pines, Louise Penny teje en &lt;i&gt;Casas de cristal&lt;/i&gt; un brillante juego de elipses, de claroscuros y un relato de considerable profundidad psicológica. Una gran obra de una gran creadora.&lt;/p&gt;
+ &lt;p&gt;&lt;b&gt;Reseñas:&lt;/b&gt;&lt;br /&gt;«Penny tiene un don para entrelazar lo mundano con lo mítico. Firme, civilizado y con una determinación sombría, Gamache se convierte en una figura heráldica, tan valiente y astuta como el héroe de una saga islandesa. Los males contemporáneos a los que se enfrenta tienen matices apocalípticos [...]. [Tiene] un final cinematográfico en el que se libera todo el suspense tan bien planteado y tan cuidadosamente mantenido a lo largo del libro.»&lt;br /&gt;&lt;i&gt;The Wall Street Journal&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;«Sobresaliente [...]. &lt;i&gt;Casas de cristal&lt;/i&gt; triunfa en todos los aspectos de manera brillante, con su elegante prosa, sus tramas intrincadas y, sobre todo, gracias al héroe que ha creado Penny, conmovedor y emocionalmente complejo, y a su círculo de amigos y colegas.»&lt;br /&gt;&lt;i&gt;The Seattle Times&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Penny, cuyos libros terminan en las listas de las mejores novelas del año, no &lt;i&gt;sólo&lt;/i&gt; en las de novela negra, es la historia de una sola mujer contra el esnobismo literario. De primera. Penny es una maestra del fuego lento, en el cual los lecto</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418968846</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Louise Penny&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Armand Gamache"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:timestamp" content="2023-03-23T10:00:37.676034+00:00"/>
+        <meta name="calibre:title_sort" content="Casas de cristal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

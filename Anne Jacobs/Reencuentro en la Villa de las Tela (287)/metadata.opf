@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">287</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aefffb8b-f607-4b2e-acbc-b3de9cc3d97c</dc:identifier>
+        <dc:title>Reencuentro en la Villa de las Telas</dc:title>
+        <dc:creator opf:file-as="Jacobs, Anne" opf:role="aut">Anne Jacobs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-13T10:20:04+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;b&gt;La villa de las telas cierra sus puertas con una cautivadora última entrega.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;¿Podrán Marie y Paul salvar su historia de amor?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Augsburgo, 1939. La familia Melzer se enfrenta a tiempos oscuros. La Segunda Guerra Mundial amenaza en el horizonte y va a cambiar las vidas de todos para siempre. La fábrica de telas está al borde de la bancarrota y Paul de nuevo tiene que tomar una dura decisión, esta vez sin su esposa, Marie, que desde 1935 vive con su hijo Leo en Nueva York. Los años de ausencia han causado en ella una profunda tristeza, aunque su amor por Paul es más fuerte que nunca. Y cuando Marie oye hablar de que hay una nueva mujer en la vida de Paul su mundo se tambalea. ¿Conseguirá recuperar a su amado marido?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Anne Jacobs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="La Villa de las Telas"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2023-02-07T07:36:54.322719+00:00"/>
+        <meta name="calibre:title_sort" content="Reencuentro en la Villa de las Telas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

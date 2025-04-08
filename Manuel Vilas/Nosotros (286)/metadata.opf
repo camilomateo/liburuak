@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48cd78a8-d920-4651-a63a-58bdded14e17</dc:identifier>
+        <dc:title>Nosotros</dc:title>
+        <dc:creator opf:file-as="Vilas, Manuel" opf:role="aut">Manuel Vilas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-11T09:59:10+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;Irene
+ cree haber vivido el matrimonio más perfecto del mundo. Años de 
+absoluta entrega y pasión entre dos seres humanos, así evoca ella su 
+amor con Marcelo, su difunto marido.&lt;/p&gt;&lt;p&gt;Tenían una 
+conexión que maravillaba y extrañaba a su círculo más cercano: era una 
+pareja que vivía el uno para el otro, como si cada día fuera el primero.
+ Esta relación, la mayor de las historias de amor, los mantuvo aislados 
+de su entorno, en los márgenes de la realidad común.&lt;/p&gt;&lt;p&gt;Con
+ la pérdida de Marcelo, el mundo de Irene se rompe, pero ella descubre 
+una insólita forma de seguir viviendo junto a él para salir adelante. 
+Esa manera de recordar e invocar a quien fue el amor de su vida 
+construye esta fantasía literaria.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;Nosotros&lt;/span&gt;
+ es una novela que explora los límites del sentimiento amoroso y a su 
+vez un viaje a las profundidades del alma de una mujer atrapada en una 
+utopía íntima, imaginativa y mortal. Sin embargo, poco a poco iremos 
+descubriendo que la soledad impone su ley y su desgarro. &lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Manuel Vilas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-07T07:36:54.040430+00:00"/>
+        <meta name="calibre:title_sort" content="Nosotros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

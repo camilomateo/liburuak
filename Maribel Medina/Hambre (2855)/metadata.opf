@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2855</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3206edc5-68b3-484a-9acf-dd47e1d6ac32</dc:identifier>
+        <dc:title>Hambre</dc:title>
+        <dc:creator opf:file-as="Medina, Maribel" opf:role="aut">Maribel Medina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-14T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Una mañana, Sylvie se despierta y descubre mediante una nota escrita que su pareja la ha dejado. Por primera vez en años, se encuentra sola. La aplasta la vida diaria, con las ovejas y su mugre, las verduras podridas de la huerta, las botas embarradas, la ropa húmeda que no se seca, el miedo y el aislamiento.&lt;/p&gt;&lt;p&gt;En un intento de ganar algo de dinero extra, Sylvie se ofrece como detective privada, aunque no tiene más experiencia que la lectura de novelas policíacas clásicas, y se ve implicada en el caso de unas vacas degolladas que la conducirá a una historia de secretos y dolor.&lt;/p&gt;&lt;p&gt;La soledad del paisaje es un muro hostil. No sabe estar sola. Solo tiene hambre, pero un hambre de mentira. No hay dignidad en su hambre, ni empatía ni apoyo. Es una enfermedad que le seca la piel y penetra en sus venas. No es el abandono lo que la tortura, es la convicción de que esa soledad la va a volver loca.&lt;/p&gt;&lt;p&gt;Pronto comprende que la idea del amor absoluto es una estupidez infantil y...</dc:description>
+        <dc:publisher>Contraluz Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-30T21:16:37.386155+00:00"/>
+        <meta name="calibre:title_sort" content="Hambre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

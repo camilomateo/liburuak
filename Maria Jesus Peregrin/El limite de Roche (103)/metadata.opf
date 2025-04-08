@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">103</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">faaaf7f7-e963-4c3d-a792-8b6ae3252c22</dc:identifier>
+        <dc:title>El limite de Roche</dc:title>
+        <dc:creator opf:file-as="Peregrin, Maria Jesus" opf:role="aut">Maria Jesus Peregrin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-09T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Las inexplicables lagunas de memoria del prestigioso perfumista 
+Enzo Marchetti, mantienen en jaque a la policía de Florencia que 
+investiga la aparición de un cadáver en extrañas circunstancias y su 
+relación con otros asesinatos del pasado.&lt;br&gt;La periodista María Jesús 
+Peregrín recurre en su cuarta novela a la astronomía para desarrollar 
+una excitante trama en torno al mundo del arte y los perfumes, obligando
+ al lector a transitar entre inquietantes mundos paralelos.&lt;/div&gt;</dc:description>
+        <dc:publisher>‎ Letrame Grupo Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Maria Jesus Peregrin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:15:17+00:00"/>
+        <meta name="calibre:title_sort" content="El limite de Roche"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

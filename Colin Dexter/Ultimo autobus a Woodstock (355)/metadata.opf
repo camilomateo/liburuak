@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">355</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adcbc0ca-a5e0-497b-8893-638ee9d2d68b</dc:identifier>
+        <dc:title>Último autobús a Woodstock</dc:title>
+        <dc:creator opf:file-as="Dexter, Colin" opf:role="aut">Colin Dexter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-18T21:37:41+00:00</dc:date>
+        <dc:description>&lt;div&gt;«Lo importante es contemplar a estos personajes de carne y hueso, 
+creíbles, nunca pueriles ni demenciados, deambulando por las calles de 
+Oxford, investigando, dialogando con estudiantes y dons y con otros, y 
+asistir a sus comedidas penas. Jamás son histriónicos ni incurren en 
+estupideces (así es muy fácil que “ocurran” desgracias), uno está a 
+gusto en su compañía. Quizá su falta de pretensiones, su honradez y su 
+sobriedad los condenan hoy al ostracismo en nuestro país deslumbrado por
+ la pedantería y los ademanes de genialidad».   &lt;br&gt;Javier Marías&lt;br&gt;&lt;br&gt;El cuerpo sin vida de Sylvia Kaye aparece a las puertas de un &lt;span class="a-text-italic"&gt;pub&lt;/span&gt;
+ de Woodstock, un pequeño y pacífico pueblo británico. El inspector 
+Morse de la policía de Oxford —exalumno de la prestigiosa universidad 
+local, apasionado de la música de Wagner, los crucigramas y las pintas 
+de cerveza— está seguro de saber quién es la muchacha con la que Sylvia 
+fue vista en una parada de autobús aquella fatídica noche y que parece 
+tener la clave para resolver el asesinato. Pero el irreprimible sarcasmo
+ y el exceso de confianza de Morse en sus dotes deductivas chocan de 
+inmediato con la frialdad de la joven, dejando claro que descubrir la 
+dolorosa verdad y actuar en consecuencia requerirá hasta el último átomo
+ de la disciplina profesional del inspector… &lt;br&gt;Oxford como telón de 
+fondo, unas historias sin fisuras y un elaborado desarrollo de los 
+personajes son las tres inconfundibles señas de identidad que han 
+convertido a Colin Dexter en uno de los exponentes contemporáneos más 
+importantes del género, un verdadero maestro de la ficción policial 
+clásica.&lt;/div&gt;</dc:description>
+        <dc:publisher>Siruela</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Colin Dexter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-24T08:48:10.257568+00:00"/>
+        <meta name="calibre:title_sort" content="Último autobús a Woodstock"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

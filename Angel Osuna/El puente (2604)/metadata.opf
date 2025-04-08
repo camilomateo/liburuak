@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2605bd83-272e-4bb7-9b24-af5707eb71db</dc:identifier>
+        <dc:title>El puente</dc:title>
+        <dc:creator opf:file-as="Osuna, Ángel" opf:role="aut">Ángel Osuna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Con esta intriga cargada de acción y de ritmo trepidante, Ángel G. Osuna irrumpe con contundencia en el panorama del noir español para ahondar en lo más mezquino y cruel del alma humana. «Con gran olfato para lo más negro, respeto por la construcción de un misterio, y sanas dosis de lánguido humor, Osuna sirve un cóctel perfecto para los amantes del género». Ray Loriga CRÍMENES Cádiz. Un cuerpo cuelga del puente de la Constitución de 1812. Se trata de Ada Sofía, la hija de uno de los banqueros más poderosos del país, y todo apunta a una muerte violenta. CONSPIRACIONES El macabro asesinato despierta un gran interés en la prensa y la presión crece para la inspectora Salvadora Rossi, que se verá obligada a resolver un caso tan complicado como el momento personal por el que atraviesa. PERVERSIÓN Cuando a las pocas horas aparezca el cadáver de otra joven mutilada y con señales de tortura en el mismo chalet donde vivía la primera víctima, la investigación se volverá aún más compleja y peligrosa, incluso para la propia policía. UNA CIUDAD A PUNTO DE COLAPSAR UN THRILLER QUE TE HARÁ ESTALLAR LA CABEZA&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-16T08:50:31.226114+00:00"/>
+        <meta name="calibre:title_sort" content="puente, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

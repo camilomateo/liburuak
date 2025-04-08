@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12b75de5-174b-4818-9440-049576cae2e7</dc:identifier>
+        <dc:title>El desorden que dejas</dc:title>
+        <dc:creator opf:file-as="Montero, Carlos" opf:role="aut">Carlos Montero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-24T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Cuando se publicó El desorden que dejas (Premio Primavera de 
+Novela 2016) el público lector se rindió al talento narrativo de Carlos 
+Montero, creador y guionista con una trayectoria jalonada de grandes 
+éxitos&lt;br&gt;como las series Física o química o el fenómeno mundial Élite.&lt;br&gt;&lt;br&gt;La
+ novela es un intenso thriller psicológico protagonizado y relatado 
+en primera persona por Raquel, una joven profesora de literatura en 
+horas bajas que acepta una suplencia en un instituto de Novariz, en el 
+corazón de Galicia, el pueblo de donde, casualmente, procede su marido.&lt;br&gt;&lt;br&gt;En
+ su primer día de trabajo, al finalizar las clases encuentra en su bolso
+ una nota que dice: «¿Y tú cuánto vas a tardar en morir?». 
+Decidida, Raquel hará todo lo posible por averiguar a qué se debe 
+esa amenaza y lo que arranca como una historia de acoso a una 
+profesora se convertirá enseguida en un thriller perverso y apasionante.
+ Una disección de la debilidad humana. De la culpa. De la fragilidad 
+de las relaciones. Y de las mentiras y secretos sobre las que 
+montamos nuestras vidas sin calibrar ni ser conscientes de las 
+consecuencias.&lt;/div&gt;</dc:description>
+        <dc:publisher>LIBRANDA PLANETA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467047820</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Carlos Montero&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:14:11.567430+00:00"/>
+        <meta name="calibre:title_sort" content="desorden que dejas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

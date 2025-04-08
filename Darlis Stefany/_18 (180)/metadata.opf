@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">180</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">290db324-96cf-446a-b735-601628d02904</dc:identifier>
+        <dc:title>+18</dc:title>
+        <dc:creator opf:file-as="Stefany, Darlis" opf:role="aut">Darlis Stefany</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-11T06:05:30+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'; font-weight: 696"&gt;&lt;span style="color: #0f1111"&gt;Uno de los últimos fenómenos de la plataforma Wattpad: una historia de amor alocada, divertida y llena de giros inesperados. Cuando los secretos salen a la luz... ¡todo es posible.&lt;/span&gt;&lt;/p&gt;
+&lt;p align="justify" style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #0f1111"&gt;Alaska Hans tiene un secreto: le encanta escribir. Y se le da especialmente bien. Tanto que su novela escrita bajo seudónimo se ha convertido en un éxito total en la plataforma JoinApp. Drake, su insoportable pero atractivo vecino lo descubrirá y nada volverá a ser lo mismo entre los dos. Porque cuando tu vecino sexy descubre tu mayor secreto... ¿hay algo que puede ir mal?&lt;/span&gt;&lt;/p&gt;
+&lt;p align="justify" style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #0f1111"&gt;Escenas comprometedoras, situaciones incómodas y una historia romántica que nos recuerda que el amor platónico no es más que una simple excusa para aquellos que no se atreven a dar el paso. Una novela alocada, caótica, divertida y sobre todo... +18.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Erótica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Darlis Stefany&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspírame"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:17.834908+00:00"/>
+        <meta name="calibre:title_sort" content="+18"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

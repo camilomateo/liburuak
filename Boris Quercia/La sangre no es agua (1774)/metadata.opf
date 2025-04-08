@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1774</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">733930ca-bc71-4c2e-bd73-1f41cf107b8f</dc:identifier>
+        <dc:title>La sangre no es agua</dc:title>
+        <dc:creator opf:file-as="Boris Quercia" opf:role="aut">Boris Quercia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-25T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt; &lt;p align="justify"&gt;Una nueva e inolvidable aventura del célebre detective Santiago Quiñones. El policía Santiago Quiñones se ve envuelto en un espiral de infortunios. Una cruda decisión respecto al marido de su madre, la inesperada aparición de un medio hermano, una temible red de chinos narcotraficantes y un grupo de ultraderecha que pretende erradicar la inmigración, son solo algunas de las vicisitudes que Quiñones deberá enfrentar acompañado de su entrañable sarcasmo y pesimismo. Al igual que en sus dos obras anteriores (Santiago Quiñones, tira y Perro Muerto), el narrador, actor y cineasta Boris Quercia retrata un Santiago que no duerme y, sobre todo, a un personaje adorable y sobrecogedoramente errático. Un antihéroe que se entromete en los oscuros recovecos del sistema y que navega intensamente entre sus desaciertos y amores equivocados.&lt;br&gt;&lt;br&gt;Hoy no quiero matar a nadie es su primera incursión literaria y marca el nacimiento de su personaje Santiago Quiñones. Con Perro muerto, su segunda novela, obtuvo el prestigioso Grand Prix de Littérature Policière el año 2016 en París, Francia. La serie la completa La sangre no es agua.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:11.889334+00:00"/>
+        <meta name="calibre:title_sort" content="La sangre no es agua"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

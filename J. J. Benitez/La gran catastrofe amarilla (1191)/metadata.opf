@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1191</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8084579e-79db-42fe-a49c-fd9b76eef09c</dc:identifier>
+        <dc:title>La gran catástrofe amarilla</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-12T22:00:00+00:00</dc:date>
+        <dc:description>Horas antes de partir hacia su segunda vuelta al mundo, J. J. Benítez recibe una carta procedente de EE. UU. La carta es abierta, pero no leída. Juanjo embarca en el Costa Deliziosa y, en plena navegación, surge la pandemia del coronavirus. Lo que se presentaba como un viaje de placer se convierte en un caos. El escritor lleva un cuaderno de bitácora en el que registra las incidencias de cada día. Primero aparecen los personajes, las historias singulares de personas de más de 10 nacionalidades del mundo unidas por el afán de pasarlo bien y vivir la vida. Poco a poco van llegando al relato los temas emocionales y el miedo al contagio que hizo saltar todas las alarmas. De fondo, la investigación y los interrogantes que una persona de la brillantez de Benítez siempre plantea. La gran catástrofe amarilla es una vertiginosa mezcla de aventuras, conversaciones, temores y esperanzas. Al regresar a España, Benítez lee la carta procedente de California y queda atónito. Nada es lo que parece. El final del libro es de infarto.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>memorias</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-05T16:55:57.526872+00:00"/>
+        <meta name="calibre:title_sort" content="gran catástrofe amarilla, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

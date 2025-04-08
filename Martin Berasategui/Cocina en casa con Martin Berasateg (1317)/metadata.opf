@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e52a2f62-fc97-4b08-b1bc-ce3dbd956deb</dc:identifier>
+        <dc:title>Cocina en casa con Martín Berasategui</dc:title>
+        <dc:creator opf:file-as="Berasategui, Martín" opf:role="aut">Martín Berasategui</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-22T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p style="text-align:center"&gt;&lt;B&gt;De la mano de Martín Berasategui, uno de nuestros grandes chefs  internacionales, 1.100 recetas imprescindibles para la cocina de cualquier casa.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Tapas, bocadillos, ensaladas, sopas, verduras, huevos, arroces,  pescados, carnes, salsas, postres, panes, conservas..., en el más  completo recetario de cocina publicado en los últimos años. Una cocina  sin extravagancias ni ingredientes extraños, esa que nos reconforta a  diario y es responsable de buena parte de nuestra felicidad.&lt;/P&gt; &lt;p style="text-align:center"&gt;&lt;B&gt;Un libro para gente como tú, a la que le gusta comer y cocinar de verdad.&lt;/B&gt;&lt;BR&gt;&lt;B&gt;Un libro de cocina que se convertirá en un clásico.&lt;/B&gt;&lt;/P&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417338947</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:27.535578+00:00"/>
+        <meta name="calibre:title_sort" content="Cocina en casa con Martín Berasategui"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

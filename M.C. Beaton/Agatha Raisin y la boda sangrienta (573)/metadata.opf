@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79315732-4f6e-4bb0-8246-c64e74b23809</dc:identifier>
+        <dc:title>Agatha Raisin y la boda sangrienta</dc:title>
+        <dc:creator opf:file-as="M.C. Beaton" opf:role="aut">M.C. Beaton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-10T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;b&gt;Vuelve Agatha Raisin, la heroína más aclamada del cosy crime,&lt;/b&gt;&lt;br /&gt;&lt;b&gt;con más de diez millones de lectores en todo el mundo.&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;Increíble pero cierto. James Lacey, el soltero más deseado de los Cotswolds, se ha rendido al encanto de su vecina, la chispeante y cincuentona Agatha Raisin. El día de su matrimonio amanece brillante y despejado, pero el cuento de hadas dura poco: en el momento en que los tortolitos están a punto de darse el sí, Jimmy, el ex marido de la novia, al que creía muerto hace tiempo, irrumpe en la ceremonia... y Agatha intenta estrangularlo. Furioso, James rompe el compromiso. Así que cuando, al día siguiente, Jimmy aparece asesinado, y Agatha y James se convierten en los dos principales sospechosos, deberán trabajar juntos para limpiar sus nombres y arrojar luz sobre el asunto.&lt;/p&gt;
+ &lt;p&gt;&lt;b&gt;Sobre la serie:&lt;/b&gt;&lt;br /&gt;«La imperfecta heroína de M. C. Beaton es una piedra preciosa.»&lt;br /&gt;&lt;i&gt;Publishers Weekly&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Las novelas detectivescas de M. C. Beaton, una maestra de la comedia negra escandalosa, ya son de culto.»&lt;br /&gt;&lt;i&gt;The Times&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«El áspero sentido del humor y su retrato afectuoso, pero nada halagador de Agatha, unamujer arisca y que a menudo actúa como una adolescente, hacen de esta obra una flor digna de arrancarse.»&lt;br /&gt;&lt;i&gt;Publishers Weekly&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Cualquiera que esté interesado en unas horas de lectura inteligente y divertida, querrá conocer a la señora Agatha Raisin.»&lt;br /&gt;&lt;i&gt;The Cleveland Pain Dealer&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;«Si te gusta la astuta miss Marple de Agatha Christie, no podrás resistirte a Agatha Raisin, una cincuentona que no le teme a nada. [...] Esta serie es una golosina.»&lt;br /&gt;&lt;i&gt;Version Femina&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«¡Un regalo universal!»&lt;br /&gt;&lt;i&gt;Le Temps&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Una heroína colorida [...], de la que nos enamoramos desde el primer capítulo.»&lt;br /&gt;&lt;i&gt;Le Parisien&lt;/i&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418968860</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Agatha Raisin"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2023-04-23T20:20:40.899061+00:00"/>
+        <meta name="calibre:title_sort" content="Agatha Raisin y la boda sangrienta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

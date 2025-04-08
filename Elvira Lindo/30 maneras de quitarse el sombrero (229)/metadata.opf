@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9cdeb5a-964f-4e57-8af8-ae97f64484ee</dc:identifier>
+        <dc:title>30 maneras de quitarse el sombrero</dc:title>
+        <dc:creator opf:file-as="Lindo, Elvira" opf:role="aut">Elvira Lindo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;En los años veinte, Maruja Mallo, Margarita Manso y Concha Méndez desafiaron las normas de la época al quitarse el sombrero en plena Puerta del Sol, haciendo de ese gesto un acto de desobediencia. Escritoras, pintoras, fotógrafas y creadoras de diversas disciplinas han seguido su ejemplo al expresar sus opiniones y trasladar su particular visión del mundo al debate cultural de su tiempo. A lo largo de la historia, muchas mujeres se han visto obligadas a quitarse el sombrero de la imposición social que las ha mantenido alejadas de una comunidad intelectual mayoritariamente masculina.&lt;/span&gt;&lt;br style="-webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Prologado por Elena Poniatowska, una de las grandes escritoras en lengua castellana, Elvira Lindo presenta veintinueve ensayos literarios que analizan la obra y el tiempo en que vivieron creadoras que han desarrollado su obra al margen del canon más convencional, y un magnífico autorretrato en el que repasa su trayectoria vital y literaria. &lt;/span&gt;&lt;br style="-webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Siempre atenta tanto al ámbito social como al doméstico en el marco de la creación, Elvira Lindo despliega con una prosa magnífica toda su empatía, erudición y espíritu ecléctico e inquisitivo en este magnífico mosaico narrativo.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432234460</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Elvira Lindo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-27T11:04:00.552512+00:00"/>
+        <meta name="calibre:title_sort" content="30 maneras de quitarse el sombrero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

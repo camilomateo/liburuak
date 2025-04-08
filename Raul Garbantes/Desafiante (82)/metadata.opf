@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">82</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81fb3a4b-16d0-491c-9099-3466b3ccaf87</dc:identifier>
+        <dc:title>Desafiante</dc:title>
+        <dc:creator opf:file-as="Garbantes, Raúl" opf:role="aut">Raúl Garbantes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Víctimas asesinadas en condiciones similares. Una sola pista será la clave para ir tras el homicida... pero también para descubrir un vínculo al pasado de uno de los agentes. Del autor bestseller de Amenazada llega esta trepidante sexta entrega de la serie. Es una imagen aterradora; la del cadáver del hombre que aparece en un parque de la ciudad de Omaha. Los agentes del FBI Julia Stein y Hans Freeman deben resolver este caso junto a dos detectives de homicidios del Departamento de Policía; la racional y ambiciosa Olivia Sheedy y el veterano y distraído Brian Maus. Hans tiene la intuición, a medida que avanzan las pesquisas, de que el asesino es motivado por un gran odio y Julia sospecha que la clave del caso está en el pasado. No saben casi nada de la víctima y no encuentran ninguna razón para que alguien deseara vengarse de ella. Las cosas se complican cuando aparece otro cadáver con el mismo modus operandi. Entonces, algo insólito sucede que trastorna a Julia a tal punto que debe luchar con los más terribles fantasmas del ayer, no solo para resolver el caso sino para poder continuar su carrera en el FBI.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Raúl Garbantes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Agentes del FBI Julia Stein y Hans Freeman"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:02:45.584205+00:00"/>
+        <meta name="calibre:title_sort" content="Desafiante"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

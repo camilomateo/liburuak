@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2591</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">299caa70-9885-47ae-89e3-961ceeca54d6</dc:identifier>
+        <dc:title>El ladrón de cuerpos</dc:title>
+        <dc:creator opf:file-as="Pérez, Luis David" opf:role="aut">Luis David Pérez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-07T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;La inspectora de homicidios Marta Escudero afronta su caso más 
+desgarrador hasta la fecha cuando una mujer aterrada irrumpe en su vida.&lt;br&gt;&lt;br&gt;Con
+ la revelación de una red que secuestra personas para extraer órganos y 
+abastecer a los ricos y poderosos, Marta y su equipo se sumergen en un 
+submundo de secretos, traiciones y peligro extremo.&lt;br&gt;&lt;br&gt;Mientras 
+luchan contra la burocracia, deben desentrañar la red y detener a sus 
+cabecillas antes de que más vidas sean sacrificadas.&lt;br&gt;&lt;br&gt;En una 
+carrera contrarreloj, Marta debe tomar decisiones difíciles antes de un 
+enfrentamiento final lleno de suspense que la llevará al límite en su 
+búsqueda de justicia.&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CWP4Z2DY</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>suspense</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-12T13:39:20.057172+00:00"/>
+        <meta name="calibre:title_sort" content="ladrón de cuerpos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

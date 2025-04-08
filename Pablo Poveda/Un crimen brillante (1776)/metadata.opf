@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1776</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0901f190-47b3-4b18-a313-779f541264ff</dc:identifier>
+        <dc:title>Un crimen brillante</dc:title>
+        <dc:creator opf:file-as="Poveda, Pablo" opf:role="aut">Pablo Poveda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-07T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Fama, deudas, amantes y un montón de secretos.&lt;br&gt;La desaparición de un famoso actor de cine pone a Maldonado como principal sospechoso de una investigación.&lt;br&gt;El detective pronto descubrirá que nadie está interesado en encontrar al actor con vida.&lt;br&gt;Dar con él, será su única salvación.&lt;br&gt;&lt;br&gt;Después de una accidental noche de desenfreno, el destino de Maldonado se cruzará con el del famoso actor Ponce Sanz. Tras su desaparición, una prueba lo señalará como la última persona que estuvo con él. Mientras tanto, Maldonado tiene que lidiar con la caída de su negocio y el auge de las agencias de detectives que reinan en Madrid.&lt;br&gt;&lt;br&gt;Su reputación y negocio están en juego, como también su libertad. &lt;br&gt;&lt;br&gt;Un Crimen Brillante es la tercera entrega del detective Javier Maldonado. Una novela negra contemporánea ambientada en Madrid, cargada de suspense, misterio, pulp y acción.&lt;br&gt;&lt;br&gt;Autor finalista del Premio Literario Amazon 2018 y 2020, y autor de las series Caballero, Dana Laine, Rojo o El Misterio de la Familia Fonseca.&lt;br&gt;&lt;br&gt;Miles de lectores en España y Latinoamérica ya han disfrutado con sus novelas.&lt;br&gt;&lt;br&gt;«Sus novelas de misterio e intriga permiten a los lectores 'ponerse en la piel de otro', accediendo a una vida distinta» — La Vanguardia.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09K8X76RX</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:12.419582+00:00"/>
+        <meta name="calibre:title_sort" content="crimen brillante, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18507ec2-92e1-4ad9-b167-13d1677b32d9</dc:identifier>
+        <dc:title>Peter Pan</dc:title>
+        <dc:creator opf:file-as="Barrie, J. M." opf:role="aut">J. M. Barrie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-15T23:00:00+00:00</dc:date>
+        <dc:publisher>www.elejandria.com</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>CUENTOS INFANTILES</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. M. Barrie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-23T18:46:05.810053+00:00"/>
+        <meta name="calibre:title_sort" content="Peter Pan"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por V</title>
+  <id>Calibre2opds:taglist:2d:133:V</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_133_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por V" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_2d_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por -" />
+  <link href="./tags_133_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="--" />
+  <entry>
+    <title>Vanity Fair</title>
+    <id>calibre:book:2533</id>
+    <updated>2024-09-09T10:34:50Z</updated>
+    <link href="../../William%20Makepeace%20Thackeray/Vanity%20Fair%20%282533%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Makepeace%20Thackeray/Vanity%20Fair%20%282533%29/Vanity%20Fair%20-%20William%20Makepeace%20Thackeray.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="800 KB" />
+    <author>
+      <name>William Makepeace Thackeray</name>
+      <uri>../authors_1/authors_1674_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Satire" />
+    <category term="England" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Married" />
+    <category term="Women" />
+    <category term="Female" />
+    <category term="friendship" />
+    <category term="Social" />
+    <category term="classes" />
+    <category term="British" />
+    <category term="Europe" />
+    <category term="Waterloo" />
+    <category term="Battle" />
+    <category term="of" />
+    <category term="Belgium" />
+    <category term="1815" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2533.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Viajes por España</title>
+    <id>calibre:book:2125</id>
+    <updated>2024-09-06T02:21:20Z</updated>
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/Viajes%20por%20Espana%20%282125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/Viajes%20por%20Espana%20%282125%29/Viajes%20por%20Espana%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="263 KB" />
+    <author>
+      <name>Pedro Antonio de Alarcón</name>
+      <uri>../authors_1/authors_1509_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Spain" />
+    <category term="--" />
+    <category term="Description" />
+    <category term="and" />
+    <category term="travel" />
+    <category term="Social" />
+    <category term="Life" />
+    <category term="customs" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los valores literarios</title>
+    <id>calibre:book:2123</id>
+    <updated>2024-09-06T02:21:19Z</updated>
+    <link href="../../Azorin/Los%20valores%20literarios%20%282123%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Azorin/Los%20valores%20literarios%20%282123%29/Los%20valores%20literarios%20-%20Azorin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="270 KB" />
+    <author>
+      <name>Azorín</name>
+      <uri>../authors_1/authors_1507_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Spanish" />
+    <category term="literature" />
+    <category term="--" />
+    <category term="History" />
+    <category term="and" />
+    <category term="criticism" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2123.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

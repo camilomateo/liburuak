@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">926</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8a243ad-51f9-4bc8-a674-01c5c89fa5d1</dc:identifier>
+        <dc:title>El secreto de su mente</dc:title>
+        <dc:creator opf:file-as="Benedict, Marie" opf:role="aut">Marie Benedict</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ella cambió el mundo de la ciencia. Tres hombres se llevaron el crédito Rosalind Franklin es feliz en el laboratorio, ahí da rienda suelta a su imaginación y realiza los experimentos que, está segura, cambiarán el mundo de la ciencia. Lo único que ensombrece ese universo perfecto son sus compañeros, especialmente Maurice Wilkins, James Watson y Francis Crick, quienes la menosprecian por ser mujer. Por eso, cuando el director del laboratorio le asigna trabajar en la estructura del adn, ella está decidida a demostrar que es tan brillante como cualquier hombre y que puede descubrir todos los secretos que guardan los genes, aunque la exposición constante a los rayos X ponga en riesgo su vida. Cuando finalmente la estructura de doble hélice del adn se le revela con perfecta claridad, son sus colegas, y no Rosalind, quienes reciben el crédito. La nueva y poderosa novela de Marie Benedict, autora bestseller de The New York Times, cuenta la vida de una mujer que sacrificó todo para descubrir la naturaleza de nuestro adn, pero que fue injustamente olvidada por la historia.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Planeta México</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-04T12:12:17+00:00"/>
+        <meta name="calibre:title_sort" content="El secreto de su mente"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>No hagas montañas de granos de arena (y TODO son granos de arena)</title>
+  <id>urn:book:b5d8059b-a7e8-4062-8f88-34961b84492f</id>
+  <updated>2024-04-30T05:13:16Z</updated>
+  <link href="./book_1471.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="No hagas montañas de granos de arena (y TODO son granos de arena)" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por S" />
+  <link href="../../Rafael%20Santandreu/No%20hagas%20montanas%20de%20granos%20de%20aren%20%281471%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Rafael%20Santandreu/No%20hagas%20montanas%20de%20granos%20de%20aren%20%281471%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Rafael%20Santandreu/No%20hagas%20montanas%20de%20granos%20de%20aren%20%281471%29/No%20hagas%20montanas%20de%20granos%20de%20-%20Rafael%20Santandreu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+  <author>
+    <name>Rafael Santandreu</name>
+    <uri>../authors_0/authors_185_Page_1.xml</uri>
+  </author>
+  <published>2024-03-13T06:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        <span>La terapia que ha transformado a millones de
+        personas. Una nueva mentalidad que hará que te sientas
+        cada día más contento, que no te enfades por
+        pequeñeces y que goces de una gran autoestima.</span>
+      </p>
+      <p>
+        <span>Este libro incluye capítulos especiales
+        para:</span>
+      </p>
+      <br class="description" />
+      <br />
+      <p>
+        <span>
+          - Combatir el sobrepeso con facilidad.
+          <br />
+          - Conquistar el éxito en lo que te propongas.
+          <br />
+          - Resolver los conflictos de pareja.
+          <br />
+          - Superar la muerte de un ser querido.
+        </span>
+      </p>
+    </div>
+  </content>
+  <link href="../authors_0/authors_185_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Rafael Santandreu" />
+  <link href="http://www.goodreads.com/book/title/No%20hagas%20monta%C3%B1as%20de%20granos%20de%20arena%20%28y%20TODO%20son%20granos%20de%20arena%29" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/No%20hagas%20monta%C3%B1as%20de%20granos%20de%20arena%20%28y%20TODO%20son%20granos%20de%20arena%29" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/No%20hagas%20monta%C3%B1as%20de%20granos%20de%20arena%20%28y%20TODO%20son%20granos%20de%20arena%29%20Rafael%20Santandreu" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=No%20hagas%20monta%C3%B1as%20de%20granos%20de%20arena%20%28y%20TODO%20son%20granos%20de%20arena%29&amp;field-author=Rafael%20Santandreu" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Rafael%20Santandreu" type="text/html" rel="related" title="Rafael Santandreu en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Rafael%20Santandreu" type="text/html" rel="related" title="Rafael Santandreu en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/SantandreuRafael" type="text/html" rel="related" title="Rafael Santandreu en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Rafael%20Santandreu" type="text/html" rel="related" title="Rafael Santandreu en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Rafael%20Santandreu" type="text/html" rel="related" title="Rafael Santandreu en ISFDB" target="_blank" />
+</entry>

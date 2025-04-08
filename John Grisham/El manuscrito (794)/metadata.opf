@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">794</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89684798-be04-42ac-a318-1577caff15bd</dc:identifier>
+        <dc:title>El manuscrito</dc:title>
+        <dc:creator opf:file-as="Grisham, John" opf:role="aut">John Grisham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-02T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Bienvenidos a Camino Island, donde todo puede pasar... incluso un asesinato durante un huracán que podría convertirse en el crimen perfecto. NADIE LO CUENTA COMO GRISHAM. Cuando el huracán Leo se desvía de su curso previsto para dirigirse hacia Camino Island, en la costa de Florida, la mayoría de sus habitantes decide abandonar la isla. Solo un pequeño grupo de irreductibles elige quedarse, entre ellos Bruce Cable, el propietario de la librería Bay Books. El huracán avanza destrozándolo todo y dejando casas derrumbadas, hoteles y tiendas destruidos, calles inundadas y una docena de muertos. Uno de los fallecidos es Nelson Kerr, amigo de Bruce y autor de thrillers. Pero los indicios sugieren que la tormenta no fue la causa de la muerte de Nelson: la víctima recibió numerosos golpes sospechosos en la cabeza. ¿Quién querría matar a Nelson? La policía local está sobrepasada por los efectos del huracán y no se encuentra en condiciones de ocuparse del caso. Pero Bruce comienza a preguntarse si algunos oscuros personajes de las novelas de su amigo podrían ser más reales que ficticios. Y en algún lugar del ordenador de Nelson está el manuscrito de su nueva novela. ¿Estará allí, en negro sobre blanco, la clave del caso? Bruce empieza a investigar y lo que descubre entre sus páginas es más impactante que cualquiera de los giros de las tramas de Nelson... y mucho más peligroso. La crítica ha dicho...«Otra joya de John Grisham.»Observer «El mejor autor vivo de thriller.»Ken Follett «El manuscrito tiene el habitual sello distintivo de Grisham: una trama trepidante y escenas llenas de tensión.»Independent «La perfecta mezcla escapista de acción detectivesca, entresijos del mundo literario... e incluso un poco de romance.»Mail on Sunday «Entretenimiento de evasión [...] con elementos de los thrillers más tradicionales de Grisham.»The New York Times «Una novela de intriga que juega al gato y al ratón. Grisham es un escritor irresistible. Su prosa es fluida y fantástica.»Pittsburgh Post-Gazette&lt;/p&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-31T11:04:23.843813+00:00"/>
+        <meta name="calibre:title_sort" content="manuscrito, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

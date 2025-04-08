@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7478a7d1-aa75-4cdf-848d-b5f0fcad8c37</dc:identifier>
+        <dc:title>La caja de Pandora</dc:title>
+        <dc:creator opf:file-as="Davis, Lindsey" opf:role="aut">Lindsey Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div style="text-align: center;"&gt;&lt;b style="-webkit-tap-highlight-color: transparent; font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;La nueva novela de la reina del género policiaco en la Antigua Roma.&lt;/b&gt;&lt;/div&gt;&lt;span style="font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;&lt;/span&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px; font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px; font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;La investigadora privada Flavia Albia se ve inmersa de nuevo en un intrigante misterio en el que ayudará incluso a la hostil exesposa de su marido.&lt;/p&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px; font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;En una de las siete colinas de Roma, el monte Quirinal, la joven Clodia ha muerto envenenada por una poción amorosa. La única persona que puede haberle facilitado el acceso a esa poción es una mujer que responde al nombre de Pandora, experta en hierbas, recetas, remedios y conjuros que negocia con productos de belleza. Y con algo mucho más siniestro.&lt;/p&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px; font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;Albia se verá obligada a investigar la muerte de Clodia y desenmascarará los secretos que se esconden en el monte Quirinal, en los que se mezclan la traición fortuita, la dudosa moralidad de algunos y el conflicto de las bandas criminales.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Lindsey Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Flavia Albia"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:26:53.765949+00:00"/>
+        <meta name="calibre:title_sort" content="caja de Pandora, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

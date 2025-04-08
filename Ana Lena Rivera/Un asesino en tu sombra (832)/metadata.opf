@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">832</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d9a216c-820c-462f-809b-715a41b37654</dc:identifier>
+        <dc:title>Un asesino en tu sombra</dc:title>
+        <dc:creator opf:file-as="Rivera, Ana Lena" opf:role="aut">Ana Lena Rivera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div id="bookDescription_feature_div" class="celwidget" data-feature-name="bookDescription" data-csa-c-type="widget" data-csa-c-content-id="bookDescription" data-csa-c-slot-id="bookDescription_feature_div" data-csa-c-asin="" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="7vgqqf-c2uce0-h2f5eo-ge3kf" data-cel-widget="bookDescription_feature_div"&gt;
+                                  &lt;div data-a-expander-name="book_description_expander" data-a-expander-collapsed-height="140" class="a-expander-collapsed-height a-row a-expander-container a-spacing-base a-expander-partial-collapse-container" style="max-height:140px"&gt; &lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;Gracia
+ San Sebastián, investigadora de fraudes financieros, se ve envuelta en 
+la desaparición de Imelda, una joven psicóloga a la que encuentran 
+muerta pocos días después en las vías del tren. El marido, artificiero 
+de la Guardia Civil y principal sospechoso, le pide ayuda para descubrir
+ al asesino de su mujer. Junto a su amigo Rafa Miralles, comisario de la
+ policía de Oviedo, Gracia empezará una investigación que la llevará a 
+la caza de un asesino por varias capitales europeas. Al mismo tiempo, la
+ vida de Gracia se desmorona. La relación con Jorge, su marido, pasa por
+ un mal momento, y su reputación como investigadora está en entredicho 
+tras acusar a un funcionario con esclerosis múltiple de fingir su 
+enfermedad para competir en la modalidad más extrema del triatlón, el 
+Ironman.&lt;/p&gt;  &lt;/div&gt;  &lt;/div&gt;                               &lt;/div&gt;
+                              &lt;div id="hushpuppyUpsell_feature_div" class="celwidget" data-feature-name="hushpuppyUpsell" data-csa-c-type="widget" data-csa-c-content-id="hushpuppyUpsell" data-csa-c-slot-id="hushpuppyUpsell_feature_div" data-csa-c-asin="" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="5gyhv9-1we5in-om7c92-x6me23" data-cel-widget="hushpuppyUpsell_feature_div"&gt;
+                                                   &lt;/div&gt;
+                              &lt;div id="richProductInformation_feature_div" class="celwidget" data-feature-name="richProductInformation" data-csa-c-type="widget" data-csa-c-content-id="richProductInformation" data-csa-c-slot-id="richProductInformation_feature_div" data-csa-c-asin="" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="s4no3i-r2fiaz-9gnblp-65l4pv" data-cel-widget="richProductInformation_feature_div"&gt;
+                         &lt;div id="rich_product_information" class="a-section a-spacing-none celwidget" data-csa-c-id="11a6kv-k9x5sl-50fezt-595g6p" data-cel-widget="rich_product_information"&gt;             &lt;hr aria-hidden="true" class="a-spacing-none a-divider-normal"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417708771</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B082P2PHDM</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Gracia San Sebastián"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-06-09T11:41:39.397074+00:00"/>
+        <meta name="calibre:title_sort" content="asesino en tu sombra, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

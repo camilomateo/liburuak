@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9abee4f4-0dd2-49d5-a366-df4c01b9e71d</dc:identifier>
+        <dc:title>Acaba con el SIBO</dc:title>
+        <dc:creator opf:file-as="Velasco, Mireia" opf:role="aut">Mireia Velasco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-21T06:34:33+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Deja de vivir con miedo a la tripa hinchada: la solución al SIBO existe.&lt;/p&gt;
+&lt;p&gt;A estas alturas, es más que probable que ya hayas oído hablar del SIBO, pero ¿sabías que puede ser de muchas clases? ¿Que es preciso saber cuál es tu caso antes de intentar ponerle remedio? ¿Que las dietas restrictivas no lo son todo?&lt;/p&gt;
+&lt;p&gt;Sal del ciclo de «todo me sienta mal».&lt;/p&gt;
+&lt;p&gt;Mireia Velasco, especialista en salud digestiva, te descubre todo lo que hay detrás del SIBO: cómo entender sus causas y, sobre todo, cómo ponerle remedio. Con un método de tres fases —limpieza, recuperación y mantenimiento—, toda la información de la mano de la evidencia científica y menús para ponerlo en práctica, este libro te ofrece una mirada integrativa con la que abordar el problema desde todos sus ángulos. Mejora desde ya tu calidad de vida. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-14T13:34:10.725513+00:00"/>
+        <meta name="calibre:title_sort" content="Acaba con el SIBO"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1537</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d58c34b7-518d-4c18-b110-0ccc5af06dbe</dc:identifier>
+        <dc:title>El devorador de almas</dc:title>
+        <dc:creator opf:file-as="Bruck, Milos" opf:role="aut">Milos Bruck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-26T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;«Los muertos también hablan, solo hay que saber escucharlos».&lt;br&gt;&lt;br&gt;Un misterioso asesinato que combina lo real con lo fantástico marca el inicio de esta enigmática y absorbente novela, en la que el inspector Pablo Artuña, acompañado de la periodista Ana Torres, se verán envueltos en una inesperada y sorprendente trama. El accidente imposible de un tren de pasajeros pondrá a prueba a nuestros protagonistas y provocará que aflore en ellos toda clase de emociones, llevándolos al límite, para iniciar así una carrera contrarreloj por salvar sus vidas.&lt;br&gt;Estos dos eventos, sin aparente relación entre sí, se convertirán en el hilo conductor de una historia repleta de suspense, misterio, redención y toques románticos. Nos encontramos ante un thriller que ahonda en los sentimientos de cada personaje, sacando lo mejor y lo peor de cada uno de ellos, abocados a encontrarse en algún lugar del camino y dejar atrás sus diferencias para lograr salvarse mutuamente. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>UNKNOWN</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Torres-Artuña"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:41.379190+00:00"/>
+        <meta name="calibre:title_sort" content="devorador de almas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

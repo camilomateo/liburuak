@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">787</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b407ce0-e4b5-48af-9fcd-14f9e4e434b8</dc:identifier>
+        <dc:title>Sólo son víctimas</dc:title>
+        <dc:creator opf:file-as="Matteucci, Diego" opf:role="aut">Diego Matteucci</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-22T22:00:00+00:00</dc:date>
+        <dc:description>La prensa le ha apodado el Monstruo. Sobre su cabeza pesan los asesinatos a sangre fría de numerosos niños. El inspector de policía Luca Giatti se ocupa del caso. Es un hombre de familia, aún conmocionado por la pérdida de su padre, fallecido poco antes. El Monstruo era también un padre de familia,  devastado por la pérdida de su hijo a manos de un terrible mal. Ambos luchan contra sus demonios interiores y su sentimiento de culpa, encontrando el primero en el mal y el segundo en la abnegación una especie de catarsis que los acercará cada vez más.</dc:description>
+        <dc:publisher>Samarcanda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-25T11:33:06.834793+00:00"/>
+        <meta name="calibre:title_sort" content="Sólo son víctimas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

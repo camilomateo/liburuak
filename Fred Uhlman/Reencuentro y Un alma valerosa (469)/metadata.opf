@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edfa547a-fa1c-4cb5-8694-67c7dfab1b47</dc:identifier>
+        <dc:title>Reencuentro y Un alma valerosa</dc:title>
+        <dc:creator opf:file-as="Uhlman, Fred" opf:role="aut">Fred Uhlman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;i&gt;Reencuentro,&lt;/i&gt; un clásico contemporáneo de Tusquets Editores que pronto se convirtió en &lt;i&gt;best-seller&lt;/i&gt;, narra la intensa amistad, en la Alemania de 1932, que surge entre dos jóvenes de dieciséis años –Hans Schwarz, nacido en una familia judía, y Konradin von Hohenfels, rico aristócrata, miembro de una de las más antiguas familias europeas– cuando coinciden en una selecta escuela de Stuttgart. Sin embargo, al cabo de apenas un año, todo empezará a torcerse: con el ascenso de Hitler al poder, Konradin entra a formar parte de las juventudes hitlerianas mientras Hans huye al exilio. Tan sólo mucho tiempo después, Hans, instalado en Estados Unidos, «reencontrará», de un modo sorprendente y emotivo, a su viejo amigo. &lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Un alma valerosa&lt;/i&gt; narra esa amistad vivida por Konradin, el rico nazi, y en circunstancias dramáticas. Desde la prisión, aterrado, mientras espera a que &lt;br /&gt;lo ajusticien por haber participado en el intento de asesinato de Hitler en julio de 1944, escribe una carta a Hans para contarle cómo vivió aquellos años de adolescencia.&lt;/p&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Fred Uhlman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-24T20:44:12.147273+00:00"/>
+        <meta name="calibre:title_sort" content="Reencuentro y Un alma valerosa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

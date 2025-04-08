@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1492</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da12f26e-de6d-4b82-8a9c-8770f9ebf66b</dc:identifier>
+        <dc:title>El legado del mal</dc:title>
+        <dc:creator opf:file-as="Meneses, Alberto" opf:role="aut">Alberto Meneses</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Después de una larga excedencia, Roberto Fuentes ha vuelto al trabajo, aunque lo ha hecho alejado de los focos de la prensa y del punto de mira de sus superiores. Un destino tranquilo en Llanes, donde ver crecer a sus dos hijos, manteniéndolos a salvo de los peligros que le han perseguido los últimos años.&lt;br&gt;&lt;br&gt;Sin embargo, no siempre es posible huir del pasado.&lt;br&gt;&lt;br&gt;Una presunta posesión, una sombra del pasado que regresa, una amenaza que creía haber dejado atrás.&lt;br&gt;Roberto se verá envuelto en un nuevo crimen, pero de un modo que no espera. Porque esta vez él es el principal sospechoso.&lt;br&gt;&lt;br&gt;El legado del mal es un thriller donde la redención y el peligro se entrelazan en una danza mortal. De cazador a presa.&lt;br&gt;&lt;br&gt;¿Podrá Roberto limpiar su nombre antes de que su pasado lo consuma por completo o será devorado por las sombras que le persiguen? ¿Logrará demostrar su inocencia antes de que sea demasiado tarde?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Roberto Fuentes"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2024-05-03T12:01:59.671861+00:00"/>
+        <meta name="calibre:title_sort" content="legado del mal, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

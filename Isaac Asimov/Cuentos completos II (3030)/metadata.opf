@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3030</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9eaa27c-ed83-4efb-b597-6884b5a8de4c</dc:identifier>
+        <dc:title>Cuentos completos II</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Los miles de lectores de Asimov, que vienen apasionándose desde hace más de cincuenta años con sus cuentos de ciencia ficción, van topando muy a menudo con el problema de que se trata de un autor tan prolífico que resulta imposible tener la certeza de haber leído todo lo que publicó en este género. Este segundo, y último, volumen contiene cuarenta cuentos cortos que demuestran, una vez más, el desbordante talento de Asimov. Se cuentan entre ellos algunos de sus más célebres relatos: Al estilo marciano, La piedra parlante o Intuición femenina. Nadie ha podido superarlos.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">48381</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:55.785286+00:00"/>
+        <meta name="calibre:title_sort" content="Cuentos completos II"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2952</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3325b601-b1a2-4b71-8751-fe23287dbdbf</dc:identifier>
+        <dc:title>Marea muerta</dc:title>
+        <dc:creator opf:file-as="Carreras, Nacho" opf:role="aut">Nacho Carreras</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-03T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;En el paraíso natural de las islas Cíes, Galicia, el cadáver de una joven aparece en la orilla. El cuerpo trae consigo una certeza: entre los habitantes del camping se esconde un asesino, y el idílico paisaje no recobrará la tranquilidad hasta encontrarlo. Nora Pardo, una detective en horas bajas, pondrá a prueba sus capacidades tomando las riendas de la investigación. Pronto descubrirá que la búsqueda del culpable dista mucho de ser un juego, y se verá envuelta en una peligrosa red de mentiras en la que todos (y ninguno) parecen ser culpables.&lt;/p&gt;
+
+    &lt;p&gt;En este &lt;i&gt;thriller&lt;/i&gt; ágil, Nacho Carreras convierte la naturaleza virgen de las Cíes en el escenario de un misterio trepidante, cuya tensión no hace más que aumentar hasta llegar a su inesperado final.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">76238</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:25:06.986205+00:00"/>
+        <meta name="calibre:title_sort" content="Marea muerta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

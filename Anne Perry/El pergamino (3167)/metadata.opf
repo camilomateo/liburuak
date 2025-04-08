@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6328b946-c504-4eb5-999b-6033653697cf</dc:identifier>
+        <dc:title>El pergamino</dc:title>
+        <dc:creator opf:file-as="Perry, Anne" opf:role="aut">Anne Perry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-06T06:00:00+00:00</dc:date>
+        <dc:description>Un antiguo pergamino arrastra a un librero a un secreto escalofriante. Monty Danforth encuentra una lata enterrada debajo de una montaña de libros clásicos. En el interior hay un pergamino milenario escrito en un idioma desconocido. Danforth intenta fotocopiarlo y fotografiarlo, pero termina con imágenes en blanco, como si la tinta estuviera hecha de algo impermeable a la tecnología moderna. Mientras el misterio del pergamino lo cautiva, el librero se ve envuelto en una extraña conspiración. Un anciano y su nieta aparecen interesándose por la reliquia. No serán los únicos: fuerzas poderosas anhelan los secretos encerrados en ese antiguo rollo, y Danforth sobrevivirá solo si logra dominar su poder.</dc:description>
+        <dc:publisher>13insurgentes</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002626</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">92</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:series" content="Bibliomisterios"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2025-03-14T13:34:12.012970+00:00"/>
+        <meta name="calibre:title_sort" content="pergamino, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

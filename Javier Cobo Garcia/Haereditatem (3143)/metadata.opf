@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9efa484f-dfd4-4802-ae85-c68f923ce95d</dc:identifier>
+        <dc:title>Haereditatem</dc:title>
+        <dc:creator opf:file-as="Javier Cobo García" opf:role="aut">Javier Cobo García</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-19T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt; &lt;p&gt;La inspectora Ariel Bloom vuelve para enfrentarse al caso más complicado de su carrera, en su momento personal más frágil. Unos horribles asesinatos tienen en jaque a la ciudad de Burgos. Las víctimas: chicas jóvenes, cuyos cuerpos aparecen mutilados y dispuestos de la manera más grotesca imaginable, casi artística. La investigación la hará sumergirse en las profundidades de la historia de la ciudad, destapando una red de crímenes y sangre que se remonta a la época de la inquisición, a la vez que ve como su mundo se desmorona. El misterio se funde con la mitología y lo sobrenatural en un trepidante relato donde nada es lo que parece. Segunda entrega de la saga Ariel Bloom.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Avant Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Ariel Bloom"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-03-10T15:00:48.432082+00:00"/>
+        <meta name="calibre:title_sort" content="Haereditatem"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

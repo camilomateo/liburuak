@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bedbff7d-918a-48aa-a815-e29adf5693bd</dc:identifier>
+        <dc:title>Entre líneas</dc:title>
+        <dc:creator opf:file-as="Casado, Noe" opf:role="aut">Noe Casado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-14T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Hace ya tiempo que dejé atrás mi apodo de marquesita&lt;/span&gt;
+ (cosas de instituto pijo) para centrarme en mi carrera profesional como
+ periodista, cosa que a mi familia no le hizo mucha gracia pero que, al 
+final, aceptó. &lt;span class="a-text-bold"&gt;He trabajado duro para que mis apellidos queden al margen&lt;/span&gt; y se me valore por mí misma.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Mi sueño era lograr formar parte de la dirección del periódico por el que tanto había sacrificado&lt;/span&gt;. Sin embargo, me llevé un jarro de agua helada cuando el director me dejó fuera e &lt;span class="a-text-bold"&gt;incorporó a los puestos de mando a un extraño, un enchufado con el que pronto surgieron desavenencias&lt;/span&gt;; un tipo sarcástico e insufrible al que le pusimos varios motes, entre ellos, «el sádico del rotulador rojo».&lt;/p&gt;&lt;p&gt;Y ahora, &lt;span class="a-text-bold"&gt;cuatro años después, la historia se repite&lt;/span&gt;.&lt;/p&gt;&lt;p&gt;Ha quedado vacante el puesto de director y, ¿a que no imagináis quiénes son los dos candidatos?&lt;/p&gt;&lt;p&gt;Exacto, &lt;span class="a-text-bold"&gt;él y yo&lt;/span&gt;.&lt;/p&gt;&lt;p&gt;Guerra sin cuartel.&lt;/p&gt;&lt;p&gt;Todo vale.&lt;/p&gt;&lt;p&gt;Esta vez no me van a dejar fuera.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;El puesto es mío, me lo merezco&lt;/span&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Zafiro eBooks</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B0BLT4WBJM</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Erótica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Noe Casado&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:19.048908+00:00"/>
+        <meta name="calibre:title_sort" content="Entre líneas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

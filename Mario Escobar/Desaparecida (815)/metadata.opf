@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">815</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a51f1bff-6699-492c-acff-62d7756e3f83</dc:identifier>
+        <dc:title>Desaparecida</dc:title>
+        <dc:creator opf:file-as="Escobar, Mario" opf:role="aut">Mario Escobar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Una vida perfecta puede derrumbarse en cuestión de segundos. Charles y Mary forman un matrimonio que encarna la viva imagen del éxito: él es un próspero hombre de negocios que procede de una familia ilustre de políticos estadounidenses y ella, una cirujana brillante de gran renombre.&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;Sin embargo, su vida de ensueño se ve truncada por la trágica muerte de su hijo mayor en un accidente de esquí. Los padres, atenazados por el dolor y la pena, deciden pasar el verano en Turquía para empezar a reconstruir su vida junto con su hija pequeña Michelle. Pero las que debían ser unas vacaciones idílicas dan un terrible y abrupto giro cuando la niña desaparece.&lt;/span&gt;&lt;br style="orphans: 2; widows: 2;"&gt;&lt;span style="orphans: 2; widows: 2;"&gt;La investigación apunta inicialmente a un secuestro cometido por extremistas islámicos o terroristas kurdos, pero las tensas indagaciones del FBI y la policía turca se ven enturbiadas por pistas que señalan a la trata de mujeres y niñas, a oscuros personajes con antecedentes por pedofilia e incluso a los propios padres.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Amazon Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01J1NHGL2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781503940185</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2023-06-06T06:14:16.484062+00:00"/>
+        <meta name="calibre:title_sort" content="Desaparecida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">568</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d52cad2e-3e3e-4ce6-a4d4-269769bf43c7</dc:identifier>
+        <dc:title>Cicatrices del desastre</dc:title>
+        <dc:creator opf:file-as="Bolívar Troya, Luis" opf:role="aut">Luis Bolívar Troya</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-11T06:00:00+00:00</dc:date>
+        <dc:description>Reus, junio de 1939. Un capitán del ejército nacional es secuestrado mientras vuelve al campo de concentración situado en el manicomio de Reus. Su cadáver aparece días después salvajemente torturado. Ernesto Delgado, un antiguo policía de Valladolid junto con Carles Gil, un joven capitán republicano prisionero, serán los encargados de realizar la investigación. A ellos se les unirá el misterioso Hamed que ejercerá las funciones de conductor y acompañante. Sus respectivos caracteres e ideologías tan diferentes no solo dificultarán la investigación, sino que pondrán en peligro sus propias vidas. Todas las pistas van conduciendo hacia hechos acaecidos 18 años antes, en el norte de África, cuando tuvo lugar el desastre de Annual. Los cadáveres se multiplican y salen a la luz antiguos crímenes sin resolver que parecen estar relacionados con este asesinato. Carles comprenderá, demasiado tarde, que todos los misterios esconden tras de sí unos amargos secretos que no siempre conviene destapar.</dc:description>
+        <dc:publisher>Ediciones Carena</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">870</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50000000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:series" content="Ernesto Delgado &amp; Carles Gil"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-04-23T20:13:43.765566+00:00"/>
+        <meta name="calibre:title_sort" content="Cicatrices del desastre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2697</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6e7c972-9c2c-48d6-b3fe-79072e345b09</dc:identifier>
+        <dc:title>La historia de un muro</dc:title>
+        <dc:creator opf:file-as="Srour, Nasser Abu" opf:role="aut">Nasser Abu Srour</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-01T22:00:00+00:00</dc:date>
+        <dc:description>Nasser Abu Srour, recluido en una prisión israelí desde 1993 y condenado a cadena perpetua por su presunta participación en la muerte de un oficial de inteligencia israelí, ha escrito un testimonio extraordinario. «Esta es la historia de un muro que de algún modo me eligió como testigo de lo que dice y de lo que hace», el muro como estrategia de resistencia, como elemento estabilizador, como soporte de protección y de confianza, el muro que lo separa y lo aísla, pero que no lo abandona; sobre ese muro se sostiene toda esta historia. Desde su infancia en el campo de refugiados de Aida, cerca de Belén, cuando sus padres fueron desplazados por la Nakba en 1948, a la primera Intifada, en 1987, hasta la represión masiva y el encarcelamiento del propio Abu Srour por parte de las fuerzas de ocupación. A partir de ahí comenzará para el escritor palestino un auténtico periplo por las prisiones israelíes. La historia de un muro es un texto sobrecogedor, que surge de las «conversaciones» que el escritor mantiene con el muro al final del día: sus rutinas carcelarias, sus miedos, las visitas familiares, la religión, los frecuentes traslados –desde la cárcel de Ascalón hasta la del desierto de Néguev–, la falta de horizonte o los acontecimientos políticos que han conducido a la fractura de la sociedad palestina y a su resistencia; y también el amor que siente por Nanna, su abogada, que, desde un principio, parece un amor condenado al fracaso. Escrito en un lenguaje ágil y a la vez sumamente poético, Srour ha erigido un testimonio extraordinario acerca del sufrimiento y la capacidad de resistencia del ser humano y una denuncia estremecedora de la tragedia actual de la situación palestina.</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410107854</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-31T16:50:32.665542+00:00"/>
+        <meta name="calibre:title_sort" content="historia de un muro, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

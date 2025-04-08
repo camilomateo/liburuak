@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7198c76-97d4-4cb5-bf73-8044ce3a0e9a</dc:identifier>
+        <dc:title>El canto del cuco</dc:title>
+        <dc:creator opf:file-as="Galbraith, Robert" opf:role="aut">Robert Galbraith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-23T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Una joven modelo con problemas emocionales cae desde su balcón de Mayfair en plena noche. Su cuerpo yace en la calle nevada. Todo el mundo asume que ha sido un suicidio, excepto su hermano, que contrata los servicios del investigador privado Cormoran Strike para que se encargue del caso.&lt;br /&gt;&lt;br /&gt;Veterano de guerra con secuelas físicas y psicológicas, la vida de Strike es un desastre. El encargo le da cierto respiro económico, pero cuanto más profundiza en el complejo mundo de la modelo, más oscuro parece todo y más se acerca Strike a un gran peligro.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Un elegante misterio impregnado de la atmósfera de Londres, desde las calles más selectas de Mayfair hasta los pubs ocultos del East End o el bullicio del Soho.&lt;/b&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467040449</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:49.451876+00:00"/>
+        <meta name="calibre:title_sort" content="canto del cuco, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">996</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e09f4f58-feb4-4d09-a2ac-a9399f7e22bc</dc:identifier>
+        <dc:title>Progenie</dc:title>
+        <dc:creator opf:file-as="Martín Gijón, Susana" opf:role="aut">Susana Martín Gijón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Sevilla, ola de calor. Todo el que puede huye a la playa. No así 
+Camino Vargas, jefa accidental del Grupo de Homicidios desde el tiroteo 
+que dejó en coma al inspector Arenas. Alguien ha atropellado 
+salvajemente a una mujer y se ha dado a la fuga. Este asesinato se va a 
+transformar en el foco de atención mediática cuando se filtra un dato 
+aún más perturbador: el homicida introdujo un chupete en la boca de la 
+víctima antes de desaparecer de la escena del crimen. Todos los indicios
+ apuntan a la expareja, un maltratador psicológico, y las estadísticas 
+no están de su lado. Sin embargo, cuando la autopsia desvela que la 
+víctima estaba embarazada y los asesinatos comienzan a sucederse, Camino
+ comprenderá que se halla ante el caso más duro de su carrera.&lt;/p&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0812BGNH3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-23T12:48:34.550526+00:00"/>
+        <meta name="calibre:title_sort" content="Progenie"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

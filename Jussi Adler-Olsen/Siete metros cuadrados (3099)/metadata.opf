@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3099</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f9bf608-1878-4fc6-a5c8-7141b6ad6d89</dc:identifier>
+        <dc:title>Siete metros cuadrados</dc:title>
+        <dc:creator opf:file-as="Adler-Olsen, Jussi" opf:role="aut">Jussi Adler-Olsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-15T06:00:00+00:00</dc:date>
+        <dc:description>El desenlace de la serie, el mejor Jussi Adler-Olsen&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;El inspector Carl Mørck está en la cárcel. Después de quince años, un caso nunca resuelto del pasado lo ha alcanzado de lleno, y los cargos de tráfico de drogas y asesinato amenazan con destruir su vida y su carrera. Pero todo indica que lo están incriminando injustamente. Alguien ofrece una recompensa de un millón de dólares por su cabeza, y así lo pone en grave peligro entre los criminales y los funcionarios corruptos de la prisión, pero ¿por qué? Cuando los colegas de Carl Mørck en el Departamento de Policía de Copenhague le dan la espalda, solo puede contar para limpiar su nombre con el leal equipo del Departamento Q y con una persona a la que Carl salvó la vida en el pasado.</dc:description>
+        <dc:publisher>Ediciones MAEVA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410260757</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Departamento Q"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:timestamp" content="2025-02-25T19:50:25.206891+00:00"/>
+        <meta name="calibre:title_sort" content="Siete metros cuadrados"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

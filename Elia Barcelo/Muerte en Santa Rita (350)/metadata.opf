@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7512f630-0d4d-45da-8bae-729bb1a982bd</dc:identifier>
+        <dc:title>Muerte en Santa Rita</dc:title>
+        <dc:creator opf:file-as="Barceló, Elia" opf:role="aut">Elia Barceló</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-28T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;HAY UN LUGAR EN EL QUE RESIDEN SECRETOS ESCONDIDOS A LO LARGO DE VARIAS DÉCADAS. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;BIENVENIDOS A SANTA RITA. UN &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;NOIR&lt;/span&gt;&lt;span class="a-text-bold"&gt; MEDITERRÁNEO DE ELIA BARCELÓ. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;Estamos
+ en Santa Rita, un antiguo balneario, que luego fue sanatorio y ahora es
+ la casa de una escritora anciana, Sofía, (que escribe novelas de 
+misterio con un pseudónimo y novela rosa con otro), donde viven unas 
+cuarenta personas de todas las edades apoyándose unos a otros y 
+trabajando juntos, en un concepto de "comunidad cordial" 
+transgeneracional.&lt;/p&gt;&lt;p&gt;La protagonista, Greta, sobrina y 
+traductora de Sofía, llega para quedarse una temporada y, a través de 
+ella, vamos conociendo a los personajes de la historia: Candy, 
+secretaria y mano derecha de Sofía; Robles, comisario de policía 
+retirado; Nel y su grupo, estudiantes universitarios; Miguel, profesor 
+de matemáticas ciego; Reme, madre de una mujer maltratada...&lt;/p&gt;&lt;p&gt;La
+ llegada de un viejo conocido de Sofía con planes propios para el futuro
+ de la comunidad creará los primeros problemas. Pocos días después de 
+haber vuelto, el hombre aparece muerto en la alberca de riego. 
+¿Accidente o asesinato? De hecho, casi todos los habitantes de Santa 
+Rita han tenido ocasión y no les habrían faltado ganas de hacer 
+desaparecer a Moncho Riquelme.&lt;/p&gt;&lt;p&gt;Greta y Robles se 
+involucrarán en la investigación y, sin pretenderlo, irán desvelando más
+ secretos y descubriendo más misterios de lo que pensaban.&lt;/p&gt;&lt;p&gt;«¿Y
+ si de verdad había sido asesinato? ¿Quién, en Santa Rita, sería capaz 
+de matar? Y ¿por qué? ¿A quién podía beneficiar la muerte de aquel 
+payaso? A todos, claro, ese era el problema: que, exceptuando a Sofía, 
+desde el punto de vista de los habitantes de Santa Rita, hombres y 
+mujeres, viejos y jóvenes, como mejor estaba Moncho era justo como 
+estaba ahora: muerto.»&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Rocaeditorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Elia Barceló&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-22T16:53:23.917299+00:00"/>
+        <meta name="calibre:title_sort" content="Muerte en Santa Rita"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

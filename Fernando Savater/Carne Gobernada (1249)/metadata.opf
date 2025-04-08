@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">133444d4-c044-477e-b22c-fb63e4c672d8</dc:identifier>
+        <dc:title>Carne Gobernada</dc:title>
+        <dc:creator opf:file-as="Savater, Fernando" opf:role="aut">Fernando Savater</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-19T15:17:52+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Un Fernando Savater más libre e iconoclasta que nunca. &lt;span class="a-text-italic"&gt;Carne gobernada &lt;/span&gt;es
+ posiblemente su obra más personal donde a través de un viaje por sus 
+vivencias, reflexiona sobre la política actual, el deseo y la 
+sensualidad en la madurez. Además de explicar cómo los acontecimientos 
+recientes han motivado su cambio ideológico y criticar la clara 
+decadencia política y cultura del Occidente, lanza un dardo al periódico
+ en que siempre ha escrito, &lt;span class="a-text-italic"&gt;El País&lt;/span&gt;, y un alegato a favor de la libertad sexual de los mayores.&lt;/p&gt;&lt;p&gt;Con un tono narrativo y un lenguaje cercano lleva al lector por una travesía que agitará conciencias y levantará polémicas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Ariel</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-23T08:41:59.719403+00:00"/>
+        <meta name="calibre:title_sort" content="Carne Gobernada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

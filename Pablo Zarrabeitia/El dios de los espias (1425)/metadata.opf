@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1425</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a5ecc9f-631c-4fb9-850c-f4f61bf7ab4f</dc:identifier>
+        <dc:title>El dios de los espías</dc:title>
+        <dc:creator opf:file-as="Zarrabeitia, Pablo" opf:role="aut">Pablo Zarrabeitia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-21T00:00:00+00:00</dc:date>
+        <dc:description>«El pasado está lleno de respuestas»
+
+El final de la trilogía de *El alma de los espías*
+
+Madre, la antigua directora de Inteligencia del CNI, ha sido secuestrada. 
+
+Las personas son matrioshkas de secretos, y la maestra de espías conserva en su memoria información vital sobre el Servicio de Inteligencia español: las identidades de sus miembros, sus redes de colaboradores en lugares hostiles y sus operaciones más importantes. Si los secuestradores obtienen los secretos de Madre, cientos de personas estarán en peligro de muerte, el Centro sufrirá la mayor debacle de su historia y España quedará expuesta a graves amenazas externas.  
+
+Para rescatar a la antigua directora, el CNI crea el grupo Andrómeda, dirigido por Helena Aimar y formado por los mejores talentos de una nueva generación, entre los que destaca la analista estrella de Contraterrorismo, Naia Zanzíbar. Sabiendo que el tiempo corre en su contra, Helena recurrirá a los viejos contactos de Madre y tratará de recuperar a Marcos Madero, que ha dejado el Centro. 
+
+La investigación del secuestro, que se desarrollará en el Madrid secreto, la Europa del ámbar y los confines del mundo, obligará a los integrantes de Andrómeda a atravesar un laberinto de espejos, realizando hallazgos en los que se mezclan pasado, presente y futuro. A medida que avanza la búsqueda, invadidos por la desesperación, los miembros del Centro deberán hacer frente a sus peores demonios y plantearse la pregunta más difícil de todas: ¿en qué creen los espías?</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CJMYS2LW</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-09T09:16:20.379458+00:00"/>
+        <meta name="calibre:title_sort" content="dios de los espías, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

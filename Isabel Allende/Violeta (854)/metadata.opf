@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">854</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aaf8cf69-b09c-4ff5-97e4-0c31d12e8fc3</dc:identifier>
+        <dc:title>Violeta</dc:title>
+        <dc:creator opf:file-as="Allende, Isabel" opf:role="aut">Isabel Allende</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-22T09:15:47+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;La épica y emocionante historia de una mujer cuya vida abarca los momentos históricos más relevantes del siglo XX.&lt;/p&gt;
+&lt;p align="justify"&gt;Desde 1920 -con la llamada «gripe española»- hasta la pandemia de 2020, la vida de Violeta será mucho más que la historia de un siglo.&lt;/p&gt;
+&lt;p align="justify"&gt;Violeta viene al mundo un tormentoso día de 1920, siendo la primera niña de una familia de cinco bulliciosos hermanos. Desde el principio su vida estará marcada por acontecimientos extraordinarios, pues todavía se sienten las ondas expansivas de la Gran Guerra cuando la gripe española llega a las orillas de su país sudamericano natal, casi en el momento exacto de su nacimiento.&lt;/p&gt;
+&lt;p align="justify"&gt;Gracias a la clarividencia del padre, la familia saldrá indemne de esta crisis para darse de bruces con una nueva, cuando la Gran Depresión altera la elegante vida urbana que Violeta ha conocido hasta ahora. Su familia lo perderá todo y se verá obligada a retirarse a una región salvaje y remota del país. Allí Violeta alcanzará la mayoría de edad y tendrá su primer pretendiente...&lt;/p&gt;
+&lt;p align="justify"&gt;En una carta dirigida a una persona a la que ama por encima de todas las demás, Violeta rememora devastadores desengaños amorosos y romances apasionados, momentos de pobreza y también de prosperidad, pérdidas terribles e inmensas alegrías. Moldearán su vida algunos de los grandes sucesos de la historia: la lucha por los derechos de la mujer, el auge y caída de tiranos y, en última instancia, no una, sino dos pandemias.&lt;/p&gt;
+&lt;p align="justify"&gt;Vista con los ojos de una mujer poseedora de una pasión, una determinación y un sentido del humor inolvidables que la sostienen a lo largo de una vida turbulenta, Isabel Allende nos regala, una vez más, una historia épica furiosamente inspiradora y profundamente emotiva.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-12T12:02:09.330859+00:00"/>
+        <meta name="calibre:title_sort" content="Violeta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0add0edd-3f60-487f-bcd1-724ee2cab83d</dc:identifier>
+        <dc:title>Las Almas Rotas</dc:title>
+        <dc:creator opf:file-as="Patricia Gibney" opf:role="aut">Patricia Gibney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt;Dos muertes, una desaparición y un secreto que pondrá a todos en peligro. &lt;br&gt;Una mañana de diciembre, Cara Dunne aparece colgada en su cuarto de baño. Va vestida de novia y todo apunta a que se trata de un suicidio, pero esa misma tarde la policía encuentra otro cuerpo, el de la enfermera Fiona Heffernan, frente al hospital del pueblo de Ballydoon. Fiona iba a casarse al día siguiente y también llevaba un vestido de novia en el momento de su muerte. &lt;br&gt;La inspectora Lottie Parker intuye que estas muertes no son meros suicidios y, al comenzar la investigación, descubre otra pieza del inquietante puzle: la hija de ocho años de Fiona ha desaparecido. A partir de ese momento, Lottie se embarca en una búsqueda frenética por encontrar al asesino y salvar a la niña. Sin embargo, los habitantes de Ballydoon guardan un peligroso secreto, y cualquiera podría ser el culpable. &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Principal de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788416223510</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Misterio</dc:subject>
+        <dc:subject>Policíaco</dc:subject>
+        <dc:subject>Ficción</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Patricia Gibney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:34+00:00"/>
+        <meta name="calibre:title_sort" content="Las Almas Rotas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

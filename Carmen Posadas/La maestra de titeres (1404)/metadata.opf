@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1404</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa551950-52bf-419d-a217-55b15acde4d3</dc:identifier>
+        <dc:title>La maestra de títeres</dc:title>
+        <dc:creator opf:file-as="Posadas, Carmen" opf:role="aut">Carmen Posadas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-29T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una mujer única: nadie como ella supo manejar la frivolidad y la manipulación para convertirlas en un arte.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Si
+ ha habido una mujer destinada a brillar, esa es Beatriz Calanda, la 
+protagonista de la nueva novela de  Carmen Posadas. La autora hace un 
+recorrido por los sesenta últimos años de la historia de España a través
+ de la exhibición que «la Calanda» hace de su vida exagerada y excesiva.
+ &lt;br&gt;&lt;br&gt; Carne de las revistas de sociedad, con una vida cincelada a golpe de glamour, escándalos y exclusivas, gran dama de la &lt;span class="a-text-italic"&gt;jet-set&lt;/span&gt;
+ madrileña, todo el mundo sabe perfectamente quién es Beatriz Calanda, 
+quiénes fueron sus cuatro maridos (el actor de moda, el escritor de 
+culto, el aristócrata y el banquero), y la vida y andanzas de sus cuatro
+ hijas, una por marido, destinadas desde la cuna a heredar el cetro de 
+«mami».&lt;br&gt;&lt;br&gt; Sí, todos la conocen, pero muy pocos, ni siquiera los 
+maridos, mucho menos sus hijas, saben quién es en realidad Beatriz, 
+cuáles fueron sus orígenes y por dónde tuvo que pasar para convertirse 
+en un icono capaz de arrastrar a una corte de paparazzi con cada 
+movimiento.&lt;br&gt;&lt;br&gt; Con inteligencia, ironía y una declarada debilidad 
+por su heroína, Carmen Posadas hace, más que un retrato, una disección 
+de la alta sociedad madrileña, tan exclusiva como hermética. Una novela 
+irónica, barroca y tan audaz y seductora como la propia Beatriz Calanda.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07J1LGZSZ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-08T14:38:20.163165+00:00"/>
+        <meta name="calibre:title_sort" content="La maestra de títeres"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

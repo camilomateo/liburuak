@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2582</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa6a884e-0375-4cdd-abec-b6afbf74c230</dc:identifier>
+        <dc:title>Adiós, muy buenas</dc:title>
+        <dc:creator opf:file-as="Sardà, Xavier" opf:role="aut">Xavier Sardà</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-25T10:43:48+00:00</dc:date>
+        <dc:description>&lt;p&gt;«Este escrito tiene la vocación de dibujar la vida cotidiana en un pequeño cementerio del litoral. Puestos, supone también un cierto divertimiento casi escolar de escribir con un pseudo y pésimo clasicismo. Total, poca cosa». &lt;br /&gt;&lt;br /&gt;Novela coral que se desarrolla en un cementerio en torno a varios personajes delirantes, como Recasens, el sepulturero, alto, cebado y desgalichado, o Tato, el jardinero, que vive esperando una imposible sonrisa de su esposa, que contarán pequeñas historias de lo más extravagantes. &lt;br /&gt;&lt;br /&gt;Un &lt;i&gt;noir&lt;/i&gt; que habla de cotidianidad y buena escritura.&lt;/p&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467055498</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-11T13:29:02.750580+00:00"/>
+        <meta name="calibre:title_sort" content="Adiós, muy buenas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1091</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0423da79-9e6f-4556-9472-04117056f9c0</dc:identifier>
+        <dc:title>El dilema de Penélope</dc:title>
+        <dc:creator opf:file-as="Jorge Zepeda Patterson" opf:role="aut">Jorge Zepeda Patterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-14T05:00:00+00:00</dc:date>
+        <dc:description>La vida de Penélope no ha sido fácil, pero justo cuando la promesa de un futuro mejor se le presenta como un puesto de directora de un centro de ayuda para pandillas en Los Ángeles, una serie de atentados atribuidos a la comunidad hispana la ponen en riesgo de muerte. En su vertiginoso intento por escapar de un complot que involucra a las más altas esferas de la política estadounidense, Penélope tendrá que confiar en dos oscuros personajes: Luca, un misterioso agente del gobierno, y Saúl, el líder de una pandilla acusada de terrorismo. Tras la ola de violencia que se ha extendido por todo el país, la única posibilidad de sobrevivir es exponer la verdad, pero la poderosa sombra del polémico y racista expresidente de Estados Unidos hará su misión todavía más peligrosa.</dc:description>
+        <dc:publisher>Planeta México</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-12-12T07:20:58.133621+00:00"/>
+        <meta name="calibre:title_sort" content="dilema de Penélope, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

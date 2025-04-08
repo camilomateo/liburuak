@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">765</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6aa5e567-8e65-414e-92ee-84dfcb913aaa</dc:identifier>
+        <dc:title>La presa de Sharpe</dc:title>
+        <dc:creator opf:file-as="Cornwell, Bernard" opf:role="aut">Bernard Cornwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-15T06:00:00+00:00</dc:date>
+        <dc:description>El teniente de fusileros Richard Sharpe vive un momento complicado: su amada, lady Grace Hale, ha muerto al dar a luz, los abogados se han quedado todas sus riquezas y, por si fuera poco, en su compañía ha quedado relegado al servil trabajo de intendente. Se está planteando incluso dejar el ejército cuando, por un encuentro casual, el mayor David Baird le asigna una misión secreta en Copenhague. Dinamarca es neutral, pero tiene una flota poderosa, y Sharpe debe evitar que los daneses entreguen sus barcos de guerra a Napoleón, que busca reemplazo para los navíos que perdió en la batalla de Trafalgar. Arrastrado a una brutal guerra de espionaje, Sharpe descubre que no es más que un peón listo para ser sacrificado… Pero, a veces, los peones también pueden cambiar el destino del juego, y, una vez descubierto el traidor, decide poner sus propias normas y convertirse en el cazador de la partida en medio de una ciudad asediada por las tropas británicas.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="PAGINAS">576</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002337</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Historica</dc:subject>
+        <meta name="calibre:series" content="Sharpe"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2023-05-25T10:54:16.734506+00:00"/>
+        <meta name="calibre:title_sort" content="presa de Sharpe, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

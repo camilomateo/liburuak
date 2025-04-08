@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">404</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21a76a56-9d58-4fd0-a932-16f2dc9037ab</dc:identifier>
+        <dc:title>La pirámide blanca</dc:title>
+        <dc:creator opf:file-as="Ares, Nacho" opf:role="aut">Nacho Ares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Una apasionante novela que nos adentra en los secretos más profundos del antiguo Egipto a través de uno de sus monumentos más emblemáticos: la Gran Pirámide de Keops.&lt;/font&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;El faraón Keops proyecta la construcción de la que será su morada eterna, una tumba colosal pensada para resistir el paso de los siglos y las pérfidas intenciones de los saqueadores de tumbas.&lt;/font&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Solo hay un hombre en todo el reino capaz de satisfacer los deseos del faraón: Djedi, un joven y misterioso sacerdote dedicado al estudio de los textos oscuros. Él será el encargado de convertir la pirámide en una fortaleza mágica e inexpugnable, la morada perfecta para el descanso eterno del soberano. Para ello, no obstante, deberá enfrentarse con las traiciones de la corte que amenazan con enviarlo prematuramente al reino de los muertos.&lt;/font&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Historia, magia e intriga se unen en esta emocionante aventura que recrea la construcción de uno de los monumentos más importantes y enigmáticos de la cultura egipcia.&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">hG9jEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788491296287</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Nacho Ares&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-13T08:24:32.267886+00:00"/>
+        <meta name="calibre:title_sort" content="pirámide blanca, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

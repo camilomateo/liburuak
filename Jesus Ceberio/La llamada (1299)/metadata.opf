@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0cb96fe4-5642-4e0f-8094-20e3b5456363</dc:identifier>
+        <dc:title>La llamada</dc:title>
+        <dc:creator opf:file-as="Ceberio, Jesús" opf:role="aut">Jesús Ceberio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-07T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;«El 11 de marzo de 2004 fue un jueves aciago en Madrid. Acababa
+ de amanecer cuando retumbaron varias explosiones en un tren de 
+cercanías que entraba en el andén de la estación de Atocha. Eran las 
+7.37 de una mañana casi primaveral. En menos de cinco minutos diez 
+bombas reventaron cuatro trenes procedentes de Alcalá de Henares, con un
+ efecto devastador que se traduciría en 191 muertos y más de 2.000 
+heridos. "Tengo la certeza de que ha sido ETA", fue el veredicto 
+inapelable que el presidente Aznar me transmitió por teléfono a las 
+13.06».&lt;/p&gt;&lt;p&gt;Se cumplen veinte años del 11-M. Lo que 
+sucedió aquel día, tanto la serie de ataques en los trenes de la red 
+madrileña de Cercanías como la actuación del gobierno en vísperas de las
+ elecciones generales, afectó a la sociedad española de manera brutal. 
+En el eje de esa gestión estaba el intento por parte del Gobierno del 
+Partido Popular de responsabilizar a ETA de los atentados, aun cuando 
+desde muy pronto empezaron a aparecer indicios que apuntaban al 
+terrorismo islamista como autor del ataque. El momento paradigmático de 
+esa voluntad fue la llamada del presidente Aznar a los medios de 
+comunicación para asegurarles que había sido ETA. El periodista de 
+máximo prestigio Jesús Ceberio, entonces director de &lt;span class="a-text-italic"&gt;El&lt;/span&gt; &lt;span class="a-text-italic"&gt;País&lt;/span&gt;, habló con él por teléfono.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>DEBATE</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CT3XGH4T</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-15T08:05:11.621610+00:00"/>
+        <meta name="calibre:title_sort" content="llamada, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

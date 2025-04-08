@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2881</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38fbf00e-7051-468f-9757-7c5fdb0d327b</dc:identifier>
+        <dc:title>Asesinato en la Casa Rosa</dc:title>
+        <dc:creator opf:file-as="Portabales, Arantza" opf:role="aut">Arantza Portabales</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-23T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mayo de 2024. La inspectora Iria Santaclara ha abandonado el servicio activo para cuidar de Ángel, su marido, convaleciente tras sufrir un ictus, cuando recibe la misteriosa llamada de Ulises Villamor, una de las fortunas más importantes del país y dueño de un imperio vinculado al ámbito sanitario. El empresario le pide que se traslade a su mansión de Loeiro, en la que vive con sus hijos y nietos, para tratar de investigar de manera extraoficial la muerte de su mujer, pues sospecha que esta fue asesinada hace cuatro años por un miembro de su propia familia. La propuesta de correr con los gastos de un costoso tratamiento en Alemania que podría salvar a Ángel convence a Iria, que decidirá instalarse en la Casa Rosa. Pronto se producirá un nuevo asesinato, y la inspectora Santaclara encontrará en su antiguo jefe, el recién jubilado César Araújo, un inesperado apoyo para intentar desentrañar los numerosos secretos que se esconden tras los muros de la lujosa morada.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-04T07:23:47.872116+00:00"/>
+        <meta name="calibre:title_sort" content="Asesinato en la Casa Rosa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

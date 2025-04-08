@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">681</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3e20eea-7a92-4d59-ad45-c88cb3a4abee</dc:identifier>
+        <dc:title>El sepulturero y la Tierra Negra</dc:title>
+        <dc:creator opf:file-as="Oliver Pötzsch" opf:role="aut">Oliver Pötzsch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;El thriller histórico que triunfa en toda Europa.&lt;br&gt;3.500.000 de lectores. Viena, 1894. En un sarcófago del Museo de Historia de la ciudad aparece, momificado, el cuerpo del profesor Alfons Strössner, uno de los mayores egiptólogos del mundo. Leopold von Harzfeldt será el encargado de la investigación y pronto descubrirá que, de los cuatro miembros de su última expedición a la Tierra Negra, tres han fallecido en extrañas circunstancias, por lo que la sombra de una maldición se cierne sobre lo sucedido. Pero ni Leopold ni el sepulturero Augustin Rothmayer creen en las maldiciones y están convencidos de que se trata de un asesinato. Con la ayuda de Julia, encargada de hacer las fotografías en otro caso importante del departamento de policía y con quien Leopold mantiene una relación secreta, los tres volverán a verse envueltos en un caso que oculta mucho más de lo que parecía a primera vista. Sarcófagos misteriosos, maldiciones egipcias y arqueólogos asesinados en un nuevo y frenético caso para el investigador Leo von Herzfeldt y el sepulturero Augustin Rothmayer.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0BYK1G799</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">128548820</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788408273066</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="El libro del sepulturero"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-05-15T15:51:33.927374+00:00"/>
+        <meta name="calibre:title_sort" content="sepulturero y la Tierra Negra, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

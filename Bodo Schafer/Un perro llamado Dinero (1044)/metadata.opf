@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1044</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">012660b7-dc94-4fd2-9684-2c72e54bc6fd</dc:identifier>
+        <dc:title>Un perro llamado Dinero</dc:title>
+        <dc:creator opf:file-as="Schäfer, Bodo" opf:role="aut">Bodo Schäfer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-19T15:39:50+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Un
+ relato para toda la familia sobre cómo mejorar nuestra relación con el 
+dinero. Ya ha logrado ayudar a más de 7 millones de lectores en todo el 
+mundo.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kira ama a los perros. Por eso el día que se 
+encuentra a un labrador herido en la calle no puede hacer otra cosa que 
+llevárselo a casa. La sorpresa llega cuando se da cuenta de que su nuevo
+ amigo de cuatro patas… ¡puede hablar! Además, resulta que sabe bastante
+ sobre el dinero. Pero ¿por qué le interesará a un perro algo tan 
+aburrido? A Kira descubrirlo le cambiará la vida. Entre muchas otras 
+cosas, junto al labrador aprenderá qué es y para qué sirve el dinero, 
+qué hacer para conseguirlo, cómo ahorrar o cómo multiplicar estos 
+ahorros hasta tener suficiente para cumplir sus sueños.&lt;br&gt;A través de 
+la historia de Kira, en estas páginas Bodo Schäfer nos regala una 
+lección sobre el papel del dinero en nuestras vidas y sobre su conexión 
+con la búsqueda de la felicidad.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Temas de Hoy</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-10-20T11:12:33.174837+00:00"/>
+        <meta name="calibre:title_sort" content="perro llamado Dinero, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

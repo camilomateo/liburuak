@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">674e869b-f1c5-482d-bb2f-4ce1b3dfe3c9</dc:identifier>
+        <dc:title>Take five: Historia de un robo</dc:title>
+        <dc:creator opf:file-as="Marí, Francesc" opf:role="aut">Francesc Marí</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-07T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Summer no es una chica cualquiera, es la hija de uno de los mejores ladrones de guante blanco de los últimos tiempos, Benjamin Green, del que ha heredado las mejores dotes del oficio. Desafortunadamente, su padre falleció cuando era pequeña y fue su mejor amigo y socio, John Franklin King, el que cuidó de ella y le enseñó todo lo necesario para convertirse en la profesional que es ahora. Su prestigio la llevará a ser contratada por Sir Henry Fitzwilliam, un rico y misterioso noble inglés, que le encargará una difícil misión: el robo de las Cinco Monedas de Napoleón, que se encuentran en un museo de París. Pero este no es un trabajo que pueda hacer sola, por lo que tendrá que buscar a un grupo que esté a su altura para dar el golpe. ¿Funcionará su plan? Amistad, acción y suspense en una novela de ritmo vertiginoso.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Click Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408216438</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">n6WsDwAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Francesc Marí&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:24.487069+00:00"/>
+        <meta name="calibre:title_sort" content="Take five: Historia de un robo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

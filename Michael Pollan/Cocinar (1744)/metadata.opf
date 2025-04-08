@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1744</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aafcb2bd-13bb-4e5f-9d7b-e48915d8a23a</dc:identifier>
+        <dc:title>Cocinar</dc:title>
+        <dc:creator opf:file-as="Pollan, Michael" opf:role="aut">Michael Pollan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-09T06:00:00+00:00</dc:date>
+        <dc:description>«Los cocineros trabajan con materia viva, no solo con teclados y con pantallas, sino con cosas fundamentales como plantas, animales y hongos. También trabajan con los elementos: el fuego, el agua, la tierra y el aire, y los utilizan -¡los dominan!- para realizar sus deliciosas alquimias.» La gastronomía ocupa un lugar cada vez más importante en nuestra cultura, en la que veneramos a los chefs famosos y disfrutamos con los reality shows sobre cocina. Y a pesar de eso, y aunque tenemos acceso a ingredientes frescos llegados de todos los rincones del mundo, año tras año nos hundimos más y más en las tierras pantanosas de la comida procesada. El maravilloso libro de Michael Pollan es un alegato a favor de las virtudes y los valores de cocinar, una actividad esencial que se remonta a los orígenes de nuestras culturas, nos define como seres humanos, configura la vida familiar y produce placer. Pollan nos explica los fundamentos de la cocina a partir de los principios más básicos y de...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788499924182</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:06.384891+00:00"/>
+        <meta name="calibre:title_sort" content="Cocinar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2769</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a08c396-45c9-4112-90cd-a961403b7326</dc:identifier>
+        <dc:title>Gabrielle y la Bestia</dc:title>
+        <dc:creator opf:file-as="Margall, Gabriela" opf:role="aut">Gabriela Margall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Pasión, misterios y cuentos de hadas: la vida oculta de la creadora de La Bella y la Bestia. En la Francia del siglo XVIII, Gabrielle de Villeneuve habita un mundo de ensueño entre los antiguos muros del castillo de La Roche. Dama de compañía de Diane, marquesa de Doriancourt, crea cuentos de hadas para deleite de su señora y de quienes la visitan. El castillo y el misterioso bosque que lo rodea son su refugio y le ofrecen consuelo para los recuerdos que la acechan. El deseo de publicar sus historias conduce a Gabrielle a París, donde su primer libro obtiene un éxito que no esperaba. Allí conoce a Prosper de Crébillon, dramaturgo y funcionario de Luis XV, por el que experimenta una pasión imprevista que conmociona su existencia. A su regreso al castillo, ya nada será igual. ¿Cuánto tiempo más podrá seguir al servicio de la marquesa? ¿Cómo dejar atrás ese entorno fascinante que le ofrece seguridad y protección? Gabrielle-Suzanne Barbot de Villeneuve escribió la versión original de...</dc:description>
+        <dc:publisher>Emecé Argentina</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-31T07:29:17.801375+00:00"/>
+        <meta name="calibre:title_sort" content="Gabrielle y la Bestia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

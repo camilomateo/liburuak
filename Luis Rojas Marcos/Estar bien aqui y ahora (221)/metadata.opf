@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">221</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85a3eeb6-9d07-4198-ae75-6079ddc6d6a6</dc:identifier>
+        <dc:title>Estar bien aquí y ahora</dc:title>
+        <dc:creator opf:file-as="Marcos, Luis Rojas" opf:role="aut">Luis Rojas Marcos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-13T18:40:28+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Te has preguntado alguna vez qué es estar bien? &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;¿Sabes por qué habitualmente no lo estás? &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Luis
+ Rojas Marcos, uno de los psiquiatras más &lt;/b&gt;prestigiosos y reconocidos a 
+nivel mundial, nos da las claves para mejorar nuestra salud mental en 
+una de las etapas de mayor incertidumbre y miedo que está viviendo la 
+humanidad. &lt;/p&gt;&lt;p&gt;En &lt;span class="a-text-italic"&gt;Estar bien aquí y ahora&lt;/span&gt;
+ entenderás la importancia que tiene adoptar un estilo optimista, cómo 
+proteger la autoestima, el poder de la resiliencia, el valor de las 
+relaciones afectivas o por qué la gratitud y la solidaridad son claves 
+para lograr una existencia más sana y feliz. &lt;/p&gt;&lt;p&gt;Una 
+obra imprescindible que ayudará a gestionar nuestras emociones con el 
+fin de volver a ilusionarnos y superar los cambios y adversidades que 
+nos depara la vida. &lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;El libro definitivo que puede cambiar tu manera de sentirte. &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-01-27T10:59:13+00:00"/>
+        <meta name="calibre:title_sort" content="Estar bien aquí y ahora"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

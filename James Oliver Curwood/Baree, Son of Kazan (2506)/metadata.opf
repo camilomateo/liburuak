@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2506</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80395487-1a15-4265-9895-b9f95716b7b3</dc:identifier>
+        <dc:title>Baree, Son of Kazan</dc:title>
+        <dc:creator opf:file-as="Curwood, James Oliver" opf:role="aut">James Oliver Curwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dogs</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Western</dc:subject>
+        <dc:subject>Stories</dc:subject>
+        <dc:subject>Wolves</dc:subject>
+        <dc:subject>Nature</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:44.699759+00:00"/>
+        <meta name="calibre:title_sort" content="Baree, Son of Kazan"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

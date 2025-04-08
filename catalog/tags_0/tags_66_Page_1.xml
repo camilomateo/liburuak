@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Filosofía</title>
+  <id>Calibre2opds:taglist:F:66</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_66_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Filosofía" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por F" />
+  <link href="../tags_0/tags_66_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 2)" />
+  <entry>
+    <title>555 joyas de la sabiduría: La felicidad según los clásicos</title>
+    <id>calibre:book:729</id>
+    <updated>2023-05-17T01:23:24Z</updated>
+    <link href="../../Jose%20Ramon%20Ayllon%20Vega/555%20joyas%20de%20la%20sabiduria_%20La%20felic%20%28729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Ramon%20Ayllon%20Vega/555%20joyas%20de%20la%20sabiduria_%20La%20felic%20%28729%29/555%20joyas%20de%20la%20sabiduria_%20La%20f%20-%20Jose%20Ramon%20Ayllon%20Vega.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="779 KB" />
+    <author>
+      <name>José Ramón Ayllón Vega</name>
+      <uri>../authors_0/authors_544_Page_1.xml</uri>
+    </author>
+    <published>2011-07-27T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Martínez Roca</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Este bello libro aborda de manera sencilla y práctica las grandes cuestiones que han movido a la humanidad desde siempre: la felicidad, el amor, la libertad, la justicia..., y lo hace desde la reflexión, la belleza y las sabias palabras de cuatro de ...</summary>
+    <link href="../book_0/book_729.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alrededores del ser</title>
+    <id>calibre:book:216</id>
+    <updated>2023-01-27T11:54:38Z</updated>
+    <link href="../../Gianni%20Vattimo/Alrededores%20del%20ser%20%28216%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gianni%20Vattimo/Alrededores%20del%20ser%20%28216%29/Alrededores%20del%20ser%20-%20Gianni%20Vattimo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="727 KB" />
+    <author>
+      <name>Gianni Vattimo</name>
+      <uri>../authors_0/authors_143_Page_1.xml</uri>
+    </author>
+    <published>2020-03-17T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Galaxia Gutenberg</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>Los textos que componen este volumen son variaciones sobre un único tema, el tema de una filosofía que se ejerce sobre todo mediante la puesta a prueba de aquellas perspectivas que siguen las pautas de las ocasiones. El tipo de filosofía que yo culti...</summary>
+    <link href="../book_0/book_216.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Analectas</title>
+    <id>calibre:book:2351</id>
+    <updated>2024-09-09T10:34:13Z</updated>
+    <link href="../../Confucio/Analectas%20%282351%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Confucio/Analectas%20%282351%29/Analectas%20-%20Confucio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="126 KB" />
+    <author>
+      <name>Confucio</name>
+      <uri>../authors_1/authors_1629_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="No" />
+    <category term="Ficción" />
+    <category term="Ensayo" />
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [152]:</summary>
+    <link href="../book_2/book_2351.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El arte de amar</title>
+    <id>calibre:book:1291</id>
+    <updated>2024-03-15T09:02:26Z</updated>
+    <link href="../../Erich%20Fromm/El%20arte%20de%20amar%20%281291%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Erich%20Fromm/El%20arte%20de%20amar%20%281291%29/El%20arte%20de%20amar%20-%20Erich%20Fromm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="190 KB" />
+    <author>
+      <name>Erich Fromm</name>
+      <uri>../authors_0/authors_938_Page_1.xml</uri>
+    </author>
+    <published>2055-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Filosofía" />
+    <category term="Ensayo" />
+    <category term="psicología" />
+    <category term="Lang:es" />
+    <summary>El arte de amar es una obra con la que Erich Fromm ha ayudado a varias generaciones a reflexionar sobre el amor y a responder a algunas preguntas aparentemente sencillas: ¿qué significa amar? ¿Cómo desprendernos de nosotros mismos para experimentar e...</summary>
+    <link href="../book_1/book_1291.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El arte de la buena vida</title>
+    <id>calibre:book:690</id>
+    <updated>2023-05-16T08:56:30Z</updated>
+    <link href="../../William%20B.%20Irvine/El%20arte%20de%20la%20buena%20vida%20%28690%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20B.%20Irvine/El%20arte%20de%20la%20buena%20vida%20%28690%29/El%20arte%20de%20la%20buena%20vida%20-%20William%20B.%20Irvine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="556 KB" />
+    <author>
+      <name>William B. Irvine</name>
+      <uri>../authors_0/authors_515_Page_1.xml</uri>
+    </author>
+    <published>2019-06-11T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Paidós</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Ensayo" />
+    <category term="Lang:es" />
+    <summary>Uno de los grandes temores al que muchos de nosotros nos enfrentamos es descubrir al final que hemos desperdiciado nuestra vida, a pesar de todos nuestros esfuerzos. En El arte de la buena vida, William B. Irvine explora la sabiduría de la filosofía...</summary>
+    <link href="../book_0/book_690.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Bailar en el desierto</title>
+    <id>calibre:book:756</id>
+    <updated>2023-05-22T05:06:58Z</updated>
+    <link href="../../Juan%20Arnau/Bailar%20en%20el%20desierto%20%28756%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Arnau/Bailar%20en%20el%20desierto%20%28756%29/Bailar%20en%20el%20desierto%20-%20Juan%20Arnau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="590 KB" />
+    <author>
+      <name>Juan Arnau</name>
+      <uri>../authors_0/authors_565_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>HAS BAILADO CON ELLOS DURANTE DÉCADAS, AHORA CONOCERÁS SU HISTORIA.Una apasionante novela sobre la gran saga familiar que fundó el Festival de Monegros, la discoteca Florida y las fiestas Elrow.UN SUEÑO.Fraga, siglo XIX. El joven Josep Satorres decid...</summary>
+    <link href="../book_0/book_756.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cartas a un buscador de sí mismo</title>
+    <id>calibre:book:1981</id>
+    <updated>2024-09-05T06:10:29Z</updated>
+    <link href="../../Henry%20David%20Thoreau/Cartas%20a%20un%20buscador%20de%20si%20mismo%20%281981%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Henry%20David%20Thoreau/Cartas%20a%20un%20buscador%20de%20si%20mismo%20%281981%29/Cartas%20a%20un%20buscador%20de%20si%20mism%20-%20Henry%20David%20Thoreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="161 KB" />
+    <author>
+      <name>Henry David Thoreau</name>
+      <uri>../authors_1/authors_1418_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [226]:</summary>
+    <link href="../book_1/book_1981.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>De la brevedad de la vida</title>
+    <id>calibre:book:1938</id>
+    <updated>2024-09-05T06:03:57Z</updated>
+    <link href="../../Lucio%20Anneo%20Seneca/De%20la%20brevedad%20de%20la%20vida%20%281938%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lucio%20Anneo%20Seneca/De%20la%20brevedad%20de%20la%20vida%20%281938%29/De%20la%20brevedad%20de%20la%20vida%20-%20Lucio%20Anneo%20Seneca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="84 KB" />
+    <author>
+      <name>Lucio Anneo Séneca</name>
+      <uri>../authors_1/authors_1384_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Filosofía" />
+    <category term="Espiritualidad" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [17]:</summary>
+    <link href="../book_1/book_1938.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dioses contra microbios</title>
+    <id>calibre:book:217</id>
+    <updated>2023-01-27T11:54:40Z</updated>
+    <link href="../../Alejandro%20Gandara/Dioses%20contra%20microbios%20%28217%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alejandro%20Gandara/Dioses%20contra%20microbios%20%28217%29/Dioses%20contra%20microbios%20-%20Alejandro%20Gandara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="567 KB" />
+    <author>
+      <name>Alejandro Gándara</name>
+      <uri>../authors_0/authors_144_Page_1.xml</uri>
+    </author>
+    <published>2020-09-28T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ariel</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>No es frecuente apartarse de los caminos trillados para abordar una realidad tan abrumadora como la pandemia de la Covid-19, y eso lo consigue en esta original obra el profesor y escritor Alejandro Gándara. Por una parte, es un libro escrito desde la...</summary>
+    <link href="../book_0/book_217.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Emilio o De la Educación</title>
+    <id>calibre:book:1941</id>
+    <updated>2024-09-05T06:03:58Z</updated>
+    <link href="../../Jean-Jacques%20Rousseau/Emilio%20o%20De%20la%20Educacion%20%281941%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean-Jacques%20Rousseau/Emilio%20o%20De%20la%20Educacion%20%281941%29/Emilio%20o%20De%20la%20Educacion%20-%20Jean-Jacques%20Rousseau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="558 KB" />
+    <author>
+      <name>Jean-Jacques Rousseau</name>
+      <uri>../authors_1/authors_1386_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Tratado" />
+    <category term="Filosofía" />
+    <category term="Ensayo" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [22]:</summary>
+    <link href="../book_1/book_1941.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>En busca del tiempo en que vivimos</title>
+    <id>calibre:book:774</id>
+    <updated>2023-05-25T00:58:48Z</updated>
+    <link href="../../Gregorio%20Luri/En%20busca%20del%20tiempo%20en%20que%20vivimos%20%28774%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gregorio%20Luri/En%20busca%20del%20tiempo%20en%20que%20vivimos%20%28774%29/En%20busca%20del%20tiempo%20en%20que%20vivi%20-%20Gregorio%20Luri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="505 KB" />
+    <author>
+      <name>Gregorio Luri</name>
+      <uri>../authors_0/authors_579_Page_1.xml</uri>
+    </author>
+    <published>2022-11-29T02:52:47Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Deusto</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>En todo momento histórico hay una tensión entre lo viejo que no se resigna a desaparecer y lo nuevo que no se decide a triunfar. Todo presente histórico es un interregno propicio para fenómenos monstruosos que sólo los que vengan después sabrán si f...</summary>
+    <link href="../book_0/book_774.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Enquiridión</title>
+    <id>calibre:book:1990</id>
+    <updated>2024-09-05T06:10:31Z</updated>
+    <link href="../../Epicteto/Enquiridion%20%281990%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Epicteto/Enquiridion%20%281990%29/Enquiridion%20-%20Epicteto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="81 KB" />
+    <author>
+      <name>Epicteto</name>
+      <uri>../authors_1/authors_1426_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <link href="../book_1/book_1990.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Este dolor no es mío</title>
+    <id>calibre:book:694</id>
+    <updated>2023-05-16T02:02:38Z</updated>
+    <link href="../../Mark%20Wolynn/Este%20dolor%20no%20es%20mio%20%28694%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mark%20Wolynn/Este%20dolor%20no%20es%20mio%20%28694%29/Este%20dolor%20no%20es%20mio%20-%20Mark%20Wolynn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="690 KB" />
+    <author>
+      <name>Mark Wolynn</name>
+      <uri>../authors_0/authors_518_Page_1.xml</uri>
+    </author>
+    <published>2020-11-24T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Gaia</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>Un enfoque transformador que permite resolver problemas crónicos como la depresión, la ansiedad y las fobias, que no han podido ser aliviados mediante la terapia tradicional, los medicamentos u otras medidas.</summary>
+    <link href="../book_0/book_694.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Filosofía en 11 frases</title>
+    <id>calibre:book:601</id>
+    <updated>2023-05-02T01:40:24Z</updated>
+    <link href="../../Dario%20Sztajnszrajber/Filosofia%20en%2011%20frases%20%28601%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dario%20Sztajnszrajber/Filosofia%20en%2011%20frases%20%28601%29/Filosofia%20en%2011%20frases%20-%20Dario%20Sztajnszrajber.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="611 KB" />
+    <author>
+      <name>Darío Sztajnszrajber</name>
+      <uri>../authors_0/authors_447_Page_1.xml</uri>
+    </author>
+    <published>2018-04-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Paidós</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>Sólo sé que no sé nada. Pienso, luego existo. Todo lo sólido se desvanece en el aire. Dios ha muerto. Por medio de frases como esas, disparadores que estimulan el pensamiento, Darío Sztajnszrajber se propone sacar a la filosofía de los formatos que l...</summary>
+    <link href="../book_0/book_601.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El hilo que une</title>
+    <id>calibre:book:702</id>
+    <updated>2023-05-17T01:10:16Z</updated>
+    <link href="../../Sohrab%20Ahmari/El%20hilo%20que%20une%20%28702%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sohrab%20Ahmari/El%20hilo%20que%20une%20%28702%29/El%20hilo%20que%20une%20-%20Sohrab%20Ahmari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="670 KB" />
+    <author>
+      <name>Sohrab Ahmari</name>
+      <uri>../authors_0/authors_523_Page_1.xml</uri>
+    </author>
+    <published>2022-04-21T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Rialp, S.A.</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>A la hora de formar la fibra moral de su hijo pequeño, el conocido editor del New York Post percibe una lamentable carencia. Durante milenios, las grandes tradiciones éticas y religiosas del mundo han enseñado que la verdadera felicidad consiste en p...</summary>
+    <link href="../book_0/book_702.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Incompletos</title>
+    <id>calibre:book:603</id>
+    <updated>2023-05-02T01:40:24Z</updated>
+    <link href="../../Jose%20Carlos%20Ruiz/Incompletos%20%28603%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Carlos%20Ruiz/Incompletos%20%28603%29/Incompletos%20-%20Jose%20Carlos%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="682 KB" />
+    <author>
+      <name>José Carlos Ruiz</name>
+      <uri>../authors_0/authors_448_Page_1.xml</uri>
+    </author>
+    <published>2022-12-20T10:01:51Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>La elegancia, en su etimología, está emparentada con la elección (eligĕre), de tal manera que una persona elegante, entre otras cosas, es aquella que sabe elegir. El pensamiento elegante moldea a un sujeto que no lucha por mostrarse distinto entre la...</summary>
+    <link href="../book_0/book_603.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La senda de Aristóteles</title>
+    <id>calibre:book:704</id>
+    <updated>2023-05-17T01:10:20Z</updated>
+    <link href="../../Edith%20Hall/La%20senda%20de%20Aristoteles%20%28704%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edith%20Hall/La%20senda%20de%20Aristoteles%20%28704%29/La%20senda%20de%20Aristoteles%20-%20Edith%20Hall.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="509 KB" />
+    <author>
+      <name>Edith Hall</name>
+      <uri>../authors_0/authors_525_Page_1.xml</uri>
+    </author>
+    <published>2022-05-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Anagrama</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>Una actualización del pensamiento artistotélico y cómo emplearlo hoy en día, dos mil cuatrocientos años después, para cambiar nuestra vida. En el siglo IV a. C., Aristóteles funda en Atenas su escuela, una versión muy mejorada de la Academia platónic...</summary>
+    <link href="../book_0/book_704.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Locos por los clásicos</title>
+    <id>calibre:book:596</id>
+    <updated>2023-05-02T01:40:20Z</updated>
+    <link href="../../Emilio%20del%20Rio/Locos%20por%20los%20clasicos%20%28596%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emilio%20del%20Rio/Locos%20por%20los%20clasicos%20%28596%29/Locos%20por%20los%20clasicos%20-%20Emilio%20del%20Rio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Emilio del Río</name>
+      <uri>../authors_0/authors_444_Page_1.xml</uri>
+    </author>
+    <published>2022-05-07T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>Hay un momento mágico de la historia de la humanidad en el que se crean las bases de nuestra democracia, de nuestra civilización, de nuestra cultura; ese momento es de las culturas griega y romana, hace miles de años. Nuestra manera de ver el mundo y...</summary>
+    <link href="../book_0/book_596.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Magníficos rebeldes</title>
+    <id>calibre:book:709</id>
+    <updated>2023-05-17T01:18:18Z</updated>
+    <link href="../../Andrea%20Wulf/Magnificos%20rebeldes%20%28709%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andrea%20Wulf/Magnificos%20rebeldes%20%28709%29/Magnificos%20rebeldes%20-%20Andrea%20Wulf.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <author>
+      <name>Andrea Wulf</name>
+      <uri>../authors_0/authors_529_Page_1.xml</uri>
+    </author>
+    <published>2022-11-03T06:00:00Z</published>
+    <dcterms:publisher>Taurus</dcterms:publisher>
+    <category term="Filosofía" />
+    <summary>Laaventurafilosófica de ungrupo dejóvenesrebeldes,elCírculo de Jena, quediolugar alRomanticismo y anuestracomprensiónmoderna de lalibertad.EL REGRESO DEANDREA WULF TRAS LA INVENCIÓN DE LA NATURALEZA«Magníficosrebeldesvibra con lapasiónsalvaje y las i...</summary>
+    <link href="../book_0/book_709.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La mano invisible</title>
+    <id>calibre:book:1978</id>
+    <updated>2024-09-05T06:10:29Z</updated>
+    <link href="../../Adam%20Smith/La%20mano%20invisible%20%281978%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Adam%20Smith/La%20mano%20invisible%20%281978%29/La%20mano%20invisible%20-%20Adam%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="125 KB" />
+    <author>
+      <name>Adam Smith</name>
+      <uri>../authors_1/authors_1414_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ciencias" />
+    <category term="sociales" />
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [237]:</summary>
+    <link href="../book_1/book_1978.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Monje Que Vendió Su Ferrari</title>
+    <id>calibre:book:281</id>
+    <updated>2023-02-03T08:44:56Z</updated>
+    <link href="../../Robin%20Sharma/El%20Monje%20Que%20Vendio%20Su%20Ferrari%20%28281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robin%20Sharma/El%20Monje%20Que%20Vendio%20Su%20Ferrari%20%28281%29/El%20Monje%20Que%20Vendio%20Su%20Ferrari%20-%20Robin%20Sharma.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="148 KB" />
+    <author>
+      <name>Robin Sharma</name>
+      <uri>../authors_0/authors_190_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.papyrefb2.net</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_281.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El niño filósofo</title>
+    <id>calibre:book:218</id>
+    <updated>2023-01-27T11:54:40Z</updated>
+    <link href="../../Jordi%20Nomen/El%20nino%20filosofo%20%28218%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jordi%20Nomen/El%20nino%20filosofo%20%28218%29/El%20nino%20filosofo%20-%20Jordi%20Nomen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <author>
+      <name>Jordi Nomen</name>
+      <uri>../authors_0/authors_99_Page_1.xml</uri>
+    </author>
+    <published>2018-06-18T01:10:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Arpa Editores</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>La herramienta ideal para que familias y educadores desarrollen la inteligencia filosófica de los niños.Los niños tienen una extraordinaria capacidad de asombro y una curiosidad prácticamente ilimitada, dos cualidades que los convierten en pequeños g...</summary>
+    <link href="../book_0/book_218.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El niño filósofo y el arte</title>
+    <id>calibre:book:152</id>
+    <updated>2023-01-19T08:55:30Z</updated>
+    <link href="../../Jordi%20Nomen/El%20nino%20filosofo%20y%20el%20arte%20%28152%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jordi%20Nomen/El%20nino%20filosofo%20y%20el%20arte%20%28152%29/El%20nino%20filosofo%20y%20el%20arte%20-%20Jordi%20Nomen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Jordi Nomen</name>
+      <uri>../authors_0/authors_99_Page_1.xml</uri>
+    </author>
+    <published>2019-04-29T05:04:46Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Arpa Editores</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>La herramienta ideal para desarrollar el pensamiento creativo y la sensibilidad estética en los niños y niñas.El niño filósofo y el arte es la segunda entrega de la biblioteca de filosofía para niños de Jordi Nomen. En esta ocasión traza los puentes ...</summary>
+    <link href="../book_0/book_152.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No me tapes el sol</title>
+    <id>calibre:book:600</id>
+    <updated>2023-05-02T01:40:24Z</updated>
+    <link href="../../Eduardo%20Infante/No%20me%20tapes%20el%20sol%20%28600%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eduardo%20Infante/No%20me%20tapes%20el%20sol%20%28600%29/No%20me%20tapes%20el%20sol%20-%20Eduardo%20Infante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="524 KB" />
+    <author>
+      <name>Eduardo Infante</name>
+      <uri>../authors_0/authors_446_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ariel</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>¿Por qué tanto ensañamiento con el cinismo? Porque el cínico cometió el terrible pecado de señalar al idealismo con el dedo y gritar: «¡El rey va desnudo!». Desde entonces, los maestros de la filosofía los ignoran, los silencian, los tergiversan, los...</summary>
+    <link href="../book_0/book_600.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un paseo invernal</title>
+    <id>calibre:book:1980</id>
+    <updated>2024-09-05T06:10:29Z</updated>
+    <link href="../../Henry%20David%20Thoreau/Un%20paseo%20invernal%20%281980%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Henry%20David%20Thoreau/Un%20paseo%20invernal%20%281980%29/Un%20paseo%20invernal%20-%20Henry%20David%20Thoreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="86 KB" />
+    <author>
+      <name>Henry David Thoreau</name>
+      <uri>../authors_1/authors_1418_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ciencias" />
+    <category term="naturales" />
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [214]:</summary>
+    <link href="../book_1/book_1980.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

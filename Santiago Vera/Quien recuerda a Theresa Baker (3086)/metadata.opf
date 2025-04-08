@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3086</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">866a72d5-f637-4b74-96ff-743ba701aa78</dc:identifier>
+        <dc:title>Quién recuerda a Theresa Baker</dc:title>
+        <dc:creator opf:file-as="Vera, Santiago" opf:role="aut">Santiago Vera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-13T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ni siquiera la muerte puede esconder algunos secretos...&lt;/p&gt;
+&lt;p&gt;Tras el éxito de La vida secreta de Sarah Brooks y La última muerte en Goodrow Hill, Santiago Vera, la voz más envolvente del thriller actual, cierra su «Trilogía Americana» con Quién recuerda a Theresa Baker.&lt;/p&gt;
+&lt;p&gt;UN ASESINATO IMPOSIBLE.&lt;br&gt;UN CASO CERRADO QUE VUELVE A ABRIRSE.&lt;br&gt;UN SECRETO CAPAZ DE SOBREVIVIR A LA MUERTE.&lt;/p&gt;
+&lt;p&gt;Hace un año, un asesino puso en jaque a la pequeña ciudad de Harmony Lake, un lugar camuflado entre la niebla. Su nombre era Norman Greene y mató a tres mujeres antes de que el detective Nicholas Baker consiguiera atraparlo y acabar con él. Sin embargo, no llegó a tiempo de salvar a la última víctima: su mujer, Theresa Baker.&lt;/p&gt;
+&lt;p&gt;La calma parece haber regresado a la localidad hasta que el cuerpo sin vida de una joven sorprende a sus habitantes y todas las pistas apuntan a la misma pregunta: ¿es posible que Norman Greene haya vuelto de entre los muertos? Será entonces cuando el periodista Declan Jacobson viaje al lugar del crimen para cubrir el suceso y, en una carrera a contrarreloj, Baker y Declan cruzarán sus caminos con la intención de descubrir -cada uno a su manera- qué está pasando antes de que vuelva el horror.&lt;/p&gt;
+&lt;p&gt;Con su «Trilogía Americana», compuesta por La vida secreta de Sarah Brooks, La última muerte en Goodrow Hill y Quién recuerda a Theresa Baker, Santiago Vera nos transporta al centro más frío y misterioso de Estados Unidos. Allí donde los pequeños pueblos que recuerdan a Twin Peaks ocultan los secretos más oscuros y los odios más profundos esperando que nunca salgan a la luz. Pero, a veces, ni siquiera la muerte puede esconder algunos secretos. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Trilogía Americana"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-02-23T09:50:03+00:00"/>
+        <meta name="calibre:title_sort" content="Quién recuerda a Theresa Baker"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

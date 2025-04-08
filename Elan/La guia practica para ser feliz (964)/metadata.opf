@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">964</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">114e1fce-d768-4865-b16f-46c9f83fb322</dc:identifier>
+        <dc:title>La guía práctica para ser feliz</dc:title>
+        <dc:creator opf:file-as="Elán" opf:role="aut">Elán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-07T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;La fórmula para la felicidad no existe ni viene en este libro...&lt;/B&gt;&lt;/P&gt; &lt;P&gt;No tiene lecciones de sabiduría ancestral, sino más bien lo que se puede aprender de los errores propios y de los demás, pero sobre todo de vivir cada segundo intensamente. No busca cambiarle la vida a nadie ni descubrir ningún hilo negro; si acaso arrancarte una que otra carcajada. y en ese sentido, puede que sí nos acerque un poquito a la felicidad.&lt;/P&gt;</dc:description>
+        <dc:publisher>AGUILAR</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073818476</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-16T15:28:55.155802+00:00"/>
+        <meta name="calibre:title_sort" content="guía práctica para ser feliz, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

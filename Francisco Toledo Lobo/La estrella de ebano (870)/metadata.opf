@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">870</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c849082a-db16-4eda-993c-0f1346d12652</dc:identifier>
+        <dc:title>La estrella de ébano</dc:title>
+        <dc:creator opf:file-as="Lobo, Francisco Toledo" opf:role="aut">Francisco Toledo Lobo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-07T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La tragedia migratoria del Mediterráneo en una emotiva novela. Un relato impactante sobre la dignidad, la valentía y el poder de la amistad. UNA MUJER LUCHADORA Y VALEROSA Airam siempre consigue lo que se propone. Su ambición y talento la han convertido en capitana de un gran buque de salvamento marítimo, pero su primera travesía a bordo del Clara Campoamor se ve marcada por un funesto hallazgo. &lt;/p&gt;
+&lt;p&gt;UNA TRAGEDIA EN EL MEDITERRÁNEO Los cuerpos de cinco jóvenes africanas flotan en el agua creando una trágica composición en forma de estrella. Tras rescatar los cadáveres, la capitana no puede dejar de preguntarse por qué murieron y por qué las encontraron atadas las unas a las otras. ¿Qué relación había entre ellas? ¿Qué las empujó al mar?UN VIAJE HACIA LA VERDAD El fatídico rescate está a punto de desatar un tsunami en la vida de Airam. La capitana quiere averiguar qué les ocurrió a esas mujeres, aunque para ello tenga que viajar hasta el corazón de Nigeria. LA CONMOVEDORA HISTORIA DE UNAS MUJERES QUE SOÑARON CON LA LIBERTAD, PERO A QUIERES ARREBATARON EL FUTURO.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425365386</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-19T15:31:23+00:00"/>
+        <meta name="calibre:title_sort" content="estrella de ébano, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

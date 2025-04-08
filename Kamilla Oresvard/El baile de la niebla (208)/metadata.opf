@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7bb23b1-61ee-48a7-92a2-89270d4ecac0</dc:identifier>
+        <dc:title>El baile de la niebla</dc:title>
+        <dc:creator opf:file-as="Oresvärd, Kamilla" opf:role="aut">Kamilla Oresvärd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Frank es testigo de cómo unos desconocidos secuestran a su hijastra Elsa, de once años. Los años pasan y el caso del secuestro sigue sin resolverse. Casi dos décadas después, Frank, quien en su momento se convirtió en el principal sospechoso, está mentalmente agotado y es considerado un tipo raro en el pueblo de Vargön. &lt;/p&gt;
+&lt;p&gt;Cuando desaparece una joven, las miradas de nuevo se posan en Frank, que vuelve a ser cuestionado por la policía. &lt;/p&gt;
+&lt;p&gt;En un último intento desesperado por averiguar qué le pasó a Elsa y para limpiar su nombre, Frank contacta con Mona Schiller, quien comienza a indagar en el viejo caso. &lt;/p&gt;
+&lt;p&gt;Pronto Mona descubre que hay poderosas fuerzas escondidas bajo la aparente tranquilidad de la pequeña comunidad y su búsqueda hacia la verdad la lleva por un camino marcado por el miedo, la desconfianza y el fanatismo religioso. &lt;/p&gt;
+&lt;p&gt;“El baile de la niebla” es la segunda novela de la serie sobre Mona Schiller, escrita por la autora bestseller Kamilla Oresvärd.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Word Audio Publishing</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Kamilla Oresvärd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Mona Schiller"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-01-27T07:44:25.488611+00:00"/>
+        <meta name="calibre:title_sort" content="baile de la niebla, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1737</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e371e29-9151-4e80-8a13-8312b201d082</dc:identifier>
+        <dc:title>Carne Muerta: Día 1</dc:title>
+        <dc:creator opf:file-as="Clausen, Nick" opf:role="aut">Nick Clausen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-28T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Todo comienza con una sola persona muerta que vuelve a la vida.
+ En tres días, los no muertos se han apoderado de la mayor parte de la 
+ciudad. A pesar de los heroicos esfuerzos y las rápidas iniciativas del 
+gobierno, la catástrofe sigue creciendo. Pronto, alcanza las fronteras 
+de la nación, amenazando con convertirse en una pandemia mundial.&lt;/p&gt;&lt;p&gt;¿Será este el fin de la humanidad?&lt;/p&gt;&lt;p&gt;Este es el fin del mundo, un día a la vez.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>anonymous</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DBHKG9GR</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-08T15:13:47.078696+00:00"/>
+        <meta name="calibre:title_sort" content="Carne Muerta: Día 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

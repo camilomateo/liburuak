@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">719</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6de8ae91-203a-4ca2-8fc2-846faca33a22</dc:identifier>
+        <dc:title>La enfermedad del amor</dc:title>
+        <dc:creator opf:file-as="González Crussí, Francisco" opf:role="aut">Francisco González Crussí</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;i&gt;La enfermedad del amor&lt;/i&gt; es, entre muchas otras cosas, un museo de aforismos sobre la dimensión erótica de nuestras vidas, y sus casi infinitos reductos hacia la humillación, el fracaso y otros tormentos, pues el amor es «el fenómeno más discutido y menos comprendido», según Diderot, «la ocupación de las gentes ociosas», de acuerdo con Diógenes, y en la versión de Platón se trata de «la enfermedad de las mentes desocupadas».&lt;/p&gt;
+
+  &lt;p&gt;&lt;i&gt;La enfermedad del amor&lt;/i&gt; es un organismo literario poblado por grandes pensadores, arrinconados en los límites de la racionalidad: un museo de anormalidades y relatos de todas las épocas, donde se distingue el triángulo malsano conformado por los hechos del cuerpo y su contradicción con la cultura, ante la figura del médico que sólo puede ver a medias la estructura lógica del problema. Este libro se detiene en los puntos ciegos de las teorías científicas, en el remolino donde la medicina y la vida no logran diferenciarse. Sin pasión por la denuncia o el escándalo, sin necesidad de redimir a nadie, González-Crussí contempla con ironía y serenidad los acontecimientos confusos de la historia, y los enlaza para formar una trama, sin resolución, pero terriblemente entretenida, que conduce a una discusión final acerca de la naturaleza patológica de la obsesión erótica, puesta en escena mediante el recurso de una ficción filosófica, donde los argumentos se tensan y alternan para generar una resolución coherente, pero inesperada, un estado de conciencia donde la literatura y la medicina contemplan el horizonte humano que diagnosticó, en su momento, Francisco de Quevedo: la enfermedad que crece si es curada.&lt;/p&gt;</dc:description>
+        <dc:publisher>DEBATE</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">70686</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <dc:subject>Medicina</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:50.618213+00:00"/>
+        <meta name="calibre:title_sort" content="enfermedad del amor, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

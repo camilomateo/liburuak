@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4859ea81-c127-4ea8-9460-9cd33117dc2c</dc:identifier>
+        <dc:title>La noche más oscura</dc:title>
+        <dc:creator opf:file-as="Bryndza, Robert" opf:role="aut">Robert Bryndza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Trató de olvidar el pasado, pero la oscuridad volvió a por ella*&lt;em&gt;&lt;br&gt;Kate Marshall era una joven y prometedora inspectora de policía cuando atrapó al famoso asesino en serie del barrio de Nine Elms, en la ciudad de Londres. Sin embargo, su mayor hazaña se convirtió en su peor pesadilla. Traicionada por alguien muy cercano y traumatizada por las espeluznantes circunstancias que rodearon el mediático caso, Kate se vio obligada a abandonar su puesto.&lt;br&gt;Quince años después, aunque los fantasmas todavía la atormentan, Kate trata de seguir adelante como profesora de Criminología en una tranquila universidad del sur de Inglaterra. Pero, entonces, el pasado regresa a su vida con una misteriosa carta. Alguien está imitando al asesino de Nine Elms y está decidido a conseguir lo que aquel no pudo: matar a Kate.&lt;br&gt;El fenómeno del thriller internacional que lleva más de cuatro millones de ejemplares vendidos. &lt;br&gt;*Del autor del best seller Te veré bajo el hielo.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Principal de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788416223510</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Bryndza&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Kate Marshall"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:15:18.187326+00:00"/>
+        <meta name="calibre:title_sort" content="noche más oscura, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

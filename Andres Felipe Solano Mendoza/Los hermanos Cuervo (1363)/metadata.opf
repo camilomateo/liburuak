@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3cbe19d7-4245-414e-b7ab-353975915dea</dc:identifier>
+        <dc:title>Los hermanos Cuervo</dc:title>
+        <dc:creator opf:file-as="Mendoza, Andrés Felipe Solano" opf:role="aut">Andrés Felipe Solano Mendoza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Despuntan los años noventa y en Bogotá truenan bombas. La gente vive de espaldas a la calle y pasa los días con los oídos pegados a la radio. En medio de la extrañeza general, dos hermanos adolescentes se inscriben por primera vez en un colegio. Sus misteriosas vidas pronto generan todo tipo de teorías: que son hermafroditas, que se fugaron de un orfanato, que descuartizan terneros en la casona donde viven con su abuela. Pero la realidad, descubre Nelson, un compañero de clase, resulta más apabullante: detrás de sus espectrales rostros se esconde la historia de una familia marcada por el desarraigo, historia que se remonta a las heroicas arengas de un locutor radial de ciclismo, a un tricampeón de la Vuelta a Colombia y a una joven fugitiva que se rebela contra su férrea madre. Por partes iguales novela de aprendizaje, crónica deportiva y relato de carretera, Los hermanos Cuervo nos arroja, con ímpetu, a descubrir los secretos de una genealogía tan insólita como el país donde tiene lugar esta ficción.</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789584283405</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:30:00.057583+00:00"/>
+        <meta name="calibre:title_sort" content="hermanos Cuervo, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1833</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c86f67b6-6d94-490e-bd61-8364b48bc5a7</dc:identifier>
+        <dc:title>El desafortunado</dc:title>
+        <dc:creator opf:file-as="Ariel Magnus" opf:role="aut">Ariel Magnus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Desde que terminó la guerra, el nazi Adolf Eichmann ha vivido escondido. En 1950 se establece en la Argentina peronista bajo el nombre falso de Ricardo Klement y consigue trabajo al amparo del gobierno y la comunidad alemana. Dos años después, su mujer y sus hijos se reúnen allí con él, y comienza entonces una vida plácida y discreta como padre de familia, hasta que es capturado por el Mossad en 1960. El desafortunado recrea los últimos años de libertad de uno de los criminales de guerra más enigmáticos del nazismo, en un tiempo y un lugar en el que víctimas y verdugos intentaban dejar atrás el epicentro del horror. El egocentrismo y frialdad de Eichmann contrastan hábilmente con la vulnerabilidad cotidiana familiar en una narración contada por primera vez desde el punto de vista del llamado «arquitecto del Holocausto», el hombre responsable de las deportaciones masivas de los judíos a los campos de concentración. Ariel Magnus se acerca en esta espléndida novela a un personaje complejo y a un pasado inefable, y va más allá al incluir un epílogo en el que el testimonio personal y sorprendente del propio autor se contrapone al retrato aséptico de una figura histórica terrible. «Una novela magnética y perturbadora.» Javier Cercas&lt;/p&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432236822</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">LzDwDwAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-30T12:04:05.610723+00:00"/>
+        <meta name="calibre:title_sort" content="El desafortunado"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

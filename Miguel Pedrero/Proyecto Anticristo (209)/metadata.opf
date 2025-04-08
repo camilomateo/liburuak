@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55d6f2d4-a8ca-4cfb-ad1a-5b8a9b29b4dd</dc:identifier>
+        <dc:title>Proyecto Anticristo</dc:title>
+        <dc:creator opf:file-as="Pedrero, Miguel" opf:role="aut">Miguel Pedrero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-12T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Esta novela es el fruto de las entrevistas que mantuvo el autor –un conocido periodista de investigación– con personajes vinculados al mundo del espionaje, la política y la economía. La protagonista es Ana Maldonado, agente del CNI –el servicio secreto español– que recibe el encargo de infiltrarse en una secta satánica a la que pertenecen importantes personalidades españolas y que, según los datos en poder del CNI, es la tapadera de una operación encubierta de la CIA. A lo largo de la trama, Maldonado irá descubriendo que los hombres más poderosos del planeta profesan una filosofía satánica, que son los herederos de la Orden Illuminati –fundada en 1776– y que su pretensión es generar el caos en el planeta para alcanzar un Gobierno Mundial dirigido desde la sombra por las grandes transnacionales….&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: 'Segoe UI', sans-serif; font-size: 13px;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cydonia</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781719865371</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07D2ZG14C</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Miguel Pedrero&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Novela Cydonia"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2023-01-27T09:32:24.503625+00:00"/>
+        <meta name="calibre:title_sort" content="Proyecto Anticristo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2668</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25acf7e5-fc93-4b65-9d32-769348e41c39</dc:identifier>
+        <dc:title>Hojas de hierba</dc:title>
+        <dc:creator opf:file-as="Whitman, Walt" opf:role="aut">Walt Whitman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1854-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;En 1855, Whitman publicó la primera de las innumerables ediciones de &lt;cite&gt;Hojas de hierba&lt;/cite&gt;, un libro de poemas cuya principal novedad era un tipo de versificación no usado hasta entonces, y que se alejaba radicalmente del que el poeta había utilizado en los poemas sentimentales que escribió en la década anterior. Puesto que en esta obra alababa el cuerpo humano y glorificaba los gozos de los sentidos, se vio obligado a sufragar él mismo los gastos de su publicación, y a colaborar en las tareas de imprenta. Su nombre no aparecía en la portada de esta edición, pero sí un retrato suyo en camiseta, con los brazos en jarras y el sombrero ladeado, en actitud desafiante. En un largo prefacio, el autor saludaba el advenimiento de una nueva literatura democrática —acorde con el pueblo—, sencilla e irreductible, escrita por un nuevo tipo de poeta afectuoso, potente y heroico, que conduciría a los lectores a través de la poesía con la fuerza de su magnética personalidad.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">9307</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <dc:subject>Filosófico</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:04:35.784646+00:00"/>
+        <meta name="calibre:title_sort" content="Hojas de hierba"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">710</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58c3eaca-7f1b-48d8-89e5-a6ef2a184731</dc:identifier>
+        <dc:title>El mercader de libros</dc:title>
+        <dc:creator opf:file-as="Luis Zueco" opf:role="aut">Luis Zueco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-28T06:00:00+00:00</dc:date>
+        <dc:description>Con una perfecta unión de rigor histórico e intriga, Luis Zueco traslada al lector a una época en que la palabra impresa podía ser el arma más peligrosa.
+
+Todo gran viaje comienza en los libros.
+
+Hubo un tiempo en que los libros podían descubrir nuevos mundos, tambalear los dogmas más sagrados y cambiar el curso de la Historia.
+
+Esta novela es un viaje a los años siguientes a la invención de la imprenta, cuando un mercader de libros emprende la búsqueda de un misterioso ejemplar que ha sido robado de la mayor biblioteca de Occidente, creada en Sevilla por el hijo de Cristóbal Colón.
+
+Año 1517. El joven Thomas atraviesa la incipiente Europa renacentista huyendo de su pasado. Son los años siguientes al descubrimiento de América y la invención de la imprenta, un periodo de profundos cambios que han supuesto el fin de la Edad Media. La curiosidad que siente por el Nuevo Mundo, cosechada en sus múltiples lecturas, le llevará hasta España, donde comenzará a trabajar con un mercader de libros.
+
+El encargo de localizar un ejemplar envuelto en un halo misterioso le conduce hasta Sevilla, una próspera ciudad que sirve como enlace en el comercio con las Indias y que alberga, entre sus murallas, la biblioteca más importante de Occidente, creada por el hijo de Cristóbal Colón y llamada la Colombina. Será precisamente allí donde Thomas descubra que alguien ha robado el libro que él busca y, por alguna razón, tiene mucho interés en que nadie lo encuentre.
+
+Hubo un tiempo en que los libros permitían descubrir nuevos mundos, tambalear los dogmas más sagrados y cambiar el curso de la Historia. Luis Zueco nos sumerge en los albores de la bibliofilia y nos traslada, en una perfecta unión de rigor histórico y trama trepidante, a una época en la que la palabra impresa podía ser el arma más peligrosa.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466667012</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:30.907542+00:00"/>
+        <meta name="calibre:title_sort" content="mercader de libros, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

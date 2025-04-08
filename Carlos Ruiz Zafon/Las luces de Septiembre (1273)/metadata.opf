@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fb58442-b66f-4948-968c-55b7a4800296</dc:identifier>
+        <dc:title>Las luces de Septiembre</dc:title>
+        <dc:creator opf:file-as="Carlos Ruiz Zafón" opf:role="aut">Carlos Ruiz Zafón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-27T06:00:00+00:00</dc:date>
+        <dc:description>Un misterioso fabricante de juguetes vive recluido en una mansión gigantesca poblada de seres mecánicos y sombras del pasado.Un enigma en torno a las extrañas luces que brillan entre la niebla que rodea el islote del faro. Una criatura de pesadilla que se oculta en la profundidad del bosque. Estos y otros elementos tejen la trama del misterio que unirá a Irene e Ismael para siempre durante un mágico verano en Bahía Azul.</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408095507</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-07T17:32:13.903156+00:00"/>
+        <meta name="calibre:title_sort" content="luces de Septiembre, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

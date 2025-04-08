@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d0958db-60ad-4caf-866a-8201c1585a7a</dc:identifier>
+        <dc:title>Los guardianes</dc:title>
+        <dc:creator opf:file-as="Grisham, John" opf:role="aut">John Grisham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-07T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; font-weight: 600"&gt;&lt;span style="color: #000000"&gt;Un hombre inocente fue condenado por asesinato hace veintidós años. Su abogado no parará hasta verle libre. Pero quienes le encerraron ya mataron una vez. Y están preparados para volver a hacerlo.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; font-weight: 600"&gt;&lt;span style="color: #000000"&gt;NADIE LO CUENTA MEJOR QUE GRISHAM.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;En la pequeña ciudad de Seabrook, Florida, un prometedor abogado llamado Keith Russo fue asesinado a tiros una noche mientras trabajaba hasta tarde en su despacho. El culpable no dejó pistas. No hubo testigos, nadie tenía un motivo. Pero la policía pronto sospechó de Quincy Miller, un joven negro que había sido cliente de Russo.&lt;br&gt;Miller fue juzgado y condenado a cadena perpetua. Durante veintidós años languideció en prisión, manteniendo su inocencia sin que nadie lo escuchara. Desesperado, escribe una carta al Ministerio de los Guardianes, una pequeña organización sin ánimo de lucro liderada por el abogado y sacerdote episcopaliano Cullen Post. Post viaja por el país luchando contra sentencias injustas y defendiendo a clientes olvidados por el sistema. Sin embargo, en el caso de Quincy Miller encuentra obstáculos inesperados. Los asesinos de Keith Russo son personas poderosas y despiadadas, y no quieren que Miller sea exonerado. Mataron a un abogado hace veintidós años, y matarían a otro sin pensarlo dos veces.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;John Grisham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:01:59.556177+00:00"/>
+        <meta name="calibre:title_sort" content="guardianes, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

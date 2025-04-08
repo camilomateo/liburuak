@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d7f770b-ae4e-42c0-927d-73e9429956da</dc:identifier>
+        <dc:title>Filosofía Fundamental, Tomo III</dc:title>
+        <dc:creator opf:file-as="Balmes, Jaime Luciano" opf:role="aut">Jaime Luciano Balmes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-06T12:21:18+00:00"/>
+        <meta name="calibre:title_sort" content="Filosofía Fundamental, Tomo III"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

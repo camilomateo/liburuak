@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9831809-dd3b-485f-9314-f8804f4f18ad</dc:identifier>
+        <dc:title>Betty</dc:title>
+        <dc:creator opf:file-as="Indridason, Arnaldur" opf:role="aut">Arnaldur Indridason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="books-expander-content"&gt;
+                    &lt;p&gt;SI CREES QUE BETTÝ NO TE PUEDE ENGAÑAR, YA HAS CAÍDO EN SU TRAMPA&lt;/p&gt;&lt;p&gt;Bettý
+ es de esas mujeres con un magnetismo hipnótico, acostumbradas a 
+utilizar su atractivo para conseguir todo lo que se proponen. Mientras 
+se te acerca con una sonrisa en los labios y admiras su sensual forma de
+ andar, no te das cuenta de la sofisticada telaraña que va tejiendo a tu
+ alrededor. Lo peor de todo es que, aunque ella te arrastre a la 
+perdición, cometerías gustosamente los mismos errores por pasar unas 
+horas más con ella.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788490568125</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">1f77c791-a11b-4040-a02d-9efda9750996</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-10T06:43:25+00:00"/>
+        <meta name="calibre:title_sort" content="Betty"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

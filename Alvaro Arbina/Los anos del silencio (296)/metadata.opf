@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">048b86c3-047b-4e85-9c92-1286b4dc3dc5</dc:identifier>
+        <dc:title>Los años del silencio</dc:title>
+        <dc:creator opf:file-as="Arbina, Álvaro" opf:role="aut">Álvaro Arbina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;LA HISTORIA QUE SE RELATA EN ESTE LIBRO ESTÁ INSPIRADA EN HECHOS REALES. SUCEDIÓ EN 1936, EN UN PEQUEÑO PUEBLO EN EL CORAZÓN DEL PAÍS DEL BIDASOA. En una oscura noche de agosto, Josefa Goñi Sagardía, una enigmática mujer embarazada de siete meses, desapareció de la faz de la tierra con sus seis hijos menores de edad. En un principio nadie en el pueblo escuchó nada, nadie sabía nada. Pero los secretos y los fantasmas empezaron a instalarse dentro de las casas. Al amanecer del día siguiente, el pueblo despertó sumido en un silencio que se demoró más tiempo del que nadie hubiera imaginado. Instintos soterrados que despiertan con la guerra. Una mujer y su envidia, las supersticiones de un cura, un guardia civil empujado por el miedo, la tentación de un padre de familia, un joven reprimido y un pueblo asustado que guarda silencio. Rumores agrandados. Ofensas y sentimientos insignificantes, cotidianos, que se enredan entre sí hasta deformarse y convertirse en monstruos. «Construye la carpintería de su relato como los grandes del , un Pérez-Reverte o un Ken Follett. Es increíble cómo describe las sensaciones. (...) Savia nueva de la literatura». Antonio Gárate, «Memorice este nombre: Álvaro Arbina. Dentro de poco podrá decir "yo lo sabía primero"». Qué leer «Tiene el don de los grandes narradores: te devuelve el placer de sumergirte en una historia y olvidarte por completo del mundo que te rodea». JULIA NAVARRO&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Álvaro Arbina&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-10T14:54:51.661573+00:00"/>
+        <meta name="calibre:title_sort" content="años del silencio, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1158</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1505abc2-6ff4-41e2-a48b-ba24142f104e</dc:identifier>
+        <dc:title>Una venganza imperfecta</dc:title>
+        <dc:creator opf:file-as="Winspear, Jacqueline" opf:role="aut">Jacqueline Winspear</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-05T10:14:51+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 300; font-family: 'Source Sans Pro','sans-serif'; font-size: medium"&gt;&lt;span style="color: #212529; background-color: #ffffff"&gt;Un nuevo caso de Maisie Dobbs, la detective estrella del misterio histórico cozy internacional. Nunca has conocido a nadie como ella.¿Cuál es el origen de una serie de acontecimientos muy extraños que ocurren en una pequeña comunidad rural? Maisie Dobbs debe recurrir a todas sus habilidades para averiguarlo.Heronsdene, condado de Kent, 1931. Con el país sumido en una crisis económica, Maisie se siente aliviada cuando recibe un encargo aparentemente sencillo; un íntimo amigo requiere sus servicios para investigar ciertos asuntos relacionados con la compra de un terreno. Sus investigaciones la conducen a un pintoresco pueblo de Kent. Bajo su tranquila apariencia, Maisie enseguida intuye que algo va mal por los misteriosos incendios que se producen con una regularidad alarmante, los prejuicios de los aldeanos hacia los trabajadores que acuden para recolectar el lúpulo, una serie de delitos menores que no dejan de sucederse y el silencio general acerca de la incursión de un zepelín en tiempos de guerra. La joven sospecha que un misterioso secreto envuelve la aldea.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-25T19:39:50.797903+00:00"/>
+        <meta name="calibre:title_sort" content="Una venganza imperfecta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

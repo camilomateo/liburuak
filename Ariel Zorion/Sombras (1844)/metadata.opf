@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1844</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">295ad441-05a5-4ed4-82ee-70e7756887eb</dc:identifier>
+        <dc:title>Sombras</dc:title>
+        <dc:creator opf:file-as="Zorion, Ariel" opf:role="aut">Ariel Zorion</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-27T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Una sombra.&lt;/p&gt;&lt;p&gt;Palabras con eco.&lt;/p&gt;&lt;p&gt;Resonancias.&lt;/p&gt;&lt;p&gt;Dictados que no provienen de la razón.&lt;/p&gt;&lt;p&gt;Mientras
+ el detective Patrick Baker trata de encontrar a su viejo compañero, un 
+asesino ha comenzado su particular aventura en las noches de Boston.&lt;br&gt;La estética siniestra de los cadáveres pone en alerta a la policía de la ciudad y, en especial, a Myrkur Cranston.&lt;br&gt;Por su parte, el Devorador de Corazones ha iniciado un juego con el que espera obtener ciertos beneficios &lt;/p&gt;&lt;p&gt;Sombras es la novela más dura de la serie Myrkur Cranston.&lt;/p&gt;&lt;p&gt;Hasta ahora…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0D5WKXYK8</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Misterio</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-30T12:18:33.156093+00:00"/>
+        <meta name="calibre:title_sort" content="Sombras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

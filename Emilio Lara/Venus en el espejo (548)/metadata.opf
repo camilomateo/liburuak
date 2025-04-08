@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">548</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53249396-c5b0-4242-b186-abb29e69a6c9</dc:identifier>
+        <dc:title>Venus en el espejo</dc:title>
+        <dc:creator opf:file-as="Emilio Lara" opf:role="aut">Emilio Lara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El destino, a veces, se puede cambiar. Y eso lo sabe bien la joven Olimpia. Inteligente y decidida, contraria a las normas impuestas de la época, pronto abandona el convento donde ha sido recluida contra su voluntad y toma las riendas de su vida. Será ella, entonces, quien rija los destinos de muchos otros; conseguirá riquezas y fama, y con ello protegerá a las mujeres pobres y las prostitutas, encargará majestuosas obras de arte y hasta ayudará a elegir a un Papa. Será en la Roma del siglo XVII donde Olimpia Maidalchini mueva sus hilos y se haga con un poder enorme, pues controlará el Vaticano y se ganará la enemistad de la curia. Unas faldas mandarán más que las sotanas. A esa misma Roma viajará Velázquez como embajador de Felipe IV. Lo hará en busca de grandes obras para su rey, y también hallará la inspiración y el amor en la modelo de uno de sus cuadros más célebres. Y, en las entretelas, una revolución popular, el carnaval, lujosas fiestas y el arte de Bernini, y todo ello bajo el palio de una Ciudad Eterna que vive momentos de esplendor. Venus en el espejo, la nueva novela de Emilio Lara, es una novela histórica, pero sobre todo una Novela en mayúsculas por su maestría en abordar las emociones. Una historia profundamente humana, de ambiciones y pasiones eternas, como la misma ciudad de Roma.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435049160</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">nCm2EAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-11T07:33:21.031766+00:00"/>
+        <meta name="calibre:title_sort" content="Venus en el espejo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

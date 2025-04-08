@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f959fd5-e03c-49c1-8861-c652d6f77c05</dc:identifier>
+        <dc:title>Después de ti</dc:title>
+        <dc:creator opf:file-as="Moyes, Jojo" opf:role="aut">Jojo Moyes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-24T06:00:00+00:00</dc:date>
+        <dc:description>«¿Cómo sigues adelante después de perder a la persona a la que amas?» Lou Clark tiene muchas preguntas: ¿Por qué ha terminado trabajando en el pub irlandés de un aeropuerto donde cada día tiene que ver cómo otras personas se van de viaje a conocer sitios nuevos? ¿Por qué a pesar de que ya lleva meses viviendo en su apartamento aún no se siente en casa? ¿Le perdonará su familia lo que hizo hace año y medio? ¿Y superará alguna vez la despedida del amor de su vida? Lo único que Lou sabe con certeza es que algo ha de cambiar. Y una noche sucede. Pero ¿y si la desconocida que llama a su puerta tiene incluso más preguntas y ninguna de las respuestas que ella busca? Si cierra la puerta, la vida continúa, sencilla, organizada, segura. Si la abre, lo arriesga todo de nuevo. Pero Lou una vez hizo una promesa para seguir adelante. Y si quiere cumplirla tendrá que invitarla a entrar…</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Romántico</dc:subject>
+        <meta name="calibre:series" content="Yo antes de ti"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:33.424516+00:00"/>
+        <meta name="calibre:title_sort" content="Después de ti"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

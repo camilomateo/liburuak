@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2889</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5629e6d6-2662-457f-a9b3-0e8d625ab0b3</dc:identifier>
+        <dc:title>Los amantes de Auschwitz</dc:title>
+        <dc:creator opf:file-as="Blankfeld, Keren" opf:role="aut">Keren Blankfeld</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-21T00:00:00+00:00</dc:date>
+        <dc:description>1943. En los momentos más oscuros, un apasionado romance nace entre dos jóvenes.No fue hasta setenta años más tarde cuando sus caminos volvieron a cruzarse. Una impactante historia real sobre el amor, la esperanza y la resiliencia.Todo comenzó cuando las miradas de Zippi Spitzer y David Wisnia se cruzaron. En ese instante, nació una historia de amor que podría haberse dado en cualquier sitio, pero tuvo que enfrentarse al peor: Zippi y David eran prisioneros del campo de exterminio más infame de la historia y si su romance era descubierto, sería el fin para ambos. Contra todo pronóstico, David y Zippi sobrevivieron durante años bajo el cielo cubierto de cenizas de Auschwitz. Con el tiempo, su amor creció y se fortaleció gracias a la protección de los compañeros del campo, su propia ingenuidad y giros del destino. Su aventura les permitió recordar que la vida anterior al Holocausto aún existía, una vida de posibilidades, de libertad y de anhelo. A medida que la guerra llegaba a su...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-10T16:14:57.443238+00:00"/>
+        <meta name="calibre:title_sort" content="amantes de Auschwitz, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">862</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41f2cd93-5b57-48f9-a651-c58a789c5fdf</dc:identifier>
+        <dc:title>La trenza</dc:title>
+        <dc:creator opf:file-as="Laetitia Colombani" opf:role="aut">Laetitia Colombani</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;Con cerca de medio millón de ejemplares vendidos en Francia y casi treinta traducciones en curso, La trenza fue uno de los fenómenos editoriales de 2017. En esta narración vibrante y conmovedora, Laetitia Colombani —guionista, directora y actriz de reconocido prestigio— aborda las historias de tres mujeres que, nacidas en continentes muy dispares, comparten unas ideas y sentimientos que las unen en un poderoso anhelo de libertad.&lt;/p&gt;&lt;p class="description"&gt;INDIA. En Badlapur, la intocable Smita sobrevive recogiendo los excrementos de una casta superior. Resignada a su condición, está decidida en cambio a que su hija no siga sus pasos: la pequeña irá a la escuela y su vida será digna y provechosa, aunque para ello Smita tenga que desafiar las normas establecidas.&lt;/p&gt;&lt;p class="description"&gt;ITALIA. A Giulia le encanta trabajar en el taller familiar, el último de Palermo que confecciona pelucas con pelo auténtico. Hubiera podido ir a la universidad, pero dejó el instituto con dieciséis años para iniciarse en los secretos de este oficio. Cuando su padre sufre un accidente y Giulia descubre que el negocio está al borde de la quiebra, afronta la adversidad con valentía y determinación.&lt;/p&gt;&lt;p class="description"&gt;CANADÁ. Sarah es una abogada de éxito en Montreal que lo ha sacrificado todo por su carrera: dos matrimonios fallidos y tres hijos a los que no ha visto crecer. Un día, tras caer desmayada en el transcurso de un juicio, Sarah comprende que su vida ha dado un vuelco y que deberá escoger lo que de verdad le importa.&lt;/p&gt;&lt;p class="description"&gt;Smita, Giulia y Sarah no se conocen, pero tienen en común el empuje y el tesón de las mujeres que rechazan lo que el destino les ha reservado y se rebelan contra las circunstancias que las oprimen. Como hilos invisibles, sus caminos se entrelazan, formando una trenza que simboliza la voluntad inquebrantable de vivir con esperanza e ilusión.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417384241</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-14T15:48:32.181720+00:00"/>
+        <meta name="calibre:title_sort" content="trenza, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

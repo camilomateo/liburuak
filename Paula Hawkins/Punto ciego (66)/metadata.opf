@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">66</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff7aada6-d3d6-4cc7-8e91-e2874f5c165b</dc:identifier>
+        <dc:title>Punto ciego</dc:title>
+        <dc:creator opf:file-as="Hawkins, Paula" opf:role="aut">Paula Hawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-10T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Desde que son niños Edie, Jake y Ryan han sido inseparables. 
+Ellos tres contra el mundo. Edie pensaba que su amistad podría con todo,
+ así que cuando su marido Jake es brutalmente asesinado y su mejor 
+amigo, Ryan, acusado del crimen, su mundo se desmorona.&lt;/p&gt;&lt;p&gt;Edie
+ está sola por primera vez en muchos años en la casa del acantilado que 
+compartía con Jake. Está en pleno duelo y tiene miedo, y no le falta 
+razón para tenerlo, pues alguien la está vigilando, alguien que ha 
+estado esperando este momento. Ahora que Edie es vulnerable, el pasado 
+del que ha intentado huir desesperadamente está a punto de llamar a su 
+puerta.&lt;/p&gt;&lt;p&gt;Paula Hawkins, la autora de &lt;span class="a-text-italic"&gt;La chica del tren&lt;/span&gt;,
+ nos ofrece una novela apasionante en la que descubriremos que hasta el 
+acto mejor intencionado puede tener trágicas consecuencias. Una historia
+ llena de giros y tensión magníficamente escrita por la reina 
+indiscutible del suspense.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0B6176N87</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Paula Hawkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T22:46:07.993334+00:00"/>
+        <meta name="calibre:title_sort" content="Punto ciego"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf283b42-1dda-456f-a1f8-e2d841961a3c</dc:identifier>
+        <dc:title>Los pacientes del doctor García: Episodios de una Guerra Interminable (Spanish Edition)</dc:title>
+        <dc:creator opf:file-as="Grandes, Almudena" opf:role="aut">Almudena Grandes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Tras la victoria de Franco, el doctor Guillermo García Medina sigue 
+viviendo en Madrid bajo una identidad falsa. La documentación que lo 
+libró del paredón fue un regalo de su mejor amigo, Manuel Arroyo 
+Benítez, un diplomático republicano al que salvó la vida en 1937. Cree 
+que nunca volverá a verlo, pero en septiembre de 1946, Manuel vuelve del
+ exilio con una misión secreta y peligrosa. Pretende infiltrarse en una 
+organización clandestina, la red de evasión de criminales de guerra y 
+prófugos del Tercer Reich que dirige desde el barrio de Argüelles una 
+mujer alemana y española, nazi y falangista, llamada Clara Stauffer. 
+Mientras el doctor García se deja reclutar por él, el nombre de otro 
+español se cruza en el destino de los dos amigos. Adrián Gallardo 
+Ortega, que tuvo su momento de gloria como boxeador profesional antes de
+ alistarse en la División Azul, para seguir luchando como voluntario de 
+las SS y participar en la última defensa de Berlín, malvive en Alemania,
+ ignorando que alguien pretende suplantar su identidad para huir a la 
+Argentina de Perón.&lt;/p&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788490664490</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">d9c621e1-1047-4523-8db1-983e414565de</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Almudena Grandes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:50:18.540169+00:00"/>
+        <meta name="calibre:title_sort" content="Los pacientes del doctor García: Episodios de una Guerra Interminable (Spanish Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

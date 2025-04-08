@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2687</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6068a957-f72d-428e-b1cb-456aca307881</dc:identifier>
+        <dc:title>La segunda venida</dc:title>
+        <dc:creator opf:file-as="Dani Novarama" opf:role="aut">Dani Novarama</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-02T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La primera novela de Dani Novarama, uno de los divulgadores más seguidos en redes, es un trepidante thriller de anticipación científica sobre las virtudes y los peligros que la inteligencia artificial puede traer a la civilización. Y trata de responder a la pregunta: si podemos crear máquinas perfectas, ¿a qué queda relegado el papel de Dios? Max y Lily son dos programadores que regresan a su ciudad natal cuando expira su contrato en Silicon Valley. Al revelarse la infertilidad de Lily, deciden crear un bebé robot, Edén, para llenar el vacío que se instala en sus vidas. Edén es un prodigio de la inteligencia artificial con una positividad inquebrantable y un comportamiento sin tacha que les permite aparentar que llevan la vida de una familia cualquiera. Sin embargo, Edén evoluciona de forma inesperada: diseñado para hacer siempre el bien, seguirá su programación a rajatabla hasta el punto de creerse un nuevo Mesías. Max y Lily se percatan así de que, tratando de inventar la IA perfecta, han abierto una puerta de consecuencias imprevisibles. ¿Es su hijo virtual solo una máquina que se cree Dios? ¿O es Dios el que sigue caminos imprevistos para enviar a su hijo a la Tierra por segunda vez?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401034442</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-25T10:02:42.250527+00:00"/>
+        <meta name="calibre:title_sort" content="segunda venida, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

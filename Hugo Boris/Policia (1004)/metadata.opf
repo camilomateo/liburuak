@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1004</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60a059f0-d83f-4dac-b2f4-0a21d4ec0cbc</dc:identifier>
+        <dc:title>Policía</dc:title>
+        <dc:creator opf:file-as="Boris, Hugo" opf:role="aut">Hugo Boris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-27T06:00:00+00:00</dc:date>
+        <dc:description>Son agentes de policía. Polis de uniforme, los mismos que nos cruzamos a diario y de los que nunca se habla, hombres y mujeres invisibles.
+Una abrasadora noche de verano, Virginie, Érik y Aristide emprenden una misión poco habitual para ellos: escoltar a un extranjero hasta el aeropuerto para su expulsión. Pero Virginie, sumida en una tormenta personal, comprende que esta repatriación es sinónimo de muerte segura. Mientras circula junto a su paralizado pasajero, todas las certezas saltan por los aires. Hasta la confrontación final, en las pistas del aeropuerto Charles de Gaulle, donde las vidas de los cuatro darán un vuelco.
+El suspense de las mayores tragedias se despliega aquí en el transcurso de unas horas y en un tenso espacio cerrado: un coche patrulla en el que viajarán cuatro cuerpos, cuatro conciencias, cuatro tragedias personales. ¿Cómo ser uno mismo, cada día, a cada instante, en este mundo que nos ha tocado vivir?</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491818168</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-27T13:12:58.748315+00:00"/>
+        <meta name="calibre:title_sort" content="Policía"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

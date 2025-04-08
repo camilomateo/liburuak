@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d09446f2-4da5-40d4-af3e-2a71a9ddd141</dc:identifier>
+        <dc:title>El pequeño libro de la filosofía estoica</dc:title>
+        <dc:creator opf:file-as="Javier G. Recuenco" opf:role="aut">Javier G. Recuenco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;El estoicismo es una escuela filosófica de la Antigua Grecia. Aunque han pasado más de dos mil años desde su nacimiento, su importancia y utilidad perduran hasta hoy. Vivimos en una sociedad compleja, llena de incertidumbre y acelerada. El estoicismo nos ayuda a aprender a guiarnos por la razón ante los contratiempos y las emociones que tendremos que enfrentar. Descubre cómo mejorar en tu vida personal y profesional de manera sencilla y demostrada.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alienta Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788413441856</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-15T15:51:27+00:00"/>
+        <meta name="calibre:title_sort" content="pequeño libro de la filosofía estoica, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

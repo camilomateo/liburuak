@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">375</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37e85324-2bc3-4ba5-9b9b-66796c4b04d5</dc:identifier>
+        <dc:title>Puta feminista</dc:title>
+        <dc:creator opf:file-as="Georgina Orellano" opf:role="aut">Georgina Orellano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;«Nunca la prohibición es la solución y de eso las putas podemos dar cuenta».&lt;/p&gt;
+&lt;p align="justify"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p align="justify"&gt;Un día la mujer cuyos hijos cuidaba le contó la verdad: Soy puta. Poco después le preguntó si quería atender a uno de sus clientes. &lt;strong&gt;Georgina Orellano&lt;/strong&gt; calculó: con sus ingresos como niñera jamás podría superar la pobreza. Así que aceptó. En un rato ganó más que el salario mensual de su madre, empleada doméstica.&lt;/p&gt;
+&lt;p align="justify"&gt;En &lt;strong&gt;Puta feminista&lt;/strong&gt; describe con brutal honestidad los códigos de la calle, los vínculos con los hombres y la violencia derivada de la clandestinidad. Pero, a la vez, detalla cómo la solidaridad y la ternura ayudan a superarla.&lt;/p&gt;
+&lt;p align="justify"&gt;Crónica sentimental, lo es también del despertar de la consciencia política, cuando reclama jubilación y obra social; cuando recupera la historia de la organización de lxs trabajadorxs sexuales que lidera; cuando enfrenta a la policía y discute con el patriarcado y cuando desafía a un sector poderoso del feminismo que propugna...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUDAMERICANA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789500767019</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Georgina Orellano&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-03T07:34:21.392272+00:00"/>
+        <meta name="calibre:title_sort" content="Puta feminista"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

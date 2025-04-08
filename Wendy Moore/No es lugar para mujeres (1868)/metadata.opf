@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1868</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ebabc07-1494-4161-a3e4-61014789c8c7</dc:identifier>
+        <dc:title>No es lugar para mujeres</dc:title>
+        <dc:creator opf:file-as="Moore, Wendy" opf:role="aut">Wendy Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-23T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Las doctoras británicas Flora Murray y Louisa Garrett Anderson lo dejaron todo cuando estalló la primera guerra mundial, incluyendo su lucha activa por el derecho al voto de la mujer, para trasladarse a Francia donde crearon dos pequeños hospitales militares. A pesar de que en su país las mujeres no podían atender a hombres, sus capacidades médicas y organizativas resultaron ser tan impresionantes que, en 1915, el Ministerio de la Guerra les pidió que regresaran a Londres y pusieran en marcha un nuevo hospital militar en un enorme y antiguo hospicio abandonado en la calle Endell de Covent Garden.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Consiguieron lo imposible. Crearon y dirigieron un hospital de 573 camas cuyo personal estaba formado exclusivamente por mujeres: médicas, cirujanas y enfermeras. Durante los siguientes cuatro años, recibieron a 26.000 heridos y desarrollaron técnicas completamente nuevas con las que lidiar con las horribles heridas de los morteros y el gas que sufrían los soldados. Y cuando la guerra estaba acabando y apareció la epidemia de la gripe española, el hospital cerró sus puertas y Flora, Louisa y todas las mujeres de su equipo fueron de nuevo marginadas a la hora de ejercer su profesión: se les volvió a decir que aquel no era lugar para mujeres.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;La historia del hospital de la calle Endell nos brinda tanto una visión fundamental de los horrores y amenazas que sufrió Londres durante la guerra como un apasionado homenaje a la valentía de un extraordinario grupo de mujeres.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Crítica</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:39+00:00"/>
+        <meta name="calibre:title_sort" content="No es lugar para mujeres"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80b868a8-eb73-4aac-b8ef-a2c754011f56</dc:identifier>
+        <dc:title>Qué drama, Goa: ¿Y ahora qué?</dc:title>
+        <dc:creator opf:file-as="Tirado, Míriam" opf:role="aut">Míriam Tirado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-15T15:24:27+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¡Ya está aquí lasexta entrega deMe llamo Goa,la serie queha cautivado amás de 150.000lectores y lectoras jóvenes!&lt;/p&gt;
+&lt;p&gt;«¡Por fin están aquí las vacaciones deSemanaSanta! La espera ha sido interminable, pero he sobrevivido. Ahora, me esperan unos días de camping con Ana, Klaus, su prima Martina…, bueno, y el resto de nuestras familias, claro. Lo importante es que estos días serán increíbles. Nada podría arruinarlos…, ¿verdad?».&lt;/p&gt;
+&lt;p&gt;Goa está deseando irse de camping con su madre y Ana. Que Klaus vaya a estar allí con su prima, Martina, y el resto de su familia solo aumenta su emoción. Aunque últimamente las cosas con Klaus han estado algo… raras. ¿Y si han pasado demasiado tiempo sin verse y no saben reencontrarse? Por si fuera poco, un par de invitados inesperados amenazarán con cambiar completamente las vacaciones que Goa se había imaginado…&lt;/p&gt;
+&lt;p&gt;Una nueva entrega de la serie juvenil de Míriam Tirado, autora de éxitos como El hilo invisible, Sensibles e Infinito. Ida y vuelta, donde explora la adolescencia con el humor y la sensibilidad que la caracterizan. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Me llamo Goa"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:17.945002+00:00"/>
+        <meta name="calibre:title_sort" content="Qué drama, Goa: ¿Y ahora qué?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">322</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bbe07e3-8c21-41cd-97d4-b786352b45d7</dc:identifier>
+        <dc:title>Los seres huecos</dc:title>
+        <dc:creator opf:file-as="Toro, Guillermo del &amp; Hogan, Chuck" opf:role="aut">Guillermo del Toro</dc:creator>
+        <dc:creator opf:file-as="Toro, Guillermo del &amp; Hogan, Chuck" opf:role="aut">Chuck Hogan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;Un crimen inexplicable, una agente del FBI novata y un héroe extraordinario&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;La vida de Odessa Hardwicke descarrila cuando se ve obligada a disparar a su compañero, un agente federal que pierde el control de forma inexplicable durante la captura de un violento asesino.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;El disparo, en defensa propia, conmociona a la joven agente, pero lo que más inquieta a Odessa es el ente espectral que le ha parecido ver desprenderse del cuerpo de su compañero fallecido.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;Hardwicke, que duda de su cordura y de su futuro en el FBI, acepta encargarse de recoger las pertenencias de un agente jubilado en la oficina de Nueva York.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;Lo que encuentra allí la pondrá sobre la pista de una figura misteriosa: Hugo Blackwood, un hombre tremendamente rico que asegura llevar siglos vivo y que o está loco de remate o es la mejor y única defensa de la humanidad frente a un mal indescriptible.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;De los autores de la &lt;/span&gt;&lt;em style="color: #000000"&gt;Trilogía de la Oscuridad&lt;/em&gt;&lt;span style="color: #000000"&gt; nos llega un mundo de suspense, misterio y terror literario siniestramente extraño, terrorífico y asombroso. "Los seres huecos" es un relato cautivador y escalofriante, una nueva fábula conmovedoramente original del oscarizado director Guillermo del Toro y del reconocido autor Chuck Hogan, protagonizada por su personaje más fascinante hasta la fecha.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Guillermo del Toro&quot;: &quot;&quot;, &quot;Chuck Hogan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Las cintas de Blackwood"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-02-16T18:13:40.654524+00:00"/>
+        <meta name="calibre:title_sort" content="seres huecos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

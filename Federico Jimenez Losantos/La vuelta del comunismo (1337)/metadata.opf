@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4fbcd26-01d2-4138-8d82-c12e11f6113a</dc:identifier>
+        <dc:title>La vuelta del comunismo</dc:title>
+        <dc:creator opf:file-as="Losantos, Federico Jiménez" opf:role="aut">Federico Jiménez Losantos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-17T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;El retorno de los comunistas al Gobierno de España, las desgracias que se produjeron y los desastres que ocasionaron.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Ochenta
+ años después de la Guerra Civil, los comunistas de Iglesias volvían al 
+Gobierno de la mano de los socialistas de Sánchez. Y, a la vez, se 
+desataba la catástrofe del Covid19, que dotó al Gobierno de poderes 
+especiales y permitió a Podemos afianzarse y desarrollar iniciativas 
+desastrosas, desde el mantenimiento del 8M que dispara los contagios, 
+hasta sus planes ecologistas contra el turismo y los automóviles o las 
+subidas fiscales generalizadas. Iglesias y Montero han cambiado un 
+movimiento antisistema que llegó a casi seis millones de votos por un 
+partido comunista dinástico de solo tres millones, pero que es clave en 
+el bloque de poder izquierdista y separatista.&lt;/p&gt;&lt;p&gt;El 
+caso Dina y las derrotas electorales en Galicia y País Vasco destaparon 
+las debilidades de un partido dependiente totalmente de su líder. Pero 
+¿quién es Pablo Iglesias? ¿Es verdad lo que cuenta de su familia? ¿Cuál 
+es su relación con el narco-chavismo? ¿Podría el Gobierno 
+Sánchez-Iglesias acabar con la monarquía y el régimen constitucional?&lt;/p&gt;&lt;p&gt;Tras su último libro &lt;span class="a-text-italic"&gt;Memoria del comunismo&lt;/span&gt;,
+ Federico Jiménez Losantos responde a estas preguntas y plantea dos 
+esenciales: ¿qué mutaciones hacen del comunismo un peligro real en pleno
+ siglo XXI? ¿Sobrevivirá España a la acción conjunta de la izquierda y 
+el separatismo?&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467061239</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:31.975461+00:00"/>
+        <meta name="calibre:title_sort" content="vuelta del comunismo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

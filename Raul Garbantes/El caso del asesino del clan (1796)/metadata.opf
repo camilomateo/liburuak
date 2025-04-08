@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1796</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db9b181a-a0fc-4c03-b348-5036bc542d93</dc:identifier>
+        <dc:title>El caso del asesino del clan</dc:title>
+        <dc:creator opf:file-as="Garbantes, Raúl" opf:role="aut">Raúl Garbantes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-18T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;En la ciudad de Boston se reportan dos asesinatos de jóvenes en  los 
+barrios pobres. Dos de ellos son ricos, entonces, Tom y Nadine sospechan
+ que no puede tratarse de una casualidad. Y mucho menos cuando los 
+asesinatos continúan: crueles e implacables.&lt;p&gt;&lt;/p&gt;&lt;p&gt;¿Quién estará detrás de estos crímenes?&lt;/p&gt;&lt;p&gt;Tom
+ y Nadine deberán indagar en las heridas del pasado de estos chicos para
+ detener el derramamiento de sangre presente. Una novela que no da 
+respiro a sus protagonistas, y tampoco se lo dará a los lectores.&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policiaca</dc:subject>
+        <meta name="calibre:series" content="La brigada de crímenes graves"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:17.176120+00:00"/>
+        <meta name="calibre:title_sort" content="caso del asesino del clan, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

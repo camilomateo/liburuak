@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2737</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91c0133b-f479-4b3a-a51e-37002e9057d1</dc:identifier>
+        <dc:title>El buen vasallo</dc:title>
+        <dc:creator opf:file-as="Narla, Francisco" opf:role="aut">Francisco Narla</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-06T00:00:00+00:00</dc:date>
+        <dc:description>Hubo un tiempo en el que la península ibérica estaba inmersa en guerras constantes. Fueron siglos de batallas célebres, valientes gestas que los juglares luego cantaron por tabernas y plazas. Pero hay una historia que siempre callaron, quizá porque nadie se atrevió entonces a contarla. La de un joven caballero llamado Diego.
+Diego no es un muchacho cualquiera, es el hijo del mayor héroe de la época. Su padre, Rodrigo Díaz de Vivar, se ha esforzado por convertirlo en el mejor de sus capitanes. Algo que el chico persigue sin tregua a pesar de que la devoción filial que antes le profesaba ha ido desvaneciéndose ante la mirada inquieta de su madre, Jimena. En estos últimos años, el rencor ha hecho del Cid un hombre cruel, capaz de condenar a quienes más le aman. Y Diego, siempre dispuesto a servirle como lo haría un buen vasallo, tendrá que enfrentarse con la verdad sobre su padre y señor.
+Con un estilo poderoso y épico, Francisco Narla nos sumerge en el mítico medievo español a la vez que nos ofrece el soberbio perfil humano de unos personajes que forman parte de nuestro legado. Honor, venganza, redención y amor se entrecruzan en una deslumbrante novela histórica que es a la vez la más seductora de las leyendas.</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-11T07:34:18.538741+00:00"/>
+        <meta name="calibre:title_sort" content="buen vasallo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">925</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bee2f18-edb3-4516-baa0-5952a6a59c47</dc:identifier>
+        <dc:title>La asesina de Juárez</dc:title>
+        <dc:creator opf:file-as="Hernández, Mónica" opf:role="aut">Mónica Hernández</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Su nombre se convirtió en leyenda. Su crimen cambió la historia de México&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;México,
+ junio de 1872. Un carruaje se estaciona frente al gran pórtico del 
+salón donde se celebra un baile en honor a Benito Juárez. Una mujer 
+misteriosa baja de él, atrayendo la mirada de todos, especialmente de 
+Sebastián Lerdo de Tejada, ministro e íntimo amigo del presidente. Ella 
+se hace llamar Emilia, pero antes tuvo otros nombres y otras vidas.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Siendo
+ una niña tuvo que huir tras presenciar el brutal asesinato de su madre.
+ Desde entonces, aprendió a sobrevivir adaptándose a los obstáculos: 
+robó para poder comer, saqueó a los ricos para regalar a los pobres, se 
+convirtió en una famosa salteadora de caminos, fue aprendiz de 
+curanderas y terminó por volverse una señorita de la alta sociedad 
+queretana. Cuando por fin creyó que su vida estaba resuelta, lo perdió 
+todo por culpa de un hombre: Juárez. Ahora está dispuesta a arriesgar su
+ vida para cobrar venganza.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Mónica Hernández nos 
+regala una magnífica novela histórica, llena de intrigas, pasiones y 
+traiciones, que devela a la mujer detrás de una leyenda: la Carambada, 
+bandolera que confesó haber matado al gran restaurador de la República. &lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Martínez Roca México</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">4jrFEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786073902014</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-04T12:12:14.858906+00:00"/>
+        <meta name="calibre:title_sort" content="asesina de Juárez, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

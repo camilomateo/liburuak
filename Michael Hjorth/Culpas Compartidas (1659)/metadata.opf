@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">948a6ee8-8262-4eea-9caf-4139729d5e66</dc:identifier>
+        <dc:title>Culpas Compartidas</dc:title>
+        <dc:creator opf:file-as="Michael Hjorth &amp; Hans Rosenfeldt" opf:role="aut">Michael Hjorth</dc:creator>
+        <dc:creator opf:file-as="Michael Hjorth &amp; Hans Rosenfeldt" opf:role="aut">Hans Rosenfeldt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-17T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La espera se ha acabado: Vuelve Sebastian Bergman. Vuelve la adicción. Déjate sorprender por la serie de novela negra que ha conquistado a más de 7.000.000 de lectores en todo el mundo. La Unidad de Homicidios de Estocolmo se halla en una profunda crisis desde que se reveló que uno de sus colegas es un asesino en serie. Vanja Lithner lucha por salvar su departamento cuando una mujer es encontrada asesinada en una granja de cerdos a las afueras de Västerås. Los indicios apuntan que el acto se realizó pensando en una persona en concreto: Sebastian Bergman, el psicólogo criminal más cínico y arrogante de Suecia. A lo largo de los años, Sebastian ha ayudado a la Unidad a resolver numerosos casos, pero después de los acontecimientos recientes, es persona non grata. ¿Será su regreso la salvación o la ruina de la unidad de homicidios? Mientras tanto, Tim Cunningham, un antiguo paciente de Sebastian, aparece muerto. Tim también perdió un hijo en el tsunami de 2004, pero resulta que hay muchos interrogantes en torno a la familia Cunningham y aquella terrible Navidad de hace casi veinte años. Unos interrogantes que, tal vez, la hija de Tim, Cathy, pueda ayudar a aclarar. «Brillante y tremendamente adictiva.» El Periódico «Te dejará sin dormir.» La Razón «Atención: riesgo muy probable de adicción.» Westdeutsche Zeitung&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Sebastian Bergman"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="2024-07-07T13:32:36.694548+00:00"/>
+        <meta name="calibre:title_sort" content="Culpas Compartidas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

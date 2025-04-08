@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1768</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a076945c-8a3b-431a-8ae6-64c6984d4e3f</dc:identifier>
+        <dc:title>Alfil Azul</dc:title>
+        <dc:creator opf:file-as="Barrero, Fran" opf:role="aut">Fran Barrero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-01T22:00:00+00:00</dc:date>
+        <dc:description>Alfil está en Nueva York trabajando como ayudante de un prestigioso fotógrafo, atrás han quedado Clara y el recuerdo de su familia en Barcelona, pero se plantea regresar a España y establecerse por su cuenta en Madrid.
+
+Pasan unos años y el fotógrafo se ha hecho un hueco en el mercado, además de afianzar su vida en la capital. Allí conoce a Diana, una inspectora de policía con la que mantiene un romance durante unos meses.
+
+Pasados unos años, Alfil decide matar para lograr la inspiración que necesita en su trabajo; lo que no espera es que sea la propia Diana la que se encargará del caso; entonces decide acercarse de nuevo a ella para controlar sus avances.
+
+En esta última y definitiva entrega, podemos ser testigos de los años anteriores a Alfil negro, a los primeros crímenes y conocer también lo ocurrido tras marcharse a Nueva York.</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Alfil"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:10.757607+00:00"/>
+        <meta name="calibre:title_sort" content="Alfil Azul"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

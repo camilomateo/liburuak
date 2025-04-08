@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33ae828b-e9e9-4282-9bf9-93d975c23024</dc:identifier>
+        <dc:title>Sin fallos</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-30T06:00:00+00:00</dc:date>
+        <dc:description>Se acerca el invierno y a Jack Reacher lo buscan desde el corazón mismo del poder: el Servicio Secreto de los Estados Unidos lo necesita. La misión es tan secreta como urgente, y el más mínimo fallo puede poner en riesgo la democracia más sólida del planeta. Entre pistas ambiguas, profundas desconfianzas y la presencia fantasmal de su hermano, Reacher deberá afinar al extremo sus sentidos y mantener su cabeza despejada –si su corazón se lo permite– para investigar las intrigas de Washington y de las fuerzas de seguridad. Una milésima de segundo puede resultar fatal, y de él y de su hábil colega Neagley dependerá el éxito de la misión. Fiel a su estilo, Reacher deberá garantizar la seguridad del vicepresidente electo, descubrir el foco del peligro y responder a las agresiones sin fallos.</dc:description>
+        <dc:publisher>Blatt &amp; Ríos</dc:publisher>
+        <dc:identifier opf:scheme="PAGINAS">472</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002231</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lee Child&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Jack Reacher"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2023-02-16T07:42:26.543846+00:00"/>
+        <meta name="calibre:title_sort" content="Sin fallos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">801</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d715d1b-de28-4fde-bafb-35f7bb710e02</dc:identifier>
+        <dc:title>La vuelta al mundo en 15 mujeres</dc:title>
+        <dc:creator opf:file-as="Verónica Zumalacárregui" opf:role="aut">Verónica Zumalacárregui</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-23T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;La periodista y presentadora de televisión Verónica Zumalacárregui nos presenta en este libro-reportaje quince historias de mujeres que, como ella misma dice, le han cambiado la mirada y aportan distintas opiniones y perspectivas de temas y retos sociales a los que nos enfrentamos. Un poliédrico y rico retrato de nuestros desafíos y nuestros logros-&lt;/p&gt;
+&lt;p align="justify"&gt;HISTORIAS DE MUJERES QUE ME HAN CAMBIADO LA MIRADA&lt;/p&gt;
+&lt;p align="justify"&gt;«En mis viajes a lo largo y ancho del planeta he conocido a mujeres con valores, culturas y vidas muy distintas a la mía. En lugar de convertir nuestras diferencias en una barrera, he querido ponerme en su piel para intentar ver el mundo desde sus ojos. Me han hecho cuestionarme mis ideas, para cambiarlas, reafirmarlas o, simplemente, enriquecerlas. Pero, sobre todo, me han ayudado a liberarme de prejuicios, demostrándome que no hay una sola fórmula para ser feliz, sino muchas y muy diversas, y que aquellas que podemos elegir la nuestra somos realmente afortunadas».&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>AGUILAR</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788403523005</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-31T11:18:13.126934+00:00"/>
+        <meta name="calibre:title_sort" content="vuelta al mundo en 15 mujeres, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

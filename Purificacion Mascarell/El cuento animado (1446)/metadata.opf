@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1446</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa54a874-57ee-42dc-aa85-dfbee5f70e4c</dc:identifier>
+        <dc:title>El cuento animado</dc:title>
+        <dc:creator opf:file-as="Mascarell, Purificación" opf:role="aut">Purificación Mascarell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-15T06:00:00+00:00</dc:date>
+        <dc:description>Coordinada por Purificació Mascarell, la antología El cuento animado recopila algunos de los mejores cuentos de la historia relacionados con animales.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;'En los cuentos literarios de la modernidad, los animales aglutinan un amplio abanico de interpretaciones y sostienen las diferentes capas de lectura. Son parte del enigma. Y bajo el paraguas de la ambigüedad moderna, su significado entra en diálogo con los miedos, las obsesiones y las carencias humanas. Un espejo y una ventana que se asoma a nuestro interior'. Gustave Flaubert, Leopoldo Alas, Clarín, Emilia Pardo Bazán, Antón Chéjov, Vicente Blasco Ibáñez, Leopoldo Lugones, Horacio Quiroga, Virginia Woolf, Gabriel Miró, Franz Kafka, Katherine Mansfield, Arthur Conan Doyle, Richard Matheson, Julio Cortázar, Mercè Rodoreda e Ignacio Aldecoa.</dc:description>
+        <dc:publisher>Nórdica Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410200227</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>prose_classic</dc:subject>
+        <meta name="calibre:timestamp" content="2024-04-20T15:25:37.262257+00:00"/>
+        <meta name="calibre:title_sort" content="cuento animado, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

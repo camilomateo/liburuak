@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f359932-245e-4d61-9a7b-3ea2ce1be115</dc:identifier>
+        <dc:title>Otras maneras de usar la boca</dc:title>
+        <dc:creator opf:file-as="Kaur, Rupi" opf:role="aut">Rupi Kaur</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-17T13:45:20+00:00</dc:date>
+        <dc:description>Otras maneras de usar la boca habla, de una forma contundente y poderosa, de cómo superar los golpes de la vida: el abuso, el desamor, la pérdida y las ideas preconcebidas sobre la feminidad. Siempre impactantes, los versos de Kaur llenan de fortaleza al lector, que siente esas palabras como suyas y la necesidad de transcribirlas y compartirlas.</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:12.547225+00:00"/>
+        <meta name="calibre:title_sort" content="Otras maneras de usar la boca"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

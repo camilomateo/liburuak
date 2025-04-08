@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2076</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32e11230-160b-4800-82cd-b29ced46d65d</dc:identifier>
+        <dc:title>Dracula</dc:title>
+        <dc:creator opf:file-as="Stoker, Bram" opf:role="aut">Bram Stoker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>tales</dc:subject>
+        <dc:subject>Epistolary</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Gothic</dc:subject>
+        <dc:subject>Vampires</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Dracula</dc:subject>
+        <dc:subject>Count</dc:subject>
+        <dc:subject>(Fictitious</dc:subject>
+        <dc:subject>character)</dc:subject>
+        <dc:subject>Transylvania</dc:subject>
+        <dc:subject>(Romania)</dc:subject>
+        <dc:subject>Whitby</dc:subject>
+        <dc:subject>(England)</dc:subject>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="284"/>
+        <meta name="calibre:timestamp" content="2024-09-06T12:09:08.495948+00:00"/>
+        <meta name="calibre:title_sort" content="Dracula"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

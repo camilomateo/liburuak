@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">798</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c76729de-182a-44b3-b7b5-c2e306016602</dc:identifier>
+        <dc:title>El querido hermano</dc:title>
+        <dc:creator opf:file-as="Joaquín Pérez Azaústre" opf:role="aut">Joaquín Pérez Azaústre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-18T05:00:00+00:00</dc:date>
+        <dc:description>La mañana del sábado 25 de febrero de 1939, en Burgos, Manuel Machado recibe la noticia de que su hermano Antonio acaba de morir. Al día siguiente, Manuel y su mujer, Eulalia Cáceres, reciben las condolencias de sus amigos en la pensión Filomena, donde viven en una habitación desde que, al comienzo de la Guerra Civil, el matrimonio quedó atrapado en Burgos. Obligado a permanecer en la capital del franquismo, Manuel se ha adherido al Alzamiento Nacional, pero poco se sabe de las auténticas razones que lo llevaron a hacerlo y del peligro que corrió su vida. Su hermano Antonio representa la otra España, que seguirá a la República al exilio. Sin embargo, a pesar del riesgo, Manuel decide acudir, por última vez, al encuentro de su hermano. Con la muerte de Antonio Machado, para Manuel termina un mundo, porque ha perdido a su mayor compañero en la literatura y en la vida. Con un chófer falangista, Raúl, que esconde un secreto relacionado con él, Manuel y Eulalia inician un viaje en coche hasta la tumba del hermano, entre la devastación del paisaje fratricida y sus propios recuerdos junto a Antonio; especialmente, en el París de 1900, con la presencia espectral del último Oscar Wilde, donde ambos encontraron sus identidades poéticas y vivieron historias increíbles. Con un estilo ágil y sugerente, Joaquín Pérez Azaústre novela con maestría el universo fascinante de Manuel y Antonio Machado. Del Madrid bohemio de su juventud al Burgos de 1939, en El querido hermano asistimos al relato de un viaje convertido en revelación moral, con dos hermanos separados por la guerra, pero nunca en el cariño, que encarnan la tragedia de un país, con el fanatismo ideológico frente a las emociones verdaderas.</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419392848</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-31T11:04:27.501018+00:00"/>
+        <meta name="calibre:title_sort" content="querido hermano, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

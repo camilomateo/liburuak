@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af59f983-4d74-4b32-8189-04ffd3bcc8cd</dc:identifier>
+        <dc:title>María de Magdala</dc:title>
+        <dc:creator opf:file-as="Álvarez, María Teresa" opf:role="aut">María Teresa Álvarez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-05T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;La escritora María Teresa Álvarez dedica esta nueva novela a la figura histórica de María Magdalena. Y da las claves de quién era, cómo se unió a los seguidores de Jesús y por qué este la eligió (a ella y a otras mujeres) como una de las personas a las que se apareció tras resucitar. La autora, muy interesada en rescatar del olvido a importantes figuras femeninas a través de sus libros, rei- vindica esta vez a la Magdalena, una mujer históricamente denostada.&lt;/p&gt;
+&lt;p align="justify"&gt;«Ha sido difícil y a la vez muy hermoso meterme en la piel de María de Magdala, una mujer a la que siempre he admirado y respetado.&lt;/p&gt;
+&lt;p align="justify"&gt;Ella fue testigo de la resurrección del Señor y encargada por Él de comunicárselo a los demás. En esta novela la he imaginado como una mujer fuerte, inteligente y valiente que deseaba ser protagonista de su propia existencia en una sociedad en la que las mujeres no significaban nada. Tras el encuentro con Jesús, el amor de su vida, todo su interior se trastocó y de su horizonte existencial desaparecieron las sombras.&lt;/p&gt;
+&lt;p align="justify"&gt;Somos muchas las mujeres que hoy, en pleno siglo XXI, la consideramos un modelo a seguir».&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-29T10:30:04.010081+00:00"/>
+        <meta name="calibre:title_sort" content="María de Magdala"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

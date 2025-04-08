@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3028</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45c342c3-14b2-4ca4-ac33-4bb9c033770a</dc:identifier>
+        <dc:title>Fundación</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1950-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Mucho tiempo después de que la Tierra pasara al olvido, la galaxia se unificó alrededor de un Imperio pacífico gobernado desde la majestuosa ciudad de Trántor. El sistema funcionó y prosperó durante incontables generaciones. Todo el mundo creía que duraría eternamente… Todos menos Hari Seldon, la mente científica más poderosa de su tiempo. Sus investigaciones en el campo de la psicohistoria (las matemáticas aplicadas a las grandes aglomeraciones humanas) auguraban un desastre imposible de prevenir. El Imperio estaba condenado… Pero el Plan Seldon era una estrategia a largo plazo, destinada a minimizar las peores consecuencias del futuro que se avecinaba. Para ello se establecieron dos Fundaciones en ambos extremos de la galaxia. Esta es la historia de la primera.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">62371</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:series" content="Saga de la Fundación: Ciclo de Trantor"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:55.464406+00:00"/>
+        <meta name="calibre:title_sort" content="Fundación"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

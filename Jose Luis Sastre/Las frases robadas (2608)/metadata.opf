@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2608</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a5ef33e-3264-4c7b-b0fe-c95d252c38f7</dc:identifier>
+        <dc:title>Las frases robadas</dc:title>
+        <dc:creator opf:file-as="José Luis Sastre" opf:role="aut">José Luis Sastre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-05T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;&lt;strong&gt;José Luis Sastre es una de las voces más relevantes del periodismo actual, y su talento como cronista y articulista se ha trasladado ahora a su primera novela.&lt;/strong&gt; Las frases robadas &lt;strong&gt;es un relato emotivo y feliz sobre la memoria, la dignidad y la muerte que explica cómo una hija puede conocer a su padre a partir de las lecturas que leyó y subrayó.&lt;/strong&gt;&lt;/p&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;Es, sobre todo, un desprejuiciado canto a la vida.&lt;/p&gt;
+&lt;p align="justify" style="font-style: italic"&gt;Mi padre me ha pedido que por mucho que el mundo se desplome en esta habitación sea siempre verano, y yo quiero darle un verano invencible.&lt;/p&gt;
+&lt;p align="justify"&gt;Esta es la historia de un padre y de una hija que, después de una vida juntos, empiezan a conocerse de verdad. Él está por morirse y ella quiere darle un final que esté a su altura, hasta el momento en que el padre pide lo que su hija no sabe si podrá darle.&lt;/p&gt;
+&lt;p align="justify"&gt;Esta crónica sobre una despedida es, en realidad, un relato irónico sobre la aspiración de una vida que merece la pena vivir y una reivindicación del presente frente a los riesgos de la nostalgia. Aunque, por encima de todo lo demás, lo que aquí se narra es la importancia imbatible de los libros, del mar y del vínculo íntimo entre un padre y su hija.&lt;/p&gt;
+&lt;p align="justify"&gt;&lt;strong&gt;Reseñas:&lt;/strong&gt;&lt;br&gt;«Como prueba de amor, una hija acompaña a su padre en el viaje más difícil de la vida. Sastre despliega sensibilidad y delicadeza en su primera novela».&lt;br&gt;&lt;strong&gt;Elvira Lindo.&lt;/strong&gt;&lt;/p&gt;
+&lt;p align="justify"&gt;«Esta novela es una deslumbrante disección de la relación más auténtica de todas: la que se establece entre alguien que se queda y alguien que se va. Un cañón de luz».&lt;br&gt;&lt;strong&gt;Manuel&lt;/strong&gt; &lt;strong&gt;Jabois.&lt;/strong&gt;&lt;/p&gt;
+&lt;p align="justify"&gt;«Con Sastre recobras la pasión ante el don natural de lo cotidiano. Si cierras los ojos, esta novela te guía».&lt;br&gt;&lt;strong&gt;Andrés Suárez.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janes</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">8401033306</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788401034077</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">214400372</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">WZoPEQAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-17T10:24:16.535487+00:00"/>
+        <meta name="calibre:title_sort" content="Las frases robadas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

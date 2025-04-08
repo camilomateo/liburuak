@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0a6b85e-0b29-48ff-93e4-6fc8e0c4462f</dc:identifier>
+        <dc:title>Maldito trabajo</dc:title>
+        <dc:creator opf:file-as="Vara, Eduardo" opf:role="aut">Eduardo Vara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-26T09:53:15+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Un ensayo sobre el lado oscuro de la vocación profesional, el origen de los trabajos y el culto al exceso laboral.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;¿Cómo
+ surgieron los trabajos y por qué acabaron sometiéndonos? ¿Quién decide 
+el valor de cada profesión y el grado de implicación afectiva que debe 
+asumirse? ¿Existe la vocación o es un invento del capitalismo salvaje?&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Profundamente
+ reflexivo y mordaz, este ensayo aborda una cuestión clave de nuestro 
+presente y contribuye sustancialmente a la crítica del «culto al 
+trabajo» como centro de nuestras vidas y de fenómenos relacionados,&lt;br&gt;&lt;br&gt; tales como el esfuerzo sin límites a costa de nuestra salud y la vocación profesional pervertida por el sistema capitalista.&lt;/p&gt;&lt;p&gt;A
+ partir de su propia experiencia personal, Eduardo Vara hace un repaso 
+transhistórico del trabajo y de sus narrativas atendiendo a la 
+sociología, la neurociencia, la psicología, pasando por la filosofía y 
+la literatura. Una&lt;br&gt;&lt;br&gt; lectura imprescindible -no exenta de ironía- 
+que arroja una nueva luz en torno a la pasión laboral y los mitos del 
+pasado, en un momento de precariedad generalizada, robotización y 
+digitalización de los empleos, explotación acuciante, trastornos 
+crecientes como el burnout y corrupción del tiempo de ocio, que ya 
+organizamos como si fuera un trabajo más, lleno de metas y objetivos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ariel</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788434437661</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:30:00.914794+00:00"/>
+        <meta name="calibre:title_sort" content="Maldito trabajo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

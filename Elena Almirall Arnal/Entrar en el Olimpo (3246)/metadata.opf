@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3246</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e1f0323-167f-4483-958b-0153e1f1ee07</dc:identifier>
+        <dc:title>Entrar en el Olimpo</dc:title>
+        <dc:creator opf:file-as="Almirall Arnal, Elena" opf:role="aut">Elena Almirall Arnal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En la entrada del templo de Apolo en Delfos, se podía leer la máxima «Conócete a ti mismo», que respondía a una de las preguntas que inquietaba a los filósofos de la antigüedad: ¿Qué es lo más importante que puede aprender el ser humano? El autoconocimiento era el requisito fundamental. Con la idea de que los mitos pueden ser un camino para la introspección, y de que el Olimpo no es sólo un lugar mítico, sino un estado real de conciencia, este libro ofrece una nueva mirada a esos antiguos relatos grecorromanos, en sintonía con la búsqueda tradicional de discernimiento. De forma amena y rigurosa, Elena Almirall Arnal analiza el simbolismo y las enseñanzas que existen tras las historias legendarias de dieciocho figuras arquetípicas (desde Narciso, Prometeo o Perséfone, hasta Psique, Odiseo o Dánae) y las pone en relación con la sabiduría de todos los tiempos y lugares. El resultado es una lectura diferente, sapiencial y práctica de los mitos clásicos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bookwire Spain</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:21.478124+00:00"/>
+        <meta name="calibre:title_sort" content="Entrar en el Olimpo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

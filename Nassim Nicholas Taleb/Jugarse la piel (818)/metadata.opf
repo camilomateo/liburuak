@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">818</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33dd24c8-87f4-4ad3-86cd-6be66f90fe45</dc:identifier>
+        <dc:title>Jugarse la piel</dc:title>
+        <dc:creator opf:file-as="Taleb, Nassim Nicholas" opf:role="aut">Nassim Nicholas Taleb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-29T00:00:00+00:00</dc:date>
+        <dc:description>En uno de sus libros más provocadores, el famoso pensador Nassim Nicholas Taleb redefine lo que significa comprender el mundo, tener éxito en una profesión, contribuir a una sociedad justa y equitativa, detectar el absurdo e influir en los demás. Citando ejemplos que van desde Hammurabi a Séneca, o del gigante Anteo a Donald Trump, Taleb demuestra cómo la voluntad de aceptar los propios riesgos es un atributo esencial de héroes, santos e individuos prósperos en todos los ámbitos de la sociedad. Un desafío a las antiguas creencias sobre los valores de aquellos que dirigen las intervenciones militares, realizan inversiones financieras y difunden credos religiosos.</dc:description>
+        <dc:publisher>Paidós</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencias sociales</dc:subject>
+        <dc:subject>Ensayo</dc:subject>
+        <meta name="calibre:timestamp" content="2023-06-06T06:14:21.404356+00:00"/>
+        <meta name="calibre:title_sort" content="Jugarse la piel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

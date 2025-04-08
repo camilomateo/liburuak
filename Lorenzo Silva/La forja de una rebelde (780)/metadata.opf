@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">780</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e6eba21-da12-4139-912e-b152e994c14c</dc:identifier>
+        <dc:title>La forja de una rebelde</dc:title>
+        <dc:creator opf:file-as="Lorenzo Silva &amp; Noemí Trujillo" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:creator opf:file-as="Lorenzo Silva &amp; Noemí Trujillo" opf:role="aut">Noemí Trujillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-02T14:59:05+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;El segundo caso de la inspectora Manuela Mauri  La nueva serie de éxito de la novela negra en español&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Desde
+ el inicio de la alerta sanitaria, Manuela Mauri no ha tenido un respiro
+ y por primera vez en su vida se siente desbordada por los 
+acontecimientos. En medio del caos, un doble crimen ocurrido en Alcalá 
+de Henares le quitará el sueño: Carlota, una joven de diecinueve años, 
+avisa a la policía al encontrar a su padre y a su madrastra muertos a 
+tiros en su casa. Una fiesta ilegal y el testimonio de diez jóvenes en 
+guerra con la sociedad serán claves en la resolución del caso.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Una
+ novela policial que va mucho más allá de la investigación de un 
+homicidio. En un Madrid sitiado por un virus, las diferencias 
+generacionales de nuestra sociedad explotarán en este caso para 
+recordarnos, a cada uno de nosotros, el peso de nuestra conciencia.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Una
+ reflexión literaria sobre las experiencias y los deseos que forjan 
+nuestro carácter y que combina los argumentos y recursos del género 
+policial clásico con la mirada sobre asuntos candentes a los que no 
+podemos dar la espalda.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-25T11:32:59+00:00"/>
+        <meta name="calibre:title_sort" content="forja de una rebelde, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

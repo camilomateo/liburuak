@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">340</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2beb0d3-9e42-4214-81ad-26b2f0835c5a</dc:identifier>
+        <dc:title>Todo lo que aprendimos de las películas</dc:title>
+        <dc:creator opf:file-as="Navia, María José" opf:role="aut">María José Navia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-12T06:00:00+00:00</dc:date>
+        <dc:description>"Padres y madres y parejas y amigas y ecografías, habitaciones peligrosas, visiones alteradas y la inminente posibilidad del fin de todas las cosas son proyectadas en la pantalla de Todo lo que aprendimos de las películas por la linterna mágica de María José Navia. Diez tramas que acaban conformando un mismo largometraje mental y que se leen/ven no como cuentos de hadas pero sí como cuentos de embrujadas a la espera de la llegada de ese gran tornado que las lleve muy lejos o que las devuelva a ese sitio que jamás quisieron abandonar. En el más technicolor black &amp; white, Navia —desde los créditos de apertura hasta el The End— enseña todo lo mucho y muy bueno que sus lectores tienen para aprender de ella leyéndola —por favor, shhh, sin hacer ruido— en el más elocuente y conmovido y agradecido de los silencios por toda su luminosa oscuridad". Rodrigo Fresán</dc:description>
+        <dc:publisher>Editorial Páginas de Espuma</dc:publisher>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;María José Navia&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-21T12:18:06.082177+00:00"/>
+        <meta name="calibre:title_sort" content="Todo lo que aprendimos de las películas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

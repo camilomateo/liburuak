@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf0cbc6c-f603-4539-8ff1-c242be3e2dfd</dc:identifier>
+        <dc:title>Ya casi no me acuerdo</dc:title>
+        <dc:creator opf:file-as="Morales, Clara" opf:role="aut">Clara Morales</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-22T17:45:28+00:00</dc:date>
+        <dc:description>&lt;div&gt;Podemos intentar convencernos de que recordar es un acto 
+inofensivo, como buscar en un archivo: localizar la información y 
+llevarla al mostrador del presente.&lt;br&gt;Sin embargo, cualquiera que se 
+haya visto zarandeado en mitad de la calle por un aroma dolorosamente 
+familiar sabe que hacer memoria es, también y sobre todo, una sacudida 
+física, un asalto, una posesión infernal. La memoria no puede perderse a
+ voluntad. La memoria vive en el cuerpo de quien la lleva consigo, ya lo
+ haga con orgullo o con vergüenza. Lo que no se olvida, no se olvida. Y 
+esto es válido para la memoria privada y para la memoria colectiva, si 
+es que tal distinción tiene sentido.&lt;br&gt; &lt;br&gt;En «Ya casi no me acuerdo»,
+ no lo tiene. En estos trece relatos viven el recuerdo de un amor no 
+correspondido y el del superviviente de un campo de concentración, los 
+ecos de las torturas franquistas y el de un perverso juego de infancia, 
+el rostro borroso de un familiar fallecido hace décadas y el de un 
+manifestante en la primera marcha LGTBIQ+. ¿Memoria histórica? Puede. 
+¿Pequeños traumas íntimos? Quizá. Lo personal y lo político se trenzan: 
+cada proceso colectivo lleva consigo miles de recuerdos privados, y 
+viceversa.&lt;br&gt;Si estos relatos pudieran elegir ser otra cosa, elegirían 
+ser fantasmas. Fantasmas tenebrosos y constantes, fantasmas que nos 
+visitan por la noche y nos obligan a aceptar que no, que no hemos 
+olvidado. Que quizá no queremos olvidar.&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Tránsito</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-03T12:01:59.030896+00:00"/>
+        <meta name="calibre:title_sort" content="Ya casi no me acuerdo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">891</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">237113b9-a6c9-44f8-bbf6-a003f7631f84</dc:identifier>
+        <dc:title>Media vida</dc:title>
+        <dc:creator opf:file-as="Santos, Care" opf:role="aut">Care Santos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-06T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span itemprop="description"&gt;&lt;b&gt;&lt;i&gt;Premio Nadal de Novela 2017.&lt;/i&gt;&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+En pleno verano del año 1950 cinco chicas adolescentes internas en un 
+colegio de monjas juegan juntas por última vez a «Acción o Verdad» o, 
+como ellas lo llaman, el juego de las prendas. &lt;/span&gt;&lt;div&gt;&lt;span itemprop="description"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span itemprop="description"&gt;Dos de ellas, las gemelas
+ Viñó, están a punto de empezar una nueva vida, llena de interrogantes, 
+lejos de allí. La ocasión es especial y lo saben, pero ninguna espera 
+que esa noche se convierta en un punto de inflexión para alguien más y 
+que sin siquiera imaginarlo acabe marcando su camino para siempre. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span itemprop="description"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span itemprop="description"&gt;A 
+través de las vidas de cinco amigas a lo largo de treinta años, Care 
+Santos retrata a una generación de mujeres que tuvieron que construir 
+sus destinos en un momento en que la hipocresía de aquellos que querían 
+mantener las formas a cualquier precio se enfrentó a nuevas miradas 
+sobre la amistad, el amor y la libertad.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Narrativa</dc:subject>
+        <meta name="calibre:timestamp" content="2023-06-23T11:09:43.481368+00:00"/>
+        <meta name="calibre:title_sort" content="Media vida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

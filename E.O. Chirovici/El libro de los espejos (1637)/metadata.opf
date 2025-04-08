@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75c42110-dc52-4f99-9fee-93d4a4e74f7d</dc:identifier>
+        <dc:title>El libro de los espejos</dc:title>
+        <dc:creator opf:file-as="Chirovici, E.O." opf:role="aut">E.O. Chirovici</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-05T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;El libro de los espejos es una inteligente novela de misterio y suspense psicológico que habla sobre el poder y la fragilidad de la memoria, un libro adictivo e impredecible en el que la verdad de un hombre se convierte en la mentira de otro.&lt;/p&gt;
+&lt;p&gt;Cuando el agente literario Peter Katz recibe un manuscrito titulado El libro de los espejos, no puede evitar sentirse intrigado por lo que encuentra en él. Se trata de las memorias de un tal Richard Flynn, y en ellas habla de su época como estudiante en la Universidad de Princeton en la década de los ochenta, al tiempo que relata su estrecha amistad con otra estudiante y su relación con el profesor Joseph Wieder, un reconocido psicoanalista especializado en la pérdida de la memoria.&lt;/p&gt;
+&lt;p&gt;En el manuscrito, Flynn vuelve a los detalles olvidados de aquellos meses para contar la verdad sobre un trágico suceso que tuvo lugar la víspera de Navidad de 1987, hace más veintisiete años. Pero el manuscrito termina de forma abrupta y el agente literario se obsesiona por desenterrar la verdad. No será el único: un periodista de investigación intenta reconstruir los hechos y el detective original del caso, ya jubilado, pretende resolverlo antes de que el Alzheimer devore sus recuerdos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01N6VIK8L</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-22T12:04:41.534550+00:00"/>
+        <meta name="calibre:title_sort" content="libro de los espejos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

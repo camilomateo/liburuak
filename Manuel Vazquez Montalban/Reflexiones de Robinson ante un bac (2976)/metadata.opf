@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2976</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb9a73a3-d2a0-4a04-9e16-73394d660a47</dc:identifier>
+        <dc:title>Reflexiones de Robinsón ante un bacalao</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Robinsón es un sacerdote corrupto en excedencia que se dedica al blanqueo de dinero de la Iglesia. Sus cenas y comidas son tan importantes como sus negocios y ya que no hace mucho caso de algún mandamiento, tampoco lo hace respecto al sexo: Muriel es su pareja. Este relato empieza con Robinsón en una isla aparentemente desierta a la que ha llegado naufragando después de que Muriel rompiera con él. Las horas pasan y Robinsón sólo puede pensar en la comida, cómo conseguirla y cómo cocinarla, pero sobre todo se dedica a rememorar recetas de platos exquisitos que ha probado alrededor del mundo.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:17.300679+00:00"/>
+        <meta name="calibre:title_sort" content="Reflexiones de Robinsón ante un bacalao"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

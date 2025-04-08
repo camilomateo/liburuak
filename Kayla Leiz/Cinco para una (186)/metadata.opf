@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a353e3a4-08de-4e59-8fe0-fa5d9f996e7b</dc:identifier>
+        <dc:title>Cinco para una</dc:title>
+        <dc:creator opf:file-as="Leiz, Kayla" opf:role="aut">Kayla Leiz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-27T22:00:00+00:00</dc:date>
+        <dc:description>Ex quería huir de su pasado, dejar atrás aquello que tanto daño le había hecho y empezar de cero. Cuando llega a un pueblo desconocido, un travesti la invita a un local exclusivo para mujeres. Los cinco strippers, a cuál más atractivo, que allí trabajan la acogen en su casa y le ofrecen un trabajo en el club. Cuatro de ellos están encantados de compartir su casa con ella y le enseñan las delicias del sexo. El quinto se resiste porque se ha enamorado de Ex y la quiere en exclusiva. Pero antes de disfrutar de su amor, ella deberá poner en orden su pasado y resolver el asunto que la hizo huir de casa.</dc:description>
+        <dc:publisher>Zafiro eBooks</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Erótico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kayla Leiz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:18.626288+00:00"/>
+        <meta name="calibre:title_sort" content="Cinco para una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

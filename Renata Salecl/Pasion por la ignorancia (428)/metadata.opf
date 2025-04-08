@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">428</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">709c8dd5-1f59-4f21-be35-ed36ac6e133f</dc:identifier>
+        <dc:title>Pasión por la ignorancia</dc:title>
+        <dc:creator opf:file-as="Renata Salecl" opf:role="aut">Renata Salecl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-20T14:17:47+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;La ignorancia, ya sea pasiva o activa, consciente o inconsciente, siempre ha formado parte de la condición humana. Lo que ha cambiado hoy en día es que a menudo nos sentimos desbordados por la riada constante de información y desinformación que nos envuelve. No obstante, Salecl sostiene que la ignorancia es un fenómeno complejo que, en ocasiones, puede beneficiar a los individuos y al conjunto de la sociedad.&lt;br&gt;Inspirándose en la filosofía, la teoría social y psicoanalítica, la cultura popular y su propia experiencia, en Pasión por la ignorancia Salecl explora cómo se desarrolla y se manifiesta el lado positivo de la ignorancia en múltiples aspectos de la vida actual para reivindicar también el papel del conocimiento.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Paidós</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788449340550</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-03-14T15:53:28+00:00"/>
+        <meta name="calibre:title_sort" content="Pasión por la ignorancia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

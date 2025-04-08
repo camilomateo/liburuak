@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1085</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f107379-4bd0-4ad0-a8d4-644bcb13b57b</dc:identifier>
+        <dc:title>Todo tiene su precio</dc:title>
+        <dc:creator opf:file-as="Dugoni, Robert" opf:role="aut">Robert Dugoni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="background-color: #ffffff; color: #333333"&gt;Cuando la inspectora Tracy Crosswhite comienza a asesorar a quienes investigan la desaparición de una joven, le asalta la incómoda sensación de que no se trata de un caso al uso. Sus sospechas se confirman al aparecer el cadáver en un pozo abandonado. La víctima, enfrentada a su familia, se había opuesto a un matrimonio de conveniencia y había hecho planes para emprender estudios de posgrado… Alguien puso fin a sus sueños.&lt;/span&gt;&lt;/p&gt;
+&lt;p align="justify" style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="background-color: #ffffff; color: #333333"&gt;Pero resolver el misterio que se esconde tras este asesinato no será el único reto de nuestra protagonista. La inspectora también esconde un enigma y su compañero Vic Fazzio se encuentra en graves apuros. Las carreras profesionales de ambos se verán cuestionadas y la revelación de ciertos secretos conduce a pensar que no solo están en peligro sus puestos de trabajo.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Amazon Crossing</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Tracy Crosswhite"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2023-12-12T07:20:57.116964+00:00"/>
+        <meta name="calibre:title_sort" content="Todo tiene su precio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7537fdd1-dc37-4c2e-a292-f64ece6fd312</dc:identifier>
+        <dc:title>Jodía Pavía (1525)</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-08-06T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Durante su cautiverio, tras caer derrotado en la batalla de Pavía frente a las tropas de Carlos V, Francisco I de Francia, escribe una carta a Mimí.&lt;/p&gt;&lt;p&gt;Pequeño relato de Arturo Pérez-Reverte publicado en la sección «Los relatos del verano» del suplemento semanal de &lt;i&gt;El País&lt;/i&gt; en el verano de 2000. Escrito en la misma época que &lt;i&gt;Ojos azules&lt;/i&gt;, con el que guarda muchas similitudes, en él Reverte nos sitúa de nuevo en uno de los momentos históricos más relevantes de la historia de España a través de la mirada de uno de sus protagonistas.&lt;/p&gt;</dc:description>
+        <dc:publisher>Zenda</dc:publisher>
+        <dc:identifier opf:scheme="EPL">2739</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arturo Pérez-Reverte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T22:40:41.162852+00:00"/>
+        <meta name="calibre:title_sort" content="Jodía Pavía (1525)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

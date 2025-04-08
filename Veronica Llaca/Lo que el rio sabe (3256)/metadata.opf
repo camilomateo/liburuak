@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4704362e-0569-46b3-9af4-d40579b5acd4</dc:identifier>
+        <dc:title>Lo que el río sabe</dc:title>
+        <dc:creator opf:file-as="Llaca, Verónica" opf:role="aut">Verónica Llaca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-06T23:48:05+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Verónica Llaca, autora de La Herencia, regresa con un caso que alcanzará a todos.&lt;/p&gt;
+&lt;p&gt;En una madrugada de 1995 Miguel murió entre las llamas del incendio que acabó con Nueva Armonía, una secta liderada por el carismático James Cox. Aunque el pastor pretendía fundar el Paraíso en la Tierra, la ambición mesiánica, los secretos familiares y la sed de poder corrompieron su sueño, convirtiendo en un infierno lo que comenzó como una comunidad idílica. Veinticuatro años después, Victoria, psicóloga especializada en desprogramar adeptos de cultos y hermana de Miguel, continúa buscando respuestas sobre lo ocurrido aquella noche.&lt;/p&gt;
+&lt;p&gt;La inesperada aparición del cadáver de un joven, extrañamente relacionado con esta tragedia, es la última oportunidad de Victoria para resolver el misterio que destruyó a su familia. Conforme se adentra en la investigación, antiguos miembros de Nueva Armonía reaparecen, cada uno con sus propios intereses en el caso. Cuando un segundo crímen enciende todas las alarmas, queda claro que alguien está acechando y que las verdades desenterradas por Victoria la ponen en peligro. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-04T12:04:12.745596+00:00"/>
+        <meta name="calibre:title_sort" content="que el río sabe, Lo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

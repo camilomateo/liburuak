@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02c51d39-cfac-4094-b456-16d3e49ec148</dc:identifier>
+        <dc:title>La Ronda</dc:title>
+        <dc:creator opf:file-as="Bescós, Francisco" opf:role="aut">Francisco Bescós</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-18T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;En&lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt; La Ronda&lt;/span&gt;&lt;span class="a-text-bold"&gt;,
+ el premiado autor Francisco Bescós le pone una marcha más al género 
+negro con una novela policial ambiciosa, repleta de giros y adrenalina.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;«Bescós te atrapa en un juego macabro del que no puedes salir. &lt;/span&gt;&lt;span class="a-text-italic"&gt;La Ronda &lt;/span&gt;&lt;span&gt;es una novela formidable».&lt;br&gt;&lt;/span&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Santiago Díaz&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;«Uno de los autores más destacados de la novela negra española».&lt;br&gt;&lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;&lt;b&gt;Heraldo de Aragón&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Desde
+ que empezó el año, se han descubierto en Madrid los cadáveres de varias
+ personas ejecutadas misteriosamente. Parecen víctimas escogidas al 
+azar, ya que las han hallado en lugares remotos de la capital. Sin 
+embargo, hay dos investigadores pertenecientes a comisarías distintas 
+que están empeñados en seguir, cada uno por su cuenta, las pocas pistas 
+disponibles.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Se trata de la inspectora Dulce 
+O'Rourke, de personalidad explosiva pero insegura en su vida 
+sentimental, y del inspector Juan Luis Seito, en apariencia apocado pero
+ capaz de remover cielo y tierra si destapa un caso importante.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Cuando
+ llegan a la conclusión de que un mercenario de élite está rondando las 
+calles de la ciudad, saltan todas las alarmas. Es alguien con mucha 
+experiencia, acostumbrado a matar impunemente. Algo está pasando. Algo 
+demasiado complicado. Y también demasiado grande. Algo que nadie, en 
+ninguna parte del mundo, ha detectado hasta ahora.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419437181</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-22T15:07:02.423368+00:00"/>
+        <meta name="calibre:title_sort" content="Ronda, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

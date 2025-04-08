@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1532</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">686cb372-0b58-48dd-8070-51d1ced2cb40</dc:identifier>
+        <dc:title>La maestra</dc:title>
+        <dc:creator opf:file-as="Lucero, José Antonio" opf:role="aut">José Antonio Lucero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-05T00:00:00+00:00</dc:date>
+        <dc:description>UN HOMENAJE A AQUELLOS QUE NOS ENSEÑAN A APRENDER
+
+El profesor y creador de La cuna de Halicarnaso escribe una emotiva novela en homenaje a su vocación: la docencia.
+
+«JoséAntonio Lucero deslumbra gracias a una mirada sobre el pasado como la de Almudena Grandes». 20 Minutos
+Una historia de vocación, pasión y guerra que nos traslada a 1936 para que vivamos la magia de una de las profesiones más importantes del mundo: la de quienes nos abren las puertas del conocimiento y nos ayudan a cruzarlas por nosotros mismos.
+Mayo, 1936. Una joven viaja a un pequeño pueblo de la sierra gaditana donde desempeñará, por primera vez, su vocación y profesión: la de maestra. ulalia —o Lali, como la llaman sus alumnos— se prepara para dar clase a un grupo de niños y niñas. Nerviosa, repasa los modernos principios pedagógicos que le han inculcado durante la República y que, poco después cuando estalle la Guerra Civil, la condenarán. Acusada de adoctrinamiento, es arrestada y no podrá volver al aula durante la dictadura, convirtiéndose en una de las víctimas de un proceso que afectó a un tercio del cuerpo docente de España. Hasta que treinta años después, una visita inesperada lo cambiará todo para Lali.
+Este es el relato de una profesora sin alumnos que luchó durante toda una vida por volver a enseñar. Con esta novela, José Antonio Lucero, renombrado autor de La vida en un minuto yLa madrina de guerra, rinde homenaje a su profesión y vocación, y nos demuestra que un buen maestro siempre lo será.</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:40.195155+00:00"/>
+        <meta name="calibre:title_sort" content="maestra, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

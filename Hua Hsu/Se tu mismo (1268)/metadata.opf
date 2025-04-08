@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1268</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42fecb45-bfb9-4c1d-a71f-bd4a5951962c</dc:identifier>
+        <dc:title>Sé tú mismo</dc:title>
+        <dc:creator opf:file-as="Hsu, Hua" opf:role="aut">Hua Hsu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-20T06:43:38+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A mediados de los años noventa, Hua Hsu tenía dieciocho años, diseñaba fanzines, se pasaba el día en tiendas de discos y vestía de segunda mano. Ken estaba obsesionado con Dave Matthews, Pearl Jam y la ropa de Abercrombie &amp;amp; Fitch. Uno era hijo de inmigrantes taiwaneses. La familia de ascendencia japonesa del otro llevaba ya generaciones asentada en los Estados Unidos. Lo único que tenían en común era que, independientemente de cómo se relacionaran con ella, la cultura americana no parecía tener hueco para ninguno de los dos. Pero, en contra de sus prejuicios, crean una amistad construida a base de largas conversaciones entre cigarrillos, viajes en coche al 7-Eleven, momentos triviales atrapados en fotos analógicas y una búsqueda constante de la propia identidad. Y entonces, apenas tres años después de conocerse, Ken muere asesinado.&lt;/p&gt;
+&lt;p&gt;Sé tú mismo no es solo unas memorias de juventud, es un testimonio vital y estético de la angustia adolescente, la experiencia del inmigrante y la necesidad humana de pertenencia. Decidido a reflexionar sobre las escisiones y los parches que se crean en nuestro recuerdo, Hua Hsu escribe en búsqueda de todo aquello que tratamos de reconciliar mediante la literatura.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Navona</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419552976</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-07T17:24:52.856590+00:00"/>
+        <meta name="calibre:title_sort" content="Sé tú mismo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

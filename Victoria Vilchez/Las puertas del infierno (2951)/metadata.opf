@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2951</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">402fccdd-6538-44a0-944b-b531f697d22d</dc:identifier>
+        <dc:title>Las puertas del infierno</dc:title>
+        <dc:creator opf:file-as="Vílchez, Victoria" opf:role="aut">Victoria Vílchez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;La profecía que Danielle y Alexander tanto han luchado por evitar ha terminado cumpliéndose, y ahora el mal que temían se ha desatado en el mismísimo corazón de Ravenswood. Ningún brujo, blanco u oscuro, está ya a salvo, por lo que ambas comunidades deberán aunar fuerzas por primera vez desde los juicios de Salem y luchar para restaurar el equilibrio que se rompió entonces. La oscuridad no viene, sino que ya está aquí, y ha llegado el momento de enfrentarse a ella.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">75765</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:series" content="Las crónicas de Ravenswood"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-02-11T10:25:06.656630+00:00"/>
+        <meta name="calibre:title_sort" content="puertas del infierno, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

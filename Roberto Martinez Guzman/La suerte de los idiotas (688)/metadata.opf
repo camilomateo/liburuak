@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">688</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8c77e61-7937-4a77-aa5f-314a9b9ce934</dc:identifier>
+        <dc:title>La suerte de los idiotas</dc:title>
+        <dc:creator opf:file-as="Guzmán, Roberto Martínez" opf:role="aut">Roberto Martínez Guzmán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-27T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;&lt;span style="background-color: rgb(255, 255, 255);"&gt;Lastrado por una última misión policial en Madrid que no acabó de la 
+mejor manera posible, el policía Lucas Acevedo regresa a Galicia para 
+poner en orden su cabeza. Cuando cree que lo ha conseguido, una noche 
+conoce a una mujer que le hará plantearse una vida nueva y dar carpetazo
+ a la solitaria existencia que ha llevado hasta entonces. Sin embargo, 
+pronto se complican sus planes. Mucha gente comienza a morir a su 
+alrededor y, en el momento en que se da cuenta de que él también está en
+ el punto de mira, se verá obligado a librar una batalla de la que no 
+conseguirá salir indemne.&lt;/span&gt;&lt;p style="background-color: rgb(255, 255, 255);"&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policiaca</dc:subject>
+        <dc:subject>suspense</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-16T06:56:25.102461+00:00"/>
+        <meta name="calibre:title_sort" content="suerte de los idiotas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

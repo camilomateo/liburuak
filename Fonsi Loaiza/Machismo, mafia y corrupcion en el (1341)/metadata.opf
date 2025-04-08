@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9bb099a-7ee0-43b5-96a3-af156da368a1</dc:identifier>
+        <dc:title>Machismo, mafia y corrupción en el fútbol español</dc:title>
+        <dc:creator opf:file-as="Loaiza, Fonsi" opf:role="aut">Fonsi Loaiza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-27T11:11:02+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;A finales de agosto de 2023, el escándalo generado por el caso 
+Rubiales puso manifiesto, para una inmensa mayoría de la opinión 
+pública, que algo huele a podrido en nuestro fútbol. Sin embargo, no es 
+más que la punta del iceberg de una situación que algunos, los menos, 
+llevan denunciando hace tiempo. Nepotismo, misoginia, espionaje, 
+prebendas, compra de voluntades, medios de comunicación sesgados a favor
+ de los de siempre y tráfico de influencias forman parte del día a día 
+de un deporte que se ha convertido en un negocio millonario promocionado
+ como espectáculo de masas que sólo beneficia a una elite de 
+privilegiados. Esta «familia» corrupta, que, desde los clubes y las 
+instituciones, ejerce su poder sin fisuras, hace tiempo que ha robado el
+ fútbol a los aficionados.&lt;br&gt;&lt;br&gt;El presente libro pone sobre la mesa 
+un tema del que se es muy consciente, pero del que se prefiere no 
+hablar, ya que son muchos los intereses creados a su alrededor. La 
+denuncia que contienen sus páginas es un primer paso que debería llevar a
+ una profunda investigación de todos los implicados en esta cloaca donde
+ no se salva casi nadie.
+
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Akal Ediciones SA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788446054696</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:32.805096+00:00"/>
+        <meta name="calibre:title_sort" content="Machismo, mafia y corrupción en el fútbol español"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

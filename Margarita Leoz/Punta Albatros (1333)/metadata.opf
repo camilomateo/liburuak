@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1333</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d2942f8-6fc4-47cd-9bec-3c3b9c0c2064</dc:identifier>
+        <dc:title>Punta Albatros</dc:title>
+        <dc:creator opf:file-as="Margarita Leoz" opf:role="aut">Margarita Leoz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-20T14:12:55+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 300; font-family: 'Source Sans Pro','sans-serif'; font-size: medium"&gt;&lt;span style="color: #000000"&gt;El médico protagonista de esta novela abandona la ciudad para trasladarse a Punta Albatros, una región costera aislada y agreste, azotada por los vientos y las mareas. Allí entrará en contacto con los seres que la habitan: el dueño del hostal, los ancianos de la residencia de la isla de Goz o un inquietante barquero dueño de dos perros feroces. Pero esta nueva vida es también un inevitable regreso a la memoria y a los afectos perdidos ─a su esposa, a su amante, a sus amigos, a su antiguo trabajo en el hospital─ y a todo aquello que ha dejado atrás.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Source Sans Pro','sans-serif'; font-size: medium"&gt;&lt;span style="font-weight: 300; color: #000000"&gt;Acompañado por el protagonista, el lector de Punta Albatros irá desentrañando las razones y los secretos que motivaron su particular huida. Margarita Leoz despliega en su primera novela una maestría narrativa poco habitual, que ya mostró en &lt;/span&gt;&lt;span style="color: #000000"&gt;Flores fuera de estación&lt;/span&gt;&lt;span style="font-weight: 300; color: #000000"&gt;, el volumen de relatos que la hizo merecedora de comparaciones con Alice Munro o Joy Williams.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432240829</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:31.114055+00:00"/>
+        <meta name="calibre:title_sort" content="Punta Albatros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

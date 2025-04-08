@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1507</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2890064e-07e3-42d6-ae37-82c51c62f118</dc:identifier>
+        <dc:title>Las sombras de Quirke</dc:title>
+        <dc:creator opf:file-as="Black, Benjamin" opf:role="aut">Benjamin Black</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-15T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;El maestro irlandés y Premio Príncipe de Asturias sorprende con la mejor entrega de Black hasta la fecha.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;«La séptima entrega, &lt;span class="a-text-italic"&gt;Las sombras de Quirke, &lt;/span&gt;es
+ tan magnífica como de costumbre. Si aún no ha conocido a Quirke, un 
+patólogo alcohólico, prepárese para darse un atracón con los seis 
+primeros y leérselos de golpe para poder echarle el guante a este.»&lt;br&gt;&lt;span class="a-text-bold"&gt;Isabella Biedenharn, &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;Entertainment Weekly&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Incapaz
+ de guardar reposo pese a sus alucinaciones y desvanecimientos, Quirke 
+regresa al trabajo en la morgue de Dublín. Es a él a quien llaman cuando
+ aparece un cuerpo en el interior de un coche calcinado: todo apunta al 
+suicidio de un funcionario advenedizo, pero Quirke no puede quitarse de 
+la cabeza la sospecha de que algo no encaja. La única testigo se ha 
+esfumado, han borrado todo rastro de ella.&lt;/p&gt;&lt;p&gt;Al reunir 
+las piezas de su desaparición, el patólogo se ve atraído hacia las 
+sombras del universo de las élites dublinesas: sociedades secretas y 
+política eclesiástica de altos vuelos, políticos corruptos y hombres con
+ mucho dinero que perder. Mientras la psicoanalista austriaca Evelyn 
+Blake entra en su vida y en su corazón, la pista acaba por llevar a 
+Quirke hacia su propia familia, y pasado y presente entran en colisión. 
+Los crímenes de antaño han de permanecer ocultos, y Quirke ha agitado la
+ telaraña.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;** Ganadora del Premio Best Novel Valencia Negra 2017.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01MSV4TR9</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Quirke"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2024-05-10T06:43:28.759799+00:00"/>
+        <meta name="calibre:title_sort" content="sombras de Quirke, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">110</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec614dcf-95ac-46ea-9241-2a59323131a5</dc:identifier>
+        <dc:title>Fuego en Oxford</dc:title>
+        <dc:creator opf:file-as="Hunter, Cara" opf:role="aut">Cara Hunter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Las apacibles calles de Oxford se encuentran en plenas 
+celebraciones navideñas, cuando un incendio irrumpe en la oscuridad de 
+la noche. Los bomberos se afanan en apagarlo y logran localizar a dos 
+niños. Pero todos se preguntan dónde están los padres, y más aún cuando 
+se confirma que el incendio fue provocado.&lt;br&gt;Cara Hunter vuelve con una
+ nueva entrega de la serie del inspector Adam Fawley, que deberá 
+descubrir quién ha provocado el fatídico siniestro y por qué. Tras &lt;span class="a-text-italic"&gt;¿Quién se ha llevado a Daisy Mason?&lt;/span&gt; y &lt;span class="a-text-italic"&gt;El sótano de Oxford&lt;/span&gt;, este es, sin duda, el caso más aterrador al que deberá enfrentarse el detective. &lt;/div&gt;</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Cara Hunter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Adam Fawley"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:26.329033+00:00"/>
+        <meta name="calibre:title_sort" content="Fuego en Oxford"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

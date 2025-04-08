@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1995</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5895cf9b-87ae-4c80-8a57-a4fec60e62d6</dc:identifier>
+        <dc:title>Los Caudillos de 1830</dc:title>
+        <dc:creator opf:file-as="Baroja, Pío" opf:role="aut">Pío Baroja</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Spain</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Ferdinand</dc:subject>
+        <dc:subject>VII</dc:subject>
+        <dc:subject>1813-1833</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Aviraneta</dc:subject>
+        <dc:subject>e</dc:subject>
+        <dc:subject>Ibargoyen</dc:subject>
+        <dc:subject>Eugenio</dc:subject>
+        <dc:subject>de</dc:subject>
+        <dc:subject>1792-1872</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-06T11:57:42.241584+00:00"/>
+        <meta name="calibre:title_sort" content="Caudillos de 1830, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

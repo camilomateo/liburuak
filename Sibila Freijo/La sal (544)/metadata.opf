@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">544</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01bd500d-4a32-492e-90ee-a2f3741c303a</dc:identifier>
+        <dc:title>La sal</dc:title>
+        <dc:creator opf:file-as="Sibila Freijo" opf:role="aut">Sibila Freijo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Creo que siempre esperé la muerte de mi padre como la prueba definitiva para comprobar si le quería o no. Porque, en el fondo, no me perdoné nunca el quererle. Tampoco me perdonaba el no quererle. Solo sabía que cuando él muriera, yo, probablemente, podría empezar a quererle en paz. Nacida a principios de los años setenta, Sibila, la autora de esta novela y la protagonista de esta historia, es una "niña nadie", como muchos de los hijos de aquella generación de padres "progres" y ateos. Una cría infeliz, a menudo maltratada, que crece a la intemperie entre un padre dominante y alcohólico, pero también culto y sensible, y una madre ausente. Pasados ya los cuarenta y a raíz del inesperado dolor por la muerte del padre, la autora va desgranando su complicada relación con él, desde su niñez a la vida adulta, en lo que quiere ser un ejercicio sobre las infancias perdidas, lo absurdo y vital de los lazos familiares y la necesidad de querer y ser queridos. La sal es, además, la cronología de una muerte vivida en primera persona. Una mirada sobre el duelo, la pérdida y el desconcierto de una hija que únicamente hace una cosa por su padre: acompañarle en su muerte. Perdonarle cuando ya es tarde. En la novela también se habla del milagro de esas personas que nos "salvan" del desamparo, con un fresco familiar repleto de humor y ternura que llena sus páginas de personajes inolvidables que marcan la vida de la protagonista, como también lo hacen el cine, la literatura... En suma, La sal es una reflexión sobre la felicidad perdida, lo inevitable de los lazos familiares y el poder del perdón y del amor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467069303</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ch-iEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sibila Freijo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-06T19:50:05.762343+00:00"/>
+        <meta name="calibre:title_sort" content="sal, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

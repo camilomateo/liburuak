@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">358</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c1700ce-a91d-445e-a556-d92732376d79</dc:identifier>
+        <dc:title>La hija española</dc:title>
+        <dc:creator opf:file-as="Lorena Hughes" opf:role="aut">Lorena Hughes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-25T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Una historia de raíces, amor, odio, venganzas y oscuros secretos ocultos al otro lado del océano en una tierra tan desconocida como fascinante; un mundo de cacao y color.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Puri ha heredado dos cosas de su padre: la pasión por el chocolate y una plantación de cacao situada en Vinces, Ecuador, la ciudad conocida como el «París Chiquito». Aunque no ha visto a su padre desde que era un bebé, este le ha dejado una parte de la plantación que poseía. También les ha dejado su parte a los tres hijos ilegítimos que tenía. Tras aprender el arte de la chocolatería de su abuela, la joven abre una tienda de chocolate en su país, pero, deseosa de saber más sobre el origen de su amado chocolate, se lanza a cruzar el océano con su marido, Cristóbal. Sin embargo, hay alguien a quien no le hace ninguna gracia que Puri reclame su parte de la plantación.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Cuando un mercenario enviado para asesinarla a bordo del barco mata accidentalmente a Cristóbal en lugar de a ella, la joven decide vestirse de hombre, asumir la identidad de su marido y descubrir la verdad. Liberada de las reglas que se espera que sigan las mujeres, se enfrentará a otros retos. ¿Quiénes son esos hermanos suyos? ¿Y ese enigmático desconocido que se cruza con ella? Y, sobre todo, ¿quién es el asesino que sigue suelto por ahí?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libros de Seda</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417626921</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Lorena Hughes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-24T08:48:11.391141+00:00"/>
+        <meta name="calibre:title_sort" content="hija española, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

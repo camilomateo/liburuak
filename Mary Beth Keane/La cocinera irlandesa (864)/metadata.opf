@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">864</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">927554a6-8391-4a90-9653-8cca5e871391</dc:identifier>
+        <dc:title>La cocinera irlandesa</dc:title>
+        <dc:creator opf:file-as="Keane, Mary Beth" opf:role="aut">Mary Beth Keane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-10T10:33:17+00:00</dc:date>
+        <dc:description>Mary la Tifoidea: ¿un monstruo egoísta o una inocente perseguida?
+ 
+La llamaban Mary la Tifoidea. Creían que estaba enferma, que transmitía el tifus de sus manos a la comida de aquellos a los que servía. Decían que debía saberlo. Pero Mary no estaba enferma. Ella no había hecho nada malo.
+No fue arrestada rápidamente. Hubo avisos, requerimientos y cuando por fin fue capturada, no se dejó llevar tranquilamente. Califi cada de asesina y condenada tanto por la prensa como por la opinión pública, Mary siguió luchando por su libertad, sin importarle el coste…
+La cocinera irlandesa arroja luz sobre la mujer que fue descrita como la "Mujer más peligrosa de América". El relato de Mary Beth Keane es tan poderoso como lo fue la misma Mary la Tifoidea.
+ 
+"Una novela histórica adictiva… Mary Beth Keane da su propia voz a Mary la tifoidea, creando un retrato rico y provocativo de la persona real que habría detrás de la paria".
+The San Francisco Chronicle
+"En la nueva, absorbente y profundamente emotiva novela de Mary Beth Keane, Mallon emerge como una mujer de inteligencia fi era y convicciones férreas… Transforma una vida pasada en una fascinante ficción, Keane nos entrega una novela llena de vida y una heroina cuyos remordimientos nos sonaran perfectamente familiares".
+The Boston Globe
+"En las seguras manos de Keane Mary Mallon se convierte en un personaje comprensible, complejo e inspirador. La cocinera irlandesa no es solo una atractiva novela para cualquiera atraído por los misterios médicos, también hará emocionarse a cualquiera que haya sentido alguna vez los efectos del cotilleo y la hipocresía".
+O, the Oprah Magazine</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-14T15:48:34.415983+00:00"/>
+        <meta name="calibre:title_sort" content="cocinera irlandesa, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

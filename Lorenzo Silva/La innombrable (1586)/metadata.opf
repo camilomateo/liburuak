@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7631565d-cf6c-4664-b11e-39cec970af09</dc:identifier>
+        <dc:title>La innombrable</dc:title>
+        <dc:creator opf:file-as="Silva, Lorenzo &amp; Trujillo, Noemi" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:creator opf:file-as="Silva, Lorenzo &amp; Trujillo, Noemi" opf:role="aut">Noemi Trujillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-15T06:00:00+00:00</dc:date>
+        <dc:description>A las puertas de las vacaciones de verano, la inspectora de homicidios Manuela Mauri no pasa por su mejor momento. Ha vivido en poco tiempo varias experiencias que le han hecho comprender que hay sentimientos y vivencias que no se pueden verbalizar y cosas que es imposible nombrar. Lo percibe cuando sus hijos, Manuel y David, le hablan de la repentina muerte de su padre (su exmarido) y ella no encuentra el modo de consolarlos. Lo intuye cuando ve a los padres de Susana, una joven de dieciséis años que ejercía la prostitución y que murió de una sobredosis, exigiendo justicia para su hija en el juicio de la Operación Lesly y la inspectora está segura de que, sea cual sea la sentencia, nada reparará semejante pérdida. Lo deduce cuando afronta la mirada de Belén, que acaba de perder a su hermana Rebeca a causa de las puñaladas que le ha asestado quien fue su pareja. Lo asimila cuando su propio compañero, Alberto, le hace la proposición más importante de su relación y ella no sabe qué contestar.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Una novela negra combativa y literaria que, por un lado, explora los vínculos de la prostitución con la violencia de género y, por el otro, pone el foco en la parte más personal e íntima de una inspectora que deberá cuidar más y mejor a su pequeña familia si no quiere arriesgarse a perderla.</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423365463</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Inspectora Manuela Mauri"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:54.161548+00:00"/>
+        <meta name="calibre:title_sort" content="innombrable, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

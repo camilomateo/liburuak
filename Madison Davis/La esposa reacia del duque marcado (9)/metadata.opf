@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67a4418c-ca62-4edf-88a8-71bbb8ae8b98</dc:identifier>
+        <dc:title>La esposa reacia del duque marcado</dc:title>
+        <dc:creator opf:file-as="Davis, Madison" opf:role="aut">Madison Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-06T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;span class="a-text-bold"&gt;&lt;b&gt;¿Podrá lady Eleanor amar a su impuesto marido sin importarle sus cicatrices?&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Lady
+ Eleanor Lead, hija del conde de Bellingham, ve como sus sueños de 
+contraer matrimonio por amor terminan, cuando su padre le impone un 
+matrimonio con el duque de Southaven. Esta noticia podría ser de su 
+agrado para así alejarse de su fría familia, si no fuera porque su 
+prometido es un monstruo.&lt;br&gt;&lt;br&gt;Briar Dawson, duque de Southaven, vio 
+como su apacible vida concluyó de golpe, cuando su hermana pequeña y su 
+madre murieron en un incendio. Marcado por las llamas, ha vivido alejado
+ del mundo sumido en su culpa. Pero su soledad empieza a ser 
+insoportable y anhela tener a alguien a su lado.&lt;br&gt;&lt;br&gt;&lt;span class="a-text-bold"&gt;¿Podrá
+ Eleanor superar sus propios prejuicios y ver al hombre que hay debajo 
+de las cicatrices? ¿Podrá el Duque comenzar una nueva vida junto a su 
+esposa, dejando atrás la soledad y encontrando quizás el amor?&lt;/span&gt;&lt;br&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Publicaciones Ricardo</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0BPJS9K58</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Madison Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:04:05.692533+00:00"/>
+        <meta name="calibre:title_sort" content="esposa reacia del duque marcado, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

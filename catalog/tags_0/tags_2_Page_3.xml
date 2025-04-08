@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Intriga</title>
+  <id>Calibre2opds:taglist:I:2</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_2_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Intriga" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por I" />
+  <link href="./tags_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Intriga" />
+  <entry>
+    <title>La princesa de hielo (edición 10.º Aniversario)</title>
+    <id>calibre:book:1399</id>
+    <updated>2024-04-08T02:39:41Z</updated>
+    <link href="../../Camilla%20Lackberg/La%20princesa%20de%20hielo%20%28edicion%2010.o%20%281399%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Camilla%20Lackberg/La%20princesa%20de%20hielo%20%28edicion%2010.o%20%281399%29/La%20princesa%20de%20hielo%20%28edicion%201%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Camilla Läckberg</name>
+      <uri>../authors_0/authors_369_Page_1.xml</uri>
+    </author>
+    <published>2003-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones MAEVA</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Fjällbacka" />
+    <summary>Fjällbacka [1]: Edición Especial con 60 páginas extra: entrevista y fotos de la autora, consejos para escribir novela negra, cubiertas internacionales. En el invierno de 2003 Erica Falck regresa a Fjällbacka después de que sus padres, Elsy y Thore, f...</summary>
+    <link href="../book_1/book_1399.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El prisionero del cielo</title>
+    <id>calibre:book:1270</id>
+    <updated>2024-03-07T06:24:53Z</updated>
+    <link href="../../Carlos%20Ruiz%20Zafon/El%20prisionero%20del%20cielo%20%281270%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Ruiz%20Zafon/El%20prisionero%20del%20cielo%20%281270%29/El%20prisionero%20del%20cielo%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="606 KB" />
+    <author>
+      <name>Carlos Ruiz Zafón</name>
+      <uri>../authors_0/authors_897_Page_1.xml</uri>
+    </author>
+    <published>2011-11-17T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Literanda</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="El Cementerio de los Libros Olvidados" />
+    <summary>El Cementerio de los Libros Olvidados [3]: Barcelona, 1957. Daniel Sempere y su amigo Fermín, los héroes de La Sombra del Viento, regresan de nuevo a la aventura para afrontar el mayor desafío de sus vidas. Justo cuando todo empezaba a sonreírles, un...</summary>
+    <link href="../book_1/book_1270.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El profesor</title>
+    <id>calibre:book:2572</id>
+    <updated>2024-09-11T03:29:01Z</updated>
+    <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/El%20profesor%20%282572%29/El%20profesor%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="180 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2015-07-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="El profesor" />
+    <summary>El profesor [1]: León es un joven profesor de literatura en el Liceum Copernicus de Varsovia. Destrozado por su ruptura sentimental, el As de corazones compagina su trabajo con su sueño de convertirse en escritor. Mientras se divierte con otras mujer...</summary>
+    <link href="../book_2/book_2572.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El regreso de Sherlock Holmes</title>
+    <id>calibre:book:2335</id>
+    <updated>2024-09-09T10:34:09Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/El%20regreso%20de%20Sherlock%20Holmes%20%282335%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/El%20regreso%20de%20Sherlock%20Holmes%20%282335%29/El%20regreso%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="329 KB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Intriga" />
+    <category term="Policíaco" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [109]:</summary>
+    <link href="../book_2/book_2335.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Reina del Sur</title>
+    <id>calibre:book:158</id>
+    <updated>2023-01-22T05:58:10Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/La%20Reina%20del%20Sur%20%28158%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/La%20Reina%20del%20Sur%20%28158%29/La%20Reina%20del%20Sur%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="562 KB" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2002-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Nombre: Teresa
+Apellidos: Mendoza Chávez (a.) La Mejicana
+CARACTERÍSTICAS FÍSICAS: Ojos negros. Cabello negro. Sin marcas ni cicatrices. Complexión delgada. Estatura 1,65.
+HISTORIA CRIMINAL: Nacida en Culiacán, Sinaloa (México). Hija de padre español...</summary>
+    <link href="../book_0/book_158.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El sabueso de los Baskerville</title>
+    <id>calibre:book:2333</id>
+    <updated>2024-09-09T10:34:09Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/El%20sabueso%20de%20los%20Baskerville%20%282333%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/El%20sabueso%20de%20los%20Baskerville%20%282333%29/El%20sabueso%20de%20los%20Baskerville%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="218 KB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Intriga" />
+    <category term="Policíaco" />
+    <category term="Clásico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [111]:</summary>
+    <link href="../book_2/book_2333.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Secretos ocultos</title>
+    <id>calibre:book:958</id>
+    <updated>2023-08-01T05:26:10Z</updated>
+    <link href="../../Michael%20Robotham/Secretos%20ocultos%20%28958%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Robotham/Secretos%20ocultos%20%28958%29/Secretos%20ocultos%20-%20Michael%20Robotham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="533 KB" />
+    <author>
+      <name>Michael Robotham</name>
+      <uri>../authors_0/authors_61_Page_1.xml</uri>
+    </author>
+    <published>2020-07-06T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Agatha está embarazada, trabaja a tiempo parcial como reponedora en una tienda de alimentación de los suburbios de Londres, contando los días para que su bebé nazca. Sus turnos de trabajo parecen interminables, lo que hace que cada día aumente más su...</summary>
+    <link href="../book_0/book_958.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El signo de los cuatro</title>
+    <id>calibre:book:2330</id>
+    <updated>2024-09-09T10:34:09Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/El%20signo%20de%20los%20cuatro%20%282330%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/El%20signo%20de%20los%20cuatro%20%282330%29/El%20signo%20de%20los%20cuatro%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="171 KB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [129]:</summary>
+    <link href="../book_2/book_2330.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sin fallos</title>
+    <id>calibre:book:318</id>
+    <updated>2023-02-16T08:42:28Z</updated>
+    <link href="../../Lee%20Child/Sin%20fallos%20%28318%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lee%20Child/Sin%20fallos%20%28318%29/Sin%20fallos%20-%20Lee%20Child.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="593 KB" />
+    <author>
+      <name>Lee Child</name>
+      <uri>../authors_0/authors_224_Page_1.xml</uri>
+    </author>
+    <published>2022-11-30T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Blatt &amp; Ríos</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Jack Reacher" />
+    <summary>Jack Reacher [6]: Se acerca el invierno y a Jack Reacher lo buscan desde el corazón mismo del poder: el Servicio Secreto de los Estados Unidos lo necesita. La misión es tan secreta como urgente, y el más mínimo fallo puede poner en riesgo la democrac...</summary>
+    <link href="../book_0/book_318.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El valle del terror</title>
+    <id>calibre:book:2336</id>
+    <updated>2024-09-09T10:34:10Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/El%20valle%20del%20terror%20%282336%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/El%20valle%20del%20terror%20%282336%29/El%20valle%20del%20terror%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="215 KB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Intriga" />
+    <category term="Policíaco" />
+    <category term="Clásico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [112]:</summary>
+    <link href="../book_2/book_2336.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Venganza</title>
+    <id>calibre:book:1673</id>
+    <updated>2024-07-17T11:56:50Z</updated>
+    <link href="../../Benjamin%20Black/Venganza%20%281673%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benjamin%20Black/Venganza%20%281673%29/Venganza%20-%20Benjamin%20Black.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="289 KB" />
+    <author>
+      <name>Benjamin Black</name>
+      <uri>../authors_1/authors_1100_Page_1.xml</uri>
+    </author>
+    <published>2012-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Quirke" />
+    <summary>Quirke [5]: Los Delahaye y los Clancy comparten una historia de alianza y ambición que pasa de padres a hijos. Y ahora, también de muerte y preguntas sin respuesta: ¿Por qué Victor Delahaye iba a necesitar a un testigo para suicidarse? El doctor Quir...</summary>
+    <link href="../book_1/book_1673.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tags_0/tags_2_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 3)" />
+  <link href="../tags_0/tags_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 3)" />
+</feed>

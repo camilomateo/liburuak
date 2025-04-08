@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1380</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4b8b93e-964d-4d27-85e9-8b4cdad5dea4</dc:identifier>
+        <dc:title>Al otro lado</dc:title>
+        <dc:creator opf:file-as="Marc Betriu" opf:role="aut">Marc Betriu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;«He conocido a otros como usted. Se implican tanto que se hacen matar. No les importa el peligro, al revés, les gusta, les motiva. Para tipos como usted tiene que haber un final, bueno o malo, pero tiene que haber un final». Durante la Guerra Civil, Mastreta, un hombre de pasado oscuro, es reclutado a la fuerza por el servicio de inteligencia del gobierno republicano para encargarse de una delicada misión: recuperar una filmación, en manos de un traidor ruso, en la que se muestran las ejecuciones masivas de prisioneros nacionales. Su publicación podría tener desfavorables efectos publicitarios para el bando republicano. En San Sebastián, tomada meses atrás por las tropas nacionales, y bajo una identidad ficticia, Mastreta contacta con Frederika Heinz, una joven y atractiva agente alemana a quien el gobierno de su país ha enviado al frente de una expedición para intermediar en la obtención de la filmación. Frederika es una mujer independiente y de comportamiento demasiado liberal para lo que están acostumbrados los militares españoles del bando Nacional. En la guerra de propaganda, conseguir la filmación de las ejecuciones del bando republicano y publicarla puede ser el golpe de efecto necesario para castigar a la República y tapar la mala imagen internacional que ha provocado el bombardeo de Guernica. Mastreta y Frederika inician un flirteo al que no serán ajenos diversos azares. La trama se complicará con un peligrosísimo doble juego: la misión de Mastreta no es lo que parece, y la de Frederika, tampoco.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467069280</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Ih-iEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:30:04.283834+00:00"/>
+        <meta name="calibre:title_sort" content="Al otro lado"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

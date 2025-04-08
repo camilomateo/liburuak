@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">afcbd275-87cb-47e5-b907-339eebcc59ff</dc:identifier>
+        <dc:title>Alrededores del ser</dc:title>
+        <dc:creator opf:file-as="Vattimo, Gianni" opf:role="aut">Gianni Vattimo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;Los textos que componen este volumen son variaciones sobre un único tema, el tema de una filosofía que se ejerce sobre todo mediante la puesta a prueba de aquellas perspectivas que siguen las pautas de las ocasiones. El tipo de filosofía que yo cultivo -puedo decir mi pensamiento"-, está más bien regido por una lógica de la conversación que por una lógica argumentativa cerrada. No obstante, no se "llega" aquí desde ninguna parte, ni tampoco se está siempre vagabundeando por los alrededores, sino que se permanece más bien dentro de un horizonte. Esta es, esencialmente además, nuestra propia relación con el ser, pues tal es la apertura dentro de la cual estamos, poco semejante a una estructura sistemática con inicio, medio y fin. ¿Qué se puede esperar, entonces, de un pensamiento tan inconcluyente como este, de uno que en vez de pensar en concluir quiere precisamente permanecer abierto?" "Si debo recomendar a cualquiera leer este libro, lo haré, pues, apelando a que su lectura puede mejorarle la vida, y quizá no sólo porque pueda proveerle de ciertos materiales para "entretenerse", sino mucho más verosímilmente aún, según el autor al menos, en función de que le puede mejorar la vida porque se la "cambia"; recuérdese que este era para Gadamer el sentido de la experiencia de verdad en el arte: después de la lectura -en este caso- ya no eres el mismo, y hablando hegelianamente no porque hayas perdido algo, sino porque lo has conseguido, has adquirido esa mutación que acaece en el lector…"&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-01-27T10:54:36+00:00"/>
+        <meta name="calibre:title_sort" content="Alrededores del ser"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

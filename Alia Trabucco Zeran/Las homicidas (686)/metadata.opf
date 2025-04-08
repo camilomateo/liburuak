@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e972d5d9-c379-40d8-b0ad-7f58ad31ea16</dc:identifier>
+        <dc:title>Las homicidas</dc:title>
+        <dc:creator opf:file-as="Alia Trabucco Zerán" opf:role="aut">Alia Trabucco Zerán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-23T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Este provocador e inquietante libro es el resultado de años de 
+investigación sobre los crímenes cometidos por cuatro mujeres chilenas 
+(Corina Rojas, Rosa Faúndez, María Carolina Geel y María Teresa Alfaro),
+ y sobre cómo la sociedad, los medios de comunicación y el poder 
+reaccionaron frente a quienes transgredieron violentamente el espacio 
+doméstico y pasivo que se les había asignado.&lt;/p&gt;&lt;p&gt;Tras quedar finalista del Man Booker International con &lt;span class="a-text-italic"&gt;La resta&lt;/span&gt;, su primera novela, con &lt;span class="a-text-italic"&gt;Las homicidas&lt;/span&gt;,
+ una obra vibrante y profunda, Alia Trabucco Zerán cuestiona 
+radicalmente aquello que hemos asumido como normal y suma su nombre al 
+nuevo panorama de la literatura latinoamericana.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-16T06:56:22.701299+00:00"/>
+        <meta name="calibre:title_sort" content="homicidas, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

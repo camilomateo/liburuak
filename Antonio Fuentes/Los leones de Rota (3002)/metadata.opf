@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3002</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13a46a5e-7a72-405b-a901-83951fd413c1</dc:identifier>
+        <dc:title>Los leones de Rota</dc:title>
+        <dc:creator opf:file-as="Fuentes, Antonio" opf:role="aut">Antonio Fuentes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-21T00:00:00+00:00</dc:date>
+        <dc:description>Una impactante novela que narra la increíble historia real de una centuria falangista que asoló las sierras de Andalucía durante la Guerra Civil.Andalucía, 1936. Antonio «el Gaseosa» es un hombre de ideales republicanos, casado y con un hijo, que tras la sublevación franquista logra sobrevivir al ingresar en un grupo de falangistas conocido como Los Leones de Rota.Esta centuria formada por ladrones, asesinos, señoritos, pescadores, campesinos e izquierdistas «recuperables» se dedica al crimen, el robo y la violencia por las sierras andaluzas en una sanguinaria campaña de terror exaltada por el Nuevo Estado, que encumbra a Los Leones y a su líder, Fernando Zamacola, como los primeros héroes del bando nacional.Mientras Antonio presencia esta barbarie, Los Leones se unirán a las fuerzas fascistas italianas y a los nazis alemanes para conquistar Málaga, Córdoba y Badajoz. Pero, ¿qué sucederá cuando Antonio deba decidir entre su vida o la lucha a muerte contra los...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-12T08:08:40.075242+00:00"/>
+        <meta name="calibre:title_sort" content="leones de Rota, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

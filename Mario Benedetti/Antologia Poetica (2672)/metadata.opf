@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2672</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d941195f-5e18-4f2d-be39-5731e461619a</dc:identifier>
+        <dc:title>Antología Poética</dc:title>
+        <dc:creator opf:file-as="Benedetti, Mario" opf:role="aut">Mario Benedetti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1979-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Mario Benedetti es uno de los escritores más leídos de nuestro idioma. Su obra literaria más de sesenta libros, traducidos a veinticinco lenguas abarca distintos géneros: la novela, el cuento, la poesía, el ensayo. Ha ejercido también la crítica literaria y el periodismo; es autor de teatro y algunos de sus poemas, transformados en letras de canciones, integran el repertorio de conocidos intérpretes, como Joan Manuel Serrat, Daniel Viglietti y Nacha Guevara, entre otros. Este libro, aporte de EPL, contempla dos obras importantes de Benedetti: Antología Poética con recopilación, introducción y ensayo de Pedro Orgambide. También abarca la poesía de: "La vida ese paréntesis" editado en 1998. Mas de 200 poesías imprescindibles de Benedetti. Benedetti nació el 14 de septiembre de 1920, en Paso de los Toros, Departamento de Tacuarembó, República Oriental del Uruguay. Tenía cuatro años cuando su padre, químico de profesión, fue a vivir con su familia a Montevideo, la ciudad que no sólo es el telón de fondo, el escenario de su literatura, sino también una parte esencial de su biografía. La experiencia de un Montevideo apacible, provinciano y doméstico corresponde a su infancia, a los años en que asistía al colegio alemán, en el cual aprendió el rigor de los números, la pulcritud y los idiomas. En uno de sus primeros poemas evoca ese tiempo. Ahora bien, antes que la literatura fuera, además de su pasión, su medio de vida, Benedetti realizó diferentes aprendizajes. A los catorce años era taquígrafo; más tarde fue vendedor, funcionario público y empleado contable, al igual que Martín Santomé, el protagonista de La tregua, y los personajes de Poemas de la oficina. También fue traductor, trabajó como locutor de radio y se inició como periodista en Marcha, la revista que durante varias décadas dirigió Carlos Quijano, en torno de la cual se nucleaban los más lúcidos intelectuales del Uruguay.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:04:37.365946+00:00"/>
+        <meta name="calibre:title_sort" content="Antología Poética"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

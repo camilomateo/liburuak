@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3025</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">375fc07f-8ac3-4a08-8c10-40f557461f90</dc:identifier>
+        <dc:title>De Saturno a Plutón</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1978-12-31T23:00:00+00:00</dc:date>
+        <dc:description>La invención del telescopio amplió radicalmente los confines celestes de nuestro mundo antiguo. Si Galileo observó en 1610 los anillos de Saturno, cuya estructura explicaría en 1655 Huygens, el descubrimiento de Urano por W. Herschel en 1781, de Neptuno por J. C. Galle en 1846 y de Plutón por C. W. Tombaugh en 1930 completaría el conocimiento de los planetas del sistema solar. ISAAC ASIMOV relata la apasionante historia de estos avances astronómicos y describe los objetos celestes comprendidos en el espacio que se extiende DE SATURNO A PLUTÓN.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Ciencias naturales</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:55.018451+00:00"/>
+        <meta name="calibre:title_sort" content="De Saturno a Plutón"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

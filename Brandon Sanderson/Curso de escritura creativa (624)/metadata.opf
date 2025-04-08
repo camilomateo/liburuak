@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">624</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a42ff931-78d8-4f80-964e-e0fd813f094f</dc:identifier>
+        <dc:title>Curso de escritura creativa</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-25T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;El
+ curso de escritura creativa que Brandon Sanderson lleva casi dos 
+décadas impartiendo en la universidad, por primera vez en formato libro.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;Curso de escritura creativa &lt;/span&gt;convierte
+ en libro las clases que Brandon Sanderson lleva 16 años impartiendo 
+anualmente en la Universidad Brigham Young, donde estudió. Él mismo dice
+ que nunca ha dejado de darlas porque es un recurso que necesita para 
+seguir creciendo como escritor. El curso se centra en los engranajes de 
+la escritura y tiene un enfoque muy práctico; en él nos habla de la 
+trama, la ambientación y los personajes, pero también de la parte 
+empresarial. Sin embargo, no hace falta querer ser un escritor 
+profesional para leer este libro. Su objetivo es ayudar a cualquier 
+lector a comunicarse mejor y crear buenos hábitos para escribir de forma
+ consistente, con los valiosos consejos de uno de los mayores creadores 
+de nuestro siglo.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;«Os animo a que utilicéis este curso del modo que más os ayude a lograr vuestros objetivos.» Brandon Sanderson&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466671903</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42+00:00"/>
+        <meta name="calibre:title_sort" content="Curso de escritura creativa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

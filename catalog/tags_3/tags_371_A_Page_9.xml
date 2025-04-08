@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por A</title>
+  <id>Calibre2opds:taglist:L:371:A</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_371_A_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por A" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <link href="./tags_371_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:es" />
+  <link href="./tags_371_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por A" />
+  <entry>
+    <title>Los años del silencio</title>
+    <id>calibre:book:296</id>
+    <updated>2023-02-10T03:54:52Z</updated>
+    <link href="../../Alvaro%20Arbina/Los%20anos%20del%20silencio%20%28296%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alvaro%20Arbina/Los%20anos%20del%20silencio%20%28296%29/Los%20anos%20del%20silencio%20-%20Alvaro%20Arbina.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="700 KB" />
+    <author>
+      <name>Álvaro Arbina</name>
+      <uri>../authors_0/authors_204_Page_1.xml</uri>
+    </author>
+    <published>2023-01-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>LA HISTORIA QUE SE RELATA EN ESTE LIBRO ESTÁ INSPIRADA EN HECHOS REALES. SUCEDIÓ EN 1936, EN UN PEQUEÑO PUEBLO EN EL CORAZÓN DEL PAÍS DEL BIDASOA. En una oscura noche de agosto, Josefa Goñi Sagardía, una enigmática mujer embarazada de siete meses, de...</summary>
+    <link href="../book_0/book_296.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Águila de blasón</title>
+    <id>calibre:book:2137</id>
+    <updated>2024-09-06T02:21:21Z</updated>
+    <link href="../../Ramon%20del%20Valle-Inclan/Aguila%20de%20blason%20%282137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ramon%20del%20Valle-Inclan/Aguila%20de%20blason%20%282137%29/Aguila%20de%20blason%20-%20Ramon%20del%20Valle-Inclan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="164 KB" />
+    <author>
+      <name>Ramón del Valle-Inclán</name>
+      <uri>../authors_1/authors_1516_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2137.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Águilas y cuervos</title>
+    <id>calibre:book:929</id>
+    <updated>2023-07-04T02:12:24Z</updated>
+    <link href="../../Pauline%20Gedge/Aguilas%20y%20cuervos%20%28929%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pauline%20Gedge/Aguilas%20y%20cuervos%20%28929%29/Aguilas%20y%20cuervos%20-%20Pauline%20Gedge.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="984 KB" />
+    <author>
+      <name>Pauline Gedge</name>
+      <uri>../authors_0/authors_697_Page_1.xml</uri>
+    </author>
+    <published>2015-11-21T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Pàmies</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tras la conquista del emperador Claudio en el siglo I, las tribus celtas de Albión ven cómo la pax romana los despoja de sus tierras e intenta acabar con una antigua cultura cuyos rituales y ofrendas desagradan al invasor.Los britanos, pueblo de arte...</summary>
+    <link href="../book_0/book_929.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Álgebra recreativa</title>
+    <id>calibre:book:1918</id>
+    <updated>2024-09-05T06:00:43Z</updated>
+    <link href="../../Yakov%20Perelman/Algebra%20recreativa%20%281918%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yakov%20Perelman/Algebra%20recreativa%20%281918%29/Algebra%20recreativa%20-%20Yakov%20Perelman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="964 KB" />
+    <author>
+      <name>Yákov Perelmán</name>
+      <uri>../authors_1/authors_1364_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ciencias" />
+    <category term="exactas" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [22]:</summary>
+    <link href="../book_1/book_1918.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ámbar</title>
+    <id>calibre:book:2796</id>
+    <updated>2025-01-09T08:28:28Z</updated>
+    <link href="../../Nicolas%20Ferraro/Ambar%20%282796%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nicolas%20Ferraro/Ambar%20%282796%29/Ambar%20-%20Nicolas%20Ferraro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="361 KB" />
+    <author>
+      <name>Nicolás Ferraro</name>
+      <uri>../authors_1/authors_1830_Page_1.xml</uri>
+    </author>
+    <published>2024-09-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>PREMIO DASHIELL HAMMETT 2022 A LA MEJOR NOVELA NEGRAUn thriller violento y conmovedor escrito con la rabia y el lirismo de un poeta urbano.Ámbar tiene quince años y, como cualquier adolescente, preferiría comprar ropa, teñirse el pelo de rosa y tonte...</summary>
+    <link href="../book_2/book_2796.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Ángel</title>
+    <id>calibre:book:1140</id>
+    <updated>2024-01-08T09:16:20Z</updated>
+    <link href="../../Sandrone%20Dazieri/El%20Angel%20%281140%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sandrone%20Dazieri/El%20Angel%20%281140%29/El%20Angel%20-%20Sandrone%20Dazieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="620 KB" />
+    <author>
+      <name>Sandrone Dazieri</name>
+      <uri>../authors_0/authors_683_Page_1.xml</uri>
+    </author>
+    <published>2017-02-27T00:22:57Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Colomba y Dante" />
+    <summary>Colomba y Dante [2]: NEGRÍSIMA Tras el éxito internacional de No está solo, vuelve la  inolvidable pareja de investigadores formada por Colomba Caselli y Dante Torre en un electrizante thriller de aterradora actualidad. La muerte llega a Roma a las d...</summary>
+    <link href="../book_1/book_1140.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ángeles y demonios</title>
+    <id>calibre:book:1105</id>
+    <updated>2024-01-08T09:16:12Z</updated>
+    <link href="../../Dan%20Brown/Angeles%20y%20demonios%20%281105%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dan%20Brown/Angeles%20y%20demonios%20%281105%29/Angeles%20y%20demonios%20-%20Dan%20Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Dan Brown</name>
+      <uri>../authors_0/authors_809_Page_1.xml</uri>
+    </author>
+    <published>2011-08-25T07:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Robert Langdon" />
+    <summary>Robert Langdon [1]: Robert Langdon, experto en simbología, es convocado a un centro de investigación suizo para analizar un misterioso signo marcado a fuego en el pecho de un físico asesinado. Allí, Langdon descubre el resurgimiento de una antigua he...</summary>
+    <link href="../book_1/book_1105.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Áyax</title>
+    <id>calibre:book:2428</id>
+    <updated>2024-09-09T10:34:29Z</updated>
+    <link href="../../Sofocles/Ayax%20%282428%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sofocles/Ayax%20%282428%29/Ayax%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="80 KB" />
+    <author>
+      <name>Sófocles</name>
+      <uri>../authors_1/authors_1577_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [258]:</summary>
+    <link href="../book_2/book_2428.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ángel azul</title>
+    <id>calibre:book:2410</id>
+    <updated>2024-09-09T10:34:25Z</updated>
+    <link href="../../Heinrich%20Mann/El%20angel%20azul%20%282410%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Heinrich%20Mann/El%20angel%20azul%20%282410%29/El%20angel%20azul%20-%20Heinrich%20Mann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="213 KB" />
+    <author>
+      <name>Heinrich Mann</name>
+      <uri>../authors_1/authors_1641_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [241]:</summary>
+    <link href="../book_2/book_2410.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ángel de la ciudad</title>
+    <id>calibre:book:489</id>
+    <updated>2023-04-01T02:01:56Z</updated>
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/El%20angel%20de%20la%20ciudad%20%28489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eva%20Garcia%20Saenz%20de%20Urturi/El%20angel%20de%20la%20ciudad%20%28489%29/El%20angel%20de%20la%20ciudad%20-%20Eva%20Garcia%20Saenz%20de%20Urturi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="553 KB" />
+    <author>
+      <name>Eva García Sáenz de Urturi</name>
+      <uri>../authors_0/authors_362_Page_1.xml</uri>
+    </author>
+    <published>2023-03-28T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Kraken" />
+    <summary>Kraken [2]: En una Venecia rodeada de misterio, el inspector Kraken se enfrenta a la encrucijada más compleja de su vida: resolver el pasado o apostar por el futuro.Un espléndido y decadente palazzo arde en una pequeña isla veneciana donde se celebra...</summary>
+    <link href="../book_0/book_489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ángel de la muerte</title>
+    <id>calibre:book:39</id>
+    <updated>2023-01-17T10:23:16Z</updated>
+    <link href="../../Mario%20Escobar/El%20angel%20de%20la%20muerte%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/El%20angel%20de%20la%20muerte%20%2839%29/El%20angel%20de%20la%20muerte%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="511 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2022-12-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Crímenes de Madrid" />
+    <summary>Crímenes de Madrid [4]: Madrid se ha convertido en la ciudad peligrosa. En los barrios se respira un ambiente de miedo y tensión entre las diferentes comunidades. En los barrios altos, los problemas son muy distintos, la corrupción política y los sob...</summary>
+    <link href="../book_0/book_39.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El ángel vacío</title>
+    <id>calibre:book:2627</id>
+    <updated>2024-10-16T09:57:39Z</updated>
+    <link href="../../Reyes%20Martinez/El%20angel%20vacio%20%282627%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Reyes%20Martinez/El%20angel%20vacio%20%282627%29/El%20angel%20vacio%20-%20Reyes%20Martinez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="469 KB" />
+    <author>
+      <name>Reyes Martínez</name>
+      <uri>../authors_0/authors_679_Page_1.xml</uri>
+    </author>
+    <published>2024-09-06T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un thriller enigmático que nos acerca a los rincones más siniestros del alma humana. Una historia tan perversa como difícil de olvidar.
+No apartes la mirada.
+Para la doctora Alicia Prieto, la noche de guardia en el hospital de Gijón está siendo tan t...</summary>
+    <link href="../book_2/book_2627.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El árbol de la ciencia</title>
+    <id>calibre:book:1952</id>
+    <updated>2024-09-05T06:10:24Z</updated>
+    <link href="../../Pio%20Baroja/El%20arbol%20de%20la%20ciencia%20%281952%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pio%20Baroja/El%20arbol%20de%20la%20ciencia%20%281952%29/El%20arbol%20de%20la%20ciencia%20-%20Pio%20Baroja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="290 KB" />
+    <author>
+      <name>Pío Baroja</name>
+      <uri>../authors_1/authors_1396_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_1/book_1952.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tags_3/tags_371_A_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (8 of 9)" />
+  <link href="../tags_3/tags_371_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
+</feed>

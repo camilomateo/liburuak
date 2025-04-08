@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2811</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cca3c5d7-af12-4950-9adb-627beacdabc8</dc:identifier>
+        <dc:title>Sonó un violín en París</dc:title>
+        <dc:creator opf:file-as="Reig, María" opf:role="aut">María Reig</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-03T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Una magnífica novela histórica que nos llevará de viaje por las grandes ciudades europeas de finales del siglo XIX.&lt;/p&gt;
+&lt;p&gt;El escritor don Guillermo Bogarín sonríe satisfecho al pensar en el selecto grupo que ha logrado reunir: ha merecido la pena el trabajo dedicado durante meses a preparar ese tour por Europa. Apenas quedan dos días para el 25 de septiembre de ese año 1893 para que esos nueve viajeros partan de la estación de Lyon en París para recorrer, durante casi dos meses, parte de la Italia recién unificada, algunos territorios de Austria-Hungría y ciertos lugares de las nuevas fronteras del Imperio alemán. Son el arquitecto Jacobo Figueroa y su amigo, el ambicioso empresario Juan Álvarez-Caballero; el intransigente pintor impresionista Ferdinand Mercier, su buena amiga Jeanne Leroy, empresaria teatral de éxito tras la muerte de su marido, a quien acompaña su sobrino, el inconstante Henri Collet; la condesa rusa Karimova; la señora Dupont, propietaria junto a su marido de una editorial de música y promotora de jóvenes talentos de este arte, y Clara Balaguer, virtuosa violinista y una de sus representadas.&lt;/p&gt;
+&lt;p&gt;Don Guillermo conoce bien los motivos que lo llevan a abandonar París durante un tiempo, pero no ha pensado en que los demás también tienen los suyos, que se apartan, y mucho, del simple placer de evadirse. No tardará en enterarse de la peor de las maneras, pues una columna de ecos de sociedad de Le Petit Journal empezará a desvelar los secretos más íntimos del grupo.&lt;/p&gt;
+&lt;p&gt;Con la convulsa Europa de fin de siècle, donde se hallan las claves que ocasionaron las dos guerras mundiales como telón de fondo, María Reig construye con maestría una novela histórica que, con la excusa del viaje recreativo tan habitual en las clases pudientes de finales del siglo XIX, habla de la necesidad de enfrentarnos a nuestros miedos y tomar las riendas de la vida.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-20T10:21:15.946096+00:00"/>
+        <meta name="calibre:title_sort" content="Sonó un violín en París"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

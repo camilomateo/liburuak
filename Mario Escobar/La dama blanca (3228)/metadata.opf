@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">172b10ea-682d-4045-8336-df36305af1a2</dc:identifier>
+        <dc:title>La dama blanca</dc:title>
+        <dc:creator opf:file-as="Escobar, Mario &amp; Royo, Curro" opf:role="aut">Mario Escobar</dc:creator>
+        <dc:creator opf:file-as="Escobar, Mario &amp; Royo, Curro" opf:role="aut">Curro Royo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-19T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En la Galería de Arte Toledo se exponen algunas obras muy valiosas de origen precolombino que Issac Toledo ha reunido para vender al mejor postor. En unos días, la sociedad más selecta de toda Europa estará en su galería para pujar, pero alguien entra por la noche en el edificio y roba una escultura de la diosa maya Ixchel, que había sido descubierto en el su santuario en Isla Mujeres. Una obra similar se había vendido unos meses antes por 4 millones de dólares.&lt;br&gt;La inspectora Débora Fortuny Sánchez acaba de llegar a la Brigada de Patrimonio Histórico, una unidad dedicada a la protección de todos los valores artísticos del país. Algunos consideran que es una enchufada, su padrino es uno de los jefes de la Brigada, Sebastián del Olmo, pero está bajo el mando de Matilde de Dios, esta le asignará de compañero a Jaime Mena, un tipo petulante y mujeriego que se preocupa más de su imagen y ligar que de resolver casos. Débora tendrá que enfrentarse al primer caso de su vida, mientras lidia con su vida personal y busca desesperadamente venganza.&lt;br&gt;&lt;br&gt;Mario Escobar (Madrid, 1971) es historiador y autor de varias novelas de gran éxito, traducidas a veinte idiomas. Las obras sobre La Inspectora Gitana se han convertido en el mayor fenómeno de ventas del thriller español de los últimos años y han consagrado a su autor como uno de los máximos exponentes del género en España.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DVLDNDVS</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="El arte del crímen"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-03-28T14:53:53.835978+00:00"/>
+        <meta name="calibre:title_sort" content="dama blanca, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

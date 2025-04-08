@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1560</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f958005-53eb-4c11-a1c3-f012f5a0da7f</dc:identifier>
+        <dc:title>Durante la nevada</dc:title>
+        <dc:creator opf:file-as="Roso, Luis" opf:role="aut">Luis Roso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-07T22:00:00+00:00</dc:date>
+        <dc:description>En las Navidades del año 1968, el cuerpo de la joven Rebeca Sanromán fue hallado en una laguna helada en las inmediaciones de un pequeño pueblo de montaña al norte de Burgos, sin que se hallara nunca al responsable de su asesinato. Diez años después, dos reporteros de un diario provincial viajan hasta el lugar para escribir un artículo sobre el crimen: Miguel, un periodista de raza, formado en los años más oscuros del franquismo, y Esmeralda, una joven idealista criada a la sombra de su estricto padre. La investigación periodística, que se preveía anodina, pronto se convertirá en una compleja trama en la que Miguel y Esmeralda verán peligrar sus carreras profesionales y hasta sus propias vidas, mientras que el país entero bulle por los vertiginosos cambios políticos y la violencia desatada en los primeros años de la Transición democrática.</dc:description>
+        <dc:publisher>Alrevés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:47.111033+00:00"/>
+        <meta name="calibre:title_sort" content="Durante la nevada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

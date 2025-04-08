@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">702</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d40b429-1daa-4c3d-b49f-ac6da62bdf97</dc:identifier>
+        <dc:title>El hilo que une</dc:title>
+        <dc:creator opf:file-as="Ahmari, Sohrab" opf:role="aut">Sohrab Ahmari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-21T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A la hora de formar la fibra moral de su hijo pequeño, el conocido editor del New York Post percibe una lamentable carencia. Durante milenios, las grandes tradiciones éticas y religiosas del mundo han enseñado que la verdadera felicidad consiste en perseguir la virtud y aceptar los límites. Pero ahora, desvinculados de estas obstinadas tradiciones, somos libres de elegir el modo de vida que consideremos más óptimo, ordinariamente el más fácil: nuestra civilización parece capaz de concedernos todos nuestros deseos. El resultado es una sociedad desgarrada por profundos confictos y unas vidas individuales que, a pesar de su aparente libertad, están marcadas por la alienación y la infelicidad. Ahmari ofrece doce preguntas fundamentales e intemporales que desafían nuestras certezas modernas. Nos invita así a examinar los móviles de nuestro comportamiento, y a vivir de forma más humana en un mundo que parece haber perdido el rumbo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Rialp, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432161346</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:13.637159+00:00"/>
+        <meta name="calibre:title_sort" content="hilo que une, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

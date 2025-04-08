@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">811</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cb5478f-7730-4764-ab29-ef7a161db867</dc:identifier>
+        <dc:title>Gladiadoras</dc:title>
+        <dc:creator opf:file-as="Juan Tranche" opf:role="aut">Juan Tranche</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;En la arena luchaban por su vida. En Roma luchaban por defender aquello en lo que creían.Juntas demostraron que todo es posible.&lt;/p&gt;
+&lt;p&gt;Año 124 d. C. Helena y Valeria son dos jóvenes romanas procedentes de mundos muy distintos: una esclava, la otra noble. Sin embargo, ambas tienen que tomar decisiones que ponen a prueba su valentía. Cuando el emperador Adriano se enamora del esclavo Antinoo, el gran amor de Helena, la joven se ve obligada a convertirse en la mejor gladiadora de todos los tiempos, algo nunca visto para los romanos, y así tratar de acercarse a Antinoo. Por su parte, Valeria, hija de un abogado de renombre, sueña con vencer al destino que le espera como esposa y madre en una época gobernada por la voluntad de los hombres.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Año 131 d. C. El pueblo de Roma celebra el combate de gladiadoras más increíble que jamás se haya visto. Movidas por el anhelo de libertad y la venganza, dos mujeres se enfrentan en un duelo definitivo. El duelo de la eternidad.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Juan Tranche (Madrid, 1979) lleva más de veinte años vinculado al sector editorial, compaginando su trabajo con el estudio de la Antigua Roma. Durante los últimos años ha participado en diferentes medios y ha dado conferencias para hablar sobre su gran pasión, el mundo de los gladiadores y gladiadoras. En 2021 publicó su primera novela: Spiculus, dos gladiadores enfrentados a muerte en la Roma de Nerón. --This text refers to the hardcover edition.&lt;/p&gt;
+&lt;h3&gt;Book Description&lt;/h3&gt;
+&lt;p&gt;En la arena luchaban por su vida. En Roma luchaban por defender aquello en lo que creían. Juntas demostraron que todo es posible. --This text refers to the hardcover edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408274797</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0C38BRVBT</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Qe-6EAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-06T06:14:10.169533+00:00"/>
+        <meta name="calibre:title_sort" content="Gladiadoras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

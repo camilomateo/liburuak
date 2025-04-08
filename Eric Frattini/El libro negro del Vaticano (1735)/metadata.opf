@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">957eec6a-90e6-4e9e-b461-2d10cd0c1428</dc:identifier>
+        <dc:title>El libro negro del Vaticano</dc:title>
+        <dc:creator opf:file-as="Frattini, Eric" opf:role="aut">Eric Frattini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Frattini desvela los secretos de la política de la Santa Sede, desde 1939 hasta la actualidad.&lt;/p&gt;
+&lt;p&gt;El libro negro del Vaticano recoge el punto de vista de la CIA sobre las posiciones de la Santa Sede en diversos asuntos internacionales que abarcan desde 1944 hasta nuestros días, desde el pontificado de Pío XII al de Francisco. &lt;br&gt;&lt;br&gt;Esta obra demuestra claramente que, además de dirigir la doctrina católica, el Vaticano ha influído en la política de las naciones y por lo tanto se ha convertido en una importante fuerza política. &lt;br&gt;&lt;br&gt;«Todos los caminos llevan a Roma» dice la tradición, y analizando los acontecimientos políticos y diplomáticos de los últimos seis papados, está cada vez más claro que todos los caminos, desde 1939, llevan al «Vaticano».&lt;br&gt;&lt;br&gt;Este poder e influencia llevó a la CIA a convertir la Santa Sede, los papas, cardenales, obispos y demás funcionarios eclesiásticos, en «objetivos» susceptibles de ser espiados porque, como dijo un día el famoso cazanazis Simon Wiesenthal, «el lugar mejor informado del planeta es sin duda el Vaticano», y la Agencia Central de Inteligencia lo sabe. &lt;br&gt;El libro negro del Vaticano  contiene más de 300 documentos bajo clasificación de «Secreto», «Alto Secreto» y «Restringido»: cables, mensajes e informes de la Ofi cina de Servicios Estratégicos (OSS), del Cuerpo de Contrainteligencia (CIC) del Ejército de los Estados Unidos y de la CIA, en los que se revelan por vez primera incómodos asuntos vaticanos demasiado «secretos» y que abarcan los papados de seis Sumos Pontífices, Pío XII (1939-1958), Juan XXIII (1958-1963), Pablo VI (1963-1978), Juan Pablo II (1978-2005), Benedicto XVI (2005-2013) y Francisco (2013-).  &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B019K87DLQ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-08T14:59:25.338618+00:00"/>
+        <meta name="calibre:title_sort" content="libro negro del Vaticano, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

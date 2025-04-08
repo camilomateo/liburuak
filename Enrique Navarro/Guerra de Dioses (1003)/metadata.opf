@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1003</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca12f9ce-5a8f-4f4c-9d7d-25f93a61d897</dc:identifier>
+        <dc:title>Guerra de Dioses</dc:title>
+        <dc:creator opf:file-as="Navarro, Enrique" opf:role="aut">Enrique Navarro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Salvador Ginés, exoficial de la Legión, se verá envuelto en una&lt;br&gt;conspiración global que pretende detener el progresismo con un golpe definitivo a las ideologías y regímenes políticos que han abandonado los principios religiosos y morales tradicionales. Dos formas de entender el mundo están a punto de llevar al planeta a otra guerra si es necesaria para la victoria&lt;br&gt;definitiva. Un apasionante relato que nos llevará por los focos calientes de&lt;br&gt;los tiempos que nos han tocado vivir.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Enrique ha estado vinculado al mundo de la geoestrategia y tecnología desde elcomienzo de su carrera profesional en el Ministerio de Defensa hasta la actualidad. Hasido miembro en los últimos treinta años de los think tanks más reconocidos a nivelinternacional en relaciones internacionales y seguridad, y ha publicado varios librossobre economía de defensa; es colaborador habitual de Libertad Digital, Infodefensa yla revista Defensa, así como en diversas cadenas de televisión. Ha desarrolladoproyectos empresariales en varios países y en la actualidad es consultor de variasfirmas internacionales de ingeniería y aeroespaciales. En el campo de la novela, haescrito La presencia de España en el sitio de Malta, premio de novela corta delMinisterio de Defensa en 1999, y Cristóforo, que relata en clave de ficción los primerosaños de Colón y el final de la presencia judía. --Este texto se refiere a la edición paperback.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Universo de Letras</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419389022</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-27T13:12:56+00:00"/>
+        <meta name="calibre:title_sort" content="Guerra de Dioses"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

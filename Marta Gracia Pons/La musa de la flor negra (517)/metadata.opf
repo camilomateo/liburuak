@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5681a726-469f-4463-a7f1-4f00b40af15e</dc:identifier>
+        <dc:title>La musa de la flor negra</dc:title>
+        <dc:creator opf:file-as="Pons, Marta Gracia" opf:role="aut">Marta Gracia Pons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Madrid, 1877. La joven Celia Gross trabaja en la exclusiva confitería La Perla, encargada de elaborar los postres de la boda del rey Alfonso XII. A causa de la precaria situación económica de su familia, Celia se casa con un comerciante austríaco, un viejo amigo de los Gross. Juntos emprenden un viaje a la isla Reunión, donde la joven descubrirá la preciada vainilla Bourbony sus múltiples virtudes. Las circunstancias adversas obligan a Celia a regresar a Europa, donde hará realidad su sueño de formarse en las mejores pastelerías de Viena y descubrirá las misteriosas circunstancias de la muerte de su padre.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva Ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Marta Gracia Pons&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:39:59.737498+00:00"/>
+        <meta name="calibre:title_sort" content="musa de la flor negra, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

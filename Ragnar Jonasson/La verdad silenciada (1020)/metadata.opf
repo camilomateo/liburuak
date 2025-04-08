@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1020</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edadf70d-0759-4eb7-a0d7-0adcc26c7ae5</dc:identifier>
+        <dc:title>La verdad silenciada</dc:title>
+        <dc:creator opf:file-as="Jónasson, Ragnar" opf:role="aut">Ragnar Jónasson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Asesinar a un policía es siempre algo personal. En medio de la noche polar azotada por el viento y la lluvia, Herjólfur, el nuevo inspector jefe de la policía de Siglufjördur, es asesinado a sangre fría en una casa abandonada a las afueras de la ciudad. ¿Qué lo llevó allí a esa hora, a ese lugar sobre el que se cuentan desde hace años misteriosas historias? Ari Thór iniciará una investigación al lado de Tómas, su antiguo superior, quien viaja desde Reikiavik para apoyarle en la búsqueda del asesino: ¿a quién puede beneficiar la muerte de un policía? ¿Y acaso no tienen muchos de los habitantes del pueblo una buena razón para querer sembrar el caos? Elín, que huye de un pasado violento; Gunnar, el alcalde, que esconde antiguos secretos... Para armar el rompecabezas, Ari Thór también deberá escuchar una voz que le susurra, oculta tras los muros de un hospital psiquiátrico, y que quizá tenga la clave del enigma. La verdad silenciada es «un intenso y adictivo Cluedo», (Le Parisien), además del «atmosférico retrato de un pueblo claustrofóbico en el que todos están conectados» (The Guardian); la fascinante penúltima entrega de la sextalogía Islandia Negra, una serie de «lectura obligatoria», (New York Post), de la mano de Ragnar Jónasson, el autor islandés del momento y «uno de los grandes de la negra nórdica», ( Magazine de La Vanguardia). «No dejen de leerla» (J. Ernesto Ayala-Dip, Diario Vasco).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">2MzGEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788432242403</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Islandia Negra"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2023-09-12T17:25:20.852671+00:00"/>
+        <meta name="calibre:title_sort" content="verdad silenciada, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">777</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">caf30bdd-21be-4792-ad91-5be9ed6f4237</dc:identifier>
+        <dc:title>Donde fuimos invencibles</dc:title>
+        <dc:creator opf:file-as="Oruña, María" opf:role="aut">María Oruña</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;El verano está terminando y la teniente Valentina Redondo está contando los días para empezar sus vacaciones. Pero algo insólito sucede en el centro mismo del pueblo costero de Suances: el jardinero del antiguo Palacio del Amo ha aparecido muerto en el césped de esa enigmática propiedad.&lt;/span&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px;"&gt;El palacio es una de las casonas con más historia de los alrededores, y después de permanecer mucho tiempo deshabitada, el escritor americano Carlos Green, heredero de la propiedad, ha decidido instalarse temporalmente en el lugar donde vivió sus mejores veranos de juventud. Pero la paz que buscaba se verá truncada por el terrible suceso, y aunque todo apunta a una muerte por causas naturales, parece que alguien ha tocado el cadáver, y Carlos confiesa que en los últimos días ha percibido presencias inexplicables a la razón.&lt;/p&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px;"&gt;A pesar de que Valentina es absolutamente escéptica en torno a lo paranormal, tanto ella como su equipo, e incluso su pareja, Oliver, se verán envueltos en una sucesión de hechos insólitos que les llevarán a investigar lo sucedido de la forma más extravagante y anómala, descubriendo que algunos lugares guardan un sorprendente aliento atemporal y secreto y que todos los personajes tienen algo que contar y ocultar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Los libros de puerto escondido"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-05-25T11:32:55+00:00"/>
+        <meta name="calibre:title_sort" content="Donde fuimos invencibles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

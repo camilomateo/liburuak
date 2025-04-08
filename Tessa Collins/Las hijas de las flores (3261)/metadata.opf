@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a504060f-d4a0-4bde-a372-b8a6c2293e8d</dc:identifier>
+        <dc:title>Las hijas de las flores</dc:title>
+        <dc:creator opf:file-as="Collins, Tessa" opf:role="aut">Tessa Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-20T00:00:00+00:00</dc:date>
+        <dc:description>La nueva saga que las lectoras de «Las Siete Hermanas» no pueden perderse. Cinco primas, cinco continentes, cinco flores.Y un secreto guardado durante décadas.El 85 cumpleaños de Rose reúne a toda la familia en la finca familiar de Cornualles, junto a los viveros de Blooming Hall. Es el primer aniversario que Rose celebra sin su amado esposo Albert, pero gracias a sus hijas y nietas pasa un día entrañable. Rose recuerda especialmente a su hija Camelia, la madre de Dalia, que murió al dar a luz y piensa en el secreto que guarda desde hace tanto tiempo. Sabe que la reunión familiar sería el momento ideal para compartirlo, pero no tiene el coraje para hacerlo. Seis meses después la familia se reúne de nuevo, esta vez para el funeral de Rose.Dalia, que creció con sus abuelos, sufre mucho su ausencia y cuando se sincera con sus primas descubre que no es la única que se encuentra perdida y sola: Magnolia está muy preocupada por su madre, que padece depresión desde hace años; Soley no...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-07T20:12:25.492130+00:00"/>
+        <meta name="calibre:title_sort" content="hijas de las flores, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

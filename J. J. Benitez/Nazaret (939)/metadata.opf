@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">939</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ec4c12b-7729-44de-82eb-0ded97430004</dc:identifier>
+        <dc:title>Nazaret</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-27T06:00:00+00:00</dc:date>
+        <dc:description>El mayor de la USAF reconstruye una de las más oscuras y fascinantes etapas del que fue carpintero, jefe de un almacén de aprovisionamiento de caravanas, maestro, forjador e impenitente viajero. Todo un período —de los catorce a los veintiséis años— decisivo para comprender en su justa medida la experiencia humana del Hijo de Dios.</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408004653</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Caballo de Troya"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2023-07-07T11:51:20.332792+00:00"/>
+        <meta name="calibre:title_sort" content="Nazaret"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

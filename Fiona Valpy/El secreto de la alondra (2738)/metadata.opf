@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2738</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47b7ea50-a28b-45ae-868e-0fd3756f2041</dc:identifier>
+        <dc:title>El secreto de la alondra</dc:title>
+        <dc:creator opf:file-as="Valpy, Fiona" opf:role="aut">Fiona Valpy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una aldea en las Tierras Altas que no es el lugar idílico que parecía; una joven que busca la felicidad; un pasado que atormentará a su hija. &lt;/p&gt;
+&lt;p&gt;Loch Ewe, 1940. Flora vive en una remota aldea de montaña que, de un día para otro, se convierte en una base militar de la Royal Navy. La comunidad, antes unida, verá como todo cambia para siempre. También su vida, pues se enamora de ella el hijo del laird, y ella no es más que la hija del guarda de la finca…Décadas después, Lexie Gordon, la hija de Flora, se ve obligada a volver a la casa y a la aldea donde creció. A pesar de que en Londres nunca se sintió en su hogar, pronto se dará cuenta de que su madre no se lo había contado todo sobre su pasado y de que el pueblo le resulta hostil, sin saber por qué. Según pase el tiempo, irá descubriendo la historia de sus padres, los enormes sacrificios que tuvieron que hacer por ella… Cosas de las que su madre no le habló nunca. ¿Será Lexie capaz de perdonar el pasado y encontrar su lugar en el mundo?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libros de Seda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-11T07:34:18.902731+00:00"/>
+        <meta name="calibre:title_sort" content="secreto de la alondra, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

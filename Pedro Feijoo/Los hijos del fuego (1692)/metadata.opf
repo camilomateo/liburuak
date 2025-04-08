@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1692</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7360cd65-5f67-4cd3-ad74-7afba1bf7183</dc:identifier>
+        <dc:title>Los hijos del fuego</dc:title>
+        <dc:creator opf:file-as="Pedro Feijoo" opf:role="aut">Pedro Feijoo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-13T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description" style="text-align: justify;"&gt;En determinadas situaciones, la vida de una persona puede cambiar para siempre. Presenciar un asesinato es una de ellas. La Puerta del Sol es una fiesta. Entre risas, alboroto, en la plaza abarrotada de gente solo unos pocos conocen lo que está a punto de suceder. Pero una cosa es segura: ninguno de los asistentes olvidará jamás esta tarde de domingo. Un disparo camuflado en el jaleo, el alcalde que se echa la mano al pecho antes de caer, y ahí está, el comienzo de una investigación que nos llevará dos siglos atrás, persiguiendo las sombras del barrio viejo, escuchando los silencios de una ciudad llena de preguntas incómodas, calles de señales olvidadas, e imá- genes que no son lo que aparentan. Regresan los personajes de Los hijos del mar, la novela que dio a conocer a Pedro Feijoo, para enfrentarse a una de las intrigas mejor protegidas en la historia de la ciudad: la de su propia fundación. Al fin y al cabo, los mejores secretos siempre son los que se ocultan ahí, en ese lugar a la vista de todos...&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">plglDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B071J8M9XN</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788490697603</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:46.436265+00:00"/>
+        <meta name="calibre:title_sort" content="Los hijos del fuego"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

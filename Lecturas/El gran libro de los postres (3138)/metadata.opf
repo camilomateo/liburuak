@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca975edc-3ef7-492d-8fea-0c75c3f1db5e</dc:identifier>
+        <dc:title>El gran libro de los postres</dc:title>
+        <dc:creator opf:file-as="Lecturas" opf:role="aut">Lecturas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <dc:subject>cocina</dc:subject>
+        <meta name="calibre:timestamp" content="2025-03-06T16:55:33.095000+00:00"/>
+        <meta name="calibre:title_sort" content="gran libro de los postres, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

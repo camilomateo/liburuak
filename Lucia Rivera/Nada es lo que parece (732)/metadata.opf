@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">732</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23e66597-5ecc-4822-93b9-53887f54da68</dc:identifier>
+        <dc:title>Nada es lo que parece</dc:title>
+        <dc:creator opf:file-as="Lucía Rivera" opf:role="aut">Lucía Rivera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-26T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Lucía Rivera es una de nuestras modelos nacionales e internacionales más reconocidas. Desde pequeña ha sido testigo del interés mediático hacia su familia y ha estado rodeada por la fama. Sin embargo, no todo ha sido fácil en su vida. Y eso es lo que cuenta en este libro: un nacimiento con dificultades, una vida escolar complicada, su entrada en el mundo de la moda —en el que nada es lo que parece— y muchas cosas más. Un testimonio sincero que servirá de inspiración a muchos jóvenes de nuestros días.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467068979</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">122769284</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0BSS2Z5LZ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:40:54.827661+00:00"/>
+        <meta name="calibre:title_sort" content="Nada es lo que parece"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

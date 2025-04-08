@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1615</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2049e5c-290c-404c-8ed5-55ff1381256e</dc:identifier>
+        <dc:title>Dieciocho meses y un día</dc:title>
+        <dc:creator opf:file-as="Castelló, Paz" opf:role="aut">Paz Castelló</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-04T23:00:00+00:00</dc:date>
+        <dc:description>&lt;span itemprop="description"&gt;Dieciocho meses y un día es el tiempo que 
+Sabina Lamer, una afamada pintora afincada en Peñíscola, lleva encerrada
+ en el ático donde vive. Sufre de una grave agorafobia, fruto del estrés
+ postraumático que desarrolló tras ser la única testigo del asesinato de
+ su mejor amiga, en plena calle, a manos de su ex marido.&lt;br&gt;
+Desde aquel momento, Sabina es incapaz de cruzar el umbral de la puerta 
+de su casa, que también es su estudio, desde donde contempla el mar y 
+las calles del casco antiguo de Peñíscola, ciudad que eligió para 
+desarrollar su carrera profesional.&lt;br&gt;
+Está convencida de que cuando el asesino de su amiga, en prisión 
+provisional a la espera de juicio, esté encerrado para siempre, será 
+capaz de superar su angustia y podrá salir de casa, por fin, para volver
+ a pintar el mar Mediterráneo que tanto ama y retomar su tranquila vida 
+en aquel paraíso de la costa mediterránea.&lt;br&gt;
+Sin embargo, el presunto asesino queda en libertad y Sabina enloquece 
+aún más entre las cuatro paredes de su estudio. A partir de ese momento,
+ la obsesiva y recurrente idea de Sabina, es la de hacer justicia, 
+desamparada como se siente por el sistema judicial, buscando la forma de
+ vengar la muerte de su amiga, con la dificultad añadida de no poder 
+salir de casa.&lt;br&gt;
+Para conseguirlo tendrá que enfrentarse a sí misma, a sus miedos, y a 
+los condicionamientos que su encierro le plantean, convirtiendo su 
+claustrofóbica vida en un medio para escapar de sí misma.&lt;/span&gt;</dc:description>
+        <dc:publisher>Umbriel</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0798VKBHN</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Narrativa</dc:subject>
+        <meta name="calibre:timestamp" content="2024-06-02T09:00:02.072616+00:00"/>
+        <meta name="calibre:title_sort" content="Dieciocho meses y un día"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

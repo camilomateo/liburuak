@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">124</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0b441f4-5651-438d-81fa-276433eb70a7</dc:identifier>
+        <dc:title>El palacio de la mala suerte</dc:title>
+        <dc:creator opf:file-as="Garbantes, Raúl" opf:role="aut">Raúl Garbantes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;El esposo de Diana, Alex, se ve involucrado en un accidente de carretera al atropellar a un niño. Alex lleva al niño al hospital. Cuando Diana llega al hospital, no puede localizar a su esposo y también se entera de que el niño del accidente ha muerto. En el proceso de encontrar a su esposo, Diana sufre un ataque en la autopista que ocasiona que su vehículo pierda el control. Diana queda atrapada en su auto, pero en su auxilio llega el doctor Bernard Heffner. Al parecer el doctor tiene respuestas a las incógnitas de Diana, pero hay una noticia aterradora: los que intentaron matarla, ahora van tras su sobrina Mina. ¿Podrá Diana descubrir quién está detrás de este plan antes que sea demasiado tarde?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Raúl Garbantes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Mujer en apuros"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:35.065807+00:00"/>
+        <meta name="calibre:title_sort" content="palacio de la mala suerte, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

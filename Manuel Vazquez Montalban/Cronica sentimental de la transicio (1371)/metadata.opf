@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1371</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c400608-1c67-4548-ad0c-8343d66951c0</dc:identifier>
+        <dc:title>Crónica sentimental de la transición</dc:title>
+        <dc:creator opf:file-as="Montalbán, Manuel Vázquez" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-20T08:50:46+00:00</dc:date>
+        <dc:description>&lt;div&gt;Crónica sentimental de la transición consistió, en su origen, en 
+una serie de entregas publicadas semanalmente para el suplemento 
+dominical de El País entre el 6 de enero y el 4 de agosto de 1985, año 
+de la publicación de su primera edición.&lt;br&gt;El propósito de la obra fue,
+ en palabras de su autor, reflejar "con hechos de la vida cotidiana, la 
+evolución de la sentimentalidad de la gente, la evolución del tono moral
+ desde la sociedad paternalista y autoritaria hasta, quizá, la búsqueda 
+de un nuevo padre, un padre democrático". Un documento clave para 
+entender la transición española, cuyo valor fundamental estriba en el 
+estilo fresco, perspicaz y profundamente crítico que caracterizan la 
+obra de Vázquez Montalbán; esa manera, dice su autor: "en la que alterno
+ canciones, rumores, tópicos y toda clase de sucesos con la descripción 
+de la vida política y cultural de la época".&lt;/div&gt;</dc:description>
+        <dc:publisher>Folch &amp; Folch</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:30:02+00:00"/>
+        <meta name="calibre:title_sort" content="Crónica sentimental de la transición"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

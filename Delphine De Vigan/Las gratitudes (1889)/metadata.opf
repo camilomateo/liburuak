@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1889</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">189f0d1a-fae2-4a39-b5bf-16bd7f2dcab1</dc:identifier>
+        <dc:title>Las gratitudes</dc:title>
+        <dc:creator opf:file-as="Delphine de Vigan" opf:role="aut">Delphine De Vigan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-09T05:00:00+00:00</dc:date>
+        <dc:description>Una bellísima novela sobre la gratitud, sobre lo importante que es poder dar las gracias a aquellos que nos han ayudado en la vida. «Hoy ha muerto una anciana a la que yo quería. A menudo pensaba: 'Le debo tanto.' O: 'Sin ella, probablemente ya no estaría aquí.' Pensaba: 'Es tan importante para mí.' Importar, deber. ¿Es así como se mide la gratitud? En realidad, ¿fui suficientemente agradecida? ¿Le mostré mi agradecimiento como se merecía? ¿Estuve a su lado cuando me necesitó, le hice compañía, fui constante?», reflexiona Marie, una de las narradoras de este libro. Su voz se alterna con la de Jérôme, que trabaja en un geriátrico y nos cuenta: «Soy logopeda. Trabajo con las palabras y con el silencio. Con lo que no se dice. Trabajo con la vergüenza, con los secretos, con los remordimientos. Trabajo con la ausencia, con los recuerdos que ya no están y con los que resurgen tras un nombre, una imagen, un perfume. Trabajo con el dolor de ayer y con el de hoy. Con las confidencias. Y con el miedo a morir. Forma parte de mi oficio.» A ambos personajes –Marie y Jérôme– los une su relación con Michka Seld, una anciana cuyos últimos meses de vida nos relatan estas dos voces cruzadas. Marie es su vecina: cuando era niña y su madre se ausentaba, Michka cuidaba de ella. Jérôme es el logopeda que intenta que la anciana, que acaba de ser ingresada en un geriátrico, recupere aunque sea parcialmente el habla, que va perdiendo por culpa de una afasia. Y ambos personajes se involucrarán en el último deseo de Michka: encontrar al matrimonio que, durante los años de la ocupación alemana, la salvó de morir en un campo de exterminio acogiéndola y ocultándola en su casa. Nunca les dio las gracias y ahora querría mostrarles su gratitud... Escrita con un estilo contenido, casi austero, esta narración a dos voces nos habla de la memoria, el pasado, el envejecimiento, las palabras, la bondad y la gratitud hacia aquellos que fueron importantes en nuestras vidas. Son las respectivas gratitudes las que unen a los tres inolvidables personajes cuyas historias se entrelazan en esta conmovedora y deslumbrante novela.</dc:description>
+        <dc:publisher>Anagrama</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788433942487</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:52.510603+00:00"/>
+        <meta name="calibre:title_sort" content="gratitudes, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

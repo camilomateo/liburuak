@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">753</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca3abfe4-4ee2-4f28-b22b-95c574a70b4e</dc:identifier>
+        <dc:title>El origen de todos los males</dc:title>
+        <dc:creator opf:file-as="Guadarrama Collado, Sofía" opf:role="aut">Sofía Guadarrama Collado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-24T22:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;"El día que mi madre se quitó la vida fue uno de los más felices de mi adolescencia...¿Que si la odiaba? No lo sé... Tampoco sé si la quería. Hay muchas cosas que no sé, que no recuerdo, que no entiendo."&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Renata tiene catorce años y la certeza de que es feliz por la &lt;B&gt;muerte de su madre&lt;/B&gt;: Sabina. Los lectores desconocemos sus impulsos y precisamente esa incógnita es la que nos mantiene enmarañados en esta historia que muestra &lt;B&gt;personajes complejos&lt;/B&gt;, trazados con una pluma que sin duda sabe contar historias.&lt;/P&gt; &lt;P&gt;Sofía Guadarrama Collado muestra de lo que es capaz un ser cuando los celos se convierten en su mayor motivación.&lt;/P&gt; &lt;P&gt;Con esta novela, la autora mexicana confirma que su imaginación está desafiando constantemente las lindes de un universo literario que no puede limitarse a un género novela histórica, ciencia ficción, biografía novelada, &lt;I&gt;&lt;B&gt;thriller&lt;/B&gt;&lt;/I&gt; &lt;B&gt;histórico&lt;/B&gt;. Sofía ya cuentacon nuestra atención y complicidad lectora.&lt;/P&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janes</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073818513</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-22T15:06:52.222630+00:00"/>
+        <meta name="calibre:title_sort" content="origen de todos los males, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

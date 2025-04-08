@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1795</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7921d057-4d1f-4e16-ae11-185dd73ce8cb</dc:identifier>
+        <dc:title>Pan casero</dc:title>
+        <dc:creator opf:file-as="Yarza, Ibán" opf:role="aut">Ibán Yarza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-30T22:00:00+00:00</dc:date>
+        <dc:description>Elaborar pan en casa hace feliz. Aún diría más, el pan hace feliz. En este libro quiero compartir esa felicidad especialmente con aquellos que nunca hubieran pensado comprarse un libro de pan, ya que tal vez jamás se les pasó por la cabeza elaborarlo (o tener ganas de hacerlo, que es lo importante). Este libro pretende ser un manual sencillo y, sobre todo, busca acercar a todo el mundo, de manera simple, sin complicaciones ni falsos mitos, la elaboración y el disfrute del pan casero. Con independencia de tu habilidad manual o tu comprensión de los fenómenos que suceden en una masa de pan, esta obra se ha redactado con la intención de que puedas preparar todo tipo de masas, disfrutando y entendiendo lo que haces y con grandes resultados.</dc:description>
+        <dc:publisher>Larousse</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:16.941259+00:00"/>
+        <meta name="calibre:title_sort" content="Pan casero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

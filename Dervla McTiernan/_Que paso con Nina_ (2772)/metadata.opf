@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2772</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be4cb847-914b-4bc7-84fd-15e19896739c</dc:identifier>
+        <dc:title>¿Qué pasó con Nina?</dc:title>
+        <dc:creator opf:file-as="McTiernan, Dervla" opf:role="aut">Dervla McTiernan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-15T17:54:28+00:00</dc:date>
+        <dc:description>Nina y Simon son la pareja perfecta. Jóvenes, divertidos y enamorados.Hasta que se marchan de vacaciones a la cabaña de los padres de él en Vermont, y solo regresa Simon.¿QUÉ PASÓ CON NINA?Nadie lo sabe. La explicación de Simon sobre lo ocurrido en sus últimas horas juntos no tiene mucho sentido. Los padres de Nina presionan a la policía para obtener respuestas, y los padres de Simon se apresuran a protegerlo. Contratan a prestigiosos abogados y una empresa de relaciones públicas que no tarda en diseñar una despiadada y agresiva campaña en los medios de comunicación.¿HASTA DÓNDE LLEGARÁ LA FAMILIA DE ÉL PARA PROTEGERLO?Los hechos no tardan en perderse en una red de acusaciones y habladurías. Todos toman partido y la historia se hace viral, impulsada por investigadores de andar por casa y descabelladas teorías conspiratorias e ilustrada con las bonitas fotografías de las redes sociales de Nina. Los periodistas asedian su pequeño pueblo de Vermont, seguidos de algunos...</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410640931</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-31T07:29:18.289366+00:00"/>
+        <meta name="calibre:title_sort" content="¿Qué pasó con Nina?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

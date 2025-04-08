@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Crime</title>
+  <id>Calibre2opds:taglist:C:112</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_112_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Crime" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por C" />
+  <entry>
+    <title>Al final del camino</title>
+    <id>calibre:book:1680</id>
+    <updated>2024-07-22T06:30:41Z</updated>
+    <link href="../../Carlos%20Laredo/Al%20final%20del%20camino%20%281680%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Laredo/Al%20final%20del%20camino%20%281680%29/Al%20final%20del%20camino%20-%20Carlos%20Laredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carlos Laredo</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2023-07-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Kokapeli Ediciones</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Crime" />
+    <category term="Lang:es" />
+    <category term="El cabo Holmes" />
+    <summary>El cabo Holmes [10]: El hijo de un negociante de diamantes de Amberes y su novia gallega deciden hacer el Camino de Santiago. Mientras se dan un paseo nocturno por la playa de Lires, la última etapa antes de llegar al cabo Finisterre, surgen de la os...</summary>
+    <link href="../book_1/book_1680.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Chicas brillantes</title>
+    <id>calibre:book:2565</id>
+    <updated>2024-09-09T03:24:00Z</updated>
+    <link href="../../Jessica%20Knoll/Chicas%20brillantes%20%282565%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jessica%20Knoll/Chicas%20brillantes%20%282565%29/Chicas%20brillantes%20-%20Jessica%20Knoll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="954 KB" />
+    <author>
+      <name>Jessica Knoll</name>
+      <uri>../authors_1/authors_1689_Page_1.xml</uri>
+    </author>
+    <published>2024-08-27T10:00:00Z</published>
+    <dcterms:language>ca</dcterms:language>
+    <dcterms:publisher>RBA Libros</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="suspense" />
+    <category term="Lang:ca" />
+    <summary>UN THRILLER INSPIRADO EN LAS ÚLTIMAS VÍCTIMAS DE TED BUNDY.«Una mirada fascinante y reflexiva al mundo del crimen y a la cultura sensacionalista que lo rodea». People«En lugar de ser sensacionalista con la violencia contra las mujeres, la provocativa...</summary>
+    <link href="../book_2/book_2565.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crime and Punishment</title>
+    <id>calibre:book:2475</id>
+    <updated>2024-09-09T10:34:38Z</updated>
+    <link href="../../Fyodor%20Dostoyevsky/Crime%20and%20Punishment%20%282475%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fyodor%20Dostoyevsky/Crime%20and%20Punishment%20%282475%29/Crime%20and%20Punishment%20-%20Fyodor%20Dostoyevsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <author>
+      <name>Fyodor Dostoyevsky</name>
+      <uri>../authors_1/authors_1651_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Detective" />
+    <category term="and" />
+    <category term="mystery" />
+    <category term="Stories" />
+    <category term="Psychological" />
+    <category term="Fiction" />
+    <category term="Saint" />
+    <category term="Petersburg" />
+    <category term="(Russia)" />
+    <category term="--" />
+    <category term="Murder" />
+    <category term="Crime" />
+    <category term="aspects" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2475.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Memorias de un vigilante</title>
+    <id>calibre:book:2124</id>
+    <updated>2024-09-06T02:21:19Z</updated>
+    <link href="../../Jose%20S.%20Alvarez/Memorias%20de%20un%20vigilante%20%282124%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20S.%20Alvarez/Memorias%20de%20un%20vigilante%20%282124%29/Memorias%20de%20un%20vigilante%20-%20Jose%20S.%20Alvarez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="125 KB" />
+    <author>
+      <name>José S. Alvarez</name>
+      <uri>../authors_1/authors_1508_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Crime" />
+    <category term="--" />
+    <category term="Argentina" />
+    <category term="Buenos" />
+    <category term="Aires" />
+    <category term="Criminals" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2124.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

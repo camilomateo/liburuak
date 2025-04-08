@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1846</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d85ca8a-c99e-41f8-be2e-1ad9cf22ec13</dc:identifier>
+        <dc:title>Los incomprendidos</dc:title>
+        <dc:creator opf:file-as="Pedro Simón" opf:role="aut">Pedro Simón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;"Somos esa generación que en su infancia dejaba el mejor sitio de la mesa para el padre y que ahora se lo deja al hijo. Eso somos", dice Javier, el padre.&lt;/strong&gt; &lt;strong&gt;"La adolescencia puede ser un infierno. Basta con el cielo de los otros. Es suficiente con que te los imagines más felices y más guapos que tú y sin el nudo que sientes dentro", dice Inés, la hija.&lt;/strong&gt; Javier y Celia son un matrimonio de clase media con un hijo pequeño y una hija preadolescente. Él trabaja en una editorial y ella en un hospital; él arregla vidas de mentira y ella arregla vidas de verdad. Tratan de prosperar, se mudan a un barrio mejor, la cotidianidad. Podría ser la historia de muchos. Hasta que tiene lugar una excursión a Pirineos que lo cambia absolutamente todo. Esta es la historia de un viaje al abismo que habla de otros muchos viajes. El viaje de la infancia a la convulsa adolescencia. El que va de la algarabía infantil al silencio más sepulcral. El de los padres que caminan detrás con su culpa y llegan tarde. El de los abuelos que fueron delante y a los que nadie escucha. El que hace alguien para salvar una vida. También es la historia de ese otro viaje al que todos tenemos miedo: el que habla de nuestro pasado más oscuro y secreto. &lt;em&gt;Los incomprendidos&lt;/em&gt; es una novela sobre la soledad familiar, la incomunicación entre padres e hijos, el horror de decir, pero también, y desde la primera página, sobre la esperanza.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0BCGCS19H</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788467067897</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">p0CGEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:12:34.597059+00:00"/>
+        <meta name="calibre:title_sort" content="Los incomprendidos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">325</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55e08a1d-7b38-48f3-9d6c-41157e651f68</dc:identifier>
+        <dc:title>Sin retorno</dc:title>
+        <dc:creator opf:file-as="Lezaun, Susana Rodríguez" opf:role="aut">Susana Rodríguez Lezaun</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div id="iframeContent" dir="auto"&gt;&lt;p&gt;&lt;b&gt;El inspector de policía David 
+Vázquez investiga los misteriosos y violentos asesinatos en serie de 
+varios peregrinos en el camino de Santiago en Roncesvalles&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Hace
+ tiempo que Irene Ochoa se siente atrapada en un callejón sin salida 
+cuyos muros se estrechan a medida que los abusos por parte de Marcos, su
+ marido, se convierten en una rutina. No tiene más armas que su instinto
+ de supervivencia. No hay otra opción: la vida de Marcos o la suya. La 
+oportunidad se presenta un miércoles, cuando él llega más borracho de lo
+ normal y, tras un par de tragos, se queda profundamente dormido. Horas 
+más tarde, los bomberos y la policía investigan las causas del incendio 
+que se ha cobrado la vida de Marcos. Todo ha salido según lo planeado, 
+pero hay algo que Irene no puede controlar. Aquella misma noche en la 
+que apenas empieza a saborear la libertad conoce al hombre que podría 
+arrebatársela: el inspector David Vázquez, el encargado del caso. 
+Empieza así una relación marcada por la pasión, el anhelo y el peligro.&lt;/p&gt; &lt;p&gt;Mientras
+ Pamplona sigue conmocionada por el accidente, el inspector Vázquez 
+deberá resolver uno de los casos más escabrosos de su carrera: varios 
+peregrinos del camino de Santiago han aparecido muertos en Roncesvalles,
+ a solo unos kilómetros, y todo apunta a que ha sido obra de un asesino 
+en serie.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Ella ansiaba escapar. &lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Él solo cumplía con su deber.&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;¿Dónde está la línea entre el bien y el mal?&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>DEBOLS!LLO</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Susana Rodríguez Lezaun&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector David Vázquez"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-02-16T18:13:41.455645+00:00"/>
+        <meta name="calibre:title_sort" content="Sin retorno"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

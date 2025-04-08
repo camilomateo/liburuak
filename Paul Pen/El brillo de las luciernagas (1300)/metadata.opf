@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cdf1b3d4-69d0-43fa-9e4f-f7b5302c79cb</dc:identifier>
+        <dc:title>El brillo de las luciérnagas</dc:title>
+        <dc:creator opf:file-as="Pen, Paul" opf:role="aut">Paul Pen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-09T06:00:00+00:00</dc:date>
+        <dc:description>Tengo diez años y llevo toda mi vida dentro de este sótano. Vivo en la oscuridad con mis padres, mi abuela, mi hermana y mi hermano. Todos están desfigurados por el fuego. Mi hermana lleva una máscara blanca para tapar sus quemaduras, porque papá dice que su cara podría asustarme. Me gusta mi cactus. Me gusta leer mi libro sobre insectos. Y tocar durante horas el único rayo de sol que se filtra por una rendija del techo. Pero desde que mi hermana tuvo al bebé, todos actúan de forma extraña. Creo que me cuentan mentiras sobre quién es el padre, sobre el Hombre Grillo que acecha por las noches, sobre lo que sucedió antes de que yo naciera, sobre por qué estamos aquí encerrados. Por lo menos tengo a las luciérnagas. Llegaron hace unos días al sótano y las he guardado en un bote. Como dice mi abuela, no existe criatura más fascinante que aquella que es capaz de crear luz por sí misma. Esa luz me anima a conocer el mundo exterior, escapar, descubrir qué le sucedió a mi familia. Lo malo es que aquí todas las puertas están cerradas. Y no sé dónde voy a encontrar una salida…</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2024-03-15T08:05:11.901622+00:00"/>
+        <meta name="calibre:title_sort" content="brillo de las luciérnagas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

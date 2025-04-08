@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>to</title>
+  <id>Calibre2opds:taglist:T:144</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_144_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="to" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por T" />
+  <entry>
+    <title>Crito</title>
+    <id>calibre:book:2538</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../Plato/Crito%20%282538%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Plato/Crito%20%282538%29/Crito%20-%20Plato.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="106 KB" />
+    <author>
+      <name>Plato</name>
+      <uri>../authors_1/authors_1678_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Classical" />
+    <category term="literature" />
+    <category term="Philosophy" />
+    <category term="Ancient" />
+    <category term="Justice" />
+    <category term="--" />
+    <category term="Early" />
+    <category term="works" />
+    <category term="to" />
+    <category term="1800" />
+    <category term="Dialogues" />
+    <category term="Greek" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2538.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>From the Earth to the Moon; and, Round the Moon</title>
+    <id>calibre:book:2087</id>
+    <updated>2024-09-06T02:09:10Z</updated>
+    <link href="../../Jules%20Verne/From%20the%20Earth%20to%20the%20Moon%3B%20and%2C%20Ro%20%282087%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jules%20Verne/From%20the%20Earth%20to%20the%20Moon%3B%20and%2C%20Ro%20%282087%29/From%20the%20Earth%20to%20the%20Moon%3B%20and%20-%20Jules%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="180 KB" />
+    <author>
+      <name>Jules Verne</name>
+      <uri>../authors_1/authors_1487_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Science" />
+    <category term="Fiction" />
+    <category term="Space" />
+    <category term="flight" />
+    <category term="to" />
+    <category term="the" />
+    <category term="moon" />
+    <category term="--" />
+    <category term="ships" />
+    <category term="Manned" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2087.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los Merodeadores de Fronteras</title>
+    <id>calibre:book:2499</id>
+    <updated>2024-09-09T10:34:43Z</updated>
+    <link href="../../Gustave%20Aimard/Los%20Merodeadores%20de%20Fronteras%20%282499%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gustave%20Aimard/Los%20Merodeadores%20de%20Fronteras%20%282499%29/Los%20Merodeadores%20de%20Fronteras%20-%20Gustave%20Aimard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="296 KB" />
+    <author>
+      <name>Gustave Aimard</name>
+      <uri>../authors_1/authors_1657_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Western" />
+    <category term="Stories" />
+    <category term="Texas" />
+    <category term="--" />
+    <category term="History" />
+    <category term="to" />
+    <category term="1846" />
+    <category term="Fiction" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2499.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>New Atlantis</title>
+    <id>calibre:book:2534</id>
+    <updated>2024-09-09T10:34:51Z</updated>
+    <link href="../../Francis%20Bacon/New%20Atlantis%20%282534%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Francis%20Bacon/New%20Atlantis%20%282534%29/New%20Atlantis%20-%20Francis%20Bacon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="91 KB" />
+    <author>
+      <name>Francis Bacon</name>
+      <uri>../authors_1/authors_1675_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Utopias" />
+    <category term="--" />
+    <category term="Early" />
+    <category term="works" />
+    <category term="to" />
+    <category term="1800" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2534.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The divine comedy</title>
+    <id>calibre:book:2527</id>
+    <updated>2024-09-09T10:34:49Z</updated>
+    <link href="../../Dante%20Alighieri/The%20divine%20comedy%20%282527%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dante%20Alighieri/The%20divine%20comedy%20%282527%29/The%20divine%20comedy%20-%20Dante%20Alighieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <author>
+      <name>Dante Alighieri</name>
+      <uri>../authors_1/authors_1579_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Epic" />
+    <category term="Poetry" />
+    <category term="Italian" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="to" />
+    <category term="1400" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2527.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Frogs</title>
+    <id>calibre:book:2539</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../Aristophanes/The%20Frogs%20%282539%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aristophanes/The%20Frogs%20%282539%29/The%20Frogs%20-%20Aristophanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="99 KB" />
+    <author>
+      <name>Aristophanes</name>
+      <uri>../authors_1/authors_1679_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Comedies" />
+    <category term="Greek" />
+    <category term="Drama" />
+    <category term="(Comedy)" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Voyages" />
+    <category term="to" />
+    <category term="the" />
+    <category term="otherworld" />
+    <category term="Dionysus" />
+    <category term="(Greek" />
+    <category term="deity)" />
+    <category term="Playwriting" />
+    <category term="Dramatists" />
+    <category term="Aristophanes" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2539.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Golden Dog</title>
+    <id>calibre:book:2508</id>
+    <updated>2024-09-09T10:34:45Z</updated>
+    <link href="../../William%20Kirby/The%20Golden%20Dog%20%282508%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Kirby/The%20Golden%20Dog%20%282508%29/The%20Golden%20Dog%20-%20William%20Kirby.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="611 KB" />
+    <author>
+      <name>William Kirby</name>
+      <uri>../authors_1/authors_1663_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <category term="Canada" />
+    <category term="--" />
+    <category term="History" />
+    <category term="to" />
+    <category term="1763" />
+    <category term="(New" />
+    <category term="France)" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2508.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El tratado de la pintura</title>
+    <id>calibre:book:1989</id>
+    <updated>2024-09-05T06:10:31Z</updated>
+    <link href="../../Leon%20Battista%20Alberti/El%20tratado%20de%20la%20pintura%20%281989%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leon%20Battista%20Alberti/El%20tratado%20de%20la%20pintura%20%281989%29/El%20tratado%20de%20la%20pintura%20-%20Leon%20Battista%20Alberti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Leon Battista Alberti</name>
+      <uri>../authors_1/authors_1424_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>da Vinci Leonardo</name>
+      <uri>../authors_1/authors_1425_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Leonardo" />
+    <category term="da" />
+    <category term="Vinci" />
+    <category term="1452-1519" />
+    <category term="Painting" />
+    <category term="--" />
+    <category term="Early" />
+    <category term="works" />
+    <category term="to" />
+    <category term="1800" />
+    <category term="Alberti" />
+    <category term="Leon" />
+    <category term="Battista" />
+    <category term="1404-1472" />
+    <category term="Lang:es" />
+    <link href="../book_1/book_1989.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

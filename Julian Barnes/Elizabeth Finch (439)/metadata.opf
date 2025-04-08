@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">439</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25dcaac7-358c-4a79-8fc8-0d77f2a2a46a</dc:identifier>
+        <dc:title>Elizabeth Finch</dc:title>
+        <dc:creator opf:file-as="Julian Barnes" opf:role="aut">Julian Barnes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;Hay personas que nos marcan para siempre: al narrador de esta novela le dejó una huella indeleble su maestra Elizabeth Finch. &lt;/p&gt;
+&lt;p align="justify"&gt;Neil, el narrador, es un hombre de mediana edad al que no le ha ido demasiado bien ni en lo personal ni en lo profesional. Si hay algo que recuerda con entusiasmo son las clases de Cultura y Civilización que recibió de una profesora excepcional: Elizabeth Finch. Inteligente e inalcanzable, llena de elegancia, esta mujer admiradora del mundo clásico consideraba que el mundo había tomado el camino equivocado el día en que el Imperio romano decidió abrazar el monoteísmo cristiano. Por eso su héroe era el último emperador pagano: Juliano el Apóstata. Cuando dejó de ser su alumno, Neil mantuvo el contacto con Elizabeth, y comían juntos periódicamente. Ahora la maestra admirada ha muerto, y su antiguo discípulo emprende una doble tarea: escribir un ensayo sobre Juliano a partir de las notas y preguntas que ella dejó, e indagar en la biografía de esa mujer enigmática a través de los cuadernos que le ha legado y del testimonio que le brinda su hermano, tan diferente a ella. ¿Quién fue en realidad la elusiva y fascinante Elizabeth Finch? ¿Qué misterios escondía su personalidad? ¿Dónde termina la admiración y empieza el amor? ¿Qué podemos aprender de la historia y la cultura? ¿Qué es lo que da sentido a nuestras vidas? Jugando una vez más con los géneros y sus límites, Julian Barnes ha escrito una novela que es también una elucubración filosófica y una reconstrucción biográfica a través de la cual homenajea, de forma más o menos velada, a una queridísima amiga, una escritora inglesa fallecida hace unos años.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Anagrama</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788433918468</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Julian Barnes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-20T16:50:06.919362+00:00"/>
+        <meta name="calibre:title_sort" content="Elizabeth Finch"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

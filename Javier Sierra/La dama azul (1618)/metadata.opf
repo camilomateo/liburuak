@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7d3f5b7-f4e1-4490-9913-4111ef8571f9</dc:identifier>
+        <dc:title>La dama azul</dc:title>
+        <dc:creator opf:file-as="Javier Sierra" opf:role="aut">Javier Sierra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-28T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Un misterio histórico español pondrá en guardia a un periodista, a una espía de los servicios de inteligencia norteamericanos y a un selecto colectivo de la curia vaticana, y los enfrentará en una carrera por controlar una información que podría minar la fe de millones de cristianos. El enigma arranca en América, en 1629, cuando los franciscanos alcanzan por primera vez la entonces provincia de Nuevo México y descubren que alguien se les ha adelantado. Los indios, que se bautizaron masivamente a su llegada, les hablaron de una misteriosa Dama Azul que durante meses les preparó para aquel encuentro. El papa Urbano VIII y el rey Felipe IV ordenaron investigar el caso y concluyeron que la misteriosa Dama no fue sino una monja de clausura soriana –sor María Jesús de Ágreda- que, sin abandonar jamás su celda, fue capaz de manifestarse a más de diez mil kilómetros de distancia. ¿Cómo lo hizo? La fiebre por apoderarse del secreto de la monja, la existencia del Cronovisor, un ingenio desarrollado en tiempos de Pío XII en Roma para recuperar imágenes y sonidos del pasado, y las dudas de una mujer atrapada entre su trabajo para el Departamento de Defensa de los Estados Unidos y sus extrañas visiones confluyen en una novela que le cortará la respiración. Hay personas que pueden estar en dos lugares a la vez. La fórmula es un secreto.&lt;/p&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408041054</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T09:00:03.223056+00:00"/>
+        <meta name="calibre:title_sort" content="dama azul, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">985d2614-d76f-4b27-9f67-2c9c648a2cdf</dc:identifier>
+        <dc:title>Voces de muert entre libros</dc:title>
+        <dc:creator opf:file-as="Sylvia Lagarda-Mata" opf:role="aut">Sylvia Lagarda-Mata</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>6 de abril de 1840. Tras resolver algunos de los crímenes más famosos de Europa, el célebre detective Auguste Dupin —ese gran amigo literario de Edgar Allan Poe— llega a Barcelona para investigar los primeros asesinatos en serie de la ciudad. Al parecer, el asesino mata por los libros, y aún hay más: por un libro en concreto.
+Pronto su leyenda aterrorizó a todos los bibliófilos de la ciudad y saltó a las portadas de los principales diarios. Los primeros crímenes «mediáticos» del país ocurrieron en una Barcelona que fascinaba por igual a pillos de poca monta y a refinados poetas románticos. La historia, basada en una fake new de alcance europeo, quizá la primera de tal magnitud, permite descubrir la misteriosa Barcelona de mediados de siglo xix, referente para los viajeros más glamurosos del mundo y el mejor escenario de la crónica criminal.</dc:description>
+        <dc:publisher>Comanegra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410161689</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:03.757943+00:00"/>
+        <meta name="calibre:title_sort" content="Voces de muert entre libros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

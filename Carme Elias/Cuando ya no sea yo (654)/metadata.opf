@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">654</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84eceff8-97e5-4118-ba4b-db8e07cc286f</dc:identifier>
+        <dc:title>Cuando ya no sea yo</dc:title>
+        <dc:creator opf:file-as="Carme Elias" opf:role="aut">Carme Elias</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-05T11:47:51+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Escribir un libro de memorias mientras la mía se desvanece es arriesgado. Aun así, siento la tentación de hacerlo. Amo la palabra escrita. Siempre me ha gustado y la he saboreado como intérprete. Soy actriz de profesión y, lo que es más importante, de vocación. Y, sin embargo, todo lo que cuento aquí es verdadero. Son regalos de mi fugitiva memoria y de los diarios que he escrito a lo largo de muchos años. Todo esto que narro como un cuento, es decir, con cierta ligereza, lo hago para no ahogarme con mis propias lágrimas, porque siempre quieren ser ellas las protagonistas. Sí. Tengo alzhéimer. Pero todavía soy plenamente consciente de lo que hago y de cómo lo hago, y a todo esto empiezo a cogerle el gusto. Pido disculpas si me repito, aunque espero que alguien lo corrija.&lt;/p&gt;
+&lt;p align="justify"&gt;Carme Elias&lt;/p&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;Un testimonio indispensable sobre el alzhéimer narrado en primera persona por una de las actrices más reconocidas de nuestro país&lt;/p&gt;
+&lt;p align="justify" style="font-size: large; font-weight: bold"&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0BWNFZYDJ</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">uNivEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788408272458</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-10T14:29:13+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando ya no sea yo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2615</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03582b22-e627-4331-95c8-179a65e0c511</dc:identifier>
+        <dc:title>Mortalmente vivo</dc:title>
+        <dc:creator opf:file-as="Santiso, Javier" opf:role="aut">Javier Santiso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-10T22:00:00+00:00</dc:date>
+        <dc:description>Bacon tenía a España en la sangre. Un español, Velázquez, fue su gran maestro. De su Retrato de Inocencio X diría Bacon, rotundo, «siempre he creído que este era uno de los mejores cuadros del mundo. He intentado, sin ningún éxito, hacer ciertas reproducciones de él». Por amor, a otro español, éste de carne y hueso, Francis Bacon llegó a Madrid, ya ochentón. Sería su último viaje. En esa ciudad moriría, rodeado de monjas. Mortalmente vivo hurga en ese puñado de días, los diez últimos pasados en la ciudad. Javier Santiso se atreve a recrearlos, con su prosa poética, hecha de hermosos girones, metiéndose bajo la piel del artista y en la cabeza de los últimos actores y testigos que presenciaron el final del gran artista. Un fuera de serie, que no se despeinaba por nada, que era un jilguero, amante de la buena vida y al que le gustaba provocar, embestir, «porque el arte poco tiene que ver con el buenísimo, el arte nos salta, nos asalta», dice Javier Santiso.</dc:description>
+        <dc:publisher>La Huerta Grande</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418657580</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-17T10:24:17.696427+00:00"/>
+        <meta name="calibre:title_sort" content="Mortalmente vivo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

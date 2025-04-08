@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">929</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4b093ab-e2f4-4f15-9fb1-522730847486</dc:identifier>
+        <dc:title>Águilas y cuervos</dc:title>
+        <dc:creator opf:file-as="Gedge, Pauline" opf:role="aut">Pauline Gedge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Tras la conquista del &lt;b&gt;emperador Claudio&lt;/b&gt; en el siglo I, las tribus
+ celtas de Albión ven cómo la pax romana los despoja de sus tierras e 
+intenta acabar con una antigua cultura cuyos rituales y ofrendas 
+desagradan al invasor.&lt;br&gt;Los britanos, pueblo de artesanos y guerreros 
+donde las mujeres combaten igual que los hombres y el honor representa 
+el máximo valor, comprenden que solo la unidad les permitirá oponerse a 
+la todopoderosa águila romana. Liderados por Caradoc, jefe de los 
+catuvelaunos, y con el apoyo de los druidas, custodios de la sabiduría 
+secreta, los cuervos celtas se repliegan al oeste para iniciar la 
+resistencia. Pero el orgullo y la pasión de los individuos inciden, una 
+vez más, en el curso de la Historia…&lt;br&gt;La lucha de Caradoc se 
+perpetuará en la persona de Boudica, reina de los icenos, que se 
+enfrentará al brillante general romano Suetonio Paulino.&lt;br&gt;En esta 
+saga, que abarca tres generaciones, la escritora canadiense Pauline 
+Gedge, autora, entre otras, de La dama del Nilo, ha plasmado con su 
+habitual rigor una página apasionante de la historia de la &lt;b&gt;dominación romana&lt;/b&gt;.&lt;/div&gt;</dc:description>
+        <dc:publisher>Pàmies</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B018E84NEI</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788416331482</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-04T12:12:22.456991+00:00"/>
+        <meta name="calibre:title_sort" content="Águilas y cuervos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

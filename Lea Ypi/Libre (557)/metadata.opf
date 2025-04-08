@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1de38c26-428a-4d91-b854-b8b3ccb0a2f8</dc:identifier>
+        <dc:title>Libre</dc:title>
+        <dc:creator opf:file-as="Ypi, Lea" opf:role="aut">Lea Ypi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-20T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Un
+ deslumbrante retrato personal, histórico y político del derrumbe del 
+estalinismo en Albania y la turbulenta llegada de la democracia.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Cuando
+ era una niña, con apenas once años, Lea Ypi fue testigo del fin del 
+mundo. Al menos del fin de un mundo. En 1990 el régimen comunista de 
+Albania, el último bastión del estalinismo en Europa, se desplomó.&lt;/p&gt;&lt;p&gt;Ella,
+ adoctrinada en la escuela, no entendía por qué se derribaban las 
+estatuas de Stalin y Hoxha, pero con los monumentos cayeron también los 
+secretos y los silencios: se desvelaron los mecanismos de control de la 
+población, los asesinatos de la policía secreta...&lt;/p&gt;&lt;p&gt;El
+ cambio de sistema político dio paso a la democracia, pero no todo fue 
+color de rosa. La transición hacia el liberalismo supuso la 
+reestructuración de la economía, la pérdida masiva de empleos, la oleada
+ migratoria hacia Italia, la corrupción y la quiebra del país.&lt;/p&gt;&lt;p&gt;En
+ el entorno familiar, ese período trajo sorpresas inauditas para Lea: 
+descubrió qué eran las «universidades» en las que supuestamente habían 
+«estudiado» sus padres y por qué estos hablaban en clave o en susurros; 
+supo que un antepasado había formado parte de un gobierno anterior al 
+comunismo y que a la familia le habían expropiado sus bienes.&lt;/p&gt;&lt;p&gt;Mezcla
+ de memorias, ensayo histórico y reflexión sociopolítica, con el añadido
+ de una prosa de soberbia factura literaria y pinceladas de un humor 
+tendente al absurdo –como no podía ser de otra manera, dado el lugar y 
+tiempo que se retrata–, &lt;span class="a-text-italic"&gt;Libre &lt;/span&gt;es
+ de una lucidez deslumbrante: refleja, desde la experiencia personal, un
+ momento convulso de transformación política que no necesariamente 
+desembocó en justicia y libertad.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Anagrama</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788433918611</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-11T07:33:24+00:00"/>
+        <meta name="calibre:title_sort" content="Libre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

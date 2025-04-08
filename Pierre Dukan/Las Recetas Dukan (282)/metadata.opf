@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4077eea6-4912-44cf-a50b-1c578b9c0a70</dc:identifier>
+        <dc:title>Las Recetas Dukan</dc:title>
+        <dc:creator opf:file-as="Dukan, Pierre" opf:role="aut">Pierre Dukan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>eguir el método Dukan es fácil y, sobre todo, efectivo. Toda España está perdiendo kilos a gran velocidad y se nota alegría en el ambiente. Sin embargo, no todos los adeptos saben combinar los 100 alimentos Dukan autorizados de manera apetitosa y variada. Gracias a este libro, tendrán ideas para días PP (Sólo proteínas) días PV (proteínas y verduras) y recetas para todas las fases del método.
+-Son 350 recetas avaladas por el mismo Dr.Dukan, 50 de ellas preparadas especialmente para el público español.
+-Las ventas de todas las ediciones de No consigo adelgazar en Europa suman ya más de 3 millones de ejemplares.
+- En Francia el libro No consigo adelgazar, se publicó en el año 2000, y gracias al boca-oreja ya lleva 2 millones de ejemplares vendidos.
+- En España 150.000 ejemplares de tirada en 6 meses.
+-Su tasa de éxito de mantenimiento del peso, dos años después es del 65% mientras los otros regímenes la tienen del 5%</dc:description>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788492981380</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>home_health</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pierre Dukan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-03T07:39:19.674382+00:00"/>
+        <meta name="calibre:title_sort" content="Recetas Dukan, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

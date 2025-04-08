@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1900</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25b858fe-a48a-4639-9e40-1b375848ffe3</dc:identifier>
+        <dc:title>La salud a tus pies</dc:title>
+        <dc:creator opf:file-as="Jesús Serrano" opf:role="aut">Jesús Serrano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¿SABÍAS QUE MUCHOS PROBLEMAS DE SALUD VIENEN POR UN MAL ESTADO DE NUESTROS PIES?&lt;br&gt;¿QUE EXISTE UNA ESTRECHA CONEXIÓN ENTRE ELLOS Y LA SALUD MENTAL Y EMOCIONAL?&lt;br&gt;¿QUE CAMINAR DESCALZO TIENE MÚLTIPLES BENEFICIOS PARA NUESTRO ORGANISMO?&lt;/p&gt;
+&lt;p&gt;Los pies son una parte fundamental de nuestra salud y los responsables de muchas de las patologías que se ven en las consultas de traumatología y fisioterapia. Dolores de espalda, bruxismo, problemas de rodilla, posturales o deformaciones se deben a un incorrecto cuidado.&lt;/p&gt;
+&lt;p&gt;En La salud a tus pies, el fisioterapeuta Jesús Serrano, que ha cambiado la vida de muchos de sus pacientes, desmonta mitos sobre estos grandes olvidados y propone un amplio abanico de hábitos saludables y ejercicios para entrenarlos con el sano propósito de prevenir enfermedades y mimar tu cuerpo y tu mente a través de ellos.&lt;/p&gt;
+&lt;p&gt;CUIDA TUS PIES, CAMBIARÁ TU VIDA. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica, S. A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410640559</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:57.881225+00:00"/>
+        <meta name="calibre:title_sort" content="salud a tus pies, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

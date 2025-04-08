@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0ab4e02-84fc-4d70-af70-463ce7f54e1c</dc:identifier>
+        <dc:title>Rompamos las reglas</dc:title>
+        <dc:creator opf:file-as="Ruiz, Silvia Garcia" opf:role="aut">Silvia Garcia Ruiz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-16T13:38:04+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Candy Templeton descubrió desde bien pequeña que la vida no es sencilla y que hay muchos momentos en los que la gente la hará llorar. Decidida a enfrentarse a todos sus problemas con una sonrisa, creará una serie de reglas que le permitan alcanzar la felicidad. Sin embargo, conseguir ese objetivo no le resultará nada fácil, y menos aún cuando, tras salir de una tarta de cumpleaños, en su camino se cruza Dylan Brisbane, un rico banquero que cree que todo puede comprarse con dinero, incluida ella. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Dylan Brisbane se ha hecho a la idea de dirigir el banco que pertenece a su familia, pero no es feliz. Hace tiempo que no sonríe y que ha dejado atrás su mayor pasión, la pintura. Hasta que, el día de su cumpleaños, conoce a una insultante mujer que lo desafía a cada instante, que se ríe de la vida y que se enfrenta a las dificultades con una sonrisa. Sin poder evitar pintarla una y otra vez, caerá enamorado tanto de ella como de esa sonrisa por la que estará dispuesto a romper todas sus reglas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Esencia</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">aa002276-026f-404d-9b8b-73584c86849a</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Erótica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Silvia Garcia Ruiz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:18.918111+00:00"/>
+        <meta name="calibre:title_sort" content="Rompamos las reglas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

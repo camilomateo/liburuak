@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c67d544-d979-4f51-8bba-86af3e40a86d</dc:identifier>
+        <dc:title>Möbius 2: El Artefacto Intemporal</dc:title>
+        <dc:creator opf:file-as="Morris, Brandon Q." opf:role="aut">Brandon Q. Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un artefacto en el lugar incorrecto y dos personas en el momento incorrecto, víctimas de un juego incorrecto.&lt;br&gt;&lt;br&gt;Max y Liz han logrado escapar del misterioso fenómeno temporal. La colonia de Marte les promete una vida nueva y emocionante. Pero han dejado atrás a alguien muy importante para ellos. ¿Deben embarcarse en un viaje del que nadie ha regresado jamás? Y ¿por qué todo el mundo parece esforzarse en impedir que lo puedan emprender? El físico y la topóloga tienen que enfrentarse a poderes que no se dejan convencer con argumentos lógicos, mientras el tiempo se agota cada vez más rápido para su amigo. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HardSF.space</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Brandon Q. Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Möbius"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-03-09T11:10:53.832205+00:00"/>
+        <meta name="calibre:title_sort" content="Möbius 2: El Artefacto Intemporal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1002</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3d5c8b2-eb38-4b9a-925a-71187efd85c7</dc:identifier>
+        <dc:title>La química</dc:title>
+        <dc:creator opf:file-as="Meyer, Stephenie" opf:role="aut">Stephenie Meyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span itemprop="description" style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;En esta trepidante y adictiva novela, una ex-agente que huye de la organización en la que trabajaba deberá aceptar un último caso para limpiar su nombre y salvar su vida. &lt;br&gt;&lt;br&gt;Antes trabajaba para el gobierno de Estados Unidos, aunque casi nadie lo sabía. Como experta en su campo, era uno de los secretos más oscuros de una agencia tan clandestina que ni siquiera tiene nombre. Hasta que la consideraron un lastre, y fueron a por ella sin avisar. &lt;br&gt;Ahora rara vez se queda en el mismo lugar o utiliza el mismo nombre durante mucho tiempo. Ya han matado a la única persona en quien confiaba, pero sabe algo que sigue suponiendo una amenaza. La quieren muerta, y pronto. &lt;br&gt;&lt;br&gt;Cuando su antiguo jefe le ofrece una salida, comprende que será su única oportunidad de borrar la enorme diana que lleva dibujada en la espalda. Pero eso implica aceptar un último encargo. Y, para su horror, la información que consigue vuelve aún más peligrosa la situación. &lt;br&gt;Decidida a afrontar el desafío cara a cara, empieza a prepararse para la peor pelea de su vida, mientras se da cuenta de que se está enamorando de un hombre que solo puede complicar sus posibilidades de supervivencia. Ahora que sus opciones menguan a marchas forzadas, deberá aplicar su especial talento de formas en las que nunca antes habría soñado. &lt;br&gt;&lt;br&gt;En esta novela intensa y arrolladora Meyer ha creado a una irresistible heroína con unas habilidades muy especiales. Y demuestra una vez más por qué es una de las escritoras que más vende del mundo.&lt;/span&gt;&lt;br style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Suma de Letras</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01MXJIUQ5</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-27T13:12:54.827888+00:00"/>
+        <meta name="calibre:title_sort" content="química, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

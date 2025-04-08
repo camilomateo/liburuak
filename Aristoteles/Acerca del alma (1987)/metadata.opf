@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d628204-1256-4766-b942-fa4f360e6cf5</dc:identifier>
+        <dc:title>Acerca del alma</dc:title>
+        <dc:creator opf:file-as="Aristóteles" opf:role="aut">Aristóteles</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-05T16:10:30.848629+00:00"/>
+        <meta name="calibre:title_sort" content="Acerca del alma"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

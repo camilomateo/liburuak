@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">223b5075-2a28-4225-b45e-290a4d3896c6</dc:identifier>
+        <dc:title>Bajo aguas oscuras</dc:title>
+        <dc:creator opf:file-as="Bryndza, Robert" opf:role="aut">Robert Bryndza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-06T05:00:00+00:00</dc:date>
+        <dc:description>Tú no lo ves…, pero él a ti sí Cuando la detective Kate Marshall encuentra el cuerpo sin vida de un joven en el embalse de Shadow Sands, las autoridades califican el suceso como un «trágico accidente». Sin embargo, algo no cuadra. ¿Qué hacía allí en mitad de la noche? ¿Y cómo pudo ahogarse si era campeón de natación? Pronto, las pruebas llevarán a Kate y a su socio, Tristan Harper, hasta un descubrimiento mucho más oscuro: la víctima de Shadow Sands es solo la última de una serie de misteriosas muertes que se remontan décadas atrás y que guardan relación con un asesino legendario que se oculta entre la niebla del embalse. Poco después, otra mujer desaparece, y Kate sabe que solo es cuestión de tiempo que el asesino vuelva a matar, por lo que deberá actuar rápido para evitarlo. Lo que Kate desconoce es que el escurridizo asesino en serie al que persigue no es el único que va un paso por delante de ella: alguien más intenta asegurarse de que los secretos de Shadow Sands permanezcan ocultos bajos sus aguas oscuras.</dc:description>
+        <dc:identifier opf:scheme="13ID">50002195</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">312</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Bryndza&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Kate Marshall"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:15:17.035817+00:00"/>
+        <meta name="calibre:title_sort" content="Bajo aguas oscuras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

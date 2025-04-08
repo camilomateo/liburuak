@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1137</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68b69dad-5c82-455e-8280-bd379440bffb</dc:identifier>
+        <dc:title>El código Da Vinci</dc:title>
+        <dc:creator opf:file-as="Brown, Dan" opf:role="aut">Dan Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-06T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;El
+ profesor de simbología religiosa de la Universidad de Harvard 
+Robert Langdon se encuentra en París dando una conferencia. En la 
+recepción que tiene lugar a continuación tiene una cita con el 
+prestigioso comisario del museo del Louvre, pero éste nunca aparece. 
+Horas más tarde, el profesor recibe una llamada: el comisario ha sido 
+encontrado muerto y la policía francesa requiere de sus servicios. 
+Langdon es conducido al Louvre y allí descubre que la víctima ha dejado 
+un mensaje cifrado en la escena del crimen. &lt;br&gt;&lt;br&gt; Convertido en el 
+sospechoso principal, Langdon debe descifrar, junto a la criptóloga 
+francesa Sophie Neveu, una serie de pistas que han sido dejadas 
+específicamente para ellos. Si no consiguen resolver el puzzle a tiempo,
+ un secreto milenario podría perderse para siempre, y sus vidas 
+peligrarían.&lt;br&gt;&lt;span class="a-text-bold"&gt;«Espero sinceramente que esta adaptación de &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;El código Da Vinci&lt;/span&gt;&lt;span class="a-text-bold"&gt;
+ provoque en nuevos lectores el mismo entusiasmo que siento al explorar 
+la historia secreta y los misterios del mundo en el que vivimos.» &lt;/span&gt;&lt;br&gt;&lt;span class="a-text-bold"&gt;Dan Brown&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B009SEGZ76</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:18.432229+00:00"/>
+        <meta name="calibre:title_sort" content="código Da Vinci, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

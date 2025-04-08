@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1823</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18b41cc7-c7d0-4b4c-93fe-1a27b8d29cb0</dc:identifier>
+        <dc:title>Código Chile</dc:title>
+        <dc:creator opf:file-as="Basso, Carlos" opf:role="aut">Carlos Basso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Carlos Basso construye una historia repleta de intrigas en una novela que incluye cruentos crímenes, misiones nazis, espías del Vaticano y un grupo secreto de ex agentes de la DINA de inspiración esotérica. El violento crimen simultáneo de unos ancianos de origen alemán es el inicio de esta trepidante aventura de suspenso, espionaje y secretos vinculados a la historia de Chile que componen la entretenida trama de esta novela. ¿Sabías que en tres puertas de la catedral metropolitana aparece el símbolo de los misteriosos rosacruces y que en el cementerio general hay dos pirámides? ¿O que en Chile existieron dos inmensas organizaciones de espionaje nazi durante la Segunda Guerra Mundial? Desde las catacumbas subterráneas la iglesia de los sacramentinos, hasta la tumba secreta de La Quintrala bajo el centro de Santiago, esta apasionante historia de ficción nos revelará una serie de increíbles sucesos y misterios secretos de la historia de este país.</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-28T10:55:05.403080+00:00"/>
+        <meta name="calibre:title_sort" content="Código Chile"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

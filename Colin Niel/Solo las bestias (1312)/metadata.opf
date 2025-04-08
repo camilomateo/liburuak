@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1312</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2424ddfc-1dec-454f-80ea-37878038cd21</dc:identifier>
+        <dc:title>Solo las bestias</dc:title>
+        <dc:creator opf:file-as="Niel, Colin" opf:role="aut">Colin Niel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-23T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;span class="a-text-bold"&gt;Un inquietante noir rural donde todos mienten y la muerte acecha&lt;br&gt;&lt;/span&gt;&lt;br&gt;Évelyne
+ Ducat, una mujer rica y caprichosa, ha desaparecido. Encuentran su 
+coche en la carretera a un pueblo rural, donde malvive una comunidad de 
+campesinos, tan solos y olvidados como las montañas nevadas que los 
+rodean. Alice y Michel sobreviven a la rutina. Cuando ella entabla una 
+relación amorosa con Joseph, otro de los ganaderos de la región, nadie 
+sospecha que la muerte de Évelyne esté relacionada con eso. Pero los 
+hilos que unen a los habitantes del Causse son como los fríos vientos de
+ las cumbres: implacables y destructores.&lt;br&gt;Premio Polar del Quais du Polar 2017&lt;br&gt;Premio Polar Landerneau 2017&lt;br&gt;Premio Cabri d'Or 2017&lt;br&gt;Premio Goutte de Sang d'Encre 2017&lt;br&gt;&lt;p&gt;"Una
+ estructura narrativa hábil, una atmósfera inesperada y convincente y 
+una escritura sutil. Colin Niel ha escrito una gran novela."&lt;br&gt;&lt;span class="a-text-italic"&gt;ActuaLitté&lt;/span&gt;&lt;/p&gt;&lt;p&gt;"Una novela negra que habla de la tierra, el silencio de los hombres, la frustración, el dolor y los placeres efímeros."&lt;br&gt;&lt;span class="a-text-italic"&gt;La cause littéraire&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Principal de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B078W6SYB7</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788416223510</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T11:44:04+00:00"/>
+        <meta name="calibre:title_sort" content="Solo las bestias"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

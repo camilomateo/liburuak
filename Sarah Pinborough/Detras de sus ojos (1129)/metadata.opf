@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73f5f363-0e57-4f51-ad7a-37c87f62e6a4</dc:identifier>
+        <dc:title>Detrás de sus ojos</dc:title>
+        <dc:creator opf:file-as="Pinborough, Sarah" opf:role="aut">Sarah Pinborough</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;span itemprop="description"&gt;&lt;b&gt;No confíes en este libro.&lt;br&gt;
+&lt;br&gt;
+No confíes en estas personas.&lt;br&gt;
+&lt;br&gt;
+No te fíes de ti mismo. &lt;br&gt;
+&lt;br&gt;
+Y lo que sea que hagas, no cuentes el final ...&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+David y Adele parecen una pareja ideal. Él es un competente psiquiatra y
+ ella la esposa perfecta que le adora. Pero, ¿por qué es él tan 
+controlador? Y, ¿qué es lo que oculta ella?.&lt;br&gt;
+&lt;br&gt;
+A medida que Louise, la nueva secretaria de David, entra en la órbita de
+ la pareja, en vez de hallar respuestas, se va encontrando con preguntas
+ cada vez más inquietantes. Lo único que está claro es que en este 
+matrimonio hay algo diabólico. Pero Louise no se imagina hasta qué punto
+ es así y hasta dónde puede llegar alguien para proteger sus secr&lt;/span&gt;</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0753DD92T</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:16.936258+00:00"/>
+        <meta name="calibre:title_sort" content="Detrás de sus ojos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

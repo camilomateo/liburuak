@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3271</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f514192-487f-4283-8c57-2c0e4554c810</dc:identifier>
+        <dc:title>El hijo del tallador de máscaras</dc:title>
+        <dc:creator opf:file-as="Richman, Alyson" opf:role="aut">Alyson Richman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-04T21:36:27+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Por la autora del bestselller Los amantes de Praga&lt;/p&gt;
+&lt;p&gt;Japón, 1890. Yamamoto Kiyoki es un joven artista que sueña con viajar a París para aprender las nuevas y fascinantes técnicas de los pintores impresionistas. Sin embargo, su padre, un artesano de máscaras tradicionales para teatro nō, espera que Kiyoki honre la tradición familiar y se convierta en un verdadero maestro de este milenario arte.&lt;/p&gt;
+&lt;p&gt;Marcados por la pérdida de la esposa y madre que los unía, padre e hijo intentan encontrar su lugar en un Japón donde la tradición y la modernidad chocan. Cuando por fin Kiyoki consigue viajar a París para intentar cumplir su sueño, anhela un amor prohibido que desafía las normas sociales y amenaza con dividir aún más a su familia. ¿Qué puede hacer un padre cuando el camino de su hijo no es el que él había planeado? ¿Y cómo puede un hijo cumplir su destino sin traicionar a su padre? Una inspiradora historia de autodescubrimiento y reconciliación. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Planeta México</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-07T20:12:27.311782+00:00"/>
+        <meta name="calibre:title_sort" content="El hijo del tallador de máscaras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

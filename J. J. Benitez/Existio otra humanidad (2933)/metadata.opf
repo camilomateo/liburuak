@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2933</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41d88b70-73d4-443e-aa9b-ab3c83dc30b8</dc:identifier>
+        <dc:title>Existió otra humanidad</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1974-12-31T23:00:00+00:00</dc:date>
+        <dc:description>J.J. Benítez explica en esta obra lo que él considera la prueba definitiva de que hace millones de años existió otra civilización en nuestro planeta. Más de once mil piedras, perfectamente grabadas con sugestivos dibujos, dan testimonio de que ciertos habitantes de la Prehistoria tenían conocimientos de las ciencias de hoy: biología, botánica, náutica, astronomía… Su saber y sus experiencias se hallan reflejados en las piedras halladas en Ica (Perú), cuya descripción e historia se ofrece en este libro.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:23.953209+00:00"/>
+        <meta name="calibre:title_sort" content="Existió otra humanidad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

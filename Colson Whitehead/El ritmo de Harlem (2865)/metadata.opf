@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2865</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">612d3221-1b6a-42f3-9f97-9f83e49bef98</dc:identifier>
+        <dc:title>El ritmo de Harlem</dc:title>
+        <dc:creator opf:file-as="Whitehead, Colson" opf:role="aut">Colson Whitehead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-23T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;«Un autor que roza la maestría [...]. Whitehead se ha convertido en uno de los mejores novelistas de Estados Unidos».&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Sam Sacks, The Wall Street Journal&lt;/p&gt;
+&lt;p&gt;Ray Carney, hijo de un miembro de la mafia local y padre de familia modélico, regenta la tienda de muebles de la calle Ciento veinticinco, en Harlem. Ray intenta alejarse de la vida de delincuencia que su padre le mostró de niño, pero con un segundo hijo en camino necesita sacarse un dinero extra revendiendo artículos robados. Ahora, su primo Freddie le ofrece participar en algo más peligroso: el robo del famoso hotel Theresa, el Waldorf de Harlem. Policías corruptos, gángsters locales y pornógrafos pirómanos pasan a formar parte de su clientela habitual, y Ray tendrá que hacer equilibrios para mantener esta doble vida sin morir en el intento.&lt;/p&gt;
+&lt;p&gt;El multipremiado Colson Whitehead regresa con una historia deslumbrante que recrea el paisaje criminal del Harlem de los años sesenta, un lugar que se convertirá en el centro de la lucha por los derechos civiles y donde la muerte de un adolescente negro abatido a tiros por la policía desencadenará los famosos disturbios de 1964. Una vez más, el autor pone de relieve las desigualdades y la discriminación racial de una época cuyos ecos aún resuenan en nuestro presente, en una novela criminal cargada de humor con la que consigue romper de nuevo las reglas del género negro.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Ray Carney"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-02-02T12:10:15.369718+00:00"/>
+        <meta name="calibre:title_sort" content="ritmo de Harlem, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

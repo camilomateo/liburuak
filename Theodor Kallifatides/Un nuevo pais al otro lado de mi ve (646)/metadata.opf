@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">646</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5969289d-60f2-4578-9c02-042c6b9a2c01</dc:identifier>
+        <dc:title>Un nuevo país al otro lado de mi ventana</dc:title>
+        <dc:creator opf:file-as="Theodor Kallifatides" opf:role="aut">Theodor Kallifatides</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;span&gt;Theodor Kallifatides emigró de Grecia a Suecia en 1964. En Un 
+nuevo país al otro lado de mi ventana explora sus orígenes griegos y la 
+persona en la que se ha convertido después de décadas de vida en Suecia.
+ Sin duda, este es el libro más personal del autor, aquel en el que 
+reflexiona con más profundidad sobre los que son los grandes temas de 
+sus novelas, el individuo y la historia, la emigración y el sentido de 
+pertenencia, la lengua y la memoria, el amor y la identidad. Con el 
+humor y la calidez que le son propios, Kallifatides nos lega aquí su 
+alma al desnudo, y construye un relato de una humanidad radical que 
+maravillará y emocionará de nuevo a sus lectores.&lt;/span&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419392794</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-10T14:29:07.148383+00:00"/>
+        <meta name="calibre:title_sort" content="Un nuevo país al otro lado de mi ventana"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

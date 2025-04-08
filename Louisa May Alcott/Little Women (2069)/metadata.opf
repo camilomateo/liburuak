@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96729bdb-e4ca-49dd-a47e-83086a114a39</dc:identifier>
+        <dc:title>Little Women</dc:title>
+        <dc:creator opf:file-as="Alcott, Louisa May" opf:role="aut">Louisa May Alcott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Autobiographical</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Young</dc:subject>
+        <dc:subject>Women</dc:subject>
+        <dc:subject>Sisters</dc:subject>
+        <dc:subject>Domestic</dc:subject>
+        <dc:subject>Family</dc:subject>
+        <dc:subject>Life</dc:subject>
+        <dc:subject>New</dc:subject>
+        <dc:subject>England</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Mothers</dc:subject>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="278"/>
+        <meta name="calibre:timestamp" content="2024-09-06T12:09:07+00:00"/>
+        <meta name="calibre:title_sort" content="Little Women"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

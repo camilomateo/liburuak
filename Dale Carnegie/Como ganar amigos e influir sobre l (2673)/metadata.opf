@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b6bdbe6-a7c2-4cd0-ac31-abdc586cc2c0</dc:identifier>
+        <dc:title>Cómo ganar amigos e influir sobre las personas</dc:title>
+        <dc:creator opf:file-as="Dale Carnegie" opf:role="aut">Dale Carnegie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1935-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Convertido en un clásico de las relaciones humanas, «Cómo ganar amigos…» contiene principios tan sólidos que siendo escritos en 1936, siguen tan vigentes como entonces. Aplicando su gran conocimiento de las personas, dotes de observación y experiencia profesional, Dale Carnegie consiguió crear un tratado de psicología cotidiana que no ha perdido ni un ápice de actualidad y que en buena medida es el origen del «marketing» moderno. Según Carnegie, el éxito económico depende en 15 por ciento del conocimiento profesional y en un 85 por ciento de la capacidad para expresar ideas, asumir el liderazgo y despertar el entusiasmo en los demás. A través de consejos prácticos y ejemplos tomados tanto de personajes relevantes en la historia como de gente común, Carnegie muestra las técnicas fundamentales para gustar a los demás, comprender sus puntos de vista e imponer las propias ideas sin causar resentimiento. Con más de 15 millones de ejemplares vendidos «Cómo ganar amigos…» ha ayudado a miles de personas a alcanzar el éxito en su vida profesional y personal.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">45387</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Manuales y cursos</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:08:32.071889+00:00"/>
+        <meta name="calibre:title_sort" content="Cómo ganar amigos e influir sobre las personas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

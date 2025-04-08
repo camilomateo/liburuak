@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1247</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c0bcf23-48ab-4e3e-98ec-74d43118e5f6</dc:identifier>
+        <dc:title>El perfecto cerebro imperfecto</dc:title>
+        <dc:creator opf:file-as="Calixto, Eduardo" opf:role="aut">Eduardo Calixto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;Descubre cómo tu cerebro te ayuda a superar temores e incertidumbres y a lograr bienestar y felicidad.&lt;/B&gt;&lt;/P&gt; &lt;p&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;¿Cómo reacciona nuestro cerebro ante pandemias o catástrofes naturales? ¿Qué ocurre en su interior cuando se presentan momentos de alegría, ilusiones o gratitud? Descubre en estas páginas lo que no sabías acerca de su funcionamiento.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Con el tono más accesible, las &lt;B&gt;investigaciones científicas&lt;/B&gt; más avanzadas y la amenidad que lo caracteriza, el doctor Eduardo Calixto explica qué ocurre en nuestro cerebro cuando enfrentamos &lt;B&gt;crisis existenciales&lt;/B&gt;, cómo ayudan algunos alimentos a tener mejor salud cerebral, por qué es importante no saltarse el desayuno y hacer ejercicio.&lt;/P&gt; &lt;P&gt;Además, en este libro sorprendente descubrirás:&lt;/P&gt; &lt;P&gt;-Cómo la música influye para el bienestar físico y emocional.&lt;/P&gt; &lt;P&gt;-Ejercicios como caminar en reversa para activar la memoria y los recuerdos. · Dequé forma el cerebro entiende la muerte y cómo se...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial México</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073197007</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-23T08:41:59.129396+00:00"/>
+        <meta name="calibre:title_sort" content="perfecto cerebro imperfecto, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

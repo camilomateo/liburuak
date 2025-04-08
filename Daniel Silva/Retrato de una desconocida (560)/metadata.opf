@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">560</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88a197f7-4365-4e37-bc67-9389073fecad</dc:identifier>
+        <dc:title>Retrato de una desconocida</dc:title>
+        <dc:creator opf:file-as="Silva, Daniel" opf:role="aut">Daniel Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En la nueva y deslumbrante obra maestra de Daniel Silva, autor 
+número uno de la lista de superventas de The New York Times, Gabriel 
+Allon se embarca en una búsqueda trepidante para descubrir al mayor 
+falsificador de arte que jamás haya existido.&lt;br&gt;Tras cortar sus lazos 
+con los servicios de inteligencia israelíes, el legendario espía y 
+restaurador de arte Gabriel Allon se instala discretamente en Venecia, 
+el único lugar donde ha conocido la paz. Su bella esposa, Chiara, dirige
+ la Compañía de Restauración Tiepolo y sus dos hijos de corta edad 
+acuden a una scuola elementare del barrio. Gabriel, entretanto, dedica 
+sus días a vagar por las calles y los canales de la ciudad acuática, 
+desprendiéndose de los demonios de su trágico y violento pasado.&lt;br&gt;Pero
+ cuando Julian Isherwood, el excéntrico marchante de arte londinense, le
+ pide que investigue las circunstancias que rodean el redescubrimiento y
+ la lucrativa venta de un cuadro centenario, Gabriel no tarda en 
+descubrir que la obra en cuestión, un retrato de una mujer anónima 
+atribuido a Anton van Dyck, es casi con toda certeza una falsificación 
+hecha con diabólica habilidad. Para encontrar al misterioso personaje 
+que pintó el cuadro —y destapar un fraude multimillonario en la cúspide 
+del mundo del arte—, Gabriel concibe uno de los planes más complejos de 
+su carrera. Si quiere tener éxito, habrá de convertirse en la imagen 
+especular del hombre al que busca: el mayor falsificador de cuadros de 
+la historia.
+
+&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491398684</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-17T11:30:18.991661+00:00"/>
+        <meta name="calibre:title_sort" content="Retrato de una desconocida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

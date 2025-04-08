@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9310f292-0742-448d-ac02-7db3a4e82674</dc:identifier>
+        <dc:title>Aprende a desayunar</dc:title>
+        <dc:creator opf:file-as="Bernácer Martínez, Raquel" opf:role="aut">Raquel Bernácer Martínez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-17T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;La primera comida del día ha tomado las redes sociales y las revistas de
+ recetas y salud con defensores y detractores que se enfrentan armados 
+de ingredientes extravagantes y estudios científicos de mayor o menor 
+rigor. Hablar del desayuno es mucho más que compartir unas bonitas 
+fotos. Detrás de él hay todo un mundo de verdades, falsos mitos y 
+hábitos culturales. Un buen ejemplo es el desayuno occidental, que 
+compuesto básicamente por bollería, pan blanco y azúcar, ha dejado de 
+ser la comida más importante del día para convertirse en la más 
+peligrosa. Pero si&lt;br&gt;el zumo de naranja, los cereales de desayuno, las 
+galletas o, incluso, la tostada con aceite y una loncha de pavo no son 
+la mejor opción, ¿qué desayunamos? Este libro da respuesta a esta 
+pregunta e incluye más de ochenta recetas de desayunos sanos y sabrosos 
+para toda la familia, ideas para ahorrar tiempo de preparación en la 
+cocina, alternativas caseras para llevar a clase o a la oficina y 
+multitud de consejos para disfrutar las mañanas como corresponde.&lt;/div&gt;</dc:description>
+        <dc:publisher>Amat Editorial</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07PT87KSX</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788417208578</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Raquel Bernácer Martínez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-27T09:32:25.432618+00:00"/>
+        <meta name="calibre:title_sort" content="Aprende a desayunar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

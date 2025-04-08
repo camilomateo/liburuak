@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7b72c46-0dbb-4e9c-9ec5-b64a0e791e23</dc:identifier>
+        <dc:title>La isla de las últimas voces</dc:title>
+        <dc:creator opf:file-as="Santiago, Mikel" opf:role="aut">Mikel Santiago</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-19T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;Una isla perdida en el mar del Norte.&lt;/b&gt;&lt;/p&gt; &lt;p&gt;El temporal se 
+cierne sobre St. Kilda y casi todos han huido en el  último ferry. No 
+quedan en la isla más de cincuenta personas, entre ellos Carmen, una 
+mujer española que trabaja en el pequeño hotel local, y un puñado de 
+pescadores. Serán ellos quienes encuentren un misterioso contenedor 
+metálico junto a los acantilados.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Una extraña caja traída por las olas.&lt;/b&gt;&lt;/p&gt; &lt;p&gt;A
+ través de unos personajes llenos de matices y secretos, atrapados en  
+el corazón de la tormenta, Mikel Santiago nos plantea la pregunta que 
+sobrevuela cada página de la novela...&lt;/p&gt; &lt;p&gt;&lt;b&gt;¿Hasta dónde estarías dispuesto a llegar para sobrevivir?&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466664097</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mikel Santiago&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:12:22.712884+00:00"/>
+        <meta name="calibre:title_sort" content="isla de las últimas voces, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10058568-660b-4f07-b1bf-17631e35f6d6</dc:identifier>
+        <dc:title>Los Borgia</dc:title>
+        <dc:creator opf:file-as="Mario Puzo" opf:role="aut">Mario Puzo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La primera gran familia del crimen: un retrato fascinante de una familia cuya ambición y sed de poder le llevaría a la cima del mundo, y la crónica del alto precio que pagaron por ello. Mientras la implacable peste negra asolaba Europa, una nueva cultura empezaba a florecer en las ciudades y el estudio de las grandes civilizaciones clásicas iniciaba una época de esplendor para las artes, las letras y las ciencias. En Roma, la restauración de un único trono papal auguraba una nueva etapa de poder y fausto del papado, pero al mismo tiempo la corrupción amenazaba a la Iglesia. Altos mandatarios eclesiásticos visitaban los burdeles y mantenían a varias amantes, aceptaban sobornos y comerciaban con las bulas papales que perdonaban los pecados más atroces Así era la vida en el Renacimiento. Así era el mundo de Alejandro VI, el Papa Borgia, y de sus hijos César, Juan, Lucrecia y Jofre. Esta es su historia, el retrato fascinante de una familia cuya ambición y sed de poder le llevaría a la cima del mundo, y la crónica del alto precio que pagaron por ello. Tras la honda huella que dejó en los lectores la familia Corleone de El Padrino, Puzo vuelve a conmovernos con unos personajes crueles y cautivadores, víctimas de sus feroces instintos. Resultado de una labor de más de diez años y de la maestría literaria del autor, Los Borgia evoca de modo incomparable las grandes pasiones que mueven la historia. Un libro fundamental, el legado literario de Mario Puzo, uno de los más grandes escritores del siglo XX &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>B DE BOLSILLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408048091</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8408048090</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-8irEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mario Puzo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:39:58.271878+00:00"/>
+        <meta name="calibre:title_sort" content="Los Borgia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

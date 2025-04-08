@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">881</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">825bd5ca-c5f8-4064-87a1-c7d0e8be12f9</dc:identifier>
+        <dc:title>El bolígrafo de gel verde</dc:title>
+        <dc:creator opf:file-as="Moreno, Eloy" opf:role="aut">Eloy Moreno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-15T06:00:00+00:00</dc:date>
+        <dc:description>«El bolígrafo de gel verde es el retrato detallado, minucioso, magnífico y angustioso de cómo perder el tiempo y, en consecuencia, perder la vida». Superficies de vida: Casa: 89 m2 Ascensor: 3 m2 Garaje: 8 m2 Empresa: la sala, unos 80 m2 Restaurante: 50 m2 Cafetería: 30 m2 Casa de los padres de Rebe: 90 m2 Casa de mis padres: 95 m2 Total: 445 m2 ¿Puede alguien vivir en 445 m2 durante el resto de su vida? Seguramente sí, seguramente usted conoce a mucha gente así. Personas que se desplazan por una celda sin estar presas; que se levantan cada día sabiendo que todo va a ser igual que ayer, igual que mañana; personas que a pesar de estar vivas se sienten muertas. Ésta es la historia de un hombre que fue capaz de hacer realidad lo que cada noche imaginaba bajo las sábanas: empezarlo todo de nuevo. Lo hizo, pero pagó un precio demasiado alto. Pero si de verdad usted quiere saber cuál es el argumento de esta novela, mire su muñeca izquierda; ahí está todo. Esta novela no ha sido galardonada con ningún conocido premio literario; ni siquiera con uno desconocido.</dc:description>
+        <dc:publisher>B DE BOOKS</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2023-06-22T13:04:22.803864+00:00"/>
+        <meta name="calibre:title_sort" content="bolígrafo de gel verde, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

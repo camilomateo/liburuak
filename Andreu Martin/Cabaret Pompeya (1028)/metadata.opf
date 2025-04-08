@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1028</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d79581d-3688-4817-92d1-4ceff084a438</dc:identifier>
+        <dc:title>Cabaret Pompeya</dc:title>
+        <dc:creator opf:file-as="Andreu Martín" opf:role="aut">Andreu Martín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-17T08:30:02+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="a-text-bold"&gt;Una colosal novela policiaca en la Barcelona convulsa de la primera mitad del siglo XX.&lt;/span&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;Barcelona,
+ 1920, es la época convulsa de las bombas y el pistolerismo. Fernando, 
+Miguel y Víctor se conocen en el Pompeya, uno de los más animados music 
+halls del Paralelo. Fernando es bandoneonista y Miguel y Víctor trabajan
+ en el puerto; los tres tienen veinte años, son alegres, seductores, 
+amigos de la diversión y están dispuestos a comerse el mundo, pero 
+tampoco son ajenos a los ideales políticos que se respiran en el 
+ambiente.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;La historia de su amistad, que resistirá las 
+crueles embestidas de la Guerra Civil y la posguerra, es el hilo 
+conductor de esta novela de trama trepidante y adictiva, de agentes 
+dobles, tanguistas, comisarios, anarquistas y maquis, de odio, amor, 
+injusticias y venganzas.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;«Algunos han sugerido que se trata de la gran novela policiaca sobre Barcelona; otros, de una novela histórica. En realidad &lt;span class="a-text-italic"&gt;Cabaret Pompeya &lt;/span&gt;es mucho más que todo ello. Al margen de cualquier etiqueta, el texto se alza, simplemente, como una gran novela. Colosal».  &lt;br&gt;&lt;br&gt;&lt;span class="a-text-italic"&gt;Qué Leer&lt;/span&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Siruela</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-10-20T08:25:39.465403+00:00"/>
+        <meta name="calibre:title_sort" content="Cabaret Pompeya"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

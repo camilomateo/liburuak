@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2651</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d716798-093c-499f-9468-89864fbee5bc</dc:identifier>
+        <dc:title>Stephen King</dc:title>
+        <dc:creator opf:file-as="Adolfo Pérez Agustí" opf:role="aut">Adolfo Pérez Agustí</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-12T23:00:00+00:00</dc:date>
+        <dc:description>Este novelista norteamericano, escritor de novelas y relatos cortos, cuyos libros han alcanzado un gran éxito popular, es ya un clásico de la ficción y el terror desde los años setenta.  El papel de este escritor moderno puede compararse al de J.R.R. Tolkien, quien igualmente creó un nuevo tipo de fantasía. Sin embargo, King ha expresado las preocupaciones fundamentales de su época, y usado el género de terror como su propia forma de expresión artística.  Según ha subrayado, en este mundo de cinismo, desesperación y crueldades, es posible para los individuos encontrar el amor y descubrir recursos inesperados en ello. Sus personajes conquistan al lector con sus problemas comunes y los poderes malévolos que giran a su alrededor intentando destruirles.  Lo que hizo a King alguien diferente es que él no aspiraba solamente a ser escritor, sino que fue adelante con ello.</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Arte</dc:subject>
+        <dc:subject>memorias</dc:subject>
+        <meta name="calibre:series" content="¿Sabes de cine?"/>
+        <meta name="calibre:series_index" content="0"/>
+        <meta name="calibre:timestamp" content="2024-10-22T05:50:36.618494+00:00"/>
+        <meta name="calibre:title_sort" content="Stephen King"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1829</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2745664-f358-4678-8959-41cac7fa4bd7</dc:identifier>
+        <dc:title>Fuego mortal</dc:title>
+        <dc:creator opf:file-as="Garbantes, Raúl &amp; Banfi, Giovanni" opf:role="aut">Raúl Garbantes</dc:creator>
+        <dc:creator opf:file-as="Garbantes, Raúl &amp; Banfi, Giovanni" opf:role="aut">Giovanni Banfi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-13T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La agente Ainara Pons regresa en la cuarta novela de la serie: Ella deberá resolver el caso de un incendiario en Nueva York, descubrir al culpable del homicidio de dos de sus mejores amigos, y encarar a un misterioso hombre que la sigue...&lt;/p&gt;
+&lt;p&gt;Ainara no se encuentra en su mejor momento. Ha pasado un año desde que perdió a su novio, Danny Reed, y aún le está costando vencer las memorias del pasado. Sin embargo, ella decide volver a trabajar en el FBI. Junto con los agentes Bennett y Tanaka, Ainara investigará el caso de un pirómano homicida que ha ocasionado incendios en diferentes ciudades del estado de Nueva York.&lt;/p&gt;
+&lt;p&gt;Por otro lado, en el distrito de Queens, Ainara descubrirá el asesinato de una pareja de veterinarios amigos de ella. La hija de esta pareja ha desparecido y Ainara presume que ha sido raptada.&lt;/p&gt;
+&lt;p&gt;Ainara también se percatará que un hombre misterioso la está siguiendo. ¿Quién es este personaje? ¿Estará relacionado a los incendios?&lt;/p&gt;
+&lt;p&gt;Fuego mortal es el cuarto libro de la serie de thrillers policíacos de la agente especial Ainara Pons. Si te gustan las aventuras trepidantes y con alta dosis de adrenalina, entonces esta novela de Raúl Garbantes te encantará.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09TX79ZMT</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Agente especial Ainara Pons"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2024-08-28T11:07:07.394265+00:00"/>
+        <meta name="calibre:title_sort" content="Fuego mortal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

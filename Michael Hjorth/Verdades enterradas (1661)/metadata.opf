@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1661</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">437627cd-afbe-43b8-b649-2a77825ec7cc</dc:identifier>
+        <dc:title>Verdades enterradas</dc:title>
+        <dc:creator opf:file-as="Michael Hjorth &amp; Hans Rosenfeldt" opf:role="aut">Michael Hjorth</dc:creator>
+        <dc:creator opf:file-as="Michael Hjorth &amp; Hans Rosenfeldt" opf:role="aut">Hans Rosenfeldt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-17T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p align="justify"&gt;Tres años después de los acontecimientos que vivieron en Mentiras consentidas, Vanja, Torkel, Ursula, Billy y el resto del equipo de la Unidad de Homicidios de Estocolmo deberán encargarse de un asesino en serie que ha dejado un rastro de cadáveres en la pequeña ciudad costera de Karlshamn. Pero no hay pistas, testigos ni conexiones claras entre las víctimas. Por su parte, desde que se convirtiera en abuelo, Sebastian Bergman ha optado por un estilo de vida más tranquilo, y ahora trabaja a tiempo parcial como psicólogo y terapeuta. Sin embargo, su mundo dará un vuelco cuando un hombre acude a él en busca de ayuda para procesar las experiencias que vivió en el tsunami de 2004, en el que el Sebastian lo perdió todo y que no ha podido olvidar.&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Serie Bergman"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2024-07-07T13:32:37.044696+00:00"/>
+        <meta name="calibre:title_sort" content="Verdades enterradas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

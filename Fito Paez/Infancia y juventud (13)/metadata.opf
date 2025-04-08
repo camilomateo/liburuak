@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e73696a-67c0-40e4-be70-1e1ebf94b8dc</dc:identifier>
+        <dc:title>Infancia y juventud</dc:title>
+        <dc:creator opf:file-as="Páez, Fito" opf:role="aut">Fito Páez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-28T22:00:00+00:00</dc:date>
+        <dc:description>De la infancia rosarina al apogeo de su juventud, el recorrido es largo. Infinidad de escenarios, nombres, lugares, anécdotas, homenajes, la tragedia y el amor marcando el ritmo de un relato que hace de este libro de memorias una canción perfecta.</dc:description>
+        <dc:publisher>Planeta Argentina</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Musica</dc:subject>
+        <meta name="calibre:series" content="Memorias"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:09:18+00:00"/>
+        <meta name="calibre:title_sort" content="Infancia y juventud"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

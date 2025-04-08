@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2376</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43bd2ee4-78f6-4778-9729-b7e879fdc60a</dc:identifier>
+        <dc:title>La esfinge de los hielos</dc:title>
+        <dc:creator opf:file-as="Verne, Julio" opf:role="aut">Julio Verne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Aventuras</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="175"/>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:18.690368+00:00"/>
+        <meta name="calibre:title_sort" content="esfinge de los hielos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

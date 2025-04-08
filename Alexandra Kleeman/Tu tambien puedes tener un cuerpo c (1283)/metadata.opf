@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be152da7-dc21-49fd-a51b-15a5b152fba8</dc:identifier>
+        <dc:title>Tú también puedes tener un cuerpo como el mío</dc:title>
+        <dc:creator opf:file-as="Alexandra Kleeman" opf:role="aut">Alexandra Kleeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La singular primera novela de Alexandra Kleeman es un cruce sorprendente y a ratos inquietante entre La subasta del lote 49 de Thomas Pynchon y Ruido blanco de Don DeLillo.&lt;/p&gt;
+&lt;p&gt;Tú también puedes tener un cuerpo como el mío es una historia de misterio narrada desde el punto de vista de la persona desaparecida, así como una disección de la sociedad contemporánea que aborda el sexo y la amistad, el consumismo y la obsesión por la alimentación y la belleza desde una óptica distópica pero extrañamente familiar.&lt;/p&gt;
+&lt;p&gt;A es una mujer joven que vive en una anónima ciudad americana con su compañera de piso, B, y su novio, C. A se alimenta casi exclusivamente de helado y naranjas, ve cantidades ingentes de televisión y hace lo posible por amoldar su cuerpo a un canon de belleza que solo existe en la publicidad. B se esfuerza por parecerse lo más posible a A, copiando sus hábitos y apropiándose de sus pertenencias, mientras que A, a su vez, busca un sentido a su vida más allá de su dependencia sentimental de C.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Gatopardo Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417109936</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-10T20:24:50.968135+00:00"/>
+        <meta name="calibre:title_sort" content="Tú también puedes tener un cuerpo como el mío"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

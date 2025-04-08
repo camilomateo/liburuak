@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24295409-6a48-411d-bac9-d14f4ef3a223</dc:identifier>
+        <dc:title>Gladiadores</dc:title>
+        <dc:creator opf:file-as="González, Néstor F. Marqués" opf:role="aut">Néstor F. Marqués González</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-28T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¿Alguna vez te has preguntado si realmente los gladiadores morían en los combates? ¿Si se inundaba la arena del Coliseo para celebrar batallas navales? ¿O si gritaban aquello de «¡Ave César, los que van a morir te saludan!»? Ahora tienes la oportunidad de dar respuesta a estas y otras muchas preguntas sobre los famosos espectáculos de la antigua Roma.&lt;/p&gt;
+&lt;p&gt;En este libro, Néstor F. Marqués te invita a viajar en el tiempo para conocer de primera mano cómo era el ocio de los romanos. Asistirás a luchas de gladiadores, cacerías, carreras de carros y mucho más mientras visitas el pasado con unguía excepcional que conoce la antigua Roma como la palma de su mano. Podrás descubrir con rigor la realidad escondida tras lo que la tradición popular y el cine nos han contado siempre.&lt;/p&gt;
+&lt;p&gt;Prepara tus mejores ropajes, ven a disfrutar del espectáculo desde las gradas y vívelo con todo el público. ¡Que comiencen los juegos!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-10T15:00:48.966098+00:00"/>
+        <meta name="calibre:title_sort" content="Gladiadores"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

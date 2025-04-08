@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1913</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f793d743-1b9b-4623-a6a3-a7fadf6124ce</dc:identifier>
+        <dc:title>Física recreativa 1</dc:title>
+        <dc:creator opf:file-as="Perelmán, Yákov" opf:role="aut">Yákov Perelmán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencias</dc:subject>
+        <dc:subject>exactas</dc:subject>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:timestamp" content="2024-09-05T16:00:42.542262+00:00"/>
+        <meta name="calibre:title_sort" content="Física recreativa 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

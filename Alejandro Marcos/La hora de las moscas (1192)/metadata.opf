@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6feeaf2-ba3a-4e65-8270-e8348239071a</dc:identifier>
+        <dc:title>La hora de las moscas</dc:title>
+        <dc:creator opf:file-as="Marcos, Alejandro" opf:role="aut">Alejandro Marcos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-20T06:00:00+00:00</dc:date>
+        <dc:description>El pueblo seestáquedandovacío; seestá muriendo. Siesosucede, no sepodrácontener lapuerta. Curva de Arladesaparecerá,comosinuncahubieraexistido. Nadie seacordará deél.Igual quelos pueblos queduermen bajolospantanos.La tranquilidad de Curva de Arla, un pequeño pueblo castellano, se ve perturbada por la irrupción de los pesares, unas apariciones malvadas que han abierto una puerta a nuestra realidad y amenazan con invadirla. Estos espíritus, controlados por otra entidad aún más peligrosa y desconocida, se han nutrido de la envidia y la violencia enraizada en la zona durante siglos y ha llegado la hora de su venganza. Solo Bernarda, una misteriosa mujer vestida de negro, tiene la clave para detener a los pesares a través de la elección de ocho habitantes del pueblo, entre los que se encuentra el "guardián" capaz de sellar la puerta. Los muertos y los vivos chocarán en una lucha encarnizada entre la oscuridad y la luz, el pasado y el presente, la barbarie y la esperanza.Bebiendo...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401033001</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-05T16:55:57.761010+00:00"/>
+        <meta name="calibre:title_sort" content="hora de las moscas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

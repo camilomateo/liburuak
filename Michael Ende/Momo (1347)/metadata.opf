@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1347</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7b1f5ea-0fd8-4bb3-aa86-b42c3315a9be</dc:identifier>
+        <dc:title>Momo</dc:title>
+        <dc:creator opf:file-as="Ende, Michael" opf:role="aut">Michael Ende</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1978-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Momo es una niña con un don muy especial: sólo con escuchar consigue que todos se sientan mejor. Pero pronto la llegada de los hombres grises va a cambiar su vida. Prometen que ahorrar tiempo es lo mejor que se puede hacer, y poco a poco nadie tiene tiempo ni para jugar con los niños. Momo es la única que no se deja engañar, y con la ayuda de la tortuga Casiopea y del maestro Hora emprenderá una aventura fantástica contra los ladrones de tiempo. Una novela única con la que redescubrir la importancia de la amistad, la bondad y el valor de las cosas sencillas. En definitiva, sobre lo que de verdad nos hace felices.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Infantil y juvenil</dc:subject>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:34.052768+00:00"/>
+        <meta name="calibre:title_sort" content="Momo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

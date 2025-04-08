@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2908</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d84c3a6-9fc4-4012-8498-2e49863c110c</dc:identifier>
+        <dc:title>Una familia feliz</dc:title>
+        <dc:creator opf:file-as="Safier, David" opf:role="aut">David Safier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Vuelve el Safier de Maldito karma, con un original argumento también en torno a la familia y protagonizado por una carismática librera. «Una novela que consigue hacerte más feliz» Buchwurm. La familia Van Kieren está al borde del caos. La librería de la madre, Emma, está en la bancarrota; el padre trabaja demasiado; la hija adolescente no aprueba ni una asignatura, y al hijo pequeño la chica que le gusta le mete de cabeza en el váter. Para colmo de males, después de una fiesta, una bruja hechiza a los Van Kieren y los condena a convertirse en el personaje del que van disfrazados. Para romper el hechizo, este singular cuarteto saldrá a la búsqueda de la bruja por medio mundo. Pero por mucho que busquen, los Van Kieren no podrán dejarán de ser monstruos hasta que vuelvan a creer en la felicidad familiar. David Safier, autor de Maldito karma, regresa con una novela hilarante sobre la familia, una historia que nos muestra como muchas veces no valoramos aquello que tenemos cerca hasta que algo nos obliga a verlo con nuevos ojos. Si crees que tu familia es un caos, es que aún no conoces a los Van Kieren.</dc:description>
+        <dc:identifier opf:scheme="ISBN">978-84-322-1016-7 (epub)</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-10T16:32:16.043986+00:00"/>
+        <meta name="calibre:title_sort" content="familia feliz, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

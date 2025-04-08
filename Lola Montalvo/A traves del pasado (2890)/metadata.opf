@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2890</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aed92925-f394-4e58-8541-31e499cc1d60</dc:identifier>
+        <dc:title>A través del pasado</dc:title>
+        <dc:creator opf:file-as="Montalvo, Lola" opf:role="aut">Lola Montalvo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-26T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El inspector de policía César Ortega es eficaz e inteligente, pero arrastra mala fama por su difícil carácter. Y, además, se siente aprisionado en un episodio de su pasado que aún hoy lo persigue. En plena crisis personal, se traslada a Madrid para incorporarse a la UDYCO, la unidad de la policía judicial al cargo del crimen organizado, y un día decide llamar a un servicio de escorts...&lt;br&gt;&lt;br&gt;Manuela, asfixiada por las deudas que le dejó su marido, Dieter Vettel, se ha visto obligada a montar un negocio de acompañantes para, sola, poder sacar adelante a sus hijos.&lt;br&gt;&lt;br&gt;Y, de repente, un preso recien salido de la cárcel de Morón se entrecruza en sus caminos. No se conoce su identidad, pero tiene una deuda pendiente con el jefe de la antigua banda que lo ayudó años atrás, y ha vuelto dispuesto a vengarse.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435049894</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-10T16:14:57.668188+00:00"/>
+        <meta name="calibre:title_sort" content="A través del pasado"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

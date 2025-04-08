@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be3802df-5c3c-446e-8eae-9fd0673fbc0b</dc:identifier>
+        <dc:title>Los colores del incendio</dc:title>
+        <dc:creator opf:file-as="Pierre Lemaitre" opf:role="aut">Pierre Lemaitre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-06T23:00:00+00:00</dc:date>
+        <dc:description>El impacto que produjo en Francia la publicación de Nos vemos allá arriba —Premio Goncourt 2013 y más de dos millones de ejemplares vendidos— superó con creces la enorme resonancia que suele acompañar a uno de los galardones más prestigiosos de la literatura europea. El público y la crítica se rindieron ante la frescura, la plasticidad y la viveza de una prosa en apariencia ligera que, como en los mejores folletines decimonónicos, alimenta una trama envolvente y compleja en la que campan unos personajes que despiertan la curiosidad y estimulan la imaginación.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ambientada entre 1927 y 1933, esta continuación de las peripecias de la familia Péricourt se inicia con el funeral del patriarca Marcel, una ceremonia multitudinaria a la que asiste todo aquel que es, o aspira a ser, alguien en París. Sin embargo, las cosas no pintan demasiado bien para Madeleine, la heredera del ingente patrimonio familiar. Al suicidio de su hermano Édouard, el héroe desfigurado, el encarcelamiento de su ex marido estafador y la muerte de su padre, se añade la delicada situación de su hijo Paul, un niño de siete años que acaba de sufrir un horrible percance. Así, en este momento tan vulnerable de su vida, Madeleine debe ponerse al mando de una entidad financiera con la más que dudosa ayuda de un apoderado resentido, un tío codicioso y gris con aviesas intenciones y un joven amante con ínfulas de periodista. Y todo ello en un ambiente de secretos, traiciones, chantajes y artimañas en el que buscadores de fortuna y politicastros sin escrúpulos medran sin control, ajenos a la inminente quiebra bursátil e inconscientes de la hecatombe bélica que se cierne sobre Europa.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Con la fuerza arrolladora de un torbellino, Los colores del incendio trenza magistralmente la venganza implacable de una mujer a la par que ofrece un retrato soberbio de una época embarullada y vertiginosa. Esta novela explosiva, brillante y divertida, en la que la acritud se funde con la melancolía, ha consolidado a Pierre Lemaitre como uno de los pilares fundamentales de la narrativa francesa actual.</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417384562</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Pierre Lemaitre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-03T07:31:24.028559+00:00"/>
+        <meta name="calibre:title_sort" content="colores del incendio, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

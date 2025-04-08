@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97bd958e-b9a4-4c0b-8e53-0aaa4f0e9fe0</dc:identifier>
+        <dc:title>Devoción</dc:title>
+        <dc:creator opf:file-as="d'Ors, Pablo" opf:role="aut">Pablo d'Ors</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-11T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En el mundo del espíritu no hay fronteras, la ausencia de fronteras es lo propiamente espiritual. Un místico de hoy puede sentir a un místico de cualquier pasado, sea de su tradición o de otra, como a un verdadero hermano. A esta conclusión tan sencilla como universal llega el autor de Devoción en su versión de El peregrino ruso, un clásico del cristianismo ortodoxo y de la literatura devocional, así como en las principales enseñanzas de cara al autoconocimiento que extrae de su estudio, donde llega a declarar: "Este es el libro que yo querría haberme encontrado cuando tenía veinte años." Tras la extraordinaria acogida de sus últimos títulos, esta nueva obra de Pablo d'Ors nace con la inequívoca vocación de transformar definitivamente a sus lectores.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-27T17:24:55.554389+00:00"/>
+        <meta name="calibre:title_sort" content="Devoción"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

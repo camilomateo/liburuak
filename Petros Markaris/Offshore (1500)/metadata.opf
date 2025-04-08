@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c90b8945-f791-46ff-b250-9f73361205f9</dc:identifier>
+        <dc:title>Offshore</dc:title>
+        <dc:creator opf:file-as="Márkaris, Petros" opf:role="aut">Petros Márkaris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-03T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;div class="books-expander-content"&gt;
+                    &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;La corrupción y el blanqueo de capitales protagonizan el nuevo caso del comisario Kostas Jaritos.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;En
+ una Grecia que, misteriosamente, empieza a experimentar una gran 
+recuperación económica, un funcionario de la Secretaría de Estado de 
+Turismo aparece muerto en su casa, atado a una silla y con un tiro en la
+ cabeza. Todo apunta a un robo que se torció, pero el comisario Jaritos 
+no descarta que se trate de un ajuste de cuentas. Cuando las 
+indagaciones le llevan a descubrir que la víctima estaba ligada a 
+tráficos ilegales, los agentes detienen a dos inmigrantes que, acusados 
+del asesinato, confiesan que, efectivamente, intentaron perpetrar un 
+robo. El nuevo subdirector general presiona a Jaritos –como siempre, muy
+ escéptico– para que cierre el caso. Y entonces se produce un nuevo 
+asesinato: un famoso armador griego. &lt;br&gt;&lt;br&gt; Después de la «Tetralogía 
+de la Crisis», Márkaris desafía a un comisario Jaritos desbordado por 
+los acontecimientos a resolver varios crímenes investigando por su 
+cuenta y riesgo, poniendo en peligro su propia carrera en la policía, 
+para esclarecer casos que demuestran que los «nuevos» poderes tienen al 
+país atado de pies y manos.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788490663929</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-10T06:43:26+00:00"/>
+        <meta name="calibre:title_sort" content="Offshore"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

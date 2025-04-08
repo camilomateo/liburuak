@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2252</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d2d0750-5c0c-4d62-b904-807062d358a7</dc:identifier>
+        <dc:title>The Lady of the Lake</dc:title>
+        <dc:creator opf:file-as="Scott, Walter" opf:role="aut">Walter Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arthurian</dc:subject>
+        <dc:subject>romances</dc:subject>
+        <dc:subject>Lady</dc:subject>
+        <dc:subject>of</dc:subject>
+        <dc:subject>the</dc:subject>
+        <dc:subject>Lake</dc:subject>
+        <dc:subject>(Legendary</dc:subject>
+        <dc:subject>character)</dc:subject>
+        <dc:subject>--</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:33:53.295050+00:00"/>
+        <meta name="calibre:title_sort" content="The Lady of the Lake"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

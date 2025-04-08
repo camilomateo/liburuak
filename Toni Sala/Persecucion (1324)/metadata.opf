@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">faa13859-a369-4f27-beab-03b41cf9f9eb</dc:identifier>
+        <dc:title>Persecución</dc:title>
+        <dc:creator opf:file-as="Toni Sala" opf:role="aut">Toni Sala</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-12T10:07:53+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Albert Jordi y Èlia llevan un año saliendo cuando de repente, una noche, él le confiesa que estuvo en la cárcel por haber matado a su mujer con un cuchillo. Èlia lo echa de casa de inmediato, pero las preguntas y las dudas no tardan en atormentarla: ¿Cómo era posible que un hombre que siempre la había tratado tan bien hubiera sido capaz de asesinar a su mujer? ¿Por qué lo había hecho? ¿Estaba arrepentido? ¿Cuánto tiempo hacía que había salido de la cárcel cuando se conocieron? ¿Por qué había decidido confesárselo en aquel momento? Èlia decide ir a buscarlo para pedirle explicaciones, pero Albert Jordi ha desaparecido en una huida que arrastrará a más perseguidores tras de sí. En Persecución, una de las novelas más aclamadas de la literatura catalana actual y ganadora del Premi Crexells, Toni Sala teje una narración perturbadora, un remolino de tinieblas que explora las raíces más inconfesables de la maldad y la muerte.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Trotalibros Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:29.138839+00:00"/>
+        <meta name="calibre:title_sort" content="Persecución"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

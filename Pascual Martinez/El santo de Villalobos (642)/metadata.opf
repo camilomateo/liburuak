@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">642</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fbf8ece-32a6-449a-bfa4-b2d8ba3385a5</dc:identifier>
+        <dc:title>El santo de Villalobos</dc:title>
+        <dc:creator opf:file-as="Pascual Martínez" opf:role="aut">Pascual Martínez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-25T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;«Pascual Martínez ofrece al lector una muestra de su tremendo potencial como autor del policiaco más negro y le arranca una promesa, la de permanecer atento a su próximo título para lanzarse inmediatamente sobre él».Marina Sanmartín, ABC Cultural Pese a llevar cerca de medio año al mando del cuartel de Iznájar y haber resuelto un crimen que le ha encumbrado dentro del cuerpo, Ernesto Pitana, sargento de la Guardia Civil, no logra adaptarse a su nuevo destino. Y para complicar aún más su existencia, en la madrugada del día de Reyes, aparece en la playa de Valdearenas el cuerpo sin vida de Martín Urquijo, un curandero más conocido como el santo de Villalobos —en referencia a la aldea de Alcalá la Real donde residía—, heredero de una legendaria estirpe que ha obrado milagros en la zona desde el siglo XIX.En una áspera tierra de olivos, un mundo ancestral en el que nada ni nadie es lo que parece, el sargento Pitana —junto a la cabo Montero y su peculiar y heterogéneo equipo— se hará cargo de la investigación y tendrá que lidiar, desde el comienzo, con la apremiante sed de justicia de los fieles del santo y con la singular idiosincrasia, a caballo entre la tradición, la desconfianza y la devoción religiosa, de los habitantes de la comarca.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Siruela</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">DIe5zwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788419553164</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Pascual Martínez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:33:38.296373+00:00"/>
+        <meta name="calibre:title_sort" content="El santo de Villalobos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

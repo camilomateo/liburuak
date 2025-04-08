@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Psicológico</title>
+  <id>Calibre2opds:taglist:P:52</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Psicológico" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por P" />
+  <entry>
+    <title>La alegría de vivir</title>
+    <id>calibre:book:2550</id>
+    <updated>2024-09-09T10:35:06Z</updated>
+    <link href="../../Emile%20Zola/La%20alegria%20de%20vivir%20%282550%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emile%20Zola/La%20alegria%20de%20vivir%20%282550%29/La%20alegria%20de%20vivir%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="402 KB" />
+    <author>
+      <name>Émile Zola</name>
+      <uri>../authors_1/authors_1607_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Psicológico" />
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [184]:</summary>
+    <link href="../book_2/book_2550.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La asistenta</title>
+    <id>calibre:book:2665</id>
+    <updated>2024-10-22T00:28:26Z</updated>
+    <link href="../../Freida%20McFadden/La%20asistenta%20%282665%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Freida%20McFadden/La%20asistenta%20%282665%29/La%20asistenta%20-%20Freida%20McFadden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="435 KB" />
+    <author>
+      <name>Freida McFadden</name>
+      <uri>../authors_1/authors_1108_Page_1.xml</uri>
+    </author>
+    <published>2022-04-21T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="La asistenta" />
+    <summary>La asistenta [1]: Detrás de la puerta, ella lo ve todo.Todos los días friego la preciosa casa de los Winchester de arriba abajo. Recojo a su hija del colegio y preparo deliciosas comidas para toda la familia antes de subir a cenar sola en mi minúscul...</summary>
+    <link href="../book_2/book_2665.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El jugador</title>
+    <id>calibre:book:2373</id>
+    <updated>2024-09-09T10:34:18Z</updated>
+    <link href="../../Fiodor%20Dostoyevski/El%20jugador%20%282373%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fiodor%20Dostoyevski/El%20jugador%20%282373%29/El%20jugador%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="185 KB" />
+    <author>
+      <name>Fiódor Dostoyevski</name>
+      <uri>../authors_1/authors_1417_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [181]:</summary>
+    <link href="../book_2/book_2373.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Memorias del subsuelo</title>
+    <id>calibre:book:2438</id>
+    <updated>2024-09-09T10:34:31Z</updated>
+    <link href="../../Fiodor%20Dostoyevski/Memorias%20del%20subsuelo%20%282438%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fiodor%20Dostoyevski/Memorias%20del%20subsuelo%20%282438%29/Memorias%20del%20subsuelo%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="151 KB" />
+    <author>
+      <name>Fiódor Dostoyevski</name>
+      <uri>../authors_1/authors_1417_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Filosófico" />
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [3]:</summary>
+    <link href="../book_2/book_2438.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un milagro en equilibrio</title>
+    <id>calibre:book:1573</id>
+    <updated>2024-06-02T10:59:50Z</updated>
+    <link href="../../Lucia%20Etxebarria/Un%20milagro%20en%20equilibrio%20%281573%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lucia%20Etxebarria/Un%20milagro%20en%20equilibrio%20%281573%29/Un%20milagro%20en%20equilibrio%20-%20Lucia%20Etxebarria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <author>
+      <name>Lucía Etxebarria</name>
+      <uri>../authors_1/authors_1148_Page_1.xml</uri>
+    </author>
+    <published>2004-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Literanda</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <summary>Eva Agulló se ha hecho famosa con un libro sobre adicciones. La propia Eva es, en realidad, una adicta. Adicta al alcohol, a la angustia, a la valoración de los otros. En una carta-diario escrita a su hija recién nacida mientras su madre agoniza en e...</summary>
+    <link href="../book_1/book_1573.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La patrona</title>
+    <id>calibre:book:2436</id>
+    <updated>2024-09-09T10:34:30Z</updated>
+    <link href="../../Fiodor%20Dostoyevski/La%20patrona%20%282436%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fiodor%20Dostoyevski/La%20patrona%20%282436%29/La%20patrona%20-%20Fiodor%20Dostoyevski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="170 KB" />
+    <author>
+      <name>Fiódor Dostoyevski</name>
+      <uri>../authors_1/authors_1417_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Psicológico" />
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [8]:</summary>
+    <link href="../book_2/book_2436.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las penas del joven Werther</title>
+    <id>calibre:book:2383</id>
+    <updated>2024-09-09T10:34:20Z</updated>
+    <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Goethe/Las%20penas%20del%20joven%20Werther%20%282383%29/Las%20penas%20del%20joven%20Werther%20-%20Goethe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="124 KB" />
+    <author>
+      <name>Goethe</name>
+      <uri>../authors_1/authors_1598_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Psicológico" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [199]:</summary>
+    <link href="../book_2/book_2383.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pierre o las ambigüedades</title>
+    <id>calibre:book:2420</id>
+    <updated>2024-09-09T10:34:27Z</updated>
+    <link href="../../Herman%20Melville/Pierre%20o%20las%20ambiguedades%20%282420%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Herman%20Melville/Pierre%20o%20las%20ambiguedades%20%282420%29/Pierre%20o%20las%20ambiguedades%20-%20Herman%20Melville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="532 KB" />
+    <author>
+      <name>Herman Melville</name>
+      <uri>../authors_1/authors_1463_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [250]:</summary>
+    <link href="../book_2/book_2420.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La playa</title>
+    <id>calibre:book:2409</id>
+    <updated>2024-09-09T10:34:25Z</updated>
+    <link href="../../Cesare%20Pavese/La%20playa%20%282409%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cesare%20Pavese/La%20playa%20%282409%29/La%20playa%20-%20Cesare%20Pavese.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="171 KB" />
+    <author>
+      <name>Cesare Pavese</name>
+      <uri>../authors_1/authors_1421_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [240]:</summary>
+    <link href="../book_2/book_2409.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sirena negra</title>
+    <id>calibre:book:2387</id>
+    <updated>2024-09-09T10:34:20Z</updated>
+    <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emilia%20Pardo%20Bazan/La%20sirena%20negra%20%282387%29/La%20sirena%20negra%20-%20Emilia%20Pardo%20Bazan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="203 KB" />
+    <author>
+      <name>Emilia Pardo Bazán</name>
+      <uri>../authors_1/authors_1523_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [186]:</summary>
+    <link href="../book_2/book_2387.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El tapiz amarillo</title>
+    <id>calibre:book:2395</id>
+    <updated>2024-09-09T10:34:22Z</updated>
+    <link href="../../Charlotte%20Perkins%20Gilman/El%20tapiz%20amarillo%20%282395%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlotte%20Perkins%20Gilman/El%20tapiz%20amarillo%20%282395%29/El%20tapiz%20amarillo%20-%20Charlotte%20Perkins%20Gilman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="62 KB" />
+    <author>
+      <name>Charlotte Perkins Gilman</name>
+      <uri>../authors_1/authors_1636_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Psicológico" />
+    <category term="Terror" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [216]:</summary>
+    <link href="../book_2/book_2395.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Te estás jodiendo la vida</title>
+    <id>calibre:book:1225</id>
+    <updated>2024-02-20T04:17:36Z</updated>
+    <link href="../../Buenaventura%20del%20Charco%20Olea/Te%20estas%20jodiendo%20la%20vida%20%281225%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Buenaventura%20del%20Charco%20Olea/Te%20estas%20jodiendo%20la%20vida%20%281225%29/Te%20estas%20jodiendo%20la%20vida%20-%20Buenaventura%20del%20Charco%20Olea.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="765 KB" />
+    <author>
+      <name>Buenaventura del Charco Olea</name>
+      <uri>../authors_0/authors_891_Page_1.xml</uri>
+    </author>
+    <published>2023-09-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Martínez Roca</dcterms:publisher>
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <summary>Los nuevos gurús de la industria de la autoayuda nos repiten machaconamente frases como "Sé tu mejor versión", "Consigue tus objetivos y serás feliz". Hacen depender el valor de los individuos de su productividad y sus logros, deshumanizándolos. Así,...</summary>
+    <link href="../book_1/book_1225.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los verbos auxiliares del corazón</title>
+    <id>calibre:book:381</id>
+    <updated>2023-03-04T02:11:46Z</updated>
+    <link href="../../Peter%20Esterhazy/Los%20verbos%20auxiliares%20del%20corazon%20%28381%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20Esterhazy/Los%20verbos%20auxiliares%20del%20corazon%20%28381%29/Los%20verbos%20auxiliares%20del%20coraz%20-%20Peter%20Esterhazy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="601 KB" />
+    <author>
+      <name>Péter Esterházy</name>
+      <uri>../authors_0/authors_274_Page_1.xml</uri>
+    </author>
+    <published>2017-03-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Realista" />
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <summary>Un verdadero tour-de-force literario donde se mezclan los ingredientes más inesperados, brillantes y reveladores. «Ya cumplidos los treinta años, todo cambio es un símbolo detestable del pasaje del tiempo.» Dos hombres y una mujer, hermanos ya adulto...</summary>
+    <link href="../book_0/book_381.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

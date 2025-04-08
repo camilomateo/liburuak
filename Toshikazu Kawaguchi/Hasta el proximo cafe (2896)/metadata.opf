@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2896</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff5a7f15-12be-4f4a-889a-e695db9623a2</dc:identifier>
+        <dc:title>Hasta el próximo café</dc:title>
+        <dc:creator opf:file-as="Kawaguchi, Toshikazu" opf:role="aut">Toshikazu Kawaguchi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-23T00:00:00+00:00</dc:date>
+        <dc:description>Una nueva entrega del fenómeno feel-good japonés que ha enamorado a más de 5.000.000 de lectores en todo el mundo.Una historia llena de esperanza y optimismo que nos enseña quesiempre podemos reescribir nuestras vidas.En Japón se oculta un lugar legendario. Muchos van en su busca, pues creen que allí pueden encontrar las respuestas que necesitan. Tan solo hay que dejarse llevar por el intenso aroma del café, cruzar la puerta del local, sentarse y pedir una taza.Antes de que su bebida se enfríe, los clientes podrán revivir el pasado y revisitar aquel momento en el que tomaron una decisión que les atormenta, en el que callaron cuando querían decir la verdad, en el que se equivocaron.Entre ellos están el profesor Kadokura, que ha descuidado a su familia por el trabajo; Sunao y Mutsuo, afligidos por haber tenido que despedirse de su querido perro; Hikari, arrepentida por no haber aceptado la propuesta de matrimonio de su novio Yoji; y, por último, Michiko, que ha regresado al...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-10T16:14:58.660802+00:00"/>
+        <meta name="calibre:title_sort" content="Hasta el próximo café"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

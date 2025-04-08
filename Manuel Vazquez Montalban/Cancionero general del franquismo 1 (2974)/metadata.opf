@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2974</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07b3db54-23c6-47c6-86e9-b8fdae4b7f1e</dc:identifier>
+        <dc:title>Cancionero general del franquismo 1939-1975</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-04-30T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Primer albacea literario de la sentimentalidad de la España de posguerra, Manuel Vázquez Montalbán nos ofrece en este libro una antología de las canciones que entre 1939 y 1975 formaron parte de la cultura popular dirigida por el régimen franquista: canciones como &lt;i&gt;La morena de mi copla, Tatuaje, La vaca lechera, Mi casita de papel, Cambalache, Una chica ye-yé. ¡Ay pena, penita, pena!, Arrivederci Roma, Al alba, Libertad sin ira&lt;/i&gt; y muchas otras más que todavía hoy resuenan en la memoria colectiva de una generación de españoles que conoció la miseria material y moral de una larga noche de piedra. Este libro es, también, un inventario de la utilización que hizo el pueblo de una propuesta de ensueño indispensable para sobrevivir en malos tiempos para la lírica y un homenaje a la calidad poética de muchas de las canciones de consumo y a la necesidad de poesía de los que las consumen.&lt;/p&gt; &lt;p&gt;Este &lt;i&gt;Cancionero general del franquismo&lt;/i&gt;, que por fin ve hoy la luz tal como lo concibió el autor hace casi treinta años, está destinado a ser el paisaje melódico de la memoria de unos tiempos que ya estaban socialmente agotados antes de que se agotara el franquismo como sistema político.&lt;/p</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>Ciencias sociales</dc:subject>
+        <dc:subject>Comunicación</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:17+00:00"/>
+        <meta name="calibre:title_sort" content="Cancionero general del franquismo 1939-1975"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

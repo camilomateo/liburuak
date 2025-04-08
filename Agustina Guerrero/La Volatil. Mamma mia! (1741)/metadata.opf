@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1741</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c78d548-78af-4256-b361-ca21e00b5682</dc:identifier>
+        <dc:title>La Volátil. Mamma mia!</dc:title>
+        <dc:creator opf:file-as="Guerrero, Agustina" opf:role="aut">Agustina Guerrero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Nueve meses de embarazo protagonizados por uno de los personajes m&lt;/strong&gt;ás populares del cómic contemporáneo.&lt;/p&gt;
+&lt;p&gt;Estar embarazada, encontrarte con un nuevo cuerpo, nuevas dudas y muchos pero que muchos miedos. Alegría, antojos, tetas, vómitos, sueño, estrías, ecografías, barriga...&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Un libro que te sumergirá en páginas amnióticas.&lt;/p&gt;
+&lt;p&gt;«Un cómic a modo de diario protagonizado por una treintañera. Humor femenino del bueno para descubrir cómo ve el mundo la protagonista, y con la que en muchos momentos te sentirás identificada, a buen seguro. Ya sea por las cosas que sientes, por las cosas que te dan vergüenza o por las que te hacen sonreír.»&lt;/p&gt;
+&lt;p&gt;Isabel Rodríguez, Ella Hoy&lt;/p&gt;
+&lt;p&gt;«Su humor, la energía e intensidad de sus dibujos, sus ocurrentes viñetas y, sobre todo, el desnudarse en cada ilustración, son los principales motivos por los que caí atrapada en su primer libro y por lo que se ha convertido en una de mis ilustradoras de referencia. [...] La receta perfecta para tomarse las cosas con humor.»&lt;/p&gt;
+&lt;p&gt;Ana Rivera Magaña, Diari de Tarragona&lt;/p&gt;
+&lt;p&gt;«Una pequeña heroína urbana, siempre al borde de un ataque de nervios, que vive, sobrevive, ríe y llora en un mundo que tantas veces la sobrepasa y en el que se ven reflejados sus lectores.»&lt;/p&gt;
+&lt;p&gt;Álvaro Soto, Las Provincias &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-08T15:32:08.255295+00:00"/>
+        <meta name="calibre:title_sort" content="Volátil. Mamma mia!, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

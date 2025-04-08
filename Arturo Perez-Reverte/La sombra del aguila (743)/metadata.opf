@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">743</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b6f9698-123e-460d-be67-8d8c81ef783a</dc:identifier>
+        <dc:title>La sombra del águila</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;i&gt;La sombra del águila&lt;/i&gt; narra una historia ficticia basada en un hecho real: durante la campaña de Rusia de 1812, en un combate adverso para las tropas napoleónicas, un batallón de antiguos prisioneros españoles, enrolados a la fuerza en el ejército francés, intenta desertar, pasándose a los rusos. Interpretando erróneamente el movimiento, el Emperador lo toma por un acto de heroísmo y ordena en su auxilio una carga de caballería que tendrá imprevisibles consecuencias.&lt;/p&gt;
+
+  &lt;p&gt;Este relato breve fue publicado en el diario &lt;i&gt;El País&lt;/i&gt; en agosto de 1993, mientras Arturo Pérez-Reverte cubría, como reportero, el conflicto de Bosnia. Bajo su tono desgarrado, lúcido, divertido y trágico a un tiempo, el autor desvela una descarnada y mordaz visión de la guerra y la condición humana.&lt;/p&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.4</dc:identifier>
+        <dc:identifier opf:scheme="EPL">1184</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Bélico</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-22T15:06:41.035247+00:00"/>
+        <meta name="calibre:title_sort" content="sombra del águila, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

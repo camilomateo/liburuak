@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05ef27db-c1b3-46a0-b144-e060d0e2cd6b</dc:identifier>
+        <dc:title>Robadas</dc:title>
+        <dc:creator opf:file-as="Marsons, Angela" opf:role="aut">Angela Marsons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Grace Lennard, una niña de ocho años, desaparece del jardín de la ludoteca en una soleada tarde de agosto. La detective Kim Stone acude de inmediato y encuentra una prueba escalofriante: la pulsera grabada de Melody Jones, otra niña secuestrada en un parque infantil hace veinticinco años. &lt;/p&gt;
+&lt;p&gt; Horas antes, el millonario Steven Harte ha entrado por su propio pie en la comisaría de Halesowen para hablar con Kim. Dijo tener información que llevará a la detective hasta Melody, pero que ella tendrá que ocuparse de un problema más urgente antes. Si quiere encontrar a Grace con vida, Kim tendrá que jugar los tortuosos juegos de Steven Harte. Tiene veinticuatro horas, ni una más. No solo debe exprimir todo lo posible de cada segundo de los interrogatorios, sino también escudriñar el comportamiento de Steven en busca de pistas ocultas. &lt;/p&gt;
+&lt;p&gt; Pronto, Kim y su equipo lo relacionarán con el secuestro de varias niñas en situación de riesgo, dos de las cuales habían sido retenidas durante un año y, luego, liberadas ilesas. Pero ¿dónde están Melody y las demás? Cuando en un parque local aparecen unos pequeños huesos humanos, Kim teme lo peor. &lt;/p&gt;
+&lt;p&gt;Además, una escalofriante figura de su pasado ha vuelto para revelarle un secreto atroz, algo que golpeará a Kim donde más le duele. &lt;/p&gt;
+&lt;p&gt; ¿Podrá la detective apartar sus propios demonios para salvar a Grace y a las otras niñas robadas antes de que se pierdan más vidas inocentes? &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-17T10:24:16.877062+00:00"/>
+        <meta name="calibre:title_sort" content="Robadas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

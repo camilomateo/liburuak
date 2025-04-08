@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ciencia Ficción</title>
+  <id>Calibre2opds:taglist:C:16</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ciencia Ficción" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por C" />
+  <entry>
+    <title>La caída de Martin Orchard</title>
+    <id>calibre:book:201</id>
+    <updated>2023-01-26T07:21:02Z</updated>
+    <link href="../../Martin%20Lundqvist/La%20caida%20de%20Martin%20Orchard%20%28201%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Martin%20Lundqvist/La%20caida%20de%20Martin%20Orchard%20%28201%29/La%20caida%20de%20Martin%20Orchard%20-%20Martin%20Lundqvist.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="588 KB" />
+    <author>
+      <name>Martin Lundqvist</name>
+      <uri>../authors_0/authors_127_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Sebastian Llanos</name>
+      <uri>../authors_0/authors_128_Page_1.xml</uri>
+    </author>
+    <published>2020-05-05T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Martin Lundqvist</dcterms:publisher>
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>'El Apocalipsis se acercaba. La Explosi&amp;oacute;n de Rayos Gamma era inminente y llegar&amp;iacute;a a la Tierra el 20 de octubre de 2131 y yo, Martin Orchard, necesitaba asegurarme de que la humanidad sobreviviera a este suceso sin precedentes.&amp;nbsp;En e...</summary>
+    <link href="../book_0/book_201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La guerra de los vivos</title>
+    <id>calibre:book:116</id>
+    <updated>2023-01-18T00:43:32Z</updated>
+    <link href="../../Ivan%20Santos/La%20guerra%20de%20los%20vivos%20%28116%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ivan%20Santos/La%20guerra%20de%20los%20vivos%20%28116%29/La%20guerra%20de%20los%20vivos%20-%20Ivan%20Santos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="621 KB" />
+    <author>
+      <name>Iván Santos</name>
+      <uri>../authors_0/authors_75_Page_1.xml</uri>
+    </author>
+    <published>2020-11-26T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>El grupo de Rai ha conseguido atravesar media península pagando un alto precio. Dejando su comodidad atrás, han descubierto que los zombis no son realmente lo más terrible de este apocalipsis y que en cualquier momento, la suerte y el destino les pue...</summary>
+    <link href="../book_0/book_116.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Rey del Túmulo</title>
+    <id>calibre:book:199</id>
+    <updated>2023-01-26T07:21:02Z</updated>
+    <link href="../../C.M.%20Carney/El%20Rey%20del%20Tumulo%20%28199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../C.M.%20Carney/El%20Rey%20del%20Tumulo%20%28199%29/El%20Rey%20del%20Tumulo%20-%20C.M.%20Carney.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="538 KB" />
+    <author>
+      <name>C.M. Carney</name>
+      <uri>../authors_0/authors_125_Page_1.xml</uri>
+    </author>
+    <published>2022-03-20T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <category term="Los Reinos" />
+    <summary>Los Reinos [1]: Traicionado por los más cercanos a él, Finn Caldwell pensó que había escapado de su vida de violencia y engaño. Pero cuando un mensaje frenético de su distante hermana lo lleva a Los Reinos, un extraño mundo de magia y maravilla simil...</summary>
+    <link href="../book_0/book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trilogía Nacidos de la bruma (Mistborn)</title>
+    <id>calibre:book:200</id>
+    <updated>2023-01-26T07:21:02Z</updated>
+    <link href="../../Brandon%20Sanderson/Trilogia%20Nacidos%20de%20la%20bruma%20%28Mistb%20%28200%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Trilogia%20Nacidos%20de%20la%20bruma%20%28Mistb%20%28200%29/Trilogia%20Nacidos%20de%20la%20bruma%20%28M%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../authors_0/authors_126_Page_1.xml</uri>
+    </author>
+    <published>2019-06-27T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nova</dcterms:publisher>
+    <category term="S2" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>El imperio final,El Pozo de la Ascensión y El Héroe de las Eras son los tres primeros libros de la saga «Nacidos de la Bruma [Mistborn]», obra imprescindible del Cosmere, el universo destinado a dar forma a la serie más extensa y fascinante jamás esc...</summary>
+    <link href="../book_0/book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1834</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc0d13c1-ea40-400b-8517-23d4676ea177</dc:identifier>
+        <dc:title>Víctor Ros y los secretos de ultramar</dc:title>
+        <dc:creator opf:file-as="Jerónimo Tristante" opf:role="aut">Jerónimo Tristante</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Víctor Ros, el mejor detective español de todos los tiempos. Un inspector carismático e inteligente del Madrid decimonónico.&lt;/p&gt;
+&lt;p&gt;Madrid, 1885. María Fuster le pide a Víctor Ros que busque a su marido, desaparecido sin dejar rastro: se trata de Martin Roberts, un viejo amigo del policía que ahora trabaja para el servicio secreto español.&lt;/p&gt;
+&lt;p&gt;Víctor Ros pronto descubrirá que la ausencia de Roberts parece relacionada con Giselda Albertos, una atractiva y sensual artista de variedades cubana. &lt;/p&gt;
+&lt;p&gt;Junto a su amigo Alfredo Blázquez y su cochero Arístides, el inspector viajará a La Habana, donde frecuentará la compañía de espías internacionales, agentes dobles, empresarios norteamericanos, autonomistas e insurgentes, miembros de la sacarocracia cubana y militares españoles. &lt;/p&gt;
+&lt;p&gt;Pero Martin Roberts parece haberse evaporado. Y la principal pista sobre su paradero puede estar en el lugar más insospechado: una exótica exposición del Museo Metropolitano de Nueva York, auspiciada por el Havana Club y donde se exhibe la momia del faraón Khnumakht. &lt;/p&gt;
+&lt;p&gt;El inspector Víctor Ros regresa a la escena del crimen con Los secretos de ultramar, una trepidante aventura en los últimos años de la Cuba colonial con el ocaso del Imperio español de fondo. En busca de su amigo tendrá que adentrarse en las profundidades de la selva cubana, la manigua, para encontrarse con viejos enemigos y fantasmas del pasado.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Algaida Editores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491894957</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-30T12:04:05.834275+00:00"/>
+        <meta name="calibre:title_sort" content="Víctor Ros y los secretos de ultramar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

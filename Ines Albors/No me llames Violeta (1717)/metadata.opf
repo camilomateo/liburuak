@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1717</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ab5a011-2a68-4b8a-b89f-55a1c4f37faf</dc:identifier>
+        <dc:title>No me llames Violeta</dc:title>
+        <dc:creator opf:file-as="Albórs, Inés" opf:role="aut">Inés Albórs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-11T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Violeta es una estudiante de Medicina perteneciente a una familia 
+acomodada de Madrid. Un día se despierta, malherida, en la cama de un 
+hospital rodeada de su familia. No recuerda nada de lo que le ha 
+sucedido.&lt;br&gt;&lt;br&gt;A la vez que mejoran las heridas de Violeta, comienza a
+ sufrir pesadillas y extrañas crisis de ansiedad. Con el fin de 
+recuperarse, decide abandonar la ciudad y marcharse a pasar los meses de
+ verano a un pueblo de La Albufera de Valencia. Su familia lo acepta, 
+pero con una indispensable condición: &lt;span class="a-text-bold"&gt;nadie debe conocer su paradero. Puede ser muy peligroso para ella.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Violeta
+ sospecha que existe algo que le ocultan; pero ¿qué se esconde en el 
+interior de sí misma que se resiste a salir a la luz?&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Letra Minúscula</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0D9BNC7P2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-06T14:19:12+00:00"/>
+        <meta name="calibre:title_sort" content="No me llames Violeta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

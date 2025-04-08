@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1585</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d2f9dee-71fb-4c7a-a696-74ac19ab99e9</dc:identifier>
+        <dc:title>Despiértame cuando acabe septiembre</dc:title>
+        <dc:creator opf:file-as="Rouanet, Mónica" opf:role="aut">Mónica Rouanet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-10T22:00:00+00:00</dc:date>
+        <dc:description>El rastro de un joven español se esfuma por el sur de Inglaterra tras dejar un mensaje de socorro en el teléfono móvil de su madre. Ella, que apenas ha abandonado su pequeño pueblo en contadas ocasiones, decide ir en su busca. Hace un año, su marido desapareció en las tranquilas aguas de la Albufera y no está dispuesta a vivir de nuevo una angustia como aquella. La Guardia Civil encontró la barca de Antonio abandonada a la deriva, con manchas de sangre sobre sus tablas. Amparo está convencida de que murió, pero las malas lenguas que recorren el pueblo rumorean otras cosas. Una vez en Inglaterra, Amparo descubre que su marido puede continuar con vida, ser el causante de la muerte de una mujer y estar involucrado en una sórdida trama repleta de intrigas.</dc:description>
+        <dc:publisher>Rocaeditorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:53.961712+00:00"/>
+        <meta name="calibre:title_sort" content="Despiértame cuando acabe septiembre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

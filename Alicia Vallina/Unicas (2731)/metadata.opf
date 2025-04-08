@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">306201e2-0eb8-4b0c-8ea9-b99993614d9c</dc:identifier>
+        <dc:title>Únicas</dc:title>
+        <dc:creator opf:file-as="Vallina, Alicia" opf:role="aut">Alicia Vallina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt; &lt;p align="justify"&gt;Las apasionantes vidas de cincuenta mujeres olvidadas que construyeron la historia de España. &lt;/p&gt; &lt;p align="justify"&gt;Una ilustradora antifascista, la pasión femenina de Lorca, la fusilera que fue azote de los franceses durante la guerra de la Independencia, la mejor trapecista del mundo, la guerrera de Lepanto, las hermanas Sorolla, la creadora de la muñeca Mariquita Pérez, la cantante de ópera que pudo ser reina o la esclava que se convirtió en la dramaturga más importante del Siglo de Oro son solo algunas de las 50 vidas que recoge este libro. Los sufrimientos, luchas, esperanzas e increíbles gestas de todas estas mujeres que, con su visión talentosa, a veces compleja y silenciosa, y siempre polifacética, trataron de construir un mundo más igualitario a través de su excelsa capacidad y de su excepcional talento creativo. &lt;/p&gt; &lt;p align="justify"&gt;Ninguna fue reconocida pero todas fueron ÚNICAS.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-11T07:23:56.297131+00:00"/>
+        <meta name="calibre:title_sort" content="Únicas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1750</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37705b30-250b-4cd3-ba0a-3d5a1fc2b8e1</dc:identifier>
+        <dc:title>Misterioso asesinato en casa de Cervantes: Premio Primavera de Novela 2015</dc:title>
+        <dc:creator opf:file-as="Galán, Juan Eslava" opf:role="aut">Juan Eslava Galán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-23T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Descubre al ganador del Premio Primavera 2015&lt;/p&gt;
+&lt;p&gt;A las puertas de la casa de Miguel de Cervantes ha aparecido el cadáver del hidalgo Gaspar de Ezpeleta, al que han apuñalado. Una vecina beata acusa al escritor y a sus alegres hermanas, las Cervantas, de estar implicados en el asunto y acaban encarcelados. La duquesa de Arjona, gran admiradora de Cervantes, requiere los servicios de la joven Dorotea de Osuna para que acuda a Valladolid e investigue el caso, conocedora de sus habilidades en este campo.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;A través de la investigación detectivesca de Dorotea para defender la inocencia del autor de &lt;em&gt;El Quijote&lt;/em&gt; asistimos a un retablo de la España del Siglo de Oro: un país agotado por las guerras, anegado de clases ociosas e improductivas, nobles y clérigos, lleno de prejuicios, con una legión de mendigos, veteranos de las guerras tullidos, pícaros, busconas y criadillos. Una auténtica corte de los milagros en la que la mujer se rebela y lucha denodadamente por escapar del papel secundario al que la sociedad la relega.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00UC1P7W8</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:07.494490+00:00"/>
+        <meta name="calibre:title_sort" content="Misterioso asesinato en casa de Cervantes: Premio Primavera de Novela 2015"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

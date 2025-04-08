@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2924</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ae3eabf-9f00-43dd-a17c-1efaa5f88c09</dc:identifier>
+        <dc:title>Mis «primos»</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Mis «primos» es la continuación de &lt;i&gt;Sólo para tus ojos&lt;/i&gt; (2016). Se trata del libro número 25 de J. J. Benítez sobre el misterio de los «objetos volantes no identificados». El investigador navarro reúne más de doscientos casos registrados en todo el mundo desde la más remota antigüedad.&lt;/p&gt;
+
+    &lt;p&gt;«No hay duda —asegura el autor—. El fenómeno ovni es real. Estamos ante el suceso más importante de la historia del hombre.»&lt;/p&gt;
+
+    &lt;p&gt;«Mis “primos” va más allá de la imaginación.»&lt;/p&gt;
+
+    &lt;p&gt;«“Ellos” nunca se fueron.»&lt;/p&gt;
+
+    &lt;p&gt;«Están en la Tierra desde mucho antes de la aparición del hombre.»&lt;/p&gt;
+
+    &lt;p&gt;«Estoy convencido: los ovnis tienen mucho que ver con el “más allá”.»&lt;/p&gt;
+
+    &lt;p&gt;«En Mis “primos” lo más importante es lo que se insinúa.»&lt;/p&gt;
+
+    &lt;p&gt;«No me cansaré de repetirlo: la tecnología ovni es mágica.»&lt;/p&gt;
+
+    &lt;p&gt;«La Iglesia manipuló el tercer secreto de Fátima.»&lt;/p&gt;
+
+    &lt;p&gt;&lt;b&gt;J. J. Benítez vuelve con más de 250 investigaciones inéditas en todo el mundo que demuestran que el fenómeno ovni es real.&lt;/b&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">63434</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:19.757615+00:00"/>
+        <meta name="calibre:title_sort" content="Mis «primos»"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

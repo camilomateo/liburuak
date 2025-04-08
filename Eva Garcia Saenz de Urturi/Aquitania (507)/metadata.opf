@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">507</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c19256e-1d5c-4552-a294-3076e2528cea</dc:identifier>
+        <dc:title>Aquitania</dc:title>
+        <dc:creator opf:file-as="Urturi, Eva García Saénz de" opf:role="aut">Eva García Saénz de Urturi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-04T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;1137. El duque de Aquitania —la región más codiciada de Francia— aparece muerto en Compostela. El cuerpo queda de color azul y con la marca del «águila de sangre», una ancestral tortura normanda. Su hija Eleanor decide vengarse y para ello se casa con el hijo del que cree su asesino: Luy VI el Gordo, rey de Francia.Pero el propio rey muere durante la boda en idénticas circunstancias. Eleanor y Luy VII intentarán averiguar, junto con los gatos aquitanos —los épicos espías de los duques—, quién quiere a los inexpertos reyes en el trono.Décadas antes de la muerte del duque de Aquitania, un niño sin nombre es abandonado en un bosque por sus cinco madres. Acaso un monstruo, o tal vez un santo, el pequeño superviviente acabará convirtiéndose en uno de los hombres más excepcionales del medievo europeo. Un cautivador thriller histórico que atraviesa un siglo repleto devenganzas, incestos y batallas. Un turbador misterio en torno atres vidas que forjarán lo que más tarde se llamará Europa. Vuelve la autora de la exitosa Trilogía de la Ciudad Blanca (El silencio de la ciudad blanca, Los ritos del agua, Los señores del tiempo).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408237747</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">qTcEEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08LK46BT9</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Eva García Saénz de Urturi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:02:00.993970+00:00"/>
+        <meta name="calibre:title_sort" content="Aquitania"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

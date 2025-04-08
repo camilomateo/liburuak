@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2841</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2da2e58-0623-4cf2-9910-b52177742d3d</dc:identifier>
+        <dc:title>Tierra feroz</dc:title>
+        <dc:creator opf:file-as="Quijorna, Jota" opf:role="aut">Jota Quijorna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una novela inquietante y adictiva; una nueva voz turbadora en el thriller español. La oscuridad de un alma herida es el hogar de todo mal. Frente a un siniestro caserón de piedra, anclado en medio de la cuenca minera asturiana, se detiene un coche de servicios sociales. Dentro del vehículo, Dani Sorribes no acaba de asimilar que haya acabado en ese lugar ni que, con solo trece años, haya quedado huérfano. Desde la ventanilla, no quita ojo a la figura que se recorta sobre el cielo. Una estructura metálica que se eleva junto a un oscuro bosque de hayas, en una mina abandonada que, nada más verla, le ha provocado un escalofrío. Fuera del coche, Alicia, la mujer que lo acoge, le espera con una sonrisa amable y una mirada gélida. Para ella, la mina pertenece a una vida pasada de la que solo queda un amargo recuerdo. Cerrada años atrás, tuvo su origen en un pueblo detenido en el tiempo, desahuciado, casi deshabitado, y donde las casas se cierran todas las noches a cal y canto. La brisa trae un susurro oculto entre las copas de los árboles; un océano sombrío que se alza frente al inquietante caserón donde a partir de ahora vivirá Dani, junto a esa mujer de la que nada sabe.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-26T10:50:54.499508+00:00"/>
+        <meta name="calibre:title_sort" content="Tierra feroz"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

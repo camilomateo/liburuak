@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5aff2203-5f8b-4058-818d-391fb3125141</dc:identifier>
+        <dc:title>Desfibrilador</dc:title>
+        <dc:creator opf:file-as="Gilraen Eärfalas" opf:role="aut">Gilraen Eärfalas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-27T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Cada quien vive sus propios tormentos. Los míos me trajeron hasta donde estoy hoy, no sin antes intentar hundirme. La muerte me miró a los ojos una noche de febrero de 2010, recuerdo la sangre manar a borbotones de mis entrañas, me ahogaba, desaparecía. Tuve la fuerza para transformar aquel martirio. Comencé a escribir y, a pesar de que me quisieron silenciar, cada letra fue una compresión, cada poema, una arritmia salvada. Varias arritmias después, me condujeron a escribir este libro. &lt;/p&gt;
+&lt;p&gt;Desfibrilador es una cita con el médico. En estas páginas se traduce el dolor que se siente y no puede señalarse: heridas de abuso, abandono, soledad, desamor y despedidas. Si buscas un analgésico, no es este, pero si quieres puedo acompañarte hasta que pase el dolor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:04:36.597214+00:00"/>
+        <meta name="calibre:title_sort" content="Desfibrilador"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

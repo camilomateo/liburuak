@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">774</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">411c6933-e7f4-4d05-a830-91d95e23ae59</dc:identifier>
+        <dc:title>En busca del tiempo en que vivimos</dc:title>
+        <dc:creator opf:file-as="Luri, Gregorio" opf:role="aut">Gregorio Luri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-29T14:52:47+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;En
+ todo momento histórico hay una tensión entre lo viejo que no se resigna
+ a desaparecer y lo nuevo que no se decide a triunfar. Todo presente 
+histórico es un interregno propicio para fenómenos monstruosos que sólo 
+los que vengan después sabrán si fueron apariciones fantasmales que se 
+disolvieron sin dejar huella, heraldos del futuro, partos prematuros o 
+muertos revividos.&lt;/p&gt;&lt;p&gt;Nuestro monstruo hoy es la 
+sensación, tan extendida, de que vivimos en un posible fin de los 
+tiempos. La inquietante presencia de esta esperanza herida nos permite 
+pensar que el hombre actual ha podido cansarse de sí mismo y de su 
+dominio insolente de la Tierra.&lt;/p&gt;&lt;p&gt;El filósofo y maestro
+ Gregorio Luri se sirve de nuestras angustiosas preguntas por los 
+límites del mundo humano como pruebas reactivas para diagnosticar el 
+signo del tiempo en que vivimos.&lt;/p&gt;&lt;p&gt;Porque, aunque la 
+pregunta por los límites humanos es tan antigua como la religión, había 
+permanecido latente hasta hace pocas décadas. Pero en nuestros días ha 
+alcanzado una latencia tan extraordinaria que inunda los medios de 
+comunicación, anulando toda posibilidad de autocomplacencia.&lt;/p&gt;&lt;p&gt;Que
+ el hombre esté desorientado no es noticia; que tenga miedo al futuro, 
+tampoco. Pero que tenga miedo de sí mismo porque se ve como el bárbaro 
+que acecha en los limes de su alma, sí es novedoso. Y es una noticia 
+altamente preocupante, sobre todo porque ese miedo ha llegado a las 
+escuelas…&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Deusto</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-25T10:58:46.766053+00:00"/>
+        <meta name="calibre:title_sort" content="En busca del tiempo en que vivimos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

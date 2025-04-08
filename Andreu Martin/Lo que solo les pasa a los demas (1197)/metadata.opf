@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5924ff9d-2eee-4da6-9d60-9c388f305836</dc:identifier>
+        <dc:title>Lo que solo les pasa a los demás</dc:title>
+        <dc:creator opf:file-as="Martín, Andreu" opf:role="aut">Andreu Martín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-19T06:00:00+00:00</dc:date>
+        <dc:description>Marc Olván es un abogado de oficio en horas bajas, enamoradizo y alcohólico, que no pasa precisamente por un gran momento. Lidia Pedralba es una madre desesperada porque su hijo está en prisión preventiva, a la espera de juicio, acusado de violar a un niño de cuatro años. Pedralba necesita un abogado para actuar contra Daniel Trujillo, el juez qua ha enviado a la cárcel a su hijo sin ni siquiera escucharlo, a la vez que ha dejado en libertad al jefe del peligroso clan de los Klimovski, que hace ya unas décadas que controla el tráfico de drogas y armas en Barcelona. Olván será el escogido para llevar a cabo la investigación. No lo tendrá fácil: en una ciudad que es escenario de la escisión de los partidos independentistas, el tal Trujillo se cree el amo del mundo. Él y sus amigos, como el inspector Regueira, dictan sentencias y órdenes expeditivas y se lo pasan en grande en la discoteca Racket, un local de moda nocturno de Barcelona donde se encuentran encantadoras mujeres y...</dc:description>
+        <dc:publisher>Editorial Alrevés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418584077</dc:identifier>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-05T16:55:58.970640+00:00"/>
+        <meta name="calibre:title_sort" content="que solo les pasa a los demás, Lo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

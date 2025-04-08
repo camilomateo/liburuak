@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1036</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee508838-5897-499a-a887-59e0ca23d818</dc:identifier>
+        <dc:title>Hija única</dc:title>
+        <dc:creator opf:file-as="Mi-Ae Seo" opf:role="aut">Mi-Ae Seo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="center" style="font-weight: 600"&gt;¿Un monstruo nace o se hace?&lt;/p&gt;
+&lt;p align="center" style="font-weight: 600"&gt;La novela negra del momento se escribe en Corea.&lt;/p&gt;
+&lt;p align="center"&gt;Dos personas han aterrizado en la vida de la psicóloga forense Seon-gyeong: un asesino en serie de fama mundial, Lee Byeong-do, que había permanecido en silencio hasta entonces, y la aparentemente inofensiva hija de once años del matrimonio anterior de su marido.&lt;/p&gt;
+&lt;p align="center"&gt;Desde la misteriosa muerte de su madre, la niña vivía con sus abuelos, pero estos acaban de morir en un incendio inexplicable. Seon-gyeong se ha propuesto que la niña se sienta como en casa, sin embargo, le cuesta conseguirlo: apenas habla y actúa de forma extraña.&lt;/p&gt;
+&lt;p align="center"&gt;De hecho, su comportamiento le recuerda, en parte, al de Lee Byeong-do. Los dos parecen trastornados en extremo y, sin duda, quieren algo de ella, pero ¿qué? Seon-gyeong tendrá que averiguar quién es la posible víctima en todo ese asunto antes de que sea demasiado tarde.Hija única&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401023460</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-10-20T11:12:30.613155+00:00"/>
+        <meta name="calibre:title_sort" content="Hija única"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

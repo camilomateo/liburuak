@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por S</title>
+  <id>Calibre2opds:taglist:L:371:S</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_371_S_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por S" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <link href="./tags_371_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:es" />
+  <link href="./tags_371_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por S" />
+  <link href="../tags_3/tags_371_S_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 de 8)" />
+  <entry>
+    <title>Solo queda silencio</title>
+    <id>calibre:book:2729</id>
+    <updated>2024-12-11T08:23:56Z</updated>
+    <link href="../../Txemi%20Parra/Solo%20queda%20silencio%20%282729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Txemi%20Parra/Solo%20queda%20silencio%20%282729%29/Solo%20queda%20silencio%20-%20Txemi%20Parra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="515 KB" />
+    <author>
+      <name>Txemi Parra</name>
+      <uri>../authors_1/authors_1784_Page_1.xml</uri>
+    </author>
+    <published>2024-10-09T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Después de la nevada...Después de la confesión...Después de la muerte... SOLO QUEDA SILENCIO En Jaca, el Año Nuevo amanece con una tragedia: han hallado en el río el cadáver de Martín Blasco, un joven abogado. Su último mensaje constaba de una única ...</summary>
+    <link href="../book_2/book_2729.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Sombra del Viento</title>
+    <id>calibre:book:1274</id>
+    <updated>2024-03-07T06:32:14Z</updated>
+    <link href="../../Carlos%20Ruiz%20Zafon/La%20Sombra%20del%20Viento%20%281274%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Ruiz%20Zafon/La%20Sombra%20del%20Viento%20%281274%29/La%20Sombra%20del%20Viento%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Carlos Ruiz Zafón</name>
+      <uri>../authors_0/authors_897_Page_1.xml</uri>
+    </author>
+    <published>2011-09-28T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial USA</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un amanecer de 1945, un muchacho es conducido por su padre a un misterioso lugar oculto en el corazón de la ciudad vieja: el Cementerio de los Libros Olvidados. Allí encuentra La Sombra del Viento, un libro maldito que cambiará el rumbo de su vida y ...</summary>
+    <link href="../book_1/book_1274.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sombra en la Costa</title>
+    <id>calibre:book:2688</id>
+    <updated>2024-10-25T00:02:42Z</updated>
+    <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/Sombra%20en%20la%20Costa%20%282688%29/Sombra%20en%20la%20Costa%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="812 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2024-09-25T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <category term="Inspector Rojo" />
+    <summary>Inspector Rojo [9]: En una mañana de verano, los inspectores de homicidios Rojo y Agulló reciben la denuncia de una joven británica desaparecida en la costa de Alicante durante la noche de Hogueras.El caso de la desaparición se convierte en el inicio...</summary>
+    <link href="../book_2/book_2688.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sombras</title>
+    <id>calibre:book:1844</id>
+    <updated>2024-08-30T02:18:33Z</updated>
+    <link href="../../Ariel%20Zorion/Sombras%20%281844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ariel%20Zorion/Sombras%20%281844%29/Sombras%20-%20Ariel%20Zorion.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Ariel Zorion</name>
+      <uri>../authors_1/authors_1119_Page_1.xml</uri>
+    </author>
+    <published>2024-08-27T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Misterio" />
+    <category term="Lang:es" />
+    <summary>Una sombra.Palabras con eco.Resonancias.Dictados que no provienen de la razón.Mientras el detective Patrick Baker trata de encontrar a su viejo compañero, un asesino ha comenzado su particular aventura en las noches de Boston.La estética siniestra de...</summary>
+    <link href="../book_1/book_1844.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Somos invencibles</title>
+    <id>calibre:book:157</id>
+    <updated>2023-01-23T06:20:04Z</updated>
+    <link href="../../Cristina%20Prada/Somos%20invencibles%20%28157%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cristina%20Prada/Somos%20invencibles%20%28157%29/Somos%20invencibles%20-%20Cristina%20Prada.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Cristina Prada</name>
+      <uri>../authors_0/authors_101_Page_1.xml</uri>
+    </author>
+    <published>2023-01-17T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Esencia</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tommy y Helsey están a punto de descubrir que el amor de verdad no se puede controlar y que un beso puede hacerte volar hasta tocar las estrellas. Helsey solo tiene dos reglas: *Nunca te relaciones con los chicos del equipo de fútbol. *Nunca seas el ...</summary>
+    <link href="../book_0/book_157.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sonríe, mi amor, en la Toscana</title>
+    <id>calibre:book:193</id>
+    <updated>2023-01-26T07:27:24Z</updated>
+    <link href="../../Silvia%20Garcia%20Ruiz/Sonrie%2C%20mi%20amor%2C%20en%20la%20Toscana%20%28193%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Silvia%20Garcia%20Ruiz/Sonrie%2C%20mi%20amor%2C%20en%20la%20Toscana%20%28193%29/Sonrie%2C%20mi%20amor%2C%20en%20la%20Toscana%20-%20Silvia%20Garcia%20Ruiz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Silvia García Ruiz</name>
+      <uri>../authors_0/authors_114_Page_1.xml</uri>
+    </author>
+    <published>2019-11-26T03:26:16Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Erótica" />
+    <category term="Lang:es" />
+    <summary>Dominic Norton es un famoso fotógrafo que acaba retirándose por las críticas de Luca Rossi, un modelo italiano. Evie, que siempre ha querido ser fotógrafa como su padre, jura vengarse del modelo y lo contrata para una serie de campañas con el fin de ...</summary>
+    <link href="../book_0/book_193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sospecha Sin Límite</title>
+    <id>calibre:book:1697</id>
+    <updated>2024-07-29T11:15:47Z</updated>
+    <link href="../../Jorge%20Caneda/Sospecha%20Sin%20Limite%20%281697%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Caneda/Sospecha%20Sin%20Limite%20%281697%29/Sospecha%20Sin%20Limite%20-%20Jorge%20Caneda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="333 KB" />
+    <author>
+      <name>Jorge Caneda</name>
+      <uri>../authors_1/authors_1214_Page_1.xml</uri>
+    </author>
+    <published>2024-07-22T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Casandra lleva años intentando reconducir su vida, sosteniendo una delicada relación con su madre Victoria que la cuestiona a cada momento.¿Qué madre no haría lo que fuera por su hijo? Su nueva pareja le ofrece un trabajo en la empresa multinacional ...</summary>
+    <link href="../book_1/book_1697.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Soy como como</title>
+    <id>calibre:book:689</id>
+    <updated>2023-05-16T08:56:28Z</updated>
+    <link href="../../Nuria%20Coll/Soy%20como%20como%20%28689%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nuria%20Coll/Soy%20como%20como%20%28689%29/Soy%20como%20como%20-%20Nuria%20Coll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="537 KB" />
+    <author>
+      <name>Núria Coll</name>
+      <uri>../authors_0/authors_514_Page_1.xml</uri>
+    </author>
+    <published>2023-03-29T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La periodista y divulgadora de temas de salud más reconocida de España nos cuenta todo lo que sabe sobre nutrición y salud.Únete a los miles de seguidores de la revolución saludable con los consejos de Núria Coll.Comer saludable no es difícil, pero ...</summary>
+    <link href="../book_0/book_689.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Soy un gato</title>
+    <id>calibre:book:336</id>
+    <updated>2023-02-20T10:02:18Z</updated>
+    <link href="../../Natsume%20Soseki/Soy%20un%20gato%20%28336%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Natsume%20Soseki/Soy%20un%20gato%20%28336%29/Soy%20un%20gato%20-%20Natsume%20Soseki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="613 KB" />
+    <author>
+      <name>Natsume Soseki</name>
+      <uri>../authors_0/authors_236_Page_1.xml</uri>
+    </author>
+    <published>2010-06-22T04:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Impedimenta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Soy un gato, aunque todavía no tengo nombre.» Así comienza la primera y más hilarante novela de Natsume Soseki, una auténtica obra maestra de la literatura japonesa, que narra las aventuras de un desdeñoso felino que cohabita, de modo accidental, co...</summary>
+    <link href="../book_0/book_336.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Soñar como sueñan los árboles</title>
+    <id>calibre:book:1493</id>
+    <updated>2024-05-03T02:01:59Z</updated>
+    <link href="../../Brenda%20Lozano/Sonar%20como%20suenan%20los%20arboles%20%281493%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brenda%20Lozano/Sonar%20como%20suenan%20los%20arboles%20%281493%29/Sonar%20como%20suenan%20los%20arboles%20-%20Brenda%20Lozano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="772 KB" />
+    <author>
+      <name>Brenda Lozano</name>
+      <uri>../authors_1/authors_1091_Page_1.xml</uri>
+    </author>
+    <published>2024-01-15T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Gloria Felipe miró la primera plana delperiódico recién impreso como si miraraun barco entrando de noche al marabierto. También un mar dentro de ella.»Las vidas de Gloria Felipe y de Nuria Valencia se entrelazan en torno al robo de una niña pequeña ...</summary>
+    <link href="../book_1/book_1493.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Stephen King</title>
+    <id>calibre:book:2651</id>
+    <updated>2024-10-22T07:50:36Z</updated>
+    <link href="../../Adolfo%20Perez%20Agusti/Stephen%20King%20%282651%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Adolfo%20Perez%20Agusti/Stephen%20King%20%282651%29/Stephen%20King%20-%20Adolfo%20Perez%20Agusti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <author>
+      <name>Adolfo Pérez Agustí</name>
+      <uri>../authors_1/authors_1744_Page_1.xml</uri>
+    </author>
+    <published>2014-07-12T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>lineasdesaparecidas</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Arte" />
+    <category term="memorias" />
+    <category term="Lang:es" />
+    <category term="¿Sabes de cine?" />
+    <summary>¿Sabes de cine?: Este novelista norteamericano, escritor de novelas y relatos cortos, cuyos libros han alcanzado un gran éxito popular, es ya un clásico de la ficción y el terror desde los años setenta.  El papel de este escritor moderno puede compar...</summary>
+    <link href="../book_2/book_2651.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Steve Jobs</title>
+    <id>calibre:book:1066</id>
+    <updated>2023-11-05T04:16:30Z</updated>
+    <link href="../../Walter%20Isaacson/Steve%20Jobs%20%281066%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Walter%20Isaacson/Steve%20Jobs%20%281066%29/Steve%20Jobs%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Walter Isaacson</name>
+      <uri>../authors_0/authors_779_Page_1.xml</uri>
+    </author>
+    <published>2011-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBATE</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="memorias" />
+    <category term="Tecnología" />
+    <category term="Lang:es" />
+    <summary>La muerte de Steve Jobs conmocionó al mundo. Tras entrevistarlo en más de cuarenta ocasiones en sus últimos dos años de vida, además de a un centenar de personas de su entorno, familiares, amigos, adversarios y colegas, Walter Isaacson nos presenta l...</summary>
+    <link href="../book_1/book_1066.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Steve Jobs &amp; Apple</title>
+    <id>calibre:book:2646</id>
+    <updated>2024-10-21T04:27:28Z</updated>
+    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Moritz/Steve%20Jobs%20%26%20Apple%20%282646%29/Steve%20Jobs%20%26%20Apple%20-%20Michael%20Moritz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="789 KB" />
+    <author>
+      <name>Michael Moritz</name>
+      <uri>../authors_1/authors_1740_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Ensayo" />
+    <category term="memorias" />
+    <category term="Tecnología" />
+    <category term="Lang:es" />
+    <summary>La historia de Apple es en realidad la historia de Steve Jobs, líder carismático y con una capacidad extraordinaria para gestionar talentos y materializar su visión: productos innovadores, de extrema complejidad y de gran belleza. «Steve Jobs &amp; Apple...</summary>
+    <link href="../book_2/book_2646.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Steve Jobs: Lecciones de liderazgo</title>
+    <id>calibre:book:2645</id>
+    <updated>2024-10-26T00:32:32Z</updated>
+    <link href="../../Walter%20Isaacson/Steve%20Jobs_%20Lecciones%20de%20liderazgo%20%282645%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Walter%20Isaacson/Steve%20Jobs_%20Lecciones%20de%20liderazgo%20%282645%29/Steve%20Jobs_%20Lecciones%20de%20lidera%20-%20Walter%20Isaacson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="252 KB" />
+    <author>
+      <name>Walter Isaacson</name>
+      <uri>../authors_0/authors_779_Page_1.xml</uri>
+    </author>
+    <published>2011-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Ciencias sociales" />
+    <category term="Negocios" />
+    <category term="Lang:es" />
+    <summary>El nombre de Steve Jobs es sinónimo de innovación, liderazgo y éxito. Su personalidad arrolladora, su intuición para los negocios y su carisma hicieron de él un gurú de la tecnología, que logró convertir a su empresa, Apple, en la compañía de innovac...</summary>
+    <link href="../book_2/book_2645.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Struwwelpeterv2</title>
+    <id>calibre:book:2059</id>
+    <updated>2024-09-06T02:09:05Z</updated>
+    <link href="../../Rogelio%20Guerrero/Struwwelpeterv2%20%282059%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rogelio%20Guerrero/Struwwelpeterv2%20%282059%29/Struwwelpeterv2%20-%20Rogelio%20Guerrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="545 KB" />
+    <author>
+      <name>Rogelio Guerrero</name>
+      <uri>../authors_1/authors_1478_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2059.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Su peor pesadilla</title>
+    <id>calibre:book:315</id>
+    <updated>2023-02-16T08:39:02Z</updated>
+    <link href="../../Andrea%20Mara/Su%20peor%20pesadilla%20%28315%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andrea%20Mara/Su%20peor%20pesadilla%20%28315%29/Su%20peor%20pesadilla%20-%20Andrea%20Mara.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="678 KB" />
+    <author>
+      <name>Andrea Mara</name>
+      <uri>../authors_0/authors_221_Page_1.xml</uri>
+    </author>
+    <published>2022-12-31T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Motus</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Fue a buscar a su hijo, pero él nunca estuvo allí UN NIÑO DESAPARECIDO.CUATRO MUJERES SOSPECHOSAS.UNA COMUNIDAD LLENA DE SECRETOS.¿QUIÉN TIENE REALMENTE LA CULPA?Marissa llega a la dirección exacta, a la hora acordada, a recoger a su hijo Milo. Es la...</summary>
+    <link href="../book_0/book_315.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Su última reverencia</title>
+    <id>calibre:book:2334</id>
+    <updated>2024-09-09T10:34:09Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/Su%20ultima%20reverencia%20%282334%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/Su%20ultima%20reverencia%20%282334%29/Su%20ultima%20reverencia%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="208 KB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [124]:</summary>
+    <link href="../book_2/book_2334.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Su último día</title>
+    <id>calibre:book:761</id>
+    <updated>2023-05-22T05:07:04Z</updated>
+    <link href="../../Shari%20Lapena/Su%20ultimo%20dia%20%28761%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Shari%20Lapena/Su%20ultimo%20dia%20%28761%29/Su%20ultimo%20dia%20-%20Shari%20Lapena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="551 KB" />
+    <author>
+      <name>Shari Lapena</name>
+      <uri>../authors_0/authors_500_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La autora de La pareja de al lado vuelve con un nuevo y electrizante thriller.Un secreto enterradodurante una década.Una visita inesperada y una terrible acusación.¿Qué le sucedió a Lindsey Kilgour?Stephanie y Patrick se están adaptando todavía a su ...</summary>
+    <link href="../book_0/book_761.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Su único hijo</title>
+    <id>calibre:book:2128</id>
+    <updated>2024-09-06T02:21:20Z</updated>
+    <link href="../../Leopoldo%20Alas/Su%20unico%20hijo%20%282128%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leopoldo%20Alas/Su%20unico%20hijo%20%282128%29/Su%20unico%20hijo%20-%20Leopoldo%20Alas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="261 KB" />
+    <author>
+      <name>Leopoldo Alas</name>
+      <uri>../authors_1/authors_1510_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2128.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Suave como la lluvia</title>
+    <id>calibre:book:1792</id>
+    <updated>2024-08-26T10:56:16Z</updated>
+    <link href="../../Miguel%20Rubio/Suave%20como%20la%20lluvia%20%281792%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Miguel%20Rubio/Suave%20como%20la%20lluvia%20%281792%29/Suave%20como%20la%20lluvia%20-%20Miguel%20Rubio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="334 KB" />
+    <author>
+      <name>Miguel Rubio</name>
+      <uri>../authors_1/authors_1288_Page_1.xml</uri>
+    </author>
+    <published>2020-11-02T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Carena</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <summary>«Me cogió del cuello y me dio un beso largo y cálido, como solo ella podía darlos. Un beso de esos que sabía perfectamente que me colocaban a sus pies.» A Pablo, un hombre mediocre, varado en un mundo pequeño, le acaban de diagnosticar una enfermedad...</summary>
+    <link href="../book_1/book_1792.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Subir a por aire</title>
+    <id>calibre:book:2437</id>
+    <updated>2024-09-09T10:34:31Z</updated>
+    <link href="../../George%20Orwell/Subir%20a%20por%20aire%20%282437%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20Orwell/Subir%20a%20por%20aire%20%282437%29/Subir%20a%20por%20aire%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="253 KB" />
+    <author>
+      <name>George Orwell</name>
+      <uri>../authors_1/authors_1609_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [1]:</summary>
+    <link href="../book_2/book_2437.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sucios y malvados</title>
+    <id>calibre:book:128</id>
+    <updated>2023-01-18T00:43:40Z</updated>
+    <link href="../../Juanjo%20Braulio/Sucios%20y%20malvados%20%28128%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juanjo%20Braulio/Sucios%20y%20malvados%20%28128%29/Sucios%20y%20malvados%20-%20Juanjo%20Braulio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="651 KB" />
+    <author>
+      <name>Juanjo Braulio</name>
+      <uri>../authors_0/authors_78_Page_1.xml</uri>
+    </author>
+    <published>2017-01-11T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un sorprendente thriller policiaco escrito por el autor de El silencio del pantano. Tras deslumbrar con su primera novela, El silencio del pantano,  calificada de «obra maestra» por la crítica y cuya adaptación  al cine  ya está en marcha, Juanjo Bra...</summary>
+    <link href="../book_0/book_128.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sueño de la libélula</title>
+    <id>calibre:book:2369</id>
+    <updated>2024-09-09T10:34:16Z</updated>
+    <link href="../../Natsume%20Soseki/Sueno%20de%20la%20libelula%20%282369%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Natsume%20Soseki/Sueno%20de%20la%20libelula%20%282369%29/Sueno%20de%20la%20libelula%20-%20Natsume%20Soseki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="810 KB" />
+    <author>
+      <name>Natsume Sōseki</name>
+      <uri>../authors_1/authors_1633_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [170]:</summary>
+    <link href="../book_2/book_2369.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Sueño de una Noche de Verano</title>
+    <id>calibre:book:2356</id>
+    <updated>2024-09-09T10:34:14Z</updated>
+    <link href="../../William%20Shakespeare/El%20Sueno%20de%20una%20Noche%20de%20Verano%20%282356%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/El%20Sueno%20de%20una%20Noche%20de%20Verano%20%282356%29/El%20Sueno%20de%20una%20Noche%20de%20Verano%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="120 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [140]:</summary>
+    <link href="../book_2/book_2356.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sunset Swing</title>
+    <id>calibre:book:434</id>
+    <updated>2023-03-20T05:50:06Z</updated>
+    <link href="../../Ray%20Celestin/Sunset%20Swing%20%28434%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ray%20Celestin/Sunset%20Swing%20%28434%29/Sunset%20Swing%20-%20Ray%20Celestin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="689 KB" />
+    <author>
+      <name>Ray Celestin</name>
+      <uri>../authors_0/authors_323_Page_1.xml</uri>
+    </author>
+    <published>2023-01-25T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alianza Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="City Blues Quartet" />
+    <summary>City Blues Quartet [4]:  Los Ángeles. Navidad de 1967. Un demonio anda suelto en la Ciudad de los Ángeles...Una joven enfermera, Kerry Gaudet, viaja a la Ciudad de los Ángeles desesperada por encontrar a su hermano desaparecido, temiendo que algo ter...</summary>
+    <link href="../book_0/book_434.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tags_3/tags_371_S_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 8)" />
+  <link href="../tags_3/tags_371_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 8)" />
+  <link href="../tags_3/tags_371_S_Page_8.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (8 of 8)" />
+</feed>

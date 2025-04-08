@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0846807-31b6-44e9-887e-065344cc071b</dc:identifier>
+        <dc:title>El caso Bramard</dc:title>
+        <dc:creator opf:file-as="Longo, Davide" opf:role="aut">Davide Longo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Corso Bramard era el inspector de policía más prometedor de 
+Italia, hasta que un asesino en serie al que seguía la pista secuestró y
+ mató a su esposa y a su hija. Han pasado veinte años desde entonces, 
+Corso vive en una vieja casa en las colinas cercanas a Turín, da clases 
+en un instituto y pasa la mayor parte del tiempo escalando solo. Sin 
+embargo, algo permanece intacto en él: la obsesión, cultivada con 
+tranquila firmeza, por encontrar a su enemigo. Un asesino que sigue 
+enviándole los versos de una canción de Leonard Cohen. Diecisiete cartas
+ en veinte años, mecanografiadas con un Olivetti del 72. ¿Una 
+invitación? ¿Un reto? Ahora, ese oponente que nunca ha cometido errores 
+parece haberse topado con una distracción. Una pista fundamental. 
+Suficiente para que Corso Bramard reanude la caza, iluminando una escena
+ poblada de personajes ambiguos y poderosos, un laberinto de silencios 
+que conducen a Corso hacia su destino.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Davide Longo, la gran voz de la novela negra europea.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;El primer caso del inspector Corso Bramard.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Davide Longo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:01:58.098787+00:00"/>
+        <meta name="calibre:title_sort" content="caso Bramard, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

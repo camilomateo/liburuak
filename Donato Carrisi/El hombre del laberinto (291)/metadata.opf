@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9d4e63d-440c-4f2a-ba83-30f6042934f1</dc:identifier>
+        <dc:title>El hombre del laberinto</dc:title>
+        <dc:creator opf:file-as="Donato Carrisi" opf:role="aut">Donato Carrisi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;La caza del monstruo empieza dentro de tu mente.&lt;/b&gt;&lt;br /&gt;«Un &lt;i&gt;thriller&lt;/i&gt; turbio, oscuro y lleno de enigmas con el que Donato Carrisi se acerca a la perfección.» &lt;b&gt;Javier Castillo&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;En medio de una ola de calor que altera el ritmo de la vida, Samantha, desaparecida cuando era una niña, emerge de la oscuridad. Traumatizada y herida, su mente esconde las pistas que podrían llevar hasta su carcelero: el hombre del laberinto. Este podría ser el último caso de Bruno Genko, un inspector de asombroso talento que no se enfrenta por primera vez a un secuestro de estas características. Pero las pistas anidan en lo más profundo de la mente de Samantha, detrás de puertas de hierro y pasillos interminables.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Han dicho:&lt;/b&gt;&lt;br /&gt;«Prepárate para dudar de todo y de todos hasta la última página.» &lt;b&gt; Mikel Santiago&lt;/b&gt;&lt;br /&gt;«Leer a Carrisi es como estar en el paraíso.» &lt;b&gt;Ken Follett&lt;/b&gt;&lt;br /&gt;«Un narrador espectacular.» &lt;i&gt;Cultura|s&lt;/i&gt;, de &lt;i&gt;&lt;b&gt;La Vanguardia&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;«Adictivo.» &lt;i&gt;Página Dos&lt;/i&gt;, de &lt;b&gt;TVE&lt;/b&gt;&lt;br /&gt;«Al mismo nivel que Stieg Larsson y Jo Nesbø.» &lt;b&gt;&lt;i&gt;The Guardian&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419521552</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Donato Carrisi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-09T10:32:39.391085+00:00"/>
+        <meta name="calibre:title_sort" content="hombre del laberinto, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

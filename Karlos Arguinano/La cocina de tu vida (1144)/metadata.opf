@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0e86736-2f2d-4861-8035-6a7c26f5b1cb</dc:identifier>
+        <dc:title>La cocina de tu vida</dc:title>
+        <dc:creator opf:file-as="Karlos Arguiñano" opf:role="aut">Karlos Arguiñano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-10T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;950 Recetas Fáciles, Rápidas Y Saludables&lt;br&gt;&lt;br&gt;En una época en la que apenas tenemos tiempo para pensar en qué comer, Karlos Arguiñano nos ofrece un nuevo recetario destinado a hacernos la vida más fácil, cómoda y agradable. Un libro que nos acompaña en nuestro día a día y se adapta a cualquier momento y ocasión: 950 recetas rápidas, fáciles y saludables que nos descubren el placer de cocinar, siempre a medida, y según nuestras necesidades o nuestro estilo de vida. Un libro para todas las edades y para todos los niveles culinarios. Alcachofas con vinagreta de mostaza, salmón con aguacate y rúcula o pavo relleno de dátiles y champiñones. Platos fáciles y rápidos, auténticos y saludables, con el sello inconfundible del cocinero más famoso de la televisión. &lt;strong&gt;Volvemos a las librerías con un nuevo éxito del cocinero más premiado de la televisión&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408250012</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59938547</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09GT7BNG4</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">oi9EEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>cocina</dc:subject>
+        <meta name="calibre:timestamp" content="2024-01-16T17:00:19.848443+00:00"/>
+        <meta name="calibre:title_sort" content="La cocina de tu vida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

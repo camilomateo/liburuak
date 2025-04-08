@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1383</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13bdf000-6855-4463-b6ab-dca737f3659a</dc:identifier>
+        <dc:title>El fotógrafo de Auschwitz</dc:title>
+        <dc:creator opf:file-as="Luca Crippa &amp; Maurizio Onnis" opf:role="aut">Luca Crippa</dc:creator>
+        <dc:creator opf:file-as="Luca Crippa &amp; Maurizio Onnis" opf:role="aut">Maurizio Onnis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una conmovedora novela basada en la historia olvidada del prisionero que documentó el horror nazi. Polonia, 1939. Cuando el fotógrafo profesional Wilhelm Brasse es deportado a Auschwitz-Birkenau, se ve forzado a tomar «fotografías de identidad» de los prisioneros cuando llegan en tren. En una carrera mortal por la supervivencia, también deberá retratar a los guardias nazis y documentar los «experimentos» médicos inhumanos dirigidos por Josef Mengele, que lo marcarán para siempre. Basada en la vida real de Wilhelm Brasse, El fotógrafo de Auschwitz es un crudo recordatorio en blanco y negro de los horrores del Holocausto. Esta conmovedora obra lleva a los lectores tras las alambradas del campo de concentración más temido del mundo, dando vida a Brasse, quien tuvo que hacer clic en el botón del obturador miles de veces antes de lograr unirse a la Resistencia. «Fundamental. El mundo debe conocer esta historia .» Daily Express «Un retrato cinematográfico. Esta improbable historia de supervivencia y compasión ante las circunstancias más crueles cautivará a los lectores .» P ublishers Weekly « Una historia extraordinaria , un libro absorbente.» Sidney Herald «Brasse nos ha dejado un legado inestimable . Gracias a él podemos ver las víctimas del Holocausto como humanos y no como meras estadísticas.» Fergal Keane, corresponsal de The Guardian&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467073201</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">U-bwEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:30:05.042714+00:00"/>
+        <meta name="calibre:title_sort" content="El fotógrafo de Auschwitz"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

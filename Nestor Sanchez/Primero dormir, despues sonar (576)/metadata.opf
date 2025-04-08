@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">576</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a5d4a4d-6d81-4df7-87c1-852d8192e88e</dc:identifier>
+        <dc:title>Primero dormir, después soñar</dc:title>
+        <dc:creator opf:file-as="Néstor Sánchez &amp; Bernardo Ortín" opf:role="aut">Néstor Sánchez</dc:creator>
+        <dc:creator opf:file-as="Néstor Sánchez &amp; Bernardo Ortín" opf:role="aut">Bernardo Ortín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-18T07:13:37+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;En este libro aprenderás no solo a mejorar tu sueño, sino también a convertirlo en una experiencia agradable y placentera.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Dormir
+ forma parte de un conjunto de procesos corporales -como el hambre, la 
+sed o las digestiones- que tienen lugar de manera espontánea. Digamos 
+que tú no decides que ocurran, sencillamente, suceden. Por eso, cuando 
+nos esforzamos en dormir, como una obligación o un mandato, muchas veces
+ acabamos boicoteando el proceso.&lt;/p&gt;&lt;p&gt;Juntos desandaremos
+ el camino que te ha llevado de una mala noche a un problema de 
+insomnio, con un protocolo tranquilo y efectivo. Durante el camino 
+aprenderás más sobre todo lo que ocurre durante la noche y qué hace el 
+cuerpo para dormirse y para mantenerse despierto. Te maravillará lo 
+sabio que es y te convencerás de que puedes confiar en él.&lt;/p&gt;&lt;p&gt;Además,
+ te presentaremos algunas claves para interpretar nuestros sueños. 
+Soñamos historias que muchas veces nos mandan mensajes para afrontar los
+ problemas de la vida cotidiana.&lt;/p&gt;&lt;p&gt;Así cumpliremos con el título de este libro: «primero dormir y después soñar». Por ese orden.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-28T11:16:46+00:00"/>
+        <meta name="calibre:title_sort" content="Primero dormir, después soñar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

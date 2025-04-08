@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49747e02-9e46-4270-a70a-65fee89b7385</dc:identifier>
+        <dc:title>El tablero de la reina</dc:title>
+        <dc:creator opf:file-as="Luis Zueco" opf:role="aut">Luis Zueco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-10T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="p_leer_menos"&gt;&lt;p&gt;&lt;b&gt;Luis Zueco, autor de &lt;i&gt;El cirujano de almas &lt;/i&gt;y &lt;i&gt;El mercader de libros&lt;/i&gt;,
+ firma su novela más ambiciosa, llena de emoción e intriga, y nos 
+sumerge en la Corte de Isabel I de Castilla, cuando la reina, tanto en 
+el juego como en la Historia, se convirtió por primera vez en la figura 
+más poderosa.&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Año 1468. &lt;/b&gt;Castilla se encuentra en un 
+momento crucial de su historia. Alfonso de Trastámara ha muerto en 
+sospechosas circunstancias y Enrique IV se alza como rey obligando a su 
+hermanastra Isabel, la única que podría oponerse a sus planes, a firmar 
+la paz. Ella acepta, pues está destinada a convertirse en Isabel la 
+Católica y sabe que las grandes partidas no se ganan en el primer 
+movimiento.&lt;/p&gt; &lt;p&gt;Mientras los asuntos de la Corte mantienen al reino 
+en vilo, el misterioso asesinato de un noble une fortuitamente a Gadea, 
+una joven apasionada del ajedrez que esconde un oscuro pasado, y a Ruy, 
+un cronista amante de la Historia y los libros. La peligrosa carrera a 
+contrarreloj de ambos para descubrir al culpable se entrelaza con las 
+conspiraciones y las guerras de la Corte de Isabel, quien bajo su 
+mandato supo moverse como una maestra en el tablero y transformó para 
+siempre la figura de la reina en el ajedrez.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">2015377</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Luis Zueco&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-03T07:31:23.561547+00:00"/>
+        <meta name="calibre:title_sort" content="tablero de la reina, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

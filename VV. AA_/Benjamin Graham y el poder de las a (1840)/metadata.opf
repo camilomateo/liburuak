@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1840</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c1898e6-583d-4559-9cf8-2e93ca33b02e</dc:identifier>
+        <dc:title>Benjamin Graham y el poder de las acciones de crecimiento</dc:title>
+        <dc:creator opf:file-as="VV. AA." opf:role="aut">VV. AA.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-14T23:00:00+00:00</dc:date>
+        <dc:description>Benjamin Graham es el padre de la inversión, pero su mayor éxito inversor provino de una acción de crecimiento que aumentó su patrimonio personal con una cantidad muy por encima de todas las demás inversiones juntas. Este libro le ayuda a redescubrir la legendaria estrategia de inversión en acciones de crecimiento con un enfoque de vanguardia que busca la rentabilidad en la volatilidad de los mercados actuales.
+El reconocido inversor Fred Martin comparte el enfoque inversor basado en la fórmula de valoración de Graham. El método de Martin permite valorar de forma segura y precisa empresas en crecimiento para una estrategia de compra y mantenimiento de acciones que atenúe el riesgo y posicione su cartera de valores en busca de una mayor rentabilidad a largo plazo. Esta guía muestra cómo:
+▶Apartar su dinero de fondos de inversión y gestores de inversiones.
+▶Crear una previsión a siete años para las empresas idóneas para su cartera de inversión.
+▶ Estimar el valor futuro de una empresa en cuatro pasos.
+▶Garantizar beneficios a largo plazo con una estrategia constante de compra y mantenimiento.</dc:description>
+        <dc:publisher>Profit Editorial</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07KM3HQZY</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788416904990</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-30T12:13:10.471979+00:00"/>
+        <meta name="calibre:title_sort" content="Benjamin Graham y el poder de las acciones de crecimiento"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

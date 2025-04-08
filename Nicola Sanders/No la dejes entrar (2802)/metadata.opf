@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44f2144f-3c3a-496c-82c6-b402536af5f7</dc:identifier>
+        <dc:title>No la dejes entrar</dc:title>
+        <dc:creator opf:file-as="Sanders, Nicola" opf:role="aut">Nicola Sanders</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-07T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Joanne sabe la suerte que tiene. Richard es un marido maravilloso, Evie es la niña más bonita del mundo y viven en una casa preciosa... La vida no podría irle mejor.&lt;/p&gt;
+&lt;p&gt;Hasta que aparece la hija veinteañera de Richard, Chloe.&lt;/p&gt;
+&lt;p&gt;Chloe no le dirige la palabra a su padre desde que se casó con Joanne hace dos años. Con la llegada de Evie, su hermanita pequeña, Chloe quiere hacer las paces. Richard está encantado y, como a Joanne le cuesta apañárselas con el nuevo bebé, sugiere que Chloe se mude con ellos para ayudar.&lt;/p&gt;
+&lt;p&gt;Parece la solución perfecta, hasta que empiezan a ocurrir cosas que hacen que Joanne piense que está perdiendo la cabeza. Extravía objetos, olvida citas importantes, se equivoca con las fechas...&lt;/p&gt;
+&lt;p&gt;¿Es posible que Joanne se esté volviendo loca como su propia madre? ¿O hay algo más siniestro detrás? ¿Ha venido Chloe a ayudar de verdad? ¿O ha cometido Joanne un terrible error al dejarla entrar en casa?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DQYSVG6K</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-16T07:08:28.343282+00:00"/>
+        <meta name="calibre:title_sort" content="No la dejes entrar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2674</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e4d3516-1e30-492c-862b-92025e27619a</dc:identifier>
+        <dc:title>Nexus</dc:title>
+        <dc:creator opf:file-as="Yuval Noah Harari" opf:role="aut">Yuval Noah Harari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-13T22:00:00+00:00</dc:date>
+        <dc:description>En Nexus, Harari contempla a la humanidad desde la amplia perspectiva de la historia para analizar cómo las redes de información han hecho y deshecho nuestro mundo. Durante los últimos 100.000 años, los sapiens hemos acumulado un enorme poder. Pero, a pesar de todos los descubrimientos, inventos y conquistas, ahora nos enfrentamos a una crisis existencial: el mundo está al borde del colapsoecológico, abunda la desinformación y nos precitamos hacia la era de la I.A. Con todo el camino andando, ¿por qué somos una especie autodestructiva? A partir de una fascinante variedad de ejemplos históricos, desde la Edad de Piedra, pasando por la Biblia, la caza de brujas de principios de la Edad Moderna, el estalinismo y el nazismo, hasta el resurgimiento del populismo en nuestros días, Harari nos ofrece unmarco revelador para indagar en las complejas relaciones que existen entre información y verdad, burocracia y mitología, y sabiduría y poder. Examina cómo diferentes sociedades y sistemas políticos han utilizado la información para lograr sus objetivos e imponer el orden, para bien y para mal. Y plantea las opciones urgentes a las que nos enfrentamos hoy en día, cuando la inteligencia no humana amenaza nuestra propia existencia. La información no es el principio activo de la verdad; tampoco una simple arma. Nexusexplora el esperanzador término medio entre estos extremos.</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Ciencias sociales</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:08:32.557945+00:00"/>
+        <meta name="calibre:title_sort" content="Nexus"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

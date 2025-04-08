@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1388</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9acef2c6-2293-4490-83ed-547f654578e0</dc:identifier>
+        <dc:title>Muerte en el pentagonito</dc:title>
+        <dc:creator opf:file-as="Uceda, Ricardo" opf:role="aut">Ricardo Uceda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-19T06:00:00+00:00</dc:date>
+        <dc:description>Los secretos militares de la lucha antiterrorista en el Perú son revelados por primera vez en una narración espeluznante, en la que se transporta sin tregua al lector por dos décadas de crímenes y atrocidades, en un viaje por los temidos pasadizos de los servicios de inteligencia. Luego de más de siete años de investigación, su autor ofrece revelaciones de extraordinario impacto. Y no sólo porque esclarecen asesinatos emblemáticos, sino, sobre todo, porque descubren otras muertes desconocidas hasta hoy, cometidas en la mismísima sede del cuartel general del Ejército del Perú, conocido comúnmente como el Pentagonito.</dc:description>
+        <dc:publisher>Planeta Perú</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786123194284</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:56:44.688743+00:00"/>
+        <meta name="calibre:title_sort" content="Muerte en el pentagonito"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

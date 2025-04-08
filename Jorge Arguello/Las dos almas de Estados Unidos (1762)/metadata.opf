@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7342b2b-e2fe-4d0c-b0f7-c82968feb1ab</dc:identifier>
+        <dc:title>Las dos almas de Estados Unidos</dc:title>
+        <dc:creator opf:file-as="Argüello, Jorge" opf:role="aut">Jorge Argüello</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-28T22:02:46+00:00</dc:date>
+        <dc:description>&lt;div data-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; En este libro profundo y clarificador, Jorge Argüello explica como la &lt;span class="a-text-bold"&gt;potencia norteamericana&lt;/span&gt; se encuentra profundamente &lt;span class="a-text-bold"&gt;dividida&lt;/span&gt;, tironeada entre dos almas: media sociedad reclama &lt;span class="a-text-bold"&gt;una
+ restauración nostálgica que recupere un pasado dorado, mientras que 
+otra busca con entusiasmo abrirse a lo nuevo, al futuro&lt;/span&gt;. Donald Trump y Joe Biden son la encarnación de estas dos tendencias irreconciliables.  &lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:09+00:00"/>
+        <meta name="calibre:title_sort" content="Las dos almas de Estados Unidos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

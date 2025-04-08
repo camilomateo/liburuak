@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a901c578-42fa-474f-8c9f-decc4216cb02</dc:identifier>
+        <dc:title>El libro de la selva</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Rudyard Kipling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-19T22:00:00+00:00</dc:date>
+        <dc:publisher>www.elejandria.com</dc:publisher>
+        <dc:language>es</dc:language>
+        <dc:subject>CUENTOS INFANTILES</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rudyard Kipling&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-23T18:52:01+00:00"/>
+        <meta name="calibre:title_sort" content="libro de la selva, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

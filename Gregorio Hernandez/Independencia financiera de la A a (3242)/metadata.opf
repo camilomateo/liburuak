@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65c58866-872d-41ae-a583-eb18288ccc7c</dc:identifier>
+        <dc:title>Independencia financiera de la A a la Z</dc:title>
+        <dc:creator opf:file-as="Gregorio Hernández" opf:role="aut">Gregorio Hernández</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;¿Y si de verdad pudieras conseguir la libertad financiera? &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Por Gregorio Hernández, el divulgador de bolsa best seller con 100.000 unidades vendidas en España.&lt;/p&gt;
+&lt;p&gt;Todos aspiramos a ser financieramente exitosos. A disfrutar de más tiempo libre, a tener mayores ingresos y, en definitiva, a no depender de un trabajo para vivir. Sin embargo, nuestra educación en el campo económico siempre ha sido escasa y en gran parte equivocada. A la mayoría nos faltan los conocimientos y recursos para poder conseguir la libertad que tanto ansiamos. Hasta ahora.&lt;/p&gt;
+&lt;p&gt;Gregorio Hernández, uno de los grandes divulgadores financieros de nuestro país, nos presenta en este libro su método de forma condensada, con todo lo esencial que necesitas para empezar hoy mismo tu camino hacia la independencia financiera, y nos enseña todo lo que jamás nos contaron sobre nuestras finanzas personales. De este modo, y mediante ejemplos sencillos y casos prácticos pensados para ahorrarnos mucho tiempo, nos ofrece las claves para dejar de ser esclavos del dinero y empezar a sacarle todo su potencial. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VERGARA</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DT4P2XCJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:20.858902+00:00"/>
+        <meta name="calibre:title_sort" content="Independencia financiera de la A a la Z"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

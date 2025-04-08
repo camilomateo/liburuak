@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">770</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83a76a7c-500b-4bcb-b540-736bc9c668a1</dc:identifier>
+        <dc:title>Oscura es la noche</dc:title>
+        <dc:creator opf:file-as="Brune, Raquel" opf:role="aut">Raquel Brune</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-17T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La autora estrella que ha reunido a una comunidad de más de 800.000 lectores a través de sus redes sociales vuelca su pasión por la literatura en una novela inolvidable. Un hotel decadente en el norte de la península. &lt;/p&gt;
+&lt;p&gt;Un bosque donde sigue viva la huella de los lobos. &lt;/p&gt;
+&lt;p&gt;Dos mujeres unidad a través del tiempo por el sonido de una melodía y el deseo de ser escuchadas. UNA LEYENDA. UN MISTERIO. UNA CANCIÓN. La crítica ha dicho:«Secretos, mentiras y traiciones. ¡No querrás que se acabe!».Esperanza Luque, @esperanzalruz, bookstagramer. «Dos mujeres con realidades contrapuestas confluyen, en distintas décadas, en un mismo destino. El misterio, la fortaleza y la música trazarán un mexo mágico entre ambas. Una novela que se lee con avidez.»Revista Woman«Si tú también creciste leyendo a las hermanas Brönte, esta novela te va a cautivar».Bibiana in Bookland, bookstagramer «Una visión moderna de una antigua leyenda. Misteriosa y original».Elia Barceló, novelista «Un viejo hotel al borde del mar, un bosque donde resuena el aullido de los lobos y una canción olvidada que une a dos mujeres en tiempos distintos. Raquel Brune firma una historia hipnótica».Bárbara Montes, novelista.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-25T10:54:21.598321+00:00"/>
+        <meta name="calibre:title_sort" content="Oscura es la noche"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

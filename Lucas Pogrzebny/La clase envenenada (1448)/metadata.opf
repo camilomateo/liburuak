@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1448</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b62530d4-bc1a-4248-a622-c9a20bcc2d9d</dc:identifier>
+        <dc:title>La clase envenenada</dc:title>
+        <dc:creator opf:file-as="Pogrzebny, Lucas" opf:role="aut">Lucas Pogrzebny</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-26T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;De la mano de un autor Preseleccionado para el Premio CWA/Margery Allingham de Misterio Corto, llega un heredero moderno de Holmes, Poirot, Queen y Columbo. Un colegio secundario enredado en una telaraña de sospechas… Tantos secretos escolares ocultan uno aún más terrible: un crimen de novela. A una semana de la graduación, la emoción de la clase de 5.° A del colegio secundario Buenos Aires Bright Coat High School queda sepultada cuando una alumna es envenenada en el recreo. Con la clase intervenida por un Inspector de Policía que inicia una severa investigación, todos en el aula se convierten en sospechosos. El estudiante Polo Levington se entera de la noticia e intenta no pensar demasiado en el asunto, aún dolido por un incidente traumático de su infancia, pero la delegada de la clase tiene otros planes para él; al fin y al cabo, este misterio también es una invitación para una aficionada a las novelas policiales como ella. Con la colaboración de otros dos amigos, forman un peculiar grupo de cuatro que inicia su propia investigación a contrarreloj. El fin de la cursada se avecina y el culpable así lo espera, tejiendo la telaraña de engaños con que ata la verdad en puñado de mentiras… pero «Levin» está dispuesto a cortar esos hilos, en este nostálgico caso del pasado que lo hizo ser quien es.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Misterios de Café Levin"/>
+        <meta name="calibre:series_index" content="0"/>
+        <meta name="calibre:timestamp" content="2024-04-20T15:25:37.727003+00:00"/>
+        <meta name="calibre:title_sort" content="clase envenenada, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

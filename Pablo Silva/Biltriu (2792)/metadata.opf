@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2792</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e34772fa-f488-47de-8c75-bdd730207aab</dc:identifier>
+        <dc:title>Biltriu</dc:title>
+        <dc:creator opf:file-as="Silva, Pablo" opf:role="aut">Pablo Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-10T00:00:00+00:00</dc:date>
+        <dc:description>Cuando se encuentran los restos
+ de la joven Marisa Cota diecisiete años después de su desaparición, la apacible
+ aldea asturiana de Piñera queda inmersa en una vorágine de oscuros secretos del
+ pasado.</dc:description>
+        <dc:publisher>CALIGRAMA</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CS2RS6SG</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-09T07:28:24.421826+00:00"/>
+        <meta name="calibre:title_sort" content="Biltriu"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

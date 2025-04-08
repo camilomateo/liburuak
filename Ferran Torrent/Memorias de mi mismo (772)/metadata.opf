@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">772</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">795c94f5-d6c3-4dc3-bdf0-b60c0967e6e7</dc:identifier>
+        <dc:title>Memorias de mí mismo</dc:title>
+        <dc:creator opf:file-as="Torrent, Ferran" opf:role="aut">Ferran Torrent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Vuelve el mejor Ferran Torrent, uno de los mayores representantes de la literatura comprometida. En invierno de 1968, tres jóvenes trabajadores con convicciones políticas hacen una pintada reivindicativa la noche antes del entierro del alcalde del pueblo, lo que traerá graves consecuencias. Cerca de allí, en una casita en medio de la lámina de agua de los arrozales valencianos, un joven falsificador de documentos y cuadros —que todavía no se ha ganado el apodo de Mítico Regino— recibe la visita inesperada de la policía política del régimen franquista. Tanto ellos como él actúan contra un sistema corrupto, pero desde puntos de partida aparentemente muy alejados. Sin embargo, los caminos de estos personajes y de muchos otros se cruzarán en esta novela con más de un giro inesperado. El periodista Marc Sendra intenta reconstruir un puzle donde también confluyen el expolio nazi y la lucha antifranquista. A medida que caen las máscaras, el relato que emerge es tan original como una buena falsificación, tan auténtico como la verdad que se esconde detrás del orden establecido. En Memorias de mí mismo, a través de la historia de los orígenes de Mítico Regino, un personaje irremediablemente condicionado por el contexto histórico, nos adentraremos en una trama internacional sobre la falsificación de arte clásico y contemporáneo que llega hasta 2019.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423363421</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-25T10:54:23.466376+00:00"/>
+        <meta name="calibre:title_sort" content="Memorias de mí mismo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

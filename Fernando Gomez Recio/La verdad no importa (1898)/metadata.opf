@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1898</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0662f7f8-1b81-4a59-9203-6b73f55739f9</dc:identifier>
+        <dc:title>La verdad no importa</dc:title>
+        <dc:creator opf:file-as="Gómez Recio, Fernando" opf:role="aut">Fernando Gómez Recio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-28T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;La vida de una condenada a muerte va llegando a su fin. A pocos 
+días de la ejecución, las dudas sobre su culpabilidad renacen, avivadas 
+ahora por su hijo que se niega a aceptar el veredicto fatal. ¿Será capaz
+ de hacerlas valer el mismo abogado que siempre sospechó del hijo de la 
+condenada? La verdad baila colgada de una fina cuerda. Pero, ante una 
+pena de muerte..., ¿la verdad importa?&lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DFMMWTTC</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:57.038213+00:00"/>
+        <meta name="calibre:title_sort" content="verdad no importa, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

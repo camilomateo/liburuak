@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">565</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad7036f8-45d4-4248-9d87-79f1a1adf122</dc:identifier>
+        <dc:title>El ladrón de veranos</dc:title>
+        <dc:creator opf:file-as="María Soto" opf:role="aut">María Soto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;LA NUEVA MAESTRA DE LA NOVELA DE MISTERIO El hallazgo de un valiosísimo lienzo de Velázquez y un hombre enigmático con mucho que esconder.&lt;/p&gt;
+&lt;p&gt;Verano de 1935. Clara tiene once años y ha conocido al hombre más fascinante del mundo: Roberto Montenegro, pintor y aristócrata, que acaba de llegar a Deauville, la capital extravagante y frívola de la costa normanda donde se reúnen príncipes y millonarios. Poco se sabe de su pasado y su fortuna tiene orígenes inciertos, aunque los rumores hablan de obras de arte robadas y golpes de tahúr en los casinos. El único que conoce sus secretos de juventud es Gabriel Caron, el tío de Clara, pero los guarda en silencio, fiel a un pacto de amistad establecido entre ambos hombres quince años atrás. &lt;/p&gt;
+&lt;p&gt;Sin embargo, cuando Clara encuentra el cadáver del pintor, asesinado durante una noche de fiesta, empieza a desvelarse paulatinamente todo cuanto Montenegro escondía. El descubrimiento de un valiosísimo lienzo de Velázquez, en el que el maestro sevillano retrató a su amante Flaminia Triunfi, quizá oculte la clave de lo ocurrido.&lt;/p&gt;
+&lt;p&gt;Un adictivo rompecabezas ambientado en la glamurosa costa francesa de los años treinta sitúa a María Soto como la nueva maestra de la novela de evasión y misterio.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423363070</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">U7etEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8423363074</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-17T11:30:21.259342+00:00"/>
+        <meta name="calibre:title_sort" content="ladrón de veranos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2920</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">094b71d3-f743-4cfe-83da-8d3c10e89e0e</dc:identifier>
+        <dc:title>Gog</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-25T23:00:00+00:00</dc:date>
+        <dc:description>Gog es el libro que J. J. Benítez nunca hubiera deseado escribir. Esas son sus palabras. Pero escrito está. Según el autor navarro, lo más importante de esta supuesta novela «es lo que se intuye, no lo que se lee». Sí, Gog es una pequeña joya (envenenada). Se trata del libro más breve, y dramático, del autor de Caballo de Troya. «La información contenida en Gog es tan importante que, probablemente, es falsa. Sinceramente, si no lo lee, mejor para usted…», J. J. Benítez.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">46179</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:18.185046+00:00"/>
+        <meta name="calibre:title_sort" content="Gog"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

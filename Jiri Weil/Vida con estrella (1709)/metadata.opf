@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1709</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e7c8daf-01a5-4325-9fea-b4fd00afee58</dc:identifier>
+        <dc:title>Vida con estrella</dc:title>
+        <dc:creator opf:file-as="Weil, Jiri" opf:role="aut">Jiri Weil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-19T06:00:00+00:00</dc:date>
+        <dc:description>Cosida en la chaqueta, justo sobre el corazón, tal y como dictan las normas en una Praga ocupada por los nazis, una estrella convierte a Josef Roubícek en un forastero en su propia ciudad. Él, en tiempos un tipo tan normal e inofensivo que resultaba casi anodino, se ve obligado a esconderse en una buhardilla de las afueras con la única compañía de un gato, a trabajar como sepulturero en el cementerio y a mantenerse alejado de las calles. Su vida se centrará a partir de entonces en la supervivencia y en las cosas sorprendentemente pequeñas &amp;#8212;una cebolla, un libro, un amor perdido&amp;#8212; a las que se aferra para perseverar. «Vida con estrella» es una conmovedora e inquietante fábula que nos muestra que sobrevivir contra toda probabilidad es el mayor acto de resistencia que se puede concebir.</dc:description>
+        <dc:publisher>Impedimenta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-06T08:52:12.060582+00:00"/>
+        <meta name="calibre:title_sort" content="Vida con estrella"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

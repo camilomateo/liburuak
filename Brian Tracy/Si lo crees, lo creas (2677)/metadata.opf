@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7da94113-b685-488e-92bd-35faac3e91fe</dc:identifier>
+        <dc:title>Si lo crees, lo creas</dc:title>
+        <dc:creator opf:file-as="Brian Tracy" opf:role="aut">Brian Tracy</dc:creator>
+        <dc:creator opf:file-as="Brian Tracy" opf:role="aut">Christina Stein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Descubre los secretos para eliminar pensamientos y conductas negativas y desbloquear todo tu potencial para el éxito.&lt;/b&gt;&lt;/p&gt;
+
+    &lt;p&gt;Si te sientes abrumado o incapaz de escapar de tus pensamientos negativos, este libro te pondrá en el camino correcto. Ya sea que esta negatividad provenga de una relación pasada que terminó mal, un trauma infantil, un fracaso profesional o inseguridad, este libro te ayudará a reconocer cómo ésta, sea consciente o inconsciente, afecta tu personalidad, tu perspectiva y tus decisiones.&lt;/p&gt;
+
+    &lt;p&gt;&lt;i&gt;Si lo crees, lo creas&lt;/i&gt; está lleno de consejos reveladores del autor &lt;i&gt;bestseller&lt;/i&gt; Brian Tracy la psicoterapeuta Christina Stein, con los que aprenderás a identificar y superar patrones e ideas perjudiciales, a recuperar el control de tus pensamientos, sentimientos y acciones, a convertir lo negativo en positivo y a aceptar cambios inesperados en la vida para alcanzar tus metas y sentirte satisfecho.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">71522</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Autoayuda</dc:subject>
+        <dc:subject>psicología</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:08:33.860145+00:00"/>
+        <meta name="calibre:title_sort" content="Si lo crees, lo creas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00a39847-99c2-4a3d-98bd-b53fa0eca1e3</dc:identifier>
+        <dc:title>La hora de las gaviotas</dc:title>
+        <dc:creator opf:file-as="Martín, Ibon" opf:role="aut">Ibon Martín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-14T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;Nadie como Ibon Martín para sumergirnos en uno de los enclaves más sobrecogedores de la costa vasca.&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;El odio es el enemigo más peligroso.&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;Las
+ gaviotas sobrevuelan inquietas la ciudad marinera de Hondarribia,  que 
+se ha vestido con sus mejores galas para celebrar un día especial.  Sus 
+graznidos compiten con los alegres sonidos que inundan las calles,  
+donde los vecinos se preparan para disfrutar de la fiesta ajenos a la 
+terrible amenaza que se cierne sobre ellos.&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;En mitad del 
+desfile se desata el horror. Una puñalada salvaje y certera  riega con 
+sangre el frío suelo de piedra. Una mujer ha muerto asesinada.  Y no 
+será la última. La suboficial Ane Cestero y su unidad especial  tendrán 
+que dar caza a un asesino feroz e implacable, capaz de ocultarse a la 
+vista de todo un pueblo.&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;&lt;i&gt;La hora de las gaviotas&lt;/i&gt; es un &lt;i&gt;thriller &lt;/i&gt;sinuoso, magnético e  impecable que nos enfrenta al peor de los enemigos: el odio visceral que late escondido en todos nosotros.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ibon Martín&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:21:25.838839+00:00"/>
+        <meta name="calibre:title_sort" content="hora de las gaviotas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por D</title>
+  <id>Calibre2opds:taglist:L:613:D</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_613_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por D" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <link href="./tags_613_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:en" />
+  <entry>
+    <title>Desaparecida en Frozen Falls</title>
+    <id>calibre:book:1760</id>
+    <updated>2024-08-26T10:56:09Z</updated>
+    <link href="../../Leslie%20Wolfe/Desaparecida%20en%20Frozen%20Falls%20%281760%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leslie%20Wolfe/Desaparecida%20en%20Frozen%20Falls%20%281760%29/Desaparecida%20en%20Frozen%20Falls%20-%20Leslie%20Wolfe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="555 KB" />
+    <author>
+      <name>Leslie Wolfe</name>
+      <uri>../authors_0/authors_765_Page_1.xml</uri>
+    </author>
+    <published>2024-08-21T09:16:42Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="Misterio" />
+    <category term="Lang:en" />
+    <summary>En un fresco día de otoño en la pequeña ciudad de Mount Chester, la detective Kay Sharp se encuentra cara a cara con el pasado del que lleva huyendo la última década. Su exmarido, Brian, ha sido acusado de matar a Rachel, la ex mejor amiga de Kay, la...</summary>
+    <link href="../book_1/book_1760.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Doll's House: a play</title>
+    <id>calibre:book:2458</id>
+    <updated>2024-09-09T10:34:35Z</updated>
+    <link href="../../Henrik%20Ibsen/A%20Doll%27s%20House_%20a%20play%20%282458%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Henrik%20Ibsen/A%20Doll%27s%20House_%20a%20play%20%282458%29/A%20Doll%27s%20House_%20a%20play%20-%20Henrik%20Ibsen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="127 KB" />
+    <author>
+      <name>Henrik Ibsen</name>
+      <uri>../authors_1/authors_1591_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [331]:</summary>
+    <link href="../book_2/book_2458.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dr. Montessori's Own Handbook</title>
+    <id>calibre:book:1992</id>
+    <updated>2024-09-05T06:10:32Z</updated>
+    <link href="../../Maria%20Montessori/Dr.%20Montessori%27s%20Own%20Handbook%20%281992%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Montessori/Dr.%20Montessori%27s%20Own%20Handbook%20%281992%29/Dr.%20Montessori%27s%20Own%20Handbook%20-%20Maria%20Montessori.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Maria Montessori</name>
+      <uri>../authors_1/authors_1427_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Montessori" />
+    <category term="method" />
+    <category term="of" />
+    <category term="education" />
+    <category term="Lang:en" />
+    <link href="../book_1/book_1992.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dracula</title>
+    <id>calibre:book:2076</id>
+    <updated>2024-09-06T02:09:08Z</updated>
+    <link href="../../Bram%20Stoker/Dracula%20%282076%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Bram%20Stoker/Dracula%20%282076%29/Dracula%20-%20Bram%20Stoker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="425 KB" />
+    <author>
+      <name>Bram Stoker</name>
+      <uri>../authors_1/authors_1485_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="Epistolary" />
+    <category term="Fiction" />
+    <category term="Gothic" />
+    <category term="Vampires" />
+    <category term="--" />
+    <category term="Dracula" />
+    <category term="Count" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="Transylvania" />
+    <category term="(Romania)" />
+    <category term="Whitby" />
+    <category term="(England)" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [284]:</summary>
+    <link href="../book_2/book_2076.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

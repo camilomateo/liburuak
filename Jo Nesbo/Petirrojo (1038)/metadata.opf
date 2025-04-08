@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1038</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6e5cbf1-d617-4066-b92d-65a497e22a6d</dc:identifier>
+        <dc:title>Petirrojo</dc:title>
+        <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Año 2000. En Oslo aparece en plena calle el cadáver degollado de un viejo militante nazi.&lt;/p&gt;&lt;p&gt;Harry Hole, que tras cometer un grave error ha sido reasignado a los servicios secretos, percibe los puntos en común entre este crimen y el contenido de un informe de los muchos documentos aburridos que pasan por sus manos a diario: alguien compró un rifle Märklin, un arma extremadamente cara y precisa usada por grupos neonazis.&lt;/p&gt;&lt;p&gt;Harry Hole tratará de averiguar cuál es la relación entre estos dos casos y se percatará de que el origen de todo puede remontarse mucho tiempo atrás, a lo sucedido entre un grupo de soldados noruegos durante el sitio de Leningrado en la Segunda Guerra Mundial. Pero ¿qué vínculo puede haber entre lo sucedido hace tantos años y ese personaje misterioso apodado «El Príncipe» al que apuntan todas las averiguaciones policiales sobre el tráfico de armas?&lt;/p&gt;&lt;p&gt;El ambiguo papel de Noruega durante la Segunda Guerra Mundial, asesinatos y ajustes de cuentas son los ingredientes que ha empleado Jo Nesbø para crear &lt;cite&gt;Petirrojo&lt;/cite&gt;, una de las mejores novelas de la serie Harry Hole y con la que empezó a ser conocido internacionalmente.&lt;/p&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.7</dc:identifier>
+        <dc:identifier opf:scheme="EPL">2134</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Harry Hole"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-10-20T11:12:31.174008+00:00"/>
+        <meta name="calibre:title_sort" content="Petirrojo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

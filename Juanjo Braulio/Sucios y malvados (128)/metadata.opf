@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">613f0824-7bf8-483d-bb1a-8495f2352012</dc:identifier>
+        <dc:title>Sucios y malvados</dc:title>
+        <dc:creator opf:file-as="Braulio, Juanjo" opf:role="aut">Juanjo Braulio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;Un sorprendente &lt;i&gt;thriller &lt;/i&gt;policiaco escrito por el autor de &lt;i&gt;El silencio del pantano.&lt;/i&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Tras deslumbrar con su primera novela, &lt;i&gt;El silencio del pantano&lt;/i&gt;,
+  calificada de «obra maestra» por la crítica y cuya adaptación  al cine
+  ya está en marcha, Juanjo Braulio regresa a las librerías con &lt;b&gt;este monumental &lt;/b&gt;&lt;b&gt;&lt;i&gt;thriller&lt;/i&gt;&lt;/b&gt;&lt;b&gt;
+ literario que combina una trama policiaca impecable con una gran 
+reflexión sobre la justicia, el sexo, el poder y la violencia contra las
+ mujeres. &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Un grupo de prostitutas que acuden a rezar a la 
+Virgen de las Rameras en  un edificio abandonado; un músico que jamás ha
+ logrado superar el secuestro que sufrió cuando era niño; un abogado sin
+ escrúpulos; un notario con oscuros gustos sexuales; un contenedor de 
+transporte marítimo con un siniestro contenido; un hombre que aparece 
+ahorcado en un lugar exacto donde estuvo hace siglos la entrada al 
+barrio de los burdeles...&lt;/p&gt; &lt;p&gt;Braulio presenta un juego diabólico 
+formado por distintas tramas que la  inspectora Roma Besalduch luchará 
+por conectar, buceando en  las  profundidades y los secretos de una 
+Valencia entre cuyas negras sombras se ocultan sus habitantes más sucios
+ y malvados.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01MUBY93Y</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788490696279</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Juanjo Braulio&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:37.892256+00:00"/>
+        <meta name="calibre:title_sort" content="Sucios y malvados"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1894</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f82de3da-010a-4394-8d2d-cf54fae38d6e</dc:identifier>
+        <dc:title>Operación jaque mate</dc:title>
+        <dc:creator opf:file-as="Ernesto Ekaizer" opf:role="aut">Ernesto Ekaizer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-17T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El nuevo libro del reconocido periodista ErnestoEkaizer se adentra en el polémico caso Villarejo y cómo el fiscalStampa fue apartado por razones políticas.&lt;/p&gt;
+&lt;p&gt;¿Quién es de verdad el excomisario José Manuel Villarejo, el hombre de las mil identidades? ¿Agente encubierto de inteligencia o CEO del conglomerado de empresas CENYT que ha amasado una fortuna? ¿Cómo y por qué afloran unos audios -32 terabytes o doce tráileres llenos a rebosar de papel— en los cuales Villarejo ha grabado a personalidades de la política, la empresa, la policía y la justicia? ¿Quién es IgnacioStampa, el fiscal al cual la fiscal general del Estado apartó del caso Villarejo precisamente por su infatigable afán de investigar?&lt;/p&gt;
+&lt;p&gt;Operación Jaque Mate es una nueva prueba de que la realidad supera a menudo la ficción. El lector se adentra en un relato apasionante en que podremos conocer los entresijos de diferentes tramas -el caso Tándem, la operación Kitchen, el caso Iberdrola, BBVA, la Operación Cataluña...- en las que el dinero, la corrupción y el poder son las piezas de una partida en la que el Estado de Derecho -la democracia- es la gran víctima.&lt;/p&gt;
+&lt;p&gt;«No son los subsuelos o cloacas del Estado. Es el Estado convertido en subsuelo o cloaca por orden gubernamental». &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:55.020607+00:00"/>
+        <meta name="calibre:title_sort" content="Operación jaque mate"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

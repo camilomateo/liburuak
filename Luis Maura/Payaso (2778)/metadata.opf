@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2778</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4924f0a5-e2f2-4ea0-9846-03a14ec81876</dc:identifier>
+        <dc:title>Payaso</dc:title>
+        <dc:creator opf:file-as="Maura, Luis" opf:role="aut">Luis Maura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Miki es un actor disfrazado de payaso que huye de la policía en un centro comercial. Acumula castings fallidos y fracasos amorosos, mientras malvive en una diminuta buhardilla. Lo que nadie sabe es que Miki esconde en su nevera un terrible secreto que podría acabar con sus planes de éxito. Para librarse de él, acude a su amiga Loreto, una excéntrica artista del croché con el pelo verde, y a la Butcher, una carnicera gaditana de temperamento explosivo y afilado sentido del humor. Juntos se embarcarán en un caótico plan, lleno de persecuciones y malentendidos, donde este trío disfuncional intentará encontrar la manera de salir indemne de una situación que, cuanto más intentan arreglar, más absurda se vuelve. Payaso es un thriller con tintes de comedia negra que trata temas como la obsesión por el éxito, el desamor, la conciencia de clase o el valor de la amistad. En esta novela, la desesperación y el humor más ácido se entrelazan en una historia tan delirante como divertida, protagonizada por unos personajes únicos e impredecibles.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Dos Bigotes</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788412862270</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-09T07:18:53.191218+00:00"/>
+        <meta name="calibre:title_sort" content="Payaso"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

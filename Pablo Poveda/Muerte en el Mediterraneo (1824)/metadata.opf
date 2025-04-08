@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1824</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0677ddf5-dc3d-4330-a4b2-32009d40a63f</dc:identifier>
+        <dc:title>Muerte en el Mediterráneo</dc:title>
+        <dc:creator opf:file-as="Poveda, Pablo" opf:role="aut">Pablo Poveda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Las que serían sus mejores vacaciones en un crucero por el Mediterráneo, terminarán convirtiéndose en una pesadilla. La repentina muerte de un famoso chef en el crucero pondrá a Gabriel Caballero como sospechoso principal de asesinato. Cuando el periodista investiga el suceso por su cuenta, descubre que existen intereses para que la verdad no salga a flote. ¿Logrará Caballero descubrir al asesino y demostrar su inocencia antes de llegar a puerto? Por desgracia, no es el único pasajero dispuesto a alcanzar su propósito, aunque eso implique el sacrificio de otras personas. Tras una ruptura amorosa, Gabriel Caballero acepta su último encargo para escribir un artículo sobre el Sol Bahía, un famoso crucero de lujo que recorre la costa mediterránea. En el barco, además de conocer a un elenco extravagante de famosos de la sociedad española, se encontrará con el inspector Rojo, en una misión de incógnito. El crucero, que a simple vista parece la solución a sus problemas, se convertirá en un mal sueño tras una confusa noche de cócteles, la aparición de una misteriosa dama con raras intenciones y la chocante muerte de un excéntrico cocinero con problemas de humildad. De pronto, resolver el asesinato se convertirá en su única tarea y su éxito será la única vía para salvar su carrera y su vida de la cárcel.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policiaca</dc:subject>
+        <meta name="calibre:series" content="Gabriel Caballero"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:timestamp" content="2024-08-28T10:55:05.623375+00:00"/>
+        <meta name="calibre:title_sort" content="Muerte en el Mediterráneo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

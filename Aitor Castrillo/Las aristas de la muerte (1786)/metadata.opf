@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1786</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98dda7e5-adc4-4e31-9a23-eea1de978e12</dc:identifier>
+        <dc:title>Las aristas de la muerte</dc:title>
+        <dc:creator opf:file-as="Castrillo, Aitor" opf:role="aut">Aitor Castrillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-10T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt; &lt;p&gt;&lt;span style="font-family: 'Arial'; font-size: 14px; color: #333333; background-color: #ffffff"&gt;Coincidían cada jueves en la misma cafetería. Eran jóvenes y se gustaban, pero su destino estaba ligado al de otras siete personas: un futbolista, un camarero, una abogada, un ladrón, un pistolero, un piloto de avión y un despiadado asesino. Una historia de amor romántica en la que sus protagonistas deberán luchar contra el tiempo y contra la muerte. Acción, suspense, asesinatos… a un ritmo trepidante. Una novela negra que te dejará sin aliento. &lt;/span&gt;&lt;strong style="font-family: 'Arial'; font-size: 14px; color: #333333; background-color: #ffffff"&gt;¿Te atreves a leerla?&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Beta III Milenio</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:15.349047+00:00"/>
+        <meta name="calibre:title_sort" content="aristas de la muerte, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

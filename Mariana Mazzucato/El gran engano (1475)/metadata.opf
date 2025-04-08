@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30f486ae-5cf5-4b4b-82cc-ed078044d96d</dc:identifier>
+        <dc:title>El gran engaño</dc:title>
+        <dc:creator opf:file-as="Mazzucato, Mariana" opf:role="aut">Mariana Mazzucato</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-11T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Mariana Mazzucato y Rosie Collington se adentran con valentía 
+en la opaca y muy poderosa industria de las consultorías y exponen su 
+nefasta influencia en el modo en que se gestionan hoy las empresas y los
+ gobiernos. Demuestran que la actual dependencia de nuestras economías 
+de firmas como McKinsey &amp;amp; Company, PwC, Deloitte o KPMG frena la 
+innovación, nubla la responsabilidad empresarial y política y 
+obstaculiza nuestra misión colectiva de detener el colapso climático.&lt;/p&gt;&lt;p&gt;A
+ partir de una batería de ejemplos, incluidos varios casos de 
+consultores que tomaron las riendas con resultados desastrosos, las 
+autoras destapan las dinámicas y los efectos dañinos de esta gran 
+industria. Gracias al espejismo de que son fuentes objetivas de 
+experiencia y capacidad, estas firmas -cuyo interés no suele coincidir 
+con el colectivo- venden sus servicios a gobiernos reacios al riesgo y a
+ empresas centradas en maximizar el valor para el accionista. Mientras 
+aplican un barniz de autoridad, arraigan en sus clientes el pensamiento a
+ corto plazo y una merma de sus conocimientos especializados y su 
+capacidad de aprender. Por si fuera poco, nuestros mejores y más 
+brillantes licenciados a menudo se desvían del servicio público a la 
+consultoría.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T15:13:17.160981+00:00"/>
+        <meta name="calibre:title_sort" content="gran engaño, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

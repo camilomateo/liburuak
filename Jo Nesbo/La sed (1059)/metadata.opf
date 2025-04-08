@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1059</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba68d4b3-ca8a-4689-a46a-9eb6ecaf921e</dc:identifier>
+        <dc:title>La sed</dc:title>
+        <dc:creator opf:file-as="Nesbo, Jo" opf:role="aut">Jo Nesbo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;La esperada nueva novela de Harry Hole, un caso inquietante en el que Jo Nesbø profundiza en la oscuridad del ser humano.&lt;/B&gt;&lt;/P&gt; &lt;p&gt;&lt;B&gt;Hay un nuevo criminal en la calle.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Cuando aparece el cadáver de una mujer, asesinada tras una cita concertada en internet, las más finas membranas de la ciudad de Oslo empiezan a vibrar. En su cuerpo encuentran marcas que delatan a un depredador especialmente sediento. O eso creen los investigadores.&lt;/P&gt; &lt;p&gt;&lt;B&gt;Podría estar en tu casa. O en tu dormitorio.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Los medios de comunicación apremian, se necesita un rápido esclarecimiento y detención del culpable. La policía sabe que solo hay un hombre capaz de hacerlo, pero Harry Hole no quiere regresar a un trabajo que casi se lo arrebató todo. Hasta que empieza a sospechar que el asesino quizá tenga que ver con un caso que no logró cerrar completamente.&lt;/P&gt; &lt;p&gt;&lt;B&gt;Quiere tu sangre.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Al caer una segunda víctima, Harry ya no dudará. Tiene que poner toda la carne en el...</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788416709779</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Harry Hole"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:timestamp" content="2023-11-01T18:27:34.719417+00:00"/>
+        <meta name="calibre:title_sort" content="sed, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

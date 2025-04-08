@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2723</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cdfe7810-c331-4547-b557-15ac7623c9af</dc:identifier>
+        <dc:title>Asesinato en la Academia</dc:title>
+        <dc:creator opf:file-as="Braccaioli, Riccardo" opf:role="aut">Riccardo Braccaioli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-10T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Olivia Wolf, una aspirante a inspectora, con un agudo ojo 
+analítico y una rebeldía innata, se encuentra en el centro de la 
+tormenta. Junto a su compañero Valentino, Olivia descubre un enigmático 
+caballo de ajedrez que lleva a desenterrar secretos oscuros y una 
+organización secreta.&lt;br&gt;&lt;br&gt;Mientras Olivia navega por un laberinto de 
+traiciones, venenos invisibles y figuras enigmáticas, deberá enfrentarse
+ a fuerzas más poderosas de lo que jamás imaginó. En una carrera contra 
+el tiempo, con su vida y la de sus seres queridos en juego, Olivia y 
+Valentino se adentran en una peligrosa conspiración que amenaza con 
+desmoronar la misma esencia de la justicia que juraron proteger.&lt;br&gt;&lt;br&gt;Con
+ un asesino aún libre y una red de corrupción que se extiende por la 
+academia, Olivia deberá utilizar toda su inteligencia y valentía para 
+desenmascarar al verdadero culpable y proteger el honor de la academia.&lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Escritor Tokenizado</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DBJ83Y92</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-11T07:23:54.966157+00:00"/>
+        <meta name="calibre:title_sort" content="Asesinato en la Academia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

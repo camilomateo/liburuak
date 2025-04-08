@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">326</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d525cddc-62e0-45a8-9b1f-828da29b116a</dc:identifier>
+        <dc:title>Deudas del frío</dc:title>
+        <dc:creator opf:file-as="Lezaun, Susana Rodríguez" opf:role="aut">Susana Rodríguez Lezaun</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-05T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span itemprop="description" style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;b&gt;Nadie puede borrar las huellas de su pasado.&lt;br&gt;La sombra de tus pecados siempre te perseguirá.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Jorge Viamonte, el presidente del Banco Hispano-Francés, es asesinado en Berriozar, a las afueras de Pamplona. Allí debía reunirse con su hermano Lucas, un vagabundo alcohólico con quien solo se hablaba cuando este necesitaba dinero. Pero Lucas no aparece, y el banquero se descubre solo en el peligroso y abandonado barrio. Solo el silbido de una bala mortal parece demostrar que Viamonte, lo supiera o no, estaba acompañado.&lt;br&gt;&lt;br&gt;El inspector David Vázquez toma las riendas de una investigación cuyas raíces parecen hundirse hasta lo más profundo de los fundamentos sobre los que asienta la corrompida sociedad española. Mientras, su amada Irene Ochoa lucha por borrar las últimas huellas de un pasado criminal que la persigue.&lt;br&gt;&lt;br&gt;Amenazas, envidias, celos, discrepancias y un profundo odio... Hay mil y una razones por las que el gatillo se apretó, pero una sola persona que empuñó el arma.&lt;/span&gt;&lt;br style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>DEBOLS!LLO</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01NAXRJEV</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788466339131</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Susana Rodríguez Lezaun&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector David Vázquez"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-02-16T18:13:41.702521+00:00"/>
+        <meta name="calibre:title_sort" content="Deudas del frío"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

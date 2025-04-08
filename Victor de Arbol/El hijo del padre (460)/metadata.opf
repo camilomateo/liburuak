@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">460</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7381b7a5-c9d7-4a1a-bebe-84e65ae29eb2</dc:identifier>
+        <dc:title>El hijo del padre</dc:title>
+        <dc:creator opf:file-as="Víctor de Árbol" opf:role="aut">Víctor de Árbol</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;¿Quién es Diego Martín? Ni siquiera él lo sabe. Un padre de familia, 
+un esposo, un respetable profesor universitario. Uno de los hijos de la 
+emigración de la España rural a la España industrial en los años 
+sesenta. Alguien que se ha hecho a sí mismo renunciando a sus orígenes, a
+ sus raíces. Y a la vez alguien incapaz de liberarse de ese pasado, de 
+la sombra de su padre, del enfrentamiento ancestral entre la familia 
+Patriota y la suya. Un hombre que se está convirtiendo en aquello que 
+más odia.&lt;/p&gt;&lt;br&gt;&lt;p&gt;El detonante es Martin Pearce, un seductor enfermero
+ que cuida de su hermana Liria, ingresada desde hace años en un centro 
+psiquiátrico. Martin, que de entrada parece un chico sensible, refinado y
+ cautivado por la belleza, esconde otra cara que Diego descubrirá de la 
+peor manera posible.&lt;/p&gt;&lt;br&gt;&lt;p&gt;¿Qué hizo Martin Pearce para desatar a un
+ Diego desconocido? ¿Qué ocurrió para que este rompiera con su familia y
+ se enfrentara con todos ellos? Diego todavía recuerda ese pasado con la
+ mirada del niño que fue y comprende que quizá ha llegado el momento de 
+verlo con unos nuevos ojos.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;¿Para qué necesitamos conocer la verdad sobre nosotros mismos si podemos escondernos en la mentira?&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Víctor de Árbol&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-23T21:15:36.308381+00:00"/>
+        <meta name="calibre:title_sort" content="hijo del padre, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

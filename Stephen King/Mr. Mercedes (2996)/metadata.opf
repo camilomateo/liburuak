@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2996</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a11be446-061b-44c2-b67f-079c0422dd11</dc:identifier>
+        <dc:title>Mr. Mercedes</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Tras publicarse un anuncio con ofertas de «trabajo garantizado», desde la madrugada miles de desempleados aguardan pacientemente haciendo fila frente a un edificio en espera de una entrevista. Justo antes de las cinco, un misterioso Mercedes color gris se precipita con violencia contra la multitud. El conductor logra escapar y el crimen, que arroja ocho muertos y 15 heridos de gravedad, queda impune. El detective Bill Hodges era uno de los investigadores del caso. El recuerdo de la tragedia aún lo persigue, incluso en sus días de retiro cuando su vida transcurre en los miasmas del ocio, pues ha recibido una carta de quien se hace llamar el «Asesino del Mercedes»; esta vez, Bill está convencido de que capturará al homicida. Que el juego comience.&lt;/p&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00NY7S3I2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-12T08:04:14.901055+00:00"/>
+        <meta name="calibre:title_sort" content="Mr. Mercedes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

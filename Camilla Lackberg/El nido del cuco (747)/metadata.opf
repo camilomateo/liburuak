@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">747</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a24bcfaf-b8ba-45d8-9e2e-1a6bc3b40fd7</dc:identifier>
+        <dc:title>El nido del cuco</dc:title>
+        <dc:creator opf:file-as="Läckberg, Camilla" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;b&gt;Dos sucesos terribles sin una conexión lógica sacuden Fjällbacka.&lt;/b&gt;&lt;br&gt;Encuentran a un famoso fotógrafo brutalmente asesinado en una sala de exposiciones, y en la casa del supuesto ganador del premio Nobel de Literatura, en una pequeña isla donde el escritor está ultimando su nuevo libro, sucede una sangrienta tragedia. Patrik Hedström y los colegas de la comisaría de Tanumshede no consiguen avanzar en la investigación de los casos, mientras que Erica Falck investiga el asesinato de una mujer transexual en Estocolmo en la década de 1980. Poco a poco, Erica se da cuenta de que los hilos del pasado están conectados con el presente y que los viejos pecados dejan largas sombras.&lt;br&gt;Una novela tan escalofriante como emocionante.&lt;/p&gt;</dc:description>
+        <dc:publisher>Maeva Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419638229</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Fjällbacka"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:timestamp" content="2023-05-22T15:06:45.488463+00:00"/>
+        <meta name="calibre:title_sort" content="nido del cuco, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

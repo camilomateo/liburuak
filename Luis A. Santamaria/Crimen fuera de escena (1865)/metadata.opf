@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1865</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8adf46eb-870c-4e26-b69a-2cef3198cb6f</dc:identifier>
+        <dc:title>Crimen fuera de escena</dc:title>
+        <dc:creator opf:file-as="Santamaría, Luis A." opf:role="aut">Luis A. Santamaría</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-28T03:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;El primer gran triunfo del escritor Toni Galán en su nueva vida en
+ Los Ángeles es convertirse en guionista de una popular serie de 
+televisión. Todo parece ir viento en popa hasta que una mujer es 
+encontrada sin vida. Las particulares circunstancias que envuelven al 
+cadáver sitúan las miradas de todos sobre la serie de ficción. Alguien 
+está recreando las escenas de crímenes que Toni escribió. Convertido en 
+el principal sospechoso por la policía y bajo la amenaza de ser 
+despedido por la productora, Toni se ve forzado a actuar en un mundo de 
+mentiras y falsas promesas que creía conocer bien. Con la ayuda de 
+quienes menos espera, inicia una carrera contra el tiempo para atrapar 
+al asesino y limpiar su nombre, todo mientras lucha contra los desafíos 
+personales que le plantea su complicada enfermedad.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CTHRFX9B</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:38.948517+00:00"/>
+        <meta name="calibre:title_sort" content="Crimen fuera de escena"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

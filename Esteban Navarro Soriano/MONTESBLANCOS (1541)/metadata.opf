@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a855af3e-82b3-41d4-84ae-1c6995f8fe65</dc:identifier>
+        <dc:title>MONTESBLANCOS</dc:title>
+        <dc:creator opf:file-as="Navarro Soriano, Esteban" opf:role="aut">Esteban Navarro Soriano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-30T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Un constructor de Zaragoza adquiere los terrenos del antiguo 
+casino de Montesblancos, que en la actualidad está abandonado. Su 
+intención es revitalizarlo y conseguir que recupere el esplendor de 
+antaño, como uno de los centros de ocio más importantes de España.&lt;/p&gt;&lt;p&gt;Cuando
+ está a punto de acometer el proyecto, recibe la visita de un hombre que
+ asegura que bajo el terreno hay un yacimiento del Siglo V a. C. La 
+historia se remonta cien años antes, cuando el abuelo de ese hombre 
+estuvo en el interior del yacimiento y se llevó una pieza de tres que 
+había, por la que, según le comenta, un misterioso coleccionista 
+norteamericano está dispuesto a pagar una fortuna.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CTHRDYMB</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:42.278007+00:00"/>
+        <meta name="calibre:title_sort" content="MONTESBLANCOS"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

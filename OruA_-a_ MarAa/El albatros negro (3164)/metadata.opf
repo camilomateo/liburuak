@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8ae4ef3-0916-4559-bd5d-249f36285d22</dc:identifier>
+        <dc:title>El albatros negro</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">OruA±a_ MarA­a</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Uno de los tesoros más codiciados y enigmáticos del mundo submarino se esconde en las profundidades del océano Atlántico. Una anciana historiadora naval podría tener la clave para rescatarlo, pero muere de repente en extrañas circunstancias. Pietro Rivas, un subinspector que acaba de llegar a la ciudad, será el encargado de investigar el caso junto con Nagore Freire, una extravagante inspectora de Patrimonio. Cuando las muertes comienzan a sucederse, la policía descubre que la clave para resolver los crímenes reside en la historia del galeón Albatros Negro. Y en cómo en el año 1700, en la antigua villa amurallada de Vigo, una joven entomóloga fue capaz de cambiar con su audacia el curso de la historia.</dc:description>
+        <dc:publisher>papyrefb2tdk6czd.onion</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401034800</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-03-14T13:34:11.521025+00:00"/>
+        <meta name="calibre:title_sort" content="albatros negro, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

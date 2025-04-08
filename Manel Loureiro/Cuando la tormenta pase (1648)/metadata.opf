@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1648</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5aa581c-f873-417c-85b8-a09e27bb941b</dc:identifier>
+        <dc:title>Cuando la tormenta pase</dc:title>
+        <dc:creator opf:file-as="Loureiro, Manel" opf:role="aut">Manel Loureiro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-18T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una remota isla. Una ofrenda sangrienta. Una tempestad que parece el preludio de una gran tragedia. Manel Loureiro da un giro definitivo al thriller con una novela impactante que no te puedes perder. Atrapado en Ons, una pequeña isla de la costa atlántica gallega, Roberto Lobeira no tiene posibilidad alguna de llegar a tierra firme ni de comunicarse con el exterior debido a una tormenta que parece ser el preludio de una tragedia. Cuando descubre un fardo que las olas han llevado hasta la orilla, su contenido provoca que los pocos habitantes que viven en la isla den rienda suelta a décadas de rencor, celos, viejas cuentas que saldar y sed de venganza. Y, por si fuera poco, una presencia misteriosa y acechante deja una ofrenda sangrienta en la puerta de su casa, como si se tratara de un enigmático mensaje que no puede comprender. Inmerso en un torbellino de odio, secretos inconfesables y ambición desmedida, Lobeira tendrá que sobrevivir en la isla... hasta que la tormenta pase.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-22T12:07:13.633452+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando la tormenta pase"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

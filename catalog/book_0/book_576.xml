@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Primero dormir, después soñar</title>
+  <id>urn:book:9a5d4a4d-6d81-4df7-87c1-852d8192e88e</id>
+  <updated>2023-04-28T01:16:48Z</updated>
+  <link href="./book_576.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Primero dormir, después soñar" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores" />
+  <link href="../authorlist/authorlist_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <link href="../authorlist/authorlist_O_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autores que empiezan por O" />
+  <link href="../../Nestor%20Sanchez/Primero%20dormir%2C%20despues%20sonar%20%28576%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Nestor%20Sanchez/Primero%20dormir%2C%20despues%20sonar%20%28576%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Nestor%20Sanchez/Primero%20dormir%2C%20despues%20sonar%20%28576%29/Primero%20dormir%2C%20despues%20sonar%20-%20Nestor%20Sanchez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+  <author>
+    <name>Néstor Sánchez</name>
+    <uri>../authors_0/authors_429_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Bernardo Ortín</name>
+    <uri>../authors_0/authors_430_Page_1.xml</uri>
+  </author>
+  <published>2023-02-18T07:13:37Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>Grijalbo</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Sin puntuación
+    </p>
+    <p>
+      <strong>Etiquetas:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Sumario:</strong>
+    </p>
+    <div xmlns="" aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;">
+      <p>
+        <span class="a-text-bold">
+          <b>En este libro aprenderás no solo a mejorar tu
+          sueño, sino también a convertirlo en una
+          experiencia agradable y placentera.</b>
+        </span>
+      </p>
+      <p>Dormir forma parte de un conjunto de procesos corporales
+      -como el hambre, la sed o las digestiones- que tienen lugar
+      de manera espontánea. Digamos que tú no decides que
+      ocurran, sencillamente, suceden. Por eso, cuando nos
+      esforzamos en dormir, como una obligación o un mandato,
+      muchas veces acabamos boicoteando el proceso.</p>
+      <p>Juntos desandaremos el camino que te ha llevado de una
+      mala noche a un problema de insomnio, con un protocolo
+      tranquilo y efectivo. Durante el camino aprenderás
+      más sobre todo lo que ocurre durante la noche y qué
+      hace el cuerpo para dormirse y para mantenerse despierto. Te
+      maravillará lo sabio que es y te convencerás de que
+      puedes confiar en él.</p>
+      <p>Además, te presentaremos algunas claves para
+      interpretar nuestros sueños. Soñamos historias que
+      muchas veces nos mandan mensajes para afrontar los problemas
+      de la vida cotidiana.</p>
+      <p>Así cumpliremos con el título de este libro:
+      «primero dormir y después soñar». Por ese
+      orden.</p>
+    </div>
+  </content>
+  <link href="../authors_0/authors_429_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Néstor Sánchez" />
+  <link href="../authors_0/authors_430_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Libros de Bernardo Ortín" />
+  <link href="http://www.goodreads.com/book/title/Primero%20dormir%2C%20despu%C3%A9s%20so%C3%B1ar" type="text/html" rel="related" title="Este libro en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Primero%20dormir%2C%20despu%C3%A9s%20so%C3%B1ar" type="text/html" rel="related" title="Este libro en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Primero%20dormir%2C%20despu%C3%A9s%20so%C3%B1ar%20N%C3%A9stor%20S%C3%A1nchez" type="text/html" rel="related" title="Este libro en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Primero%20dormir%2C%20despu%C3%A9s%20so%C3%B1ar&amp;field-author=N%C3%A9stor%20S%C3%A1nchez" type="text/html" rel="related" title="Este libro en Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/N%C3%A9stor%20S%C3%A1nchez" type="text/html" rel="related" title="Néstor Sánchez en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/N%C3%A9stor%20S%C3%A1nchez" type="text/html" rel="related" title="Néstor Sánchez en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/S%C3%A1nchezN%C3%A9stor" type="text/html" rel="related" title="Néstor Sánchez en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=N%C3%A9stor%20S%C3%A1nchez" type="text/html" rel="related" title="Néstor Sánchez en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?N%C3%A9stor%20S%C3%A1nchez" type="text/html" rel="related" title="Néstor Sánchez en ISFDB" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Bernardo%20Ort%C3%ADn" type="text/html" rel="related" title="Bernardo Ortín en Goodreads" target="_blank" />
+  <link href="http://es.wikipedia.org/wiki/Bernardo%20Ort%C3%ADn" type="text/html" rel="related" title="Bernardo Ortín en Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/Ort%C3%ADnBernardo" type="text/html" rel="related" title="Bernardo Ortín en LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Bernardo%20Ort%C3%ADn" type="text/html" rel="related" title="Bernardo Ortín en Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Bernardo%20Ort%C3%ADn" type="text/html" rel="related" title="Bernardo Ortín en ISFDB" target="_blank" />
+</entry>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1906</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3e0f12e-4e8e-4244-b85b-7fa9d70f35f7</dc:identifier>
+        <dc:title>Polvo y Marea</dc:title>
+        <dc:creator opf:file-as="Lorién, Noa" opf:role="aut">Noa Lorién</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Arial','sans-serif'"&gt;&lt;span style="background-color: #ffffff; color: #333333"&gt;Tres desconocidos. Un largo camino. Una odisea apasionante. Teruel, 1587. La idílica existencia del joven Diego cambia por completo cuando, debido a un altercado, tiene que salir huyendo de su ciudad natal para salvarse de una muerte segura. Comienza así un viaje lleno de peligros, emociones y camaradería, que lo llevará, junto con sus amigos, Alana y Lorenzo, a vivir la más sensacional de las aventuras, más allá de lo que nunca hubiese podido imaginar. Embárcate en esta palpitante historia del S. XVI, donde la lealtad, el amor, la religión, el honor y la guerra se entrelazarán para forjar los destinos de estos tres inolvidables compañeros.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Histórica</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-03T07:34:00.895084+00:00"/>
+        <meta name="calibre:title_sort" content="Polvo y Marea"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

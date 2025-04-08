@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13a3ecc6-28e4-4763-89a1-88520c34683f</dc:identifier>
+        <dc:title>Crito</dc:title>
+        <dc:creator opf:file-as="Plato" opf:role="aut">Plato</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Classical</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Ancient</dc:subject>
+        <dc:subject>Justice</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Early</dc:subject>
+        <dc:subject>works</dc:subject>
+        <dc:subject>to</dc:subject>
+        <dc:subject>1800</dc:subject>
+        <dc:subject>Dialogues</dc:subject>
+        <dc:subject>Greek</dc:subject>
+        <dc:subject>Translations</dc:subject>
+        <dc:subject>into</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:52+00:00"/>
+        <meta name="calibre:title_sort" content="Crito"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

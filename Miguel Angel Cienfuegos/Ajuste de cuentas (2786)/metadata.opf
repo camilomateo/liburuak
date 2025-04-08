@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2786</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da1795a2-ed96-4769-8f2b-7260f0106829</dc:identifier>
+        <dc:title>Ajuste de cuentas</dc:title>
+        <dc:creator opf:file-as="Cienfuegos, Miguel Ángel &amp; Sastre, Pepa" opf:role="aut">Miguel Ángel Cienfuegos</dc:creator>
+        <dc:creator opf:file-as="Cienfuegos, Miguel Ángel &amp; Sastre, Pepa" opf:role="aut">Pepa Sastre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;La noticia hace saltar todas las alarmas: tras haber cumplido una 
+parte de la pena, un conocido etarra ha sido asesinado de un disparo en 
+la frente. Es el primero en caer, pero pronto le siguen más…&lt;br&gt;&lt;br&gt;La 
+reacción es inmediata, y la Guardia Civil envía al País Vasco un equipo,
+ comandado por la joven teniente Claudia Zaforteza, para investigar los 
+crímenes. No tardan en darse cuenta de que se hallan en una difícil 
+encrucijada: el tiempo corre en su contra y, mientras tanto, se ven 
+sometidos tanto a presiones políticas como al ruido y la furia de los 
+medios.&lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0D5MHK5HP</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-09T07:19:02.313842+00:00"/>
+        <meta name="calibre:title_sort" content="Ajuste de cuentas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

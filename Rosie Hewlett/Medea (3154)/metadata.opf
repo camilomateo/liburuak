@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3154</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6735493f-cb92-4e05-98bc-ac35e1f26a52</dc:identifier>
+        <dc:title>Medea</dc:title>
+        <dc:creator opf:file-as="Hewlett, Rosie" opf:role="aut">Rosie Hewlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-18T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Rechazada por su madre. Golpeada por su padre. Separada de su hermana. Medea nunca ha encajado porque posee un poder único y peligroso: la brujería. &lt;/p&gt;
+&lt;p&gt;Medea anhela una existencia diferente. Desde pequeña fue atormentada por su familia porque nació con un poder único y, en apariencia, peligroso: la hechicería. Cuando el apuesto Jasón llega al reino del padre de Medea para reclamar el Vellocino de Oro, ella vislumbra una oportunidad única para escapar: a cambio de que Jasón la ayude a huir, ella lo protegerá con su magia para que supere las pruebas que lo separan del famoso vellocino. Esta aventura la pondrá a prueba en todos los sentidos, luchará contra monstruos, destronará reyes y se enamorará de un hombre que nunca podría esperar merecerla… y cuando al final se enfrente a la traición, se verá impulsada a cometer un acto de desesperación tan brutal que destrozará la vida de todos a su alrededor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Martínez Roca México</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">86420c67-4b1b-49ce-bba9-d8a69b8d1411</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B0DJHGMZWD</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-10T15:02:06.650716+00:00"/>
+        <meta name="calibre:title_sort" content="Medea"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0fa01a2-44dd-4e24-9930-0d2c6894bf04</dc:identifier>
+        <dc:title>Momentos literarios</dc:title>
+        <dc:creator opf:file-as="Naipaul, V. S." opf:role="aut">V. S. Naipaul</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;i style="-webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;b style="-webkit-tap-highlight-color: transparent;"&gt;Momentos literarios&lt;/b&gt;&lt;/i&gt;&lt;b style="-webkit-tap-highlight-color: transparent; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt; es una biografía intelectual del premio Nobel de Literatura.&lt;/b&gt;&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;/span&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;En estos once textos, reunidos por primera vez en este volumen, el premio Nobel de Literatura abarca cerca de más de medio siglo de exploración personal en torno a los enigmas de la expresión escrita y de la narrativa en particular. Aquí se encuentran reflexiones acerca de sus lecturas de niño y sus primeros intentos de escribir durante la adolescencia; las primeras ilusiones y sus ideas sobre la relación que hay entre algunas formas literarias y algunas culturas. También se incluye en este volumen el famoso ensayo de Naipaul sobre su antepasado putativo literario Conrad y el prefacio, menos conocido y más enigmático, al único libro publicado por su padre. Finalmente, el lector encontrará su célebre discurso del Nobel, «Dos mundos», donde Naipaul reflexiona sobre el propósito de su carrera. Con su habitual maestría de expresión y su finura de pensamiento, &lt;i style="-webkit-tap-highlight-color: transparent;"&gt;Momentos literarios &lt;/i&gt;es una biografía intelectual del premio Nobel de Literatura y a la vez una colección de ensayos sobre el placer de leer, el arte de la escritura y la identidad del escritor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Literatura Random House</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;V. S. Naipaul&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-27T11:03:58.574131+00:00"/>
+        <meta name="calibre:title_sort" content="Momentos literarios"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

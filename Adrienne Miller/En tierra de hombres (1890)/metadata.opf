@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1890</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eaee5411-cce1-4824-9153-e998645b552b</dc:identifier>
+        <dc:title>En tierra de hombres</dc:title>
+        <dc:creator opf:file-as="Adrienne Miller" opf:role="aut">Adrienne Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-21T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A los veinticinco años, Adrienne Miller fue ascendida a editora literaria de &lt;i&gt;Esquire&lt;/i&gt;, revista que durante décadas había dado forma al concepto mismo de masculinidad, acogiendo en sus páginas a autores como Carver, Hemingway o Mailer. Eran los años noventa, la edad de oro del periodismo impreso y un momento relevante en el que las mujeres empezaban a ocupar los puestos de poder que hasta entonces les habían sido vetados. A nivel literario, fue el momento de la irrupción de David Foster Wallace como la voz de su generación.&lt;/p&gt; &lt;p&gt;Este libro, foco de gran interés por el retrato contradictorio que la autora hace de su relación profesional y sentimental con el autor de &lt;i&gt;La broma infinita&lt;/i&gt;, se adentra en los prestigiosos círculos editoriales de Nueva York dominados por hombres narcisistas, y ahonda en las complejidades de una relación personal con Foster Wallace que navega siempre entre la admiración intelectual y el abuso psicológico. Una historia clásica de supervivencia en un mundo adverso que pone luz a una época y a unos personajes devorados por su propio ego. &lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788499429793</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:53.058604+00:00"/>
+        <meta name="calibre:title_sort" content="En tierra de hombres"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

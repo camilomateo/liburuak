@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85ba7200-b5c2-43b0-89e6-8e2eb792a8c8</dc:identifier>
+        <dc:title>Davos, 1917</dc:title>
+        <dc:creator opf:file-as="Brosch, Luca" opf:role="aut">Luca Brosch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-04T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un complot que puede cambiar el curso de la historia. Una mujer dispuesta a todo para recuperar a su hija. Una novela basada en la mayor serie de TV suiza de todos los tiempos. Antes de que el mundo siga girando. En esa locura llamada la Gran Guerra no hay nada grande, excepto el dolor, y Johanna lo sabe bien. De regreso del frente occidental, donde ha servido como enfermera, lleva en su vientre a una niña, Elli, hija de un soldado arrebatado demasiado pronto de la vida. Engañada por su propia familia, que le quita a la pequeña justo después del parto, no tardará en descubrir que en el sanatorio de lujo de su padre, las mentiras están a la orden del día. De hecho, bajo una apariencia idílica, en Davos, la estación climática de montaña de la neutral Suiza, se está llevando a cabo una brutal batalla de espionaje entre las principales potencias mundiales. Nadie es realmente quien dice ser y la lealtad a ideales y alianzas siempre tiene un precio. Pero Johanna hará todo lo posible por recuperar a su hija. Incluso si tiene que mentir, robar o convertirse en una espía dispuesta a matar... Y de repente, el destino de Europa estará en sus manos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-23T19:31:39.761191+00:00"/>
+        <meta name="calibre:title_sort" content="Davos, 1917"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por F</title>
+  <id>Calibre2opds:taglist:F:19:F</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_19_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por F" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por F" />
+  <link href="./tags_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Fiction" />
+  <entry>
+    <title>Finlay Donovan los deja KO</title>
+    <id>calibre:book:1223</id>
+    <updated>2024-02-20T04:10:25Z</updated>
+    <link href="../../Elle%20Cosimano/Finlay%20Donovan%20los%20deja%20KO%20%281223%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Elle%20Cosimano/Finlay%20Donovan%20los%20deja%20KO%20%281223%29/Finlay%20Donovan%20los%20deja%20KO%20-%20Elle%20Cosimano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="473 KB" />
+    <author>
+      <name>Elle Cosimano</name>
+      <uri>../authors_0/authors_889_Page_1.xml</uri>
+    </author>
+    <published>2024-02-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Contraluz Editorial</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Mystery &amp; Detective" />
+    <category term="General" />
+    <category term="Lang:es" />
+    <category term="Finlay Donovan" />
+    <summary>Finlay Donovan [2]: Elle Cosimano, nominada a un premio Edgar, nos trae Finlay Donovan los deja KO, una desternillante y trepidante novela de misterio. "La saga Finlay Donovan es sencillamente espectacular. Los libros de Elle Cosimano son la mezcla p...</summary>
+    <link href="../book_1/book_1223.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>From the Earth to the Moon; and, Round the Moon</title>
+    <id>calibre:book:2087</id>
+    <updated>2024-09-06T02:09:10Z</updated>
+    <link href="../../Jules%20Verne/From%20the%20Earth%20to%20the%20Moon%3B%20and%2C%20Ro%20%282087%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jules%20Verne/From%20the%20Earth%20to%20the%20Moon%3B%20and%2C%20Ro%20%282087%29/From%20the%20Earth%20to%20the%20Moon%3B%20and%20-%20Jules%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="180 KB" />
+    <author>
+      <name>Jules Verne</name>
+      <uri>../authors_1/authors_1487_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Science" />
+    <category term="Fiction" />
+    <category term="Space" />
+    <category term="flight" />
+    <category term="to" />
+    <category term="the" />
+    <category term="moon" />
+    <category term="--" />
+    <category term="ships" />
+    <category term="Manned" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2087.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fuimos los afortunados</title>
+    <id>calibre:book:1742</id>
+    <updated>2024-08-08T05:32:08Z</updated>
+    <link href="../../Georgia%20Hunter/Fuimos%20los%20afortunados%20%281742%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Georgia%20Hunter/Fuimos%20los%20afortunados%20%281742%29/Fuimos%20los%20afortunados%20-%20Georgia%20Hunter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="770 KB" />
+    <author>
+      <name>Georgia Hunter</name>
+      <uri>../authors_1/authors_1247_Page_1.xml</uri>
+    </author>
+    <published>2024-04-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>EDICIONES URANO</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Historical" />
+    <category term="Lang:es" />
+    <summary>Inspirada en la increíble y verídica historia de una familia judía separada a comienzos de la Segunda Guerra Mundial, decidida a sobrevivir (y a reunirse de nuevo), esta obra es un tributo al triunfo de la esperanza y del amor contra todo pronóstico....</summary>
+    <link href="../book_1/book_1742.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

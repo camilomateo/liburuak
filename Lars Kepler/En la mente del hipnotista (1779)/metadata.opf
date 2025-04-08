@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1779</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e5774de-0d11-4c2c-8e92-77cd9b768131</dc:identifier>
+        <dc:title>En la mente del hipnotista</dc:title>
+        <dc:creator opf:file-as="Kepler, Lars" opf:role="aut">Lars Kepler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Un asesino en serie conmociona a la sociedad sueca: graba a sus víctimas instantes antes de matarlas y cuelga los vídeos en YouTube prácticamente en tiempo real. La policía es incapaz de reconocer a las futuras víctimas y se encuentra en un callejón sin salida. Por ello deciden recurrir al eminente psiquiatra y experto en hipnosis Erik Maria Bark, con el que resolvieron su caso más mediático en «El hipnotista», quien hallará una conexión entre el «modus operandi» del asesino con el de un antiguo paciente suyo. Sin embargo, la investigación da un giro inesperado y todos los indicios conducen a él, que además conoce a todas las víctimas. ¿Es posible que sea él el asesino? Nadie cuenta con que el sagaz inspector Joona Linna, que vuelve literalmente de los muertos, lo dará todo para devolverle al hipnotista toda la ayuda que éste le brindó en su caso más importante. «Si las luces están encendidas, alguien puede verte desde fuera. Si están apagadas, no podrás verlo si está dentro». Cierra con llave, corre las cortinas, no te muevas: la pareja reina del thriller psicológico te dejará sin aliento.</dc:description>
+        <dc:identifier opf:scheme="EPL">28189</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Joona Linna"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:13.909194+00:00"/>
+        <meta name="calibre:title_sort" content="En la mente del hipnotista"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

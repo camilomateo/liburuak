@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">800</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3dce5cf-d51e-4ce4-a0fa-339ab2037db5</dc:identifier>
+        <dc:title>Perros de caza</dc:title>
+        <dc:creator opf:file-as="Horst, Jorn Lier" opf:role="aut">Jorn Lier Horst</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-04T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La segunda novela del cuarteto WISTING,que ha inspirado la serie televisiva revelación de AMC. HA SALTADO UN ESCÁNDALO Diecisiete años atrás, William Wisting investigó uno de los casos más comentados en Noruega, el del secuestro y asesinato de la joven Cecilia Linde. Pero recientemente han salido a la luz indicios de que las pruebas fueron manipuladas y se metió en la cárcel a un inocente. EL OLFATO POLICIAL FALLÓ ¿Corrió Wisting tras el rastro de la primera presa que apareció sin considerar otras opciones? La cuestión es que ahora han suspendido, hasta nueva orden, al más intachable de los comisarios del país. Diecisiete años después, los medios de comunicación vuelven a oler la sangre. EL CULPABLE SIGUE EN LIBERTAD Wisting deberá trabajar a escondidas para entender qué pasó realmente y porqué se siguieron las pistas equivocadas. Tan solo cuenta con la ayuda de Line, su hija periodista. En Perros de caza, la segunda entrega del cuarteto Wisting, Jørn Lier Horst sube dos marchas el ritmo y la acción para deleitarnos con una novela policial frenéticamente perfecta. Novela ganadora del prestigioso premio THE GLASS KEY La crítica ha dicho...«Una novela impecable, sin un solo fallo. La mejor de la serie hasta ahora.»Østlands-Posten «Apasionante, con una ejecución precisa.»The Herald «Una novela de trama perfecta, exquisita en su estructura y repleta de tensión.»Crime Time «Horst tiene la capacidad de reproducir a la perfección el instinto policial de su protagonista, te mete de lleno en su cacería.»Dagens Nyheter «Lectura obligatoria para cualquiera a quien le guste el género policial, por la simple razón de que está increíblemente bien escrita.»Dagbladet «Tiene todo lo que hay que tener: intensidad, intriga y personajes redondos. Un autor que no solo sabe construir una buena intriga sino que la empuja con todas sus fuerzas sin perder un ápice de credibilidad.»Tønsbergs Blad&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Cuarteto Wisting"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-05-31T11:18:12.219495+00:00"/>
+        <meta name="calibre:title_sort" content="Perros de caza"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

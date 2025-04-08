@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6a1340d-f3ea-4726-bf4a-349287992841</dc:identifier>
+        <dc:title>El eco negro</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-28T23:00:00+00:00</dc:date>
+        <dc:description>Harry Bosch, detective de la policía de los Angeles quedó marcado por la dura experiencia de Vietnam. Ahora, un caso le devuelve su pasado. La víctima, Billy Meadows, había servido en su misma unidad. Ambos eran 'ratas de túnel' que combatían en la rede de pasajes subterráneos del Viet Cong; ambos experimentaron el error del 'eco negro': la reverberación en las tinieblas de su propio pánico. Ahora Meadows está muerto. Pero su rastro parece apuntar a un gran atraco bancario perpetrado a través de túneles de alcantarillado.</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788496940802</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Harry Bosch"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-08-16T15:28:58+00:00"/>
+        <meta name="calibre:title_sort" content="eco negro, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

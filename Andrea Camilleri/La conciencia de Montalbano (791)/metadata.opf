@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">791</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95624e46-6681-4f40-9c56-b85fe4d84e20</dc:identifier>
+        <dc:title>La conciencia de Montalbano</dc:title>
+        <dc:creator opf:file-as="Camilleri, Andrea" opf:role="aut">Andrea Camilleri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-10T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Seis relatos inéditos que recrean el irresistible universo del comisario Montalbano y su particular manera de entender la vida. Seis relatos no incluidos en las recopilaciones publicadas en vida de Andrea Camilleri, en los que, a partir de pistas mínimas, Salvo Montalbano se ve obligado a esclarecer crímenes disfrazados de accidentes desde una mujer brutalmente asesinada, la desaparición de un preciado anillo, el hallazgo de un cadáver envuelto en una manta tras una juerga veraniega, las consecuencias del noviazgo entre una estudiante de buena familia y un capo huido de la justicia, el debate de un comerciante de vinos entre cumplir con el estado o satisfacer a la mafia, hasta la inusual nochevieja de Montalbano y Livia. Amenos e intrigantes, estos relatos son una nueva muestra de la sensibilidad y perspicacia del comisario siciliano, que ha cautivado a millones de lectores en toda Europa. La crítica ha dicho:«Camilleri ha demostrado que se puede conciliar armoniosamente lo serio con lo humorístico, lo grave y lo ligero, con comprensión hacia las debilidades humanas».Babelia «Si hay autores cuyos libros suscitan admiración, sorpresa, emoción, los de Andrea Camilleri suscitan eso [...] y lo hacen gracias a una combinación infalible: una sabiduría de zorro viejo, un humor socarrón del que nadie se libra y una enorme comprensión hacia las debilidades humanas».ABC Cultural&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419346612</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Comisario Montalbano"/>
+        <meta name="calibre:series_index" content="34"/>
+        <meta name="calibre:timestamp" content="2023-05-31T11:04:21.135899+00:00"/>
+        <meta name="calibre:title_sort" content="conciencia de Montalbano, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3222</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37dccc20-662b-417a-88ff-f98a6a088aba</dc:identifier>
+        <dc:title>Un bergantín de guerra</dc:title>
+        <dc:creator opf:file-as="Woodman, Richard" opf:role="aut">Richard Woodman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-01-01T06:00:00+00:00</dc:date>
+        <dc:description>1798. Napoleón prepara un ejército para conquistar Egipto. El almirante Nelson cree que lo utilizará como cabeza de puente para atacar la India con la ayuda del rebelde Tipoo Sahib. Rápidamente, decide enviar al bergantín «Hellebore», del que es teniente Nathaniel Drinkwater, al Mar Rojo en una misión urgente. Deberán contactar con la flota de la India y destruir las fuerzas navales francesas de la zona. Pronto, el «Hellebore», se encontrará en medio de una operación naval a gran escala acosando el flanco de las tropas francesas. Lo que no se puede llegar a imaginar Drinkwater es que en esas cálidas aguas que bañan ciudades exóticas, surcadas por misteriosos «dhows» e infestadas de tiburones, se encontrará con sus dos grandes enemigos: el escurridizo capitán francés Santhonax y el sádico y retorcido teniente Morris, su pesadilla cuando sirvió como guardiamarina en la fragata «Cyclops». Ambos harán lo posible por acabar como sea con la vida de nuestro héroe…</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:identifier opf:scheme="EPL">53190</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Aventuras</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:series" content="Nathaniel Drinkwater"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:19.024490+00:00"/>
+        <meta name="calibre:title_sort" content="bergantín de guerra, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0372ad3-321b-4f78-9235-f21ff7ebc7af</dc:identifier>
+        <dc:title>Catedrales</dc:title>
+        <dc:creator opf:file-as="Piñeiro, Claudia" opf:role="aut">Claudia Piñeiro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-06T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Hace treinta años, en un terreno baldío de un barrio tranquilo, 
+apareció  descuartizado y quemado el cadáver de una adolescente. La 
+investigación  se cerró sin culpables y su familia -de clase media 
+educada, formal y  católica- silenciosamente se fue resquebrajando Pero,
+ pasado ese largo  tiempo, la verdad oculta saldrá a la luz gracias al 
+persistente amor del padre de la víctima.&lt;/p&gt; &lt;p&gt;Esa verdad mostrará con
+ crudeza lo que se esconde detrás de las  apariencias; la crueldad a la 
+que pueden llevar la obediencia y el  fanatismo religioso; la 
+complicidad de los temerosos e indiferentes, y  también, la soledad y el
+ desvalimiento de quienes se animan a seguir su propio camino, ignorando
+ mandatos heredados.&lt;/p&gt; &lt;p&gt;Como en Las viudas de los jueves, en Elena sabe y en Una suerte pequeña, &lt;b&gt;Claudia Piñeiro&lt;/b&gt;
+ ahonda con maestría en los  lazos familiares, en los prejuicios 
+sociales y en las ideologías e  instituciones que marcan los mundos 
+privados, y nos entrega una novela  conmovedora y valiente, certera como
+ una flecha clavada en el corazón de este drama secreto.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial Argentina</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">1185992</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Claudia Piñeiro&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:23:40.754771+00:00"/>
+        <meta name="calibre:title_sort" content="Catedrales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

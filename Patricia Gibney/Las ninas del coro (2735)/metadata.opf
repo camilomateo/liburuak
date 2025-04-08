@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6612fab2-6041-4c7e-b03c-6ec4772e3f86</dc:identifier>
+        <dc:title>Las niñas del coro</dc:title>
+        <dc:creator opf:file-as="Gibney, Patricia" opf:role="aut">Patricia Gibney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-14T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Allí se sentían seguras..., pero alguien quería acabar con ellas Se acerca la Navidad y la ciudad de Ragmullin está sepultada bajo un manto de nieve que ha obligado a cerrar las escuelas. Cuando la inspectora Lottie Parker recibe el aviso de que han encontrado el cuerpo de una niña junto a la catedral, teme que pueda tratarse de Willow Devine, una niña de ocho años cuya desaparición se ha denunciado esa misma mañana. Pero el cuerpo, envuelto en un sudario y con una partitura y un rosario entre las manos, pertenece a otra niña, Naomi. Antes de que Lottie pueda encontrar a Willow, el cuerpo de la niña aparece en el pesebre de la iglesia de Ragmullin. ¿Qué conexión había entre Willow y Naomi? Cuando otro niño desaparece, Lottie deberá enfrentarse a un asesino retorcido y despiadado para intentar salvarle la vida al pequeño.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Principal de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410424067</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">a0IjEQAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Lottie Parker"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:timestamp" content="2024-12-11T07:34:17.606664+00:00"/>
+        <meta name="calibre:title_sort" content="niñas del coro, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

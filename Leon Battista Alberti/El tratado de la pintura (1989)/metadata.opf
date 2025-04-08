@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1989</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c824c32-b8e0-4b02-8eb6-7708742abc56</dc:identifier>
+        <dc:title>El tratado de la pintura</dc:title>
+        <dc:creator opf:file-as="Alberti, Leon Battista &amp; Leonardo, da Vinci" opf:role="aut">Leon Battista Alberti</dc:creator>
+        <dc:creator opf:file-as="Alberti, Leon Battista &amp; Leonardo, da Vinci" opf:role="aut">da Vinci Leonardo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Leonardo</dc:subject>
+        <dc:subject>da</dc:subject>
+        <dc:subject>Vinci</dc:subject>
+        <dc:subject>1452-1519</dc:subject>
+        <dc:subject>Painting</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Early</dc:subject>
+        <dc:subject>works</dc:subject>
+        <dc:subject>to</dc:subject>
+        <dc:subject>1800</dc:subject>
+        <dc:subject>Alberti</dc:subject>
+        <dc:subject>Leon</dc:subject>
+        <dc:subject>Battista</dc:subject>
+        <dc:subject>1404-1472</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-05T16:10:31.210110+00:00"/>
+        <meta name="calibre:title_sort" content="tratado de la pintura, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

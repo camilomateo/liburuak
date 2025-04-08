@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">126</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cbb941b6-2d9c-4362-969c-04e520d8a20d</dc:identifier>
+        <dc:title>Nos crecen los enanos</dc:title>
+        <dc:creator opf:file-as="Gellida, César Pérez" opf:role="aut">César Pérez Gellida</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-07T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;César Pérez Gellida regresa con una nueva novela afilada y brutal.&lt;/p&gt;
+&lt;p&gt;«César Pérez Gellida es, sin ninguna duda, el mejor autor de novela negra de España».&lt;br&gt;Juan Gómez-Jurado&lt;/p&gt;
+&lt;p&gt;Un asesino sádico e inteligente con un único objetivo: no ser atrapado jamás.&lt;/p&gt;
+&lt;p&gt;Dos cadáveres han aparecido en un pinar de Valladolid. Según la autopsia uno de ellos es el principal sospechoso de unos crímenes acaecidos en el municipio de Urueña varios años atrás. Este giro de guion pone en alerta a Bittor Balenziaga y Sara Robles, los policías y guardias civiles encargados de aquel caso, sobre todo cuando empiezan a aparecer otros cadáveres por distintos puntos de la geografía nacional. Y todos con el rostro desfigurado tras practicarles la sonrisa de Glasgow.&lt;/p&gt;
+&lt;p&gt;César Pérez Gellida construye con maestría una trama escalofriante llena de giros y personajes memorables. Nos crecen los enanos es una novela brutal y afilada que trasciende los límites de lo policial y nos ofrece un fresco de relaciones humanas inquietante.&lt;/p&gt;
+&lt;p&gt;Críticas:&lt;br&gt;«César Pérez Gellida es, sin ninguna duda, el mejor autor de novela negra de España».&lt;br&gt;Juan Gómez-Jurado&lt;/p&gt;
+&lt;p&gt;«Los fieles al género Gellida estamos de suerte».&lt;br&gt;Dolores Redondo&lt;/p&gt;
+&lt;p&gt;Los lectores comentan:&lt;br&gt;«A mi juicio, es el mejor autor de negra y criminal de este país».&lt;/p&gt;
+&lt;p&gt;«Se ha convertido en uno de mis escritores de cabecera a la hora de elegir una buena novela negra española».&lt;/p&gt;
+&lt;p&gt;«Lo malo de los libros de Pérez Gellida es que se acaban».&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491295648</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;César Pérez Gellida&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:36.453802+00:00"/>
+        <meta name="calibre:title_sort" content="Nos crecen los enanos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

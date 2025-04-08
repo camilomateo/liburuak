@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1453</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77c43796-8e35-40be-bfaf-2cc985d2fd7f</dc:identifier>
+        <dc:title>El hombre sin rostro</dc:title>
+        <dc:creator opf:file-as="Claudio Cerdán" opf:role="aut">Claudio Cerdán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-17T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Los monstruos no deberían caminar libres sin que nadie los reconociese... Lo mejor de la novela negra y el terror unidos en un nuevo nivel de oscuridad. «Trepidante. Claudio Cerdán sabe cómo mantener la tensión.» Susana Martín Gijón Para un padre no hay mayor dolor que perder a un hijo. Y Roberto Cusac lo sabe bien: bastaron unos segundos para que Jaime desapareciera de un parque infantil sin dejar rastro. Años más tarde, en un intento por redimir su culpa, entra a trabajar como investigador privado en una fundación de personas desaparecidas junto con Inés Herrera, su esposa, quien se encarga de la parte legal. Tienen otro hijo, que ha crecido a la sombra de un hermano al que nunca conoció, pero que continúa presente en la vida de sus padres. Y más cuando una noche, en un paraje inhóspito, reaparece un niño desaparecido. Desnutrido y con evidentes signos de tortura, el pequeño relata haber estado encerrado por un hombre sin rostro. Desde ese instante, y guiados por el temor de que Jaime haya sufrido la misma suerte, Roberto e Inés iniciarán una investigación paralela para descubrir la verdad. Sobre Claudio Cerdán: «Un aire crudo al mejor Denis Lehane.» JUAN GÓMEZ JURADO «Claudio Cerdán, que ya empezó fuerte, sube la apuesta a lo bestia con esta novela.» LORENZO SILVA «Firmar un novelón así está al alcance de muy pocos.» CÉSAR PÉREZ GELLIDA&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">vIbzEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0CVB83QHK</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">206707575</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788423365289</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T14:46:07.957274+00:00"/>
+        <meta name="calibre:title_sort" content="El hombre sin rostro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

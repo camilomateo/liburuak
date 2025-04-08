@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">90</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68047215-d61b-41f4-b90d-c0ed166f9b4f</dc:identifier>
+        <dc:title>Mentiras</dc:title>
+        <dc:creator opf:file-as="Sigurdardóttir, Yrsa" opf:role="aut">Yrsa Sigurdardóttir</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;i&gt;Mentiras&lt;/i&gt;, el nuevo &lt;i&gt;thriller&lt;/i&gt; de Yrsa Sigurðardóttir 
+lo  tiene todo para inquietarte: ambientado en una isla recóndita, 
+escenarios espectaculares y una historia trepidante.&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Cuatro 
+personas tienen que ir a un faro remoto, situado en un en un  islote del
+ Atlántico al que solamente se puede acceder en helicóptero.  Son una 
+técnico de telecomunicaciones, dos operarios de mantenimiento y  un 
+fotógrafo. La noche anterior al viaje, uno de ellos sueña que solo  dos 
+regresarán. Ya en la isla, las condiciones claustrofóbicas llevarán  a 
+un grupo ya de por sí poco cohesionado a  altas cotas de pánico y 
+paranoia.&lt;/p&gt; &lt;p&gt;Mientras tanto, una familia vuelve a su hogar de 
+Reikiavik tras un  intercambio de piso, para descubrir que sus huéspedes
+ estadounidenses se  han volatilizado. Cuando el marido revisa los 
+vídeos de seguridad de la  cámara que tienen instalada en la casa de 
+veraneo --a la que los  invitados tenían acceso--, empieza a 
+sospecharque algo horrible ha sucedido.&lt;/p&gt; &lt;p&gt;Una agente de policía 
+encuentra un fragmento de un viejo informe. Por él  descubre que a su 
+marido lo interrogaron cuando era muy joven. Ella  ahora sospecha que 
+ese antiguo caso puede guardar relación con su  reciente intento de 
+suicidio. Al parecer, treinta años atrás, un  periodista se ahorcó en el
+ mismo garaje en el que lo ha intentado su marido. Pero ¿por qué falta 
+el resto del informe?&lt;/p&gt; &lt;p&gt;&lt;b&gt;En&lt;i&gt; Mentiras&lt;/i&gt;, estas tres historias
+ aparentemente inconexas acabarán unidas donde menos se puede esperar. 
+Una novela  desasosegante... donde nada es lo que parece. &lt;/b&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788416709380</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01MYPP27V</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Yrsa Sigurdardóttir&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:09:25.632627+00:00"/>
+        <meta name="calibre:title_sort" content="Mentiras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

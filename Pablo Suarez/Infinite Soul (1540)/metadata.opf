@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1540</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c42183a5-b3b4-4257-b4bc-b8c06a5d67a3</dc:identifier>
+        <dc:title>Infinite Soul</dc:title>
+        <dc:creator opf:file-as="Suárez, Pablo" opf:role="aut">Pablo Suárez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-29T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;El rastro de un cadáver aparecido en el Museo del Prado pone a la 
+agente Carla Munt tras la pista de una siniestra organización, tan 
+invisible como implacable, que prepara un ataque devastador.&lt;br&gt;&lt;br&gt;Cuando
+ Carla une fuerzas con Tessa Denemethy, una excéntrica multimillonaria 
+con sus propios motivos para querer desenmascarar la misteriosa 
+organización, el improbable dúo se ve arrastrado a una carrera 
+contrarreloj a lo largo de España y Grecia, en persecución de un cerebro
+ criminal sin rostro que planea desatar una guerra en las calles de 
+Madrid.&lt;/div&gt;</dc:description>
+        <dc:publisher>www.pablosuarezbooks.com</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0D5MFLS7G</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:42.076535+00:00"/>
+        <meta name="calibre:title_sort" content="Infinite Soul"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

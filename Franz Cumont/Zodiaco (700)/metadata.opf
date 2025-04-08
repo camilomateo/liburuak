@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94e6bbe9-a56c-4053-b7a7-1be82c70151f</dc:identifier>
+        <dc:title>Zodiaco</dc:title>
+        <dc:creator opf:file-as="Cumont, Franz" opf:role="aut">Franz Cumont</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-09T13:19:52+00:00</dc:date>
+        <dc:description>&lt;div&gt;La sabiduría astrológica tiene orígenes más antiguos que la propia
+ civilización occidental, y nuestros signos del zodíaco son en su 
+mayoría los que los sacerdotes astronómicos de Babilonia señalaron en la
+ bóveda del firmamento. Reconstruir su historia milenaria y descubrir 
+cómo las divisiones del cielo, la denominación de los planetas y la 
+composición de las constelaciones se fueron cargando de significado —de 
+Persia a Egipto y, desde allí, al mundo grecorromano— es la única manera
+ de entender su profundo significado. &lt;br&gt;Para explorar tan apasionante 
+camino, tal vez no haya guía más experto y auto­rizado que Franz Cumont,
+ quien, a través de calendarios, relojes de sol, horóscopos y una 
+fascinante red de fuentes originales, logra conducir al lector, con una 
+delicadeza historiográfica y una pasión poco comunes, por la historia de
+ las transformaciones de los doce signos en un extraordinario intento de
+ vincular lo humano y lo no humano, lo visible y lo invisible, el Yo y 
+el Todo.&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Siruela</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:10.013818+00:00"/>
+        <meta name="calibre:title_sort" content="Zodiaco"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">965</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">750c7246-9053-4c58-883b-d43b234b7b34</dc:identifier>
+        <dc:title>Ni fu ni fuck</dc:title>
+        <dc:creator opf:file-as="Carlos Heredia Ruiz &amp; Michael Ramirez Vargas" opf:role="aut">Carlos Heredia Ruiz</dc:creator>
+        <dc:creator opf:file-as="Carlos Heredia Ruiz &amp; Michael Ramirez Vargas" opf:role="aut">Michael Ramirez Vargas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Todo lo que los books de inglés no se han atrevido a enseñarte.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Aunque
+ no hay nada como expresarse en nuestra lengua materna, en este libro 
+encontrarás más de 300 expresiones muy nuestras trasladadas al inglés 
+que te ayudarán a expresar lo mismo (o casi lo mismo) en la lengua de 
+Shakespeare.&lt;/p&gt;&lt;p&gt;En 12 "unidades didácticas" agarramos la
+ sartén por el mango, damos la vuelta a la tortilla y te servimos un 
+menú de frases inglesas, "to majo", para que puedas apañártelas en las 
+situaciones más diversas: en el curro, con amigos y con enemigos, en 
+días chungos o de fiesta, si sales a tomar algo, a ligar o de viaje. Y 
+como madre no hay más que una, pero hay en todas partes, tienes una 
+unidad especial para que también las entiendas en inglés. ¿Quieres más? 
+Porque para los más cotillas tenemos un anexo final con la vida y 
+milagros de algunas de las frases &lt;span class="a-text-italic"&gt;made in Spain&lt;/span&gt; más chulas de todos los tiempos.&lt;/p&gt;&lt;p&gt;¿Se te hace bola el inglés? Después de este libro, &lt;span class="a-text-italic"&gt;easy-peasy! &lt;/span&gt;O, al menos, seguro que te echas unas buenas risas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Martínez Roca</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-16T15:28:56.169533+00:00"/>
+        <meta name="calibre:title_sort" content="Ni fu ni fuck"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

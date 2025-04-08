@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03218bbb-2e23-4cfb-b008-218e8202fb1c</dc:identifier>
+        <dc:title>Te encontraré</dc:title>
+        <dc:creator opf:file-as="Coben, Harlan" opf:role="aut">Harlan Coben</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;EL DESESPERADO INTENTO DE UN PADRE, INJUSTAMENTE CONDENADO POR LA MUERTE DE SU HIJO, POR DESCUBRIR LA VERDAD. David Burroughs vive una vida idílica junto a su esposa Cheryl y su querido hijo Matthew, de tres años, en un tranquilo suburbio de clase trabajadora. Una fatídica noche despierta y descubre que el pequeño ha sido asesinado mientras él dormía. Media década después, David cumple condena por la muerte de su hijo en una prisión de máxima seguridad. Él está rendido ante su destino, hasta que un día, Rachel, la hermana menor de su esposa, le hace una sorprendente visita para llevarle una fotografía de un parque de atracciones. Al fondo y casi fuera de cuadro, se puede observar a un niño que tiene un parecido inquietante con Matthew. A pesar de las pocas posibilidades que existen de que ese niño sea realmente su hijo, David tiene la absoluta certeza de que Matthew sigue vivo y se convierte en un prófugo decidido a lograr lo imposible: encontrarlo, limpiar su propio nombre y descubrir la verdadera historia sobre lo sucedido. ¿HASTA DÓNDE LLEGARÍAS PARA PROBAR TU INOCENCIA?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:21.819788+00:00"/>
+        <meta name="calibre:title_sort" content="Te encontraré"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

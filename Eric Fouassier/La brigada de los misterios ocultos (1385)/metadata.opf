@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a12d863-8807-4c7a-9de4-39726c29157a</dc:identifier>
+        <dc:title>La brigada de los misterios ocultos</dc:title>
+        <dc:creator opf:file-as="Fouassier, Éric" opf:role="aut">Éric Fouassier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;Una apasionante caza al asesino por las calles del París de 1830&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Otoño
+ de 1830. En un París enfebrecido y todavía conmocionado por las 
+jornadas revolucionarias de julio, el mal adquiere nuevas formas, y el 
+Vicario encarna la más aterradora de ellas: misterioso y sanguinario, se
+ sirve de los progresos científicos y de sus saberes esotéricos para 
+perpetrar sus crímenes y luego perderse en las sombras de una ciudad 
+convulsa.&lt;/p&gt;&lt;p&gt;Para combatir a este nuevo tipo de 
+delincuentes acaba de crearse la Brigada de los Misterios Ocultos, un 
+departamento especial de la Sûreté que dirige el joven inspector 
+Valentin Verne. De rostro angelical y carácter solitario, Valentin es 
+severo e implacable, y sus conocimientos de la química y de la medicina,
+ así como su interés por lo oculto y lo irracional, lo convierten en el 
+hombre ideal para dar caza a estos criminales modernos.&lt;/p&gt;&lt;p&gt;Pero
+ ¿a quién persigue Valentin en realidad? ¿Quién se esconde tras la 
+máscara del Vicario? ¿Tiene este alguna relación con el extraño suicidio
+ del disoluto heredero de una de las familias más ilustres de Francia? 
+¿Qué ha sido de Damien, un huérfano al que parece haberse tragado la 
+tierra?&lt;/p&gt;&lt;p&gt;En la estela de grandes detectives como 
+Vidocq y Auguste Dupin, París será testigo de la incansable lucha de 
+Valentin Verne contra el mal.&lt;br&gt;&lt;span class="a-text-bold"&gt;Ganador del Premio Maison de la Presse&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Principal de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B0CKR1YXCV</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:30:05.625439+00:00"/>
+        <meta name="calibre:title_sort" content="brigada de los misterios ocultos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

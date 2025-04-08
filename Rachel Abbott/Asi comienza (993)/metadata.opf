@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">993</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1fb0565e-5ed1-4f95-a903-fafa9fd72c05</dc:identifier>
+        <dc:title>Así comienza</dc:title>
+        <dc:creator opf:file-as="Abbott, Rachel" opf:role="aut">Rachel Abbott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>¿Quién creerá tu historia si el único testigo ha muerto?El thriller que no querrás que nadie te cuente. Aunque Cleo sabe que debería alegrarse de que su hermano haya conocido a alguien tras la repentina muerte de su primera esposa, hay algo en su esquiva nueva novia, Evie, que no termina de gustarle. Cuando Evie empieza a sufrir pequeños accidentes en casa -una quemadura, una mano rota- sus amigos no pueden evitar preguntarse si Mark podría estar haciéndole daño, aunque Cleo sabe que él sería incapaz de hacer algo así. Una noche, la policía recibe un aviso y lo que encuentra al entrar en la casa son dos cuerpos enredados entre sábanas ensangrentadas. Solo uno tiene pulso. ¿Cuál es la verdad que encierra ese terrible crimen? ¿Está Cleo preparada para conocerla? «Un thriller adictivo, de los que te empujan a dejar las luces encendidas por la noche.»Red Magazine La crítica ha dicho...«Así comienza es un thriller oscuro, de compulsiva lectura y meticulosamente planeado... Es obvio por qué Abbott ha conseguido atraer a una multitud de lectores.»The Times «No es de extrañar, vistos los giros y sorpresas de esta adictiva trama, que el boca a boca haya conseguido que Abbott destaque entre los demás escritores.»Morning Star «Si te gustaron Perdida y La chica del tren, Así comienza no te decepcionará... Abbott deja a los lectores con preguntas hasta la última página.»Herald «No es difícil entender por qué los lectores siempre regresan a esta autora.»Observer «La reina del thriller psicológico no nos decepciona con esta historia tensa y oscura.»Fabulous «Te atrapa desde la primera página... Si crees que estás preparado para leer el final, te equivocas.»Culturefly «Una tensión casi insoportable con un giro mortal.»Good Housekeeping</dc:description>
+        <dc:publisher>Suma de Letras</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0842ZJM29</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-23T12:48:29.418513+00:00"/>
+        <meta name="calibre:title_sort" content="Así comienza"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

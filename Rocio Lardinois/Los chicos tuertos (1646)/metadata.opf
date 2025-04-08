@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1646</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9237989b-43ef-4a2d-b2c2-7dd996988e6a</dc:identifier>
+        <dc:title>Los chicos tuertos</dc:title>
+        <dc:creator opf:file-as="Lardinois, Rocío" opf:role="aut">Rocío Lardinois</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;XXIV Premio Unicaja de Novela Fernando Quiñones&lt;/p&gt;
+&lt;p&gt;El Cairo, 2013. Desde que el General ha tomado las riendas de Egipto, la capital está bajo toque de queda. A las siete de la tarde, las calles del centro se vacían, los soldados se despliegan en los alrededores de la plaza Tahrir y los vecinos se encierran en sus casas. Lo que fue el barrio de las revueltas durante la Primavera Árabe enmudece de golpe. Es en ese momento cuando Alí sale a hacer pintadas contra el General, sorteando las patrullas. Una noche, unos agentes de paisano lo sorprenden en plena faena y comienzan a perseguirlo. De pronto, cuando está a punto de ser arrestado, oye la voz de un anciano que sale de un callejón ofreciéndole refugio.&lt;/p&gt;
+&lt;h3&gt;Biografía del autor&lt;/h3&gt;
+&lt;p&gt;Rocío Lardinois (1970) es doctora en Estudios Árabes e Islámicos. Con veinte años, se enamora de El Cairo, hecho que provoca que renuncie a su trabajo en una agencia europea para instalarse en esta ciudad y vivir la Primavera Árabe. Tras su estancia en la capital egipcia, vuelve a Madrid para colaborar con Amnistía Internacional escribiendo artículos de periodismo literario sobre las violaciones de derechos humanos en Egipto, trabajo que compagina con la consultoría internacional sobre formación profesional. "Los chicos tuertos" es su primera novela.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411486170</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-22T12:04:43.726683+00:00"/>
+        <meta name="calibre:title_sort" content="chicos tuertos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

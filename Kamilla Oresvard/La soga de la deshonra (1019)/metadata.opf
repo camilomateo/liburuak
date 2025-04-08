@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1019</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adac7a8b-d33f-42e1-b895-49b12d6093e6</dc:identifier>
+        <dc:title>La soga de la deshonra</dc:title>
+        <dc:creator opf:file-as="Oresvärd, Kamilla" opf:role="aut">Kamilla Oresvärd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-23T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El oscuro pasado de Mona Schiller la ha alcanzado y la relación con su hijo Anton, que es inspector de policía, es cada vez más tensa. Cuando una vieja amiga y excompañera de Mona la llama y le pide ayuda para encontrar a su hija Sophie, ella no tarda en empezara a investigar. Pronto descubre que no es la primera vez que Sophie desaparece. Al mismo tiempo, a Anton le asignan la investigación de una muerte misteriosa. Una joven se ha ahorcado en un árbol fuera de una iglesia. La chica no llevaba documentos de identidad y tampoco está en el sistema de desaparecidos. Todo indica que es un suicidio, hasta que el forense señala que la joven estaba muerta antes de ser ahorcada. ¿Dónde está Sofie y por qué ha desaparecido? ¿Y quién es la chica misteriosa? “La soga de la deshonra” es el cuarto libro sobre la Mona Schiller.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Word Audio Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788702377637</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Mona Schiller"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2023-08-30T06:59:17.573103+00:00"/>
+        <meta name="calibre:title_sort" content="La soga de la deshonra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

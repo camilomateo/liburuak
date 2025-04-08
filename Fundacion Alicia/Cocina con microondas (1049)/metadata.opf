@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1049</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2e50fc4-5b03-4f5e-873e-6f8e765a7463</dc:identifier>
+        <dc:title>Cocina con microondas</dc:title>
+        <dc:creator opf:file-as="Alícia, Fundación" opf:role="aut">Fundación Alícia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-18T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;Una &lt;span class="a-text-bold"&gt;guía imprescindible&lt;/span&gt; para aprender a &lt;span class="a-text-bold"&gt;cocinar con microondas&lt;/span&gt;.
+ El microondas sirve para cocinar y no solo para calentar o descongelar 
+alimentos. Este libro muestra cómo sacarle el máximo partido. ¡Porque &lt;span class="a-text-bold"&gt;una alimentación sana, segura, sostenible, deliciosa, fácil y rápida&lt;/span&gt; es posible!&lt;/p&gt;&lt;p&gt;El
+ libro da respuesta a cuestiones de todo tipo: ¿cómo funciona el 
+microondas?, ¿es seguro para la salud?, ¿es peligro estar delante de un 
+microondas en funcionamiento?, ¿qué recipientes se pueden emplear?, 
+¿existe pérdida de vitaminas al cocinar con microondas?&lt;/p&gt;&lt;p&gt;Elaborado por los profesionales de Fundación Alícia (Ali-mentación y cien-cia), recopila más de &lt;span class="a-text-bold"&gt;80 recetas&lt;/span&gt;
+ de verduras y setas, cereales y tubérculos, pescados y mariscos, carnes
+ y aves, huevos, postres y frutas, así como otras informaciones de 
+interés: &lt;span class="a-text-bold"&gt;tablas de referencia para precisar los tiempos de cocción&lt;/span&gt; de cada ingrediente en función de las cantidades, trucos y consejos para la descongelación y regeneración de alimentos.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Larousse</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-11-01T18:27:30.750726+00:00"/>
+        <meta name="calibre:title_sort" content="Cocina con microondas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

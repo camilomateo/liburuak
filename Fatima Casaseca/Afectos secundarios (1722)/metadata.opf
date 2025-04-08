@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1722</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47fe9b31-ee31-4d76-b459-32257916c0ea</dc:identifier>
+        <dc:title>Afectos secundarios</dc:title>
+        <dc:creator opf:file-as="Casaseca, Fátima" opf:role="aut">Fátima Casaseca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Un día lluvioso y deprimente de primavera, cuatro mujeres coinciden en una clínica de Madrid. Alicia es joven, bastante pardilla y se ha quedado sin amigos. Sonia es prostituta, malhablada y hace tiempo que dejó de confiar en el género humano. Lola es una intelectual indignada contra el mundo y con un estricto concepto de la sororidad. Y Begoña, resignada mujer de la limpieza y madre de familia, ha cometido el mayor error de su vida. Por eso, no puede evitar echarse a llorar en un oscuro soportal rodeada por unas desconocidas con las que, sin embargo, comparte el mismo secreto. Poco tiempo después, un cadáver inoportuno hará que sus caminos vuelvan a cruzarse y pondrá a prueba la sinceridad de su altruismo y los afectos secundarios de su primer encuentro.&lt;/span&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467054941</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-08T14:59:22.639289+00:00"/>
+        <meta name="calibre:title_sort" content="Afectos secundarios"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

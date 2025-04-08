@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fc0f8fd-3017-4978-b676-84d395a54f5f</dc:identifier>
+        <dc:title>El último giro</dc:title>
+        <dc:creator opf:file-as="Paola Boutellier" opf:role="aut">Paola Boutellier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-16T05:09:46.046831+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Un apasionante thriller sobre el mundo de la Fórmula 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Olivia, hija del difunto piloto Nigel Steward y Silvia Díaz, ingeniera y jefa de la escudería Astorian, siempre ha querido formar parte del mundo de la Fórmula 1, pero sin estar debajo de los focos. Es por eso que se encuentra en el avión privado del equipo como miembro del cátering cuando Oscar Campbell, uno de los mejores ingenieros de la escudería, fallece por lo que parecen ser causas naturales. &lt;/p&gt;
+&lt;p&gt;Pero algo llama la atención de Olivia: la muerte de Óscar ha llegado en un momento demasiado conveniente para la competencia para ser casualidad. &lt;/p&gt;
+&lt;p&gt;Su colaboración con la policía y sus indagaciones pondrán en peligro no solo su anonimato, sino la confianza de todos los que la rodean y, en última instancia, su vida. En la Fórmula 1, nada es lo que parece: no solo cada piloto tiene sus propios secretos, sino también los altos cargos de la Federación.&lt;/p&gt;
+&lt;p&gt;Olivia se verá sumergida en un entramado político por la lucha del poder. ¿Logrará encontrar al asesino de Óscar y salir indemne?&lt;/p&gt;&lt;h3&gt;Biografía del autor&lt;/h3&gt;
+&lt;p&gt;Paola Boutellier (Málaga, 1993) es graduada en Comunicación Audiovisual y está especializada en posproducción de vídeo y sonido. En 2017 decidió trasladarse a Madrid para realizar el máster en Dirección de Marketing y Comunicación Digital de la CEREM International Business School. Su pasión por el cine, las series y, sobre todo los libros, la llevó a crear en 2016 la comunidad Bicheando Libros. Ahora cuenta en sus redes sociales con más de 200.000 seguidores con los que comparte su pasión por la lectura. Sus novelas negras (A ojos de nadie, Asesinato de un culpable y Aún no es tarde) han enamorado a miles de lectores.&lt;/p&gt;</dc:description>
+        <dc:publisher>Contraluz Editorial</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">8419822027</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">TywDEQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">208944696</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788419822031</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-22T16:46:47.252924+00:00"/>
+        <meta name="calibre:title_sort" content="El último giro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

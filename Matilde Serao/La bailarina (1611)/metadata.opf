@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1611</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c86be90-1a79-45e3-91c0-bd87654c1308</dc:identifier>
+        <dc:title>La bailarina</dc:title>
+        <dc:creator opf:file-as="Serao, Matilde" opf:role="aut">Matilde Serao</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-15T06:00:00+00:00</dc:date>
+        <dc:description>Una joven dulce y devota, que desea sin embargo ser bailarina. Un mundo que no permite a las mujeres valerse por sí mismas y las obliga a venderse para sobrevivir. Una historia de la seis veces nominada al Premio Nobel, Matilde Serao.</dc:description>
+        <dc:publisher>Libros de Seda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Clásicos</dc:subject>
+        <meta name="calibre:timestamp" content="2024-06-02T09:00:00.720088+00:00"/>
+        <meta name="calibre:title_sort" content="bailarina, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

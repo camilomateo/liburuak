@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1360</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1ea8535-a835-4923-8ee6-ccf944219686</dc:identifier>
+        <dc:title>Hombres puros</dc:title>
+        <dc:creator opf:file-as="Mbougar Sarr, Mohamed" opf:role="aut">Mohamed Mbougar Sarr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-13T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Una novela conmovedora sobre un tema tabú: la homofobia de la sociedad senegalesa, cuyas consecuencias son devastadoras.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Dakar.
+ Por las redes circula un vídeo que se hace viral: una horda desentierra
+ un cadáver y lo arrastra fuera del cementerio. Esas imágenes impactan a
+ Ndéné Gueye, un profesor universitario de letras, decepcionado por la 
+mediocridad del sistema educativo del país y por la hipocresía de la 
+sociedad senegalesa.&lt;/p&gt;&lt;p&gt;Las imágenes del vídeo se acaban
+ convirtiendo en una obsesión para él. ¿Quién era el muerto? ¿Por qué 
+han exhumado el cadáver? La respuesta es tan clara como cruel: se trata 
+de un &lt;span class="a-text-italic"&gt;góor-jigéen&lt;/span&gt;, un «hombre-mujer», un homosexual. El joven profesor indaga sobre la identidad del cadáver profanado y busca a su madre.&lt;/p&gt;&lt;p&gt;Pero
+ entre tanto, a su alrededor −en la universidad, en su propia familia− 
+empiezan a circular las maledicencias sobre él. Y esa hostilidad acabará
+ afectando a su relación con la persona a la que ama. Entonces llega el 
+momento de mantenerse firme en las propias convicciones, de tomar 
+decisiones, de no callarse y de ser uno mismo, a pesar de todo y a pesar
+ de todos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Anagrama</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CV6X52PB</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:29:59.291940+00:00"/>
+        <meta name="calibre:title_sort" content="Hombres puros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

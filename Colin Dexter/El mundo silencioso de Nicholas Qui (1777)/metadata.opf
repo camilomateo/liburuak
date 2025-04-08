@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1777</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e0f02f9-e818-4535-a802-12bdb9b02bfc</dc:identifier>
+        <dc:title>El mundo silencioso de Nicholas Quinn</dc:title>
+        <dc:creator opf:file-as="Colin Dexter" opf:role="aut">Colin Dexter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-06-30T22:00:00+00:00</dc:date>
+        <dc:description>Una dosis letal de cianuro pone fin a la vida de un hombre. Y a la vez es el punto de partida de un laberíntico caso para el inspector Morse. La víctima, un profesor sordo, acababa de ser asignado a un cómodo cargo universitario, y todo apunta a un nuevo crimen por rivalidad profesional en el turbio ambiente académico de Oxford. Pronto aflora un grupo de sospechosos. Y sólo un hombre de la sagacidad de Morse será capaz de averiguar tras cuál de los respetables profesores se oculta el alma de un asesino.</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Inspector Morse"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:12.871294+00:00"/>
+        <meta name="calibre:title_sort" content="mundo silencioso de Nicholas Quinn, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

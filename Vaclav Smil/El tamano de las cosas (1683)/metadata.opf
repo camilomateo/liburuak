@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f94788a-e09d-4d9d-badf-15109e17ba1d</dc:identifier>
+        <dc:title>El tamaño de las cosas</dc:title>
+        <dc:creator opf:file-as="Smil, Vaclav" opf:role="aut">Vaclav Smil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-14T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;¿Pueden las medidas explicar el mundo? Para responder a esa 
+colosal pregunta ha dedicado Vaclav Smil las más de trescientas páginas 
+de&lt;span class="a-text-italic"&gt; El&lt;/span&gt;&lt;span class="a-text-italic"&gt;tamaño de las&lt;/span&gt;&lt;span class="a-text-italic"&gt;cosas&lt;/span&gt;.
+ El científico canadiense despliega un ambicioso análisis del principio 
+rector más fundamental de nuestro planeta: el tamaño, cuyas leyes, 
+límites y peculiaridades son clave para entender la salud, la riqueza e 
+incluso la felicidad. Medir la escala, las proporciones y las simetrías 
+es todo un reto, en especial cuando se trata de sistemas tan complejos 
+como las economías, pero comprenderlas ofrece ricas recompensas.&lt;/p&gt;&lt;p&gt;Con
+ el enfoque interdisciplinar que caracteriza su prolífica obra 
+divulgativa, Smil recurre a la historia, las ciencias de la Tierra, la 
+psicología y el arte, entre otras áreas, para ofrecer una nueva visión 
+de nuestros mayores retos, como la desigualdad, la propagación de 
+enfermedades infecciosas y los estragos del cambio climático.&lt;/p&gt;&lt;p&gt;Este
+ libro sobre lo grande, lo pequeño y la relación entre ambos nos entrega
+ una innovadora respuesta a las grandes preguntas sobre la existencia 
+humana. El tamaño no es solo una propiedad más de lo que nos rodea, sino
+ que puede cambiar nuestra forma de verlo absolutamente todo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>DEBATE</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:44.883406+00:00"/>
+        <meta name="calibre:title_sort" content="tamaño de las cosas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1449</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0856152a-9c7d-4e14-9dea-e717b89b8dcf</dc:identifier>
+        <dc:title>La psicóloga</dc:title>
+        <dc:creator opf:file-as="Summers, Nikita" opf:role="aut">Nikita Summers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-16T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="box-sizing: inherit; margin-top: 0px; color: rgb(45, 55, 72); font-family: Montserrat, sans-serif; font-size: 17px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Tras una carrera de éxito, la psicóloga Ana María Quintana comienza a recibir unas cartas anónimas que amenazan con sacar a la luz su secreto más perverso. Nos conducirá veinte años atrás, a su pasado, para relatarnos cómo una joven y bella licenciada en psicología acabó inmersa en el BDSM, y cómo fue su transición de las relaciones sadomasoquistas heterosexuales hacia las relaciones lésbicas BDSM.&lt;/p&gt;&lt;p style="box-sizing: inherit; margin-top: 0px; color: rgb(45, 55, 72); font-family: Montserrat, sans-serif; font-size: 17px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Las protagonistas de esta novela nos contarán en primera persona cómo fueron sus perversos encuentros con la más exitosa psicóloga del panorama nacional, relatándonos con todo lujo de detalles sus vivencias sexuales con la psicóloga.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Nikita Summers</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CXSTKYH3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-20T15:25:37.932453+00:00"/>
+        <meta name="calibre:title_sort" content="psicóloga, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

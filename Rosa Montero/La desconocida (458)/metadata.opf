@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25191dde-a397-42df-93b6-6c3692af89aa</dc:identifier>
+        <dc:title>La desconocida</dc:title>
+        <dc:creator opf:file-as="Rosa Montero" opf:role="aut">Rosa Montero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;b&gt;EL REGRESO DE ROSA MONTERO A LA NOVELA NEGRA, JUNTO AL GANADOR DEL PREMIO QUAIS DU POLAR OLIVIER TRUC&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;Es de noche y en el puerto de Barcelona un guardia hace su ronda cuando su pastora alemana se para en seco a olfatear desesperadamente un contenedor. Al llegar, los mossos d’esquadra hallan en su interior a una mujer en posición fetal, inconsciente y deshidratada. Tiene una brecha en la sien, quemaduras en la cara y el cuerpo, y no recuerda quién es ni cuál es su lengua materna, pero está viva. Mientras se recupera enel Hospital Clínic, un hombre intenta asesinarla. La inspectora Anna Ripoll, experta en trata de mujeres, parece haber dado con su identidad y su dirección: Alicia Garone; 19, rue du Chariot, Lyon. En la ciudad francesa el inspector Erik Zapori busca el modo de librarse de la investigación a la que asuntos internos lo está sometiendo por delitos de corrupción y proxenetismo. Nada mejor que viajar a España a ayudar en la resolución de un caso, aunque puede que este sea el más complejo de su vida.&lt;/p&gt;
+&lt;p&gt;Rosa Montero, una de las autoras más queridas y premiadas en lengua española, vuelve a la novela negra, esta vez acompañada por Olivier Truc, ganador del Premio Quais du Polar, el más prestigioso galardón francés del género policiaco.&lt;/p&gt;
+ &lt;p&gt;&lt;b&gt;La crítica ha dicho sobre Rosa Montero:&lt;/b&gt;&lt;br /&gt;«No hay mejor escritora en castellano que Rosa Montero».&lt;br /&gt;Juan Gómez Jurado&lt;/p&gt;
+ &lt;p&gt;«Su prosa tensa y directa rehúye el desplante y la pretensión. Rosa Montero es mi amiga íntima de la ficción».&lt;br /&gt;Mario Vargas Llosa&lt;/p&gt;
+ &lt;p&gt;«Rosa Montero maneja el lenguaje como nadie».&lt;br /&gt;Javier Lahoz,&lt;i&gt; El Periódico&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;«Quedarse hasta las tantas de la mañana es algo que ocurre con los libros de Rosa Montero».&lt;br /&gt;Pilar Sanabria,&lt;i&gt; Más de uno (Onda Cero)&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Rosa Montero está atiborrada de talento, y cuando embraga párrafo no pone freno a su desbordada fantasía. Esta estupenda y muy sugerente escritora posee un adjetivo con hec</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420475844</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Rosa Montero&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-23T21:15:35.565080+00:00"/>
+        <meta name="calibre:title_sort" content="La desconocida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

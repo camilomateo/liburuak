@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1477</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d0e92fc-7f48-458f-bd45-250505ae4c88</dc:identifier>
+        <dc:title>Cuchillo</dc:title>
+        <dc:creator opf:file-as="Salman Rushdie" opf:role="aut">Salman Rushdie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-14T22:00:00+00:00</dc:date>
+        <dc:description>LIBR11019038</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T15:13:17.506982+00:00"/>
+        <meta name="calibre:title_sort" content="Cuchillo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

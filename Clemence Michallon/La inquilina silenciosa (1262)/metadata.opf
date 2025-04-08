@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1262</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">367abaff-3cd7-4d54-9c75-b917e6ffc8b4</dc:identifier>
+        <dc:title>La inquilina silenciosa</dc:title>
+        <dc:creator opf:file-as="Michallon, Clémence" opf:role="aut">Clémence Michallon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Inquietante. Oscura. Brillante. Descubre la nueva voz del suspense psicológico. Regla número uno para seguir con vida: pase lo que pase, no digas nada. Aidan Thomas es un hombre modélico, padre de familia, trabajador y muy querido en la pequeña comunidad donde vive. Pero detrás de esa fachada de aparente perfección oculta un oscuro secreto: tiene a una mujer secuestrada en su cobertizo. Desde su cautiverio, Rachel lleva cinco años estudiando a Aidan para mantenerse con vida. Sabe que ha matado antes y que pronto hará lo mismo con ella; debe aprovechar la primera oportunidad que se le presente para escapar. Pero cuando Rachel descubra que su vida no es la única que está en juego, deberá decidir entre salvarse a sí misma o ayudar a las dos mujeres que corren el mismo peligro que ella: Cecilia, la hija de su captor, y Emily, la joven que ha empezado a enamorarse de él.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-01T13:15:57+00:00"/>
+        <meta name="calibre:title_sort" content="inquilina silenciosa, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

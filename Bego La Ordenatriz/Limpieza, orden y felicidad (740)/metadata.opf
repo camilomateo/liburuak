@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">740</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adbb71f4-2279-4123-82c9-f0afb69f1db7</dc:identifier>
+        <dc:title>Limpieza, orden y felicidad</dc:title>
+        <dc:creator opf:file-as="Ordenatriz, Bego La" opf:role="aut">Bego La Ordenatriz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;NI EN DIEZ VIDAS HABRÍAS ADIVINADO LOS MIL Y UN USOS QUE TIENE LA LACA. ¿PRODUCTO PARA EL PELO? ¡OLVÍDATE! DESPUÉS DE LEER ESTE LIBRO NO PODRÁS VIVIR SIN ELLA. Mantener la limpieza y el orden en casa puede convertirse en una auténtica fuente de estrés en medio del día a día imparable que llevamos, pero viendo a la Ordenatriz, uno puede creer que todo es posible. Bego es madre de siete hijos y una trabajadora incansable, y en medio de todo ello se ha convertido en la gran prescriptora de limpieza en España. ¡No hay mancha ni desteñido que se le resista! Consejos prácticos, trucos impensables y mezclas alquímicas que no habrías imaginado, pero que harán que mantener tu casa limpia se convierta en pan comido. Una casa a la que nos apetece llegar es un hogar, y conseguirlo es más sencillo de lo que parece. Si ella puede, ¿por qué tú no? ¡Solo tienes que seguir sus consejos! La guía infalible con todos los trucos de Bego, la Ordenatriz, para que no haya drama doméstico que se te resista&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408261896</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T12:00:07.821504+00:00"/>
+        <meta name="calibre:title_sort" content="Limpieza, orden y felicidad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

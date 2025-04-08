@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">758</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">610fc921-7de3-4445-8550-06962778871e</dc:identifier>
+        <dc:title>Los trucos de los ricos 2</dc:title>
+        <dc:creator opf:file-as="Haro, Juan" opf:role="aut">Juan Haro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-28T08:41:15+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Todos aspiramos a construir nuestro propio patrimonio y a generar rentas pasivas. No obstante, no es fácil conseguirlo sin una idea clara de qué, cómo y cuándo debe hacerse. Sin los conocimientos adecuados estamos abocados a cometer errores que pongan en riesgo nuestras inversiones y, aun peor, nuestros ahorros. &lt;/p&gt;&lt;p&gt; En este libro, que recoge las exitosas lecciones del veterano inversor y profesor Juan Haro, conoceremos los trucos para adquirir inmuebles baratos que nos proporcionen unas rentas constantes. Es lo que hacen los ricos. Pero, ¿cómo compran ellos las propiedades? ¿Qué sistemas utilizan? Esto es lo que descubriremos aquí. Porque si ellos pueden, tú también. &lt;/p&gt;&lt;p&gt; El inmobiliario es un sector atractivo para las grandes fortunas porque se trata de un activo patrimonialista. Pero el pequeño inversor también puede canalizar sus inversiones hacia él y generar así sus propias rentas. Ahora, está en tu mano saber cómo se hace y alcanzar el nivel de vida, y la sensación de libertad, que todos anhelamos. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Deusto</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ecomía</dc:subject>
+        <meta name="calibre:series" content="Los trucos de los ricos"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-05-22T15:06:58.153115+00:00"/>
+        <meta name="calibre:title_sort" content="trucos de los ricos 2, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

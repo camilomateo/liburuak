@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1368</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e830588-faf6-49c4-af76-97466e7fc029</dc:identifier>
+        <dc:title>Emocionarte: La doble vida de los cuadros</dc:title>
+        <dc:creator opf:file-as="Amor, Carlos del" opf:role="aut">Carlos del Amor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-19T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Roboto','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="font-weight: 296; color: #000000"&gt;Con un estilo literario y profundamente divulgativo, seductor y personal, Carlos del Amor nos ofrece un &lt;/span&gt;&lt;strong style="color: #000000"&gt;viaje&lt;/strong&gt;&lt;span style="font-weight: 296; color: #000000"&gt; por treinta y cinco obras de todos los tiempos, con especial atención a la &lt;/span&gt;&lt;strong style="color: #000000"&gt;pintura femenina&lt;/strong&gt;&lt;span style="font-weight: 296; color: #000000"&gt; y a la &lt;/span&gt;&lt;strong style="color: #000000"&gt;española&lt;/strong&gt;&lt;span style="font-weight: 296; color: #000000"&gt;. Un viaje a través de texturas, colores, claroscuros, historias, miradas, vidas, abrazos, besos..., que nos descubre un caleidoscopio donde se aúnan verdad y ficción, &lt;/span&gt;&lt;strong style="color: #000000"&gt;historia del arte&lt;/strong&gt;&lt;span style="font-weight: 296; color: #000000"&gt;, imaginación y emoción.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Roboto','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="font-weight: 296; color: #000000"&gt;«El arte es una celebración. &lt;/span&gt;&lt;strong style="color: #000000"&gt;Un cuadro&lt;/strong&gt;&lt;span style="font-weight: 296; color: #000000"&gt; no se acaba en lo que encierra su marco, un cuadro vive antes y después de que lo miremos. El marco lo acota y nosotros debemos cruzar esa frontera para hacer que su existencia siga saltando siglos y vidas, y se renueve con cada mirada. Cada cuadro es un cuento, una novela, un relato, y eso he pretendido reflejar en estas páginas: romper el marco y expandir el lienzo hasta donde sea posible».&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">9e6947ea-9e42-46c9-8a8a-a2ac8c7e10f6</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:30:01.414891+00:00"/>
+        <meta name="calibre:title_sort" content="Emocionarte: La doble vida de los cuadros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

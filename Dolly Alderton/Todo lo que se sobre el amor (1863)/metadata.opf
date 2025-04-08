@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1863</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10c604e7-e00e-4a55-b559-048f9c7e1263</dc:identifier>
+        <dc:title>Todo lo que sé sobre el amor</dc:title>
+        <dc:creator opf:file-as="Alderton, Dolly" opf:role="aut">Dolly Alderton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-25T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Tan salvajemente divertido y conmovedor como la vida de cualquier veinteañero que crece navegando entre desengaños amorosos y relaciones desastrosas.&lt;/p&gt;
+&lt;p&gt;La periodista Dolly Alderton se propuso dar cuenta de sus locos veinte años en este divertido libro trufado de amores y desamores, relaciones intensas por Messenger que fracasan en el cara a cara, trabajos precarios y amigos que siempre están ahí. Un novio que acaba saliendo del armario, borracheras que te llevan a cruzar el país en taxis que no puedes pagar, chicos sin redes sociales que se creen Sartre…, escenas todas ellas de nuestra lucha por entender que el amor más intenso e importante es el que sentimos por nuestros amigos y nosotros mismos.&lt;/p&gt;
+&lt;p&gt;«Casi todo lo que sé sobre el amor lo he aprendido charlando con mis amigas de toda la vida. He aprendido que el amor es júbilo desenfrenado, bailar borracha sobre el fango de un festival de música, los cruces de miradas en un autobús nocturno, los polvos de una noche. Pero también he aprendido que el amor no son las relaciones tediosas, ni las horas de obsesivo seguimiento en Instagram al chico que te gusta, ni los orgasmos fingidos.» &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07V261KGT</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788408216148</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:38+00:00"/>
+        <meta name="calibre:title_sort" content="Todo lo que sé sobre el amor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

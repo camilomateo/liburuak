@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1420</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08f85d58-e913-4b5b-b36d-9fda596935b8</dc:identifier>
+        <dc:title>La mujer del domingo</dc:title>
+        <dc:creator opf:file-as="Fruttero &amp; Lucentini" opf:role="aut">Fruttero</dc:creator>
+        <dc:creator opf:file-as="Fruttero &amp; Lucentini" opf:role="aut">Lucentini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-12T21:14:17+00:00</dc:date>
+        <dc:description>&lt;div&gt;Un día de 1972 al despertar, la ciudad de Turín se vio obligada a 
+reconocer algo que podía alterar su legendaria respetabilidad. De pronto
+ tuvo que tomar conciencia de que se había convertido, como Los Ángeles,
+ en un fascinante escenario de crímenes y pesquisas policiales. En otras
+ palabras: acababa de publicarse &lt;span class="a-text-italic"&gt;La mujer del domingo&lt;/span&gt;,
+ donde, rodeado por la hipocresía, la vanidad y la cháchara que animaban
+ el mundo de la alta burguesía piamontesa, el inspector Santamaria 
+investigaba un crimen entre magnates con una doble vida y damas 
+atractivas y esnobs.&lt;br&gt;Entre las obras de Fruttero &amp;amp; Lucentini 
+—desprejuiciados, visionarios, «dos Watson sin Sherlock Holmes», como 
+gustaban definirse, y una de las voces más originales de la literatura 
+italiana del siglo XX—, esta es la primera y sin duda la más popular, 
+apasionante y entretenida, algo que demuestra su éxito meteórico. Pero 
+hay más. Se la puede considerar la progenitora de un género literario, 
+un ejemplo de narración noblemente legible, que disimula su complejidad,
+ pero no oculta su fina ironía, la elegancia de la trama y su sabiduría 
+psicológica. &lt;/div&gt;</dc:description>
+        <dc:publisher>Siruela</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-09T09:16:19.306323+00:00"/>
+        <meta name="calibre:title_sort" content="mujer del domingo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

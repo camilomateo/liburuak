@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1481</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62dff956-505c-47b2-a1cb-430a84e6b3c5</dc:identifier>
+        <dc:title>Rusia frente a Ucrania</dc:title>
+        <dc:creator opf:file-as="Taibo, Carlos" opf:role="aut">Carlos Taibo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-09T12:07:38+00:00</dc:date>
+        <dc:description>&lt;p&gt;Edición actualizada en marzo de 2022 tras la invasión de Rusia a 
+Ucrania.Las tensiones entre Ucrania y Rusia, con las potencias 
+occidentales en la trastienda, han reaparecido en 2022. Con vocación 
+pedagógica, pero también con la de contestar buena parte del discurso 
+que nuestros medios de comunicación ofrecen, este libro se propone 
+analizar las claves fundamentales de esas tensiones. Al respecto sopesa 
+la condición contemporánea de los dos países, la crisis ucraniana de 
+principios de 2014 y las diferentes tramas que se han revelado en Crimea
+ y en la Ucrania oriental. Aporta al tiempo una reflexión crítica sobre 
+el papel que en todo lo anterior corresponde a Estados Unidos, a la 
+Unión Europea y a la propia Rusia.&lt;/p&gt;</dc:description>
+        <dc:publisher>Los Libros de La Catarata</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T15:13:18.173982+00:00"/>
+        <meta name="calibre:title_sort" content="Rusia frente a Ucrania"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

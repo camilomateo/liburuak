@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3057</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d8b938f-5caf-48a5-94f9-4cbb151b9c8b</dc:identifier>
+        <dc:title>Guía de la Tierra y el espacio</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-12-31T23:00:00+00:00</dc:date>
+        <dc:description>¿Cuál es la edad del Universo? ¿Hay vida más allá del sistema solar? ¿De qué están hechos los planetas? ¿Qué es la luz del sol? ¿Qué es un asteroide? ¿Qué son las nebulosas? ¿Qué es el efecto Doppler? ¿Existe un centro del Universo? ¿Qué es un cometa? ¿Cómo se produjo el Big Bang? ¿Qué es un agujero negro? ¿Se mueven las galaxias? ¿Qué es una supernova? ¿Qué produjo los cráteres lunares? ¿Cuál es la edad de la Tierra? ¿Cuál es el origen de terremotos y volcanes? ¿Por qué sopla el viento? ¿Se puede agotar la energía? ¿Qué son las mareas? ¿Cómo se formó la Tierra? ¿Continuará indefinidamente la expansión del Universo? 111 preguntas fundamentales de la astronomía respondidas con claridad y brillantez por Isaac Asimov, maestro indiscutido de la divulgación científica. Un viaje maravilloso por la astronomía, los orígenes, los enigmas, los grandes descubrimientos, los genios científicos… La ciencia al alcance de todos.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Ciencias naturales</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-14T11:03:58.969061+00:00"/>
+        <meta name="calibre:title_sort" content="Guía de la Tierra y el espacio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

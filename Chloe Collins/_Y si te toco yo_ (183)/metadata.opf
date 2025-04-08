@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b2f34ca-6856-4a40-bdbc-3db50106dafd</dc:identifier>
+        <dc:title>¿Y si te toco yo?</dc:title>
+        <dc:creator opf:file-as="Chloe Collins" opf:role="aut">Chloe Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-01T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p align="justify"&gt;Berta es una joven sevillana graduada en Química que se traslada a Madrid con la intención de «comerse el mundo», pero lo único que consigue zamparse son los dónuts, a poder ser de chocolate, que son sus preferidos... &lt;/div&gt;
+&lt;p align="justify"&gt;&lt;/div&gt;
+&lt;p align="justify"&gt;Su impuntualidad y su falta de tacto cada vez que abre la boca han provocado que la despidan de varios trabajos que nada tienen que ver con su carrera. Su única opción es que le toque la lotería, en la que suele gastarse el poco dinero que tiene pretendiendo ser una de las grandes afortunadas del día. &lt;/div&gt;
+&lt;p align="justify"&gt;&lt;/div&gt;
+&lt;p align="justify"&gt;Cuando piensa que todo está perdido, el destino hace de las suyas para que su suerte cambie y aparezca Roberto, la última esperanza para poder encauzar su vida. &lt;/div&gt;
+&lt;p align="justify"&gt;&lt;/div&gt;
+&lt;p align="justify"&gt;¿Te apetece conocer a Berta? Te invito a que te adentres en esta historia y la descubras. Te garantizo que pasaremos unas horas divertidas y disparatadas en las que, sin duda, te haré desconectar de la rutina.&lt;/div&gt;</dc:description>
+        <dc:publisher>Zafiro eBooks</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0B788ZWW9</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Romántica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Chloe Collins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:18.219297+00:00"/>
+        <meta name="calibre:title_sort" content="¿Y si te toco yo?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

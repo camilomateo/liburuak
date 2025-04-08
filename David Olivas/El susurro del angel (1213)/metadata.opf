@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd5b9838-021a-4797-8ee6-935523ad1f13</dc:identifier>
+        <dc:title>El susurro del ángel</dc:title>
+        <dc:creator opf:file-as="David Olivas" opf:role="aut">David Olivas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-05T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;A veces, iluminando la verdad se puede recuperar la fe en el amor.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;Y como la luz de un faro, el amor siempre gana a la oscuridad.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;Después de sorprender por su sensibilidad y empatía en&lt;/B&gt;&lt;I&gt;&lt;B&gt; El vuelo de la mariposa&lt;/B&gt;&lt;/I&gt;&lt;B&gt;, David Olivas vuelve a emocionar con su nueva novela, un canto al amor, la esperanza y la verdad.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;El azar lleva a Eva Ayala, una policía divorciada de carácter fuerte y decidido, a investigar el caso de un niño que desapareció la Noche de San Juan en el pueblo de Calella de Palafrugell, en la Costa Brava. Además, Eva arrastra el trauma de un pasado muy reciente y debe lidiar con su propia crisis personal. La complicidad que la unirá con Isabel, la madre del pequeño desaparecido, ayudará a Eva a afrontar su tragedia y recuperar la fe en sí misma. Pero solo conseguirá estar en paz si descubre la verdad detrás del caso, por mucho que este esconda un terrible secreto que amenazará con cambiar su vida para...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401028243</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-20T12:04:10.629258+00:00"/>
+        <meta name="calibre:title_sort" content="susurro del ángel, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3044</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2199310-d72d-4691-8306-110f157846d6</dc:identifier>
+        <dc:title>El primer Asimov</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1971-12-31T23:00:00+00:00</dc:date>
+        <dc:description>El presente volumen recoge las más importantes narraciones del comienzo de su carrera literaria, breves obras maestras que le dieron fama mundial. Preceden a cada historia unas palabras del propio autor, en las que éste expone interesantes detalles biográficos, observaciones críticas acerca de los relatos, y la génesis de los mismos. Así, estas páginas contienen también una especie de «autobiografía literaria» de sus primeras experiencias como narrador. Contiene las siguientes historias cortas: Tendencias (Trends; 1939) Un arma demasiado terrible para emplear (The weapon too dreadful to use; 1939). La amenaza de Calixto (The Callistan menace; 1940). Un anillo alrededor del sol (Ring around the Sun; 1940). La magnífica posesión (The magnificent possession; 1940). Mestizo (Half-Breed; 1940). El sentido secreto (The secret sense; 1941). Fraile negro de la llama (Black friar of the flame; 1942). Navidad en Ganímedes (Christmas on Ganymede; 1942). Mestizos en Venus (Half-Breeds on Venus; 1940). Herencia (Heredity; 1941). Historia (History; 1941). Homo Sol (Homo sol; 1940). Ritos legales (Legal Rites; 1950 - como James MacCreigh). No definitivo! (Not Final!; 1941). Super-Neutron (Super-neutron; 1941). La novatada (The Hazing; 1942). El numero imaginario (The Imaginary; 1942). El hombrecillo del metro (The Little Man on the Subway; 1950). Cronogato (Time Pussy; 1942). ¡Autor! ¡Autor! (Author! Author!; 1964). Sentencia de muerte (Death Sentence;1943). Callejón sin salida (Blind Alley; 1945). ¡No hay relación! (No Connection;1948). Las propiedades endocrónicas de la tiotimolina re-sublimada (The Endochronic Properties of Resublimated Thiotimoline;1948). La carrera de la reina encarnada (The Red Queen's Race;1949). Madre Tierra (Mother Earth; 1949).</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:57+00:00"/>
+        <meta name="calibre:title_sort" content="primer Asimov, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

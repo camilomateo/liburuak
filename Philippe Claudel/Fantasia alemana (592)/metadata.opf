@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">592</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f24c1096-50c2-4a4b-bfb0-791c91aff1e5</dc:identifier>
+        <dc:title>Fantasía alemana</dc:title>
+        <dc:creator opf:file-as="Philippe Claudel" opf:role="aut">Philippe Claudel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-12T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una historia oscura y cautivadora sobre Alemania, las dos guerras mundiales y las heridas del nazismo a través de cinco relatos relacionados entre sí de gran virtuosismo y belleza. Considerado uno de los mejores novelistas franceses de su generación, Philippe Claudel prosigue en Fantasía alemana la indagación de los recodos más sombríos y los complejos mecanismos que guían a los seres humanos iniciada en Almas grises y El informe de Brodeck. En este caso, a través de cinco relatos relacionados entre sí que componen una narración personal, oscura y descarnada, sobre Alemania, las dos guerras mundiales y la posguerra. Fascinado por Alemania y los fantasmas del siglo XX que aún pueblan la realidad, Claudel nos ofrece, a través de unos escenarios misteriosos y el retrato profundo y áspero de los personajes, un libro inquietante, de gran virtuosismo y belleza, que es también una reflexión sobre las dolorosas heridas del nazismo y el lugar del hombre ante el horror. Reseñas:«La Alemania del siglo XX sirve de escenario para los cinco relatos de este volumen. [...] Ambientados en distintas épocas, comparten en particular algunos temas como los sueños y la memoria, y el destino individual unido brutalmente al colectivo cuando el hombre ya no controla nada».Télerama «Una intrigante galería narrativa en la que todos los personajes acarrean huellas, cicatrices o estigmas de una violencia apenas consciente. [...] Toda Alemania aparece aquí casi como un territorio imaginario, similar al Yoknapatawpha de Faulkner llevado a la escala de Europa y el siglo XX».Le Monde «Un gran baile entre la gran Historia y las historias íntimas, las grandes guerras y las guerras interiores. [...] Los personajes van y vienen como un sueño, o como una especie de pesadilla, hasta que encuentran su destino».Le Journal de Québec&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418968907</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">4g-tEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-28T12:02:35.039721+00:00"/>
+        <meta name="calibre:title_sort" content="Fantasía alemana"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

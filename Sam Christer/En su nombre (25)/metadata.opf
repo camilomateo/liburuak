@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8dd9bd6-2281-435f-8015-f67e025d207c</dc:identifier>
+        <dc:title>En su nombre</dc:title>
+        <dc:creator opf:file-as="Christer, Sam" opf:role="aut">Sam Christer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-30T17:48:41+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ha llegado por fin el momento de desvelar el secreto mejor guardado de la historia.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Nadie sabe de dónde procede la Sábana Santa ni cuándo fue creada. Pero el mayor misterio religioso del cristianismo alberga la clave para comprender los motivos de un asesino en serie que crucifica a sus víctimas.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Y solo dos policías, siguiendo una pista que va de California al Vaticano, pueden revelar el secreto de la Sábana Santa.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sam Christer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:15:44+00:00"/>
+        <meta name="calibre:title_sort" content="En su nombre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1593</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e05667b9-8cf7-4dde-b164-1f14953208aa</dc:identifier>
+        <dc:title>Las fieras</dc:title>
+        <dc:creator opf:file-as="Clara Usón" opf:role="aut">Clara Usón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Dos mujeres unidas por un asesinato sin resolver durante la guerra sucia entre ETA y los GAL.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Idoia López Riaño, conocida como la &lt;span class="a-text-italic"&gt;Tigresa&lt;/span&gt;,
+ fue una de las más sanguinarias terroristas de ETA y la que más atrajo 
+la atención de los medios, tanto por sus atentados como por su belleza. 
+Su historia, repleta de claroscuros, transcurre en paralelo a la de 
+Miren, una adolescente que busca su lugar en el Euskadi de los años de 
+plomo y que se esfuerza por parecer normal en una familia que no lo es, 
+con un padre al que teme, un policía de la vieja escuela metido en la 
+chapuza miserable de los GAL.&lt;br&gt;&lt;span class="a-text-italic"&gt;  Las fieras &lt;/span&gt;es
+ una novela fascinante que retrata de forma magistral a una generación 
+sacudida por la violencia, encarnada en dos mujeres cuyas historias 
+quedan ligadas por un asesinato sin resolver, durante la guerra sucia 
+entre la ETA y los GAL. Entre unos y otros escribieron una de las 
+páginas más abominables de la historia reciente.&lt;br&gt;&lt;br&gt;   Clara Usón, Premio Nacional de la Crítica con &lt;span class="a-text-italic"&gt;La hija del Este&lt;/span&gt;,
+ vuelve a profundizar en la frivolidad del mal en una novela 
+sorprendente, documentada con minucioso rigor, que, en su logrado 
+equilibrio entre hechos reales y ficción, mantiene al lector en vilo 
+hasta la última página.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:56.053563+00:00"/>
+        <meta name="calibre:title_sort" content="Las fieras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

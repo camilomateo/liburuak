@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>*****</title>
+  <id>Calibre2opds:rated:FIVE</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./rated_FIVE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="*****" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="./rated.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Valoración" />
+  <entry>
+    <title>El bosque Birnam</title>
+    <id>calibre:book:1871</id>
+    <updated>2024-09-02T04:41:23Z</updated>
+    <link href="../../Eleanor%20Catton/El%20bosque%20Birnam%20%281871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eleanor%20Catton/El%20bosque%20Birnam%20%281871%29/El%20bosque%20Birnam%20-%20Eleanor%20Catton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="518 KB" />
+    <author>
+      <name>Eleanor Catton</name>
+      <uri>../authors_1/authors_1330_Page_1.xml</uri>
+    </author>
+    <published>2024-07-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plata</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La autora de Las luminarias , galardonada con el Premio Booker, nos trae El Bosque Birnam , un thriller fascinante cargado de fuerza dramática y una visión caleidoscópica de lo que nos motiva a sobrevivir.Un desprendimiento de tierra ha cerrado el pa...</summary>
+    <link href="../book_1/book_1871.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El explorador</title>
+    <id>calibre:book:1745</id>
+    <updated>2024-08-26T10:56:06Z</updated>
+    <link href="../../Tana%20French/El%20explorador%20%281745%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tana%20French/El%20explorador%20%281745%29/El%20explorador%20-%20Tana%20French.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="474 KB" />
+    <author>
+      <name>Tana French</name>
+      <uri>../authors_1/authors_1250_Page_1.xml</uri>
+    </author>
+    <published>2021-05-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alianza Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una desaparición. Un pueblo pequeño. Una pregunta pendiente de respuesta...
+
+Cal Hooper pensaba que retirarse a un pueblo perdido de Irlanda y dedicarse a reformar una casita sería la gran evasión. Después de veinticinco años en el cuerpo de policía ...</summary>
+    <link href="../book_1/book_1745.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La hija de la española</title>
+    <id>calibre:book:1720</id>
+    <updated>2024-08-08T04:59:22Z</updated>
+    <link href="../../Karina%20Sainz%20Borgo/La%20hija%20de%20la%20espanola%20%281720%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Karina%20Sainz%20Borgo/La%20hija%20de%20la%20espanola%20%281720%29/La%20hija%20de%20la%20espanola%20-%20Karina%20Sainz%20Borgo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Karina Sainz Borgo</name>
+      <uri>../authors_1/authors_1231_Page_1.xml</uri>
+    </author>
+    <published>2019-03-06T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>SE PUEDE PERDER TODO. SE PUEDE EMPEZAR DE NUEVO. SOLO SI ERES OTRA.Un fenómeno editorial sin precedentes en la literatura en españolVendida a 22 países antes de su publicaciónAdelaida Falcón, una maestra caraqueña, fallece tras una larga enfermedad. ...</summary>
+    <link href="../book_1/book_1720.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No me dejes (Ne me quitte pas)</title>
+    <id>calibre:book:1577</id>
+    <updated>2024-06-02T10:59:52Z</updated>
+    <link href="../../Maxim%20Huerta/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20%281577%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maxim%20Huerta/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20%281577%29/No%20me%20dejes%20%28Ne%20me%20quitte%20pas%29%20-%20Maxim%20Huerta.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="372 KB" />
+    <author>
+      <name>Màxim Huerta</name>
+      <uri>../authors_0/authors_314_Page_1.xml</uri>
+    </author>
+    <published>2015-10-15T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Espasa</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Al señor Dominique Brulé le gusta llegar de noche a su floristería. Siempre cierra los ojos antes de encender las luces y les da un tiempo a sus plantas para que se coloquen porque imagina que han estado toda la noche mezclándose unas con otras. Nun...</summary>
+    <link href="../book_1/book_1577.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vive como un mendigo, baila como un rey</title>
+    <id>calibre:book:1367</id>
+    <updated>2024-04-03T00:30:01Z</updated>
+    <link href="../../Ignatius%20Farray/Vive%20como%20un%20mendigo%2C%20baila%20como%20un%20%281367%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ignatius%20Farray/Vive%20como%20un%20mendigo%2C%20baila%20como%20un%20%281367%29/Vive%20como%20un%20mendigo%2C%20baila%20com%20-%20Ignatius%20Farray.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="5 MB" />
+    <author>
+      <name>Ignatius Farray</name>
+      <uri>../authors_1/authors_1002_Page_1.xml</uri>
+    </author>
+    <published>2020-10-05T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Temas de Hoy</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Ignatius Farray es al humor lo que el agua es a la vida, es decir, un elemento necesario. No porque sea parte de La vida moderna , tenga un Premio Ondas, haya estado nominado a los Emmy y convoque a miles de personas en sus monólogos cada año; tampoc...</summary>
+    <link href="../book_1/book_1367.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Llamada de emergencia</title>
+    <id>calibre:book:1310</id>
+    <updated>2024-03-21T00:44:04Z</updated>
+    <link href="../../Kate%20London/Llamada%20de%20emergencia%20%281310%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kate%20London/Llamada%20de%20emergencia%20%281310%29/Llamada%20de%20emergencia%20-%20Kate%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="754 KB" />
+    <author>
+      <name>Kate London</name>
+      <uri>../authors_0/authors_952_Page_1.xml</uri>
+    </author>
+    <published>2024-02-29T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Motus</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="La Torre" />
+    <summary>La Torre [2]: Octubre de 1987: la mañana después de la Gran Tormenta de Londres. Tania Mills, de quince años, sale por la puerta de su casa y desaparece. Más de veinte años después, su madre todavía reza por su regreso. La detective Sarah Collins del...</summary>
+    <link href="../book_1/book_1310.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Buscaba la belleza</title>
+    <id>calibre:book:846</id>
+    <updated>2023-06-12T01:23:28Z</updated>
+    <link href="../../Jesus%20Terres/Buscaba%20la%20belleza%20%28846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jesus%20Terres/Buscaba%20la%20belleza%20%28846%29/Buscaba%20la%20belleza%20-%20Jesus%20Terres.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="592 KB" />
+    <author>
+      <name>Jesús Terrés</name>
+      <uri>../authors_0/authors_636_Page_1.xml</uri>
+    </author>
+    <published>2023-05-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El hedonismo hecho literatura. Por el autor de Nada importa, más de 10.000 lectores «Jesús Terrés escribe de maravilla sobre las dos únicas cosas que importan: la bondad y la belleza.» MILENA BUSQUETS«Esa manera de mirar se fijó definitivamente aquel...</summary>
+    <link href="../book_0/book_846.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

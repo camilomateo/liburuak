@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3041</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ee0eadd-617d-4e3a-b6b1-f9d49a38a761</dc:identifier>
+        <dc:title>El planeta que no estaba</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1975-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Isaac Asimov es —junto con Carl Sagan— el más popular de los autores de divulgación científica, temática que —presuntamente árida— adquiere en sus manos el toque mágico necesario para llegar a apasionarnos. La totalidad de los ensayos incluidos en este volumen fueron publicados originalmente en el Magazine of Fantasy and Science Fiction, una de las publicaciones más importantes en el campo de la ciencia-ficción. El elemento unificador de los mismos es, en palabras del autor, la polémica. Y sino veamos: los platillos volantes (¿existen?), la religión (¿hay un Dios?), las brujas (¿quiénes fueron?), los coeficientes de inteligencia (¿sirven para algo?), la colonización del espacio (¿es rentable?), y muchos otros temas de interés. «El hecho es que disfruto mucho con los temas polémicos —dice Asimov— y estoy encantado con la posibilidad de decir lo que pienso». De modo que si usted tiene ganas de discutir un poco, y pasar un buen rato, éste es el libro ideal, un libro de «controversia creciente» que le permitirá estar o no de acuerdo con el «Buen Doctor».</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Ciencias naturales</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:57+00:00"/>
+        <meta name="calibre:title_sort" content="planeta que no estaba, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

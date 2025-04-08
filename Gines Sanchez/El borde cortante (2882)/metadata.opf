@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2882</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2059a6b0-38b0-4def-a667-99d64e1921bd</dc:identifier>
+        <dc:title>El borde cortante</dc:title>
+        <dc:creator opf:file-as="Sánchez, Ginés" opf:role="aut">Ginés Sánchez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-22T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;Tres adolescentes traman la huida de la institución psiquiátrica en la que están internadas. &lt;/p&gt;
+&lt;p align="justify"&gt;Tienen un plan para escaparse, la idea es pasar un fin de semana juntas, lejos del ambiente opresivo del psiquiátrico. Carrie, que ahora vive con su madre, será la encargada de la logística para que Mari Cruz y Litolbely puedan burlar la vigilancia del hospital. Las tres jóvenes quieren pasar dos días encerradas en un apartamento junto al mar; hablar, beber, fumar y empastillarse, con la televisión siempre puesta en algún canal de telebasura. Carrie no deja de atender sus redes sociales, sobre todo Instagram, porque quiere contactar con Amelia, una antigua amiga con la que cortó relaciones por algún desencuentro lejano. Mari Cruz cree que no es una prioridad en las preocupaciones de sus padres, que ya tienen suficiente con atender al resto de sus hijos. Litolbely, en cambio, es la hija adoptada de Ramón, un viudo que acaba de jubilarse. Las tres intentan imaginarse una vida normal, con trabajos, horarios y una vivienda propia. Sin embargo, todas las alarmas saltan cuando avisan a sus padres desde el hospital con la noticia de su fuga.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">221017850</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8411075567</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788411075565</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">e_MwEQAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-04T07:23:48.023118+00:00"/>
+        <meta name="calibre:title_sort" content="borde cortante, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

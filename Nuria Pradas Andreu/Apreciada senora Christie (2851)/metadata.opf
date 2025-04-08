@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2851</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">663ecb9e-9211-4042-9f22-6044b554f32e</dc:identifier>
+        <dc:title>Apreciada señora Christie</dc:title>
+        <dc:creator opf:file-as="Andreu, Núria Pradas" opf:role="aut">Núria Pradas Andreu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un cozy crime cautivador que rinde homenaje a la gran maestra del misterio, Agatha Christie. Tras la Segunda Guerra Mundial, Emma Marbury hereda la librería de su tía Pennelope Brent en Dartmouth, Devon. Mientras intenta reconstruir su vida, se verá atrapada en una serie de acontecimientos inesperados al descubrir una relación oculta entre un crimen local y uno de los casos más infames de la historia británica. Influenciada por las novelas de Agatha Christie, y con la ayuda de la propia autora, Emma se adentrará en una investigación llena de secretos, mentiras y sombras del pasado. Y, a medida que salgan a la luz nuevas pistas, la verdad será cada vez más peligrosa. Un cozy crime cautivador que rinde homenaje a la gran maestra del misterio, Agatha Christie.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-27T11:40:28.123947+00:00"/>
+        <meta name="calibre:title_sort" content="Apreciada señora Christie"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

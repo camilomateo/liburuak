@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1060</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">994fb892-7a08-4fba-9383-0f6cb6ad6697</dc:identifier>
+        <dc:title>Verdad o reto</dc:title>
+        <dc:creator opf:file-as="Läckberg, Camilla" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-11-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Vuelve Camilla Läckberg, la autora de novela negra más importante de Europa, con más de 35 millones de libros vendidos en más de 60 países. Cuatro amigos Última noche del año. Los adolescentes Liv, Martina, Max y Anton son mejores amigos desde hace años. Los cuatro están ansiosos por celebrar esta Nochevieja juntos, divirtiéndose, bebiendo y coqueteando, mientras espían a sus padres en la casa vecina. Cuatro secretos Pero ya no son niños: hay que arriesgar y trasgredir las reglas. Y empiezan a jugar. Primero al Monopoly; después a Verdad o Reto. La fiesta sube de tono y las apuestas son cada vez más altas. Aparentemente lo tienen todo, pero tras la fachada perfecta hay secretos que nunca han compartido. Cada uno de ellos esconde algo que el juego inocente sacará a la luz y revelará una verdad impactante. Una noche sin fin Nada volverá a ser lo mismo. Y no todos llegarán a las campanadas de medianoche... «Es la reina de la novela negra escandinava.» Mujer Hoy «Camilla Läckberg ha seducido a los lectores de España.» El Mundo «La autora predilecta de los lectores españoles de novela negra.» La Vanguardia «Una auténtica maestra de la intriga, el lenguaje y el retrato de los personajes.» Qué Leer&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-11-05T15:16:27.661867+00:00"/>
+        <meta name="calibre:title_sort" content="Verdad o reto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

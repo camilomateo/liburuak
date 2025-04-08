@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4eb00e76-2bd7-4b33-b2d3-b44e458ed962</dc:identifier>
+        <dc:title>La máscara de Prometeo</dc:title>
+        <dc:creator opf:file-as="Junciel, Jairo" opf:role="aut">Jairo Junciel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-12T06:00:00+00:00</dc:date>
+        <dc:description>Daniel, un joven que vive en la Compostela de mediados del siglo XIX, acaba sin querer con la vida de su primo y debe huir para no ser condenado a muerte. Un carruaje lo lleva a la mansión de un rico anciano llamado Waterfall. El anciano ha organizado una expedición filantrópica con el afán de devolver al mundo una parte de lo que a él le ha dado. Daniel, acuciado por su situación, se embarca y pasa a formar parte de un grupo de eminentes matemáticos, biólogos y lingüistas que, además de su sapiencia, acarrean nefastas tragedias personales. Pero al inicio de la travesía, Daniel recibe un disparo que compromete su vida y los científicos deciden imponerle un objeto para sanarlo: la máscara de Prometeo. La máscara, que está incompleta, cura a Daniel, y se desvela así el auténtico motivo de la expedición: recomponer ese objeto fantástico que puede sanar, ilustrar, resucitar y procurar la vida eterna.</dc:description>
+        <dc:publisher>Editorial Almuzara</dc:publisher>
+        <dc:identifier opf:scheme="PAGINAS">416</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002307</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Aventuras</dc:subject>
+        <meta name="calibre:timestamp" content="2023-04-11T07:33:23+00:00"/>
+        <meta name="calibre:title_sort" content="máscara de Prometeo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

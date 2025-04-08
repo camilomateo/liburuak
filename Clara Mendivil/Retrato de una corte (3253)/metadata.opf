@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3253</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6d21d89-4d09-4b9c-beb2-0b9a7ebeefe6</dc:identifier>
+        <dc:title>Retrato de una corte</dc:title>
+        <dc:creator opf:file-as="Mendívil, Clara" opf:role="aut">Clara Mendívil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El mayor pintor de la Historia. Las intrigas de una corte. La verdad de un reino.&lt;/p&gt;
+&lt;p&gt;«Una voz con ánimos renovados que entra con fuerza en la novela histórica española».&lt;br&gt;&lt;br&gt;Luis Zueco&lt;/p&gt;
+&lt;p&gt;En una corte repleta de escándalos, un joven de Sevilla obsesionado con la luz consigue convertirse no solo en pintor de cámara, sino en el artista más importante de la Historia de España. &lt;/p&gt;
+&lt;p&gt;¿Cómo llega Velázquez a ser el pintor del rey?&lt;/p&gt;
+&lt;p&gt;Siglo XVII. La entrada de Velázquez en palacio tuvo lugar en uno de los momentos más fascinantes de la Historia. Mientras la reina Isabel sufre por no poder dar un heredero al trono, Felipe IV pasa las noches entre aventuras amorosas conocidas por todo el reino.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;La suma de tensiones políticas y matrimoniales llevan a la corte a un truculento laberinto de intrigas y al rey a escuchar los consejos de un único hombre, el misterioso y oscuro Gaspar de Guzmán, conde-duque de Olivares, quien ayudará a Velázquez a alcanzar el puesto de pintor de cámara.&lt;/p&gt;
+&lt;p&gt;Como si de un lienzo se tratara, en Retrato de una corte Clara Mendívil representa la efervescencia de un reino. A través de la vida de Diego Velázquez y Juana Pacheco y de su viaje desde Sevilla al Madrid de los Austrias, la autora nos descubre las aventuras que ocurren tras las puertas del palacio y que pueden cambiar la Historia. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-03T19:42:39.740404+00:00"/>
+        <meta name="calibre:title_sort" content="Retrato de una corte"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

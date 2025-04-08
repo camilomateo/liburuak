@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">303</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4857e9c9-f5ca-4b8f-9fb6-29890b41ff2e</dc:identifier>
+        <dc:title>La Edad del Vicio</dc:title>
+        <dc:creator opf:file-as="Deepti Kapoor" opf:role="aut">Deepti Kapoor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-13T08:59:19+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;Dinero, familia, dominio, placer: BIENVENIDOS A LA EDAD DEL VICIO &lt;/p&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;Un fenómeno editorial que antes de publicarse ya ha batido récords &lt;/p&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;«Con apariencia de thriller, la periodista ofrece un macrorrelato sobre las formas extremas del odio y el amor, la violencia y el sacrificio. […] Seiscientas páginas que son un cable de alta tensión de principio a fin, un generador de rehenes, una fábrica de insomnes. […] Córtense las uñas antes de empezarlo». &lt;/p&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;Antonio Lozano, &lt;em&gt;La Vanguardia&lt;/em&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Nueva Delhi, invierno, 3 de la madrugada. Un Mercedes que circula a toda velocidad invade la acera, atropellando y matando a cinco personas. Es el vehículo de un millonario, pero al volante solo encuentran a un criado en estado de conmoción, incapaz de explicar cómo o porqué ha cometido este crimen. Y tampoco puede prever el oscuro drama que está a punto de desencadenarse. &lt;/p&gt;
+&lt;p align="justify"&gt;Entre mansiones lujosas, negocios depredadores y tramas políticas, tres vidas se entrelazan peligrosamente: Sunny es el rico heredero, un playboy que sueña con eclipsar a su padre; Ajay es su criado y hombre para todo; y Neda es la periodista inquisitiva que se debate entre su ética y sus deseos. Frente a una trama arrolladora alimentada por el placer, la codicia, la violencia y la venganza, estos tres personajes se encuentran atados entre sí por unos lazos que pueden servirles de redención o destruirlos para siempre. &lt;/p&gt;
+&lt;p align="justify"&gt;Mitad suspense, mitad saga familiar, &lt;em&gt;La Edad del Vicio&lt;/em&gt; lleva al lector desde los arrabales de Uttar Pradesh a la energética metrópoli de Nueva Delhi, con una trama adictiva de gángsters y amantes, falsos amigos, romances secretos y corrupción. Un atracón de gran literatura que se disfruta por puro placer. &lt;/p&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;La crítica ha dicho: &lt;/p&gt;
+&lt;p align="justify"&gt;«El hype del año. [...] Absorbente e hilada con maestría».&lt;br&gt;&lt;em&gt;Woman&lt;/em&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;«Tiene toda la energía de un thril&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420455471</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Deepti Kapoor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-13T19:25:35.000615+00:00"/>
+        <meta name="calibre:title_sort" content="La Edad del Vicio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

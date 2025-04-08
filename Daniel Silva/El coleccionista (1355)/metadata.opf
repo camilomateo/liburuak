@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1355</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13d7072d-43db-47ea-86bd-b2274663f2ca</dc:identifier>
+        <dc:title>El coleccionista</dc:title>
+        <dc:creator opf:file-as="Silva, Daniel" opf:role="aut">Daniel Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;A la mañana siguiente de la gala anual de la Sociedad para la 
+Conservación de Venecia, Gabriel Allon, restaurador de cuadros y espía 
+legendario, entra en su cafetería favorita de la isla de Murano y 
+encuentra allí al general Cesare Ferrari, comandante de la Brigada Arte,
+ que espera ansioso su llegada. Los carabinieri han hecho un 
+descubrimiento sorprendente en la villa amalfitana de un magnate naviero
+ sudafricano muerto en extrañas circunstancias: una cámara acorazada 
+secreta que contiene un marco y un bastidor vacíos cuyas dimensiones 
+coinciden con las del cuadro desaparecido más valioso del mundo. El 
+general Ferrari pide a Gabriel que busque discretamente la obra maestra 
+antes de que vuelva a perderse su rastro.&lt;br&gt;—¿Ese no es vuestro trabajo?&lt;br&gt;—¿Encontrar cuadros robados? Técnicamente, sí. Pero a ti se te da mucho mejor que a nosotros.&lt;br&gt;La
+ pintura en cuestión es El concierto de Johannes Vermeer, una de las 
+trece obras robadas del Museo Isabella Stewart Gardner de Boston en 
+1990. Con la ayuda de una aliada inesperada, una bella hacker y ladrona 
+profesional danesa, Gabriel no tarda en descubrir que el robo del cuadro
+ forma parte de una trama ilegal de miles de millones de dólares en la 
+que está implicado un individuo cuyo nombre en clave es «el 
+coleccionista», un ejecutivo de la industria energética estrechamente 
+vinculado con las altas esferas del poder en Rusia.&lt;br&gt;El cuadro 
+desaparecido es el eje de un complot que, de tener éxito, podría sumir 
+al mundo en un conflicto de proporciones apocalípticas. Para 
+desmantelarlo, Gabriel habrá de llevar a cabo un golpe de extrema 
+audacia mientras millones de vidas penden de un hilo.&lt;/div&gt;</dc:description>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-27T12:25:09.438583+00:00"/>
+        <meta name="calibre:title_sort" content="coleccionista, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

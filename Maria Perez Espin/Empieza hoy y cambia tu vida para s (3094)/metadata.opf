@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3094</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70de9f08-7a07-4b67-b786-65f99a36226f</dc:identifier>
+        <dc:title>Empieza hoy y cambia tu vida para siempre</dc:title>
+        <dc:creator opf:file-as="Espín, María Pérez" opf:role="aut">María Pérez Espín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-14T05:40:44+00:00</dc:date>
+        <dc:description>¿Te sientes pesada, inflamada y con malestar, hagas lo que hagas y comas lo que comas? ¿Lo has probado todo y crees que tu salud nunca cambiará? ¿Tu fuerza de voluntad necesita un empujón?"Todo el mundo debería leer este libro como fuente de conocimiento y motivación", Sandra Moñino, autora de Adiós a la inflamación.En esta guía práctica no encontrarás dietas milagro ni promesas vacías, solo la motivación y los trucos que necesitas para pasar a la acción real y cambiar tu vida para siempre.Te contaré mi secreto, el método 80-20%, te explicaré en qué consiste la alimentación antiinflamatoria y te compartiré mis mejores recetas para el día a día. Hablaremos de cómo optimizar tu compra y tu tiempo en la cocina, de cómo cuidarte sin culpa y sin estrés, de cómo puedes incluir el movimiento en tu día a día sin siquiera darte cuenta y te revelaré técnicas avaladas por la ciencia para gestionar la ansiedad y descansar mejor. Son pequeños hábitos que están a tu alcance, y si empiezas...</dc:description>
+        <dc:publisher>Montena</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-25T19:50:24.347309+00:00"/>
+        <meta name="calibre:title_sort" content="Empieza hoy y cambia tu vida para siempre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3040</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b5f2b80-4281-4018-a240-ea7c3c6586e3</dc:identifier>
+        <dc:title>El código genético</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1961-12-31T23:00:00+00:00</dc:date>
+        <dc:description>En 1944 se descubrió que un compuesto químico, el ADN (ácido desoxirribonucleico), podía cambiar las bacterias. Posteriormente, descubrimientos acerca del ADN han permitido desde entonces incalculables avances científicos, uno de los cuales es el desciframiento parcial del código genético. Isaac Asimov, el famoso autor científico, explora brillantemente la compleja función de células, cromosomas, moléculas y proteínas, al tiempo que explica este asombroso descubrimiento en la biología molecular. Nos muestra cómo el esquema que contiene el cromosoma dicta las características de un individuo, y de qué manera asegura un plan hereditario de aspecto, inteligencia y estructura corporal. Asimov nos señala las excitantes posibilidades que ahora se brinda a la ciencia a causa del descubrimiento del ADN: el hombre cada vez se acerca más al secreto de la vida. Quizá él mismo sea un día capaz de crear vida en formas nuevas y nunca vistas.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Ciencias naturales</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:57.308241+00:00"/>
+        <meta name="calibre:title_sort" content="código genético, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

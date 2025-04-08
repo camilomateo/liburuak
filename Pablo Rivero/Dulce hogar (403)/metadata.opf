@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">403</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1eab9f19-2cf1-44a4-b461-198c3d540505</dc:identifier>
+        <dc:title>Dulce hogar</dc:title>
+        <dc:creator opf:file-as="Rivero, Pablo" opf:role="aut">Pablo Rivero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-18T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;SI JUEGAS CON FUEGO...&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;PUEDES ARDER.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;MATERNIDAD, CULTURA DEL ÉXITO, DINERO FÁCIL.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vuelve Pablo Rivero con un &lt;span class="a-text-italic"&gt;thriller &lt;/span&gt;en el que lo arriesga todo.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;¿HASTA DÓNDE LLEGARÍAS POR CONSTRUIR UN HOGAR PERFECTO?&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;¿Existe el hogar perfecto?&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Una urbanización de lujo a las afueras de la ciudad.&lt;/p&gt;&lt;p&gt;Una ex azafata de vuelo dispuesta a todo por concebir un hijo.&lt;/p&gt;&lt;p&gt;Un marido ausente, un vecindario inquietante...&lt;/p&gt;&lt;p&gt;Y un atractivo joven que siempre la está observando.&lt;/p&gt;&lt;p&gt;Con un estilo preciso y eficaz, Pablo Rivero construye en&lt;span class="a-text-italic"&gt; Dulce hogar&lt;/span&gt;
+ una historia perturbadora con una trama llena de aristas y unos 
+personajes complejos que lo arriesgarán todo. Un thriller inquietante, 
+una crónica social de denuncia sobre la presión hacia las mujeres y los 
+hombres con temas como la maternidad, la cultura del éxito o la falsa 
+felicidad. Una historia demoledora que profundiza además en el miedo, 
+ese que nos obsesiona hasta el punto de convertirse en morbo y que a 
+veces se convierte en terror. Sombría y pasional. Bienvenidos a Dulce 
+hogar.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491298113</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Pablo Rivero&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-13T08:24:31.813229+00:00"/>
+        <meta name="calibre:title_sort" content="Dulce hogar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

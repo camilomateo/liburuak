@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">948</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0560a7a7-e592-468f-9e33-7047e04d731b</dc:identifier>
+        <dc:title>Chevreuse</dc:title>
+        <dc:creator opf:file-as="Modiano, Patrick" opf:role="aut">Patrick Modiano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Chevreuse: una palabra. Chevreuse: un lugar. Chevreuse: un 
+escenario de la memoria. Jean Bosmans regresa, acompañado de dos amigas,
+ a una casa en la que vivió de niño. Allí, en los años cuarenta, vivió 
+también un personaje turbio y escurridizo, Guy Vincent, estraperlista 
+que acababa de salir de la cárcel y después desapareció sin dejar 
+rastro. Ayudado por su amiga Camille, Bosmans inicia una indagación en 
+sus recuerdos y en las derivas que estos tienen en el presente. En el 
+pasado hay un escondrijo secreto, que acaso contenga un tesoro. En el 
+presente hay otra casa, una en cuyo salón con divanes se reúnen 
+desconocidos; y también hay una chica que cuida del hijo del 
+propietario, un hombre con el que se produce un encuentro en un café, 
+secretos que parecían olvidados y reemergen provocando la codicia, o el 
+simple deseo de entender lo que sucedió…&lt;/p&gt;</dc:description>
+        <dc:publisher>Editorial Anagrama</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-14T07:48:40.759250+00:00"/>
+        <meta name="calibre:title_sort" content="Chevreuse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

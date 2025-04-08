@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">697</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c867fe7-86d2-4a34-8ce6-681731da63ae</dc:identifier>
+        <dc:title>La Primera República Española (1873-1874)</dc:title>
+        <dc:creator opf:file-as="Vilches, Jorge" opf:role="aut">Jorge Vilches</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-28T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;La Primera República (1873-1874) es uno de los episodios más 
+importantes y desconocidos de la Historia de España. Na­ció como 
+consecuencia del fracaso forzado de la monarquía de Amadeo de Saboya, no
+ como resultado de un plebiscito ni de un movimiento de opinión. De 
+manera que, el 11 de febrero de 1873, cuando fue proclamada, España 
+seguía siendo monár­quica.&lt;/p&gt;&lt;p&gt;La Federal, como fue 
+conocida, se predicó como una utopía política y social que traería paz, 
+prosperidad y felicidad. Sin em­bargo, la élite dirigente demostró su 
+desprecio a la democracia prefiriendo la revolución, el golpe de Estado y
+ la conspiración a la legalidad, el consenso y la educación del pueblo 
+en costumbres públicas democráticas. Pronto el país quedó desgarrado.&lt;/p&gt;&lt;p&gt;Entre
+ febrero de 1873 y diciembre de 1874 hubo cinco pre­sidentes, cuyos 
+mandatos estuvieron marcados por la guerra, el desdén de Europa, el 
+desorden público, la desorganización e indisciplina del Ejército y la 
+amenaza de una guerra con Estados Unidos, así como por el 
+cuestionamiento de la unidad nacional con la proclamación del Estado 
+catalán y la expansión del movimiento cantonalista desde Cartagena.&lt;/p&gt;&lt;p&gt;El
+ fracaso de la República, último episodio de la Revolución de 1868, se 
+llevó por delante la confianza ciega en el ejercicio de las libertades, y
+ perjudicó la evolución democrática de España.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:03.114097+00:00"/>
+        <meta name="calibre:title_sort" content="Primera República Española (1873-1874), La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

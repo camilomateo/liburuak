@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">399</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1e27bc0-621e-45cc-84bf-7ef7a29ee469</dc:identifier>
+        <dc:title>Una vez fuimos famosos</dc:title>
+        <dc:creator opf:file-as="Miguel Alcantud" opf:role="aut">Miguel Alcantud</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;Un terrible asesinato, unos niños sin infancia y un reencuentro ilegal que sabe a sangre.&lt;/p&gt;
+&lt;p align="justify"&gt;Vito, Amanda y Ponce tienen diez años. Una tarde, aburridos, matan a un bebé de dos años. Después de varios años en centros de menores salen a la calle con la promesa de reinsertarse en la sociedad. Han de buscar trabajo, llevar una vida estable y prometer no volver a contactar los unos con los otros. ¿Podrán mantener la promesa?&lt;/p&gt;
+&lt;p align="justify"&gt;Miguel Alcantud parte de un caso real, el de los niños asesinos de Liverpool, para articular una novela de gran impacto que reflexiona sobre la naturaleza del mal. Una vez fuimos famosos es un thriller incisivo, directo que golpea y noquea la conciencia del lector.&lt;/p&gt;
+&lt;p align="justify"&gt;&lt;strong&gt;Nacido en Cartagena en 1971, Miguel Alcantud ha dirigido cuatro películas. Es director artístico de Microteatro. En 2013 fue finalista del Premio teatral Valle-Inclán. Ha dirigido varios capítulos de&lt;/strong&gt; Águila Roja &lt;strong&gt;y&lt;/strong&gt; El Internado. &lt;strong&gt;En 2021 publicó su primera novela con Suma:&lt;/strong&gt; Incertidumbre &lt;strong&gt;.&lt;/strong&gt; Una vez fuimos famosos &lt;strong&gt;es su segunda novela.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491297345</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">63273203</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8491297332</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">WJ6aEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Miguel Alcantud&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-09T11:08:55.699963+00:00"/>
+        <meta name="calibre:title_sort" content="vez fuimos famosos, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

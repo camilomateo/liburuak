@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7dcb634c-fec8-4da0-a947-345f873a3846</dc:identifier>
+        <dc:title>En la boca del lobo</dc:title>
+        <dc:creator opf:file-as="Elvira Lindo" opf:role="aut">Elvira Lindo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-29T10:27:44.717303+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Las historias que compartimos pueden cambiar nuestro destino. Vuelve Elvira Lindo con una novela de suspense en la mejor tradición del cuento clásico. Julieta y su madre llegan a La Sabina a pasar las vacaciones. A sus once años esa aldea perdida le parece a Julieta el mejor lugar para dejar atrás problemas a los que no sabe poner nombre. Ese verano eterno lleno de primeras veces, descubrirá que los cimientos del pueblo están hechos de secretos y recuerdos; los lindes del bosque, de cuentos y leyendas; y el corazón de las personas de miedo, odio, amor y esperanza, los cuatro sentimientos que nutren sus sueños y también sus peores pesadillas.&lt;br&gt;En la boca del lobo surge de la mirada de una autora que ha destinado gran parte de su obra a observar la infancia en toda su riqueza, singularidad y vulnerabilidad, y muestra que las historias que compartimos, y las que nos contamos, pueden romper la maldición de una herencia envenenada.&lt;br&gt;Elvira Lindo regresa a la pura ficción creando un territorio literario propio, la despoblada Sabina y sus bosques, un escenario en el que realidad y fábula se dan la mano, como en los cuentos clásicos. El lector que se adentre en él, se verá inmerso en una novela magnífica, de intensidad creciente, ante cuyo misterio solo podrá responder con asombro y emoción.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432242069</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">123043881</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1tivEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0BWNHQ6S1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Elvira Lindo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:43.064320+00:00"/>
+        <meta name="calibre:title_sort" content="En la boca del lobo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

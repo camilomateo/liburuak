@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1810</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2f7f735-6c85-430b-a6e0-94065a42cb60</dc:identifier>
+        <dc:title>Miedo en tu cadáver</dc:title>
+        <dc:creator opf:file-as="Garbantes, Raúl" opf:role="aut">Raúl Garbantes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Un escritor asesinado. Una amiga que ha huido sin dejar rastro. Una detective que debe descubrir el misterio. Siete pasajeros a bordo de un bus disfrutan de un tour fotográfico en Dakota del Sur. Sin embargo, al cabo de varias horas, sólo vuelven cinco de los siete viajeros. Por alguna razón, ninguno recuerda lo sucedido en ese viaje. Las autoridades locales descubren que uno de los pasajeros ha sido encontrado asesinado en la vía del tour, y otro ha desaparecido. Ellos no se explican la «laguna» mental que los ocupantes del bus han padecido. ¿Es cierto, o todos son cómplices del asesinato? La detective Alexis Carter viaja al lugar para investigar lo sucedido. El caso la afecta muy de cerca ya que Anne Ashton, su compañera, es la desaparecida. ¿Podrá Alexis emplear toda su habilidad empática para resolver el crimen y encontrar con vida a Anne?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Casos criminales complejos"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-08-27T07:07:35.677193+00:00"/>
+        <meta name="calibre:title_sort" content="Miedo en tu cadáver"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

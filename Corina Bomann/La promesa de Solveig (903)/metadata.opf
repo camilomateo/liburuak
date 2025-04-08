@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">903</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">944d5d8e-f85b-46d0-8e64-ed4e6fee2fd6</dc:identifier>
+        <dc:title>La promesa de Solveig</dc:title>
+        <dc:creator opf:file-as="Bomann, Corina" opf:role="aut">Corina Bomann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-13T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Solveig, la tercera generación de las mujeres Lejongård, no solo debe superar un duro golpe del destino, sino también luchar con firmeza por la supervivencia de su amada finca. &lt;/p&gt;
+&lt;p&gt;En diciembre de 1967, Solveig, la hija de Matilda, una estudiante de Veterinaria, tiene que afrontar un duro trance cuando su prometido muere en un accidente de coche. Llena de tristeza, abandona Estocolmo y regresa a la finca familiar junto a su madre y su abuela. La situación económica es muy difícil, pero Solveig le promete a su abuela Agneta que salvará la finca. Un visitante de Estados Unidos y un atractivo hombre de negocios de Estocolmo le ofrecen una solución, pero ¿realmente puede confiar en ellos?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Los Lejongärd"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-06-26T15:25:15.046894+00:00"/>
+        <meta name="calibre:title_sort" content="promesa de Solveig, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

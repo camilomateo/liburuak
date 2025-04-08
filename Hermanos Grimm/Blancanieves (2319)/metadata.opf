@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2319</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4ef9106-aa84-428e-af3f-e08711c4baea</dc:identifier>
+        <dc:title>Blancanieves</dc:title>
+        <dc:creator opf:file-as="Grimm, Hermanos" opf:role="aut">Hermanos Grimm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="74"/>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:07+00:00"/>
+        <meta name="calibre:title_sort" content="Blancanieves"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

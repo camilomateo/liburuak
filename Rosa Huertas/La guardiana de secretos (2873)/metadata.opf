@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2873</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">873a43a1-70ec-4b25-bd7a-a56aa8b33466</dc:identifier>
+        <dc:title>La guardiana de secretos</dc:title>
+        <dc:creator opf:file-as="Huertas, Rosa" opf:role="aut">Rosa Huertas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-16T00:00:00+00:00</dc:date>
+        <dc:description>Un homenaje a una mujer avanzada a su época. Un emotivo relato contra el silencio y el olvido. La apasionante vida deCarmen de Burgos.«Libre y combativa».El País«Adelantada a su tiempo».El Mundo«Una mujer que se salió de todos los moldes».La Vanguardia«Un tornado en el panorama literario de principios del sigloXX».La RazónMadrid, 1960. Nadie se acuerda ya de Carmen de Burgos, una segunda muerte para quien fuera la mujer más influyente de España décadas atrás. Con gran pesar por ese injusto y devastador olvido impuesto por los vencedores de la guerra, Ketty se resiste a que la voz de su hermana quede sepultada y decide contar su historia. Quiere devolver a la periodista al lugar que merece y evitar así que se pierda su legado.Las animadas tertulias en el salón de Colombine, donde se reunían los más prestigiosos escritores, periodistas y artistas del momento, junto con su pensamiento combativo, sus deliciosas recetas y sus memorables escritos son algunas de las estampas...</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-02T12:10:18.445517+00:00"/>
+        <meta name="calibre:title_sort" content="guardiana de secretos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

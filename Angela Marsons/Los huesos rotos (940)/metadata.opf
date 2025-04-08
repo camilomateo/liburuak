@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">940</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a85e3196-fad8-4399-afba-441abf82fb99</dc:identifier>
+        <dc:title>Los huesos rotos</dc:title>
+        <dc:creator opf:file-as="Marsons, Angela" opf:role="aut">Angela Marsons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Pensaban que estaban a salvo. Se equivocaron.&lt;br&gt;Para la detective
+ Kim Stone, el homicidio de una joven prostituta y la aparición de un 
+bebé abandonado en la misma noche de invierno señalan el comienzo de una
+ inquietante investigación, una que la pondrá frente a frente con 
+alguien de su horrenda infancia.&lt;br&gt;Cuando otras trabajadoras sexuales 
+del Black Country son asesinadas en rápida sucesión y de maneras cada 
+vez más violentas, Kim y su equipo se dan cuenta de que el crimen 
+inicial no ha sido un aislado ataque frenético, sino la obra de un 
+retorcido asesino en serie que se está aprovechando de las más 
+vulnerables.&lt;br&gt;Paralelamente, se busca a la mujer que ha dejado a su 
+hijo recién nacido en la comisaría. Pero lo que a primera vista parece 
+un abandono trágico y desesperado pronto empieza a tomar un cariz aún 
+más siniestro.&lt;br&gt;Cuando otra chica joven desaparece, la detective Kim 
+Stone y su equipo se adentran cada vez más en un mundo oculto y horrible
+ (mejor esta palabra que horrífico, que se usa más en poesía), donde un 
+enfrentamiento pone en peligro la vida de la propia detective y amenaza 
+con sacar a la luz secretos de su pasado.&lt;br&gt;Mientras Kim lucha contra sus propios demonios, ¿conseguirá detener al asesino antes de que se cobre otra vida?
+
+&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788742812532</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Kim Stone"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2023-07-07T11:51:21.213061+00:00"/>
+        <meta name="calibre:title_sort" content="huesos rotos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

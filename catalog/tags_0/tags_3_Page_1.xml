@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Policial</title>
+  <id>Calibre2opds:taglist:P:3</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Policial" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por P" />
+  <link href="../tags_0/tags_3_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 2)" />
+  <entry>
+    <title>El aprendiz</title>
+    <id>calibre:book:2588</id>
+    <updated>2024-09-12T03:39:19Z</updated>
+    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/El%20aprendiz%20%282588%29/El%20aprendiz%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="279 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2016-09-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="El profesor" />
+    <summary>El profesor [2]: Han pasado diez años desde que León abandonó Varsovia, pero ha llegado el momento de volver. Sin embargo, Europa ha cambiado: una revolución calienta las calles y el español caerá atrapado en ella sin desearlo.</summary>
+    <link href="../book_2/book_2588.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El archivo de Sherlock Holmes</title>
+    <id>calibre:book:2338</id>
+    <updated>2024-09-09T10:34:10Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/El%20archivo%20de%20Sherlock%20Holmes%20%282338%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/El%20archivo%20de%20Sherlock%20Holmes%20%282338%29/El%20archivo%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="262 KB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>0101-02-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [107]:</summary>
+    <link href="../book_2/book_2338.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Asesinato en Cannes</title>
+    <id>calibre:book:2791</id>
+    <updated>2025-01-09T08:22:46Z</updated>
+    <link href="../../Pablo%20Poveda/Asesinato%20en%20Cannes%20%282791%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pablo%20Poveda/Asesinato%20en%20Cannes%20%282791%29/Asesinato%20en%20Cannes%20-%20Pablo%20Poveda.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="649 KB" />
+    <author>
+      <name>Pablo Poveda</name>
+      <uri>../authors_0/authors_232_Page_1.xml</uri>
+    </author>
+    <published>2024-11-13T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nova Illice Media Pub</dcterms:publisher>
+    <category term="Policial" />
+    <category term="suspense" />
+    <category term="Lang:es" />
+    <category term="Detective Maldonado" />
+    <summary>Detective Maldonado [9]: Cuando el detective privado Maldonado acepta un caso en el glamoroso Festival de Cannes, pronto descubre que bajo las luces deslumbrantes y las alfombras rojas, se ocultan secretos tan oscuros como mortales. La muerte de un f...</summary>
+    <link href="../book_2/book_2791.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El asesino de Google Maps</title>
+    <id>calibre:book:1867</id>
+    <updated>2024-09-02T04:27:39Z</updated>
+    <link href="../../Juan%20Herranz/El%20asesino%20de%20Google%20Maps%20%281867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Herranz/El%20asesino%20de%20Google%20Maps%20%281867%29/El%20asesino%20de%20Google%20Maps%20-%20Juan%20Herranz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="189 KB" />
+    <author>
+      <name>Juan Herranz</name>
+      <uri>../authors_1/authors_1338_Page_1.xml</uri>
+    </author>
+    <published>2024-06-20T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Navegando por Street View, Carlos descubre a una posible víctima oculta en la parte trasera de un coche.La casualidad lo condujo ante algo que jamás debiera haber visto.Desde ese momento estará en el punto de mira del asesino de Google Maps.Porque na...</summary>
+    <link href="../book_1/book_1867.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Bajo aguas oscuras</title>
+    <id>calibre:book:102</id>
+    <updated>2023-01-18T00:15:18Z</updated>
+    <link href="../../Robert%20Bryndza/Bajo%20aguas%20oscuras%20%28102%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Bryndza/Bajo%20aguas%20oscuras%20%28102%29/Bajo%20aguas%20oscuras%20-%20Robert%20Bryndza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="755 KB" />
+    <author>
+      <name>Robert Bryndza</name>
+      <uri>../authors_0/authors_69_Page_1.xml</uri>
+    </author>
+    <published>2022-04-06T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Kate Marshall" />
+    <summary>Kate Marshall [2]: Tú no lo ves…, pero él a ti sí Cuando la detective Kate Marshall encuentra el cuerpo sin vida de un joven en el embalse de Shadow Sands, las autoridades califican el suceso como un «trágico accidente». Sin embargo, algo no cuadra. ...</summary>
+    <link href="../book_0/book_102.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El bouquet del miedo</title>
+    <id>calibre:book:28</id>
+    <updated>2023-01-17T10:17:28Z</updated>
+    <link href="../../Xabier%20Gutierrez/El%20bouquet%20del%20miedo%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Xabier%20Gutierrez/El%20bouquet%20del%20miedo%20%2828%29/El%20bouquet%20del%20miedo%20-%20Xabier%20Gutierrez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="584 KB" />
+    <author>
+      <name>Xabier Gutiérrez</name>
+      <uri>../authors_0/authors_24_Page_1.xml</uri>
+    </author>
+    <published>2016-01-19T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Los aromas del crimen" />
+    <summary>Los aromas del crimen [2]: En pleno mes de septiembre, tiempo de vendimia, y a pocos días para que empiece la recolección de la uva, al subcomisario de la Ertzaintza Vicente Parra le asignan la investigación del asesinato de la enóloga Esperanza More...</summary>
+    <link href="../book_0/book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La casa que acecha</title>
+    <id>calibre:book:2605</id>
+    <updated>2024-09-17T00:24:16Z</updated>
+    <link href="../../Mabel%20Seeley/La%20casa%20que%20acecha%20%282605%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mabel%20Seeley/La%20casa%20que%20acecha%20%282605%29/La%20casa%20que%20acecha%20-%20Mabel%20Seeley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="641 KB" />
+    <author>
+      <name>Mabel Seeley</name>
+      <uri>../authors_1/authors_1710_Page_1.xml</uri>
+    </author>
+    <published>1943-09-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Biblioteca de bolsillo. Serie naranja" />
+    <summary>Biblioteca de bolsillo. Serie naranja [70]: Gwynne Dacres, una mujer joven, despedida de su trabajo y sin mucha suerte, alquila un apartamento de dos habitaciones en la planta baja de una enorme casa de huéspedes, regentada por la señora Garr, un edi...</summary>
+    <link href="../book_2/book_2605.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crimen en directo</title>
+    <id>calibre:book:1396</id>
+    <updated>2024-04-08T02:39:41Z</updated>
+    <link href="../../Camilla%20Lackberg/Crimen%20en%20directo%20%281396%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Camilla%20Lackberg/Crimen%20en%20directo%20%281396%29/Crimen%20en%20directo%20-%20Camilla%20Lackberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="500 KB" />
+    <author>
+      <name>Camilla Läckberg</name>
+      <uri>../authors_0/authors_369_Page_1.xml</uri>
+    </author>
+    <published>2006-04-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Fjällbacka" />
+    <summary>Fjällbacka [4]: Patrik y Erica siguen disfrutando de su idilio en el pueblo de Fjällbacka, ahora acompañados por su bebé, la pequeña Maja, que ya tiene ocho meses. Mientras la joven pareja está plenamente volcada en los preparativos de su próxima bod...</summary>
+    <link href="../book_1/book_1396.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los crímenes del lago</title>
+    <id>calibre:book:957</id>
+    <updated>2023-08-01T05:26:08Z</updated>
+    <link href="../../Gemma%20Herrero%20Virto/Los%20crimenes%20del%20lago%20%28957%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gemma%20Herrero%20Virto/Los%20crimenes%20del%20lago%20%28957%29/Los%20crimenes%20del%20lago%20-%20Gemma%20Herrero%20Virto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Gemma Herrero Virto</name>
+      <uri>../authors_0/authors_233_Page_1.xml</uri>
+    </author>
+    <published>2017-06-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Policial" />
+    <category term="Intriga" />
+    <category term="Novela" />
+    <category term="Lang:es" />
+    <summary>Durante el verano del año 2001 tres niños aparecen muertos en las aguas del lago Champlain, en Vermont. Eric, un niño de doce años, pierde a Anne Austen, la chica de la que está enamorado. Además, durante las noches, sus sueños se ven interrumpidos p...</summary>
+    <link href="../book_0/book_957.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crimen fuera de escena</title>
+    <id>calibre:book:1865</id>
+    <updated>2024-09-02T04:27:39Z</updated>
+    <link href="../../Luis%20A.%20Santamaria/Crimen%20fuera%20de%20escena%20%281865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20A.%20Santamaria/Crimen%20fuera%20de%20escena%20%281865%29/Crimen%20fuera%20de%20escena%20-%20Luis%20A.%20Santamaria.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Luis A. Santamaría</name>
+      <uri>../authors_1/authors_1337_Page_1.xml</uri>
+    </author>
+    <published>2024-08-28T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>El primer gran triunfo del escritor Toni Galán en su nueva vida en Los Ángeles es convertirse en guionista de una popular serie de televisión. Todo parece ir viento en popa hasta que una mujer es encontrada sin vida. Las particulares circunstancias q...</summary>
+    <link href="../book_1/book_1865.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando te falte el aire</title>
+    <id>calibre:book:563</id>
+    <updated>2023-04-17T01:30:22Z</updated>
+    <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ursula%20Campos/Cuando%20te%20falte%20el%20aire%20%28563%29/Cuando%20te%20falte%20el%20aire%20-%20Ursula%20Campos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+    <author>
+      <name>Úrsula Campos</name>
+      <uri>../authors_0/authors_417_Page_1.xml</uri>
+    </author>
+    <published>2023-04-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva Ediciones</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Larrea &amp; Lysander" />
+    <summary>Larrea &amp; Lysander [1]: Zaragoza, noviembre de 2018. Tras el asalto en plena noche al Instituto de Salud Pública, la policía descubre que han robado una serie de vacunas y han destrozado el despacho de Quina Larrea, jefa del Servicio de Epidemiología....</summary>
+    <link href="../book_0/book_563.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Deja en paz al diablo</title>
+    <id>calibre:book:1804</id>
+    <updated>2024-08-27T09:07:34Z</updated>
+    <link href="../../John%20Verdon/Deja%20en%20paz%20al%20diablo%20%281804%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Verdon/Deja%20en%20paz%20al%20diablo%20%281804%29/Deja%20en%20paz%20al%20diablo%20-%20John%20Verdon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="483 KB" />
+    <author>
+      <name>John Verdon</name>
+      <uri>../authors_0/authors_638_Page_1.xml</uri>
+    </author>
+    <published>2012-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Rocaeditorial</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="David Gurney" />
+    <summary>David Gurney [3]: Nada es nunca lo que parece. Y menos si David Gurney está involucrado. Han pasado seis meses. David Gurney apenas ha conseguido reincorporarse a una cierta normalidad después de haberse encontrado al borde de la muerte tras resolver...</summary>
+    <link href="../book_1/book_1804.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Delitos de familia</title>
+    <id>calibre:book:915</id>
+    <updated>2023-07-04T02:12:00Z</updated>
+    <link href="../../Tove%20Alsterdal/Delitos%20de%20familia%20%28915%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tove%20Alsterdal/Delitos%20de%20familia%20%28915%29/Delitos%20de%20familia%20-%20Tove%20Alsterdal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="595 KB" />
+    <author>
+      <name>Tove Alsterdal</name>
+      <uri>../authors_0/authors_686_Page_1.xml</uri>
+    </author>
+    <published>2022-09-19T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Motus</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Costa Alta" />
+    <summary>Costa Alta [1]: Han pasado más de veinte años desde que Olof Hagström se fue de casa. Al regresar a la casa de su familia, sabe al instante que algo anda mal. La llave de la puerta de entrada, escondida debajo de una piedra familiar todavía está allí...</summary>
+    <link href="../book_0/book_915.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dispuesto a matar</title>
+    <id>calibre:book:2794</id>
+    <updated>2025-01-09T08:28:26Z</updated>
+    <link href="../../Kelley%20Roos/Dispuesto%20a%20matar%20%282794%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kelley%20Roos/Dispuesto%20a%20matar%20%282794%29/Dispuesto%20a%20matar%20-%20Kelley%20Roos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="250 KB" />
+    <author>
+      <name>Kelley Roos</name>
+      <uri>../authors_1/authors_1829_Page_1.xml</uri>
+    </author>
+    <published>1940-09-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Jeff y Haila Troy" />
+    <summary>Jeff y Haila Troy [1]: Es la noche de estreno de una obra de teatro en la que actúa Haila Troy. La coprotagonista y compañera de cuarto de Haila, Carol Blanton, de repente enferma de laringitis y no puede actuar. Su suplente, una chica con la pasión ...</summary>
+    <link href="../book_2/book_2794.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Donde los escorpiones</title>
+    <id>calibre:book:31</id>
+    <updated>2023-01-17T10:18:56Z</updated>
+    <link href="../../Lorenzo%20Silva/Donde%20los%20escorpiones%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lorenzo%20Silva/Donde%20los%20escorpiones%20%2831%29/Donde%20los%20escorpiones%20-%20Lorenzo%20Silva.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="591 KB" />
+    <author>
+      <name>Lorenzo Silva</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <published>2016-05-31T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Bevilacqua" />
+    <summary>Bevilacqua [9]: Madrid, julio de 2014. Pasados los cincuenta, y ya con más pasado que futuro, el subteniente Bevilacqua, veterano investigador de homicidios de la unidad central de la Guardia Civil, recibe una llamada del responsable de operaciones i...</summary>
+    <link href="../book_0/book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El engaño</title>
+    <id>calibre:book:49</id>
+    <updated>2023-01-17T10:27:38Z</updated>
+    <link href="../../Charlotte%20Link/El%20engano%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlotte%20Link/El%20engano%20%2849%29/El%20engano%20-%20Charlotte%20Link.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="657 KB" />
+    <author>
+      <name>Charlotte Link</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>2015-09-02T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Para Kate Linville, solitaria policía de Scotland Yard, solo hay una persona en el mundo que merezca su amor y su confianza: el antiguo jefe de policía de Scarborough Richard Linville, su padre, a cuya sombra creció. Cuando este aparece brutalmente a...</summary>
+    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>En la mente del hipnotista</title>
+    <id>calibre:book:1779</id>
+    <updated>2024-08-26T10:56:14Z</updated>
+    <link href="../../Lars%20Kepler/En%20la%20mente%20del%20hipnotista%20%281779%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lars%20Kepler/En%20la%20mente%20del%20hipnotista%20%281779%29/En%20la%20mente%20del%20hipnotista%20-%20Lars%20Kepler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="608 KB" />
+    <author>
+      <name>Lars Kepler</name>
+      <uri>../authors_1/authors_1279_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Joona Linna" />
+    <summary>Joona Linna [5]: Un asesino en serie conmociona a la sociedad sueca: graba a sus víctimas instantes antes de matarlas y cuelga los vídeos en YouTube prácticamente en tiempo real. La policía es incapaz de reconocer a las futuras víctimas y se encuentr...</summary>
+    <link href="../book_1/book_1779.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La estrella del diablo</title>
+    <id>calibre:book:1032</id>
+    <updated>2023-10-20T01:12:29Z</updated>
+    <link href="../../Jo%20Nesbo/La%20estrella%20del%20diablo%20%281032%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jo%20Nesbo/La%20estrella%20del%20diablo%20%281032%29/La%20estrella%20del%20diablo%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="548 KB" />
+    <author>
+      <name>Jo Nesbø</name>
+      <uri>../authors_0/authors_266_Page_1.xml</uri>
+    </author>
+    <published>2003-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Harry Hole" />
+    <summary>Harry Hole [5]: Es un verano excepcionalmente caluroso en Oslo. El cuerpo de una joven aparece en el suelo de su apartamento, en medio de un charco de sangre. Tiene amputado un dedo de la mano izquierda, y bajo un párpado le han colocado un pequeño d...</summary>
+    <link href="../book_1/book_1032.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Estudio en escarlata</title>
+    <id>calibre:book:2329</id>
+    <updated>2024-09-09T10:34:08Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/Estudio%20en%20escarlata%20%282329%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/Estudio%20en%20escarlata%20%282329%29/Estudio%20en%20escarlata%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="172 KB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [113]:</summary>
+    <link href="../book_2/book_2329.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Expedientes</title>
+    <id>calibre:book:1826</id>
+    <updated>2024-08-28T00:55:06Z</updated>
+    <link href="../../Kate%20Atkinson/Expedientes%20%281826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kate%20Atkinson/Expedientes%20%281826%29/Expedientes%20-%20Kate%20Atkinson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="419 KB" />
+    <author>
+      <name>Kate Atkinson</name>
+      <uri>../authors_1/authors_1305_Page_1.xml</uri>
+    </author>
+    <published>2004-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alianza Editorial</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Jackson Brodie" />
+    <summary>Jackson Brodie [1]: Bajo una ola de calor, entre turistas despistados y estudiantes extranjeros, el detective Jackson Brodie se ocupa de sus casos en un Cambridge al margen de la imponente sombra de los «colleges». Su trabajo suele centrarse en rutin...</summary>
+    <link href="../book_1/book_1826.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El expreso de Tokio</title>
+    <id>calibre:book:1658</id>
+    <updated>2024-07-07T03:32:36Z</updated>
+    <link href="../../Seicho%20Matsumoto/El%20expreso%20de%20Tokio%20%281658%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Seicho%20Matsumoto/El%20expreso%20de%20Tokio%20%281658%29/El%20expreso%20de%20Tokio%20-%20Seicho%20Matsumoto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="440 KB" />
+    <author>
+      <name>Seicho Matsumoto</name>
+      <uri>../authors_1/authors_1194_Page_1.xml</uri>
+    </author>
+    <published>2014-10-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros del Asteroide S.L.U.</dcterms:publisher>
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Los cadáveres de un oscuro funcionario y de la camarera de un restaurante de Tokio son descubiertos en una playa de la isla de Kyushu. Todo parece indicar que se trata de un caso claro: dos amantes que se han suicidado juntos tomando cianuro. Pero al...</summary>
+    <link href="../book_1/book_1658.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Falso testigo</title>
+    <id>calibre:book:779</id>
+    <updated>2023-05-25T01:33:00Z</updated>
+    <link href="../../Karin%20Slaughter/Falso%20testigo%20%28779%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Karin%20Slaughter/Falso%20testigo%20%28779%29/Falso%20testigo%20-%20Karin%20Slaughter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="566 KB" />
+    <author>
+      <name>Karin Slaughter</name>
+      <uri>../authors_0/authors_581_Page_1.xml</uri>
+    </author>
+    <published>2022-04-27T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Su pasado siempre la ha perseguido, ahora su pasado quiere darle caza. UNA VIDA ORDINARIA... Leigh Collier ha trabajado duro para construir una vida aparentemente normal. Es abogada defensora en un prestigioso bufete de abogados en Atlanta, haría cua...</summary>
+    <link href="../book_0/book_779.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hilos de sangre</title>
+    <id>calibre:book:698</id>
+    <updated>2023-05-17T01:10:08Z</updated>
+    <link href="../../Angela%20Marsons/Hilos%20de%20sangre%20%28698%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Angela%20Marsons/Hilos%20de%20sangre%20%28698%29/Hilos%20de%20sangre%20-%20Angela%20Marsons.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="573 KB" />
+    <author>
+      <name>Angela Marsons</name>
+      <uri>../authors_0/authors_520_Page_1.xml</uri>
+    </author>
+    <published>2023-05-12T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Jentas</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Kim Stone" />
+    <summary>Kim Stone [5]: La víctima ha recibido una sola puñalada, precisa, en el vientre; y, a primera vista, cualquiera diría que ha sido un robo frustrado. Una trabajadora social, madre cariñosa, se ha perdido en un acto de violencia sin sentido. Pero, para...</summary>
+    <link href="../book_0/book_698.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Malherida</title>
+    <id>calibre:book:2590</id>
+    <updated>2024-09-12T03:39:20Z</updated>
+    <link href="../../Raul%20Garbantes/Malherida%20%282590%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Raul%20Garbantes/Malherida%20%282590%29/Malherida%20-%20Raul%20Garbantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="429 KB" />
+    <author>
+      <name>Raúl Garbantes</name>
+      <uri>../authors_0/authors_58_Page_1.xml</uri>
+    </author>
+    <published>2021-09-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Policial" />
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Agentes del FBI Julia Stein y Hans Freeman" />
+    <summary>Agentes del FBI Julia Stein y Hans Freeman [4]: Para ella será su mayor desafío. Para él será el caso más difícil de su carrera. La escena del crimen es la casa vacacional de la familia Barthes. Padre, madre e hija han sido asesinados con dos disparo...</summary>
+    <link href="../book_2/book_2590.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El médico de Tesalia</title>
+    <id>calibre:book:45</id>
+    <updated>2023-01-17T10:26:06Z</updated>
+    <link href="../../Anne%20Zouroudi/El%20medico%20de%20Tesalia%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anne%20Zouroudi/El%20medico%20de%20Tesalia%20%2845%29/El%20medico%20de%20Tesalia%20-%20Anne%20Zouroudi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="503 KB" />
+    <author>
+      <name>Anne Zouroudi</name>
+      <uri>../authors_0/authors_36_Page_1.xml</uri>
+    </author>
+    <published>2011-05-23T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Duomo ediciones</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Chrissa Kaliga lanza con furia su ramo de guirnaldas contra las olas que rompen bajo sus pies. En casa, sus sobrinas y sus tías hablan en voz baja mientras observan con suspicacia a Nula, su hermana mayor. En el pueblo todos esperan la llegada del mi...</summary>
+    <link href="../book_0/book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

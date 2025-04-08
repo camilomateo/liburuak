@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2813</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae863cae-4b17-4e93-926d-7ca6e5f6a95e</dc:identifier>
+        <dc:title>Herencia</dc:title>
+        <dc:creator opf:file-as="Gallego, Jesús" opf:role="aut">Jesús Gallego</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-09T00:00:00+00:00</dc:date>
+        <dc:description>Todo lo que somos hoy se gestó en la encrucijada de 1975. Esta es, por tanto, nuestra historia, la de nuestros padres y la de nuestros hijos.El 20 de noviembre de 1975 murió Francisco Franco. En la compleja telaraña que se teje en una España al límite, tres ciudadanos se enfrentan a ese momento histórico decisivo: Manuela, una mujer que viaja de Extremadura a Madrid para visitar la capilla ardiente; José Luis, un joven que acaba de entrar en ETA y que prepara un atentado en Madrid; y Jaime, un procurador en Cortes, héroe carlista de la Guerra Civil, que se dispone a honrar al general en el Valle de los Caídos. Ellos no lo saben, pero sus vidas están conectadas por un hilo de pasadas circunstancias que han marcado el camino de su existencia.Una novela trepidante en la que Jesús Gallego dibuja con precisión aquellos días de incertidumbre y los largos años bajo una dictadura que parece eterna.Herencia es un relato sobre lo que pasó y sobre lo que pudo haber pasado, y su precisa...</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-20T10:21:16+00:00"/>
+        <meta name="calibre:title_sort" content="Herencia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

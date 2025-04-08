@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1710</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9070a677-1e99-4312-a586-e4de36c7c0bc</dc:identifier>
+        <dc:title>Brilla todo lo que puedas</dc:title>
+        <dc:creator opf:file-as="Rattaro, Sara" opf:role="aut">Sara Rattaro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-22T06:00:00+00:00</dc:date>
+        <dc:description>El amor no pide permiso. Aparece súbitamente. Así fue para Emma cuando conoció a Marco. Todo con él es perfecto. Hasta que un día Marco empieza a tener repentinos cambios de humor y es incapaz de contener sus celos. Se obsesiona. Cada ocasión es buena para alejarla de sus amigos, sus padres, su mundo entero. Emma descubre que aquello que se llama amor a veces no lo es. Ya no sabe quién es. Y no sabe cómo recuperar su vida. El nacimiento de su hija Martina le da el valor para cambiar su destino. Para decir basta. El corazón, incluso si está roto o herido, sabe siempre cómo volver a volar. Cómo volver a brillar. Más fuerte incluso que antes.</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417128104</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-06T08:52:12.210297+00:00"/>
+        <meta name="calibre:title_sort" content="Brilla todo lo que puedas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

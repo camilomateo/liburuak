@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">906</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">562085f4-6493-4172-87f4-e3e8b73313e2</dc:identifier>
+        <dc:title>Una pieza de más</dc:title>
+        <dc:creator opf:file-as="Martínez, Reyes" opf:role="aut">Reyes Martínez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un asesino en serie. Una autopsia desconcertante. Y una pieza que no acaba de encajar. Un thriller inmersivo. Una trama adictiva. Un rompecabezas que te obsesionará. El cadáver de un joven aparece en una fábrica abandonada del centro de Madrid. La víctima presenta una cicatriz en el abdomen, como si ya se le hubiera realizado una autopsia antes. Lo que no pueden imaginar el inspector Mario Carrasco ni Macarena Valverde, la subinspectora que esa misma mañana se ha incorporado a la unidad de homicidios, es que cuando el doctor Leal del Anatómico Forense reabra el cuerpo hallará algo que no debería estar ahí... «Reyes Martinez domina como pocos el arte de la tensión». VÍCTOR DEL ÁRBOLENGLISH DESCRIPTION A serial killer. A disturbing autopsy. And an extra piece of evidence that doesn't fit. A captivating thriller. An addictive narrative. A mystery that you will obsess over. A young man's corpse is found in an abandoned factory in the center of Madrid. He has a scar on his abdomen, as if an autopsy had already been performed on him. What inspector Mario Carrasco and Macarena Valverde--a deputy inspector who just joined the homicide unit that morning--cannot imagine, is that when Dr. Leal from the Forensic Department reopens the body, he will find something that should not be there... "Reyes Martinez masters the art of suspense like few others can. &lt;/p&gt;
+&lt;p&gt;" --VÍCTOR DEL ÁRBOL&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425364907</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-26T15:25:20.134300+00:00"/>
+        <meta name="calibre:title_sort" content="pieza de más, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

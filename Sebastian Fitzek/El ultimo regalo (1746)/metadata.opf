@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1746</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8eedcd3e-8e5f-46ca-bc83-a58e6ae9334d</dc:identifier>
+        <dc:title>El último regalo</dc:title>
+        <dc:creator opf:file-as="Fitzek, Sebastian" opf:role="aut">Sebastian Fitzek</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div id="iframeContent" dir="auto"&gt;&lt;p&gt;&lt;b&gt;El autor de &lt;i&gt;thriller &lt;/i&gt;más vendido en Alemania vuelve con una historia tan atractiva como aterradora. &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Milan
+ es un hombre inteligente y creativo, pero tiene un problema.  Después 
+de una peligrosa operación a la que fue sometido en su  adolescencia, ha
+ perdido la capacidad de leer. Mientras se dirige en  moto a una de las 
+fiestas en las que trabaja como camarero, ve a una  joven adolescente 
+dentro de un coche con un papel pegado a la ventanilla  pidiendo 
+socorro. Asustado, Milan la sigue, pero poco después, cuando  éste se 
+detiene frente a una casa, lo que ve es una escena absolutamente  normal
+ en la que un matrimonio y su hija, cargados con la compra, bajan del 
+coche.&lt;/p&gt; &lt;p&gt;Milan decide olvidar lo ocurrido. Desconoce que su peor pesadilla no ha hecho más que empezar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:06.784875+00:00"/>
+        <meta name="calibre:title_sort" content="El último regalo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ciudades andaluzas en la Historia</title>
+  <id>Calibre2opds:taglist:C:53</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_53_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ciudades andaluzas en la Historia" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por C" />
+  <entry>
+    <title>Ciudades de la Bética</title>
+    <id>calibre:book:414</id>
+    <updated>2023-03-14T04:30:30Z</updated>
+    <link href="../../Juan%20Eslava%20Galan/Ciudades%20de%20la%20Betica%20%28414%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Eslava%20Galan/Ciudades%20de%20la%20Betica%20%28414%29/Ciudades%20de%20la%20Betica%20-%20Juan%20Eslava%20Galan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="12 MB" />
+    <author>
+      <name>Juan Eslava Galán</name>
+      <uri>../authors_0/authors_304_Page_1.xml</uri>
+    </author>
+    <published>2021-09-30T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación José Manuel Lara</dcterms:publisher>
+    <category term="Ciudades andaluzas en la Historia" />
+    <category term="Lang:es" />
+    <summary>Dos amigos aficionados a la arqueología y a la vida, Bonoso y su huésped el escocés Angus, se proponen visitar las antiguas ciudades de la Bética, aquella próspera provincia cuyos límites casi coincidían con los de la Andalucía actual. En animada con...</summary>
+    <link href="../book_0/book_414.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

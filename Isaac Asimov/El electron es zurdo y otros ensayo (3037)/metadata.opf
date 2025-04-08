@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3037</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">656fd2a2-f808-43a2-a768-75b9830d5e0e</dc:identifier>
+        <dc:title>El electrón es zurdo y otros ensayos científicos</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1963-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Esta nueva recopilación de artículos de divulgación científica escritos por ISAAC ASIMOV se abre con un divertido trabajo sobre la capacidad pronosticadora de la novela científica, al que siguen dos ensayos en torno a las leyes que gobiernan la expansión y miniaturización en la naturaleza. EL ELECTRÓN ES ZURDO pertenece a una serie de cinco trabajos que se ocupan de la paridad y la simetría en el mundo inanimado y en los seres vivos. El resto de los artículos examinan muy diversos temas: los océanos, la certidumbre y la incertidumbre en la física, los axiomas de Euclides y las razones por las cuales fueron considerados como una verdad absoluta durante dos mil años, etc.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Ciencias naturales</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:56.851940+00:00"/>
+        <meta name="calibre:title_sort" content="electrón es zurdo y otros ensayos científicos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

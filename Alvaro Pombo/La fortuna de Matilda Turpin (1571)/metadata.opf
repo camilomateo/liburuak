@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1571</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec8ff52a-24a1-4bb8-a5e7-4fd9c2f9b095</dc:identifier>
+        <dc:title>La fortuna de Matilda Turpin</dc:title>
+        <dc:creator opf:file-as="Álvaro Pombo" opf:role="aut">Álvaro Pombo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-18T06:00:00+00:00</dc:date>
+        <dc:description>Una elegante casa en un acantilado del norte de España, en un lugar figurado, Lobreña, es el paisaje inicial y final de este relato. Ésta es la historia de Matilda Turpin: una mujer acomodada que, después de trece años de matrimonio feliz con un catedrático de Filosofía y tres hijos, emprende un espectacular despegue profesional en el mundo de las altas finanzas. Esta valiente opción, en este siglo de mujeres, tendrá un coste. Dos proyectos profesionales y vitales distintos, y un proyecto matrimonial común. ¿Fue todo un gran error? ¿Cuándo se descubre en la vida que nos hemos equivocado? ¿Al final o al principio?</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408104346</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:49.675287+00:00"/>
+        <meta name="calibre:title_sort" content="fortuna de Matilda Turpin, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

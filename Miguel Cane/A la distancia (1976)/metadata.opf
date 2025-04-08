@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1976</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de703225-940e-47ae-8f6d-f20848d5a401</dc:identifier>
+        <dc:title>A la distancia</dc:title>
+        <dc:creator opf:file-as="Cané, Miguel" opf:role="aut">Miguel Cané</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="227"/>
+        <meta name="calibre:timestamp" content="2024-09-05T16:10:28.973316+00:00"/>
+        <meta name="calibre:title_sort" content="A la distancia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

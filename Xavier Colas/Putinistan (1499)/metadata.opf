@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a38a41f5-7358-416e-842c-c128788eeb51</dc:identifier>
+        <dc:title>Putinistan</dc:title>
+        <dc:creator opf:file-as="Colas, Xavier" opf:role="aut">Xavier Colas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-27T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div data-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;Putinistán
+ es la crónica periodística y literaria, casi intimista, de la deriva de
+ Rusia en los últimos años, desde la caída de la Unión Soviética y la 
+esperanza en la democratización, hasta el ascenso de Vladímir Putin, 
+desembocando en la locura del «Manicomio Z» que vendió a los rusos una 
+guerra que al mismo tiempo se les negaba.&lt;/p&gt;&lt;p&gt;Las 
+entrevistas a políticos y disidentes, los testimonios de los escritores e
+ intelectuales o las vivencias de los soldados y los ciudadanos rusos y 
+ucranianos trazan una compleja pero elocuente panorámica del auge del 
+autoritarismo, del miedo, de la violencia política y de la nostalgia por
+ el espejismo de la grandeza rusa y la creciente paranoia ante el 
+«enemigo» exterior.&lt;/p&gt;&lt;p&gt;Frente a la ceguera o la 
+connivencia de Occidente, el libro de Xavier Colás esclarece lo qué está
+ en juego en la guerra de Ucrania, así como las consecuencias prácticas 
+del avance del nacionalismo autoritario.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B0CST3D87X</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788413847740</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-10T06:43:26.458807+00:00"/>
+        <meta name="calibre:title_sort" content="Putinistan"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

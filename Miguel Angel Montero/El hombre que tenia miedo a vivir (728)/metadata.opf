@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">728</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e916b82-0e32-43cd-8416-c5677fdf7da1</dc:identifier>
+        <dc:title>El hombre que tenía miedo a vivir</dc:title>
+        <dc:creator opf:file-as="Montero, Miguel Ángel" opf:role="aut">Miguel Ángel Montero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-12T03:00:00+00:00</dc:date>
+        <dc:description>—¿Por qué te vas? ¿Para qué?—preguntó, pidiendo una explicación que no iba a ser escuchada—.
+Has recorrido medio mundo...
+¿Qué buscas?
+La miré con una tierna sonrisa en mis labios, me acerqué a ella y la abracé con amor, mucho amor, como solo se puede abrazar a quien te lo ha dado todo.
+—Vivir, mamá, solo busco vivir— le susurré al oído.</dc:description>
+        <dc:publisher>unoeditorial</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07JGW42LJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788409049325</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:11:08.541081+00:00"/>
+        <meta name="calibre:title_sort" content="hombre que tenía miedo a vivir, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

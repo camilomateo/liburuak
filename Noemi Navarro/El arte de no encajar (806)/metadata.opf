@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">806</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69d304ee-5c22-48e8-92e3-a6c146b404fa</dc:identifier>
+        <dc:title>El arte de no encajar</dc:title>
+        <dc:creator opf:file-as="Navarro, Noemí" opf:role="aut">Noemí Navarro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-13T04:54:42+00:00</dc:date>
+        <dc:description>&lt;div data-v-809af916="" class="text-container"&gt;&lt;div data-v-7fdc4342="" data-v-809af916="" class="formated-text"&gt;&lt;p style="text-align:center"&gt;&lt;b&gt;El libro testimonial de @Noemimisma&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Este es el libro que a Noemí le hubiera gustado tener entre las manos el día en que a su hijo Mateo le diagnosticaron TEA. Y el libro que la habría ayudado a entender su propio caso cuando, al cabo del tiempo, descubrió que también ella era una persona con autismo.&lt;/p&gt;&lt;p&gt;¿Cómo gestionar la incertidumbre? ¿Cómo afrontar el miedo que sientes como madre? ¿Cómo tratarlo con los hermanos? ¿Y con la pareja? ¿Qué decirle a la gente que quiere ayudar, pero no sabe cómo? ¿Qué recursos hay?&lt;/p&gt;&lt;p&gt;Pero en él no solo nos habla de esta realidad, sino que hace un recorrido por su vida y su maternidad.&lt;/p&gt;&lt;p&gt;En forma de entrevista, este potente &lt;i&gt;memoir &lt;/i&gt;lleno de entresijos emocionales pretende inspirar y ayudar con herramientas y recursos a todos aquellos lectores que tengan cerca un ser querido neurodivergente, para que -como declara la autora- «hagan de la vida de ambos una vida plena».&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-31T11:30:24.646044+00:00"/>
+        <meta name="calibre:title_sort" content="arte de no encajar, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

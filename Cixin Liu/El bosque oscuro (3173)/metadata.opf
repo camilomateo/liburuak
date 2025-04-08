@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54a2e3ac-e03c-4dfa-a709-5b25ffbedab3</dc:identifier>
+        <dc:title>El bosque oscuro</dc:title>
+        <dc:creator opf:file-as="Liu, Cixin" opf:role="aut">Cixin Liu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p style="text-align:center"&gt;&lt;B&gt;La esperada continuación de &lt;I&gt;El problema de los tres cuerpos&lt;/I&gt;, el  mejor libro de ciencia ficción y fantasía de 2016 según &lt;I&gt;El Periódico&lt;/I&gt;, y uno de los diez mejores libros de ficción de 2016 según  &lt;I&gt;Playground&lt;/I&gt;.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Ahora la Tierra tiene cuatro siglos para defenderse de lo inevitable: la  llegada de los Trisolaris. Los colaboracionistas humanos pueden haber  sido derrotados, pero los sofones permiten a los extraterrestres acceder  a la información de la humanidad, dejando al descubierto toda estrategia de defensa.&lt;/P&gt; &lt;P&gt;Solo la mente humana sigue siendo un secreto, y ahora también la clave  del acuciante plan que urdirán tres estadistas, un científico y un sociólogo.&lt;/P&gt; &lt;p style="text-align:center"&gt;&lt;B&gt;«La trilogía de los Tres Cuerpos» es el gran fenómeno editorial que  ha conquistado Occidente tras vender cuatro millones de ejemplares  solamente en China y haberse hecho con prescriptores de la talla de Barack Obama, George R.R. Martin o Mark Zuckeberg.&lt;/B&gt;&lt;/P&gt; &lt;p style="text-align:center"&gt;&lt;B&gt;Cixin Liu se considera el gran descubrimiento de la ciencia ficción  internacional tras  alzarse con el Premio Hugo 2015 a la mejor novela,  siendo la primera vez que una obra no escrita originariamente en inglés recibe este auténtico Nobel del género.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;La crítica ha dicho...&lt;/B&gt;&lt;BR&gt;«Increíblemente imaginativa, realmente interesante.»&lt;BR&gt;Barack Obama&lt;/P&gt; &lt;P&gt;«Un descubrimiento. Una mezcla única de especulación científica y filosófica, de teoría de la conspiración y cosmología.»&lt;BR&gt;George R.R. Martin&lt;/P&gt; &lt;P&gt;«Una tregua divertida a todos esos libros sobre economía y ciencias sociales que he estado leyendo últimamente.»&lt;BR&gt;Mark Zuckeberg&lt;/P&gt;</dc:description>
+        <dc:publisher>B DE BOOKS</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Trilogía de los Tres Cuerpos"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-03-20T13:03:14.599026+00:00"/>
+        <meta name="calibre:title_sort" content="bosque oscuro, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

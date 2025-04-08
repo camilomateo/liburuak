@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2702</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5eb24863-9678-41c3-b9b4-1a9bb77ab81e</dc:identifier>
+        <dc:title>Pequeños milagros</dc:title>
+        <dc:creator opf:file-as="Sparks, Nicholas" opf:role="aut">Nicholas Sparks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-24T00:00:00+00:00</dc:date>
+        <dc:description>El autor de El cuaderno de Noah vuelve a emocionarnos con una historia de amor verdadero, familia y la importancia de encontrar nuestro lugar en el mundo.Tanner ha pasado toda su vida yendo de un lugar a otro, sin pertenecer a ninguna parte. Cuando su abuela, poco antes de morir, revela el nombre y el lugar donde vivía el padre que nunca conoció, decide visitar Asheboro para dejar el pasado atrás y seguir con su vida.Kaitlyn sabe exactamente a donde pertenece. En Asheboro ha construido una vida para ella y sus hijos de la que está orgullosa, especialmente después de la crisis del divorcio. Pero cuando conoce al misterioso y atractivo Tanner no puede evitar sentir que algo faltaba en su vida hasta ahora.Jasper nunca volverá a sentir que pertenece a ningún lugar. Pasa sus días solo, atormentado por el trágico accidente que le arrebató lo que más quería, con la única compañía de su viejo perro Arlo.Los mundos de estos tres seres están a punto de colisionar, un encuentro...</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-11-07T11:45:05.039384+00:00"/>
+        <meta name="calibre:title_sort" content="Pequeños milagros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

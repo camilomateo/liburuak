@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1cf37f4d-b16e-4488-8f6c-1e0cbd2a1512</dc:identifier>
+        <dc:title>El caso del librero Erik Lange</dc:title>
+        <dc:creator opf:file-as="Johann, Petra" opf:role="aut">Petra Johann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una desaparición, un rumor desconcertante y un librero en el punto de mira&lt;/p&gt;
+&lt;p&gt;Después de que un suceso traumático ponga patas arriba su existencia, Erik Lange, de treinta y cuatro años, decide rehacer su vida en la ciudad bávara de Neukirchen, donde se pone al frente de una librería.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Todo parece volver a su cauce cuando un episodio siniestro lo pone de nuevo contra las cuerdas: la hija pequeña de un vecino ha desaparecido después de salir de casa.&lt;br&gt;La inspectora Judith Plattner y la agente Pia Meyer comienzan a buscar a la pequeña de inmediato. El círculo de sospechosos se reduce rápidamente al entorno más cercano de la niña, y Erik, el recién llegado, está en el punto de mira de la Policía. Cuando se produce un espantoso descubrimiento, la seguridad que el librero había encontrado en Neukirchen se convierte en un espejismo ¿Qué ocurrirá cuando el miedo se apodere de toda la ciudad?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Newton Compton Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-23T19:31:38.993094+00:00"/>
+        <meta name="calibre:title_sort" content="caso del librero Erik Lange, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

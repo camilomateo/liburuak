@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1576</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94850bdd-727d-4ee3-b64c-1f0479f51274</dc:identifier>
+        <dc:title>Todos los demonios</dc:title>
+        <dc:creator opf:file-as="Luis Roso" opf:role="aut">Luis Roso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Verano de 1960. Un alto cargo de una institución pública alemana es salvajemente asesinado en Madrid, y el gobierno español trata de evitar un incidente diplomático asignando la investigación a uno de los detectives estrella de la policía: el inspector Ernesto Trevejo. Acompañado de una misteriosa profesora norteamericana, el inspector Trevejo rastreará el origen de un cuadro expuesto en un museo de Zúrich, que parece ser la clave del crimen, y sin pretenderlo se verá envuelto en una espiral de sangre y secretos en torno a uno de los aspectos más sombríos del régimen franquista: los fugitivos nazis refugiados en territorio español desde el final de la Segunda Guerra Mundial. Con Todos los demonios, Luis Roso se consagra como uno de los más firmes valores de la novela negra nacional y teje una trama vertiginosa de venganzas personales, miseria moral, intereses económicos, antiguos odios y amores soterrados en la que vuelve a brillar su prosa incisiva, su ironía, su precisión y el exquisito cuidado en la ambientación histórica. Y también brilla Trevejo, ese policía descreído, práctico, determinado por su muy particular código ético que, en ese Madrid que pretende subirse al tren de la modernidad y en el que pululan nazis expatriados, antiguos «camisas viejas», arribistas y miembros de los servicios secretos estadounidenses, sigue sabiendo nadar y guardar la ropa.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alrevés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418584206</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59449605</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Inspector Ernesto Trevejo"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:51.797386+00:00"/>
+        <meta name="calibre:title_sort" content="Todos los demonios"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">463</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbfed39e-f176-478d-bf57-88e5a8efa4bb</dc:identifier>
+        <dc:title>La humanidad dividida</dc:title>
+        <dc:creator opf:file-as="Scalzi, John" opf:role="aut">John Scalzi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;Durante
+ años, la Unión Colonial ha protegido a sus ciudadanos del peligroso 
+universo que los rodea. Pero la población de la Tierra por fin conoce la
+ horrible verdad. La Unión ha usado la Tierra como una fuente de 
+reclutas para su guerra contra las fuerzas hostiles alienígenas y ha 
+mantenidos engañados a sus habitantes. Ahora, otras razas alienígenas 
+han formado una nueva alianza contra la Unión y han invitado a los 
+indignados habitantes de la Tierra a unirse a ellos.&lt;/p&gt;&lt;p&gt;Conseguir
+ la supervivencia de la Unión Colonial requerirá toda la astucia 
+política y sutileza que sus diplomáticos sean capaces de reunir. En 
+paralelo, Harry formará parte de un «Equipo B» encargado de enfrentarse a
+ lo inesperado.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;John Scalzi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-24T20:44:11.291617+00:00"/>
+        <meta name="calibre:title_sort" content="humanidad dividida, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

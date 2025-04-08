@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2820</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0646ba76-cdf5-4438-881c-7123b5da1bbf</dc:identifier>
+        <dc:title>No me cerrarán los labios</dc:title>
+        <dc:creator opf:file-as="Abia Castillo" opf:role="aut">Abia Castillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-07T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;&lt;strong&gt;Una mujer que luchó intensamente por la emancipación femenina.&lt;/strong&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;&lt;strong&gt;La revolución mexicana como telón de fondo. Una historia inspiradora sobre la búsqueda de libertad.&lt;/strong&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Hemila Galindo podría ser recordada por muchos motivos: alzó la voz a favor de la Revolución, accedió a la política y se convirtió en la secretaria de Venustiano Carraza, fundó la revista feminista Mujer Moderna, viajó fuera y dentro de México para promulgar su mensaje revolucionario, fue la primera mujer en presentarse a diputada federal en el país, abogó siempre por la educación, la sexualidad y la independencia económica de las mujeres, y luchó con fuerza por el sufragio femenino. Sin embargo, hoy conocemos de ella poco más que su nombre. &lt;/p&gt;
+&lt;p align="justify"&gt;Esta es la novela sobre la vida y la voz de Hermila Galindo, ejemplo de desafío a lo establecido e inspiración para quienes aún luchan por sus derechos y libertades, además de una historia sobre la importancia de la amistad femenina como lazo de solidaridad y acto de resistencia. &lt;/p&gt;
+&lt;p align="justify"&gt;«Creo firmemente que la mujer es digna de mejor suerte que aquella que le han deparado» —Hermila Galindo &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-20T10:22:12.115758+00:00"/>
+        <meta name="calibre:title_sort" content="No me cerrarán los labios"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

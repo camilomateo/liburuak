@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1205</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01336ac6-1526-4570-ab25-3b4a1ac8eac6</dc:identifier>
+        <dc:title>Lágrimas de cocodrilo</dc:title>
+        <dc:creator opf:file-as="Rosende, Mercedes" opf:role="aut">Mercedes Rosende</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Germán, un eterno perejil, sale de la cárcel con un encargo: el asalto a un camión blindado. Una sucesión de casualidades le depara la ayuda de Úrsula López, mujer con la que estuvo involucrado en el secuestro que lo llevó a prisión. Pero esta mujer, a la que la muerte y la gula no le son ajenas, antes necesita resolver algunas cosas. Desde un apartamento en la Ciudad Vieja espía a sus vecinos, limpia y contempla las estatuillas japonesas de la vitrina de su salón y trama una venganza. Ah, y Úrsula tiene hambre. Siempre tiene hambre. Mientras tanto, el abogado Antinucci, Ricardo el Roto y la comisaria Leonilda Lima, cada uno a su manera, se unen a este coro de pecado y de perdón. Después de Mujer equivocada, y con su ágil prosa habitual tintada de ironía, Mercedes Rosende vuelve a sorprendernos con otra historia de la incomparable Úrsula, sumergiéndonos en su particular universo, delicioso y sórdido a la vez, y cuyas andanzas se han traducido al francés, al alemán, al italiano y al inglés y que, de boca en boca, de mano en mano, reseña a reseña, se está convirtiendo, pese a sus kilos de más, a su eterna insatisfacción y a su humor —tal vez demasiado negro—, en un fenómeno en toda Europa.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Alrevés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419615169</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Úrsula"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-02-06T17:13:12.427956+00:00"/>
+        <meta name="calibre:title_sort" content="Lágrimas de cocodrilo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

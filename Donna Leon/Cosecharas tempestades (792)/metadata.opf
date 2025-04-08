@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">792</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b51447cf-5b7c-407c-81e5-f5c9c2544291</dc:identifier>
+        <dc:title>Cosecharás tempestades</dc:title>
+        <dc:creator opf:file-as="Leon, Donna" opf:role="aut">Donna Leon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-23T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En este nuevo caso, un crimen reciente transportará al comisario Brunetti a su pasado en la Italia convulsa de los años ochenta. «Una de las grandes escritoras de crimen y misterio.» The Times «Probablemente la mejor escritora de novela negra.» Chicago Tribune «La dama del crimen más popular de la actualidad.» El Mundo En una fría noche de noviembre, Guido Brunetti recibe una llamada de su colega, el ispettore Vianello, alertándole de que se ha visto una mano en uno de los canales de Venecia. Pronto se encuentra el cuerpo y se asigna a Brunetti la investigación del asesinato de este inmigrante indocumentado. Dado que no existe un registro oficial de la presencia del hombre en Venecia, se ve obligado a utilizar fuentes de información mucho más suculentas en la ciudad: los chismes y los recuerdos de las personas que conocieron a la víctima. Curiosamente, había estado viviendo en una pequeña casa en los terrenos de un palazzo propiedad de un profesor universitario, en el que Brunetti descubre libros que revelan el interés de la víctima por el budismo, los revolucionarios Tigres Tamiles y la última cosecha de terroristas políticos italianos, activos en la década de los ochenta. A medida que se amplía la investigación, Brunetti, Vianello, el comisario Griffoni y la signorina Elettra reúnen piezas de un rompecabezas que parecen tener poco en común, hasta que Brunetti tropieza con algo que lo transporta a su época de estudiante y le hace reflexionar sobre los ideales perdidos y los errores de la juventud, sobre la política y la historia italianas, y sobre los sucesos inesperados que a veces pueden conducir a una revelación.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432242205</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Comisario Brunetti"/>
+        <meta name="calibre:series_index" content="32"/>
+        <meta name="calibre:timestamp" content="2023-05-31T11:04:21.961038+00:00"/>
+        <meta name="calibre:title_sort" content="Cosecharás tempestades"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1938</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3454bd6-1152-4f05-9e80-1498312a7369</dc:identifier>
+        <dc:title>De la brevedad de la vida</dc:title>
+        <dc:creator opf:file-as="Séneca, Lucio Anneo" opf:role="aut">Lucio Anneo Séneca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Filosofía</dc:subject>
+        <dc:subject>Espiritualidad</dc:subject>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="17"/>
+        <meta name="calibre:timestamp" content="2024-09-05T16:03:57.850391+00:00"/>
+        <meta name="calibre:title_sort" content="De la brevedad de la vida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

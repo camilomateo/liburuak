@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7564f455-03ba-4967-9df8-1512ea147a48</dc:identifier>
+        <dc:title>La secta</dc:title>
+        <dc:creator opf:file-as="Camilla Läckberg &amp; Henrik Fexeux" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:creator opf:file-as="Camilla Läckberg &amp; Henrik Fexeux" opf:role="aut">Henrik Fexeux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-14T23:00:00+00:00</dc:date>
+        <dc:description>La investigadora Mina Dabiri y sus compañeros del departamento de Homicidios de la policía de Estocolmo están siendo puestos a prueba de nuevo: un niño ha desaparecido de un parque infantil y el caso comparte muchas similitudes con un secuestro anterior que tuvo un trágico desenlace.
+Dos años después de los dramáticos hechos que unieron sus vidas, Mina volverá a recurrir al mentalista Vincent Walder para resolver una investigación que, en esta ocasión, la involucrará de forma muy personal.
+Las desapariciones se suceden y el caso, plagado de códigos numéricos y mensajes en clave, parece seguir un patrón de tintes rituales. ¿Es posible que una secta esté detrás de todo ello? ¿quién maneja sus cuerdas? Y, por encima de todo, ¿cuál es su objetivo? Mientras Mina intenta mantener a salvo los recuerdos de su oscuro pasado y Vincent lucha por ignorar la sombra que esconde su alma, la coraza que ambos se han construido empieza, finalmente, a desmoronarse.</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408270225</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Camilla Läckberg&quot;: &quot;&quot;, &quot;Henrik Fexeux&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Mina Dabiri y Vincent Walder"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:01:58.430897+00:00"/>
+        <meta name="calibre:title_sort" content="La secta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

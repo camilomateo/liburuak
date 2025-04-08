@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">606</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8897ab88-89ee-48e0-9244-4a03085bad8d</dc:identifier>
+        <dc:title>Zona muerta</dc:title>
+        <dc:creator opf:file-as="Craven, M. W." opf:role="aut">M. W. Craven</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La fascinante y nueva entrega de la serie protagonizada por Washington Poe. &lt;/p&gt;
+&lt;p&gt;NOVELA GANADORA DEL PRESTIGIOSO CWA IAN FLEMING STEEL DAGGER AWARD 2022.NOMINADA AL MEJOR THRILLER DE AÑO POR THEAKSTON OLD PECULIAR.El sargento Washington Poe está en la corte, luchando contra el desalojo de su amada y aislada granja, cuando lo citan a un burdel callejero en Carlisle, donde un hombre ha sido asesinado a golpes con un bate de béisbol. Todo hace indicar que es un simple asesinato por parte de un proxeneta, pero su asistencia fue solicitada personalmente, por el tipo de personas que prefieren permanecer en las sombras. &lt;/p&gt;
+&lt;p&gt;A medida que Poe y su inseparable compañera Tilly Bradshaw profundizan en el caso, se enfrentan a preguntas aparentemente sin respuesta: a pesar de haber sido examinados exhaustivamente para un trabajo de alto perfil, ¿por qué no se verifica nada en los antecedentes de la víctima? ¿Por qué se dejó un pequeño adorno en la escena del crimen y por qué alguien del equipo de investigación lo robó? ¿Y cuál es la conexión con un atraco a un banco perfectamente ejecutado tres años antes, un atraco en el que no se llevaron absolutamente nada?BIBLIOTECA M.W. CRAVEN (SERIE WASHINGTON POE):1.- El show de las marionetas2.- Verano negro3.- El procurador4.- Zona muerta5.- Abandono«Mike Craven es la nueva voz con más fuerza de la ficción criminal británica.» Caro Ramsay«Washington Poe es el nombre destinado sobre el que todos los entusiastas de la ficción criminal hablarán: la respuesta británica a Harry Bosch.» Matt Hilton«Nada de lo que hayas leído te tendrá preparado para el único Washington Poe.» Keith Nixon&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial de Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419449450</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;M. W. Craven&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Washington Poe"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:41.308492+00:00"/>
+        <meta name="calibre:title_sort" content="Zona muerta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

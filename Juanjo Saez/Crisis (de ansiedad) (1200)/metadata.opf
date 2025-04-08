@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">557c8197-7985-4097-8944-6c22633502a8</dc:identifier>
+        <dc:title>Crisis (de ansiedad)</dc:title>
+        <dc:creator opf:file-as="Sáez, Juanjo" opf:role="aut">Juanjo Sáez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;Con &lt;I&gt;Crisis (de ansiedad)&lt;/I&gt; vuelve el Juanjo Sáez más trasgresor y políticamente incorrecto.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Derecho a la vivienda (de cartón), obreros «reformados» porque finalmente se han arrodillado, finales de túneles iluminados tenuemente por el brillo de los ojos de un lobo voraz, banqueros a los que se les ha metido un obrero en el ojo, banqueros desalmados que inventan pócimas para crear pobreza, banqueros que se lo pasan muy bien en medio de tanta crisis.&lt;/P&gt; &lt;P&gt;&lt;I&gt;Crisis (de ansiedad)&lt;/I&gt; reúne una selección de viñetas sobre &lt;B&gt;la crisis económica y sus efectos&lt;/B&gt; en la gente común publicadas en el diario catalán &lt;I&gt;Ara&lt;/I&gt;. Como complemento a estas viñetas además incluye &lt;B&gt;tres historietas inéditas basadas en la vida del propio Juanjo&lt;/B&gt; que tratan el tema de la crisis desde un ángulo más personal: &lt;I&gt;¿qué pasa cuando a tu padre, un señor mayor, se queda sin trabajo? y ¿cómo habla la gente en sus casas del «capitalismo»?&lt;/I&gt;&lt;/P&gt; &lt;P&gt;Format Fixed Layout especial...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788439728559</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Comic</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-05T17:03:56.438658+00:00"/>
+        <meta name="calibre:title_sort" content="Crisis (de ansiedad)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

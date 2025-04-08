@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1587</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7dde9a0-986a-49ea-92b1-60e7142637c7</dc:identifier>
+        <dc:title>Desaparición en Trégastel</dc:title>
+        <dc:creator opf:file-as="Bannalec, Jean-Luc" opf:role="aut">Jean-Luc Bannalec</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Sexta entrega de la serie de novela policíaca protagonizada por el comisario Dupin, con más de 3.000.000 de ejemplares vendidos en Alemania. El comisario Georges Dupin se enfrenta a la misión más difícil de su vida: descansar durante dos semanas enteras. Pero odia estar inactivo y aprovecha la mínima oportunidad para merodear por los alrededores, de modo que su incansable curiosidad no tarda en verse recompensada. Primero desaparece una estatua de la capilla del puerto, más tarde una diputada es agredida durante una manifestación y poco después una mujer se esfuma sin dejar rastro. Pero el golpe que perturba definitivamente la tranquilidad de Dupin es el hallazgo de un cadáver. La tentación es demasiado fuerte y el comisario empieza a investigar a escondidas. Parece que los casos criminales persiguen al comisario Dupin incluso en vacaciones. ¿O es al revés? Una investigación llena de ingenio y deliciosas descripciones de la vida en el hotel, del extraordinario paisaje de la costa de granito rosa y de las maravillas culinarias de la zona desfilan por las páginas de esta novela. Reseñas:«Si de algo se puede fiar uno en este mundo tan volátil es de que la sexta entrega del comisario Dupin volverá a encabezar la lista de los libros más vendidos.»Stern «Los casos criminales del comisario Dupin son apasionantes hasta el final.»Saarbrücker Zeitung «Escrito con fino humor y fácil de leer, un buen thriller para las vacaciones.»SR 3 Krimitipp «Compraría y leería este libro nuevamente en cualquier momento.»Amazon.de&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">oLdjDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788425356797</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07FFBJ95L</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Comisario Dupin"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:54.410975+00:00"/>
+        <meta name="calibre:title_sort" content="Desaparición en Trégastel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">582</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">521967ec-c546-4615-adec-c125030dc738</dc:identifier>
+        <dc:title>La guerra de mamá</dc:title>
+        <dc:creator opf:file-as="Macaluso, Sol" opf:role="aut">Sol Macaluso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-24T10:26:45+00:00</dc:date>
+        <dc:description>&lt;div data-v-809af916="" class="text-container"&gt;&lt;div data-v-809af916=""&gt;&lt;p&gt;&lt;strong&gt;¿Que
+ le está pasando a mamá? ¿Por que grita así? ¿Por que duerme tanto? ¿Por
+ que no quiere jugar conmigo? ¿Por que no me cocina? ¿Por que no me 
+ayuda con las tareas del colegio? ¿Por que no me quiere?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sol Macaluso, la periodista que nos hizo llorar por sus directos 
+desde la guerra de Ucrania, nos narra en estas páginas momentos 
+cruciales de una existencia marcada por la cruda realidad de convivir 
+con problemas de salud mental.&lt;/p&gt;
+&lt;p&gt;Desde niña, Sol tuvo que aprender a vivir con la enfermedad de su 
+madre, un trastorno bipolar que afectó a su infancia y juventud, y cuyas
+ consecuencias la llevaron a sufrir ella misma un episodio que cambiaría
+ su vida para siempre.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;La guerra de mamá&lt;/em&gt; nos ofrece un relato lleno de verdad, 
+sorprendente y único, sobre el estigma de las enfermedades psicológicas,
+ cómo afrontarlas y de que forma lo pueden gestionar las personas del 
+entorno.&lt;/p&gt;
+&lt;p&gt;Una historia sobre cómo el amor nos hace salir de los pozos más oscuros incluso cuando no podemos ver la luz.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491399100</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-28T11:16:50+00:00"/>
+        <meta name="calibre:title_sort" content="guerra de mamá, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

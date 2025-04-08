@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1761</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c94e4e8-60e5-4d1b-b6cf-d6205bc3749c</dc:identifier>
+        <dc:title>A veces miento</dc:title>
+        <dc:creator opf:file-as="Feeney, Alice" opf:role="aut">Alice Feeney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-10T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;PROXIMAMENTE UNA SERIE DE TV PROTAGONIZADA POR SARAH MICHELLE GELLAR COMO AMBER REYNOLDS.Mi nombre es Amber Reynolds. Hay tres cosas que debes saber de mí:1. Estoy en coma.2. Mi marido ya no me ama.3. En algunas ocasiones miento.Amber despierta en un hospital. No puede moverse. No puede hablar. No puede abrir sus ojos. Es capaz de escuchar a todos los que la rodean, pero ellos no lo saben. Amber no recuerda que fue lo que le sucedió, pero sospecha que su marido tuvo algo que ver en ello.Alternando entre su paralizado presente, la semana anterior a su accidente y un diario de su niñez veinte años atrás, este perturbador thriller psicológico hará preguntarnos: ¿Es mentira algo que consideramos que es cierto?Desconcertante, repleta de giros y muy convincente. Una novela ideal para los lectores de La chica del tren y La mujer en la ventana.«Una novela maravillosa.» A. J. Finn«Una voz intrépida y original.» Clare Mackintosh«Un thriller brillante.» Ali Land«Un thriller hermético con un final que te obligará a sentarte de nuevo para comenzar a leerlo una vez más.» Metro«Maravilloso, con un doble giro en su historia que hará que no puedas parar de leer.» Daily Mail«Intriga original y adictiva.» The Sun&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418417696</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:09+00:00"/>
+        <meta name="calibre:title_sort" content="A veces miento"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

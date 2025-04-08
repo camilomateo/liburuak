@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2626</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cd275ab-534a-4834-bfc5-68fcec43e59a</dc:identifier>
+        <dc:title>La buena reputación</dc:title>
+        <dc:creator opf:file-as="Martínez de Pisón, Ignacio" opf:role="aut">Ignacio Martínez de Pisón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-01T06:00:00+00:00</dc:date>
+        <dc:description>Samuel y Mercedes contemplan con preocupación el futuro de sus dos hijas ante la inminente descolonización de Marruecos y el regreso de los españoles del Protectorado a la Península. Estamos en Melilla, son los años cincuenta y, en ese contexto de cambio e incertidumbre, el matrimonio decide viajar a Málaga para establecerse en una España que comienza a abrirse lentamente a la modernidad. De la mano de cinco miembros de una misma familia, esta saga recorre treinta años de nuestra historia y transita por ciudades como Melilla, Tetuán, Málaga, Zaragoza o Barcelona. Los deseos e ilusiones de Samuel y Mercedes, de sus hijas y de sus nietos se verán condicionados por secretos inconfesables en una vida que transcurre fugaz e inesperada. «La buena reputación» es una novela sobre la herencia que recibimos del pasado y sobre el sentimiento de pertenencia, la necesidad de encontrar nuestro lugar en el mundo. Autor imprescindible de las letras españolas,Ignacio Martínez de Pisón da vida en estas páginas a unos personajes inolvidables, en un retrato nítido y veraz de la vida cotidiana y el devenir de una familia. Una lectura maravillosa a la que uno desea volver porque en ella vemos reflejadas nuestras propias vivencias y la nostalgia de aquellos momentos que se pierden en el recuerdo.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-04T08:51:32.196717+00:00"/>
+        <meta name="calibre:title_sort" content="buena reputación, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

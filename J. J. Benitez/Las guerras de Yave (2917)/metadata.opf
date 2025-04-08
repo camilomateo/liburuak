@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2917</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b60e550e-31d1-444f-8a19-8c7c9c00aff7</dc:identifier>
+        <dc:title>Las guerras de Yavé</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Con &lt;cite&gt;Las guerras de Yavé&lt;/cite&gt;, J. J. Benítez vuelve al Antiguo Testamento para romper con las verdades universales que rodean nuestra idea de Dios.&lt;/p&gt;&lt;p&gt;En &lt;cite&gt;Las Guerras de Yavé&lt;/cite&gt;, J. J. Benítez se enfrenta a millones de creyentes en las religiones judía, cristiana, protestante y musulmana. En un exhaustivo estudio, el investigador navarro analiza el Antiguo Testamento a la luz del fenómeno OVNI actual. La conclusión es demoledora: Yavé no era Dios. A decir verdad, nadie —nunca— habló tan claro sobre la Biblia.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">73218</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:16.728661+00:00"/>
+        <meta name="calibre:title_sort" content="guerras de Yavé, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Librosmania</title>
+  <id>Calibre2opds:taglist:L:13</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Librosmania" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <entry>
+    <title>Travesuras de la niña mala</title>
+    <id>calibre:book:106</id>
+    <updated>2023-01-18T00:43:26Z</updated>
+    <link href="../../Mario%20Vargas%20Llosa/Travesuras%20de%20la%20nina%20mala%20%28106%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Vargas%20Llosa/Travesuras%20de%20la%20nina%20mala%20%28106%29/Travesuras%20de%20la%20nina%20mala%20-%20Mario%20Vargas%20Llosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="592 KB" />
+    <author>
+      <name>Mario Vargas Llosa</name>
+      <uri>../authors_0/authors_71_Page_1.xml</uri>
+    </author>
+    <published>2006-05-15T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Librosmania" />
+    <category term="Lang:es" />
+    <summary>¿Cuál es el verdadero rostro del amor?
+
+     Ricardo ve cumplido, a una edad muy temprana, el sueño que en su Lima natal alimentó desde que tenía uso de razón: vivir en París. Pero el rencuentro con un amor de adolescencia lo cambiará todo. La joven,...</summary>
+    <link href="../book_0/book_106.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">963</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15932bbc-52b3-4fde-b90f-0a66d9daf701</dc:identifier>
+        <dc:title>Joyas de la familia</dc:title>
+        <dc:creator opf:file-as="Avilés, Sergio E." opf:role="aut">Sergio E. Avilés</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-24T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;«Mi cerebro no guarda secretos, ni recuerdos ya. Es una cárcel con techo de paja en la que los recuerdos reposan la parranda y después se van.»&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Rubén Pablo Alcocer tiene 54 años, es &lt;B&gt;detective privado&lt;/B&gt; y vive en &lt;B&gt;Saltillo.&lt;/B&gt; Pudo haber sido filósofo y, quizá, más le habría valido, pues su más reciente trabajo lo ha llevado a una situación por demás complicada: un hombre y una mujer lo tienen amarrado a una silla, le han colocado una bolsa de plástico sobre la cabeza y le han clavado palillos debajode las uñas. Sus captores quieren saber dónde ha quedado la antigua gargantilla de diamantes de su clienta, otrora propiedad de la &lt;B&gt;corona de Rumania&lt;/B&gt;. Para resistir el tormento, hace un recuento de la larga historia de &lt;B&gt;la alhaja&lt;/B&gt;, que se remonta hasta el siglo &lt;B&gt;XV&lt;/B&gt;, atravesando los destinos de diversas&lt;B&gt;dinastías europeas&lt;/B&gt;, y en la que participan tanto &lt;B&gt;Napoleón&lt;/B&gt; como &lt;B&gt;la reina Victoria&lt;/B&gt; y el mismo &lt;B&gt;conde Drácula&lt;/B&gt;. Cruzar este...</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073824866</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-16T15:28:53.959629+00:00"/>
+        <meta name="calibre:title_sort" content="Joyas de la familia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

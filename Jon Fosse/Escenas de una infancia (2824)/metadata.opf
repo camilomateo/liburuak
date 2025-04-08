@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2824</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c29eb3b6-bc90-4130-a04c-957ca24bd2d3</dc:identifier>
+        <dc:title>Escenas de una infancia</dc:title>
+        <dc:creator opf:file-as="Fosse, Jon" opf:role="aut">Jon Fosse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-26T17:14:15+00:00</dc:date>
+        <dc:description>Ellibro derelatos,algunos deellosautobiográficos, del Premio Nobel de Literatura Jon Fosse,célebrepor lacalidadminimalista einquietante desuescritura.«La obra de Fosse es un enigma que da vida y esperanza a quien la lee. Ilumina el alma humana como solo lo hacen los elegidos».Manuel VilasEscenas deunainfancia reúne, por primera vez en lengua española, una selección de la mejor prosa breve del Premio Nobel de Literatura. De los relatos aquí contenidos, algunos se adentran libremente en el terreno de lo autobiográfico, como las extraordinarias estampas de «Escenas de una infancia» o «El pelo de Line»: evocan primeras veces, amistades, pérdidas, el descubrimiento del deseo, instantes de felicidad y fracasos más o menos estrepitosos. Y entre estos relatos se intercalan joyas de otro tenor, como su primer texto publicado, «Él», o la inquietante y onírica novella «Y ya puede venir el perro», en la que una disputa entre vecinos desencadena un espiral de tensión y violencia que avanza...</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-23T13:00:53.373418+00:00"/>
+        <meta name="calibre:title_sort" content="Escenas de una infancia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">547</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bddf82f2-462e-4542-9e27-e485e2570be8</dc:identifier>
+        <dc:title>La octava hermana</dc:title>
+        <dc:creator opf:file-as="Dugoni, Robert" opf:role="aut">Robert Dugoni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-15T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-weight: 600; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #333333"&gt;En el juego de espías contra espías no hay ganadores.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #333333; background-color: #ffffff"&gt;Charles Jenkins, antiguo agente de operaciones de la CIA, se encuentra en una encrucijada. A sus sesenta años recién cumplidos, tiene una familia a la que cuidar, un bebé en camino… y una empresa de asesoría especializada en seguridad al borde de la quiebra. Un día se presenta en su casa su antiguo jefe con un encargo peligroso: viajar encubiertamente a Moscú y localizar a la agente rusa que, según sospechan, está aniquilando a los integrantes de una célula de espionaje estadounidense conocida como Las Siete Hermanas. La necesidad lo lleva a aceptar la misión y cruzar el Océano. Pero cuando localiza al cerebro que se esconde tras los asesinatos descubre que ni esa “Octava Hermana” ni el resto de la célula son quienes se suponía que eran. Con la amenaza del espionaje ruso en los talones, Jenkins idea entonces un temerario plan de fuga a través del mar Negro. Pronto se dará cuenta, sin embargo, de que la agencia para la que opera lo ha abandonado. Tendrá que pelear solo por su vida… enfrentándose a su propia nación.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Amazon Crossing</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Charles Jenkins"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-04-11T07:33:20.699110+00:00"/>
+        <meta name="calibre:title_sort" content="octava hermana, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

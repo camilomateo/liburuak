@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">856</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3850394d-cae3-4c62-b35b-4d77a819ee76</dc:identifier>
+        <dc:title>No me gusta mi cuello</dc:title>
+        <dc:creator opf:file-as="Ephron, Nora" opf:role="aut">Nora Ephron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-05T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Ephron en estado puro. El libro más emblemático de la autora. «Nunca te cases con un hombre del que no te gustaría divorciarte.» «Cualquier cosa que no te guste de tu cuerpo a los treinta y cinco años te producirá nostalgia a los cuarenta y cinco.» «Si un zapato no te vale en la zapatería, nunca te valdrá.» «Cuando los hijos llegan a la adolescencia, es importante tener un perro, para que alguien en casa se alegre de verte.» En esta obra rebosante de prácticos consejos y desenfadada sabiduría, la famosa escritora y cineasta Nora Ephron comparte sus recuerdos y se sincera sobre los temas más variopintos con su habitual sentido del humor y su inconfundible voz. Ephron nos habla de su experiencia como madre y del síndrome del nido vacío; del precio de vivir en su adorada Nueva York; de su paso por la Casa Blanca como becaria; del amor tras un divorcio; de cuánto odia su bolso; de envejecer, del tinte del pelo, la cinta de correr, las cremas que prometen milagros pero que no logran hacer desaparecer las arrugas de su cuello... Publicado en 2006 y convertido ya en un clásico contemporáneo, No me gusta mi cuello es el libro más querido y emblemático de una escritora tan influyente como inimitable. «Con una voz única, sus textos desgranan las alegrías y sinsabores de nuestros tiempos convirtiéndolos en hilarantes y conmovedoras reflexiones.» Laura Ferrero «Ephron realiza una pirueta tras otra para demostrarnos que lo increíblemente difícil es hacer que narrar parezca sencillo.» Lucía Lijtmaer «Nora Ephron es la clase de persona que te gustaría que te tocara al lado en una cena». Javier Aznar «Divertida, rápida, ingeniosa, inteligente y muy observadora.» Aloma Rodríguez (Letras Libres) «Hay pocas articulistas que hayan creado una escuela más poderosa. Lo que hace requiere de un talento fuera de lo común.» Sergio del Molino&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libros del Asteroide</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419089465</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">149165889</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">841908946X</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-12T12:02:11.545370+00:00"/>
+        <meta name="calibre:title_sort" content="No me gusta mi cuello"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

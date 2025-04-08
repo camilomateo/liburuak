@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1857</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">480201f4-a196-47c2-8ba3-f126826197a4</dc:identifier>
+        <dc:title>Galería de títeres</dc:title>
+        <dc:creator opf:file-as="Amor, Pita" opf:role="aut">Pita Amor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-13T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Los títeres de esta galería son seres deformes, reflejados en un espejo cóncavo. Yo sé qué es ese algo... porque ese algo ¡ soy yo! ¿Y cómo lo sé? Porque me llamo " Música" y me dedico a mover corazones. A veces soy algo íntimo,pero también me encuentras moviendo a las masas. No es por presumir, pero tengo millones de enamorados alrededor del mundo, y Marina Fogare, no es la excepción. Marina, una joven de 22 años, ha soñado conmigo su vida entera, pero la élite en la que vive y, sobre todo, las críticas de sus papás la han llevado por otro camino: el "que todos deberían seguir". En plena década de 1980, ella sale a bailar a la discoteca más famosa y cosmopolita de la ciudad, y para su sorpresa se encuentracon la última persona que hubiera esperado ver ahí: Milo Vega, un hombre guapísimo con pinta de peligro y que, además, es el vocalista de una de las bandas más famosas de rock. Ella sabe perfectamente quién es él y él no puede apartar la vista de ella. Después de esa noche, la vida de Marina da ungiro de 180 grados cuando la policía encuentra el cuerpo de una joven, en el mismo lugar donde ella y Milo habían estado. Una historia llena de amor, música y suspenso que definitivamente elevará el volumen de tus sentidos y acelerará el ritmo de tu corazón.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073848541</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:36+00:00"/>
+        <meta name="calibre:title_sort" content="Galería de títeres"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

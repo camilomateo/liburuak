@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1590</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3ecb410-28a5-4ae4-a8e0-7651a3fd6b6f</dc:identifier>
+        <dc:title>Aprendo a leer con las letras divertidas</dc:title>
+        <dc:creator opf:file-as="Ávila, Pilar López" opf:role="aut">Pilar López Ávila</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="a-text-bold"&gt;¡Aprende a leer con tus amigas las letras divertidas! &lt;br&gt;Aventuras&lt;/span&gt; llenas de &lt;span class="a-text-bold"&gt;humor&lt;/span&gt;, con &lt;span class="a-text-bold"&gt;textos rimados&lt;/span&gt; muy claros y &lt;span class="a-text-bold"&gt;sencillos&lt;/span&gt;, para iniciarse en la lectura &lt;span class="a-text-bold"&gt;en MAYÚSCULAS&lt;/span&gt;. &lt;br&gt;En
+ el colegio de las letras divertidas, la M maga, la O oculista, la R 
+guitarrista, la A aventurera y Súper S se enfrentarán al señor Sucio en 
+la búsqueda de un tesoro escondido.&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Bruño</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:55.120059+00:00"/>
+        <meta name="calibre:title_sort" content="Aprendo a leer con las letras divertidas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

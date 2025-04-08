@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2029</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34b977ef-e859-491b-b20b-97db45f42433</dc:identifier>
+        <dc:title>Claudio Oronoz</dc:title>
+        <dc:creator opf:file-as="Campos, Rubén M." opf:role="aut">Rubén M. Campos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="80"/>
+        <meta name="calibre:timestamp" content="2024-09-06T11:57:48.013296+00:00"/>
+        <meta name="calibre:title_sort" content="Claudio Oronoz"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2953</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73b70758-3ae3-4d99-9f30-b3426fa6aab4</dc:identifier>
+        <dc:title>La sicaria de Polanco</dc:title>
+        <dc:creator opf:file-as="Guerrero-Casasola, Joaquín" opf:role="aut">Joaquín Guerrero-Casasola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-15T00:00:00+00:00</dc:date>
+        <dc:description>«Digo a mi favor que no cometí más errores que cualquier madre, fui sobreprotectora, otras veces dura, pero siempre en el afán de prepararla para este mundo traidor e incierto. ¿Será que la traumé en vez de darle cariño, principios, amor?». «La sicaria de Polanco» es una novela negra ambientada en México, D. F. Ágil y plena de acción, está protagonizada por una mujer con personalidad arrolladora. Karina Shultz sorprenderá al lector, que será cómplice de todas las peripecias a que se enfrenta, de manera cada vez más atropellada, esta mujer convertida en asesina a sueldo. Karina tendrá que compaginar las distintas facetas de su vida. Sus hijos adolescentes le causan problemas, sus amigas necesitan su fortaleza y decisión, la relación con su novio podría estar atravesando un bache, y cuando menos se lo espera recibe una llamada que la obliga a dejarlo todo para atender el encargo recibido. Pero llegará un momento en que el frágil equilibrio en que vive se quebrará y todo empezará a desmoronarse alrededor de ella.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">78453</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:25:07.276119+00:00"/>
+        <meta name="calibre:title_sort" content="sicaria de Polanco, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

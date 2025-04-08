@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">454</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c05d188-2976-40cc-9d2d-7c0bb349c4ad</dc:identifier>
+        <dc:title>Mamá</dc:title>
+        <dc:creator opf:file-as="Edmundo Díaz Conde" opf:role="aut">Edmundo Díaz Conde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-22T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;UNA HISTORIA TAN CONMOVEDORA COMO REAL UNAS CARTAS SECRETAS QUE CAMBIARON SUS VIDAS.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Cuando Edmundo Díaz Conde, personaje y narrador de esta novela, es un adolescente, descubre las cartas de amor que oculta su madre, una modista de Alta Costura de Orense, firmadas por un escritor consagrado. Treinta años después de abandonarla y dejar de hablarse con ella, Edmundo busca al famoso novelista que propició la infidelidad de su madre, y tal vez su éxito en la Alta Costura, para acabar averiguando una verdad aún más dramática de lo que nunca imaginó. Vuelve el autor, quizá, más versátil de su generación para contarnos una historia sobre los sueños y las ilusiones, sobre el perdón y la redención. Una intriga inolvidable, rigurosamente documentada a través de las cartas reales, que sacudirá la fibra sensible del lector y lo mantendrá en suspenso hasta el final.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Algaida Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Edmundo Díaz Conde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-23T10:00:41.585130+00:00"/>
+        <meta name="calibre:title_sort" content="Mamá"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

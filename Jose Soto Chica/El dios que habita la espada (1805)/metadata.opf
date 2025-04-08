@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1805</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0849d220-e398-44af-981c-cdc9cb190fb4</dc:identifier>
+        <dc:title>El dios que habita la espada</dc:title>
+        <dc:creator opf:file-as="José Soto Chica" opf:role="aut">José Soto Chica</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-16T06:00:00+00:00</dc:date>
+        <dc:description>PREMIO EDHASA NARRATIVAS HISTÓRICAS 2021 En el año 568, Hispania, prácticamente olvidada por el Imperio romano y habitada por diversos pueblos debilitados y enfrentados entre ellos, es una tierra peligrosa en la que imperan el caos y la batalla. Pero Leovigildo tiene un sueño: un reino fuerte y unido, con un único rey y una única ley igual para todos. Un reino en paz para sus hijos, Hermenegildo y Recaredo. Aunque sólo Valtario, señor de la guerra implacable y mortal, cree en principio en el sueño del rey. A su alrededor, todo serán conjuras, traiciones y revueltas, que incluso le llegan desde el lecho conyugal, pues su esposa, la reina Gosvinta, tan cruel como inteligente, planea un futuro muy diferente. Viven una edad oscura, tiempos convulsos, a caballo entre el dios cristiano y el antiguo dios de los godos, el dios furioso, aquel que habita en la espada… Es ésta una novela de sangre, guerras y miedos, de espías y conjuras, pero también de fe, amor y esperanza. José Soto Chica, historiador consolidado y conocido, consigue, con El dios que habita la espada, una obra vibrante a la par que meditada, de prosa ágil y tremendo pulso narrativo, donde nos narra una época de la historia de España que aún hoy permanece, en parte, desconocida: el reinado de Leovigildo, primer rey de Hispania. Y lo hace con el corazón en la mano, descubriéndose como un impecable narrador del alma humana, con sus grandezas y sus miserias.</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435048071</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-27T07:07:34.117875+00:00"/>
+        <meta name="calibre:title_sort" content="dios que habita la espada, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

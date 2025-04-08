@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por V</title>
+  <id>Calibre2opds:taglist:N:1:V</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_1_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por V" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por N" />
+  <link href="./tags_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Novela" />
+  <entry>
+    <title>Venganza</title>
+    <id>calibre:book:1673</id>
+    <updated>2024-07-17T11:56:50Z</updated>
+    <link href="../../Benjamin%20Black/Venganza%20%281673%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benjamin%20Black/Venganza%20%281673%29/Venganza%20-%20Benjamin%20Black.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="289 KB" />
+    <author>
+      <name>Benjamin Black</name>
+      <uri>../authors_1/authors_1100_Page_1.xml</uri>
+    </author>
+    <published>2012-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="Quirke" />
+    <summary>Quirke [5]: Los Delahaye y los Clancy comparten una historia de alianza y ambición que pasa de padres a hijos. Y ahora, también de muerte y preguntas sin respuesta: ¿Por qué Victor Delahaye iba a necesitar a un testigo para suicidarse? El doctor Quir...</summary>
+    <link href="../book_1/book_1673.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Verano en rojo</title>
+    <id>calibre:book:2756</id>
+    <updated>2024-12-22T11:36:55Z</updated>
+    <link href="../../Berna%20Gonzalez%20Harbour/Verano%20en%20rojo%20%282756%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Berna%20Gonzalez%20Harbour/Verano%20en%20rojo%20%282756%29/Verano%20en%20rojo%20-%20Berna%20Gonzalez%20Harbour.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="503 KB" />
+    <author>
+      <name>Berna González Harbour</name>
+      <uri>../authors_1/authors_1802_Page_1.xml</uri>
+    </author>
+    <published>2012-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Comisaria María Ruiz" />
+    <summary>Comisaria María Ruiz [1]: Madrid, verano de 2010. Corren los días del Mundial de fútbol y, mientras los ojos de todos están puestos en los tortuosos avances del equipo de España en Sudáfrica, la comisaria María Ruiz se enfrenta a un tenebroso crimen:...</summary>
+    <link href="../book_2/book_2756.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La vegetariana</title>
+    <id>calibre:book:2664</id>
+    <updated>2024-10-22T07:58:42Z</updated>
+    <link href="../../Kang%20Han/La%20vegetariana%20%282664%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kang%20Han/La%20vegetariana%20%282664%29/La%20vegetariana%20-%20Kang%20Han.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="670 KB" />
+    <author>
+      <name>Kang Han</name>
+      <uri>../authors_1/authors_1753_Page_1.xml</uri>
+    </author>
+    <published>2007-10-29T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Realista" />
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <summary>Hacer preguntas, eso es para mí escribir. No escribo respuestas, simplemente me afano por redondear las preguntas, trato de permanecer mucho tiempo dentro de ellas. De rodillas, arrastrándome otras veces, espero llegar hasta el final, hasta el centro...</summary>
+    <link href="../book_2/book_2664.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los verbos auxiliares del corazón</title>
+    <id>calibre:book:381</id>
+    <updated>2023-03-04T02:11:46Z</updated>
+    <link href="../../Peter%20Esterhazy/Los%20verbos%20auxiliares%20del%20corazon%20%28381%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20Esterhazy/Los%20verbos%20auxiliares%20del%20corazon%20%28381%29/Los%20verbos%20auxiliares%20del%20coraz%20-%20Peter%20Esterhazy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="601 KB" />
+    <author>
+      <name>Péter Esterházy</name>
+      <uri>../authors_0/authors_274_Page_1.xml</uri>
+    </author>
+    <published>2017-03-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Realista" />
+    <category term="Psicológico" />
+    <category term="Lang:es" />
+    <summary>Un verdadero tour-de-force literario donde se mezclan los ingredientes más inesperados, brillantes y reveladores. «Ya cumplidos los treinta años, todo cambio es un símbolo detestable del pasaje del tiempo.» Dos hombres y una mujer, hermanos ya adulto...</summary>
+    <link href="../book_0/book_381.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

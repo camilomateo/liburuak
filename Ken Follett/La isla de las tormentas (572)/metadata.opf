@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd29754b-f1b2-415d-9864-ab8098e26ff4</dc:identifier>
+        <dc:title>La isla de las tormentas</dc:title>
+        <dc:creator opf:file-as="Follett, Ken" opf:role="aut">Ken Follett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1978-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;En su argumento, Follet nos habla de la “Operación Fortaleza”, trama de engaño que los aliados llevaron a cabo con el fin de que las fuerzas alemanas dieran por hecho la agrupación de un supuesto ejército en el sur de la costa inglesa, e interpretaran que el desembarco se produciría, con total seguridad, en la ciudad francesa de Calais.&lt;/p&gt;
+
+    &lt;p&gt;Follet toma como base de su historia esta misión real e introduce en su novela la posibilidad de que un espía alemán descubriera el falso ejército, construido en su totalidad de madera y tela, para engañar a los aviones espías que sobrevolaban la costa, y pusiera en alerta del ardid a las tropas alemanas echando a perder el factor sorpresa del desembarco en un punto contrario y alejado de Calais: Normandía.&lt;/p&gt;</dc:description>
+        <dc:publisher>DEBOLS!LLO</dc:publisher>
+        <dc:identifier opf:scheme="EPL">2402</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">2.2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Bélico</dc:subject>
+        <meta name="calibre:timestamp" content="2023-04-23T20:20:35+00:00"/>
+        <meta name="calibre:title_sort" content="isla de las tormentas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

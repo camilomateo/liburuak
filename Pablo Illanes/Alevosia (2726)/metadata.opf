@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2726</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df229401-b16a-4dca-844e-2d8715050026</dc:identifier>
+        <dc:title>Alevosía</dc:title>
+        <dc:creator opf:file-as="Pablo Illanes" opf:role="aut">Pablo Illanes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-09T06:00:00+00:00</dc:date>
+        <dc:description>La primera novela policial del creador de Perfil falso, la serie de habla no inglesa más vista de Netflix con más de 76 millones de visualizaciones
+
+La detective Jackie Bravo, del Precinto 9 de la ciudad de Nueva York, deberá enfrentar a un psicópata obsesionado con las celebridades de redes sociales. Los crímenes rituales de exitosos influencers pone en alerta a la detective Bravo y su equipo, que deberán enfrentar a un misterioso asesino serial. Su investigación no solo la llevará a descubrir el lado más sórdido detrás de la fama y el dinero de los famosos de moda, sino que también a enfrentar secretos de su propia vida personal.</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789566190455</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Acción y aventura</dc:subject>
+        <meta name="calibre:timestamp" content="2024-12-11T07:23:55.441937+00:00"/>
+        <meta name="calibre:title_sort" content="Alevosía"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

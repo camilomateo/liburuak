@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">902</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76daf22e-6550-4af2-9d60-454456547039</dc:identifier>
+        <dc:title>El Mapa</dc:title>
+        <dc:creator opf:file-as="Aquino, Chema de" opf:role="aut">Chema de Aquino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-22T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Roma, 1998. El detective Costa necesita una noche tranquila, pero sus aspiraciones se truncan cuando un desconocido le obliga a aceptar un encargo especial: desenterrar un cuerpo del cementerio... de alguien que aún no ha muerto.&lt;br&gt;&lt;br&gt;Roma, 1988. El Profesor Ripamonti ha invertido demasiado tiempo en estudiar un antiguo mapa sin encontrar nada relevante, sin embargo, una sola llamada le hace sospechar que el documento podría transformar la concepción del mundo... y que debe evitar que caiga en las manos equivocadas.&lt;br&gt;&lt;br&gt;La Ciudad Eterna unirá los destinos de Costa y Ripamonti, mientras se enfrentan a desafíos y revelaciones que cambiarán sus vidas para siempre. Sumérgete en la tercera entrega de la Saga Costa.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Costa"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-06-26T15:25:13.068086+00:00"/>
+        <meta name="calibre:title_sort" content="Mapa, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

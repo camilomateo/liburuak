@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">456</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b16d7c8-ef6f-4c36-ac9a-630b278bcffb</dc:identifier>
+        <dc:title>Hechizo</dc:title>
+        <dc:creator opf:file-as="Wolff, Tracy" opf:role="aut">Tracy Wolff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Nueva entrega de la Serie Crave, la saga juvenil del momento. Ya forma parte de ti. Lo siento bajo la piel... Después de Katmere, no debería sorprenderme nada. Aquí estoy, atrapada con el peor de los seres sobrenaturales, aquel al que temen incluso los demás monstruos: Hudson Vega. Puede que sea el hermano de Jaxon y puede que sea increíblemente atractivo, pero es una auténtica pesadilla para mí. Me está robando el corazón... Es una verdad universalmente conocida, al menos según Grace, que todo es culpa mía. Pero tengo la pequeña sospecha de que Grace no es tan humana como cree y de que es ella la que nos ha encerrado aquí. Ahora tenemos que trabajar juntos, no solo para sobrevivir, sino para salvar a todos aquellos a los que consideramos nuestra familia. Porque hay algo que nos conecta, algo más fuerte que el miedo... Y mucho más peligroso. Ya forma parte de ti.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408270652</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Tracy Wolff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Crave"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2023-03-23T10:00:42.321546+00:00"/>
+        <meta name="calibre:title_sort" content="Hechizo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

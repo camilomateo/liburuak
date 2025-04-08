@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1849</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60e32029-b0d7-42c3-aef4-23be9863c3da</dc:identifier>
+        <dc:title>Miguel de Unamuno. Biografía</dc:title>
+        <dc:creator opf:file-as="Jean-Claude Rabaté &amp;  Colette Rabaté" opf:role="aut">Jean-Claude Rabaté</dc:creator>
+        <dc:creator opf:file-as="Jean-Claude Rabaté &amp;  Colette Rabaté" opf:role="aut">Colette Rabaté</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-24T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Unamuno vivió comprometido con las luchas políticas que siguen vigentes hoy en día: la libertad de creación y de expresión, el respeto de los derechos del hombre, la cultura y la civilización, la secularización de la sociedad, la justicia social o la instrucción pública. La aventura vital y política de un intelectual constante y estrechamente vinculado a la Historia contemporánea de España.&lt;br&gt;La primera biografía de Unamuno en más de 40 años, basada en documentos inéditos.Un estudio imprescindible de un intelectual que se eleva por encima de las ideologías para afirmar unos valores universales de paz, libertad y defensa de la dignidad del hombre.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00634IWSE</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:12:35.521123+00:00"/>
+        <meta name="calibre:title_sort" content="Miguel de Unamuno. Biografía"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

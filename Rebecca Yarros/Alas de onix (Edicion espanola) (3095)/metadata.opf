@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3095</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d17c70a-5877-4840-89a0-348963224ff5</dc:identifier>
+        <dc:title>Alas de ónix (Edición española)</dc:title>
+        <dc:creator opf:file-as="Yarros, Rebecca" opf:role="aut">Rebecca Yarros</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-22T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;No te pierdas la tercera entrega de la serie Empíreo, tras Alas de sangre y Alas de hierro.&lt;/p&gt;
+&lt;p&gt;Tras casi dieciocho meses en el Colegio de Guerra Basgiath, Violet Sorrengail tiene claro que no queda tiempo para entrenar. Hay que tomar decisiones. La batalla ha comenzado y, con enemigos acercándose a las murallas e infiltrados en sus propias filas, es imposible saber en quién confiar.&lt;/p&gt;
+&lt;p&gt;Ahora Violet deberá emprender un viaje fuera de los límites de Aretia, en busca de aliados de tierras desconocidas que acepten pelear por Navarre. La misión pondrá a prueba su suerte, y la obligará a usar todo su ingenio y fortaleza para salvar lo que más ama: sus dragones, su familia, su hogar y a él.&lt;/p&gt;
+&lt;p&gt;Aunque eso signifique tener que guardar un secreto tan peligroso que podría destruirlo todo.&lt;/p&gt;
+&lt;p&gt;Navarre necesita un ejército. Necesita poder. Necesita magia. Y necesitará algo que solo Violet puede encontrar: la verdad.&lt;/p&gt;
+&lt;p&gt;Pero una tormenta se aproxima… y no todos sobrevivirán a su furia. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DJGRP8GJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Empíreo"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-02-25T19:50:24.533726+00:00"/>
+        <meta name="calibre:title_sort" content="Alas de ónix (Edición española)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

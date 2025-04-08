@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a187490-587e-4880-befc-8c6e954dceb5</dc:identifier>
+        <dc:title>Nada de esto es verdad</dc:title>
+        <dc:creator opf:file-as="Lisa Jewell" opf:role="aut">Lisa Jewell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-07-20T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Alix Summer, presentadora de un popular pódcast de true crime, celebra su cuadragésimo quinto cumpleaños en un pub. Allí conoce a Josie Fair, quien también está celebrando su cumpleaños, y descubren que nacieron el mismo día en el mismo hospital. Unos días más tarde vuelven a coincidir, esta vez fuera del instituto de los hijos de Alix. Josie ha estado escuchando todos sus programas y cree que su vida podría ser un tema interesante para su pódcast. Lo que de entrada parece una buena idea, poco a poco se va convirtiendo en algo inquietante y extraño. Josie consigue meterse en la vida de Alix? y en su hogar, convirtiéndose Alix en la protagonista de su propio pódcast. ¿Quién es realmente Josie Fair? ¿Y qué oculta?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T05:58:41.943839+00:00"/>
+        <meta name="calibre:title_sort" content="Nada de esto es verdad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

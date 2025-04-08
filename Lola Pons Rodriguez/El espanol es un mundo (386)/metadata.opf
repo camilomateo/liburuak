@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2cef61e-6915-415c-80f6-dc24175e1fe8</dc:identifier>
+        <dc:title>El español es un mundo</dc:title>
+        <dc:creator opf:file-as="Lola Pons Rodríguez" opf:role="aut">Lola Pons Rodríguez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Nuevo libro de Lola Pons Rodríguez, autora de Una lengua muy muy larga y El árbol de la lengua. En su diversidad dialectal, en su realidad cambiante, en todo lo que los textos del pasado nos revelan de cómo antes se veía lingüísticamente la realidad, las lenguas son, todas ellas, un mundo. En este libro se habla de varias lenguas, pero sobre todo se fija la atención en una: el español. Lola Pons Rodríguez reúne en estas páginas ochenta textos con reflexiones, avisos y opiniones sobre la lengua española en su historia y en su situación actual. Este libro muestra una mirada profunda que viaja del presente al pasado, y viceversa, para comprender cómo se expresaban nuestros antepasados cuando no se usaban palabras que hoy consideramos fundamentales, la variación geográfica de los sonidos del español, la importancia de los libros en la transmisión de la cultura, la manipulación del lenguaje en el campo de la política o cómo, de un año para otro, surgen nuevas palabras prestadas de otras lenguas. La autora observa la realidad con las gafas de la lengua puestas y, desde la política a la sociedad, demuestra que todo puede ser explicado en clave lingüística. El español es un mundo aborda con maestría las múltiples dimensiones de nuestro idioma. Su rigor histórico, la originalidad y la claridad de la narración certifican la soberbia madurez de Lola Pons Rodríguez como ensayista, y la consolidan como la gran divulgadora de la filología española a nivel global.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Arpa Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Lola Pons Rodríguez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-04T13:11:46.700929+00:00"/>
+        <meta name="calibre:title_sort" content="español es un mundo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

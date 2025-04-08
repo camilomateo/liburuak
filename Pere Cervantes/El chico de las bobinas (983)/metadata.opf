@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">983</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b59702a9-dc7d-4b3d-b227-70fc62d228e8</dc:identifier>
+        <dc:title>El chico de las bobinas</dc:title>
+        <dc:creator opf:file-as="Cervantes, Pere" opf:role="aut">Pere Cervantes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-03T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt; &lt;p&gt;Barcelona, 1945. Nil Roig es un chiquillo que se pasa el día en bicicleta transportando de un cine a otro viejas bobinas de películas. El día de su decimotercer cumpleaños es testigo de un crimen cometido en el portal de su casa. Mientras el asesino huye después de haberlo amenazado de muerte en caso de no mantener la boca cerrada, el moribundo le entrega el misterioso cromo de un actor de cine de la época; un objeto perseguido y anhelado por un excomandante de la Gestapo y un policía sin escrúpulos. El hecho de que el moribundo le dé el cromo a Nil pronunciando el nombre de David, el padre desaparecido del muchacho, arrastrará a este a resolver un secreto del pasado por el que pagará un alto precio.En una Barcelona de claroscuros, El chico de las bobinas nos habla de la incomparable fortaleza de esas mujeres, víctimas de la guerra, que enseñaron al mundo cómo sobrevivir, y de esas salas de cine de barrio que permitieron soñar en los años de plomo y se convirtieron en refugio de infancias maltrechas.Un thriller nostálgico cargado de emotividad y misterio que nos muestra la fragilidad y la ambigüedad de la naturaleza humana.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-23T10:29:03.787349+00:00"/>
+        <meta name="calibre:title_sort" content="chico de las bobinas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

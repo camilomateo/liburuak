@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2766</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">622ccdaa-b4c2-451a-a273-e2cd1128d091</dc:identifier>
+        <dc:title>La muerte no existe</dc:title>
+        <dc:creator opf:file-as="Allix, Stéphane" opf:role="aut">Stéphane Allix</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-19T14:03:58+00:00</dc:date>
+        <dc:description>¿QUÉ OCURRE CUANDO MORIMOS?
+¿QUÉ PASA CON NUESTRA CONSCIENCIA?
+¿SOBREVIVE A LA MUERTE CEREBRAL?
+Estas inquietantes preguntas son las que Stéphane Allix se planteó tras la muerte de su hermano. Desde ese momento, utilizó todas sus habilidades y su instinto de periodista para tratar de dilucidar el misterio de la consciencia.
+Las investigaciones en medicina y neurociencia, así como los innumerables fenómenos inexplicables en torno a la muerte, sugieren que nuestra consciencia posee una dimensión espiritual. ¿Es aquello que el misticismo denomina «alma»? Para resolver este misterio, el autor decide experimentar por sí mismo esta dimensión a través de vías alternativas y prácticas espirituales milenarias como el chamanismo.
+Este es el estudio de un periodista, pero también el de un hombre y un padre que se preocupa por transmitir a su hija el alivio que ha sentido tras su viaje a las fronteras de la vida.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410640634</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-29T10:37:15.138058+00:00"/>
+        <meta name="calibre:title_sort" content="muerte no existe, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

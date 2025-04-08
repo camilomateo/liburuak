@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0511873-0544-4849-b572-94bd2cb73b7f</dc:identifier>
+        <dc:title>La mujer con el tatuaje</dc:title>
+        <dc:creator opf:file-as="Stuart, Anna" opf:role="aut">Anna Stuart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-13T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Contra todo pronóstico, Ester Pasternak ha sobrevivido al horror de Auschwitz. Pero, pese a haber salido con vida, su desolador viaje solo acaba de empezar. En el campo dio a luz a Pippa, una pequeña criatura de pelo rubio que los nazis le arrancaron de los brazos y entregaron a una familia alemana. Ahora que la guerra ha terminado, Ester solo piensa en encontrarla.&lt;br&gt;El problema es que Europa está sumida en el caos, muchísimas familias han sido separadas y todo el mundo anhela desesperadamente encontrar a sus seres queridos. Ester, como todos ellos, busca los ojos azules de su pequeña en cada orfanato y en cada hospital.&lt;br&gt;Los meses y los años pasan y las posibilidades disminuyen cada día. Ester se pregunta si Pippa sigue viva o si, por el contrario, el milagro que parecía haberla salvado solo la puso en peligro... La única pista con la que cuenta Ester es el número tatuado que ambas tienen en la piel.&lt;/p&gt;
+&lt;p&gt;¿Conseguirá encontrar a una niña con su mismo tatuaje? ¿O será demasiado tarde?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Newton Compton Editores</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CVMSLGW7</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-22T12:04:43.927151+00:00"/>
+        <meta name="calibre:title_sort" content="mujer con el tatuaje, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

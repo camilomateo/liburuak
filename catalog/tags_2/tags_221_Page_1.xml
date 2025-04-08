@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Courtship</title>
+  <id>Calibre2opds:taglist:C:221</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_221_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Courtship" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por C" />
+  <entry>
+    <title>Pride and Prejudice</title>
+    <id>calibre:book:2073</id>
+    <updated>2024-09-06T02:09:08Z</updated>
+    <link href="../../Jane%20Austen/Pride%20and%20Prejudice%20%282073%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jane%20Austen/Pride%20and%20Prejudice%20%282073%29/Pride%20and%20Prejudice%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="379 KB" />
+    <author>
+      <name>Jane Austen</name>
+      <uri>../authors_1/authors_1484_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="England" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Young" />
+    <category term="Women" />
+    <category term="Love" />
+    <category term="Stories" />
+    <category term="Sisters" />
+    <category term="Domestic" />
+    <category term="Courtship" />
+    <category term="Social" />
+    <category term="classes" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [282]:</summary>
+    <link href="../book_2/book_2073.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

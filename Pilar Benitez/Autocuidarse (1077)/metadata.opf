@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1077</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adf3dfcb-b0e5-4cd4-b191-159b33111701</dc:identifier>
+        <dc:title>Autocuidarse</dc:title>
+        <dc:creator opf:file-as="Benítez, Pilar" opf:role="aut">Pilar Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-09T01:10:57+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;span class="a-text-bold"&gt;El
+ cambio acelerado de los últimos tiempos está generando en las personas 
+un impacto muy importante a nivel emocional y físico. Pero, ¿cómo 
+podemos adaptarnos a un mundo que cambia a toda velocidad sin sufrir 
+estrés, ansiedad, cansancio crónico, desmotivación y sin perder salud 
+física?&lt;/span&gt;&lt;br&gt; El secreto está en abrirse al autocuidado. 
+Aprender a cuidar de uno mismo para ir optimizando nuestra naturaleza y 
+hacer frente a lo que se nos presenta con serenidad y energía. Con 
+conciencia de cada paso, para que la vida no se convierta en un conjunto
+ de problemas por resolver y se pase de largo sin apenas disfrutarla.&lt;br&gt;
+ ¿Y cómo conseguirlo? En este libro descubrirás que puedes hacerlo a 
+través de tus hábitos de autocuidado. Tomarás conciencia de su enorme 
+poder, ya que son los que te permiten o inhiben la realización y el 
+perfeccionamiento de tu naturaleza y potencial. Estos pequeños hábitos 
+son los que te guiarán a una vida más plena, equilibrada y saludable. &lt;br&gt;
+ Todo empieza siempre con una decisión. Si estás decidido a contribuir 
+de manera consciente al propio bienestar y salud personal, este libro te
+ ofrecerá las pautas para conseguirlo y empezar a ver resultados en 
+apenas unas semanas.  &lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-11-20T19:26:23+00:00"/>
+        <meta name="calibre:title_sort" content="Autocuidarse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1915</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9def34f8-860c-43d2-a99b-c751e6ef4648</dc:identifier>
+        <dc:title>Diccionario Filosófico Vol 1</dc:title>
+        <dc:creator opf:file-as="Voltaire" opf:role="aut">Voltaire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="14"/>
+        <meta name="calibre:timestamp" content="2024-09-05T16:00:42.876539+00:00"/>
+        <meta name="calibre:title_sort" content="Diccionario Filosófico Vol 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

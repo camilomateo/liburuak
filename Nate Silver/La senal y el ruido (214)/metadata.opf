@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">214</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eacab233-b39c-4ec8-a8c7-f56667cb5c21</dc:identifier>
+        <dc:title>La señal y el ruido</dc:title>
+        <dc:creator opf:file-as="Silver, Nate" opf:role="aut">Nate Silver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;El ser humano está obligado a planificar. A prever lo que podría ocurrir, para estar preparado. Pero el mundo cada vez va más rápido, y la información de que disponemos se acumula a un ritmo cada vez mayor. Cualquier intento de organizar los datos que nos llegan y de utilizarlos para dilucidar qué podría ocurrir a continuación puede llevar al colapso y al aturdimiento.&lt;/span&gt;&lt;br style="font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;&lt;span style="font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;En este libro, Nate Silver, especialista en predicciones —saltó a la fama durante la segunda campaña presidencial de Obama, en la que predijo casi al milímetro el número de votos que le darían la victoria— investiga cómo podemos distinguir, en medio del universo de datos que nos rodean, la información que es valiosa de la que no lo es. Visita para ello a expertos en todo tipo de áreas (personas cuyo trabajo consiste en prevenir huracanes y personas que tratan de&lt;/span&gt;&lt;br&gt;&lt;span style="font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;prever quién ganará un partido determinado de béisbol; personas que juegan al póker y tratan de predecir los movimientos del contrario y personas que trabajan en el mercado de valores y tratan de adelantarse a las subidas y bajadas del mercado) y recopila sus métodos para aprender de ellos.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Península</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Nate Silver&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-27T09:34:31.248297+00:00"/>
+        <meta name="calibre:title_sort" content="señal y el ruido, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

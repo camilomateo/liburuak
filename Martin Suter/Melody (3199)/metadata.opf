@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">752a08c3-db2f-4171-bfa0-c30e6241eb54</dc:identifier>
+        <dc:title>Melody</dc:title>
+        <dc:creator opf:file-as="Martin Suter" opf:role="aut">Martin Suter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En una villa a las afueras de Zúrich vive el anciano Dr. Stotz, rodeado de retratos de una mujer joven. Melody fue una vez su prometida, pero poco antes de la boda, hace más de cuarenta años, ella desapareció. Stotz nunca se recuperó de su pérdida y ha dedicado su vida a buscarla. Sabedor de que le quedan pocos meses de vida, y con el fin de poner orden en su patrimonio y su legado, Stotz contrata a un joven que necesita urgentemente un trabajo. Poco a poco, a medida que se adentra en los papeles, Tom empieza a preguntarse si Stotz es realmente quien pretende ser, si su vida ha sido la que él cuenta y si Melody existió. Melody es un thriller contemporáneo en el que la verdad tiene muchas caras. Una historia maravillosamente romántica, una lectura cautivadora, ambientada en Zúrich y Grecia, cuya trama da innumerables giros y vueltas que mantienen a los lectores clavados en el sillón hasta la última página.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:05.530469+00:00"/>
+        <meta name="calibre:title_sort" content="Melody"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

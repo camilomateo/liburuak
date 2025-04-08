@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fbaf586-5062-462f-8a90-7fef7b39eb9a</dc:identifier>
+        <dc:title>In Vino Veritas. En el vino está la verdad</dc:title>
+        <dc:creator opf:file-as="Gasull, Virginia" opf:role="aut">Virginia Gasull</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;La desaparición de varias botellas de vino históricas llevaran a la inspectora Oteiza de la Brigada de Patrimonio por un apasionante viaje de descubrimiento de la cultura del vino, de las grandes historias de bodegas, viñas y viticultores franceses, de su colaboración con la Resistencia durante la Segunda Guerra Mundial y de la existencia de obras de arte que despertaron y aún despiertan el interés mundial.&lt;/p&gt;
+&lt;p class="description"&gt;Historia, vino, arte, intriga, amor, acción y erotismo de alta intensidad para una novela que cuenta con todos los ingredientes para atrapar al lector hasta la última página.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d53ee39f-78c1-4a8b-9fe0-658cd08eb0ee</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:45+00:00"/>
+        <meta name="calibre:title_sort" content="In Vino Veritas. En el vino está la verdad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

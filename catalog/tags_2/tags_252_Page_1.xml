@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Psychological</title>
+  <id>Calibre2opds:taglist:P:252</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_252_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Psychological" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_P_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por P" />
+  <entry>
+    <title>Crime and Punishment</title>
+    <id>calibre:book:2475</id>
+    <updated>2024-09-09T10:34:38Z</updated>
+    <link href="../../Fyodor%20Dostoyevsky/Crime%20and%20Punishment%20%282475%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fyodor%20Dostoyevsky/Crime%20and%20Punishment%20%282475%29/Crime%20and%20Punishment%20-%20Fyodor%20Dostoyevsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <author>
+      <name>Fyodor Dostoyevsky</name>
+      <uri>../authors_1/authors_1651_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Detective" />
+    <category term="and" />
+    <category term="mystery" />
+    <category term="Stories" />
+    <category term="Psychological" />
+    <category term="Fiction" />
+    <category term="Saint" />
+    <category term="Petersburg" />
+    <category term="(Russia)" />
+    <category term="--" />
+    <category term="Murder" />
+    <category term="Crime" />
+    <category term="aspects" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2475.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Metamorphosis</title>
+    <id>calibre:book:2512</id>
+    <updated>2024-09-09T10:34:46Z</updated>
+    <link href="../../Franz%20Kafka/Metamorphosis%20%282512%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Franz%20Kafka/Metamorphosis%20%282512%29/Metamorphosis%20-%20Franz%20Kafka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="99 KB" />
+    <author>
+      <name>Franz Kafka</name>
+      <uri>../authors_1/authors_1575_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Psychological" />
+    <category term="Fiction" />
+    <category term="Metamorphosis" />
+    <category term="--" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2512.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Strange Case of Dr. Jekyll and Mr. Hyde</title>
+    <id>calibre:book:2078</id>
+    <updated>2024-09-06T02:09:08Z</updated>
+    <link href="../../Robert%20Louis%20Stevenson/The%20Strange%20Case%20of%20Dr.%20Jekyll%20and%20%282078%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Louis%20Stevenson/The%20Strange%20Case%20of%20Dr.%20Jekyll%20and%20%282078%29/The%20Strange%20Case%20of%20Dr.%20Jekyll%20-%20Robert%20Louis%20Stevenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="145 KB" />
+    <author>
+      <name>Robert Louis Stevenson</name>
+      <uri>../authors_1/authors_1413_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Science" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="London" />
+    <category term="(England)" />
+    <category term="--" />
+    <category term="Physicians" />
+    <category term="Psychological" />
+    <category term="Self-experimentation" />
+    <category term="in" />
+    <category term="medicine" />
+    <category term="Multiple" />
+    <category term="personality" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [289]:</summary>
+    <link href="../book_2/book_2078.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Mill on the Floss</title>
+    <id>calibre:book:2536</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../George%20Eliot/The%20Mill%20on%20the%20Floss%20%282536%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20Eliot/The%20Mill%20on%20the%20Floss%20%282536%29/The%20Mill%20on%20the%20Floss%20-%20George%20Eliot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="577 KB" />
+    <author>
+      <name>George Eliot</name>
+      <uri>../authors_1/authors_1677_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="England" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Psychological" />
+    <category term="Young" />
+    <category term="Women" />
+    <category term="Love" />
+    <category term="Stories" />
+    <category term="Domestic" />
+    <category term="Siblings" />
+    <category term="Conflict" />
+    <category term="of" />
+    <category term="generations" />
+    <category term="Vendetta" />
+    <category term="Loss" />
+    <category term="(Psychology)" />
+    <category term="Water" />
+    <category term="mills" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2536.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

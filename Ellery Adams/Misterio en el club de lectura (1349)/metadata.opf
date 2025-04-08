@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1349</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67e04118-f932-46d0-a01a-49fe57c9f1d1</dc:identifier>
+        <dc:title>Misterio en el club de lectura</dc:title>
+        <dc:creator opf:file-as="Adams, Ellery" opf:role="aut">Ellery Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-24T06:00:00+00:00</dc:date>
+        <dc:description>Miracle Springs es famosa por sus aguas termales y su balneario, en torno a los cuales gira la vida de esta tranquila localidad. Pero cuando los tratamientos convencionales no obtienen resultados, la gente acude a la biblioterapeuta local, Nora Pennington, librera de Miracle Books, quien tiene un don muy especial: es capaz de recomendar a cada persona el libro perfecto para sanar sus problemas. Ese es precisamente el camino que ha seguido Neil Parrish, pero cuando se dirige a su reunión con Nora muere arrollado por un tren. Convencida de que no ha sido un suicidio, Nora decide fundar El Club Secreto de la Lectura y la Merienda con otros vecinos de Miracle Springs unidos por el amor por los dulces y la lectura; un grupo construido alrededor de sus secretos y, sobre todo, dispuesto a desvelar qué se oculta tras la muerte del empresario.</dc:description>
+        <dc:publisher>13insurgentes</dc:publisher>
+        <dc:identifier opf:scheme="13ID">50002477</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">384</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Secretos, libros y bollos"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:34.813545+00:00"/>
+        <meta name="calibre:title_sort" content="Misterio en el club de lectura"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

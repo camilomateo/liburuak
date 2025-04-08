@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">262</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7972f70e-2c89-45cc-8adc-14573a31dae1</dc:identifier>
+        <dc:title>El espíritu del hielo</dc:title>
+        <dc:creator opf:file-as="Nordbo, Mads Peder" opf:role="aut">Mads Peder Nordbo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-15T07:06:43+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;&lt;span&gt;El
+ padre del joven periodista Matthew Cave, Tom, ha estado escondido 
+durante años, tras ser acusado de un doble asesinato. Cuando la hermana 
+de su compañera y amiga Tupaarnaq desaparece, se volverá a abrir el caso
+ de su progenitor y Matthew deberá investigar si es el responsable final
+ de todo ello, ya que la policía de Groenlandia y el ejército 
+estadounidense andan tras su rastro.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Cuando comienza a
+ desentrañar una terrible conspiración, deberá enfrentarse a serias 
+preguntas sobre su joven amiga Tupaarnaq, y si su anhelo de venganza no 
+ha ido demasiado lejos.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mads Peder Nordbo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-02T20:06:34.096006+00:00"/>
+        <meta name="calibre:title_sort" content="espíritu del hielo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

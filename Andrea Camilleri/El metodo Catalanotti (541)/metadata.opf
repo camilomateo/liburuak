@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e82a2ae3-efbd-4a4e-9d08-75029e1e25e1</dc:identifier>
+        <dc:title>El método Catalanotti</dc:title>
+        <dc:creator opf:file-as="Andrea Camilleri" opf:role="aut">Andrea Camilleri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;
+  &lt;b&gt;Antepenúltima entrega del comisario Montalbano. &lt;/b&gt;
+  &lt;br /&gt;
+  &lt;b&gt;Un misterio apasionante que sabe a puro teatro.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Es una velada como cualquier otra para el incansable mujeriego Mimí
+  Augello en la alcoba de su enésima amante. Pero cuando el marido de
+  ésta  regresa inesperadamente a casa, la fiel mano derecha del
+  comisario  Montalbano decide deslizarse por la ventana y buscar
+  refugio en el piso  de abajo. De un peligro a otro: en el apartamento
+  vislumbra en la  oscuridad un cuerpo tendido en la cama, elegantemente
+  vestido y rígido  por el frío de la muerte. A la mañana siguiente, una
+  llamada a la comisaría notifica el hallazgo de un cadáver bajo las
+  mismas  circunstancias, excepto que no coincide con el primer muerto.
+  ¿Cómo ha  podido pasar esto? ¿Y qué ha sucedido con el otro cuerpo?
+  ¿Por qué toda  la escena del crimen tiene algo extraño que sabe a teatro?&lt;/p&gt;
+&lt;p&gt;
+  &lt;b&gt;La crítica ha dicho...&lt;/b&gt;
+  &lt;br /&gt;«Si no te gusta Andrea Camilleri es que todavía no lo has leído.
+  Cada  novela de esta serie adictiva y completamente mágica, ambientada
+  en  Sicilia y protagonizada por un detective único en el género, te
+  refresca  la mente como una inyección de oxígeno puro. Luminosa,
+  colorida,  rebosante de ingenio… limpia y fresca como el marisco
+  mediterráneo: una  novela, en suma, transportadora. Larga vida a
+  Camilleri, larga vida a Montalbano.»&lt;br /&gt;A.J. Finn, autor del
+  superventas &lt;i&gt;The Woman in the Window&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;«El idiosincrásico Montalbano es absolutamente enternecedor.»&lt;br /&gt;
+  &lt;i&gt;The New York Times&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;«Camilleri es un autor tan hábil y encantador como su protagonista detective.»&lt;br /&gt;
+  &lt;i&gt;The Washington Post Book World&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;«Camilleri te muestra todo el pasado de un personaje con medio párrafo.»&lt;br /&gt;
+  &lt;i&gt;The New Yorker&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;«Las novelas de Andrea Camilleri respiran los paisajes, el sentido
+  del  humor y la desesperación que flota en el aire de
+  Sicilia.»&lt;br /&gt;Donna Leon&lt;/p&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418363313</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Andrea Camilleri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Comisario Montalbano"/>
+        <meta name="calibre:series_index" content="31"/>
+        <meta name="calibre:timestamp" content="2023-04-06T19:50:05.099121+00:00"/>
+        <meta name="calibre:title_sort" content="método Catalanotti, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

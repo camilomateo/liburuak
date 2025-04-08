@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3026</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28881914-534d-4b61-8ff7-78d62d3b2610</dc:identifier>
+        <dc:title>Preludio a la Fundación</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Corre el año 12020 E. G. y el último emperador galáctico de la dinastía Autun, Cleón I, ocupa el trono en un entorno de incertidumbre. Son tiempos turbulentos y Cleón está desesperado por imponer algo de calma. Cuando el joven matemático Hari Seldon llega a Trantor procedente de otro mundo para presentar una ponencia sobre psicohistoria, su asombrosa teoría de la predicción, el emperador cree que su seguridad futura quizá dependa de los poderes proféticos de Seldon.
+Pero este se convierte en el hombre más buscado del Imperio mientras lucha con desesperación por evitar que su singular teoría caiga en las manos equivocadas. Al mismo tiempo debe forjar la clave del futuro, ¡un poder que llegará a ser conocido como la Fundación!</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">62373</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:series" content="Saga de la Fundación: Ciclo de Trantor"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:55.168916+00:00"/>
+        <meta name="calibre:title_sort" content="Preludio a la Fundación"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">630</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efe767cf-5ca6-422d-a4e1-d65fade4b7d6</dc:identifier>
+        <dc:title>Quijote en el Congo</dc:title>
+        <dc:creator opf:file-as="Aldekoa, Xavier" opf:role="aut">Xavier Aldekoa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-27T11:41:41+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Esta es la historia de un sueño infantil convertido en obsesión adulta&lt;br&gt;«Durante más de dos meses de navegación fui Sancho Panza. Como el escudero de la mayor novela de caballerías jamás escrita, fui testigo fascinado de aquel mundo desconocido que se abría ante mí, recorriendo un río quijotesco, casi místico, que se adentraba bravo y temerario en una selva infranqueable para construir a su paso una historia extraordinaria.»&lt;br&gt;A lo largo de más de 4.700 kilómetros, el río Congo, esencia de la riqueza y las cicatrices de todo un continente, es una puerta abierta a la historia, la cultura y las tradiciones de los pueblos que habitan sus orillas. Xavier Aldekoa ha recorrido el gran río africano desde sus fuentes hasta la desembocadura para adentrarse en la realidad de una región rica, herida y vital.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Península</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411001502</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Xavier Aldekoa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42.673918+00:00"/>
+        <meta name="calibre:title_sort" content="Quijote en el Congo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

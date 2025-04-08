@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">354</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e57a7c93-a6e2-4acc-b1bf-a7568067e97c</dc:identifier>
+        <dc:title>No culpable</dc:title>
+        <dc:creator opf:file-as="Sten, Viveca" opf:role="aut">Viveca Sten</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;Con
+ la llegada del frío a la isla, la muerte de una mujer reabre el 
+traumático pasado de una familia que vivió en Sandhman hace más de un 
+siglo.&lt;/p&gt;&lt;p&gt;Una oscura y fría noche de 
+otoño una joven desaparece sin dejar rastro en la pequeña isla de 
+Sandhamn. La organización de la investigación  recae  sobre  Thomas  
+Andreasson,  inspector  de  la policía de Nacka. El mal tiempo dificulta
+ las tareas de búsqueda y la policía se ve obligada a abandonarlas, aun 
+sabiendo que eso implica perder todas las esperanzas de encontrar a la 
+joven con vida. Apenas unos meses más tarde, el invierno cubre Sandhamn 
+con una gélida y blanca capa de nieve. La isla es el destino que 
+Nora Linde ha escogido para viajar con sus hijos, tras descubrir que 
+su marido le es infiel. Pero en Sandhamn no va a encontrar la 
+paz deseada. Un día los chicos se adentran en el bosque alegremente sin 
+imaginar la macabra sorpresa que allí les espera y que no van a olvidar 
+jamás. Paralelamente la autora cuenta la historia de Gottfrid, su 
+esposa, Vendela, y sus hijos Thorwald y Kristine a principios del siglo 
+ XX. Sus secretos, que salen a la luz un siglo después, serán la 
+clave para resolver el caso.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva Ediciones, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417108656</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Viveca Sten&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-23T16:44:38.258974+00:00"/>
+        <meta name="calibre:title_sort" content="No culpable"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

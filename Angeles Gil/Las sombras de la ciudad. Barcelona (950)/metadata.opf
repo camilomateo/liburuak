@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2370e9b-92be-4c79-b025-be885239b69a</dc:identifier>
+        <dc:title>Las sombras de la ciudad. Barcelona, 1938</dc:title>
+        <dc:creator opf:file-as="Gil, Ángeles" opf:role="aut">Ángeles Gil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-07-05T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Después del éxito de La casa del azúcar, Ángeles Gil regresa con una novela ambientada en una Barcelona negra y desconocida. Barcelona, 1938. Mientras las bombas fascistas caen sobre la Ciudad Condal, dos mujeres tratan de desentrañar la misteriosa desaparición de Julián, un representante de artistas, al tiempo que comprueban que las calles barcelonesas esconden secretos más peligrosos incluso que la odiosa guerra. &lt;/p&gt;
+&lt;p&gt;Una mañana de marzo, cuando el país lleva ya veinte largos meses sumido en un cruento enfrentamiento civil, María se despierta sobresaltada y descubre a su cuñado Julián Márquez en el descansillo de su piso del Ensanche. Impotente y aterrorizada, ve por la mirilla como dos hombres se lo llevan por la fuerza. Pero antes, Julián conseguee entregarle un pequeño fardo de tela que la mujer debe esconder. Lola, amiga de la infancia de María y viuda de policía, le echará una mano en la búsqueda de pistas para dar con él. Además, Lola se topará con una red de prostitución, drogas y extorsión que opera con total impunidad bajo la protección de las noches caóticas de una ciudad sacudida por las bombas enemigas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466676052</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">teq9EAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-14T07:48:42.639443+00:00"/>
+        <meta name="calibre:title_sort" content="Las sombras de la ciudad. Barcelona, 1938"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

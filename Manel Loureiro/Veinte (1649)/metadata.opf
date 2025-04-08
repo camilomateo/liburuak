@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1649</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb90728a-243c-481f-ad64-a2bcecd19129</dc:identifier>
+        <dc:title>Veinte</dc:title>
+        <dc:creator opf:file-as="Loureiro, Manel" opf:role="aut">Manel Loureiro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-23T22:00:00+00:00</dc:date>
+        <dc:description>&lt;span itemprop="description"&gt;En aquel momento nadie sabía qué estaba 
+sucediendo. Solo que gran parte de la humanidad se había suicidado en un
+ lapso de pocos días. Entre los supervivientes se encuentra Andrea, una 
+chica de diecisiete años, huérfana y con un enorme vacío en su memoria. 
+De aquellos días, solo recordaba cómo fue subida a la fuerza en un 
+camión militar lleno de civiles aterrorizados que huían de la misma 
+amenaza. 
+&lt;br&gt;
+&lt;br&gt;Pero Andrea no era como ellos. Ella tiene las respuestas a muchas de sus preguntas, aunque todavía no lo sabe. 
+&lt;br&gt;
+&lt;br&gt;Muchos años más tarde, el mundo ha cambiado por completo. Los 
+supervivientes de aquella lejana noche y sus descendientes tratan de 
+salir adelante en una sociedad que vive sobre las ruinas de lo que un 
+día fue la humanidad. Pero de repente la vieja amenaza de décadas atrás 
+reaparece, aunque ahora ligeramente cambiada: el número VEINTE parece 
+tener una importancia especial en esta ocasión. 
+&lt;br&gt;
+&lt;br&gt;Atrapada en su propia historia y sin saber que el destino del mundo 
+está en manos de un puñado de jóvenes, Andrea y sus amigos comienzan su 
+peculiar odisea, a través de un territorio transformado y lleno de 
+peligros, buscando poner solución a algo que nunca debería haber 
+ocurrido.&lt;/span&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408178149</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07452CPQR</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-22T12:08:24.942948+00:00"/>
+        <meta name="calibre:title_sort" content="Veinte"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

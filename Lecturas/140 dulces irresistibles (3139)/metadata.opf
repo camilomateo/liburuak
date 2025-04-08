@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aedaaa15-7e58-4805-be50-03499c81ff6a</dc:identifier>
+        <dc:title>140 dulces irresistibles</dc:title>
+        <dc:creator opf:file-as="Lecturas" opf:role="aut">Lecturas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-14T07:58:51+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <dc:subject>cocina</dc:subject>
+        <meta name="calibre:timestamp" content="2025-03-06T17:00:27.850000+00:00"/>
+        <meta name="calibre:title_sort" content="140 dulces irresistibles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

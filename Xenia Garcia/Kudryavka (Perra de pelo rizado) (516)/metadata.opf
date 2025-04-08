@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6456a206-25aa-4a6c-b961-556986357931</dc:identifier>
+        <dc:title>Kudryavka (Perra de pelo rizado)</dc:title>
+        <dc:creator opf:file-as="García, Xenia" opf:role="aut">Xenia García</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-22T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-italic"&gt;Kudryavka (perra de pelo rizado)&lt;/span&gt;
+ cuenta la historia en primera persona de Pepa, una mujer a quien la 
+policía avisa de que su exmarido ha muerto de un infarto, al mismo 
+tiempo en el que se producía un incendio.&lt;/p&gt;&lt;p&gt;Kudryavka 
+es una perra perdida en el espacio sideral y otra que despedaza una 
+muñeca. Es una niña de doce años en una mujer de cuarenta que narran la 
+historia en presente, el tiempo de las heridas abiertas y sangrantes. Es
+ la historia de un amor tembloroso, de un duelo corrupto y patológico, 
+pero también es la historia del Hombre, del Hijo. De la Niña. De aquello
+ que decimos cuando callamos.&lt;/p&gt;&lt;p&gt;¿Estamos preparados para descubrir los secretos que guardan los muertos?&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Xenia García&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:39:58.983112+00:00"/>
+        <meta name="calibre:title_sort" content="Kudryavka (Perra de pelo rizado)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2147fe17-7589-47af-959e-e9c2014c0916</dc:identifier>
+        <dc:title>El Secreto</dc:title>
+        <dc:creator opf:file-as="BYRNE &amp; RHONDA" opf:role="aut">BYRNE</dc:creator>
+        <dc:creator opf:file-as="BYRNE &amp; RHONDA" opf:role="aut">RHONDA</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:language>es</dc:language>
+        <dc:subject>sf_history</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;BYRNE&quot;: &quot;&quot;, &quot;RHONDA&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-03T07:39:18.390393+00:00"/>
+        <meta name="calibre:title_sort" content="Secreto, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

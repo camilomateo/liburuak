@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2698</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c7da30d-e38b-4874-a20c-373ebda0036a</dc:identifier>
+        <dc:title>Donde muere la luz</dc:title>
+        <dc:creator opf:file-as="Mari Jungstedt" opf:role="aut">Mari Jungstedt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-02T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;strong&gt;La desaparición de dos niños en la isla de Gotland se entrelaza con el misterioso pasado de la isla.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=""&gt;Cuando faltan pocos días para Halloween, dos niños que disfrutan de sus vacaciones de otoño en Gotland desaparecen sin dejar rastro.&lt;/p&gt;
+&lt;p style=""&gt;Su pista se pierde en Holmhällar, un enclave turístico famoso por los raukar, unos imponentes monolitos de piedra.&lt;/p&gt;
+&lt;p style=""&gt;Cuando el inspector Anders Knutas inicia una intensa búsqueda por toda la isla, el cadáver de un anticuario aparece en una playa al norte de Visby. Junto con su compañera, Karin Jacobsson, Anders se ve envuelto en un oscuro misterio relacionado con el pasado de Gotland, historias de tesoros ocultos, ruinas embrujadas y castillos inaccesibles.&lt;/p&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410260498</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-31T16:50:32.846017+00:00"/>
+        <meta name="calibre:title_sort" content="Donde muere la luz"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

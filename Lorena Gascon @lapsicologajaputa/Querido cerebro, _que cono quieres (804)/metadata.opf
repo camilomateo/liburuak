@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6524f5ca-723b-4dc8-bd65-4478823b4128</dc:identifier>
+        <dc:title>Querido cerebro, ¿qué coño quieres de mí?</dc:title>
+        <dc:creator opf:file-as="Gascón, Lorena" opf:role="aut">Lorena Gascón @lapsicologajaputa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-15T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;El libro en el que encontrarás las claves para entender qué pasa por tu cabeza y llevarte mejor contigo mismo.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;Querido cerebro, ¿qué coño quieres de mí?&lt;/span&gt;
+ pretende perforar tus creencias con humor para que te des cuenta de 
+que, aunque en ocasiones te sucedan cosas que no son culpa tuya, en 
+otras puedes ser parte activa de &lt;b&gt;la solución. A veces &lt;span class="a-text-bold"&gt;la única manera de espabilar y cambiar es enfrentarte a lo que menos te gusta de ti mismo&lt;/span&gt;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Con este libro, Lorena Gascón, más conocida como @lapsicologajaputa, te ayuda a comprender el &lt;b&gt;&lt;span class="a-text-bold"&gt;porqué de lo que te pasa&lt;/span&gt;&lt;span class="a-text-bold"&gt;y a llevarte mejor&lt;/span&gt; &lt;span class="a-text-bold"&gt;con lo que sientes&lt;/span&gt;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;«Deja de culpar a los demás, cariño.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Si quieres dejar de ver mierda, saca la cabeza de tu culo».&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Martínez Roca</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">2006898</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Auo</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-31T11:30:22.246160+00:00"/>
+        <meta name="calibre:title_sort" content="Querido cerebro, ¿qué coño quieres de mí?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

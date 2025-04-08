@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">920</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e557ca99-2eca-42fa-b77a-cbad6a163b08</dc:identifier>
+        <dc:title>El síndrome Woody Allen</dc:title>
+        <dc:creator opf:file-as="Galán, Edu" opf:role="aut">Edu Galán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-weight: 600; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;¿Por qué, después de más de veinte años con el caso cerrado, el debate sobre la monstruosidad de Woody Allen se ha recrudecido?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;En 2017 Woody Allen fue declarado culpable por una parte de la opinión pública. Con el auge del movimiento &lt;/span&gt;&lt;em style="color: #000000"&gt;Me Too&lt;/em&gt;&lt;span style="color: #000000"&gt;, el testimonio de su hija Dylan sobre los supuestos abusos sexuales que sufrió por parte de su padre hizo revivir con virulencia la antigua acusación de su madre, Mia Farrow, de principios de los noventa. La confesión de la niña arrancó entonces una serie de investigaciones policiales y de los servicios sociales que, sin ni siquiera llegar al juzgado, acabaron exonerando al cineasta. ¿Por qué, después de más de veinte años con el caso cerrado, el debate sobre la monstruosidad de Allen se ha recrudecido?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;em style="color: #000000"&gt;El síndrome Woody Allen&lt;/em&gt;&lt;span style="color: #000000"&gt; recorre los síntomas que explican esta cuestión: el omnipresente sentimentalismo y victimismo; las nuevas formas de activismo; los tabúes sociales; la irrupción de internet y sus consecuencias comunicativas y psicológicas; el falso recuerdo; la intrincada relación entre ficción y realidad; la tiranía del sujeto-cliente en nuestra época; o la relevancia actual de la causocracia, donde parece justificable eliminar los derechos de las personas en pos de una causa mayor. El crítico Edu Galán, uno de los creadores de la revista satírica Mongolia, también se coloca en la diana: ¿podría volver a celebrar los cursos universitarios que organizó en 2008 y 2009 sobre la obra de Allen sin que los boicoteasen? ¿Qué ha cambiado en la universidad en tan corto tiempo?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;Alternándolo al análisis de la cuestión, este ensayo incluye además el relato periodístico de lo que ocurrió en la familia Farrow-Allen en aquella etapa convulsa de separación, acusaciones y juicios y su retorno a las portadas durante la pasada década.&lt;/span&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>DEBATE</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-04T12:12:05.911232+00:00"/>
+        <meta name="calibre:title_sort" content="síndrome Woody Allen, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

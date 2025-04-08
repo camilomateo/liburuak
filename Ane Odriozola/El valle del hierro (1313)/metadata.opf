@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1313</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a62a3ca2-c172-44d9-9318-3c6377234e2a</dc:identifier>
+        <dc:title>El valle del hierro</dc:title>
+        <dc:creator opf:file-as="Odriozola, Ane" opf:role="aut">Ane Odriozola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Siglo XVI. Una nueva desaparición. Dos gremios enfrentados. Unas mujeres dispuestas a imponer la única ley posible, la ley del valle. Una lluviosa noche de 1577, el carbonero Domingo Harria sale de su caserío hacia la ferrería de Mirandaola, donde sus dueños, los Plazaola, lo están esperando. Asencia, su mujer, descubre a la mañana siguiente que Domingo no ha regresado a casa, y da la voz de alarma. No es la primera vez que alguien desaparece en el valle; tampoco será la última. Tras varios días sin noticias, Asencia acude a la ferrería en busca de alguna pista sobre el paradero de su marido, pero, aunque allí le aseguran que Domingo nunca acudió a la cita, ella está convencida de que los Plazaola mienten. Su gremio nunca ha sido de fiar. Años más tarde, cuando todo el valle parece haber olvidado a Domingo, salvo Asencia, aparece en su vida Jurdana, una joven de origen desconocido que no solo guarda un gran secreto, sino que huye de un pasado al que, tarde o temprano, deberá hacer frente. Solo espera no tener que hacerlo sola.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>NdeNovela</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T11:44:05.026929+00:00"/>
+        <meta name="calibre:title_sort" content="valle del hierro, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

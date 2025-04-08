@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6c37a50-15a1-4bbe-9f2d-f7f6b62449c9</dc:identifier>
+        <dc:title>Tras las caras del poliedro</dc:title>
+        <dc:creator opf:file-as="Natimo, Istha" opf:role="aut">Istha Natimo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-07T04:00:07+00:00</dc:date>
+        <dc:description>&lt;div&gt;¿Recuerdas el sabor de los dulces de tu infancia? ¿Te acuerdas del
+ aroma del perfume de tu abuela? ¿O la melodía de la primera canción que
+ grabaste de la radio? &lt;br&gt;Tras el repentino fallecimiento de su abuela,
+ la joven Mallén recibe como herencia las llaves de Maison Coursan. Al 
+abrir la puerta, un cúmulo de emociones en forma de recuerdos la lleva 
+de nuevo a los veranos de su infancia en un lugar en el que nada es lo 
+que parece. Recuerdos de toda una vida, la suya y la de los habitantes 
+de aquella mansión a los que no llegó a conocer, pero que siempre 
+estuvieron presentes.&lt;br&gt;Una historia de conexiones personales que van 
+más allá de la vida, una aventura personal construida a base de 
+evocaciones, vivencias y vínculos.&lt;/div&gt;</dc:description>
+        <dc:publisher>Letrame Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-15T07:56:25+00:00"/>
+        <meta name="calibre:title_sort" content="Tras las caras del poliedro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">923</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6a683e0-89e4-45d0-8b0e-853a895abe61</dc:identifier>
+        <dc:title>La Española</dc:title>
+        <dc:creator opf:file-as="Henares, Antonio Pérez" opf:role="aut">Antonio Pérez Henares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Antonio Pérez Henares consigue, con una prosa evocadora y una profunda comprensión de la época y la tierra, de sus olores, colores y sabores, un excelente retablo de aquellos agitados años a caballo entre los siglos XV y XVI en los que, en una isla del mar Caribe, comenzó a gestarse un imperio. Cuando el almirante Colón regresó a la isla de La Española en 1493, al frente de diecisiete naos, se encontró el Fuerte Navidad, que apenas unos meses antes había dejado bien guarnecido, quemado, rodeado de cadáveres flotando y ningún superviviente. En el paraíso se había abierto una puerta al infierno. Tras este terrible arranque, comienza la historia de quienes hoy son historia del mundo: los Colón, el piloto Juan de la Cosa y su gran amigo el bravo capitán Ojeda, los Niños y los Pinzones, Ponce de León, Bartolomé de las Casas, Ovando, Núñez de Balboa y Vespucio, y también de los caciques Guacanagarí y Caonabo y de la bella y trágica Anacaona. De Cortés, de Pizarro y Alvarado, todavía esperando para partir y emprender las más grandes conquistas, y también de los grumetes Trifoncillo y Alonso, del locuaz tabernero Escabeche y de su mujer la india Triana, y hasta de los perros Becerrillo y Leoncico. Todos ellos en un mismo instante y lugar. Todos ellos en el mismo desembarco, espada en mano en la batalla o bebiendo vino de la misma jarra. La Española fue el principio de todo en América. El primer puerto de arribada y partida hacia la gloria y el oro; la primera ciudad, la primera calle empedrada por la que pasearon las damas y la virreina, y la primera catedral; la primera batalla, los primeros caballos y los primeros perros soldados; los primeros héroes, los primeros rebeldes y los primeros enfrentamientos fratricidas, tan españoles; los primeros criminales y los primeros defensores de los indios, y los primeros mestizos que marcarían el futuro y la seña de identidad de la América hispana.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491399490</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-04T12:12:11.050412+00:00"/>
+        <meta name="calibre:title_sort" content="Española, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

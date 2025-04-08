@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1870</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">571d4734-d90f-4700-bd93-ddfebfd853a9</dc:identifier>
+        <dc:title>El lenguaje de las mareas</dc:title>
+        <dc:creator opf:file-as="Solís, Salvador Gutiérrez" opf:role="aut">Salvador Gutiérrez Solís</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-10T22:00:00+00:00</dc:date>
+        <dc:description>La noche del 30 de agosto de 2018, dos chicas de 17 y 18 años, Sandra Peinado y Ana Casaño, desaparecen sin dejar rastro en Punta del Moral, Ayamonte, junto a la frontera con Portugal. Sandra es hija de un personaje de máxima actualidad, implicado en un caso de corrupción política. Y Ana es una joven de fuerte temperamento que mantiene una relación muy complicada con sus padres. Ambas son adoptadas y pasaron sus primeros meses de vida en orfanatos de su Rusia natal.
+
+Carmen Puerto, inspectora apartada del Cuerpo Nacional de Policía en los últimos tiempos, desde su confinamiento entre capuchinos, tabaco y poemas de Dylan Thomas recibe la llamada de sus compañeros Jaime Cuesta y Julia Núñez, que una vez más vuelven a convertirse en sus manos y ojos en el exterior, para enfrentarse a su caso más complicado. Así comienza este trepidante thriller en el que sucesos reales que han contado con una gran repercusión mediática se transforman en elementos de ficción al servicio de una historia de ritmo implacable, en un escenario tan bello como turbador.
+
+
+
+El regreso a la novela de Salvador Gutiérrez Solís, de la mano de Carmen Puerto, la inspectora de policía más singular y carismática que ha deparado la novela negra española en los últimos años.
+
+
+
+"Salvador Gutiérrez Solís tiene la virtud de transformar en literatura todo lo que toca. Es el maestro de eso que podríamos llamar la extrañeza de lo cotidiano." Eva Díaz Pérez
+
+"Un intenso thriller contemporáneo que rompe los límites del género". Pablo García Casado
+
+"Una brillante vuelta de tuerca al género policial". TodoLiteratura</dc:description>
+        <dc:publisher>Almuzara</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08BCFLF3Z</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:41:14.704464+00:00"/>
+        <meta name="calibre:title_sort" content="lenguaje de las mareas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

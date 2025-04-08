@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">446</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf2c75b7-0b69-437d-aae4-02eea37932ee</dc:identifier>
+        <dc:title>Cementerio de secretos</dc:title>
+        <dc:creator opf:file-as="José Antonio Pérez Ledo" opf:role="aut">José Antonio Pérez Ledo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-15T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En 1963, el franquismo puso en marcha una operación secreta para desarrollar una bomba atómica en España. Los detalles de aquella operación han permanecido ocultos durante seis décadas. Hasta ahora. Por el autor recién galardonado con los los premios Ondas a Mejor Podcast de Ficción y Mejor Guion por La firma de Dios. Un sobrecogedor thriller detectivesco que se sumerge en uno de los episodios más desconocidos de nuestra historia: el desarrollo de la bomba atómica española, el Proyecto Islero. En 1986, Alba Orbe desapareció misteriosamente en Madrid. Tenía cinco años. Treinta y tres años después, reaparece en el desierto del Sáhara, traumatizada y negándose a pronunciar una sola palabra. Tirso de la Fuente, asesor lingüista de la Policía, se verá involucrado en el caso, pero no tardará en descubrir una compleja trama oculta tras la desaparición de la mujer. En la década de los setenta, el padre de Alba participó en el proyecto más secreto del Gobierno franquista. Uno silenciado bajo la ley de secretos oficiales y con un solo objetivo: la fabricación de una bomba atómica. Reseñas:«Este libro es mucho más que un thriller, es un viaje trepidante a nuestra historia más secreta».Mikel Santiago&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401029790</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">sZmoEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;José Antonio Pérez Ledo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-23T10:00:38.708125+00:00"/>
+        <meta name="calibre:title_sort" content="Cementerio de secretos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">703</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc22ab56-d036-4173-8dfb-f8d2adfd5d5b</dc:identifier>
+        <dc:title>Parentesco</dc:title>
+        <dc:creator opf:file-as="Butler, Octavia E." opf:role="aut">Octavia E. Butler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-05T06:00:00+00:00</dc:date>
+        <dc:description>Más de treinta y cinco años después de su lanzamiento, Parentesco sigue atrayendo a nuevos lectores con su profunda exploración de la violencia y la pérdida de la humanidad causada por la esclavitud en Estados Unidos, y el impacto complejo y duradero que aún tiene este hecho histórico en la actualidad. La obra más famosa de Butler, aclamada por la crítica, cuenta la historia de Dana, una joven negra que de repente e inexplicablemente es transportada desde su hogar en la California de la década de 1970 hasta la guerra civil. Mientras viaja en el tiempo entre ambos mundos, uno en el que es una mujer libre y otro en el que forma parte de su propia y complicada historia familiar en una plantación del sur, se enreda aterradoramente en la vida de Rufus, un conflictivo esclavista que es a la vez un antepasado de Dana, y en las vidas de las muchas personas que están esclavizadas por él. Considerada como una obra esencial dentro de los géneros feminista, de ciencia ficción y fantasía, y una piedra angular del movimiento afrofuturista, se han vendido más de medio millón de copias de Parentesco. La interseccionalidad de la raza, la historia y el tratamiento de las mujeres abordada en este libro sigue siendo un tema crítico en el diálogo contemporáneo, tanto en el aula como en la esfera pública. Inquietante, convincente y de una rica imaginación, Parentesco ofrece una mirada inquebrantable a nuestra complicada historia social.</dc:description>
+        <dc:publisher>Capitán Swing</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantasia</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:15.713346+00:00"/>
+        <meta name="calibre:title_sort" content="Parentesco"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

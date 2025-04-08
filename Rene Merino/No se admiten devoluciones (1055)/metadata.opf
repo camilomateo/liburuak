@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1055</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29f93f62-219a-4524-b898-75e9aea4711e</dc:identifier>
+        <dc:title>No se admiten devoluciones</dc:title>
+        <dc:creator opf:file-as="Merino, René" opf:role="aut">René Merino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Un entrañable testimonio en clave de humor que desmonta mitos sobre la paternidad.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Ser padre conlleva retos y situaciones para las que, en muchos casos, no nos sentimos preparados. Con una &lt;span class="a-text-bold"&gt;sinceridad sin ambages y el humor ácido y tierno que lo caracteriza&lt;/span&gt;, el ingenioso dibujante &lt;span class="a-text-bold"&gt;René Merino&lt;/span&gt; nos habla en &lt;span class="a-text-italic"&gt;No se admiten devoluciones &lt;/span&gt;de
+ dar el salto, de aquello que no nos cuentan, de los miedos y de las 
+preocupaciones, pero también de las alegrías y de los sentimientos 
+desbordantes que se experimentan por primera vez.&lt;/p&gt;&lt;p&gt;Desde su propia experiencia y la de su entorno cercano, el autor &lt;span class="a-text-bold"&gt;desmonta mitos sobre el embarazo y la crianza&lt;/span&gt;,
+ y nos regala un libro que promete acompañarnos, sin juicios, pero con 
+muchas risas cómplices, en nuestros primeros pasos como padres.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Comic</dc:subject>
+        <meta name="calibre:timestamp" content="2023-11-01T18:27:33+00:00"/>
+        <meta name="calibre:title_sort" content="No se admiten devoluciones"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

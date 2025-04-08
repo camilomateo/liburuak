@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b161d6a3-cdb9-47da-bc7c-5a2ae48888d0</dc:identifier>
+        <dc:title>A fuego lento</dc:title>
+        <dc:creator opf:file-as="Hawkins, Paula" opf:role="aut">Paula Hawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Con la misma intensidad con la que ha cautivado a 27 millones de 
+lectores en todo el mundo, la autora de La chica del tren, Paula 
+Hawkins, nos ofrece un brillante thriller sobre las heridas que provocan
+ los secretos que ocultamos.&lt;br&gt;&lt;br&gt;El descubrimiento del cuerpo de un 
+joven asesinado brutalmente en una casa flotante de Londres desencadena 
+sospechas sobre tres mujeres. Laura es la chica conflictiva que quedó 
+con la víctima la noche en que murió; Carla, aún de luto por la muerte 
+de un familiar, es la tía del joven; y Miriam es la indiscreta vecina 
+que oculta información sobre el caso a la policía. Tres mujeres que no 
+se conocen, pero que tienen distintas conexiones con la víctima. Tres 
+mujeres que, por diferentes razones, viven con resentimiento y que, 
+consciente o inconscientemente, esperan el momento de reparar el daño 
+que se les ha hecho.&lt;br&gt;&lt;br&gt;Mira lo que has provocado.&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B0958FCP6Y</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Paula Hawkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T22:46:08.264574+00:00"/>
+        <meta name="calibre:title_sort" content="A fuego lento"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

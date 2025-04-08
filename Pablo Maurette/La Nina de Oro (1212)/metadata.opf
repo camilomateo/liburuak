@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">222b9dfb-ff48-4c35-ae00-3390f9d33edc</dc:identifier>
+        <dc:title>La Niña de Oro</dc:title>
+        <dc:creator opf:file-as="Pablo Maurette" opf:role="aut">Pablo Maurette</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un cadáver, un taxi boy albino, un brujo africano… Una novela policiaca sorprendente y magistral.&lt;/p&gt;
+&lt;p&gt;En vísperas de las vacaciones de invierno del año 1999, aparece asesinado en su casa de Buenos Aires el profesor de biología Aníbal Doliner. El crimen le fastidia los planes a la secretaria de la fiscalía, Silvia Rey, que debe hacerse cargo de las diligencias. Las pistas apuntan a un taxi boy albino apodado Copito, que frecuentaba el piso del asesinado. Pero cuando parece que el caso está a punto de cerrarse, la cosa se complica y se cruza con otro asunto criminal en el que está involucrado un brujo africano. Conforme avanzan las investigaciones, todo se va enmarañando y resulta que nada es lo que parecía en un principio.&lt;/p&gt;
+&lt;p&gt;Y es que la investigación policial, con sus deducciones y conexiones inesperadas, se parece mucho a un juego al que Silvia Rey juega con su padre desde que era niña. Consiste en acumular referencias inconexas al mismo objeto. Si las referencias son dos, se llama «duquesa». Las duquesas son bastante comunes. Si el referente se manifiesta tres veces, ya sea como palabra, como imagen o en carne y hueso, entonces se trata de una tricota. Duquesas y tricotas, cadáveres y sospechosos, acertijos y respuestas.&lt;/p&gt;
+&lt;p&gt;¿Cuánto de lógica deductiva y cuánto de puro azar hay en la resolución satisfactoria de un caso policial?&lt;/p&gt;
+&lt;p&gt;Pablo Maurette ha escrito una novela detectivesca repleta de ingenio, con unos personajes impagables —empezando por la secretaria de la fiscalía y su padre— y que funciona como un sofisticado mecanismo de precisión narrativa.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Anagrama</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788433922410</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-06T20:29:30.503345+00:00"/>
+        <meta name="calibre:title_sort" content="Niña de Oro, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

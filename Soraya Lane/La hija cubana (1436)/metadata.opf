@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37fe8935-815a-4b5f-895e-6c16b4f9b056</dc:identifier>
+        <dc:title>La hija cubana</dc:title>
+        <dc:creator opf:file-as="Lane, Soraya" opf:role="aut">Soraya Lane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class="text-container" style="--max-h: 736px; --ghost-height: 0px; --timer: 368ms;" data-v-02a091b0=""&gt;&lt;div class="formated-text" data-v-02a091b0="" data-v-710c7308=""&gt;&lt;p&gt;&lt;b&gt;LA ESPERADA SEGUNDA ENTREGA DE «LAS HIJAS PERDIDAS», LA SAGA QUE HA CONQUISTADO A LAS LECTORAS DE LUCINDA RILEY EN TODO EL MUNDO&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;La Habana, 1950&lt;/b&gt;. Como hija primogénita de una de las familias más poderosas de Cuba y considerada una de las jóvenes más hermosas de la isla, Esmeralda, que ama a su familia por encima de todo, sabe lo importante que es casarse con la persona adecuada para continuar con el legado Díaz. Pero todo cambia para ella cuando acompaña a su padre en un viaje de negocios a Londres y conoce a Christopher, un joven empresario por el que deberá tomar una decisión desgarradora: mantenerse leal a la familia o seguir lo que le dicta el corazón.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Londres, en la actualidad&lt;/b&gt;. Cuando Claudia descubre que su abuela nació en Hopes House, un hogar para madres solteras, comienza a cuestionar lo que sabe sobre sus orígenes. El despacho de abogados que le ha dado la reveladora noticia le ha proporcionado una cajita con dos pistas: un escudo de armas y una vieja tarjeta de visita. El escudo de armas pertenece a los Díaz, una importante familia cubana, y Claudia, decidida a averiguar más sobre el pasado familiar, viaja a La Habana. Allí conoce a Mateo, un joven chef que la ayuda en su misión, y a medida que se enamora de Cuba y de Mateo, Claudia se ve obligada a elegir entre seguir lo que le dicta el corazón o abandonar al hombre que ama.&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;Una novela arrolladora sobre secretos familiares, el poder del &lt;/b&gt;&lt;b&gt;pasado y la fuerza del destino.&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Las hijas perdidas"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-04-20T15:13:31.405351+00:00"/>
+        <meta name="calibre:title_sort" content="hija cubana, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

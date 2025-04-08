@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1561</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a208cbd-d279-4ab4-aa4d-21dc39605260</dc:identifier>
+        <dc:title>Breve historia de España</dc:title>
+        <dc:creator opf:file-as="García de Cortázar, Fernando &amp; González Vesga, José Manuel" opf:role="aut">Fernando García de Cortázar</dc:creator>
+        <dc:creator opf:file-as="García de Cortázar, Fernando &amp; González Vesga, José Manuel" opf:role="aut">José Manuel González Vesga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-25T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;"Breve historia de España" es el 'best-seller' más importante de 
+la historiografía española de los últimos años. Un admirable dominio del
+ arte de la síntesis, un estilo ameno y directo y la reivindicación de 
+la realidad histórica de España dan razón de la popularidad del libro, 
+que ha conocido numerosas reimpresiones y reediciones, y se ha visto 
+traducido a las más importantes lenguas extranjeras. Desde su aparición,
+ la obra ha mantenido intacto su vigor gracias a sus periódicas 
+actualizaciones. Esta nueva edición, actualizada hasta mayo de 2022, 
+amplía sus páginas para incorporar la reflexión sobre los últimos 
+acontecimientos y mantener el compromiso de los autores de llevar al 
+presente la reflexión histórica, llamando a las cosas por su nombre.
+
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09X5QFB87</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:47.359392+00:00"/>
+        <meta name="calibre:title_sort" content="Breve historia de España"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1285</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07bbe39c-58a8-4048-95f5-b08b55bc7840</dc:identifier>
+        <dc:title>La isla</dc:title>
+        <dc:creator opf:file-as="Ragnar Jónasson" opf:role="aut">Ragnar Jónasson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La nueva serie policiaca de uno de los grandes autores bestseller de la novela negra. «Hulda es la mejor heroína de novela negra que hemos leído en mucho tiempo.» The Times La inspectora de policía islandesa Hulda Hermannsdóttir es enviada, quince años antes de los terribles acontecimientos a los que asistimos en La dama. Comienza la cuenta atrás, a Elliðaey para investigar la muerte de una joven durante la escapada con un grupo de amigos. Hulda no tarda en establecer una conexión entre esta muerte y otra acaecida una década atrás en la que otra joven relacionada con el mismo grupo fue asesinada. Pese a que el asesino fue atrapado, Hulda no tiene dudas de la relación entre ambos crímenes y seguirá las pistas necesarias hasta desentrañar los secretos del grupo. Ésta es la segunda parte de una serie de novela negra protagonizada por la sagaz policía Hulda Hermannsdóttir, una investigadora quien, a punto de jubilarse, se verá inmersa en una red de mentiras que le harán replantearse toda su existencia.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Py3tEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788432243394</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Inspectora Hulda"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-03-15T07:46:48.517000+00:00"/>
+        <meta name="calibre:title_sort" content="La isla"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

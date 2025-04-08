@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1343</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea0de6cc-8e33-4141-baa5-b740e3d9226e</dc:identifier>
+        <dc:title>El canto de las cigarras</dc:title>
+        <dc:creator opf:file-as="Hernández, Lerryns" opf:role="aut">Lerryns Hernández</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-07T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Alfonso resiste. Es lo que ha hecho toda su vida. A duras penas 
+soporta la ciudad en la que vive con sus servicios públicos colapsados 
+desde hace décadas por obra y gracia de un estado delincuente al cual 
+odia tan solo un poquito más que a la gente. Esa gente con la cual no 
+puede evitar toparse en todas partes: mientras cobra un cheque, en el 
+vagón del metro atascado en medio de la nada hirviente, en las escaleras
+ gastadas de su edificio cargando enormes bidones de agua camino a un 
+sitio que nunca fue su hogar.&lt;br&gt;Sin embargo, cuando su adorada nevera amenaza con dañarse de una vez por todas, Alfonso deberá negociar con la realidad.&lt;br&gt;Porque
+ la realidad es mucho más que la ocasional masacre practicada por la 
+policía, o el encuentro furtivo con mujeres ansiosas por obviar su 
+derrota. La realidad es peor que la muerte, esa que lo persigue desde 
+que era niño y era feliz y aún se creía capaz de superar la tragedia que
+ desbarató a su familia. La realidad es que Alfonso está cansado, huele a
+ gasolina, la ciudad está a punto de estallar y ya ni siquiera encuentra
+ consuelo en el canto de las cigarras.&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CW17TK2C</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:33.231946+00:00"/>
+        <meta name="calibre:title_sort" content="canto de las cigarras, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

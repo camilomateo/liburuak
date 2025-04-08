@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1543</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bd05aa7-9dae-40f1-9bb3-d8edfd6ffcf2</dc:identifier>
+        <dc:title>Turismo: ¿truco o trato?</dc:title>
+        <dc:creator opf:file-as="Pezzi, Carlos Hernandez" opf:role="aut">Carlos Hernandez Pezzi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-17T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;En 2018, España ya ocupa el segundo puesto del ranking mundial de 
+países y esto tiene un impacto cada vez más visible en las economías 
+urbanas y en las ciudades. Sus centros históricos y sus monumentos se 
+han convertido en atractivos destinos, pero al mismo tiempo el precio de
+ la vivienda en estas áreas centrales ha subido tanto que se ha vuelto 
+inaccesible para sus ciudadanos, generalizando la gentrificación. Este 
+es el dilema que va a marcar el futuro de las políticas públicas y 
+urbanas: la promoción del turismo cultural de calidad o la turismofobia.&lt;/p&gt;</dc:description>
+        <dc:publisher>Los Libros de La Catarata</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:42+00:00"/>
+        <meta name="calibre:title_sort" content="Turismo: ¿truco o trato?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

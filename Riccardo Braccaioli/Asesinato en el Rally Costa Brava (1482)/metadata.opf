@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1482</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6f1c936-1233-42c1-b70b-f1d462fb761a</dc:identifier>
+        <dc:title>Asesinato en el Rally Costa Brava</dc:title>
+        <dc:creator opf:file-as="Riccardo Braccaioli" opf:role="aut">Riccardo Braccaioli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una perpetua enemistad entre dos pilotos transciende a las pistas de rally, hasta chocar con sus intereses personales. La venganza y la inesperada traición convertirán una carrera destinada a proclamar el mejor piloto de Europa, en un trágico fin de semana.&lt;/p&gt;
+&lt;p&gt;¿Asesinato O accidente?&lt;/p&gt;
+&lt;p&gt;Un acontecimiento dramático lo cambiará todo. La muerte de uno de los pilotos pondrá en entredicho la profesionalidad de Bruno Malatesta, el famoso director deportivo de coches de carrera.&lt;/p&gt;
+&lt;p&gt;Ayudado por su aletargado instinto, se verá obligado a asumirse el rol de investigador para esclarecer el presunto asesinato de su mejor amigo. Seguirá los mensajes del destino y recibirá la ayuda inesperada de unos fantasmas del pasado y de un curtido inspector de policía.&lt;/p&gt;
+&lt;p&gt;Una novela negra adictiva, ambientada en el mundo de las carreras de coches, con la Costa Brava y el Mediterráneo como telón de fondo.&lt;/p&gt;
+&lt;p&gt;Desde París hasta Lloret de Mar. Del amor hasta la muerte.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Bruno Malatesta"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-04-30T15:13:18+00:00"/>
+        <meta name="calibre:title_sort" content="Asesinato en el Rally Costa Brava"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

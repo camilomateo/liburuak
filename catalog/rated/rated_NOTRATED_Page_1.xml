@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sin puntuación</title>
+  <id>Calibre2opds:rated:NOTRATED</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./rated_NOTRATED_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sin puntuación" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="./rated.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Valoración" />
+  <entry>
+    <title>Libros que empiezan por +</title>
+    <id>Calibre2opds:rated:NOTRATED:2b</id>
+    <content type="text">+18, +21</content>
+    <link href="../rated/rated_NOTRATED_2b_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por 1</title>
+    <id>Calibre2opds:rated:NOTRATED:1</id>
+    <content type="text">7 libros</content>
+    <link href="../rated/rated_NOTRATED_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por 2</title>
+    <id>Calibre2opds:rated:NOTRATED:2</id>
+    <content type="text">22/11/63, 28 bitcoins</content>
+    <link href="../rated/rated_NOTRATED_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por 3</title>
+    <id>Calibre2opds:rated:NOTRATED:3</id>
+    <content type="text">1 libro</content>
+    <link href="../rated/rated_NOTRATED_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por 4</title>
+    <id>Calibre2opds:rated:NOTRATED:4</id>
+    <content type="text">Las 48 leyes del poder</content>
+    <link href="../rated/rated_NOTRATED_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por 5</title>
+    <id>Calibre2opds:rated:NOTRATED:5</id>
+    <content type="text">2 libros</content>
+    <link href="../rated/rated_NOTRATED_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por 7</title>
+    <id>Calibre2opds:rated:NOTRATED:7</id>
+    <content type="text">1 libro</content>
+    <link href="../rated/rated_NOTRATED_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por 8</title>
+    <id>Calibre2opds:rated:NOTRATED:8</id>
+    <content type="text">83 segundos</content>
+    <link href="../rated/rated_NOTRATED_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por A</title>
+    <id>Calibre2opds:rated:NOTRATED:A</id>
+    <content type="text">224 libros</content>
+    <link href="../rated/rated_NOTRATED_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por B</title>
+    <id>Calibre2opds:rated:NOTRATED:B</id>
+    <content type="text">57 libros</content>
+    <link href="../rated/rated_NOTRATED_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por C</title>
+    <id>Calibre2opds:rated:NOTRATED:C</id>
+    <content type="text">316 libros</content>
+    <link href="../rated/rated_NOTRATED_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por D</title>
+    <id>Calibre2opds:rated:NOTRATED:D</id>
+    <content type="text">127 libros</content>
+    <link href="../rated/rated_NOTRATED_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por E</title>
+    <id>Calibre2opds:rated:NOTRATED:E</id>
+    <content type="text">186 libros</content>
+    <link href="../rated/rated_NOTRATED_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por F</title>
+    <id>Calibre2opds:rated:NOTRATED:F</id>
+    <content type="text">71 libros</content>
+    <link href="../rated/rated_NOTRATED_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por G</title>
+    <id>Calibre2opds:rated:NOTRATED:G</id>
+    <content type="text">49 libros</content>
+    <link href="../rated/rated_NOTRATED_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por H</title>
+    <id>Calibre2opds:rated:NOTRATED:H</id>
+    <content type="text">101 libros</content>
+    <link href="../rated/rated_NOTRATED_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por I</title>
+    <id>Calibre2opds:rated:NOTRATED:I</id>
+    <content type="text">47 libros</content>
+    <link href="../rated/rated_NOTRATED_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por J</title>
+    <id>Calibre2opds:rated:NOTRATED:J</id>
+    <content type="text">34 libros</content>
+    <link href="../rated/rated_NOTRATED_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por K</title>
+    <id>Calibre2opds:rated:NOTRATED:K</id>
+    <content type="text">5 libros</content>
+    <link href="../rated/rated_NOTRATED_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por L</title>
+    <id>Calibre2opds:rated:NOTRATED:L</id>
+    <content type="text">150 libros</content>
+    <link href="../rated/rated_NOTRATED_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por M</title>
+    <id>Calibre2opds:rated:NOTRATED:M</id>
+    <content type="text">224 libros</content>
+    <link href="../rated/rated_NOTRATED_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por N</title>
+    <id>Calibre2opds:rated:NOTRATED:N</id>
+    <content type="text">120 libros</content>
+    <link href="../rated/rated_NOTRATED_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por O</title>
+    <id>Calibre2opds:rated:NOTRATED:O</id>
+    <content type="text">43 libros</content>
+    <link href="../rated/rated_NOTRATED_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por P</title>
+    <id>Calibre2opds:rated:NOTRATED:P</id>
+    <content type="text">188 libros</content>
+    <link href="../rated/rated_NOTRATED_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por Q</title>
+    <id>Calibre2opds:rated:NOTRATED:Q</id>
+    <content type="text">28 libros</content>
+    <link href="../rated/rated_NOTRATED_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por R</title>
+    <id>Calibre2opds:rated:NOTRATED:R</id>
+    <content type="text">89 libros</content>
+    <link href="../rated/rated_NOTRATED_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por S</title>
+    <id>Calibre2opds:rated:NOTRATED:S</id>
+    <content type="text">189 libros</content>
+    <link href="../rated/rated_NOTRATED_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por T</title>
+    <id>Calibre2opds:rated:NOTRATED:T</id>
+    <content type="text">173 libros</content>
+    <link href="../rated/rated_NOTRATED_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por U</title>
+    <id>Calibre2opds:rated:NOTRATED:U</id>
+    <content type="text">35 libros</content>
+    <link href="../rated/rated_NOTRATED_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por V</title>
+    <id>Calibre2opds:rated:NOTRATED:V</id>
+    <content type="text">105 libros</content>
+    <link href="../rated/rated_NOTRATED_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por W</title>
+    <id>Calibre2opds:rated:NOTRATED:W</id>
+    <content type="text">4 libros</content>
+    <link href="../rated/rated_NOTRATED_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por X</title>
+    <id>Calibre2opds:rated:NOTRATED:X</id>
+    <content type="text">Xaimaca</content>
+    <link href="../rated/rated_NOTRATED_X_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por Y</title>
+    <id>Calibre2opds:rated:NOTRATED:Y</id>
+    <content type="text">10 libros</content>
+    <link href="../rated/rated_NOTRATED_Y_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por Z</title>
+    <id>Calibre2opds:rated:NOTRATED:Z</id>
+    <content type="text">9 libros</content>
+    <link href="../rated/rated_NOTRATED_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por ¡</title>
+    <id>Calibre2opds:rated:NOTRATED:a1</id>
+    <content type="text">10 libros</content>
+    <link href="../rated/rated_NOTRATED_a1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Libros que empiezan por ¿</title>
+    <id>Calibre2opds:rated:NOTRATED:bf</id>
+    <content type="text">10 libros</content>
+    <link href="../rated/rated_NOTRATED_bf_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

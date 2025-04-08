@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bdde015d-e6c3-4b26-bb68-d89d1c7d2bf6</dc:identifier>
+        <dc:title>Una salida honrosa</dc:title>
+        <dc:creator opf:file-as="Vuillard, Éric" opf:role="aut">Éric Vuillard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-01T09:44:22.263411+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;«Un libro terrible, históricamente insoportable.» Bernard Pivot «Una serie de escenas entretejidas por una escritura brillante. Bajo la pluma de Éric Vuillard, los personajes históricos son seres de carne y hueso; los oímos respirar, los vemos sudar.» Pierre Assouline «Doscientas páginas apretadas como puños listos para golpear. En cada uno de sus libros, Éric Vuillard escenifica un episodio de esta eterna guerra de los poderosos contra los débiles, a veces con énfasis, siempre con una ira fría y metódica.» Elisabeth Philippe, L'Obs Uno de los conflictos modernos más prolongados del siglo xx fue la guerra de Indochina, y sin embargo apenas se le ha prestado atención. Una salida honrosa narra cómo, por un revés sin precedentes de la historia, dos grandes potencias mundiales, Francia y Estados Unidos, fueron derrotadas por un pueblo pequeño, el vietnamita, y nos introduce en la cadena de intereses que conducirá al desastre. En escenas memorables, Éric Vuillard nos acerca tanto a los explotados recolectores del caucho como a los generales que guiaron la contienda, mientras describe una inquietante comedia humana. ¿Cómo reaccionaron los políticos? ¿Qué secretario de Estado estadounidense propuso utilizar la bomba atómica para solucionar el conflicto? ¿De qué habló un alto mando del ejército francés, apóstol del napalm, en la televisión norteamericana? Y, bien pensado, ¿preferimos el confort de la ficción al vértigo que nos provoca la realidad? Lo cierto es que la guerra de Indochina nos permite entender cómo hoy, en Afganistán, en Mali, en cualquier lugar, seguimos buscando en vano una «salida honrosa».&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411072656</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">yyilEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-22T15:06:50.158761+00:00"/>
+        <meta name="calibre:title_sort" content="salida honrosa, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

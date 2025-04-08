@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ccf8be70-8467-44ce-879d-cca863ee1fa7</dc:identifier>
+        <dc:title>El crimen del lago</dc:title>
+        <dc:creator opf:file-as="Charlie Donlea" opf:role="aut">Charlie Donlea</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Algunos lugares parecen demasiado hermosos para ser tocados por el horror. Summit Lake, ubicado en las montañas de Carolina del Norte, es ese tipo de lugar con atractivas casas a lo largo de la costa al borde de un lago de agua prístina. Pero hace dos semanas, Becca Eckersley, una joven estudiante de derecho fue brutalmente asesinada en una de esas casas. Hija de un poderoso abogado, Becca era una chica brillante y ambiciosa. Ahora, mientras la ciudad se tambalea por el dolor y los conmocionados residentes especulan e intercambian sus teorías, la policía se encuentra perdida. La periodista Kelsey Castle, encargada de la investigación, piensa que su tarea tiene poca importancia. Pero lo salvaje del crimen y el silencio férreo de los vecinos apuntan a algo mucho peor que solo el ataque impulsivo de un extraño. A medida que Kelsey profundiza en el caso, avanzando a pesar del peligro y las advertencias, siente una conexión cada vez mayor con la chica muerta. Y cuanto más aprende sobre las amistades de Becca, su vida amorosa y los secretos que escondía, más se convence de que conocer la verdad sobre ella podría ser la clave para superar su propio y oscuro pasado.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Motus</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418711756</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">2OGTEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Charlie Donlea&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:03:09.273345+00:00"/>
+        <meta name="calibre:title_sort" content="crimen del lago, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

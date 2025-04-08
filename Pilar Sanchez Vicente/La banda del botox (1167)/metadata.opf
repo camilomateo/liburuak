@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40dfb300-b33d-40e7-82a3-0d37b8aa4cb9</dc:identifier>
+        <dc:title>La banda del bótox</dc:title>
+        <dc:creator opf:file-as="Vicente, Pilar Sánchez" opf:role="aut">Pilar Sánchez Vicente</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Desapariciones, asesinatos… Gijón se estremece tras una semana negra y todo parece apuntar a un asesino en serie, aunque los periódicos ya han decidido que se trata de una banda organizada. Todavía convaleciente de las heridas recibidas en la Cuenca, la inspectora Sara Ocaña se enfrenta a uno de los casos más sorprendentes de su carrera. Lola, la bibliotecaria del Natahoyo, denuncia la desaparición de su marido. A partir de ese momento, una oleada de crímenes se sucede en la ciudad de Gijón, sembrando el desconcierto. ¿Tienen relación con al inspectora? Alguien está muy interesado en que así parezca…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Colección PSV"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2024-01-25T19:39:52.303130+00:00"/>
+        <meta name="calibre:title_sort" content="banda del bótox, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

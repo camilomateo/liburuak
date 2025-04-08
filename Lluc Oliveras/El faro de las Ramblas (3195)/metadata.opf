@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3195</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69fe5a5b-748c-4ae1-91c2-e4d795ccac2b</dc:identifier>
+        <dc:title>El faro de las Ramblas</dc:title>
+        <dc:creator opf:file-as="Oliveras, Lluc" opf:role="aut">Lluc Oliveras</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La rambla más popular del mundo. Un emblemático quiosco de bebidas. Una gran novela histórica en la convulsa Barcelona del siglo XX. De pequeño, Lluïset se enamoró del quiosco de bebidas con aires modernistas que iluminaba la rambla de Canaletes, en el centro de Barcelona. Esa fascinación marcó su vida y la de todos los que lo rodeaban. Años más tarde volvería a sentir esa sensación al conocer a Laura, sabiendo que sus vidas se unirían para siempre. Junto a ellos recorreremos la historia de la ciudad y de toda Europa a lo largo del siglo xx, durante unas décadas llenas de guerras y cambios que afectarán de pleno a estos protagonistas y a sus familias, que habitan el corazón de las Ramblas. Una novela con ecos de gran clásico. Un relato de amor a Barcelona, a unas Ramblas llenas de vida y con una emocionante historia en la que los protagonistas deberán luchar contra lo imposible en tiempos de guerra y profundos cambios sociales.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:03.150845+00:00"/>
+        <meta name="calibre:title_sort" content="faro de las Ramblas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

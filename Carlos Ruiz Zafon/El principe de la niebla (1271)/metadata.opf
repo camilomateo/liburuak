@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1271</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c15371e5-1cee-4cf1-978c-2151693416eb</dc:identifier>
+        <dc:title>El principe de la niebla</dc:title>
+        <dc:creator opf:file-as="Carlos Ruiz Zafón" opf:role="aut">Carlos Ruiz Zafon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-27T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;El nuevo hogar de los Carver, que se han mudado a la costa huyendo de la ciudad y de la guerra, está rodeado de misterio.&lt;br&gt;Todavía
+ se respira el espíritu de Jacob, el hijo de los antiguos propietarios, 
+que murió ahogado. Las extrañas circunstancias de esa muerte sólo se 
+empiezan a aclarar con la aparición de un diabólico personaje: el 
+Príncipe de la Niebla, capaz de conceder cualquier deseo a una 
+persona; eso sí, a un alto precio&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408095484</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-07T17:32:13.439768+00:00"/>
+        <meta name="calibre:title_sort" content="principe de la niebla, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

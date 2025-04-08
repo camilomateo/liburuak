@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1032</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c95007d6-6373-4af1-9ab1-8416232999ed</dc:identifier>
+        <dc:title>La estrella del diablo</dc:title>
+        <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Es un verano excepcionalmente caluroso en Oslo. El cuerpo de una joven aparece en el suelo de su apartamento, en medio de un charco de sangre. Tiene amputado un dedo de la mano izquierda, y bajo un párpado le han colocado un pequeño diamante rojo con la forma de una estrella de cinco puntas: el emblema del diablo. Cinco días después, un hombre denuncia la desaparición de su esposa. Otro dedo cercenado aparece en escena: lleva un anillo con un diamante rojo engarzado, tallado como una estrella de cinco puntas. A los cinco días aparece el tercer cadáver… y se repite el ritual.&lt;/p&gt;&lt;p&gt;Harry Hole es un policía poco convencional. El alcohol y una situación personal muy complicada le han hecho tocar fondo. Los demonios reales y los imaginarios se mezclan en la mente de Hole, que se tiene que enfrentar a un criminal sanguinario y a un enemigo implacable dentro del departamento.&lt;/p&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">2.3</dc:identifier>
+        <dc:identifier opf:scheme="EPL">1415</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Harry Hole"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2023-10-20T11:12:29.379890+00:00"/>
+        <meta name="calibre:title_sort" content="estrella del diablo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99073051-90d1-426f-875c-65e517ac5aa4</dc:identifier>
+        <dc:title>El Hombre Nada</dc:title>
+        <dc:creator opf:file-as="Howard, Catherine Ryan" opf:role="aut">Catherine Ryan Howard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;#1 Irish Times Bestseller#1 Amazon Kindle BestsellerLibro Seleccionado por Amazon Nominado al Premio CWA Ian Fleming Steel DaggerNominado al Post Irish Crime Fiction Book of the YearYo era la chica que sobrevivió al Hombre Nada. Ahora soy la mujer que lo va a atrapar. &lt;/p&gt;
+&lt;p&gt;Acabas de leer las primeras páginas de El hombre Nada, las memorias sobre crímenes reales que Eve Black ha escrito sobre su búsqueda obsesiva del hombre que mató a su familia hace casi dos décadas. &lt;/p&gt;
+&lt;p&gt;El guardia de seguridad de supermercado, Jim Doyle, también lo está leyendo y con cada vuelta de página, su rabia crece. Porque Jim era, es, el Hombre Nada. &lt;/p&gt;
+&lt;p&gt;Cuanto más lee Jim, más se da cuenta de lo peligrosamente cerca que se está acercando Eve a la verdad. Él sabe que ella no se rendirá hasta que lo encuentre. Él no tiene más remedio que detenerla primero...«Un libro dentro de un libro. El hombre nada toma la obsesión actual por el crimen real y los detectives aficionados y la envuelve en una trama apasionante para brindarnos uno de los misterios más ingeniosos del año.» RTE Culture«La reina de la ficción criminal de calidad ataca de nuevo: esta es la primera novela que leo que realmente captura los escalofríos y los giros del crimen real que nos obsesiona. Catherine Ryan Howard siempre ha sido increíblemente buena en lo que hace, pero está mejorando cada vez más con cada libro.» Jane Casey«Una idea tan inteligente, desde el concepto hasta la ejecución, no puedo pensar en otro libro como este. Tremendamente astuto y arrollador.» Sarah Hilario«Aterrador, brillantemente tramado y extremadamente satisfactorio.» Joan Spain&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419449610</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Catherine Ryan Howard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42.480670+00:00"/>
+        <meta name="calibre:title_sort" content="Hombre Nada, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

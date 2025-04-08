@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1902</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c04c7e6-7bde-4d4f-a4bb-abb5be2137d8</dc:identifier>
+        <dc:title>Allí donde nace el día</dc:title>
+        <dc:creator opf:file-as="Lark, Sarah" opf:role="aut">Sarah Lark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-08T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Solo contaban con ellas mismas para elegir su destino.&lt;/p&gt;
+&lt;p&gt;Sarah Lark regresa al escenario del best seller En el país de la nube blanca.&lt;/p&gt;
+&lt;p&gt;Islas Chatham, 1835. La joven moriori Kimi ha sido testigo directo de la invasión maorí de sus tierras. Dolorosamente, ha comprendido que las leyes de sus dioses no la pueden proteger ni de los maoríes, ni del hombre blanco. Tampoco el hombre cuyo hijo está esperando podrá salvarla.&lt;/p&gt;
+&lt;p&gt;Al mismo tiempo, una joven alemana, Ruth, ha decidido viajar al fin del mundo detrás del sueño del hombre al que ama. Pero, ¿realmente merece la pena seguir los pasos de un hombre cuya lucha la mantiene siempre alejada de él?&lt;/p&gt;
+&lt;p&gt;Ambas mujeres deberán tomar las riendas de su destino y luchar por su futuro y su felicidad.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:58.867224+00:00"/>
+        <meta name="calibre:title_sort" content="Allí donde nace el día"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

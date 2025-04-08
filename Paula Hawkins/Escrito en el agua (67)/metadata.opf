@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">67</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">936c0ffe-00e8-49fb-91ed-1353b3fdf77f</dc:identifier>
+        <dc:title>Escrito en el agua</dc:title>
+        <dc:creator opf:file-as="Hawkins, Paula" opf:role="aut">Paula Hawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-23T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una apasionante novela sobre las historias que nos contamos al recordar nuestro pasado y su poder para destruirnos.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;Pocos
+ días antes de morir, Nel Abbott estuvo llamando a su hermana, pero 
+Jules no cogió el teléfono, ignoró sus súplicas de ayuda. Ahora Nel está
+ muerta. Dicen que saltó al río. Y Jules se ve arrastrada al pequeño 
+pueblo de los veranos de su infancia, un lugar del que creía haber 
+escapado, para cuidar de la adolescente que su hermana deja atrás. Pero 
+Jules tiene miedo. Mucho miedo. Miedo al agua, miedo de sus recuerdos 
+enterrados largo tiempo atrás, y miedo, sobre todo, de su certeza de que
+ Nel nunca habría saltado… &lt;br&gt;&lt;span class="a-text-bold"&gt;No te fíes nunca de una superficie en calma, no sabes lo que puede haber debajo.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06XGS89NQ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Paula Hawkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T22:46:08.094894+00:00"/>
+        <meta name="calibre:title_sort" content="Escrito en el agua"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

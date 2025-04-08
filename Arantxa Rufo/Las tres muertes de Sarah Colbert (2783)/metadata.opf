@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2783</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">480d2670-ce26-4915-92f9-92cc975d7cf1</dc:identifier>
+        <dc:title>Las tres muertes de Sarah Colbert</dc:title>
+        <dc:creator opf:file-as="Rufo, Arantxa" opf:role="aut">Arantxa Rufo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;EL RELEVO DEL &lt;i&gt;THRILLER&lt;/i&gt; ESPAÑOL&lt;/b&gt;&lt;/p&gt;&lt;p&gt;«El personaje que cualquier escritor de novela negra querría escribir.» &lt;b&gt;ROBERTO SANTIAGO&lt;/b&gt;&lt;br&gt;«Arantxa Rufo es la sangre fresca del &lt;i&gt;thriller&lt;/i&gt; español.» &lt;b&gt;CÉSAR PÉREZ GELLIDA&lt;/b&gt;&lt;br&gt;«Philip Marlowe y Sarah Colbert tendrían mucho que decirse mutuamente sobre la culpa y los culpables. Arantxa Rufo invita a esta ronda. Magnífica.» &lt;b&gt;VÍCTOR DEL ÁRBOL&lt;/b&gt;&lt;p&gt;&lt;b&gt;Mi vida se rompió en pedazos en tres ocasiones:&lt;br&gt;la primera, con siete años, cuando murieron mis padres.&lt;br&gt;La segunda, con veintidós, cuando desapareció mi hermana Rachel.&lt;br&gt;La tercera, hace dos meses, cuando reapareció.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;La vida de la &lt;i&gt;sheriff&lt;/i&gt; Sarah Colbert ha estado marcada por la pérdida y el dolor. Tras once años desaparecida, han hallado a su hermana muerta en el bosque. La autopsia dictamina que se trató de una muerte accidental, pero apenas llevaba unas horas así cuando la encontraron. El asesinato de la persona que halló el cadáver lleva...</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-09T07:18:53.992549+00:00"/>
+        <meta name="calibre:title_sort" content="tres muertes de Sarah Colbert, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

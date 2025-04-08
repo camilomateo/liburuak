@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20e50a7f-fed2-4314-98c3-f050137bc0b4</dc:identifier>
+        <dc:title>La casa de la Riviera</dc:title>
+        <dc:creator opf:file-as="Lester, Natasha" opf:role="aut">Natasha Lester</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;París, 1939. Los nazis creen que Éliane no entiende alemán y que no sabe que están robando los tesoros del Louvre: están equivocados. No se imaginan que está decodificando sus notas e informando a la Resistencia, pero es un juego peligroso. ¿Se atreverá a confiar sus secretos al hombre que una vez amó? ¿La traicionará una vez más? No tiene forma de saberlo con certeza hasta que un viaje a una impresionante casa en la Riviera francesa trae consigo un nivel de peligro completamente nuevo. 2021. Remy Lang se dirige a una casa que heredó misteriosamente en la Riviera tratando de olvidar una tragedia que ha dejado su vida en ruinas. Allí descubre un catálogo de obras de arte robadas durante la Segunda Guerra Mundial mientras trabaja en su negocio de moda vintage, y se sorprende al encontrar un cuadro que estaba colgado en la pared de su habitación de la infancia. ¿Quién es realmente su familia? ¿Y si la casa de la Riviera guarda más secretos de los que Remy podría soportar?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vidis</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-14T13:34:11.043513+00:00"/>
+        <meta name="calibre:title_sort" content="casa de la Riviera, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

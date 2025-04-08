@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4f94d75-a149-49c0-935b-fed7581b449e</dc:identifier>
+        <dc:title>Nutrición vegetariana</dc:title>
+        <dc:creator opf:file-as="Chávez, Margarita" opf:role="aut">Margarita Chávez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-24T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;Un manual con más de 500 recetas para quienes han adoptado un estilo de vida vegetariano.&lt;/B&gt;&lt;/P&gt; &lt;p&gt;&lt;B&gt;Margarita Chávez Martínez, una de las pioneras de la medicina natural en nuestro país, nos ofrece aquí un volumen invaluable sobre comida y nutrición vegetariana.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Más que un &lt;B&gt;recetario&lt;/B&gt;, este libro es un &lt;B&gt;manual integral&lt;/B&gt; no sólo para aquellos que desean incursionar en el mundo del &lt;B&gt;vegetarianismo&lt;/B&gt;, sino también para quienes ya han adoptado este estilo de vida y quieren ampliar su conocimiento sobre el tema.&lt;/P&gt; &lt;P&gt;En este libro, con más de &lt;B&gt;500 recetas &lt;/B&gt;-que van desde sopas y ensaladas hasta platillos fuertes, salsas, postres y dulces-, usted encontrará:&lt;/P&gt; &lt;P&gt;- Platillos &lt;B&gt;100% mexicanos&lt;/B&gt; en su versión libre de productos de origen animal: bacalao, birria, cochinita pibil, chiles en nogada, pozole, pancita y muchos más.&lt;/P&gt; &lt;P&gt;- "Comida rápida"&lt;B&gt; saludable&lt;/B&gt;: pizza, hamburguesas, helado#&lt;/P&gt; &lt;P&gt;- Alternativas a los lácteos, como...</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073152686</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-25T19:39:51.955839+00:00"/>
+        <meta name="calibre:title_sort" content="Nutrición vegetariana"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

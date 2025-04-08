@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">788fbf6b-9d42-4cbb-ad24-d90843374dda</dc:identifier>
+        <dc:title>Encontrandonos</dc:title>
+        <dc:creator opf:file-as="Forner, Ana" opf:role="aut">Ana Forner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-07T09:03:11+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¿Crees que todo lo que empezó con un beso continuará con un beso? &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Supongo que a estas alturas ya me conoces bastante, aunque sé que hay cosas que no entiendes sobre mí y que a veces, incluso, puedo llegar a caerte mal. De verdad que lo siento, pero no puedo evitar ser como soy. Ante dicha afirmación, Chase tendría mucho que decir, ¿verdad? &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;En resumen, empiezo esta etapa de mi vida con mucha incertidumbre y con una sola certeza: me he enamorado de él, aunque no se lo haya dicho. Ada, mi mejor amiga, me ha aconsejado que recorra este camino con sinceridad, pero para mí no es tan fácil liberar ciertas palabras, abrir mi pecho y mostrar cómo soy en realidad, ya lo sabes. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;¿Qué va a pasar? No tengo ni la más remota idea; depende de Chase, de ella y también de mí, porque he descubierto al hombre que era mi amigo y me temo que ha llegado el momento de perdernos o encontrarnos para siempre. Ojalá nos encontremos. Ojalá sepamos hacerlo. Ojalá le permita hacerlo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Zafiro eBooks</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0c5d9964-79c9-4754-8dea-cadce01ac0b5</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Erótica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ana Forner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A ciento cincuenta pulsaciones por minuto"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:18.083071+00:00"/>
+        <meta name="calibre:title_sort" content="Encontrandonos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

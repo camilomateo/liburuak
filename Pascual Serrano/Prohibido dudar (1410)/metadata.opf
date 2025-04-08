@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1410</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bbda3f3-4888-4cb4-9fe9-6af0fe6044c1</dc:identifier>
+        <dc:title>Prohibido dudar</dc:title>
+        <dc:creator opf:file-as="Serrano, Pascual" opf:role="aut">Pascual Serrano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-30T08:33:52+00:00</dc:date>
+        <dc:description>La guerra de Ucrania ha desmantelado todo lo que caracterizaba nuestro mundo, desde las relaciones comerciales hasta las culturales y políticas. Así, si antes se silenciaban y justificaban los crímenes perpetrados por Occidente, hoy se levanta en este mismo Occidente una unánime condena a las violaciones del derecho internacional por parte de Rusia. Si antes la acogida de refugiados generaba recelos y rechazo en sectores sociales, ahora nuestra sociedad se ve sacudida por una ola de solidaridad sin precedentes y abre los brazos a los ucranianos que piden asilo. Si antes EEUU y la UE eran los más apasionados defensores del mercado global, ahora la estructura financiera y comercial mundial ha sido dinamitada. Si antes nos vanagloriábamos de ser la región del mundo más defensora de la prensa libre, ahora asistimos cómplices a la censura a medios, voces y analistas calificados como «prorrusos». ¿Qué ha sucedido para que ahora todo sea diferente?
+
+Para descubrir lo que se esconde tras este escenario y relato oficial, Pascual Serrano nos muestra un cuadro incómodo, repleto de hipocresía y falsedad, donde expone cómo diez estremecedoras semanas de conflicto han desvelado el rostro que se ocultaba tras la máscara del llamado «mundo libre». El discurso ecologista, las vindicaciones democráticas, la seguridad jurídica, la bandera de los derechos humanos, las excusas para no afrontar una mayor inversión en sanidad y la defensa del libre mercado se derrumban ante los intereses de los tambores de guerra. Así, entre propaganda e intereses enfrentados, el mundo vive un viraje en el que ya nada volverá a ser como antes.</dc:description>
+        <dc:publisher>Akal Ediciones SA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788446052494</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-08T14:57:40+00:00"/>
+        <meta name="calibre:title_sort" content="Prohibido dudar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

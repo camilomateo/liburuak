@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2857</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">648f7f60-d358-4a42-8bc7-3a74211c7c8a</dc:identifier>
+        <dc:title>La pareja del siglo</dc:title>
+        <dc:creator opf:file-as="Julia Schoch" opf:role="aut">Julia Schoch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-05T14:34:14+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;La vida transcurre entre dos frases cortas: «Te quiero» y «Te dejo»&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Un best seller literario con más de 200 000 ejemplares vendidos que deconstruye una relación de pareja: los comienzos, la felicidad, los altibajos, las dudas y la perseverancia.&lt;/p&gt;&lt;p&gt;Después de 30 años de relación, una mujer está decidida a dejar a su pareja. ¿Cómo ha llegado hasta ese punto? Mientras considera cuál será su próximo paso, revive su historia compartida: los primeros y excitantes días del amor, los viajes, la llegada de los hijos; también los malos momentos que presagiaban el fracaso. Pero ¿puede decirse realmente que algo que ha durado tanto tiempo ha fracasado?&lt;/p&gt;&lt;p&gt;La narradora reflexiona sobre cómo algo tan «ordinario» como una relación puede sobrevivir a las circunstancias externas, a gobiernos y revoluciones.&lt;/p&gt;</dc:description>
+        <dc:publisher>Maeva Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410260733</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-30T21:16:37.611914+00:00"/>
+        <meta name="calibre:title_sort" content="pareja del siglo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

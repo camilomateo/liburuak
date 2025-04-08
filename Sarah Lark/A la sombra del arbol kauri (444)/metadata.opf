@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">444</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f1b1889-f44d-4e76-bed0-2e23601a41de</dc:identifier>
+        <dc:title>A la sombra del árbol kauri</dc:title>
+        <dc:creator opf:file-as="Lark, Sarah" opf:role="aut">Sarah Lark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-13T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div style="text-align: justify;"&gt; &lt;p class="MsoNormal" style="margin-top:15.0pt;margin-right:0cm;margin-bottom: 15.0pt;margin-left:0cm;text-indent:0cm"&gt;&lt;span style="font-size:14.0pt; mso-ansi-language:ES"&gt; &lt;/span&gt;&lt;/p&gt; &lt;p class="MsoNormal" style="text-indent:0cm"&gt;&lt;span lang="ES-SV" style="font-size: 14.0pt;mso-ansi-language:ES-SV"&gt;Nueva Zelanda, 1875. Lizzie y Michael Drury han cumplido el sueño de tener una granja de ovejas, y ante ellos parece abrirse un futuro prometedor. Pero su vida se descontrola de repente cuando su hija mayor, Matariki, es secuestrada por un líder maorí. Mientras Michael hace todo lo posible por recuperar a su hija, en la familia Burton un acontecimiento sorprendente llena de alegría a Kathleen: su hijo Colin vuelve a Nueva Zelanda. Sin embargo, nadie sospecha las consecuencias de este regreso...&lt;p&gt;&lt;/p&gt;&lt;/span&gt;&lt;/p&gt; &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Romance histórico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Lark&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Trilogia Kauri"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-03-23T10:00:38.096190+00:00"/>
+        <meta name="calibre:title_sort" content="A la sombra del árbol kauri"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

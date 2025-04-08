@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">833</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08e36334-19b0-4077-a5e0-c3c8c65a4396</dc:identifier>
+        <dc:title>Secretos de confesión</dc:title>
+        <dc:creator opf:file-as="Mikel Lejarza &amp; Fernando Rueda" opf:role="aut">Mikel Lejarza</dc:creator>
+        <dc:creator opf:file-as="Mikel Lejarza &amp; Fernando Rueda" opf:role="aut">Fernando Rueda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-23T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="text-container" data-v-809af916=""&gt;&lt;div class="formated-text" data-v-809af916="" data-v-7fdc4342=""&gt;&lt;p&gt;&lt;strong&gt;La explosiva continuación de &lt;em&gt;Yo confieso&lt;/em&gt;, las memorias de Mikel Lejarza "El Lobo".&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Secretos de confesión&lt;/em&gt; son las narraciones desde un punto de vista diferente sobre la vida de Mikel Lejarza, dando voz a personas que hasta ahora habían permanecido en la sombra. Personas con las que ha compartido partes trascendentales de su vida. Jefes, colaboradores o familia que nunca habían hablado sobre su relación con él, personas que han hablado desde una perspectiva íntima y personal de unos hechos y sentimientos distintos a los expresados por Mikel. Hombres y mujeres con un papel fundamental en la vida de El Lobo.&lt;/p&gt;
+&lt;p&gt;En 2023 se cumplirán 50 años del inicio de la operación Lobo, 50 años del mayor éxito en la lucha contra ETA, 50 años del ingreso de Mikel Lejarza en el servicio de inteligencia español. En esta segunda entrega de las trascendentales memorias de Lobo, se incluirá un capítulo extenso llamado "Charlas de café: vamos a contar verdades", en el que Mikel compartirá sus sentimientos, sus anécdotas, sus errores y aciertos, los temas que menos le gustan…en una conversación desde lo más profundo de su corazón. El sonido de las palabras de Mikel, el agente negro más antiguo y de mayor prestigio en la historia de España, arrojará luz sobre esas cuestiones que nadie se había atrevido a preguntarle.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419283399</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0B8WMG2DB</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>No ficción</dc:subject>
+        <meta name="calibre:series" content="Yo confieso"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-06-09T11:41:40.627248+00:00"/>
+        <meta name="calibre:title_sort" content="Secretos de confesión"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

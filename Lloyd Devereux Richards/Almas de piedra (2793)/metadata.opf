@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2793</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fa63d3c-88b8-4a14-8546-822a2de66859</dc:identifier>
+        <dc:title>Almas de piedra</dc:title>
+        <dc:creator opf:file-as="Devereux Richards, Lloyd" opf:role="aut">Lloyd Devereux Richards</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-12T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;El suspense de El silencio de los corderos. La apasionante investigación policial de Mentes criminales. Un asesino en serie a la altura de El Cuarto Mono.&lt;/p&gt;
+&lt;p&gt;Christine Prusik es la jefa de la unidad forense del FBI en Chicago y se encuentra con un misterioso caso entre las manos: un asesino en serie que mata a mujeres jóvenes y se deshace de sus cuerpos en los barrancos del sur de Indiana.&lt;/p&gt;
+&lt;p&gt; En cada víctima, el asesino deja su particular firma: vacía el cuerpo de órganos y coloca en la tráquea una figura de piedra esculpida de la misma manera que las que se encuentran entre las tribus primitivas de Papua Nueva Guinea, las mismas tribus de las que escapó Prusik hace una década mientras realizaba una investigación de campo.&lt;/p&gt;
+&lt;p&gt; La coincidencia es particularmente inquietante, y más aún, cuando Prusik todavía tiene marcas de las cicatrices del ataque que sufrió por parte de los miembros de la tribu. ¿es posible que exista una conexión entre ambos sucesos? Prusik ya no sabe diferenciar ente realidad e ilusión y pronto se verá inmersa en su peor pesadilla. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-09T07:28:25.109822+00:00"/>
+        <meta name="calibre:title_sort" content="Almas de piedra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

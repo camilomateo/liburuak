@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3009</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d26f31e-e0fa-45f9-8e85-43b01daf4359</dc:identifier>
+        <dc:title>El futuro: una visión del año 2000 desde el siglo XIX</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-08-31T23:00:00+00:00</dc:date>
+        <dc:description>En 1899, las cajetillas de tabaco anticiparon como sería la vida dentro de cien años. El cambio de siglo era un buen momento para pensar en el futuro y los avances tecnológicos lo suficientemente rápidos como para preguntarse qué clase de prodigios nos depararía la ciencia. Desafortunadamente para Jean-Marc Côté, sus predicciones no alcanzaron para advertirle que la empresa que le encargó aquellas visionarias ilustraciones se iría a la quiebra y todo su proyecto sería en vano. Su mirada hacia el porvenir era a todo color, pero pecaba de ingenuidad y adolecía de base científica, contagiada del entusiasmo fantástico que los pioneros del cine Georges Méliès y Segundo de Chomón emplearían en sus películas unos años más tarde. Aquellas ilustraciones quedaron en el olvido durante décadas, hasta que en 1978, Christopher Hyde se hizo con una colección entera y contactó con Isaac Asimov para que escribiera sus reflexiones sobre ellas en su libro «Los días del futuro: Una visión del siglo XIX sobre el año 2000». De sus páginas se desprende que tanto el presente como el futuro han sido (d)escritos de antemano. Al fin y al cabo, se trata de un rasgo único de nuestra especie: para que algo se materialice en la vida real, antes debemos imaginarlo. ¿Habríamos llegado a la Luna o construido submarinos que surcaran las profundidades de los océanos si Julio Verne no lo hubiera dejado por escrito? Para Asimov, la ciencia ficción es la rama de la literatura que se ocupa de las respuestas humanas a los cambios efectuados al nivel de la ciencia y la tecnología. Y si la tecnología afecta a la sociedad, dichos cambios también transforman a las personas que nos servimos de ella.  Al menos en ese sentido, el olfato publicitario de Jean-Marc Côté resultó infalible. En sus estampas vemos prototipos voladores; pisos barridos y platos lavados por máquinas con ruedas y pequeñas manos mecánicas. Un porvenir eficiente, cómodo y mecanizado, que anticipó la idea del robot aspirador Roomba e incluso algo muy parecido a una sesión de Zoom.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">74586</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Ciencias sociales</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:51.727659+00:00"/>
+        <meta name="calibre:title_sort" content="futuro: una visión del año 2000 desde el siglo XIX, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

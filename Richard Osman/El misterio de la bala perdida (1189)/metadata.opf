@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c729f55-9e69-4e16-9f93-05bacf944b39</dc:identifier>
+        <dc:title>El misterio de la bala perdida</dc:title>
+        <dc:creator opf:file-as="Osman, Richard" opf:role="aut">Richard Osman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-25T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Más de 6.000.000 lectores ya forman parte de El Club del Crimen de los Jueves&lt;/p&gt;
+&lt;p&gt;Es otro jueves cualquiera. Excepto que los problemas nunca andan lejos si la pandilla del Club del Crimen de Los Jueves está metida en el ajo. Una leyenda de las noticias locales, a la caza de un titular jugoso, visitará Coopers Chase y pronto nuestro cuarteto de octogenarios andará tras la pista de dos asesinatos sin resolver. Por si fuera poco, un nuevo enemigo pondrá a Elizabeth entre la espada y la pared al encargarle una misión letal: matar o morir.&lt;/p&gt;
+&lt;p&gt;Mientras Elizabeth lidia con su conciencia (y una pistola), la pandilla hará lo posible por resolver el misterio a tiempo. Pero, ¿podrán atrapar al culpable y salvar a Elizabeth antes de que el asesino vuelva a atacar?&lt;/p&gt;
+&lt;p&gt;No subestimes el talento de un grupo de abuelos&lt;/p&gt;
+&lt;p&gt;«Entretenidísimo y divertido» | «Me recuerda a Agatha Christie» | «Ingenioso»&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="El Club del Crimen de los Jueves"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-02-01T09:11:15.686735+00:00"/>
+        <meta name="calibre:title_sort" content="misterio de la bala perdida, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

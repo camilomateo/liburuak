@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1382</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68e6c751-367d-49d4-b9d7-cecc681a049d</dc:identifier>
+        <dc:title>Morir dos veces</dc:title>
+        <dc:creator opf:file-as="Gerritsen, Tess" opf:role="aut">Tess Gerritsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Él la dio por muerta. &lt;br&gt;Pero ella sigue aquí. &lt;br&gt;&lt;br&gt;Cuando la 
+detective de homicidios de Boston Jane Rizzoli y la médica forense Maura
+ Isles llegan a la escena de un crimen brutal, se encuentran con una 
+matanza digna de la bestia más feroz; incluso hay marcas de garras en el
+ cadáver. Allí, el renombrado cazador y taxidermista Leon Gott ha sido 
+grotescamente exhibido como si fuera uno de los magníficos animales 
+cuyas cabezas adornan las paredes de su propia casa. &lt;br&gt;¿Acaso Gott ha despertado a un depredador más peligroso que cualquier que haya cazado? &lt;br&gt;Maura
+ teme que ese no sea el primer homicidio del asesino y que tampoco sea 
+el último. Después de vincular el crimen con una serie de homicidios sin
+ resolver en áreas salvajes de todo el país, se pregunta si las 
+respuestas podrían encontrarse en un remoto rincón de África. &lt;br&gt;&lt;br&gt;Seis
+ años antes, un grupo de turistas en un safari cayó presa de un asesino 
+que estaba entre ellos. Aislados en lo profundo de la sabana de 
+Botsuana, sin medios de comunicación y con solo un guía armado con un 
+rifle para protegerlos, los turistas aterrorizados rogaban 
+desesperadamente que llegara el rescate antes de que sus peores 
+instintos —o los animales que acechaban en las sombras— los hicieran 
+pedazos. Pero el depredador más letal ya estaba entre ellos, y solo una 
+víctima escapó sus garras sangrientas.&lt;br&gt;&lt;br&gt;Ahora este asesino bestial
+ ha elegido Boston como su nuevo territorio de caza y Rizzoli y Isles 
+deben encontrar una manera de hacerlo salir de las sombras y 
+acorralarlo. Incluso si eso significa ofrecerle el cebo al que ningún 
+cazador puede resistirse: la única víctima que escapó.&lt;/div&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:language>es</dc:language>
+        <meta name="calibre:series" content="Rizzoli &amp; Isles"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:timestamp" content="2024-04-03T10:30:04.790175+00:00"/>
+        <meta name="calibre:title_sort" content="Morir dos veces"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

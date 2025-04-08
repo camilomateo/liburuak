@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">378</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b57dff81-7687-407e-82b6-f110450b31bd</dc:identifier>
+        <dc:title>El aroma de los anhelos</dc:title>
+        <dc:creator opf:file-as="Castellanos, Mónica" opf:role="aut">Mónica Castellanos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;El aroma de los anhelos es&lt;/B&gt;&lt;B&gt;&lt;/B&gt; &lt;B&gt;una historia de amor, pero también un gran&lt;/B&gt;&lt;B&gt;&lt;/B&gt; &lt;B&gt;retrato del México precursor al estallido&lt;/B&gt;&lt;B&gt;&lt;/B&gt; &lt;B&gt;de la Revolución mexicana.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Durante el porfiriato crece cada vez más el descontento de la población. Distintos grupos comienzan a organizarse para confrontar al presidente, entre ellos, el bando liderado por Francisco I. Madero. Los maderistas se situarán en distintos lugares de México y al sur de Estados Unidos, específicamente en San Antonio, Texas, punto clave para la lucha.&lt;/P&gt; &lt;P&gt;María, de tan sólo 15 años, es una joven con espíritu revolucionario que desea escapar de su condición social privilegiada para promover el voto femenino, participar en la política e iniciar una vida de entrega para los más necesitados. Las lecturas como Regeneración de los Flores Magón, Punto Rojo del poeta Práxedis G. Guerrero y Los miserables de Victor Hugo, le infundirán ese valor. Pero no será tarea fácil: la protección y las...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial México</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073801423</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mónica Castellanos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-04T13:11:45.120316+00:00"/>
+        <meta name="calibre:title_sort" content="aroma de los anhelos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

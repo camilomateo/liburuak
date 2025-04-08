@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c532528-cea9-4599-af7d-c8a053db78d6</dc:identifier>
+        <dc:title>No Hay Salida</dc:title>
+        <dc:creator opf:file-as="Patricia Gibney" opf:role="aut">Patricia Gibney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;No hay nada más peligroso que un rostro familiar Un grito corta el aire en un entierro en el cementerio de Ragmullin. Encogido en el fondo de una tumba abierta yace el cuerpo semienterrado de una joven. La inspectora Lottie Parker debe encargarse de la investigación y enseguida sospecha que podría tratarse de Elizabeth Byrne, una joven desaparecida pocos días atrás al volver del trabajo en tren desde Dublín. Poco después, otras dos mujeres de Ragmullin desaparecen, y Lottie y su equipo creen que un asesino en serie anda suelto. Además, las desapariciones son muy parecidas a la de un caso sin resolver de hace diez años. Bajo presión por parte de su nuevo jefe y de la prensa, Lottie tratará de resolver el caso, pero ¿logrará hacerlo antes de que haya más víctimas?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Patricia Gibney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="No hay salida"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:20:51.556824+00:00"/>
+        <meta name="calibre:title_sort" content="No Hay Salida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

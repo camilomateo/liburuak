@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3005</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fef0618-fe28-4584-bed1-05fc6163fa77</dc:identifier>
+        <dc:title>En lo profundo</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1962-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;El nombre de Isaac Asimov siempre es garantía de calidad, dignidad literaria y exactitud científica. Estas cualidades se encuentran reunidas en grado superlativo en esta obra, que presenta una serie de situaciones obsesionantes que pueden presentarse a la Humanidad del futuro. ¿Cómo resolverán su penuria los habitantes de Marte? ¿Qué sucede cuando dos muchachos se encuentran unos animalillos que no son tales sino astronautas procedentes de un mundo remoto? ¿Qué amenaza, invisible para nuestros ojos se desarrolla en lo profundo de nuestro globo, para hacer eclisión algún día? ¿Qué peligros solapados puede encerrar un planeta, al parecer feraz y acogedor para el hombre, pero que aniquiló implacablemente a los primeros colonos que pusieron su planta en él doscientos años atrás? Estos son algunos de los interrogantes que plantea Asimov, para resolverlos con las respuestas y soluciones más sorprendentes e inesperadas, manteniendo en suspenso el ánimo del lector hasta que éste termina de leer la última página de &lt;cite&gt;En lo profundo&lt;/cite&gt;.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">75852</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:series" content="Nebulae - Primera Epoca"/>
+        <meta name="calibre:series_index" content="83"/>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:50+00:00"/>
+        <meta name="calibre:title_sort" content="En lo profundo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

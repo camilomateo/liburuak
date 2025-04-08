@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">687</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a060415b-ae19-4137-b8e5-cb19d346dd9a</dc:identifier>
+        <dc:title>El hombre que estaba rodeado de idiotas</dc:title>
+        <dc:creator opf:file-as="Erikson, Thomas" opf:role="aut">Thomas Erikson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-22T23:00:00+00:00</dc:date>
+        <dc:description>Este libro describe de forma concreta y amena uno de los métodos más extendidos de clasificación de las diferencias en la comunicación humana. Con trasfondo científico, y partiendo de situaciones cotidianas, proporciona una herramienta útil para entender las diferencias más significativas entre estilos de comunicación y responde a la pregunta que todos nos hacemos: «¿Qué puedo hacer yo al respecto?». ¿Alguna vez has intentado razonar con tu pareja y el resultado ha sido nefasto? ¿O has salido confuso de una reunión, con la sensación de no haber entendido nada de lo que se estaba hablando? O, lo que es peor, a veces parece que la gente no entiende lo que les dices, por más claramente que lo expliques. Todo un misterio... Aquí encontrarás la solución. Bienvenido a un revelador libro repleto de situaciones con las que seguro que te sentirás identificado, tanto para bien como para mal, y que, con un poco de suerte, te confirmarán que el idiota no eres tú. Thomas Erikson te garantiza que, después de leer este libro, el número de idiotas que te rodea se reducirá drásticamente, y entenderás lo que tu entorno intenta decirte. Después de leer este libro, ya no verás nada como antes.</dc:description>
+        <dc:publisher>AGUILAR</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencias sociales</dc:subject>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-16T06:56:23+00:00"/>
+        <meta name="calibre:title_sort" content="hombre que estaba rodeado de idiotas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

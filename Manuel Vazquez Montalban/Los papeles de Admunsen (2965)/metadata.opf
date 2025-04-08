@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2965</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d96c27e-67f6-481f-bfe1-fe1176ba9117</dc:identifier>
+        <dc:title>Los papeles de Admunsen</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-30T23:00:00+00:00</dc:date>
+        <dc:description>Admunsen, el alter ego de Vázquez Montalbán y protagonista de la novela, es un joven intelectual frustrado entre las demandas alienantes de la sociedad de consumo, la realización personal y la concienciación política. Tras pasar un par de años en la cárcel, su vida transcurre en una serie de intentos fallidos de desarrollarse como escritor, reconstruir su relación de pareja y de evitar las presiones por integrarse en el sistema, hasta que, desencantado, tendrá que decidir si implicarse en la causa o renunciar a sus principios y poner en peligro su integridad moral.
+«Los papeles de Admunsen» ofrece un retrato mordaz y despiadado de los años sesenta en Barcelona, donde se visibiliza por primera vez en la literatura de Vázquez Montalbán la represión de la dictadura, el desarrollo de una sociedad de consumo, las nuevas ideas, y los cambios en la moralidad y las costumbres, así como el exilio interior del propio autor.
+Esta edición, revisada y comentada por Jose Colmeiro, experto en la obra de Montalbán, supone una fascinante «caja negra» del escritor que da algunas claves hasta ahora desconocidas sobre su propia vida y anticipa ya su estilo maduro e inconfundible, su ácida ironía y su insobornable crítica social, características genuinas de Manuel Vázquez Montalbán y que confirman que «Los papeles de Admunsen» es un hallazgo de máxima trascendencia.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">74589</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:15.587499+00:00"/>
+        <meta name="calibre:title_sort" content="papeles de Admunsen, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

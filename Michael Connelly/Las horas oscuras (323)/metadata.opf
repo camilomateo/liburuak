@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6e98908-7e29-451c-a826-37d20c81550c</dc:identifier>
+        <dc:title>Las horas oscuras</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-25T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Harry Bosch y Renée Ballard trabajan juntos para atrapar a un asesino metódico y audaz.&lt;br&gt;Reina el caos en Hollywood en Nochevieja. Renée Ballard, detective del Departamento de Policía de Los Ángeles, recibe una llamada poco después de medianoche: el propietario de un taller de coches ha resultado mortalmente herido por una bala en medio de una fiesta callejera. Enseguida concluye que está relacionada con otro asesinato sin resolver investigado por el detective Harry Bosch. Al mismo tiempo, Ballard persigue a una perversa pareja de violadores en serie, los Hombres de Medianoche. La detective siente que va a contracorriente en un departamento de policía cambiado por la pandemia y el malestar social, por lo que busca la ayuda de Harry Bosch. Mientras trabajan juntos, deben mirar por encima del hombro constantemente. Los depredadores a los que persiguen están dispuestos a matar para mantener ocultos sus secretos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Connelly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-16T18:13:40.968445+00:00"/>
+        <meta name="calibre:title_sort" content="horas oscuras, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

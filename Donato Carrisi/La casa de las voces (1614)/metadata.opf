@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d4f7f55-c2cd-4c23-9ba0-f25bf27aff42</dc:identifier>
+        <dc:title>La casa de las voces</dc:title>
+        <dc:creator opf:file-as="Carrisi, Donato" opf:role="aut">Donato Carrisi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;LA NUEVA Y MAGISTRAL NOVELA DE CARRISI, MÁS NEGRA QUE NUNCA&lt;/span&gt;&lt;br&gt;&lt;br&gt;«Leer a Carrisi es como estar en el paraíso.» &lt;span class="a-text-bold"&gt;Ken Follet&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;LAS VOCES DE LA NOCHE ESTÁN AQUÍ. NO TE FÍES DE NADIE&lt;/span&gt;&lt;/p&gt;&lt;br&gt;Pietro
+ Gerber es un psicólogo diferente a los demás: su especialidad es la 
+hipnosis y sus pacientes tienen una cosa en común: son niños. A veces, 
+niños traumatizados o que esconden recuerdos que son incapaces de 
+evocar. Es el mejor especialista de Florencia y colabora con la policía 
+en casos criminales.&lt;br&gt;Un día recibe la llamada de una colega 
+australiana que le pide ayuda con una paciente, Hanna. El caso es 
+interesante, pero también muy especial: Hanna es ya una adulta y su 
+recuerdo infantil es un asesinato que no sabe si cometió.&lt;/div&gt;</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T09:00:01.519133+00:00"/>
+        <meta name="calibre:title_sort" content="casa de las voces, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

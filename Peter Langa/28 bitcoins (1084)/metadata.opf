@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1084</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9782e5f-3243-4fb3-938b-7661541343fc</dc:identifier>
+        <dc:title>28 bitcoins</dc:title>
+        <dc:creator opf:file-as="Langa, Peter" opf:role="aut">Peter Langa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-04T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;br&gt;Un asesino en serie está sembrando el terror entre las 
+familias más ricas del País Vasco. Berta Sanders, inspectora de policía 
+vasco-irlandesa víctima de un pasado tormentoso, es quien lidera la 
+investigación.&lt;p&gt;&lt;br&gt;Heiko Aguirre es el hijo de una de 
+esas familias. Hace tiempo que busca a su hermano desaparecido 
+misteriosamente. Después de matar a su última víctima, el asesino lo 
+llama para hacerle un ofrecimiento que Heiko no puede rechazar.&lt;br&gt;&lt;br&gt;Desde
+ ese mismo momento, los caminos de Berta y Heiko se cruzarán sin 
+remedio. Una mujer y un hombre que proceden de mundos completamente 
+diferentes unirán sus fuerzas para atrapar al asesino, todo ello sin 
+saber que lo que van a descubrir cambiará sus vidas para siempre.&lt;br&gt;&lt;br&gt;&lt;span class="a-text-italic"&gt;28 bitcoins&lt;/span&gt;
+ es una novela de asesinatos donde nada es lo que parece y que tiene un 
+ritmo trepidante que no te dejará respirar. Se trata de una cruda 
+reflexión sobre cómo el dolor puede convertirse en el auténtico motor de
+ la vida.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0B8TB843B</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-12-12T07:20:56.961532+00:00"/>
+        <meta name="calibre:title_sort" content="28 bitcoins"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

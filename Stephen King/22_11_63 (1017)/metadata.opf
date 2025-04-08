@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1017</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12368841-6b89-4100-bf7c-cba474f7e07d</dc:identifier>
+        <dc:title>22/11/63</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;El 22 de noviembre de 1963, tres disparos resonaron en Dallas. Murió el presidente Kennedy, y el mundo cambió. ¿Qué harías tú si pudieras impedirlo? Jake Epping es un profesor de ingles en una preparatoria en Lisbon Falls, Maine, quien además complementa su salario dando clases nocturnas para adultos. Un día, Jake recibe un ensayo escrito por uno de sus estudiantesuna aterradora historia sobre una noche de hace cincuenta años, en la que el padre de Harry Dunning asesino a su esposa y a dos de sus hijos con un martillo. Harry, quien escribe el ensayo, logro escapar con solo una herida en la pierna, que hasta ese dia le causa problemas al caminar. Poco después, Al, el propietario de un restaurante local y amigo de Jake, le cuenta un secreto: el almacén del restaurante es un portal a 1958. Así es como Jake se encuentra en medio de la aventura mas arriesgada de su vida: impedir el asesinato del presidente John F. Kennedy. En esta nueva vida, Jakeahora George Ambersonemprende la...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial USA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-30T06:59:15+00:00"/>
+        <meta name="calibre:title_sort" content="22/11/63"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

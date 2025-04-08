@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6969bba-fe05-4b2e-9b86-a80fd6951016</dc:identifier>
+        <dc:title>En busca de la esperanza</dc:title>
+        <dc:creator opf:file-as="Escobar, Mario" opf:role="aut">Mario Escobar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-01T06:00:00+00:00</dc:date>
+        <dc:description>Libro inspirado en la vida de Corrie Ten Boom tal como se describe en su propia memoria. Este libro tiene la intención de transportar a los lectores a la angustiante realidad de la Holanda de la Segunda Guerra Mundial. En medio de la ocupación nazi, Corrie Ten Boom, una valiente cristiana holandesa, emerge como un faro de esperanza y resiliencia.</dc:description>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002636</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">192</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:20.210742+00:00"/>
+        <meta name="calibre:title_sort" content="En busca de la esperanza"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

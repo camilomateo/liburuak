@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2972</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efb76157-4b4b-4b10-9548-e1bc98a237c0</dc:identifier>
+        <dc:title>Autobiografía del General Franco</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-09-30T23:00:00+00:00</dc:date>
+        <dc:description>Un escritor menor al borde de una jubilación no demasiado brillante, recibe la propuesta de escribir una autobiografía del general Franco. El encargo le parece un sarcasmo. Toda su vida ha sido condicionada, y no para bien, por el dictador, pero el editor aprecia sus cualidades de excelente redactor de libros de divulgación y biografías de personajes célebres. Marcial Pombo, un antifranquista de toda la vida, empieza a escribir como si escribiera Franco, pero de vez en cuando no puede más, replica al autobiografiado, es decir se replica esquizofrénicamente a sí mismo o trata de ofrecer el contrapunto de algunas notas de su vida personal a lo largo de la era franquista. El dictador habla desde la Historia, el escritor teme que la Historia sea tan objetiva con la crueldad de una época que se olvide de sus víctimas y lo reduzca todo a quince líneas de Diccionario Ilustrado. Franco, algunos miembros de su familia y de su entorno profesional y político, muchos de sus adversarios y enemigos, se convierten en personajes de novela sin salir de la Historia. Marcial Pombo finalmente ha conseguido una autobiografía de Franco entre otras posibles. Una obra abierta, una novela, y él es a la vez escritor y personaje. Novela llena de hechos y actos comprobables, históricos y de personajes supuestos. Vázquez Montalbán nos ofrece el esfuerzo narrativo más importante de su vida y de su historia.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">46524</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:16+00:00"/>
+        <meta name="calibre:title_sort" content="Autobiografía del General Franco"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

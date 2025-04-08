@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">304</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcadaf9c-c969-44ef-9167-ac9eb3f34645</dc:identifier>
+        <dc:title>Extrañas</dc:title>
+        <dc:creator opf:file-as="Arriaga, Guillermo" opf:role="aut">Guillermo Arriaga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="text-align:center"&gt;&lt;b&gt;«No era un animal, quizá tampoco un ser humano, parecía un ángel roto, perdido, ignorado.»&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Inglaterra, 1781.&lt;/b&gt;
+ William Burton, un joven noble, afronta un encuentro cuya intensidad 
+marcará y cambiará su vida. Resuelto, se embarca en una aventura donde 
+conocerá a los genios de la época, de quienesabsorberá cuantos 
+conocimientos y experiencias ponen a su alcance para encarar situaciones
+ extremas. &lt;b&gt;La amistad, el amor y la determinación&lt;/b&gt;serán sus &lt;b&gt;aliados para enfrentarse a  un mundo bizarro y cruel&lt;/b&gt;,
+ en el cual se pondrá a prueba su carácter y deberá demostrar si tiene 
+el temple para convertirse en quien desea ser o lamentará para siempre 
+su falta de valentía.&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;Extrañas&lt;/b&gt;&lt;/i&gt;&lt;b&gt;recorre el fascinante despegue de la ciencia en el siglo&lt;/b&gt;&lt;b&gt;XVIII y su pugna con posturas religiosas y aristocráticas&lt;/b&gt;.En
+ el corazón de esta novela habita una profunda reflexión sobre la 
+insondable condición humana y nos asoma con empatía al mundo de lo 
+diferente y lo anómalo, en un desfile de personajes entrañables y con 
+vidas al límite.&lt;/p&gt;&lt;p&gt;Arriaga da un giro en su narrativa con esta &lt;b&gt;magistral novela,&lt;/b&gt; cuya fiereza conduce al lector al vértigo y a confrontarse consigo mismo en sus más íntimos miedos, penas y prejuicios.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Guillermo Arriaga&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-14T08:08:49.546278+00:00"/>
+        <meta name="calibre:title_sort" content="Extrañas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1688</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c66dde4-010d-43c6-82c6-546002828eb6</dc:identifier>
+        <dc:title>Las flores no sangran</dc:title>
+        <dc:creator opf:file-as="Ravelo, Alexis" opf:role="aut">Alexis Ravelo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-16T06:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Si alguien decidiera crear una lista de crímenes idiotas&lt;/b&gt;...&amp;nbsp;&lt;br&gt;Un secuestro exprés en una isla solo figuraría después de un atraco a una comisaría o a un banco de semen, de ahí que constituya sin duda la fechoría más absurda del mundo. Y eso es precisamente lo que deciden llevar a cabo Lola, el Marqués, el Flipao y el Salvaje en un plan infalible que además es muy sencillo de ejecutar, al menos sobre el papel.&lt;br&gt;Pero Gran Canaria es una isla rodeada de agua por todas partes menos por una, que se llama Isidro Padrón, un hampón disfrazado de empresario que a su vez despacha con un ruso que no tiene nombre, y si lo tiene nadie lo dice, por lo que pueda pasar. Desbaratar el plan de cuatro malhechores de pacotilla entra dentro de lo factible. Para él es cosa fácil, aunque también en teoría.&lt;br&gt;Lo que todos ignoran es que en apenas veinticuatro horas ninguno de ellos será como es ahora porque habrán abierto la puerta del infierno.&lt;br&gt;Mézclese este meollo con ron canario,...</dc:description>
+        <dc:publisher>Editorial Alrevés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788415900924</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:45.828172+00:00"/>
+        <meta name="calibre:title_sort" content="flores no sangran, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

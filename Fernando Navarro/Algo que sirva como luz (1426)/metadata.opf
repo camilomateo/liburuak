@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92d63850-cf4c-4ba2-83aa-7d5228ffb4db</dc:identifier>
+        <dc:title>Algo que sirva como luz</dc:title>
+        <dc:creator opf:file-as="Fernando Navarro" opf:role="aut">Fernando Navarro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-28T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="text-container" data-v-02a091b0=""&gt;&lt;div class="formated-text" data-v-02a091b0="" data-v-710c7308=""&gt;&lt;p&gt;&lt;b&gt; El periodista Fernando Navarro ha escrito, después de años de entrevistas con los cuatro protagonistas y todo su entorno, la bella y conmovedora historia de&lt;/b&gt;&lt;b&gt;Supersubmarina: el relato de su éxito y su tragedia.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Esta es la historia de cuatro amigos que subieron al cielo y bajaron a los infiernos. Cuatro niños que empezaron jugando al fútbol bajo el sol en el paseo de la Constitución de Baeza y que acabaron jugando a hacer música con su propio grupo en el quiosco de ese mismo paseo bajo la luna pocos años después. Un relato acerca de cómo los sueños se hacen realidad, pero también de su fragilidad.&lt;/p&gt;&lt;p&gt;Supersubmarina ha sido y es una de las grandes bandas de pop-rock nacional de las últimas décadas. Su éxito fue abrumador; su talento, inconmensurable; su caída en desgracia tras un gravísimo accidente, inesperada y triste. El periodista Fernando Navarro les da voz a los cuatro y, después de escucharlos a ellos y a sus familias y amigos narrar sus recuerdos durante meses, ha escrito este libro para llenar sus silencios. Un testimonio de amistad, creación, éxito, dolor y superación. Una historia fieramente humana cuyo final es un enigma.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-09T09:16:20.631782+00:00"/>
+        <meta name="calibre:title_sort" content="Algo que sirva como luz"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

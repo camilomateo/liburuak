@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">411</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6edb847e-f635-4011-b626-874c53453b30</dc:identifier>
+        <dc:title>Evasión</dc:title>
+        <dc:creator opf:file-as="Whitmer, Benjamin" opf:role="aut">Benjamin Whitmer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-01T23:21:26+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;American noir en estado puro1968. En la víspera de Año Nuevo, doce presos escapan de la prisión de Old Lonesome, emplazada en las proximidades de un pequeño pueblo de Colorado, al pie de las Montañas Rocosas. El suceso conmociona profundamente a todos los habitantes y una auténtica maquinaria de guerra se pone en marcha para traer de vuelta a los convictos, vivos o muertos. Pisándoles los talones van los guardias de la penitenciaría, un rastreador sin parangón, periodistas locales ansiosos por conseguir una buena historia y una traficante de marihuana resuelta a encontrar a su primo antes que la policía. En un momento dado, los fugados se separan y siguen diferentes caminos en mitad de la noche bajo una arrolladora ventisca. Nada comparado con la incontenible y despiadada espiral de violencia que se desatará a su paso…&lt;/p&gt;
+&lt;p&gt;Con esta contundente y descarnada novela, American noir en estado puro, Benjamin Whitmer se revela sin ninguna duda como una de las voces más poderosas del género.&lt;/p&gt;
+&lt;p&gt;«La quintaesencia del género negro en la mejor tradición de la literatura norteamericana. La América de Benjamin Whitmer se sostiene sobre dos pilares —la violencia y la droga— y sus libros confirman en cada línea la definición que Manchette hizo del noir: esas novelas en las que "el mal domina históricamente"».Pierre Lemaitre&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Siruela</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419553836</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Benjamin Whitmer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-13T08:46:51.574255+00:00"/>
+        <meta name="calibre:title_sort" content="Evasión"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

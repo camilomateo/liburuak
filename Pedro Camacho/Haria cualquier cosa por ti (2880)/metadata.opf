@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2880</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73b611d2-3431-42ae-9a30-9c5ccb227471</dc:identifier>
+        <dc:title>Haría cualquier cosa por ti</dc:title>
+        <dc:creator opf:file-as="Camacho, Pedro" opf:role="aut">Pedro Camacho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-24T23:00:00+00:00</dc:date>
+        <dc:description>Aprende todo lo necesario sobre el cuidado de tu bebé. La llegada de un hijo es una experiencia emocionante, pero también puede generar miedo e incertidumbre en los padres, sobre todo durante los primeros meses. Para ayudarlos a disfrutar de esta etapa y a cuidar del bebé de la mejor manera, Pedro Camacho, enfermero de Pediatría, pone a su disposición todo su conocimiento. Haría cualquier cosa por ti es la guía más completa sobre el recién nacido. Los padres aprenderán a enfrentarse a los desafíos del bebé, incluyendo sus cuidados esenciales, la primera alimentación y el confort digestivo, y a solucionarlos de manera adecuada. Además, encontrarán información indispensable sobre el sueño, los primeros auxilios, el manejo de la fiebre, y los cuidados nasales y de la piel. Con este libro, los padres se sentirán seguros y preparados para cada momento con su bebé.</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002603</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">232</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-04T07:23:47.702118+00:00"/>
+        <meta name="calibre:title_sort" content="Haría cualquier cosa por ti"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

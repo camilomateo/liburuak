@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db2eb40d-a315-428f-b98f-acdef4f89d7e</dc:identifier>
+        <dc:title>Otra vuelta de llave</dc:title>
+        <dc:creator opf:file-as="Ware, Ruth" opf:role="aut">Ruth Ware</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span class="a-text-bold"&gt;Es el trabajo soñado, pero puede convertirse en su peor pesadilla.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;El nuevo&lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt; thriller&lt;/span&gt;&lt;span class="a-text-bold"&gt; de la Agatha Christie contemporánea.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Aunque
+ Rowan está buscando algo totalmente distinto, ese anuncio parece una 
+oportunidad demasiado buena para dejarla escapar: un puesto de niñera 
+con un salario increíble y alojamiento incluido. Y cuando llega a 
+Heatherbrae House, en los bellísimos &lt;/span&gt;&lt;span class="a-text-italic"&gt;highlands&lt;/span&gt;&lt;span&gt;
+ de Escocia, se queda impresionada ante una casa equipada con las 
+tecnologías más modernas y la preciosa familia de postal que vive en 
+ella.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Lo que Rowan aún no sabe es que se está 
+adentrando en una pesadilla, que acabará con un niño muerto y con ella 
+en prisión acusada de asesinato.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418107665</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B086WPSQBV</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/otra-vuelta-de-llave-ruth-ware/1136824925</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">x-_bDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">53263254</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-10-20T11:12:29.008523+00:00"/>
+        <meta name="calibre:title_sort" content="Otra vuelta de llave"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

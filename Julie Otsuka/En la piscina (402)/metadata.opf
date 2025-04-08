@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">402</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74346f60-4702-4249-b824-1931b9647672</dc:identifier>
+        <dc:title>En la piscina</dc:title>
+        <dc:creator opf:file-as="Otsuka, Julie" opf:role="aut">Julie Otsuka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-02T15:22:06+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;La galardonada autora &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;bestseller&lt;/span&gt;&lt;span class="a-text-bold"&gt; nos brinda una historia única, que nos recuerda la capacidad del alma para conmoverse.&lt;/span&gt;&lt;br&gt;&lt;/b&gt;«Un extraordinario examen de la fragilidad de las relaciones humanas cotidianas.» &lt;span class="a-text-bold a-text-italic"&gt;Booklist&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Una madre, una hija, y la aparición de una grieta en sus vidas.&lt;/span&gt;&lt;br&gt;Los
+ nadadores van y vienen en el agua. No saben que su rutina personal, 
+privada y silenciosa, es una pieza fundamental de un engranaje invisible
+ y siempre en equilibrio. De pronto, una grieta aparece en el fondo de 
+la piscina. Expulsados del agua, arrojados a un mundo seco, deberán 
+afrontar la realidad. Y también tendrá que hacerlo Alice, cuyos 
+recuerdos se empañan cada vez más. El agua era la última defensa. Ahora 
+su hija ha vuelto, para ser testigo de las propias grietas en su 
+relación y para compartir ese vínculo entre madre e hija que nunca 
+entendieron ni supieron que existía. La autora de &lt;span class="a-text-italic"&gt;Buda en el ático&lt;/span&gt; y &lt;span class="a-text-italic"&gt;Cuando el emperador era Dios&lt;/span&gt;
+ nos regala esta historia íntima y apasionante que supone un homenaje a 
+las experiencias de una vida, a todo aquello que se recuerda y a lo que 
+se acaba perdiendo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Julie Otsuka&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-13T08:24:31.307495+00:00"/>
+        <meta name="calibre:title_sort" content="En la piscina"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

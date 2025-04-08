@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2963</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8461d128-a5db-4c74-bba4-1c8bd4202b4e</dc:identifier>
+        <dc:title>Galíndez</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-01-01T23:00:00+00:00</dc:date>
+        <dc:description>A caballo entre el reportaje y la ficción, Galíndez narra un suceso histórico: la desaparición y ulterior asesinato del abogado y combatiente vasco en la Guerra Civil española Jesús de Galíndez. Nueva York, 1956: Jesús de Galíndez, representante del PNV en Estados Unidos, trabaja en una tesis doctoral sobre las dictaduras latinoamericanas centrada en la figura de Trujillo y su sanguinario régimen. Poco después de presentar su tesis, Galíndez es secuestrado y conducido a la República Dominicana, donde se le pierde el rastro para siempre. A partir de este hecho, Manuel Vázquez Montalbán crea un relato imaginario: la investigación que, treinta y dos años más tarde, lleva a cabo una universitaria americana, Muriel Colbert, a la que pondrán en peligro las mismas fuerzas oscuras que acabaron con Galíndez. Sobre el misterio, las verdades a medias y las especulaciones se construye esta novela apasionante que en 1991 fue galardonada con el Premio Nacional de Narrativa.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:15.283501+00:00"/>
+        <meta name="calibre:title_sort" content="Galíndez"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

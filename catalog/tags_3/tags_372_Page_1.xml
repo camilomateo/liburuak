@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Teatro</title>
+  <id>Calibre2opds:taglist:T:372</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_372_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Teatro" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por T" />
+  <entry>
+    <title>Antígona</title>
+    <id>calibre:book:2341</id>
+    <updated>2024-09-09T10:34:10Z</updated>
+    <link href="../../Sofocles/Antigona%20%282341%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sofocles/Antigona%20%282341%29/Antigona%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="98 KB" />
+    <author>
+      <name>Sófocles</name>
+      <uri>../authors_1/authors_1577_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Tragedia" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [153]:</summary>
+    <link href="../book_2/book_2341.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La casa de Bernarda Alba</title>
+    <id>calibre:book:2193</id>
+    <updated>2024-09-06T02:21:32Z</updated>
+    <link href="../../Federico%20Garcia%20Lorca/La%20casa%20de%20Bernarda%20Alba%20%282193%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Federico%20Garcia%20Lorca/La%20casa%20de%20Bernarda%20Alba%20%282193%29/La%20casa%20de%20Bernarda%20Alba%20-%20Federico%20Garcia%20Lorca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="75 KB" />
+    <author>
+      <name>Federico García Lorca</name>
+      <uri>../authors_0/authors_85_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Tragedia" />
+    <category term="Clásico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [34]:</summary>
+    <link href="../book_2/book_2193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Don Juan Tenorio</title>
+    <id>calibre:book:2228</id>
+    <updated>2024-09-06T02:21:38Z</updated>
+    <link href="../../Jose%20Zorrilla/Don%20Juan%20Tenorio%20%282228%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Zorrilla/Don%20Juan%20Tenorio%20%282228%29/Don%20Juan%20Tenorio%20-%20Jose%20Zorrilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="163 KB" />
+    <author>
+      <name>José Zorrilla</name>
+      <uri>../authors_1/authors_1569_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Teatro" />
+    <category term="Clásico" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2228.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Edipo en Colono</title>
+    <id>calibre:book:2340</id>
+    <updated>2024-09-09T10:34:10Z</updated>
+    <link href="../../Sofocles/Edipo%20en%20Colono%20%282340%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sofocles/Edipo%20en%20Colono%20%282340%29/Edipo%20en%20Colono%20-%20Sofocles.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="113 KB" />
+    <author>
+      <name>Sófocles</name>
+      <uri>../authors_1/authors_1577_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Tragedia" />
+    <category term="griega" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [132]:</summary>
+    <link href="../book_2/book_2340.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Perro del Hortelano</title>
+    <id>calibre:book:2159</id>
+    <updated>2024-09-06T02:21:26Z</updated>
+    <link href="../../Lope%20de%20Vega%20Carpio/El%20Perro%20del%20Hortelano%20%282159%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lope%20de%20Vega%20Carpio/El%20Perro%20del%20Hortelano%20%282159%29/El%20Perro%20del%20Hortelano%20-%20Lope%20de%20Vega%20Carpio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="113 KB" />
+    <author>
+      <name>Lope de Vega Carpio</name>
+      <uri>../authors_1/authors_1529_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Teatro" />
+    <category term="Comedia" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [202]:</summary>
+    <link href="../book_2/book_2159.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La tempestad</title>
+    <id>calibre:book:2358</id>
+    <updated>2024-09-09T10:34:14Z</updated>
+    <link href="../../William%20Shakespeare/La%20tempestad%20%282358%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/La%20tempestad%20%282358%29/La%20tempestad%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="102 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Clásico" />
+    <category term="Teatro" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [147]:</summary>
+    <link href="../book_2/book_2358.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

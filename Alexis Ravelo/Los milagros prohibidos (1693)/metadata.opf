@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1693</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">823be731-1ab3-4a06-95ab-3efe5a47d877</dc:identifier>
+        <dc:title>Los milagros prohibidos</dc:title>
+        <dc:creator opf:file-as="Alexis Ravelo" opf:role="aut">Alexis Ravelo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-09T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description" style="text-align: justify;"&gt;Un duelo entre dos hombres, un triángulo amoroso, una novela sobre la memoria histórica y el compromiso personal. Uno de los episodios más desconocidos de la Guerra Civil española: la Semana Roja de La Palma. Tan emocionante como El lápiz del carpintero y tan veraz como Luna de lobos, la nueva novela de Alexis Ravelo nos sumerge en uno de los episodios más desconocidos de la Guerra Civil española. Agustín Santos vaga por los montes de La Palma con un revólver que no quiere usar. Entre sus perseguidores se cuenta Floro el Hurón, pretendiente rechazado por la mujer de Agustín, que tiene la oportunidad perfecta para deshacerse de su rival. Mientras tanto, en la capital de la isla, Emilia mantiene a duras penas la esperanza de que su marido logre ponerse a salvo, cada vez más convencida de que solo un milagro podría hacer realidad algo semejante. Pero en el invierno de 1936 los fascistas parecen haberlo prohibido todo... hasta los milagros. Los milagros prohibidos es la historia de un triángulo amoroso y del duelo desigual entre dos hombres, al mismo tiempo que una honda reflexión sobre la justicia y un sentido homenaje a la memoria de los protagonistas de la Semana Roja de La Palma, un acontecimiento decisivo para el transcurso de la Guerra Civil en las Islas Canarias.&lt;/p&gt;</dc:description>
+        <dc:publisher>Siruela</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417041090</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">3ok7DgAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:46.604056+00:00"/>
+        <meta name="calibre:title_sort" content="Los milagros prohibidos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

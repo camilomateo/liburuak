@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">263</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">904e8bd4-af10-45ed-9304-f32b9fa3a784</dc:identifier>
+        <dc:title>Los Indeseados</dc:title>
+        <dc:creator opf:file-as="Sigurdardóttir, Yrsa" opf:role="aut">Yrsa Sigurdardóttir</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-04T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;### Descripción del producto&lt;/p&gt;
+&lt;p class="description"&gt;**Un *thriller* nórdico contundente que reúne lo mejor del género: misterio y ambientación.**&lt;/p&gt;
+&lt;p class="description"&gt;**En la remota Islandia...**&lt;/p&gt;
+&lt;p class="description"&gt;Aldis trabaja en un centro de menores en la Islandia rural de los años setenta. Una noche, Aldis es testigo de algo profundamente perturbador. Poco después, dos chicos del centro aparecen muertos.&lt;/p&gt;
+&lt;p class="description"&gt;Décadas más tarde, Odin, padre soltero, investiga un supuesto caso de abuso sexual siguiendo las pesquisas de su predecesor, que falleció de forma súbita y sospechosa.&lt;/p&gt;
+&lt;p class="description"&gt;**Remover el pasado tiene sus consecuencias.**&lt;/p&gt;
+&lt;p class="description"&gt;A medida que avanza en la investigación, Odin se da cuenta de que los terribles sucesos ocurridos en los setenta parecen estar relacionados con el accidente que se cobró la vida de su ex mujer: ¿fue su muerte un asesinato y no un accidente, como ha pensado durante años?&lt;/p&gt;
+&lt;p class="description"&gt;**La crítica ha dicho...**  &lt;br&gt;«Como un soplo deaire fresco en el mundo de la novela negra, lo inquietante se mete bajo la piel y crea un intenso suspense de la primera a la última página de este *thriller*.»  &lt;br&gt;*Verldens Gang*&lt;/p&gt;
+&lt;p class="description"&gt;«Necesitas nervios de acero para avanzar por esta novela de una sola pieza.»  &lt;br&gt;*Dagbladet*&lt;/p&gt;
+&lt;p class="description"&gt;«Algunas novelas de terror consiguen transmitir un sentimiento de horror, algunas una sensación de disgusto, y otras de miedo. Esta consigue las tres cosas, y lo hace con tal convicción que se hace difícil recordar que no es real.»  &lt;br&gt;*Press Association*&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON_ES">B016E456QI</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">27509383</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B016E456QI</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">xcyzCgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/los-indeseados-yrsa-sigurdard-ttir/1122793193</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788416195671</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Yrsa Sigurdardóttir&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-02T20:07:01.194841+00:00"/>
+        <meta name="calibre:title_sort" content="Los Indeseados"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

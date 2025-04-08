@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">407</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6dfb3bf-6fe4-46fe-8642-a370a491482d</dc:identifier>
+        <dc:title>Primer amor</dc:title>
+        <dc:creator opf:file-as="Gándara, Alejandro" opf:role="aut">Alejandro Gándara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-02T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;LA NOVELA MÁS EMOCIONANTE DE UN AUTOR CON «UNA DE LAS TRAYECTORIAS LITERARIAS MÁS SÓLIDAS DEL PANORAMA NACIONAL» (&lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;EL CULTURAL&lt;/span&gt;&lt;span class="a-text-bold"&gt;), GANADOR DE LOS PREMIOS NADAL Y HERRALDE&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;«Creo que desde Juan Benet [...] no ha surgido entre nosotros una prosa tan poderosa».&lt;br&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;Rafael Conte, &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;El País&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;¿Podemos
+ amar después de que nos hayan roto el corazón? ¿Cuántas veces se puede 
+alguien enamorar como la primera vez? ¿Se cierra con el tiempo la herida
+ de ese amor? Esta novela, protagonizada por un joven que vive su 
+primera pasión, aborda todas estas cuestiones: la violencia torrencial 
+con la que llega el enamoramiento, la falta de recursos del individuo 
+ante la experiencia y la huella que deja en el resto de la existencia. 
+Una historia de amor y de descubrimiento que abarca casi cinco décadas 
+en la vida de sus protagonistas y del país.&lt;/p&gt;&lt;p&gt;Con una 
+tensión narrativa que encoge el corazón, Gándara recorre con esta obra 
+el territorio en el que se ha confirmado como un gran maestro: el de la 
+complejidad de las emociones humanas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alejandro Gándara&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-13T08:24:33.886971+00:00"/>
+        <meta name="calibre:title_sort" content="Primer amor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

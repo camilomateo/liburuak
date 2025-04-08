@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1652</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">717f225c-f4ee-4173-83db-f6ffd7cf6bbe</dc:identifier>
+        <dc:title>Secretos imperfectos</dc:title>
+        <dc:creator opf:file-as="Michael Hjorth &amp; Hans Rosenfeldt" opf:role="aut">Michael Hjorth</dc:creator>
+        <dc:creator opf:file-as="Michael Hjorth &amp; Hans Rosenfeldt" opf:role="aut">Hans Rosenfeldt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-27T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;Un
+ joven de dieciséis años ha sido brutalmente asesinado. Un 
+brillante equipo policial, dirigido por el experto criminólogo Torkel 
+Höglund y el eminente psiquiatra criminal Sebastian Bergman, sigue la 
+pista al asesino.&lt;br&gt;Todo son callejones sin salida y secretos por todas
+ partes. Un misterio de difícil resolución y una trama adictiva hasta el
+ insomnio. &lt;br&gt;&lt;span class="a-text-bold"&gt;Prepárate para conocer a Sebastian Bergman.&lt;/span&gt;&lt;br&gt;Torturado y con una inteligencia fuera de serie.&lt;br&gt;Brusco, mujeriego, borde y autodestructivo,&lt;br&gt;pero brillante y totalmente adictivo:&lt;br&gt;Querrás saber más de él, conocerlo y acompañarle en su camino.&lt;br&gt;«Una
+ trama criminal emocionante con un montón de giros y más giros... Lo 
+mejor que ha exportado el género negro sueco este año.» Die Welt&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01DR8EUXO</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Bergman"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-07-07T13:32:35.481336+00:00"/>
+        <meta name="calibre:title_sort" content="Secretos imperfectos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

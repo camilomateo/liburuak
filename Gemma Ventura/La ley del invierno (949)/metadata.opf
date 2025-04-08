@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">949</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ae06d5a-1ced-48f3-bce4-232bb11df830</dc:identifier>
+        <dc:title>La ley del invierno</dc:title>
+        <dc:creator opf:file-as="Ventura, Gemma" opf:role="aut">Gemma Ventura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-07-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un canto a la imaginación y a las leyes invisibles de la naturaleza en una voz literaria única Premio Josep Pla 2023 Una chica vela a su abuelo y en la soledad absoluta tiene dos grandes compañías, la de la memoria y la de la imaginación. Mientras los cerezos se desnudan, la ley del invierno se impone para recordarnos que para renacer es necesario antes dejar ir. Con un aire intimista y mágico, esta novela hace visible lo invisible: las personas que no están pero que nos guían hablándonos al oído, el amor que dejamos existir cuando necesitamos que exista y la forma como suplimos cada ausencia. Con esta historia, Gemma Ventura ha sido galardonada con el prestigioso Premi Josep Pla 2023. Esta obra ha recibido una ayuda del MINISTERIO DE CULTURA Y DEPORTE, Dirección General del Libro y Fomento de la Lectura.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423363773</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_wS_EAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-14T07:48:41.723885+00:00"/>
+        <meta name="calibre:title_sort" content="ley del invierno, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

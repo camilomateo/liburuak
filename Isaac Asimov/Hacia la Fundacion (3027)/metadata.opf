@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3027</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8a25509-ad88-4740-ba95-256d9c8a82d5</dc:identifier>
+        <dc:title>Hacia la Fundación</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Mientras Hari Seldon se esfuerza por perfeccionar su revolucionaria teoría de la psicohistoria, el gran Imperio Galáctico está al borde de un colapso apocalíptico. Seldon y aquellos a los que más quiere se convierten en peones en la lucha por el poder: quien lo controle a él controlará la psicohistoria, y con ella el futuro de la Galaxia.
+Entre los que desean convertir la psicohistoria en un arma se encuentran un político, el emperador Cleón, y un despiadado general. En su último acto de servicio a la humanidad, Seldon debe apañárselas para salvar el trabajo de toda su vida de las garras de ambos e ir en busca de sus verdaderos herederos y del sueño de una nueva Fundación.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">62374</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:series" content="Saga de la Fundación: Ciclo de Trantor"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:55.317041+00:00"/>
+        <meta name="calibre:title_sort" content="Hacia la Fundación"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

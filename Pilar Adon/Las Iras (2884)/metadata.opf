@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2884</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5890519d-ed71-4a93-9209-2f938951f1c9</dc:identifier>
+        <dc:title>Las Iras</dc:title>
+        <dc:creator opf:file-as="Pilar Adón" opf:role="aut">Pilar Adón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-22T08:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;¿Puede surgir la belleza tras el horror? ¿Es posible el sosiego después de la venganza extrema? Los personajes de estos cuentos tan turbadores como hermosos, tan inquietantes como dotados de una sensibilidad feroz, aspiran a la calma, a vivir sin miedo, a contar con un paisaje al que llamar hogar, aferrándose a su noción de lo que ha de ser la felicidad, la libertad, el amor, sin que quepa traición posible. Con la certeza de que el cariño que alguna vez les tuvieron debe durar para siempre. Pero ¿qué sucede cuando sus expectativas se frustran? ¿Y si se quiebra la confianza? ¿Dónde quedan entonces las ideas compartidas de moral y justicia? Este nuevo libro de Pilar Adón, en el que despliega la firmeza literaria a la que tiene habituados a sus lectores, nos traslada a los territorios del monstruo con aspecto de ángel. A unos escenarios en los que parecen reinar la inocencia, los afectos y la intimidad, pero que pronto se revelan dominados por la hostilidad y la transgresión. Con un elevado concepto de la amistad, los protagonistas de Las iras humillan, hieren y matan amparándose en unas reglas impuestas por ellos que han de cumplirse. Luego pueden terminar en un pozo o vagando por un páramo con la mirada perdida, devorados por sí mismos o encerrados en una casa. Y nosotros, a su lado, asistimos a la corrupción del paraíso, a la batalla sin tregua entre el candor y lo terrible, la serenidad y la fiereza, asomados igualmente a la inmensidad del abismo.&lt;/p&gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410317697</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">222755805</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0DQVQQBLB</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-04T07:23:48.318117+00:00"/>
+        <meta name="calibre:title_sort" content="Las Iras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

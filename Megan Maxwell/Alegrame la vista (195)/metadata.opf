@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">195</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">814d466c-e3a2-4a49-bac8-8938e5311804</dc:identifier>
+        <dc:title>Alegrame la vista</dc:title>
+        <dc:creator opf:file-as="Megan Maxwell" opf:role="aut">Megan Maxwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Alicia es una joven enfermera que adora su profesión y a la que le gusta divertirse, leer, viajar y disfrutar con sus amigos con «derecho a roce». &lt;/p&gt;
+&lt;p&gt;Sin embargo, todo cambia cuando entra a trabajar en el hospital Víctor Molina, un joven obstetra, morenazo y de ojos verdes, que le alegrará la vista todas las mañanas. &lt;/p&gt;
+&lt;p&gt;El problema es que Víctor no sólo es su superior e hijo de su jefe, sino también el hombre que se ha dispuesto a conquistarla. &lt;/p&gt;
+&lt;p&gt;Alicia trata de huir del influjo que ejerce sobre ella, pero en ocasiones, cuanto más lo intentas, menos aciertas, hasta que el destino toma cartas en el asunto y les hace entender que sus corazones ya han elegido.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Zafiro Books</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relatos</dc:subject>
+        <dc:subject>Romántica</dc:subject>
+        <dc:subject>Erótica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Megan Maxwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:19.882902+00:00"/>
+        <meta name="calibre:title_sort" content="Alegrame la vista"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

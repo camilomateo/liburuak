@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por E</title>
+  <id>Calibre2opds:taglist:L:371:E</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_371_E_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por E" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <link href="./tags_371_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:es" />
+  <link href="./tags_371_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por E" />
+  <link href="../tags_3/tags_371_E_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 7)" />
+  <entry>
+    <title>Entre naranjos</title>
+    <id>calibre:book:2156</id>
+    <updated>2024-09-06T02:21:25Z</updated>
+    <link href="../../Vicente%20Blasco%20Ibanez/Entre%20naranjos%20%282156%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Vicente%20Blasco%20Ibanez/Entre%20naranjos%20%282156%29/Entre%20naranjos%20-%20Vicente%20Blasco%20Ibanez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="290 KB" />
+    <author>
+      <name>Vicente Blasco Ibáñez</name>
+      <uri>../authors_1/authors_1496_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [191]:</summary>
+    <link href="../book_2/book_2156.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Envidia</title>
+    <id>calibre:book:2712</id>
+    <updated>2024-11-22T00:06:50Z</updated>
+    <link href="../../Mario%20Escobar/Envidia%20%282712%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/Envidia%20%282712%29/Envidia%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="135 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2024-10-10T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Thriller" />
+    <category term="Lang:es" />
+    <summary>Hay novelas imposibles de dejar una vez que has comenzado, historias que llevan el suspense a su estado máximo y hacen dudar al lector cada vez que termina un capítulo. En este thriller absolutamente original y adictivo, Mario Escobar rompe los límit...</summary>
+    <link href="../book_2/book_2712.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Equilibra tu glucosa</title>
+    <id>calibre:book:1302</id>
+    <updated>2024-03-15T09:08:17Z</updated>
+    <link href="../../Ismael%20Galancho/Equilibra%20tu%20glucosa%20%281302%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ismael%20Galancho/Equilibra%20tu%20glucosa%20%281302%29/Equilibra%20tu%20glucosa%20-%20Ismael%20Galancho.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="6 MB" />
+    <author>
+      <name>Ismael Galancho</name>
+      <uri>../authors_0/authors_946_Page_1.xml</uri>
+    </author>
+    <published>2024-01-31T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Con este libro:*conocerás los errores más comunes que cometemos al restringir ciertos alimentos en función de los picos de glucosa;*entenderás por qué medir tu respuesta glucémica después de una comida podría perjudicar tu salud en lugar de mejorarla...</summary>
+    <link href="../book_1/book_1302.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Escondida</title>
+    <id>calibre:book:1729</id>
+    <updated>2024-08-08T04:59:24Z</updated>
+    <link href="../../Ross%20Armstrong/Escondida%20%281729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ross%20Armstrong/Escondida%20%281729%29/Escondida%20-%20Ross%20Armstrong.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="543 KB" />
+    <author>
+      <name>Ross Armstrong</name>
+      <uri>../authors_1/authors_1238_Page_1.xml</uri>
+    </author>
+    <published>2017-09-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Duomo ediciones</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Lily vive con su esposo Aiden en un piso de un edificio nuevo frente a una urbanización que será demolida en breve. La afición de Lily por observar a las aves a través de sus prismáticos la lleva a no poder evitar la tentación de espiar a sus vecinos...</summary>
+    <link href="../book_1/book_1729.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Escrito en el agua</title>
+    <id>calibre:book:67</id>
+    <updated>2023-01-17T11:46:10Z</updated>
+    <link href="../../Paula%20Hawkins/Escrito%20en%20el%20agua%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paula%20Hawkins/Escrito%20en%20el%20agua%20%2867%29/Escrito%20en%20el%20agua%20-%20Paula%20Hawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="604 KB" />
+    <author>
+      <name>Paula Hawkins</name>
+      <uri>../authors_0/authors_43_Page_1.xml</uri>
+    </author>
+    <published>2017-05-23T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una apasionante novela sobre las historias que nos contamos al recordar nuestro pasado y su poder para destruirnos.Pocos días antes de morir, Nel Abbott estuvo llamando a su hermana, pero Jules no cogió el teléfono, ignoró sus súplicas de ayuda. Aho...</summary>
+    <link href="../book_0/book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Escrito en la piel del jaguar</title>
+    <id>calibre:book:341</id>
+    <updated>2023-02-21T01:18:08Z</updated>
+    <link href="../../Sara%20Jaramillo%20Klinkert/Escrito%20en%20la%20piel%20del%20jaguar%20%28341%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sara%20Jaramillo%20Klinkert/Escrito%20en%20la%20piel%20del%20jaguar%20%28341%29/Escrito%20en%20la%20piel%20del%20jaguar%20-%20Sara%20Jaramillo%20Klinkert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="589 KB" />
+    <author>
+      <name>Sara Jaramillo Klinkert</name>
+      <uri>../authors_0/authors_238_Page_1.xml</uri>
+    </author>
+    <published>2023-02-12T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Lumen</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La autora descubierta por Abad Faciolince, una de «las escritoras que  revolucionan las letras latinoamericanas» (SModa), vuelve a deslumbrar tras Cómo maté a mi padre y Donde cantan las ballenas (ganadora del XXVI Premio San Clemente)«La prosa es pr...</summary>
+    <link href="../book_0/book_341.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Escuela de escritura</title>
+    <id>calibre:book:764</id>
+    <updated>2023-05-25T00:54:18Z</updated>
+    <link href="../../Mercedes%20Abad/Escuela%20de%20escritura%20%28764%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mercedes%20Abad/Escuela%20de%20escritura%20%28764%29/Escuela%20de%20escritura%20-%20Mercedes%20Abad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="541 KB" />
+    <author>
+      <name>Mercedes Abad</name>
+      <uri>../authors_0/authors_570_Page_1.xml</uri>
+    </author>
+    <published>2023-04-11T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tras varios años sin publicar, vuelve Mercedes Abad al catálogo de Tusquets con una novela trepidante¿Hasta dónde serías capaz de llegar con tal de sorprender al mundo con una obra maestra? ¿Qué llegarías a hacer para que reconozcan tu talento genial...</summary>
+    <link href="../book_0/book_764.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ese lugar al que llamamos casa</title>
+    <id>calibre:book:1288</id>
+    <updated>2024-03-15T08:54:02Z</updated>
+    <link href="../../Marta%20Orriols/Ese%20lugar%20al%20que%20llamamos%20casa%20%281288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marta%20Orriols/Ese%20lugar%20al%20que%20llamamos%20casa%20%281288%29/Ese%20lugar%20al%20que%20llamamos%20casa%20-%20Marta%20Orriols.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="563 KB" />
+    <author>
+      <name>Marta Orriols</name>
+      <uri>../authors_0/authors_936_Page_1.xml</uri>
+    </author>
+    <published>2022-12-19T10:25:35Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una periodista que cubre la zona de Oriente Medio regresa a Barcelona después de mucho tiempo. Quiere reanudar el contacto con la familia, pero lo que de verdad necesita es tomar distancia de las guerras, de un tipo de periodismo que no la convence y...</summary>
+    <link href="../book_1/book_1288.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ese país al que te pareces</title>
+    <id>calibre:book:1687</id>
+    <updated>2024-07-29T11:15:45Z</updated>
+    <link href="../../Tobie%20Nathan/Ese%20pais%20al%20que%20te%20pareces%20%281687%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tobie%20Nathan/Ese%20pais%20al%20que%20te%20pareces%20%281687%29/Ese%20pais%20al%20que%20te%20pareces%20-%20Tobie%20Nathan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="580 KB" />
+    <author>
+      <name>Tobie Nathan</name>
+      <uri>../authors_1/authors_1208_Page_1.xml</uri>
+    </author>
+    <published>2017-10-03T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Historica" />
+    <category term="Lang:es" />
+    <summary>La historia de un amor prohibido entre dos jóvenes en el Egipto de Faruq, el rey-niño. El Egipto multicultural y las décadas más convulsas del siglo XX se convierten en el escenario de un amor imposible. Zohar nace en el gueto judío de El Cairo, de u...</summary>
+    <link href="../book_1/book_1687.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Esencialismo</title>
+    <id>calibre:book:1110</id>
+    <updated>2024-01-08T09:16:13Z</updated>
+    <link href="../../Greg%20McKeown/Esencialismo%20%281110%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Greg%20McKeown/Esencialismo%20%281110%29/Esencialismo%20-%20Greg%20McKeown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Greg McKeown</name>
+      <uri>../authors_0/authors_814_Page_1.xml</uri>
+    </author>
+    <published>2014-08-12T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>AGUILAR</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>¿Sabes en qué inviertes tu tiempo y energía?Descubre lo que es verdaderamente esencial y obtén los mejores resultados.Esencial no se trata de hacer más cosas en menos tiempo. Se trata de obtener sólo cosas bien hechas. No es una estrategia de gestión...</summary>
+    <link href="../book_1/book_1110.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Esos días azules</title>
+    <id>calibre:book:763</id>
+    <updated>2023-05-25T00:54:16Z</updated>
+    <link href="../../Nieves%20Herrero/Esos%20dias%20azules%20%28763%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nieves%20Herrero/Esos%20dias%20azules%20%28763%29/Esos%20dias%20azules%20-%20Nieves%20Herrero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Nieves Herrero</name>
+      <uri>../authors_0/authors_569_Page_1.xml</uri>
+    </author>
+    <published>2019-05-10T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Esta novela es una de las más conmovedoras historias de amor que jamás se han escrito. El relato de una pasión imposible y secreta que permanecerá para siempre en el alma de los lectores.Nieves Herrero desvela por primera vez la verdadera vida de Pil...</summary>
+    <link href="../book_0/book_763.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Española</title>
+    <id>calibre:book:923</id>
+    <updated>2023-07-04T02:12:14Z</updated>
+    <link href="../../Antonio%20Perez%20Henares/La%20Espanola%20%28923%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antonio%20Perez%20Henares/La%20Espanola%20%28923%29/La%20Espanola%20-%20Antonio%20Perez%20Henares.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="606 KB" />
+    <author>
+      <name>Antonio Pérez Henares</name>
+      <uri>../authors_0/authors_693_Page_1.xml</uri>
+    </author>
+    <published>2023-04-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Antonio Pérez Henares consigue, con una prosa evocadora y una profunda comprensión de la época y la tierra, de sus olores, colores y sabores, un excelente retablo de aquellos agitados años a caballo entre los siglos XV y XVI en los que, en una isla d...</summary>
+    <link href="../book_0/book_923.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Esperando al diluvio</title>
+    <id>calibre:book:89</id>
+    <updated>2023-01-18T00:09:26Z</updated>
+    <link href="../../Dolores%20Redondo/Esperando%20al%20diluvio%20%2889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dolores%20Redondo/Esperando%20al%20diluvio%20%2889%29/Esperando%20al%20diluvio%20-%20Dolores%20Redondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Dolores Redondo</name>
+      <uri>../authors_0/authors_62_Page_1.xml</uri>
+    </author>
+    <published>2022-11-16T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Entre los años 1968 y 1969, el asesino al que la prensa bautizaría como John Biblia mató a tres mujeres en Glasgow. Nunca fue identificado y el caso todavía sigue abierto hoy en día. En esta novela, a principios de los años ochenta, el investigador d...</summary>
+    <link href="../book_0/book_89.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Espía accidental</title>
+    <id>calibre:book:1098</id>
+    <updated>2023-12-28T03:38:22Z</updated>
+    <link href="../../Jorge%20Dezcallar/Espia%20accidental%20%281098%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jorge%20Dezcallar/Espia%20accidental%20%281098%29/Espia%20accidental%20-%20Jorge%20Dezcallar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="525 KB" />
+    <author>
+      <name>Jorge Dezcallar</name>
+      <uri>../authors_0/authors_800_Page_1.xml</uri>
+    </author>
+    <published>2021-09-15T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>La Esfera de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Asís está de vuelta en Damasco, la ciudad que le vio nacer, tras varios años pagando sus errores de juventud en la Legión Extranjera. Un agente del CNI le ha hecho una tentadora propuesta para trabajar con los servicios de inteligencia españoles, y e...</summary>
+    <link href="../book_1/book_1098.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Espía de Dios</title>
+    <id>calibre:book:522</id>
+    <updated>2023-04-05T00:40:06Z</updated>
+    <link href="../../Juan%20Gomez-Jurado/Espia%20de%20Dios%20%28522%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Gomez-Jurado/Espia%20de%20Dios%20%28522%29/Espia%20de%20Dios%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Juan Gómez-Jurado</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>2006-01-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Un centenar de cardenales acuden al Vaticano para asistir al Cónclave del que saldrá elegido el nuevo Papa. Pese a las infranqueables medidas de seguridad dos de ellos aparecen asesinados siguiendo un macabro ritual. La psiquiatra criminalista Paola ...</summary>
+    <link href="../book_0/book_522.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Estar bien aquí y ahora</title>
+    <id>calibre:book:221</id>
+    <updated>2023-01-27T11:59:16Z</updated>
+    <link href="../../Luis%20Rojas%20Marcos/Estar%20bien%20aqui%20y%20ahora%20%28221%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luis%20Rojas%20Marcos/Estar%20bien%20aqui%20y%20ahora%20%28221%29/Estar%20bien%20aqui%20y%20ahora%20-%20Luis%20Rojas%20Marcos.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="642 KB" />
+    <author>
+      <name>Luis Rojas Marcos</name>
+      <uri>../authors_0/authors_148_Page_1.xml</uri>
+    </author>
+    <published>2022-10-13T06:40:28Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Te has preguntado alguna vez qué es estar bien? ¿Sabes por qué habitualmente no lo estás? Luis Rojas Marcos, uno de los psiquiatras más prestigiosos y reconocidos a nivel mundial, nos da las claves para mejorar nuestra salud mental en una de las etap...</summary>
+    <link href="../book_0/book_221.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Este dolor no es mío</title>
+    <id>calibre:book:694</id>
+    <updated>2023-05-16T02:02:38Z</updated>
+    <link href="../../Mark%20Wolynn/Este%20dolor%20no%20es%20mio%20%28694%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mark%20Wolynn/Este%20dolor%20no%20es%20mio%20%28694%29/Este%20dolor%20no%20es%20mio%20-%20Mark%20Wolynn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="690 KB" />
+    <author>
+      <name>Mark Wolynn</name>
+      <uri>../authors_0/authors_518_Page_1.xml</uri>
+    </author>
+    <published>2020-11-24T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Gaia</dcterms:publisher>
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <summary>Un enfoque transformador que permite resolver problemas crónicos como la depresión, la ansiedad y las fobias, que no han podido ser aliviados mediante la terapia tradicional, los medicamentos u otras medidas.</summary>
+    <link href="../book_0/book_694.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Estirpe de sangre</title>
+    <id>calibre:book:2692</id>
+    <updated>2024-10-26T00:29:48Z</updated>
+    <link href="../../Sandra%20Aza/Estirpe%20de%20sangre%20%282692%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sandra%20Aza/Estirpe%20de%20sangre%20%282692%29/Estirpe%20de%20sangre%20-%20Sandra%20Aza.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Sandra Aza</name>
+      <uri>../authors_1/authors_1767_Page_1.xml</uri>
+    </author>
+    <published>2024-09-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Libelo de sangre" />
+    <summary>Libelo de sangre [2]: Es la hora de restaurar el honor familiar. Es la hora de culminar la venganza. Tras el auto de fe que le ha dejado huérfano, Alonso acude a la Inclusa para recuperar a su hermano Diego, pero allí enfrenta la peor de las noticias...</summary>
+    <link href="../book_2/book_2692.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Estrella del desierto</title>
+    <id>calibre:book:976</id>
+    <updated>2023-08-16T05:29:08Z</updated>
+    <link href="../../Michael%20Connelly/Estrella%20del%20desierto%20%28976%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Connelly/Estrella%20del%20desierto%20%28976%29/Estrella%20del%20desierto%20-%20Michael%20Connelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="546 KB" />
+    <author>
+      <name>Michael Connelly</name>
+      <uri>../authors_0/authors_229_Page_1.xml</uri>
+    </author>
+    <published>2023-05-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alianza Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Harry Bosch" />
+    <summary>Harry Bosch [25]: Renée Ballard y Harry Bosch trabajan juntos para dar caza a la «ballena blanca» del detective, el asesino de una familia enteraHa pasado un año desde que la detective Renée Ballard abandonó el cuerpo de policía cansada de la misogin...</summary>
+    <link href="../book_0/book_976.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Estrena optimismo</title>
+    <id>calibre:book:1184</id>
+    <updated>2024-02-01T09:59:07Z</updated>
+    <link href="../../Patricia%20Ramirez/Estrena%20optimismo%20%281184%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patricia%20Ramirez/Estrena%20optimismo%20%281184%29/Estrena%20optimismo%20-%20Patricia%20Ramirez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Patricia Ramírez</name>
+      <uri>../authors_0/authors_862_Page_1.xml</uri>
+    </author>
+    <published>2018-09-19T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>La vida no es perfecta, pero tu actitud sí puede serlo.El nuevo libro de Patricia Ramírez incluye dinámicas y muchos ejercicios prácticos.Si hasta ahora no has estrenado optimismo, estás de suerte...¡Hay un montón de optimismo para ti!Ser optimista ...</summary>
+    <link href="../book_1/book_1184.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Estudio en escarlata</title>
+    <id>calibre:book:2329</id>
+    <updated>2024-09-09T10:34:08Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/Estudio%20en%20escarlata%20%282329%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/Estudio%20en%20escarlata%20%282329%29/Estudio%20en%20escarlata%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="172 KB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [113]:</summary>
+    <link href="../book_2/book_2329.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Eva</title>
+    <id>calibre:book:46</id>
+    <updated>2023-01-17T10:26:34Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/Eva%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/Eva%20%2846%29/Eva%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="649 KB" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2017-09-15T11:29:17Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Falcó" />
+    <summary>Falcó [2]: «No me tengas por una de esas burguesitas perdidas entre las filas  obreras. Soy una agente soviética, y tus criminales jefes fascistas podrían pedirte cuentas.» Marzo de 1937. Mientras la Guerra Civil sigue su trágico curso, una  nueva mi...</summary>
+    <link href="../book_0/book_46.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Evasión</title>
+    <id>calibre:book:411</id>
+    <updated>2023-03-13T09:46:54Z</updated>
+    <link href="../../Benjamin%20Whitmer/Evasion%20%28411%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Benjamin%20Whitmer/Evasion%20%28411%29/Evasion%20-%20Benjamin%20Whitmer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="600 KB" />
+    <author>
+      <name>Benjamin Whitmer</name>
+      <uri>../authors_0/authors_301_Page_1.xml</uri>
+    </author>
+    <published>2023-03-01T11:21:26Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Siruela</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>American noir en estado puro1968. En la víspera de Año Nuevo, doce presos escapan de la prisión de Old Lonesome, emplazada en las proximidades de un pequeño pueblo de Colorado, al pie de las Montañas Rocosas. El suceso conmociona profundamente a todo...</summary>
+    <link href="../book_0/book_411.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Evolucion política del pueblo mexicano: Libros Primero y Segundo</title>
+    <id>calibre:book:2026</id>
+    <updated>2024-09-06T01:57:47Z</updated>
+    <link href="../../Justo%20Sierra/Evolucion%20politica%20del%20pueblo%20mexic%20%282026%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Justo%20Sierra/Evolucion%20politica%20del%20pueblo%20mexic%20%282026%29/Evolucion%20politica%20del%20pueblo%20m%20-%20Justo%20Sierra.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="222 KB" />
+    <author>
+      <name>Justo Sierra</name>
+      <uri>../authors_1/authors_1456_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [96]:</summary>
+    <link href="../book_2/book_2026.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una Excursión a los Indios Ranqueles</title>
+    <id>calibre:book:2186</id>
+    <updated>2024-09-06T02:21:31Z</updated>
+    <link href="../../Lucio%20V.%20Mansilla/Una%20Excursion%20a%20los%20Indios%20Ranquele%20%282186%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lucio%20V.%20Mansilla/Una%20Excursion%20a%20los%20Indios%20Ranquele%20%282186%29/Una%20Excursion%20a%20los%20Indios%20Ranq%20-%20Lucio%20V.%20Mansilla.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="300 KB" />
+    <author>
+      <name>Lucio V. Mansilla</name>
+      <uri>../authors_1/authors_1548_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Argentina" />
+    <category term="--" />
+    <category term="Description" />
+    <category term="and" />
+    <category term="travel" />
+    <category term="Ranquel" />
+    <category term="Indians" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [91]:</summary>
+    <link href="../book_2/book_2186.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tags_3/tags_371_E_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 7)" />
+  <link href="../tags_3/tags_371_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 7)" />
+  <link href="../tags_3/tags_371_E_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (7 of 7)" />
+</feed>

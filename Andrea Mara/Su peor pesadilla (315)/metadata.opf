@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">315</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c457ddf-b28c-4993-a016-0f9a8264b26f</dc:identifier>
+        <dc:title>Su peor pesadilla</dc:title>
+        <dc:creator opf:file-as="Mara, Andrea" opf:role="aut">Andrea Mara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="center" style="font-style: italic; font-weight: bold"&gt;&lt;span style="color: #d42328"&gt;Fue a buscar a su hijo, pero él nunca estuvo allí &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-style: italic; font-weight: bold"&gt;&lt;span style="color: #595959"&gt;UN NIÑO DESAPARECIDO.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-style: italic; font-weight: bold"&gt;&lt;span style="color: #595959"&gt;CUATRO MUJERES SOSPECHOSAS.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-style: italic; font-weight: bold"&gt;&lt;span style="color: #595959"&gt;UNA COMUNIDAD LLENA DE SECRETOS.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-style: italic; font-weight: bold"&gt;&lt;span style="color: #595959"&gt;¿QUIÉN TIENE REALMENTE LA CULPA?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Marissa llega a la dirección exacta, a la hora acordada, a recoger a su hijo Milo. Es la primera vez que recibe una invitación a jugar con un niño de su nuevo colegio. Pero la mujer que abre la puerta no es la madre que ella esperaba. Tampoco es una niñera. Y Milo no está en esa casa. Así comienza la peor pesadilla de todas las madres y padres.&lt;/p&gt;
+&lt;p&gt;Marissa y Peter, los padres de Milo, llaman a la policía y se desata una investigación intensa y dramática, que trastorna completamente la vida de ese tranquilo barrio a las afueras de Dublín.   &lt;/p&gt;
+&lt;p&gt;¿Qué sabe la profesora del colegio responsable de entregar a los niños a la salida? ¿Se trata de un secuestro? ¿Recibirán una llamada pidiendo un rescate millonario?   &lt;/p&gt;
+&lt;p&gt;¿Por qué Jenny, la madre del niño donde debía ir a jugar Milo, se siente tan culpable que se suma a la investigación?   &lt;/p&gt;
+&lt;p style="font-style: italic"&gt;Con una escritura impecable y unos personajes ricos y tremendamente reales, la historia se concentra en cuatro mujeres que podrían ser las culpables, aunque una sola de ellas se llevó a Milo.  &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Motus</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Andrea Mara&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-16T07:38:59.738134+00:00"/>
+        <meta name="calibre:title_sort" content="Su peor pesadilla"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

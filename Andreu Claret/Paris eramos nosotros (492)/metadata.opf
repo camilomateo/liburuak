@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">492</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba7ee05d-b395-41cf-b849-4192a582609a</dc:identifier>
+        <dc:title>París éramos nosotros</dc:title>
+        <dc:creator opf:file-as="Claret, Andreu" opf:role="aut">Andreu Claret</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-13T14:06:49+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;París éramos nosotros&lt;/span&gt; narra 
+la extraordinaria vida de un hijo de labradores, exiliado en Francia, 
+que se enamora de una jovencísima catalana que también se ha refugiado 
+en dicho país durante la segunda guerra mundial.&lt;/p&gt;&lt;p&gt;Comprometido
+ con la República y cercano a Lluís Companys durante la guerra civil, 
+nuestro protagonista combate la adversidad y se sobrepone a la difícil 
+situación del exilio. Logra gestionar el mayor circo de Francia, 
+explotar bosques en Occitania bajo la ocupación alemana, organizar los 
+primeros conciertos solidarios de Pau Casals, colaborar con el maquis de
+ la Cerdaña, escapar de las garras de la Gestapo y dirigir una 
+publicación catalanista que aboga por la unidad del frente 
+antifranquista.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Andreu Claret&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:01:55.408187+00:00"/>
+        <meta name="calibre:title_sort" content="París éramos nosotros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2596</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed0916c4-4fb6-480c-a83d-1cdc7541c2b9</dc:identifier>
+        <dc:title>Historia absurda de Cataluña</dc:title>
+        <dc:creator opf:file-as="Absurdum, Ad" opf:role="aut">Ad Absurdum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div jscontroller="IsfMIf" jsaction="rcuQ6b:npT2md" class="PHBdkd" data-content-height="144" jsshadow="" style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;&lt;div jsname="bN97Pc" class="DWPxHb" itemprop="description" style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px; max-height: none; overflow: hidden; position: relative;"&gt;&lt;content style="-webkit-tap-highlight-color: transparent;"&gt;Cataluña se ha convertido en uno de los temas más candentes de los últimos años. ¿A qué se debe esto?&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px;"&gt;¿Han hecho su propia Torre Eiffel con castellers?&lt;/p&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px;"&gt;¿Han declarado la guerra a  Corea del Norte?&lt;/p&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px;"&gt;¿O ha ocurrido alguna otra cosa?&lt;/p&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px;"&gt;En este libro los chicos de Ad Absurdum desentrañan varios episodios de la historia de&lt;/p&gt;&lt;p style="-webkit-tap-highlight-color: transparent; border: 0px; margin: 0px; padding: 0px;"&gt;Cataluña, desde que Carlomagno pisó Hispania hasta que Puigdemont pisó Bélgica. Por el camino, intentan averiguar cómo el «procés» ha llegado a la situación en la que se encuentra. Todo un viaje histórico desde Wifredo el Velloso hasta las elecciones del 21D, siempre con todo el humor del mundo. &lt;/p&gt;&lt;/content&gt;&lt;/div&gt;&lt;/div&gt;&lt;br class="Apple-interchange-newline"&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-12T13:39:21.805347+00:00"/>
+        <meta name="calibre:title_sort" content="Historia absurda de Cataluña"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

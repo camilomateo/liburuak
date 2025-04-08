@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da2b10c4-e8d7-48ac-bb6a-b317516b265f</dc:identifier>
+        <dc:title>Aún siguen aquí</dc:title>
+        <dc:creator opf:file-as="Jewell, Lisa" opf:role="aut">Lisa Jewell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-23T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Adéntrate en el nuevo thriller de Lisa Jewell. Un día de junio de 2019 en Londres, a la orilla del río Támesis, aparece una bolsa llena de huesos; son los restos de una mujer que murió años atrás asesinada de un golpe en la cabeza. En la bolsa se hallan también las semillas de un árbol poco común que llevan al inspector de policía Samuel Owusu, responsable del caso, a una mansión en Chelsea. Mansión en la que, treinta años antes, fueron hallados tres muertos y un bebé abandonado. Solo revisitar el pasado conseguirá recomponer las piezas de este rompecabezas familiar y sacar a la luz secretos que quedaron enterrados mucho tiempo atrás. «Ritmo rápido y trama inteligente. No pude soltarlo hasta acabar», Paula Hawkins «Una lectura apasionante. ¡Magnífico!», Shari LaPena «Ingenioso y ágil », Louise Candlish «Me ha cautivado. Apasionante y auténtica», Gillian McAllister&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Crossbooks</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Dentro de casa"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-01-25T19:39:51.463109+00:00"/>
+        <meta name="calibre:title_sort" content="Aún siguen aquí"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

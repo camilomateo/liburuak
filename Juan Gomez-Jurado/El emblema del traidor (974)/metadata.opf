@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">974</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">146886a1-0f07-4ba1-a12e-df472fb631d9</dc:identifier>
+        <dc:title>El emblema del traidor</dc:title>
+        <dc:creator opf:file-as="Gómez-Jurado, Juan" opf:role="aut">Juan Gómez-Jurado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Estrecho de Gibraltar, 1940. En el epicentro de una tormenta, el capitán González rescata a un grupo de náufragos alemanes. Cuando cesa el temporal, el cabecilla le obsequia con un emblema de oro macizo. De la conversación con ellos, González no olvidará dos palabras: traición y salvación.&lt;/p&gt;&lt;p&gt;En torno a este emblema gira la aventura de Paul, un joven huérfano que vive con su madre y sus tíos, los barones von Schroeder. Una revelación oculta sobre la extraña muerte del padre de Paul precipitará una peligrosa investigación en el Munich de entreguerras.&lt;/p&gt;&lt;p&gt;Ni siquiera su amor por Alys, una intrépida fotógrafa judía, acabará con su obsesión por descubrir qué le sucedió realmente a su padre. Pero lo que Paul no sabe es que su indagación traerá consecuencias impredecibles y cambiará para siempre el destino de las personas que le rodean.&lt;/p&gt;&lt;p&gt;Masonería, nazismo, amor y traición se funden en un thriller lleno de sorpresas sobre la búsqueda de la verdad y el alto precio que hay que pagar por encontrarla.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Una novela inolvidable inspirada en un caso real que recorre la historia de un emblema vinculado al círculo de poder de la Alemania nazi.&lt;/b&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">2.2</dc:identifier>
+        <dc:identifier opf:scheme="EPL">12380</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2023-08-16T15:29:04.293338+00:00"/>
+        <meta name="calibre:title_sort" content="emblema del traidor, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">153f5e2a-748e-4f7a-9ccc-7642ebc056b1</dc:identifier>
+        <dc:title>El grito oculto de Berta Lennox</dc:title>
+        <dc:creator opf:file-as="Domínguez, J. L." opf:role="aut">J. L. Domínguez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El nuevo libro de J. L. Domínguez tras el éxito de su novela autopublicada La página número treinta y tres. Una música de chelo, un mensaje escrito en la pared, una peligrosa amenaza Cuando Berta enviuda del diplomático inglés Geoffrey Lennox, regresa a su vida en Barcelona tras pasar muchos años en diversos consulados y embajadas internacionales. Se instala en un piso del barrio de Sarrià y no tarda en conocer a su vecino de abajo, Leopoldo Sabaté, un anciano que toca el chelo por las noches. Un día Berta deja de escuchar la relajante melodía, se adentra en el apartamento de su vecino y lo halla muerto supuestamente por un golpe al caer. Dispuesta a llamar a la policía, sus ojos se posan en una B grabada en el instrumento. Sabaté le ha dejado un mensaje. ¿Y si no fue un accidente? A partir de este momento se verá involucrada en una trama de asesinatos que se extiende por parte de la geografía europea, y Berta pondrá todo su empeño en descubrir qué se esconde detrás. Después del inesperado éxito con la autopublicación de su primera novela, J. L. Domínguez traza con habilidad y maestría una historia de espionaje en el mundo eclesiástico, con el personaje subyugador de una mujer en duelo que decide investigar por su cuenta.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-16T17:00:19.679412+00:00"/>
+        <meta name="calibre:title_sort" content="grito oculto de Berta Lennox, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

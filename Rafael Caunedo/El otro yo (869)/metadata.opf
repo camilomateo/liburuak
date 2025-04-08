@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">869</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57561c77-664d-4cfa-8174-f159027b01a7</dc:identifier>
+        <dc:title>El otro yo</dc:title>
+        <dc:creator opf:file-as="Caunedo, Rafael" opf:role="aut">Rafael Caunedo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una novela adictiva, inquietante y turbadora que no podrás dejar de leer. «Este es un libro que habla del engaño. Y de lo fácilmente que puede uno perderse cuando la vida se va enredando y cerrando en torno a ti como una trampa. Desasosegante y adictivo.» ROSA MONTERO Cuando a Ángel Cué, prestigioso escritor de fama internacional, le diagnostican alzhéimer a los sesenta y siete años, decide renunciar a la vida pública. Antes de recluirse en su finca para siempre, le encomienda a su hijo Mateo que custodie cinco manuscritos para que, una vez él ya no pueda reconocer a nadie, vayan saliendo a la luz. Tres años más tarde, Mateo es galardonado con uno de los premios literarios más prestigiosos poco antes de que lo nombren ministro de Cultura. El éxito es inmediato, pero cuando se encuentra en el cénit de su vida personal y profesional, entrará en una espiral de engaños y falsedades que lo hará atravesar los cuatro años de legislatura que tiene por delante intentando mantener ocultas sus imposturas, mientras se va ampliando, cada vez más, la distancia entre lo que dice ser y lo que realmente es. Una novela adictiva, excitante y turbadora sobre las imposturas de nuestras vidas que te sumerge en una historia que no podrás dejar de leer.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">tda6EAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788423363667</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-19T15:31:21+00:00"/>
+        <meta name="calibre:title_sort" content="otro yo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2911</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c37720f3-1f4e-4868-9e7c-b3010f8d72b6</dc:identifier>
+        <dc:title>Más maldito karma</dc:title>
+        <dc:creator opf:file-as="Safier, David" opf:role="aut">David Safier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-31T23:00:00+00:00</dc:date>
+        <dc:description>Daisy Becker es una actriz de segunda totalmente caótica: bebe, fuma y roba a sus compañeros de piso. A sus veintipocos años tendrá un accidente de tráfico con Steve Barton, una arrogante estrella de Hollywood que está en Berlín rodando la nueva película de James Bond. Una vez muertos, Buda les dice que en sus vidas han juntado demasiado mal karma, y ambos se reencarnan en hormigas. Pero ninguno de los dos tiene muchas ganas de ir a la guerra como soldados-hormiga. Además se enteran de que el mejor amigo de Daisy, del que ella está enamorada, y la mujer de Steve salen juntos. ¿Qué pueden hacer? Ir en busca del buen karma y subir los peldaños de la escalera de la reencarnación hasta volver a ser humanos. Pero no es tan sencillo, pues Daisy y Steve no se soportan y están constantemente echándose la culpa del accidente el uno al otro. Y todavía todo se vuelve más difícil cuando parece que se empiezan a enamorar. . .</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:32:17.013902+00:00"/>
+        <meta name="calibre:title_sort" content="Más maldito karma"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

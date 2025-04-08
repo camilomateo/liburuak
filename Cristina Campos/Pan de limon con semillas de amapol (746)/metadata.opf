@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">746</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30479f18-3121-4726-a2f7-f72d49d623e7</dc:identifier>
+        <dc:title>Pan de limón con semillas de amapola</dc:title>
+        <dc:creator opf:file-as="Campos, Cristina" opf:role="aut">Cristina Campos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-26T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Durante el invierno de 2010, en un pequeño pueblo del interior de Mallorca, Anna y Marina, dos hermanas que fueron separadas en su juventud, se reencuentran para vender una panadería que han heredado de una misteriosa mujer a la que creen no conocer. Son dos mujeres con vidas muy diferentes. Anna apenas ha salido de la isla y sigue casada con un hombre al que ya no ama. Marina viaja por el mundo trabajando como cooperante de una ONG. Mientras intentan desentrañar el secreto que encierra su herencia, tendrán que hacer frente a los viejos conflictos familiares, a la vez que intentarán recuperar los años perdidos. Esta novela es una historia sobre la amistad femenina, sobre secretos guardados y recetas de pan olvidadas. Pero, sobre todo, es la historia de unas mujeres que aprenden a decidir, con libertad, sobre su futuro.&lt;/p&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408150794</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">a5f15dd0-c659-48fd-884b-558f04c7cd26</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-22T15:06:44.240421+00:00"/>
+        <meta name="calibre:title_sort" content="Pan de limón con semillas de amapola"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

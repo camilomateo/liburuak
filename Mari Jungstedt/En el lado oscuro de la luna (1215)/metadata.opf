@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7022578b-54ee-4a59-bb4c-c483eb8279ee</dc:identifier>
+        <dc:title>En el lado oscuro de la luna</dc:title>
+        <dc:creator opf:file-as="Mari Jungstedt" opf:role="aut">Mari Jungstedt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-07T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;La esperada nueva novela de la Serie Málaga, de Mari Jungstedt. &lt;/p&gt;
+&lt;p align="justify"&gt;Tras el éxito de Antes de que lleguen las nubes, el inspector Héctor Correa y la profesora sueca Lisa Hagel regresan a la Costa del Sol. &lt;/p&gt;
+&lt;p align="justify"&gt;En un gélido día de Año Nuevo, una pareja de enamorados aparece asesinada en un jacuzzi en una solitaria granja de Ångermanland, al norte de Suecia. Él es sueco, ella, española. Ambos residían en Málaga y habían decidido pasar unos días de descanso en ese enclave idílico. Lo más llamativo del suceso es el arma elegida por el asesino, que les ha lanzado flechas con un arco. Aunque las primeras sospechas apuntan hacia el dueño de un club nocturno en Puerto Banús, el inspector Héctor Correa, responsable de la investigación en España, viaja al lugar del crimen para recabar más información. En esta ocasión, también contará con la ayuda de Lisa Hagel.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">204262726</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788419638670</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">nuPpEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0CQJYC88R</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Serie Málaga"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-02-20T12:04:11.136295+00:00"/>
+        <meta name="calibre:title_sort" content="En el lado oscuro de la luna"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

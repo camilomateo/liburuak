@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">755</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec7ec681-4c99-4d6b-9ad4-f1f53be077d3</dc:identifier>
+        <dc:title>El geólogo</dc:title>
+        <dc:creator opf:file-as="Paul Theroux" opf:role="aut">Paul Theroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-10T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una nueva y brillante novela del maestro estadounidense: «Theroux ha alcanzado la cima de su maestría» (The New York Times Book Review) Pascal Belanger, «Cal», odia a su hermano mayor, Frank, tan dominante y manipulador que le hace dudar incluso de los motivos de su animadversión. Es la razón por la que escapó de Littleford, su ciudad natal, y puede que motivase su vida nómada desde entonces. Ambos tienen una historia en común, pero ninguna de sus anécdotas parece coincidir. ¿Cal rescató a Frank de ahogarse un verano o fue al revés? ¿Frank le debe dinero a su hermano o no? Mientras que Cal, un geólogo experimentado, se ha pasado años viajando por el mundo y se ha casado con Vita, su hermano ha permanecido en casa ejerciendo de hijo cariñoso y convirtiéndose en abogado. Cuando se instala por fin en Littleford con su mujer, Cal debe ausentarse a menudo por motivos de trabajo, lo que su hermano aprovecha para acercarse a ella. ¿Es Frank el buen tipo que todos creen? La crítica ha dicho...«Una poderosa narración de una rivalidad que se remonta décadas. [...] Theroux juega hábilmente con las simpatías del lector. [...] El resultado es devastador e inolvidable».Publishers Weekly «Theroux posee un sentido del humor fabuloso y canalla».Stephen King, New York Times Book Review «Una novela plagada de celos, traición y una mítica sed de venganza».The New York Times«Un relato profundamente inquietante sobre una rivalidad entre hermanos sacada del infierno. [...] Theroux vuelve a dar en el clavo».Booklist «La obra de Theroux es incomparable».Francine Prose, The New York Times Book Review «Theroux echa mano de su destreza con la literatura de viajes para seguir a su protagonista desde la frontera mexicana hasta el frío de Alaska, desde África central hasta Colombia, desvelando una amenaza devastadora que culmina en un plan definitivo de asesinato. [...] Una escalofriante novela psicológica».Honolulu Magazine «Su prosa es suave en sus insinuaciones y feroz en sus zarpazos».The Boston Globe&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420469881</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">YzqxEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-22T15:06:54.304790+00:00"/>
+        <meta name="calibre:title_sort" content="geólogo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

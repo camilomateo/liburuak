@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58e985ae-a5a2-4e8f-a634-5a10cfec13fb</dc:identifier>
+        <dc:title>Voces del 11-M</dc:title>
+        <dc:creator opf:file-as="Sampedro, Víctor" opf:role="aut">Víctor Sampedro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-26T11:35:28+00:00</dc:date>
+        <dc:description>&lt;p&gt;«Arrastraban su mala suerte y recibieron una mala muerte en una de
+ las peores masacres terroristas de todos los tiempos. Después, durante 
+veinte años, fueron víctimas de una espiral de mentiras. Debiéramos 
+pararla. En estas páginas comparecen quienes, intentándolo, pagaron un 
+alto precio. Hablan tres víctimas (Pilar Manjón, Eulogio Paz y Aitziber 
+Berrueta), otros tantos periodistas (José Antonio Zarzalejos, Gumersindo
+ Lafuente y José Antonio Martínez Soler) y dos policías (Juan Jesús 
+Sánchez Manzano y Rodolfo Ruiz) que mantuvieron la misma versión de los 
+atentados del 11-M  desde el primer momento. Son voces plurales y 
+diferentes que convergenen un testimonio colectivo. Al final, aporto el 
+mío y algunas reflexiones. Quisiéramos contribuir a restaurar una 
+convivencia y a reivindicar la memoria democrática, que fueron heridas 
+de gravedad en marzo de 2004.»&lt;/p&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:57.029024+00:00"/>
+        <meta name="calibre:title_sort" content="Voces del 11-M"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

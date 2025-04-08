@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">176</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ed6fb19-6da2-4396-b59c-39729e7cd89b</dc:identifier>
+        <dc:title>Misión: una llamada a tu corazón</dc:title>
+        <dc:creator opf:file-as="Ruiz, Silvia García" opf:role="aut">Silvia García Ruiz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-11T09:06:45+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Jordan Peterson siempre le ha cubierto las espaldas a su gemelo&lt;/span&gt;,
+ Julian, pero en su última misión recibe un balazo destinado a su 
+hermano y él siente que le ha fallado. Necesita separarse de él por un 
+tiempo, y su familia, entonces, decide asignarle &lt;span class="a-text-bold"&gt;la misión de proteger a una dulce chica empleada en una línea erótica que está siendo acosada&lt;/span&gt;.
+ Un caso sencillo y sin complicaciones, si no fuera porque ella no va a 
+resultar ser nada dulce, su misión no va a ser fácil en absoluto y la 
+línea erótica no es como él se imaginaba.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Valery Dalton es una mujer con un humor un tanto ácido &lt;/span&gt;que
+ encuentra su empleo ideal como teleoperadora de una línea erótica 
+bastante singular. Para su desgracia, en el desempeño de sus funciones 
+se topa con un acosador, por lo que &lt;span class="a-text-bold"&gt;su sobreprotector jefe decide contratar a Jordan Peterson, un guardaespaldas mandón que no para de reprenderla&lt;/span&gt;. Un tipo al que mete en más de un problema y al que no le pone nada fácil su tarea.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Jordan asegura que prefiere a las chicas dulces, pero, inesperadamente, entre ellos saltan chispas a la menor oportunidad&lt;/span&gt;, y su relación se acaba convirtiendo en algo más que un simple trabajo.&lt;/p&gt;&lt;p&gt;¿Cambiará
+ de opinión ahora que su corazón pertenece a una mujer que no es dulce? 
+¿Le facilitará Valery su misión a su protector cuando se dé cuenta de 
+que está enamorada de él?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Escencia</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Silvia García Ruiz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:08:10.209168+00:00"/>
+        <meta name="calibre:title_sort" content="Misión: una llamada a tu corazón"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

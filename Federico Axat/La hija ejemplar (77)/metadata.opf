@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4caee1f9-4a56-4c5f-afbc-dcd8d85fb501</dc:identifier>
+        <dc:title>La hija ejemplar</dc:title>
+        <dc:creator opf:file-as="Axat, Federico" opf:role="aut">Federico Axat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-27T08:57:55+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Esto es lo último que escribió Sophia en su diario, casi un año
+ atrás. Desde entonces nadie sabe nada de ella, aunque las pruebas 
+apuntan a que se quitó la vida arrojándose de un puente y que el hecho 
+está relacionado con un vídeo escabroso que se viralizó en el instituto.
+ Sus padres se niegan a creerlo. Su hija no es la clase de persona que 
+haría algo así. Cuando meses después el chico que lo grabó aparece 
+muerto de un martillazo en la cabeza, hay quienes se atreven a pensar 
+que quizá Sophia está viva y que su desaparición forma parte de un plan 
+que ella misma ha puesto en marcha.&lt;/p&gt;&lt;p&gt;Camila Jones, una
+ celebridad del periodismo de investigación temporalmente retirada, 
+recibe la inesperada visita de un periodista local que quiere que se 
+involucre en el caso. Ella no tiene ninguna intención de acceder, pero 
+la revelación de que Sophia está ligada a un hecho de su pasado que 
+nadie conoce la lleva a aceptar la propuesta y a buscar la verdad a 
+cualquier precio.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-italic"&gt;La hija ejemplar&lt;/span&gt;
+ es la nueva y sorprendente novela de Federico Axat, el maestro del 
+thriller psicológico, que explora los vínculos familiares y cómo las 
+expectativas de los padres hacia sus hijos pueden convertirse en un 
+oscuro mecanismo de manipulación.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Federico Axat&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:02:43.740913+00:00"/>
+        <meta name="calibre:title_sort" content="hija ejemplar, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

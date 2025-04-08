@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">997</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d78d143-b60f-4c08-90c6-6c62b6495c92</dc:identifier>
+        <dc:title>Os salvaré la vida</dc:title>
+        <dc:creator opf:file-as="Leguina, Joaquín &amp; Buren, Rubén" opf:role="aut">Joaquín Leguina</dc:creator>
+        <dc:creator opf:file-as="Leguina, Joaquín &amp; Buren, Rubén" opf:role="aut">Rubén Buren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-05T06:00:00+00:00</dc:date>
+        <dc:description>Os salvaré la vida es una sólida y emocionante novela que recrea la vida de Melchor Rodríguez, personaje histórico y singular absolutamente apasionante con un papel infravalorado hasta ahora durante la Guerra Civil y en la trayectoria del anarcosindicalismo español. El Ángel Rojo, como es conocido, defendió a ultranza siempre, aun a riesgo de su propia vida, todo aquello en lo que creía y puso fin a las lamentables sacas producidas a principios de la guerra, sacas que se cobraron la vida de miles de españoles. Director de Prisiones, evitó vejaciones en las cárceles y ejecuciones irregulares y arbitrarias. Tras la guerra, fue detenido y juzgado. En uno de los consejos de guerra al que fue sometido, en una escena casi de película, solo el testimonio del general del bando nacional Muñoz Grandes y miles de firmas de personas a las que había salvado, de todo sesgo político, evitaron que lo condenaran a pena de muerte.</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:timestamp" content="2023-08-23T12:48:36.379529+00:00"/>
+        <meta name="calibre:title_sort" content="Os salvaré la vida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

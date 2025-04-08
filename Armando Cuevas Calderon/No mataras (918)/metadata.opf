@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">918</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a608826f-3483-4abf-b1d0-c71ef6c49865</dc:identifier>
+        <dc:title>No matarás</dc:title>
+        <dc:creator opf:file-as="Calderón, Armando Cuevas" opf:role="aut">Armando Cuevas Calderón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-22T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;De madrugada, en un vertedero situado en el extrarradio sur de Madrid, es hallado el cuerpo sin vida y horriblemente mutilado de una adolescente.&lt;br&gt;A pesar de que al principio se barajan diversas hipótesis, la similitud con el modus operandi utilizado en otro crimen —perpetrado un año antes— llevará a la inspectora Elena Valdeón a la convicción de que se encuentran ante un despiadado, inteligente y perturbador asesino en serie. Un verdadero monstruo al que deberá enfrentarse —junto a sus propios demonios— en una lucha sin cuartel, arriesgándolo todo, incluso la cordura. &lt;br&gt;&lt;br&gt;Después de "La estrategia del diablo" llega este duro y descarnado caso en el que la inspectora Valdeón acabará implicándose hasta más allá de lo tolerable.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Inspectora Valdeón"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-07-04T12:12:02.477850+00:00"/>
+        <meta name="calibre:title_sort" content="No matarás"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

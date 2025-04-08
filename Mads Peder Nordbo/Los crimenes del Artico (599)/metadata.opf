@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">599</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41b434f9-229d-4fd3-ab08-a331abd65606</dc:identifier>
+        <dc:title>Los crímenes del Ártico</dc:title>
+        <dc:creator opf:file-as="Nordbo, Mads Peder" opf:role="aut">Mads Peder Nordbo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="font-family: Raleway, sans-serif; font-size: 15px; orphans: 2; widows: 2; background-color: rgba(238, 238, 238, 0.901961);"&gt;En Groenlandia, una serie de asesinatos conmociona a la pequeña comunidad de Nuuk, la capital de la gélida isla. Matthew Cave, un joven periodista del periódico local, es enviado a cubrir el descubrimiento de lo que parece ser un fósil de la época vikinga. Pero el caos se desata cuando la momia desaparece y el policía encargado de protegerla durante la noche es brutalmente asesinado.&lt;/span&gt;&lt;br style="margin: 0px; padding: 0px; font-family: Raleway, sans-serif; font-size: 15px; orphans: 2; widows: 2; background-color: rgba(238, 238, 238, 0.901961);"&gt;&lt;br style="margin: 0px; padding: 0px; font-family: Raleway, sans-serif; font-size: 15px; orphans: 2; widows: 2; background-color: rgba(238, 238, 238, 0.901961);"&gt;&lt;span style="font-family: Raleway, sans-serif; font-size: 15px; orphans: 2; widows: 2; background-color: rgba(238, 238, 238, 0.901961);"&gt;Matthew se verá inmerso casi sin pretenderlo en una difícil investigación que se remontará al caso sin resolver más importante de los años setenta. La única que confiará en el instinto del periodista es la peculiar y muy tatuada Tupaarnaq, una misteriosa joven groenlandesa que acaba de salir de prisión tras haber asesinado a su propio padre. Ambos deberán superar sus reticencias iniciales para llegar hasta el final y atrapar a un asesino en serie que tiene aterrorizada a toda la isla.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07TLF5TZD</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-02T11:40:21.303086+00:00"/>
+        <meta name="calibre:title_sort" content="crímenes del Ártico, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2904ccc0-cf32-4450-ba93-c4a2be7b6860</dc:identifier>
+        <dc:title>A bocajarro</dc:title>
+        <dc:creator opf:file-as="Río, José Manuel Del" opf:role="aut">José Manuel Del Río</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;«José Manuel del Río incide en este 
+thriller ambientado en las calles de Madrid, en el que tiene el mérito 
+inusual de fijarse en las víctimas, sus secretos y los enigmas de un 
+futuro destrozado». Carlos Zanón, &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;La Vanguardia&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;«Disparar
+ a alguien significa quitarle lo vivido y lo que le queda por vivir, 
+pero dispararle a una niña significa que se puede disparar a 
+cualquiera». &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Verano de 2019, sur de Madrid. Las 
+calles del barrio están acostumbradas a los cuerpos destrozados, a la 
+violencia de la prostitución y las drogas, e incluso a las peleas que 
+causan la pérdida de aliento. Pero esta vez es distinto. Con un disparo a
+ bocajarro, los sueños y las esperanzas de Carla, una chica de catorce 
+años, han desaparecido para siempre.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Un equipo de la 
+Policía Judicial y la familia de Carla se hacen la misma pregunta: ¿Por 
+qué en un lugar donde todo el mundo es culpable de algo han matado a la 
+única persona inocente? Sin embargo, ambos emplearán métodos muy 
+diferentes para encontrar una respuesta y, finalmente, al asesino.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;José
+ Manuel del Río plasma su experiencia como abogado penalista en un 
+thriller que nos muestra que, a veces, las víctimas pueden ser una 
+incógnita tan grande como los verdugos.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Los
+ secretos del pasado resurgen en el presente en esta novela llena de 
+personajes inolvidables a los que quizá el lector pueda salvar, pero no 
+la ciudad. Aquí, Madrid no perdona un alma.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;José Manuel Del Río&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-10T14:54:51.588374+00:00"/>
+        <meta name="calibre:title_sort" content="A bocajarro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

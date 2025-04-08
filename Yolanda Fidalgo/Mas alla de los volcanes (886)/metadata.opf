@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">886</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d5534bc-bfed-4d60-bf33-40923b0b9552</dc:identifier>
+        <dc:title>Más allá de los volcanes</dc:title>
+        <dc:creator opf:file-as="Yolanda Fidalgo" opf:role="aut">Yolanda Fidalgo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-13T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;NOVELA GANADORA DEL IV PREMIO INTERNACIONAL DE NARRATIVA MARTA DE MONT MARÇAL.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Eric
+ Aubriot, antes de la gran guerra, era un médico brillante con un futuro
+ prometedor. Tras ella, mientras París despierta y recupera la alegría, 
+él se limita a sobrevivir como camarero en Montparnasse. Pero un 
+encuentro fortuito lo cambiará todo. Deberá emprender un viaje para 
+encontrarse de nuevo a sí mismo, recuperar su vida y resolver el mayor 
+misterio: el que oculta su familia en la lejana isla volcánica de 
+Lanzarote. De vez en cuando, todos tenemos fantasmas que nos impiden 
+seguir adelante, y debemos luchar para acallar sus voces oscuras.&lt;/p&gt;&lt;p&gt;Más
+ allá de los volcanes es una historia de superación, del viaje al 
+interior de uno mismo, de cómo a veces hay que regresar al lugar donde 
+partimos para poder llegar a nuestro destino.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788416867868</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B071HWM8WS</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-23T11:09:35.874021+00:00"/>
+        <meta name="calibre:title_sort" content="Más allá de los volcanes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2973</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c967718-58d0-470f-a868-833129fd09a8</dc:identifier>
+        <dc:title>Pigmalión y otros relatos</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-12-31T23:00:00+00:00</dc:date>
+        <dc:description>El creador de la serie policíaca protagonizada por Pepe Carvalho reúne en este volumen lo más sustancial de sus aportaciones a género del relato. La pluralidad de temas y la diversidad de los registros empleados en el libro convergen en una propuesta literaria tan amena como imaginativa.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:16+00:00"/>
+        <meta name="calibre:title_sort" content="Pigmalión y otros relatos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

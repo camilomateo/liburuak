@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7efbf65-16f1-4c39-8068-c991d0dcada5</dc:identifier>
+        <dc:title>Lo mío no es hambre, es ansiedad</dc:title>
+        <dc:creator opf:file-as="Dra. Vidales" opf:role="aut">Dra. Vidales</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-09T23:00:00+00:00</dc:date>
+        <dc:description>¿No consigues adelgazar porque la ansiedad te hace comer a todas horas? ¿comes sin tener hambre? ¿Es la comida tu único consuelo cuando tienes algún problema emocional o de trabajo? Si te has identificado con alguna de estas situaciones, éste es el libro que necesitas.  Muchos de los pacientes que acuden a la consulta de la Doctora Vidales, especialista en nutrición y colaboradora en diversos programas de TVE, repiten habitualmente una frase: "Doctora, lo mío no es hambre, es ansiedad". En esta obra encontrarás las claves para controlar y tratar esa ansiedad que te hace comer sin mesura; decubrirás qué alimentos tienen un poder saciante y cuáles abren más el apetito; aprenderás cada cuánto es aconsejable comer; concerás otros tratamientos complementarios para combatir la ansiedad y sabrás cómo solucionaron sus problemas otros pacientes que han pasado por la consulta de la doctora.</dc:description>
+        <dc:publisher>Libros Cúpula</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Salud y bienestar</dc:subject>
+        <meta name="calibre:timestamp" content="2024-03-15T08:08:16.936348+00:00"/>
+        <meta name="calibre:title_sort" content="Lo mío no es hambre, es ansiedad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

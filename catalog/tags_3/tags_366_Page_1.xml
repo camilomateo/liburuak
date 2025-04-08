@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>century</title>
+  <id>Calibre2opds:taglist:C:366</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_366_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="century" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por C" />
+  <entry>
+    <title>El clavo</title>
+    <id>calibre:book:2131</id>
+    <updated>2024-09-06T02:21:21Z</updated>
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20clavo%20%282131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20clavo%20%282131%29/El%20clavo%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="776 KB" />
+    <author>
+      <name>Pedro Antonio de Alarcón</name>
+      <uri>../authors_1/authors_1509_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Detective" />
+    <category term="and" />
+    <category term="mystery" />
+    <category term="Stories" />
+    <category term="Spanish" />
+    <category term="Fiction" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2131.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Letters on England</title>
+    <id>calibre:book:2537</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../Voltaire/Letters%20on%20England%20%282537%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Voltaire/Letters%20on%20England%20%282537%29/Letters%20on%20England%20-%20Voltaire.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="159 KB" />
+    <author>
+      <name>Voltaire</name>
+      <uri>../authors_1/authors_1366_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="English" />
+    <category term="literature" />
+    <category term="--" />
+    <category term="18th" />
+    <category term="century" />
+    <category term="History" />
+    <category term="and" />
+    <category term="criticism" />
+    <category term="Great" />
+    <category term="Britain" />
+    <category term="Civilization" />
+    <category term="Religion" />
+    <category term="Imaginary" />
+    <category term="letters" />
+    <category term="Intellectual" />
+    <category term="Life" />
+    <category term="Philosophy" />
+    <category term="Modern" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2537.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Niño de la Bola</title>
+    <id>calibre:book:2127</id>
+    <updated>2024-09-06T02:21:20Z</updated>
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20Nino%20de%20la%20Bola%20%282127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20Nino%20de%20la%20Bola%20%282127%29/El%20Nino%20de%20la%20Bola%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="270 KB" />
+    <author>
+      <name>Pedro Antonio de Alarcón</name>
+      <uri>../authors_1/authors_1509_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Spanish" />
+    <category term="Fiction" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2127.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Rainbow Valley</title>
+    <id>calibre:book:2504</id>
+    <updated>2024-09-09T10:34:44Z</updated>
+    <link href="../../L.%20M.%20Montgomery/Rainbow%20Valley%20%282504%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../L.%20M.%20Montgomery/Rainbow%20Valley%20%282504%29/Rainbow%20Valley%20-%20L.%20M.%20Montgomery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="259 KB" />
+    <author>
+      <name>L. M. Montgomery</name>
+      <uri>../authors_1/authors_1660_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <category term="Orphans" />
+    <category term="--" />
+    <category term="Juvenile" />
+    <category term="Prince" />
+    <category term="Edward" />
+    <category term="Island" />
+    <category term="friendship" />
+    <category term="Siblings" />
+    <category term="Family" />
+    <category term="Life" />
+    <category term="Foster" />
+    <category term="home" />
+    <category term="care" />
+    <category term="Canada" />
+    <category term="History" />
+    <category term="20th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2504.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Alchemist</title>
+    <id>calibre:book:2531</id>
+    <updated>2024-09-09T10:34:50Z</updated>
+    <link href="../../Ben%20Jonson/The%20Alchemist%20%282531%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ben%20Jonson/The%20Alchemist%20%282531%29/The%20Alchemist%20-%20Ben%20Jonson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="192 KB" />
+    <author>
+      <name>Ben Jonson</name>
+      <uri>../authors_1/authors_1672_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="English" />
+    <category term="Drama" />
+    <category term="(Comedy)" />
+    <category term="--" />
+    <category term="17th" />
+    <category term="century" />
+    <category term="London" />
+    <category term="(England)" />
+    <category term="City" />
+    <category term="and" />
+    <category term="town" />
+    <category term="Life" />
+    <category term="Alchemists" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2531.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Dunwich Horror</title>
+    <id>calibre:book:2510</id>
+    <updated>2024-09-09T10:34:46Z</updated>
+    <link href="../../H.%20P.%20Lovecraft/The%20Dunwich%20Horror%20%282510%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20P.%20Lovecraft/The%20Dunwich%20Horror%20%282510%29/The%20Dunwich%20Horror%20-%20H.%20P.%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="193 KB" />
+    <author>
+      <name>H. P. Lovecraft</name>
+      <uri>../authors_1/authors_1489_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="American" />
+    <category term="--" />
+    <category term="20th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2510.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Works of Edgar Allan Poe — Volume 1</title>
+    <id>calibre:book:2444</id>
+    <updated>2024-09-09T10:34:32Z</updated>
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282444%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282444%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="265 KB" />
+    <author>
+      <name>Edgar Allan Poe</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="American" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Poe" />
+    <category term="Edgar" />
+    <category term="Allan" />
+    <category term="1809-1849" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2444.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Works of Edgar Allan Poe — Volume 2</title>
+    <id>calibre:book:2445</id>
+    <updated>2024-09-09T10:34:32Z</updated>
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282445%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282445%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="296 KB" />
+    <author>
+      <name>Edgar Allan Poe</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Short" />
+    <category term="Stories" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="American" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2445.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Works of Edgar Allan Poe — Volume 3</title>
+    <id>calibre:book:2446</id>
+    <updated>2024-09-09T10:34:32Z</updated>
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282446%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282446%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="309 KB" />
+    <author>
+      <name>Edgar Allan Poe</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="American" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2446.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Works of Edgar Allan Poe — Volume 4</title>
+    <id>calibre:book:2447</id>
+    <updated>2024-09-09T10:34:32Z</updated>
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282447%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282447%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="280 KB" />
+    <author>
+      <name>Edgar Allan Poe</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Short" />
+    <category term="Stories" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="American" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2447.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Works of Edgar Allan Poe — Volume 5</title>
+    <id>calibre:book:2450</id>
+    <updated>2024-09-09T10:34:33Z</updated>
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282450%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282450%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="288 KB" />
+    <author>
+      <name>Edgar Allan Poe</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="American" />
+    <category term="Poetry" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2450.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Viajes por España</title>
+    <id>calibre:book:2125</id>
+    <updated>2024-09-06T02:21:20Z</updated>
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/Viajes%20por%20Espana%20%282125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/Viajes%20por%20Espana%20%282125%29/Viajes%20por%20Espana%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="263 KB" />
+    <author>
+      <name>Pedro Antonio de Alarcón</name>
+      <uri>../authors_1/authors_1509_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Spain" />
+    <category term="--" />
+    <category term="Description" />
+    <category term="and" />
+    <category term="travel" />
+    <category term="Social" />
+    <category term="Life" />
+    <category term="customs" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

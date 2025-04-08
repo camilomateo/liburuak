@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2980</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">709cfb24-defd-4afc-8ff7-949cccf4a0ff</dc:identifier>
+        <dc:title>Coplas a la muerte de mi tía Daniela</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1972-12-31T23:00:00+00:00</dc:date>
+        <dc:description>“La idea de Coplas a la muerte de mi tía Daniela nació al tiempo que estaba escribiendo Una educación sentimental, entre 1962 y 1963. La primera piedra verbal no la puse hasta 1965 y di el poema por terminado en 1973. (...) Toda mi poesía es inexplicable si no se tiene en cuenta el mestizaje cultural que asumo, en el doble plano de la cultura pop (es decir, popular de masas) y la cultura académica convencional que aprendí en los libros apellidados y en la Universidad. En el otro plano, me reconozco mestizo de proletario años cuarenta y pequeño burgués consumista años setenta, de inmigrante y aduanero.” (Del prólogo: Dónde están los rapsodas de antaño, del autor para esta edición.)</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:17.915132+00:00"/>
+        <meta name="calibre:title_sort" content="Coplas a la muerte de mi tía Daniela"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

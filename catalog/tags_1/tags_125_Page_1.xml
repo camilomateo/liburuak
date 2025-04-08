@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>naturales</title>
+  <id>Calibre2opds:taglist:N:125</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_125_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="naturales" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por N" />
+  <entry>
+    <title>Astronomía recreativa</title>
+    <id>calibre:book:1919</id>
+    <updated>2024-09-05T06:00:43Z</updated>
+    <link href="../../Yakov%20Perelman/Astronomia%20recreativa%20%281919%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yakov%20Perelman/Astronomia%20recreativa%20%281919%29/Astronomia%20recreativa%20-%20Yakov%20Perelman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Yákov Perelmán</name>
+      <uri>../authors_1/authors_1364_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ciencias" />
+    <category term="naturales" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [19]:</summary>
+    <link href="../book_1/book_1919.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un paseo invernal</title>
+    <id>calibre:book:1980</id>
+    <updated>2024-09-05T06:10:29Z</updated>
+    <link href="../../Henry%20David%20Thoreau/Un%20paseo%20invernal%20%281980%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Henry%20David%20Thoreau/Un%20paseo%20invernal%20%281980%29/Un%20paseo%20invernal%20-%20Henry%20David%20Thoreau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="86 KB" />
+    <author>
+      <name>Henry David Thoreau</name>
+      <uri>../authors_1/authors_1418_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ciencias" />
+    <category term="naturales" />
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [214]:</summary>
+    <link href="../book_1/book_1980.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tratado del hombre</title>
+    <id>calibre:book:1974</id>
+    <updated>2024-09-05T06:10:28Z</updated>
+    <link href="../../Rene%20Descartes/Tratado%20del%20hombre%20%281974%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rene%20Descartes/Tratado%20del%20hombre%20%281974%29/Tratado%20del%20hombre%20-%20Rene%20Descartes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="971 KB" />
+    <author>
+      <name>René Descartes</name>
+      <uri>../authors_0/authors_46_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ciencias" />
+    <category term="naturales" />
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [168]:</summary>
+    <link href="../book_1/book_1974.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

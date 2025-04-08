@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2913</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88cc860a-390b-4a4f-aafd-b89cf54f61b7</dc:identifier>
+        <dc:title>La balada de Max y Amelie</dc:title>
+        <dc:creator opf:file-as="Safier, David" opf:role="aut">David Safier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-26T23:00:00+00:00</dc:date>
+        <dc:description>La existencia de Cicatriz, una perrita salvaje y solitaria que malvive en un vertedero de Nápoles, da un vuelco cuando conoce a Max, un perro doméstico que le habla de una vida que ella jamás ha conocido: feliz y al cuidado de bondadosos seres humanos. Ambos emprenderán una aventura épica en una brutal carrera por la supervivencia y la búsqueda de un hogar y descubrirán que ese lugar sólo existe cerca de aquellos a quienes amas; donde se encuentra, en definitiva, tu corazón. David Safier retoma el tema de la reencarnación que abordó magistralmente en «Maldito Karma» y demuestra que es además un privilegiado maestro en el arte de conmover e inspirar a sus lectores: «A una parte de mí le gusta contar grandes historias dramáticas, y este libro es una de ellas. Es una aventura increíble y una historia de amor inolvidable. También hay toques de humor y, sobre todo, es una novela emocionante, sumamente emocionante».</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">47514</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:32:17.759682+00:00"/>
+        <meta name="calibre:title_sort" content="balada de Max y Amelie, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

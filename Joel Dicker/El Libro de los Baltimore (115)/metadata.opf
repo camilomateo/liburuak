@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b170d39-77ee-47dc-b041-86e99b23b866</dc:identifier>
+        <dc:title>El Libro de los Baltimore</dc:title>
+        <dc:creator opf:file-as="Dicker, Joël" opf:role="aut">Joël Dicker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-23T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;«&lt;i&gt;Si encontráis este libro, por favor, leedlo. Querría que alguien supiera la historia de los Goldman-de-Baltimore&lt;/i&gt;.»&lt;/p&gt; &lt;p&gt;Hasta
+ que tuvo lugar el Drama existían dos ramas de la familia Goldman: los 
+Goldman de Baltimore y los Goldman de Montclair. Los Montclair, de los 
+que forma parte Marcus Goldman, autor de&lt;i&gt; La verdad sobre el caso Harry Quebert&lt;/i&gt;,
+ es una familia de clase media que vive en una pequeña casa en el estado
+ de Nueva Jersey. Los Baltimore, prósperos y a los que la suerte siempre
+ ha sonreído, habitan una lujosa mansión en un barrio de la alta 
+sociedad de Baltimore.&lt;/p&gt; &lt;p&gt;Ocho años después del Drama, Marcus 
+Goldman pone el pasado bajo la lupa en busca de la verdad sobre el ocaso
+ de la familia. Entre los recuerdos de su juventud revive la fascinación
+ que sintió desde niño por los Baltimore, que encarnaban la América 
+patricia con sus vacaciones en Miami y en los Hamptons y sus colegios 
+elitistas. Con el paso de los años la brillante pátina de los Baltimore 
+se desvanece al tiempo que el Drama se va perfilando. Hasta el día en el
+ que todo cambia para siempre.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01DL4RSGU</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Joël Dicker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:29.290380+00:00"/>
+        <meta name="calibre:title_sort" content="Libro de los Baltimore, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

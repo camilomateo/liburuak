@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">379</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a488e575-a97a-48aa-b090-2546412fba4b</dc:identifier>
+        <dc:title>Despierta tu poder de seducción</dc:title>
+        <dc:creator opf:file-as="Dorrego Funes, Luis" opf:role="aut">Dorrego Funes, Luis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-07T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="background-color: #ffffff"&gt;La vida es seducción. Pero ojo, no debemos confundir engañar con seducir. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffffff"&gt;Para despertar tu poder de seducción, primero tienes que activarlo en ti mismo, y luego ya estarás listo para proyectarlo a los demás y de este modo conseguir tus objetivos en el amor, en el trabajo y en el ámbito más familiar e íntimo. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffffff"&gt;En este ameno, sencillo y, sobre todo, práctico libro, encontrarás las claves para: Seducirte a ti mismo y convencerte de tus capacidades, seducir a los demás, seducir en el ámbito laboral, emplear el arte de la seducción para encontrar pareja y luego mantener la relación y seducir a tu gente más cercana y llevar así una vida personal sana e ilusionante. **&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cydonia</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07DM7R56K</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Dorrego Funes, Luis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-04T13:11:45+00:00"/>
+        <meta name="calibre:title_sort" content="Despierta tu poder de seducción"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

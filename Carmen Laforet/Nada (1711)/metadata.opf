@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1711</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce3e2f50-2bda-4a0b-b051-51d0fd385eb7</dc:identifier>
+        <dc:title>Nada</dc:title>
+        <dc:creator opf:file-as="Carmen Laforet" opf:role="aut">Carmen Laforet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-17T06:00:00+00:00</dc:date>
+        <dc:description>3.ª edición«Nada es parte de mi imaginario y del de generaciones enteras.» NAJAT EL HACHMI«La literatura de Laforet es el espejo de vidas parecidas que siguen presentes en nuestra sociedad.» ANA MERINOPrólogo de Najat El HachmiEpílogo de Ana MerinoTan solo medio año después de que acabe la guerra civil, la joven Andrea se traslada a Barcelona para estudiar Letras en la universidad. En cuanto entraen el piso de su abuela, la suciedad, la tradición, la tensión, la violencia y el odio, un perfecto reflejo de la sociedad de la época, van enturbiando la ilusión que siente por su nueva vida en la Ciudad Condal. Pero cuando conoce a Ena, una chica de la facultad, descubre un mundo brillante y esperanzador y se da cuenta de que la ansiada libertad que persigue está más cerca de lo que cree.Con una sensibilidad extraordinaria para adentrarse en los recovecos más íntimos del alma humana, Carmen Laforet retrata las vivencias de una mujer que, ante una realidad cruel y opresiva, no...</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423345861</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-06T08:52:12.389733+00:00"/>
+        <meta name="calibre:title_sort" content="Nada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

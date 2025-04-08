@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2559</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a432dd01-5c59-4bb6-b4ee-6e99f8525d65</dc:identifier>
+        <dc:title>El arte de la manifestación para brujas modernas</dc:title>
+        <dc:creator opf:file-as="Bartlett, Sarah" opf:role="aut">Sarah Bartlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-11-30T22:00:00+00:00</dc:date>
+        <dc:description>RECLAMA EL PODER DE TU BRUJA INTERIOR Y CONSIGUE MANIFESTAR TODOS TUS SUEÑOS.
+El arte de la manifestación es algo más que una conexión con el universo para ayudarte a conseguir tus metas: te ayuda a descubrirte, comprenderte y creer en tus deseos. Manifestando tus objetivos y tus sueños conseguirás que se hagan realidad.
+En estelibro encontrarás todo el conocimiento necesario para conectar con tu bruja interior, cultivar tu confianza, tu conciencia y establecer intenciones poderosas. Aprende a trabajar con los ciclos solares y lunares, la magia secreta de los números, las deidades, los símbolos y los cinco elementos mágicos, y anímate a crear un espacio sagrado o tu propio libro de sombras para amplificar tus intenciones y manifestaciones.
+Al conjurar la positividad descubrirás que es posible atraer los resultados que anhelas.</dc:description>
+        <dc:publisher>‎Roca Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419965851</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:rating" content="4"/>
+        <meta name="calibre:timestamp" content="2024-09-09T13:23:59+00:00"/>
+        <meta name="calibre:title_sort" content="arte de la manifestación para brujas modernas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

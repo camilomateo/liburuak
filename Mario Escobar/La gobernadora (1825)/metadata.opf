@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1825</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">634680ab-2761-4e19-945c-ea9cff070fc7</dc:identifier>
+        <dc:title>La gobernadora</dc:title>
+        <dc:creator opf:file-as="Escobar, Mario" opf:role="aut">Mario Escobar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-08T06:00:00+00:00</dc:date>
+        <dc:description>Beatriz de Bobadilla y Ulloa (1462-1504) fue una de las mujeres más influyentes de su tiempo y, sin embargo, hoy es una gran olvidada. Amante de Fernando el Católico y Cristóbal Colón, llegó a ser gobernadora de las islas de La Gomera y El Hierro. Mario Escobar ha novelado con maestría la increíble y aventurera vida de esta mujer que contribuyó a la conquista de Canarias y que destacó por su crueldad, belleza y pasión. Con apenas veinte años, llegó a la corte de los Reyes Católicos apoyada por su tía la marquesa de Moya. Su extraordinaria belleza pronto la convirtió en el objeto de deseo de los hombres más poderosos de su tiempo. Incluso el rey Fernando quedó tan prendado de ella que la reina Isabel y la marquesa de Moya tramaron un plan para sacarla de la corte: casarla con Hernán Peraza, quien estaba al frente de la conquista de La Gomera. Beatriz nunca olvidó a todos aquellos que la utilizaron y durante toda su vida buscó venganza, usando a Cristóbal Colón y otros hombres poderosos para conseguirlo.</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002221</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">360</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Historica</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-28T10:55:05.855421+00:00"/>
+        <meta name="calibre:title_sort" content="gobernadora, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

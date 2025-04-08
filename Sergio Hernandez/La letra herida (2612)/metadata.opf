@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2612</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef08587b-b674-402d-9b1d-08f06a6a8881</dc:identifier>
+        <dc:title>La letra herida</dc:title>
+        <dc:creator opf:file-as="Hernández, Sergio" opf:role="aut">Sergio Hernández</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Tras perder a su padre y heredar sus deudas, Miguel, un joven formado en literatura, regresa a su ciudad natal para trabajar en la construcción de la Estación del Norte, un proyecto faraónico destinado a cambiar para siempre el rumbo de Valencia. Sin embargo, la ciudad ya no es como la recuerda: los tiempos modernos han revolucionado las calles y una extraña ola de asesinatos está terminando con los líderes sindicales de la estación a un solo año de su apertura. Pero eso no es todo, ya que a su llegada cae perdidamente enamorado de María, la mujer de su único y mejor amigo. Mientras Valencia se prepara -por primera vez en su historia- para enfrentarse a un terrible asesino, Miguel deberá sobrevivir a un mundo en ruinas que amenaza con llevarse por delante todo cuanto alguna vez ha amado, incluida a María y al amor que ambos profesan por los libros. La letra herida es un thriller histórico, pero también un drama en torno a un amor prohibido. Una novela que, valiéndose de la construcción de una estación de trenes como telón de fondo, recrea una época repleta de cambios, donde la lucha sindical y la corrupción comienzan a aflorar en una Valencia teñida por la venganza.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Contraluz Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-17T10:24:17.206575+00:00"/>
+        <meta name="calibre:title_sort" content="letra herida, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

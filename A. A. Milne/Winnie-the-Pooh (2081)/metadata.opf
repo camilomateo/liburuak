@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2081</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df0dd2ab-0500-4a64-a5e3-e385d403f14b</dc:identifier>
+        <dc:title>Winnie-the-Pooh</dc:title>
+        <dc:creator opf:file-as="Milne, A. A." opf:role="aut">A. A. Milne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Toys</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Juvenile</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Teddy</dc:subject>
+        <dc:subject>bears</dc:subject>
+        <dc:subject>Winnie-the-Pooh</dc:subject>
+        <dc:subject>(Fictitious</dc:subject>
+        <dc:subject>character)</dc:subject>
+        <dc:subject>Piglet</dc:subject>
+        <dc:subject>Eeyore</dc:subject>
+        <dc:subject>Christopher</dc:subject>
+        <dc:subject>Robin</dc:subject>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="291"/>
+        <meta name="calibre:timestamp" content="2024-09-06T12:09:09.246279+00:00"/>
+        <meta name="calibre:title_sort" content="Winnie-the-Pooh"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

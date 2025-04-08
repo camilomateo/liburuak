@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32e7d444-1687-4fca-9be0-233b100628be</dc:identifier>
+        <dc:title>Café hasta la muerte</dc:title>
+        <dc:creator opf:file-as="Coyle, Cleo" opf:role="aut">Cleo Coyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-06T06:00:00+00:00</dc:date>
+        <dc:description>El Village Blend, la famosa cafetería de Hudson, en Nueva York, va viento en popa y Clare Cosi, su encargada, no puede estar más feliz. No sabe que alguien que acecha en las sombras está siguiendo a algunas de sus clientas y acabando con sus vidas. El teniente Quinn está convencido de que esas muertes aparentemente accidentales no lo son y que el hombre que Clare ha conocido a través de la sesión de citas rápidas de Conexión Capuchino es el culpable. Clare tendrá que pasar por el amargo trago de investigarlo, aun arriesgando su incipiente relación, o tal vez su propia vida.</dc:description>
+        <dc:publisher>Editorial Alma</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002537</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">338</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2024-12-18T16:52:21.638662+00:00"/>
+        <meta name="calibre:title_sort" content="Café hasta la muerte"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

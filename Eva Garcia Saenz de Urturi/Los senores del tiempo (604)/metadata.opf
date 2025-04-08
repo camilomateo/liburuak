@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c0d565d-069b-4f4a-8359-af11b3c31c64</dc:identifier>
+        <dc:title>Los señores del tiempo</dc:title>
+        <dc:creator opf:file-as="Sáenz de Urturi, Eva García" opf:role="aut">Eva García Saénz de Urturi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-15T03:00:00+00:00</dc:date>
+        <dc:description>&lt;span style="color: rgba(0, 0, 0, 0.870588); font-family: Arial, Tahoma, sans-serif; font-size: 15px; orphans: 2; widows: 2; background-color: rgb(248, 248, 248);"&gt;Vitoria, 2019. Los señores del tiempo, una épica novela histórica ambientada en el medievo, se publica con gran éxito bajo un misterioso pseudónimo: Diego Veilaz.Victoria, 1192. Diago Vela, el legendario conde don Vela, retorna a su villa después de dos años en una peligrosa misión encomendada por el rey Sancho VI el Sabio de Navarra y encuentra a su hermano Nagorno desposado con la que era su prometida, la noble e intrigante Onneca de Maestu.Unai López de Ayala, Kraken, se enfrenta a unas desconcertantes muertes que siguen un modus operandi medieval. Son idénticas a los asesinatos descritos en la novela Los señores del tiempo: un envenenamiento con la mosca española ―la Viagra medieval―, unas víctimas emparedadas como se hacía antaño en el voto de tinieblas y un encubamiento, que consistía en lanzar al río a un preso encerrado en un tonel junto con un gallo, un perro, un gato y una víbora.Las investigaciones llevarán a Kraken hasta el señor de la torre de Nograro, una casa-torre fortificada habitada ininterrumpidamente desde hace mil años por el primogénito varón. Pero el reverso de tanta nobleza es la tendencia de los señores de la torre a padecer el trastorno de identidad múltiple, un detalle que arrastrará a Estíbaliz a vivir una arriesgada historia de amor. Unai López de Ayala acabará descubriendo que Los señores del tiempo tiene mucho que ver con su propio pasado. Y ese hallazgo cambiará su vida y la de su familia. &lt;/span&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">807544</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Eva García Saénz de Urturi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Trilogía de la Ciudad Blanca"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:41.180636+00:00"/>
+        <meta name="calibre:title_sort" content="señores del tiempo, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

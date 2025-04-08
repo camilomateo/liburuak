@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5279d5e-2c71-4bf3-9b5e-1cee4df47f88</dc:identifier>
+        <dc:title>Dieciséis notas</dc:title>
+        <dc:creator opf:file-as="Risto Mejide" opf:role="aut">Risto Mejide</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-12T08:12:40+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;La pasión oculta de Johann Sebastian Bach&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Esta novela no trata sobre Bach. Ni siquiera trata sobre música.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Esta novela va sobre la libertad. La libertad de amar a quien tú quieras y donde tú quieras. En definitiva, la libertad de ser tú.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;1720. Tras la reciente muerte de su esposa, Johan Sebastian Bach conoce a una soprano a la que prácticamente dobla la edad y ambos cometen el peor de los errores: enamorarse.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Risto Mejide deslumbra con su proyecto literario más importante: una gran novela sobre Johann Sebastian Bach. La vida del mejor músico de todos los tiempos, como nunca nadie la había contado.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Risto Mejide&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:01:55.684461+00:00"/>
+        <meta name="calibre:title_sort" content="Dieciséis notas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

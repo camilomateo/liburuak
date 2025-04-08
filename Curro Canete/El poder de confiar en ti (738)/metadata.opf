@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">738</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cd79e0c-e633-4979-8aca-641461b3eb90</dc:identifier>
+        <dc:title>El poder de confiar en ti</dc:title>
+        <dc:creator opf:file-as="Curro Cañete" opf:role="aut">Curro Cañete</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-18T23:00:00+00:00</dc:date>
+        <dc:description>El acto de generosidad más grande que puedes hacer por ti y por los que te rodean es ser felizEl poder de confiar en ti te invita a convertirte en tu propio coach y a ser tu propio guía con pautas y ejercicios para que aprendas a sentirte bien y a hacer realidad tus verdaderos deseos y aspiraciones. Porque para Curro Cañete la felicidad no es solo un destino, sino también el camino que todos y todas debemos transitar con la ayuda del poder de confiar en nosotros mismos.«¿Te acuerdas de todas las veces que te hablaste mal a ti mismo? ¿De esos miedos que tantas veces te han asustado? ¿De todo lo que has dejado de hacer por miedo al qué dirán? ¿De cuánto has sufrido por pensar que habías hecho algo malo, por mendigar amor o porque otros no te valoraban o aprobaban? ¿De cuando dejabas de ser tú, perjudicándote, para intentar agradar a otros? ¡Basta! ¡Deja todo eso atrás! ¡Ahora! ¡No hay tiempo que perder!»Despierta la fuerza interior que cambiará tu vida«Me ha encantado, emocionado. ¡Este libro es muy potente! Es realmente maravilloso. Un libro que todo el mundo debería leer (al menos una vez en la vida), lleno de sabiduría, de amor y de poder personal.» Rut Nieves, autora de Cree en ti</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T12:00:03.588028+00:00"/>
+        <meta name="calibre:title_sort" content="El poder de confiar en ti"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

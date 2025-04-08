@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1327</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b321ce0e-d693-4018-a6af-090f627f23b4</dc:identifier>
+        <dc:title>La belleza de la rareza</dc:title>
+        <dc:creator opf:file-as="Rufi, Sergi" opf:role="aut">Sergi Rufi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-11-27T14:30:59+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;Un punto de vista rebelde y provocativo sobre qué significa ser diferente en esta sociedad.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;¿Te
+ sientes diferente? ¿Te consideras alguien raro que no encaja en lo que 
+la sociedad considera normal? ¿Te han dicho que eres demasiado sensible o
+ demasiado inteligente? Si es así, este libro puede darte las claves que
+ necesitas para empezar a vivir tu vida de forma auténtica, sin 
+verguenza ni culpa.&lt;/p&gt;&lt;p&gt;Directo, práctico y sin pelos en la lengua: transpórtate a la vida que siempre has querido vivir.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788448040680</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:29.795879+00:00"/>
+        <meta name="calibre:title_sort" content="belleza de la rareza, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

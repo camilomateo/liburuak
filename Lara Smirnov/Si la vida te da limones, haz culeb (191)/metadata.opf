@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">191</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74053848-b91d-4b9a-a1a4-b186dc648969</dc:identifier>
+        <dc:title>Si la vida te da limones, haz culebrones</dc:title>
+        <dc:creator opf:file-as="Smirnov, Lara" opf:role="aut">Lara Smirnov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-24T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;La familia Velasco es envidiada por su riqueza y posición social privilegiada, ya que son los dueños de grandes plantaciones de cítricos en el levante español pero, como es bien sabido, Los ricos también lloran. Cuando un periodista escarbe en los orígenes de la fortuna familiar, descubrirá que no hace falta irse a Dallas ni a los viñedos de Falcon Crest para vivir una auténtica Pasión de gavilanes. Riqueza, poder, intrigas y secretos inconfesables en una montaña rusa de sentimientos que sacude a los Velasco, una familia tan apasionada como el amor de la madre de Frijolito por su pequeño. ¿Quieres conocer sus trapos sucios? ¡Asómate a sus vidas!&lt;/p&gt;</dc:description>
+        <dc:publisher>Zafiro Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408194187</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Erótica</dc:subject>
+        <dc:subject>Romántica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lara Smirnov&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:19.304150+00:00"/>
+        <meta name="calibre:title_sort" content="Si la vida te da limones, haz culebrones"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">320</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c799e3a-1149-4c90-86e0-dde16d387bf0</dc:identifier>
+        <dc:title>Lazos de tinta</dc:title>
+        <dc:creator opf:file-as="Huertas, Rosa" opf:role="aut">Rosa Huertas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un retrato revelador sobre la primera asociación de mujeres literatas en el Madrid del siglo XIX. Manuela ha crecido en la pobreza. Hija de una lavandera y de un indeseable, ha sufrido las penurias de una ciudad donde el abismo entre las clases sociales es insalvable. Sin embargo, gracias a una vecina, Manuela tiene algo que la mayoría no posee: sabe leer. Cuando su madre muere y ella huye de un padre que quiere abusar de su poder y utilizarla, su camino se cruza con el de una joven escritora, Gertrudis Gómez de Avellaneda. Criada en una familia con medios, rebelde y sabiéndose siempre distinta a las jóvenes de su clase que únicamente aspiran a casarse y situarse en sociedad, Gertrudis no solo piensa en leer y escribir, sino que tiene la osadía de querer publicar. Logrará contactar con otras que, como ella, se saben diferentes y están dispuestas a hacer oír sus voces. Así nacerá la Hermandad Lírica, un grupo de mujeres intelectuales unidas por la pasión por el saber y los libros y por la necesidad de reivindicar sus obras frente a aquellos escritores cuyos nombres sí aparecen en los libros de historia. La vida de Manuela y la de Gertrudis quedarán entrelazadas para siempre a caballo entre un Madrid frío y cerrado a los cambios y las otras ciudades donde buscarán esa libertad que ansían contra viento y marea.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Rosa Huertas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-16T18:01:56.503145+00:00"/>
+        <meta name="calibre:title_sort" content="Lazos de tinta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

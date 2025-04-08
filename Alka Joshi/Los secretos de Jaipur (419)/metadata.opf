@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">419</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f50a1bd7-4c52-4f30-89cd-4feb2b798fe7</dc:identifier>
+        <dc:title>Los secretos de Jaipur</dc:title>
+        <dc:creator opf:file-as="Alka Joshi" opf:role="aut">Alka Joshi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;India, 1969. Han pasado doce años desde que Lakshmi, la artista de henna, llegó a los Himalayas. Jaipur es cosa del pasado y ahora se dedica a la medicina natural. Malik, su protegido, es un joven apuesto e instruido que ingresa en la Oficina de Instalaciones del Palacio Real de Jaipur, aunque eso signifique dejar atrás a Nimmi, una joven pastora. El muchacho no tarda en descubrir que nada ha cambiado en la Ciudad Púrpura: los favores y el dinero fluyen siempre en la dirección de los poderosos. Cuando el nuevo cine se derrumba la noche de su inauguración, Malik necesitará la ayuda de Lakshmi, la verdadera guardiana de los secretos de Jaipur, para descubrir quién es el responsable.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">q06kEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788419110954</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alka Joshi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Trilogia de Jaipur"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-03-14T15:30:29.928376+00:00"/>
+        <meta name="calibre:title_sort" content="Los secretos de Jaipur"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

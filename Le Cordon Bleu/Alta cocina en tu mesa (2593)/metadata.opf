@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2593</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46d56ae2-d449-4f66-a5f8-0f45ce13e456</dc:identifier>
+        <dc:title>Alta cocina en tu mesa</dc:title>
+        <dc:creator opf:file-as="Le Cordon Bleu" opf:role="aut">Le Cordon Bleu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-24T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Le Cordon Bleu, la histórica escuela de alta cocina te presenta un libro con el que aprenderás a cocinar a otro nivel. &lt;br /&gt;&lt;br /&gt;Cuarenta y cinco platos con fotografías del paso a paso, más de treinta técnicas imprescindibles y un glosario de términos culinarios te acercarán a la alta cocina de una forma práctica y real. &lt;br /&gt;&lt;br /&gt;Con alimentos de nuestra tierra, productos de temporada y elaboraciones de distintas dificultades, serás capaz de crecer en tu cocina y de disfrutar en los fogones como nunca lo has hecho. &lt;br /&gt;&lt;br /&gt;No necesitas un don especial ni experiencia previa. Solo curiosidad y tiempo. Acércate al mundo de los grandes chefs con este curso básico de &lt;i&gt;Alta cocina en tu mesa.&lt;/i&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-12T13:39:20.723184+00:00"/>
+        <meta name="calibre:title_sort" content="Alta cocina en tu mesa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

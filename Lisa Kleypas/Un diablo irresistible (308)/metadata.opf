@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0df61e39-8274-4b90-b365-e609a94d0cf4</dc:identifier>
+        <dc:title>Un diablo irresistible</dc:title>
+        <dc:creator opf:file-as="Kleypas, Lisa" opf:role="aut">Lisa Kleypas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-16T05:00:00+00:00</dc:date>
+        <dc:description>Una señorita con mucho carácter en busca de amor y aventura.
+
+Un escocés rudo, pero muy atractivo, con un misterioso pasado a sus espaldas.
+
+Un romance ardiente y cautivador que ninguno de los dos esperaba y que dará un vuelco a sus vidas.
+
+Lady Merritt Sterling, una joven con las ideas muy claras, sabe que la sociedad londinense se muere de ganas por pillarla en un escándalo. Ella siempre ha sido lo suficientemente inteligente para no caer en este juego, pero cuando conoce a Keir MacRae, un misterioso destilador de whisky escocés, todas sus sensatas intenciones empiezan a evaporarse...
+
+Keir MacRae acaba de llegar a Londres y solo tiene dos misiones: la primera, no enamorarse de la deslumbrante lady Merritt Sterling; la segunda, mantenersea salvo para evitar que le maten. Y de momento, ninguna de ellas está saliendo como esperaba. Keir no sabrá quién es la persona que le quiere ver muerto hasta que por azar salga a la luz su oscuro pasado y, cuando todo su mundo tambalee, solo podrá confiar en Merritt.
+
+La pasión entre los dos se encenderá con una intensidad desconocida hasta entonces para la joven, y esto le hará desear lo único que Keir no puede prometerle: un final feliz. Cuando el peligro se acerque, Merritt intentará a toda costa salvar al hombre que ama..., aunque sabe que este podría ser el diablo disfrazado.</dc:description>
+        <dc:publisher>VERGARA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Lisa Kleypas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Los Ravenel"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2023-02-14T08:13:35.890772+00:00"/>
+        <meta name="calibre:title_sort" content="diablo irresistible, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

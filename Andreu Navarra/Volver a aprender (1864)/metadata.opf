@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1864</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">744dbdaa-38eb-4409-aa02-693427719022</dc:identifier>
+        <dc:title>Volver a aprender</dc:title>
+        <dc:creator opf:file-as="Navarra, Andreu" opf:role="aut">Andreu Navarra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Volver a aprender hace una revisión del sistema educativo actual y
+ nos plantea qué debemos hacer para que los jóvenes vuelvan a adquirir 
+los conocimientos necesarios para convertirse en ciudadanos autónomos y 
+personas integrales. ¿Por qué el mundo occidental actual teme tanto a la
+ extensión del conocimiento? ¿Quiénes están detrás de las nuevas 
+pedagogías y de la tecnocracia digital? En definitiva: ¿Qué está pasando
+ en las escuelas de nuestro país y cómo podemos volver a un equilibrio 
+sano entre educación y enseñanza?&lt;/p&gt;</dc:description>
+        <dc:publisher>Plataforma Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410243309</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Educación</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:38.636656+00:00"/>
+        <meta name="calibre:title_sort" content="Volver a aprender"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

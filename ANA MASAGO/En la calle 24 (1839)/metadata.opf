@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1839</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">287a8fc7-4831-471d-b17c-5aa9b01cd466</dc:identifier>
+        <dc:title>En la calle 24</dc:title>
+        <dc:creator opf:file-as="MASAGO, ANA" opf:role="aut">ANA MASAGO</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-27T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;En una bochornosa mañana de agosto, en una comunidad de vecinos de la Calle 24,&lt;br&gt;aparece el cadáver de Ignacio Quintana, un respetable anciano de 87 años.&lt;br&gt;&lt;br&gt;No es una muerte casual: el cuerpo, tendido sobre un charco de sangre, es descubierto por&lt;br&gt;Esperanza Prieto, amiga y vecina de la víctima. Esperanza ha trabajado muchos años en&lt;br&gt;una funeraria y, al examinar el cadáver, cree probable que su amigo haya sido envenenado.&lt;br&gt;La improvisada detective se enfrenta a un grave problema, la única testigo del crimen es&lt;br&gt;Berta, la gata de Ignacio.&lt;br&gt;&lt;br&gt;En esta aparente apacible comunidad, todos tienen motivos para haberlo asesinado; quien&lt;br&gt;más y quien menos esconde algún secreto. Incluso el finado es el que más tiene que callar.&lt;br&gt;La pregunta que inquieta a Esperanza es: ¿quién es el asesino?&lt;br&gt;En la calle 24 es un guiño a aquella canción que marcó la infancia de toda una generación:&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DF2K1S64</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-30T12:13:10.233311+00:00"/>
+        <meta name="calibre:title_sort" content="En la calle 24"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">830</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2f99327-eedd-4786-9ef4-b2f6848e2099</dc:identifier>
+        <dc:title>Los hábitos secretos de los genios</dc:title>
+        <dc:creator opf:file-as="Wright, Craig" opf:role="aut">Craig Wright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Einstein. Beethoven. Picasso. Jobs. La palabra genio evoca a estas
+ figuras icónicas, cuyas contribuciones han transformado de forma 
+irreversible a la sociedad. Sin embargo, Beethoven no sabía multiplicar,
+ Picasso reprobó Matemáticas en la primaria y Jobs dejó la universidad 
+después del primer semestre. ¿Qué dice esto sobre cómo medimos el éxito 
+en la actualidad? ¿Por qué nos enseñan a comportarnos según las reglas, 
+cuando los genios han hecho todo lo contrario? Y a todo esto, ¿qué es en
+ realidad ser un genio?&lt;br&gt;     El profesor Craig Wright, creador del 
+popular curso Explorando la Naturaleza del Genio, de la Universidad de 
+Yale, revela lo que podemos aprender de las mentes brillantes que han 
+cambiado al mundo. Al examinar la vida de individuos que van desde 
+Charles Darwin y Leonardo da Vinci hasta Elon Musk y Andy Warhol, Wright
+ identifica los 14 rasgos de las grandes mentes de la historia.&lt;br&gt;    
+ Las ideas brillantes no suelen ser repentinas, son el resultado de 
+modos de pensar únicos y una dedicación constante. Los hábitos mentales 
+que producen grandes descubrimientos se pueden aprender y cultivar, y 
+Wright nos muestra cómo.&lt;br&gt;Este libro no te convertirá en un genio. 
+Pero adoptar los hábitos secretos de estas personas te hará más 
+estratégico, creativo, exitoso y, en última instancia, más feliz.&lt;/div&gt;</dc:description>
+        <dc:publisher>Planeta México</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-06-06T08:53:50.355707+00:00"/>
+        <meta name="calibre:title_sort" content="hábitos secretos de los genios, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

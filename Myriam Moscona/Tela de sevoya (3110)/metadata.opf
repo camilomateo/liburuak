@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3110</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d90481e8-a4ca-41f7-b7ae-949a772f0be1</dc:identifier>
+        <dc:title>Tela de sevoya</dc:title>
+        <dc:creator opf:file-as="Myriam Moscona" opf:role="aut">Myriam Moscona</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-10T00:00:00+00:00</dc:date>
+        <dc:description>Una entrañable celebración de la familia y del papel de la memoria en el desarrollo individual.La protagonista viaja a Bulgaria en busca de los últimos hablantes del ladino, la lengua con ecos de Cervantes que nació a finales del siglo XV tras la expulsión de los judíos de España. «Más que la lengua de mi infancia, es la infancia de mi lengua.» Con una mirada atenta hacia el tiempo que se aleja, la autora, de la mano de dos lenguas, va y viene de la evocación a la añoranza. Una abuela agria y malhumorada se convierte en el apoyo dramático, a la vez terrible y humorístico, de esta entrañable historia. La sombra de los padres perdidos, así como las voces de tantos antepasados que la transportan a Sofia, Plovdiv, Esmirna, Salónica, Estambul y siempre a México viven en las distintas capas de esta obra mágica (Premio Xavier Villaurrutia y traducida a varios idiomas) que, como la cebolla, se arma en capas y a veces, al deshojarla, hace llorar.</dc:description>
+        <dc:publisher>Tusquets México</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-03T15:06:04.333138+00:00"/>
+        <meta name="calibre:title_sort" content="Tela de sevoya"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1966286-6c23-4742-bdfd-84fca8102c62</dc:identifier>
+        <dc:title>Violencia roja antes de la Guerra Civil</dc:title>
+        <dc:creator opf:file-as="Sergio Campos Cacho" opf:role="aut">Sergio Campos Cacho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-13T06:00:00+00:00</dc:date>
+        <dc:description>Una historia que desmiente el relato republicano sobre el inicio del Terror Rojo.
+Habían llegado al poder en las elecciones de 1936 y lo de menos era cómo. Si hubo fraude, solo sería asunto para historiadores meticulosos mucho tiempo después. Mientras, la revolución proletaria. Lo que repetía Largo en los mítines o escribía Araquistáin en Leviatán, anunciando que la reacción fascista al progreso se aplastaría como fuese, dejaba dudas: podía ser verdad, podía ser retórica. Pero ellos no dudaban, vivían en la certeza: eran las MAOC, la vanguardia de la vanguardia del Frente Popular; nadie les iba a parar.
+Las Milicias Antifascistas Obreras y Campesinas reunían desde 1933 a los grupos paramilitares y parapoliciales marxistas. No actuaron como una banda de criminales exaltados, sino como una incipiente milicia política de carácter leninista cuyo objetivo era la Revolución y su estrategia para conseguirla, el Terror.
+En abril de 1936 ocuparon el asilo de niñas de la calle de Antillón de Madrid con el permiso de las autoridades republicanas. Sus sótanos fueron utilizados para llevar a cabo prácticas de tiro y de tortura. En la salida de Madrid, cruzado el río por el Puente de Segovia, acababa de nacer, en tiempo de «paz», la primera fábrica de Miedo.
+No hay víctimas sin verdugos. En estas páginas conviven unas y otros con un único fin: que la dignidad perdida a través del crimen reviva mediante el recuerdo y la fijación precisa y exhaustiva de los hechos.</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467073522</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-22T16:21:11.800505+00:00"/>
+        <meta name="calibre:title_sort" content="Violencia roja antes de la Guerra Civil"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

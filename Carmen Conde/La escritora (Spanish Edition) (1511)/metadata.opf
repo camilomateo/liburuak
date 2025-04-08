@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1511</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87b45ec6-86c6-4a0b-849c-9b90e4ae4e70</dc:identifier>
+        <dc:title>La escritora (Spanish Edition)</dc:title>
+        <dc:creator opf:file-as="Conde, Carmen" opf:role="aut">Carmen Conde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-27T23:00:00+00:00</dc:date>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01N5FQLJ9</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-22T16:46:45.036221+00:00"/>
+        <meta name="calibre:title_sort" content="escritora (Spanish Edition), La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

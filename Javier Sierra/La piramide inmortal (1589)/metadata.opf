@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1589</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2639eebf-75fb-4d87-8e4b-c4fcc4c2b7bb</dc:identifier>
+        <dc:title>La pirámide inmortal</dc:title>
+        <dc:creator opf:file-as="Sierra, Javier" opf:role="aut">Javier Sierra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-14T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;El gran misterio de la humanidad, la inmortalidad, es la piedra angular sobre la que giran los argumentos de la nueva novela de Javier Sierra, &lt;i&gt;La pirámide inmortal&lt;/i&gt;, una versión revisada, actualizada y ampliada de su novela &lt;i&gt;El secreto egipcio de Napoleón&lt;/i&gt;.&lt;br /&gt;Después de &lt;i&gt;El maestro del Prado&lt;/i&gt;, Javier Sierra vuelve con más emoción, más sentimiento, más enigmas. Agosto de 1799. Un hombre ha quedado atrapado en el interior de la Gran Pirámide y se debate entre la vida y la muerte. Es el joven general Napoleón Bonaparte. En ese lugar, aislado bajo toneladas de piedra, está a punto de serle revelado un secreto ancestral que alterará para&lt;br /&gt;siempre su destino. Alquimistas, hechiceros, bailarinas egipcias, viejos maestros descendidos de las montañas y grandes personajes históricos competirán con él en la búsqueda del tesoro más preciado: la fórmula de la vida eterna.&lt;/p&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408132646</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:54.909621+00:00"/>
+        <meta name="calibre:title_sort" content="pirámide inmortal, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

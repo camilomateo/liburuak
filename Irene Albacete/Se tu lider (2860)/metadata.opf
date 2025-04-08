@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2860</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d11b1330-e968-4a17-addd-e54e92c99487</dc:identifier>
+        <dc:title>Sé tu lider</dc:title>
+        <dc:creator opf:file-as="Albacete, Irene" opf:role="aut">Irene Albacete</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-19T18:36:16+00:00</dc:date>
+        <dc:description>Conócete, respeta tus emociones y dirige tucamino con propósito y equilibrio. Despuésde desatar un movimiento en redes e inspirar a miles de personas, la coach emocionalIrene Albacete publica su primer libro. Una llamada a descubrirte y a liderar tu vida desdela autenticidad.Apuesto a que, al final de tu vida, querrás mirar atrás y sentir, con el corazón en paz, que viviste plenamente, fiel a ti mismo.Encontrar este libro es solo el primer paso. Ahora es momento de hacerlo tuyo y llevarlo contigo. Sé tu líder te guiará a descubrir el poder que tienes para moldear tu realidad, enfrentar los retos con valentía, elevar tus sueños y actuar con la certeza de que estás en el camino correcto.El momento de actuar es ahora. ¿Estás listo para liderar tu propio destino?«El mundo es un mosaico de personas, y cada uno de nosotros aporta una pieza única a la imagen general. Sin tu pieza, el mosaico estaría incompleto. Necesitamos tu risa, tus sueños, tu determinación y tu compasión para...</dc:description>
+        <dc:publisher>AGUILAR</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-30T21:16:37.995234+00:00"/>
+        <meta name="calibre:title_sort" content="Sé tu lider"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

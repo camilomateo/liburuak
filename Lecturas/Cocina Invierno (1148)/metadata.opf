@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">559b2765-9475-4e73-a649-c1eec6255c2f</dc:identifier>
+        <dc:title>Cocina Invierno</dc:title>
+        <dc:creator opf:file-as="Lecturas" opf:role="aut">Lecturas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-15T09:13:55+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <dc:subject>cocina</dc:subject>
+        <meta name="calibre:timestamp" content="2024-01-16T17:00:20.570426+00:00"/>
+        <meta name="calibre:title_sort" content="Cocina Invierno"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

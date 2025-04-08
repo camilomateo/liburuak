@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>daughters</title>
+  <id>Calibre2opds:taglist:D:196</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_196_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="daughters" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por D" />
+  <entry>
+    <title>Little Women</title>
+    <id>calibre:book:2069</id>
+    <updated>2024-09-06T02:09:07Z</updated>
+    <link href="../../Louisa%20May%20Alcott/Little%20Women%20%282069%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Louisa%20May%20Alcott/Little%20Women%20%282069%29/Little%20Women%20-%20Louisa%20May%20Alcott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="517 KB" />
+    <author>
+      <name>Louisa May Alcott</name>
+      <uri>../authors_1/authors_1467_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Autobiographical" />
+    <category term="Fiction" />
+    <category term="Young" />
+    <category term="Women" />
+    <category term="--" />
+    <category term="Sisters" />
+    <category term="Domestic" />
+    <category term="Family" />
+    <category term="Life" />
+    <category term="New" />
+    <category term="England" />
+    <category term="Bildungsromans" />
+    <category term="Mothers" />
+    <category term="and" />
+    <category term="daughters" />
+    <category term="March" />
+    <category term="(Fictitious" />
+    <category term="characters)" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [278]:</summary>
+    <link href="../book_2/book_2069.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Tempest</title>
+    <id>calibre:book:2516</id>
+    <updated>2024-09-09T10:34:47Z</updated>
+    <link href="../../William%20Shakespeare/The%20Tempest%20%282516%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/The%20Tempest%20%282516%29/The%20Tempest%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="108 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Shipwreck" />
+    <category term="victims" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Fathers" />
+    <category term="and" />
+    <category term="daughters" />
+    <category term="Magicians" />
+    <category term="Political" />
+    <category term="refugees" />
+    <category term="Islands" />
+    <category term="Spirits" />
+    <category term="Tragicomedy" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2516.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Tragedy of King Lear</title>
+    <id>calibre:book:2517</id>
+    <updated>2024-09-09T10:34:47Z</updated>
+    <link href="../../William%20Shakespeare/The%20Tragedy%20of%20King%20Lear%20%282517%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/The%20Tragedy%20of%20King%20Lear%20%282517%29/The%20Tragedy%20of%20King%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="153 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Tragedies" />
+    <category term="Fathers" />
+    <category term="and" />
+    <category term="daughters" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Inheritance" />
+    <category term="succession" />
+    <category term="Lear" />
+    <category term="King" />
+    <category term="(Legendary" />
+    <category term="character)" />
+    <category term="Britons" />
+    <category term="Kings" />
+    <category term="rulers" />
+    <category term="Aging" />
+    <category term="parents" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2517.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8c642e7-f72f-42b1-a868-47977ae0684f</dc:identifier>
+        <dc:title>The Tempest</dc:title>
+        <dc:creator opf:file-as="Shakespeare, William" opf:role="aut">William Shakespeare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shipwreck</dc:subject>
+        <dc:subject>victims</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fathers</dc:subject>
+        <dc:subject>and</dc:subject>
+        <dc:subject>daughters</dc:subject>
+        <dc:subject>Magicians</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>refugees</dc:subject>
+        <dc:subject>Islands</dc:subject>
+        <dc:subject>Spirits</dc:subject>
+        <dc:subject>Tragicomedy</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:47+00:00"/>
+        <meta name="calibre:title_sort" content="The Tempest"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

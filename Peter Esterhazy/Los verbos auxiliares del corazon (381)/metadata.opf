@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">381</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64eca365-1a95-48b9-b85b-b5562dc043eb</dc:identifier>
+        <dc:title>Los verbos auxiliares del corazón</dc:title>
+        <dc:creator opf:file-as="Esterházy, Péter" opf:role="aut">Péter Esterházy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-05T23:00:00+00:00</dc:date>
+        <dc:description>Un verdadero tour-de-force literario donde se mezclan los ingredientes más inesperados, brillantes y reveladores. «Ya cumplidos los treinta años, todo cambio es un símbolo detestable del pasaje del tiempo.» Dos hombres y una mujer, hermanos ya adultos, son convocados por su anciano padre para acudir al hospital donde agoniza su madre. La reunión familiar ante el lecho de muerte -son los últimos años de una dictadura light que ha visto crecer a una generación amargada y descreída- despierta en el primogénito una serie de recuerdos que lo trasladan a la frontera de la orfandad y el autoengaño. Las grietas del dolor y del miedo, los sentimientos de desvalidez y soledad provocan un giro en la memoria del narrador, que cede la palabra a las confesiones y a los sueños de su madre, sumergiéndose en el imperio de la infancia y en las aventuras de una radiante adolescencia yjuventud que evocan una Mitteleuropa ya perdida cuyos ecos contrastan con la grisura del presente. Péter Esterházy -maestro del disfraz, la ironía, el humor negro y la ternura- compone un réquiem sobre la trágica erosión de los años. Los verbos auxiliares del corazón son la gramática de una afección. Las emociones y los conflictos en las relaciones entre una madre y su hijo se elevan a la categoría de mito literario.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <dc:subject>Psicológico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Péter Esterházy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-04T13:11:45.652397+00:00"/>
+        <meta name="calibre:title_sort" content="verbos auxiliares del corazón, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

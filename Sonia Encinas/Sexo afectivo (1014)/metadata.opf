@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1014</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82f4ae17-6c77-4273-8e4c-2edec9735123</dc:identifier>
+        <dc:title>Sexo afectivo</dc:title>
+        <dc:creator opf:file-as="Encinas, Sonia" opf:role="aut">Sonia Encinas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-12T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;b&gt;Amor propio, empoderamiento, relaciones sanas, consentimiento y, sobre todo..., ¡placer!&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;«Muy bien, ya sabemos cómo poner un condón en un pene y cómo prevenir infecciones de transmisión genital. Pero ¿en serio no nos vais a contar nada más?».&lt;/p&gt;
+ &lt;p&gt;¿Cómo puedo aprender a querer mi cuerpo? ¿Es normal tener fantasías sexuales? ¿Es malo masturbarse mucho? ¿Es malo no masturbarse nunca? ¿Cómo puedo saber si me gustan los chicos, las chicas o todxs? ¿Cómo puedo tener relaciones que me hagan sentir bien? ¿Qué debo saber sobre el sexo entre chicas? ¿Es el porno un reflejo de la realidad? Y, sobre todo, ¿por qué nadie nos habla del placer?&lt;/p&gt;
+ &lt;p&gt;Por fin una guía de educación sexual inclusiva y en positivo que nos explica todo lo que debemos saber (y que nadie se atreve a contarnos) para disfrutar de nuestra vida sexual.&lt;/p&gt;
+ &lt;p&gt;Si vas a tener sexo...&lt;br /&gt;Hazlo con información.&lt;br /&gt;Hazlo con permiso.&lt;br /&gt;Hazlo con placer.&lt;/p&gt;
+&lt;p&gt;En este libro encontrarás todo lo que siempre quisiste saber sobre:&lt;/p&gt;
+ &lt;p&gt;*&lt;b&gt;Sexo y género&lt;/b&gt;: ¿en qué se diferencian?&lt;/p&gt;
+ &lt;p&gt;*&lt;b&gt;El sexo y el placer&lt;/b&gt;: ¿qué son las fantasías sexuales?&lt;/p&gt;
+&lt;p&gt;*&lt;b&gt;Los orgasmos&lt;/b&gt;: ¿cómo se llega hasta ellos?&lt;/p&gt;
+ &lt;p&gt;*&lt;b&gt;La masturbación&lt;/b&gt;: ¿por qué nos masturbamos?&lt;/p&gt;
+ &lt;p&gt;*&lt;b&gt;La virginidad&lt;/b&gt;: mitos del patriarcado&lt;/p&gt;
+ &lt;p&gt;*&lt;b&gt;El consentimiento y el abuso&lt;/b&gt;: cómo identificarlos&lt;/p&gt;
+&lt;p&gt;*&lt;b&gt;Infecciones de transmisión sexual&lt;/b&gt;: ¿cómo las prevengo?&lt;/p&gt;
+ &lt;p&gt;*&lt;b&gt;El porno:&lt;/b&gt; ¿qué debo saber acerca de él?&lt;/p&gt;
+ &lt;p&gt;*¡Y muchas cosas más!&lt;/p&gt;</dc:description>
+        <dc:publisher>Montena</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419501462</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-30T06:59:12.672100+00:00"/>
+        <meta name="calibre:title_sort" content="Sexo afectivo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f88deb67-1da6-407b-afa9-ada0615d8d6c</dc:identifier>
+        <dc:title>The Life and Adventures of Robinson Crusoe</dc:title>
+        <dc:creator opf:file-as="Defoe, Daniel" opf:role="aut">Daniel Defoe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shipwreck</dc:subject>
+        <dc:subject>survival</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Islands</dc:subject>
+        <dc:subject>Crusoe</dc:subject>
+        <dc:subject>Robinson</dc:subject>
+        <dc:subject>(Fictitious</dc:subject>
+        <dc:subject>character)</dc:subject>
+        <dc:subject>Atlantic</dc:subject>
+        <dc:subject>Ocean</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Stories</dc:subject>
+        <dc:subject>Castaways</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:31.988546+00:00"/>
+        <meta name="calibre:title_sort" content="The Life and Adventures of Robinson Crusoe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

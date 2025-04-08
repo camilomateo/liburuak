@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1633</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cf4e9c0-06c4-45b0-9f54-0c5f95e9ac95</dc:identifier>
+        <dc:title>Legado mortal</dc:title>
+        <dc:creator opf:file-as="Higgins Clark, Mary" opf:role="aut">Mary Higgins Clark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span itemprop="description"&gt;La reina indiscutible del suspense ha 
+escrito un nuevo clásico para su biblioteca: una periodista va en busca 
+de su madre biológica mientras debe cubrir el juicio de una mujer 
+acusada de matar a su rico marido.
+&lt;br&gt;
+&lt;br&gt;La reportera de televisión Delaney Wright está a punto de saltar a 
+la fama por dar la noticia en el informativo de las seis del juicio por 
+asesinato del que todo el mundo habla. Debería estar entusiasmada por el
+ acontecimiento, pero en realidad solo tiene una cosa en la cabeza: 
+encontrar a su madre biológica.
+&lt;br&gt;La acusada esBetsy Grant, la viuda de un rico doctor que enfermó de 
+alzhéimer ocho años atrás. A pesar de que su famoso abogado, ahora en 
+horas bajas, la insta a aceptar la negociación de la pena, Betsy quiere 
+ir a juicio para demostrar su inocencia.
+&lt;br&gt;Alan Grant, el hijastro de Betsy, espera con impaciencia la 
+sentencia, pues su sustanciosa herencia está en el aire y es el único 
+medio que le queda para garantizar el pago a su ex, a sus hijos y a sus 
+agresivos acreedores.
+&lt;br&gt;A medida que avanza el juicio y se acumulan las pruebas 
+incriminatorias en contra de Betsy, Delaney está cada vez más convencida
+ de que no es culpable y está dispuesta a probarlo.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-22T12:04:40.787575+00:00"/>
+        <meta name="calibre:title_sort" content="Legado mortal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

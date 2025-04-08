@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02995809-3df8-40db-a894-bcf53049af4f</dc:identifier>
+        <dc:title>Una mujer educada</dc:title>
+        <dc:creator opf:file-as="José Carlos Ruiz" opf:role="aut">José Carlos Ruiz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;¿Qué sucede cuando una brillante filósofa convierte su biografía en una obra maestra? Por el autor de El arte de pensar, Filosofía ante el desánimo e Incompletos Más de 100.000 lectores &lt;/p&gt;
+&lt;p&gt;Tras una vida de esfuerzo y tenacidad, Eva, a sus cuarenta y tres años, logra alcanzar los dos objetivos que se había ser catedrática de Filosofía, ganándose el respeto del gremio con una trayectoria profesional brillante, y ser madre. Lo demás pasa a un segundo plano, incluido un divorcio que la deja sola con una bebé de año y medio. Al poco tiempo le diagnostican un cáncer terminal que acorta su esperanza de vida a unos meses. A partir de ese momento, Eva decide centrar todas sus energías en un único propó construir el mejor legado posible para su hija, echando mano de sus conocimientos filosóficos y de su biografía. &lt;/p&gt;
+&lt;p&gt;Las conversaciones con su cuidador, la historia familiar, la relación con sus amantes o los diarios que guarda desde que tiene nueve años le servirán para dar forma al último libro que escribirá antes de morir y que pretende ser una brújula que ayude a su hija Lucía a orientarse en la vida. A lo largo de esas páginas reflexionará sobre temas como la sinceridad, la culpa, el castigo, la seducción o la soledad. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Una novela profunda y conmovedora que pone la filosofía al servicio de la vida.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Narrativa</dc:subject>
+        <meta name="calibre:timestamp" content="2025-03-03T15:06:05.165530+00:00"/>
+        <meta name="calibre:title_sort" content="Una mujer educada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

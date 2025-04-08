@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">413</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e591de0-02d4-4c25-824f-27d8134eb79c</dc:identifier>
+        <dc:title>111 cosas que podrias hacer en lugar de depilarte</dc:title>
+        <dc:creator opf:file-as="Alexis Ortiz" opf:role="aut">Alexis Ortiz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;¿SABÍAS QUE DEDICAMOS UNA MEDIA DE 1.000 HORAS DE NUESTRA VIDA A DEPILARNOS? &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;QUIZÁ HAYA LLEGADO EL MOMENTO DE HACER OTRAS COSAS CON NUESTRO TIEMPO.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Un libro cargado de ideas para llenar tu vida de creatividad, diversión y buenos momentos.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Nuestro
+ tiempo es valiosísimo y quizá no haga falta invertir buena parte de él a
+ quitarnos los pelos. En su lugar, nos podríamos dedicar a cosas mucho 
+más interesantes como aprender a comunicarnos solo en memes, practicar 
+la papiroflexia, usar la ouija para contactar con el espíritu de Marie 
+Curie, batir un récord Guinness (el de más huevos rotos con la cabeza 
+parece bastante accesible) o, no sé, incluso derribar el patriarcado.&lt;/p&gt;&lt;p&gt;Porque no hay nada que una mujer con tiempo entre manos, y con (o sin) pelos en las piernas, no pueda hacer.&lt;/p&gt;&lt;p&gt;Ilustrado por Rocío Vidal (@rainvart)&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Molino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alexis Ortiz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-13T08:46:52.896785+00:00"/>
+        <meta name="calibre:title_sort" content="111 cosas que podrias hacer en lugar de depilarte"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

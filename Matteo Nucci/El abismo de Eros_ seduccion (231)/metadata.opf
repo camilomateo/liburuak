@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">231</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b3afe3f-906c-407e-a03e-8eec7fa64070</dc:identifier>
+        <dc:title>El abismo de Eros: seducción</dc:title>
+        <dc:creator opf:file-as="Matteo Nucci" opf:role="aut">Matteo Nucci</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;UN VIAJE IRRESISTIBLE AL ETERNO DESEO DEL AMOR ¿Amamos para siempre? ¿Solo se puede amar de verdad como respuesta al amor? ¿Qué es el amor y qué leyes lo rigen? ¿Qué sucede cuándo nos invade esa potentísima emoción que los antiguos llamaban eros? ¿Cómo cambiamos y de qué manera el eros penetra en nuestra alma y altera su funcionamiento? Nadie ha sabido dar respuesta a estas preguntas tan humanas como los hombres y mujeres que habitaron la Hélade. Su claridad cristalina y constancia reflexiva hacen que todavía hoy tengamos una desesperada necesidad de ellos. Porque leyendo a Homero, a Hesíodo o a Platón, encontramos medios e instrumentos para comprender nuestro presente de pasiones, amores y seducción.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">8417761551</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">pjldzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788417761554</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Matteo Nucci&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-27T11:04:02+00:00"/>
+        <meta name="calibre:title_sort" content="El abismo de Eros: seducción"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

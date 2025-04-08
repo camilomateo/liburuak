@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">357b16f3-e65a-4304-9d89-aad601fb72a2</dc:identifier>
+        <dc:title>En paz con la comida</dc:title>
+        <dc:creator opf:file-as="Schaefer, Jenni" opf:role="aut">Jenni Schaefer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-24T20:31:32+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;Los trastornos alimenticios tratados desde una perspectiva divulgativa, próxima y empática.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;«&lt;B&gt;El libro que tienes en tus manos es probablemente la mejor guía para la superación de la anorexia escrita por una ex paciente. Y es, sobre todo, una historia de éxito&lt;/B&gt;».&lt;BR&gt;&lt;B&gt;Rafael Santandreu, autor del bestseller &lt;/B&gt;&lt;I&gt;&lt;B&gt;Sin miedo. &lt;/B&gt;&lt;/I&gt;&lt;/P&gt; &lt;P&gt;Jenni llevaba mucho tiempo conviviendo con su trastorno alimentario; un trastorno que distorsionaba la percepción de su propia imagen y le provocarle secuelas físicas. Sin embargo, gracias a la terapia descrita en este libro Jenni empezó a comprender sus trastornos alimentarios como una relación tóxica y a percibirlos como una entidad distinta de sí misma. Así pudo romper con esa relación devastadora para siempre.&lt;/P&gt; &lt;P&gt;&lt;I&gt;En paz con la comida &lt;/I&gt;es un libro inspirador, compasivo, acompañado de numerosos ejercicios prácticos que ayudarán al lector a romper con su personal trastorno. Un libro que proporciona esperanza...</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:27.331581+00:00"/>
+        <meta name="calibre:title_sort" content="En paz con la comida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">352</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82085bed-b6fc-4844-8058-6be57773008b</dc:identifier>
+        <dc:title>Blackout: Berlín 1939</dc:title>
+        <dc:creator opf:file-as="Scarrow, Simon" opf:role="aut">Simon Scarrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-10T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Berlín 1939&lt;br&gt;NUMERO 1 EN AMAZON CON LA EDICIÓN INGLESA DURANTE VARIAS SEMANAS.&lt;br&gt;&lt;br&gt;Berlín,
+ 1939. Es un invierno especialmente frío, las calles están cubiertas de 
+nieve y hielo, y resuena, en la distancia, el estruendo de la guerra. El
+ Tercer Reich cerca la ciudad, y el pánico y la paranoia aumentan entre 
+la población. Cada noche, durante los constantes apagones nocturnos, 
+Berlín se sumerge en una oscuridad opresiva y sofocante y, entre las 
+sombras, un asesino en serie encuentra vía libre para sus objetivos. &lt;br&gt;&lt;br&gt;La
+ reputación del inspector Horst Schenke está en juego. No ha aceptado 
+unirse al partido nazi y ahora, al hallar el cadáver de una mujer joven 
+brutalmente asesinada, está obligado a resolver el caso con rapidez y 
+eficacia; de lo contrario, las consecuencias podrían ser fatales. &lt;br&gt;&lt;br&gt;Los
+ peores temores de Schenke se confirman cuando aparece una segunda 
+víctima: poco a poco, la investigación lo conduce a los pasillos más 
+profundos y oscuros del régimen. El peligro acecha detrás de cada 
+esquina, y las distintas facciones del Reich, enfrentadas entre sí, 
+pueden ser tan letales como el asesino que acecha en las calles... &lt;br&gt;&lt;br&gt;Sorprendente
+ novela en el Berlín de la SS durante la Segunda Guerra Mundial que se 
+mantuvo en el número 1 en Amazon durante semanas en su edición inglesa. 
+El autor de la serie Cato y Macro nos sorprende que esta nueva novela 
+muy alejada del Imperio romano.
+
+&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Simon Scarrow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-23T12:18:56.596645+00:00"/>
+        <meta name="calibre:title_sort" content="Blackout: Berlín 1939"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

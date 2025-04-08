@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3091</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a8947c0-a763-4858-aa8f-5ead99d0e1b6</dc:identifier>
+        <dc:title>La enemiga</dc:title>
+        <dc:creator opf:file-as="Némirovsky, Irène" opf:role="aut">Irène Némirovsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-13T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En julio de 1928, la revista literaria francesa Les Oeuvres Libres publicó una novela breve de «Pierre Nérey»; se trataba de La enemiga, de una joven y aún desconocida Irène Némirovsky. El pseudónimo era un anagrama de su nombre (Nérey-Yrène), y la obra, un texto con un marcado fondo autobiográfico de una escritora que se haría conocida apenas un año después con David Golder y alcanzaría la gloria literaria póstumamente con Suite francesa.&lt;/p&gt;
+&lt;p&gt;La trama empieza en París, en 1919. Gabri, de once años, y su hermanita Michette, de seis, pasan la mayor parte del tiempo solas en el apartamento familiar. El padre, Léon Bragance, aún no ha vuelto de la guerra, y la madre, Francine, vanidosa y cruel, vive más pendiente de sus devaneos mundanos que del cuidado de sus hijas. A menudo incluso se olvida de ellas, hasta que un buen día la pequeña Michette sufre un terrible accidente. Gabri nunca perdonará a su madre, y el odio hacia ella la acompañará durante años, hasta bien entrada la adolescencia. ¿Serán capaces madre e hija de hablarse con franqueza? ¿Llegarán con el tiempo a quererse un poco? ¿Encontrará Gabri el amor?&lt;/p&gt;
+&lt;p&gt;Con el París de los locos años veinte como marco, La enemiga no es sólo una historia conmovedora sobre la ausencia de los padres y las vicisitudes de una niña enfrentada a la muerte y a la soledad a una edad muy temprana, sino también el retrato de una sociedad ejecutado por la ácida pluma de una escritora emblemática del período de entreguerras.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-23T09:50:04+00:00"/>
+        <meta name="calibre:title_sort" content="enemiga, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3004</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf7b15b0-f904-4a7e-bda7-8f00730f3c86</dc:identifier>
+        <dc:title>Nueve futuros</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1958-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Una de las mejores recopilaciones de relatos de Isaac Asimov, con historias escritas originalmente durante los años cincuenta, década prodigiosa para el autor y durante la cual se ganó a pulso la fama que le ha acompañado desde entonces como escritor de ciencia ficción. El volumen abarca un total de 9 relatos y 2 poemas, en los que Asimov exploró todo el espectro de temas del género. La investigación científica, los ordenadores, las profesiones ligadas a las nuevas tecnologías, visiones del futuro cercano y del futuro lejano…, tratados siempre con la lucidez característica del autor. Y, por destacar un relato entre todos ellos, El niño feo, una historia enormementer emotiva sobre un niño que encuentra a su madre 40000 años demasiado tarde…</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:series" content="Super Ficción"/>
+        <meta name="calibre:series_index" content="96"/>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:50.820172+00:00"/>
+        <meta name="calibre:title_sort" content="Nueve futuros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

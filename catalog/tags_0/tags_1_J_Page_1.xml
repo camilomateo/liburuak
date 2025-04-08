@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por J</title>
+  <id>Calibre2opds:taglist:N:1:J</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_1_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por J" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por N" />
+  <link href="./tags_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Novela" />
+  <entry>
+    <title>Jaque al destino</title>
+    <id>calibre:book:745</id>
+    <updated>2023-05-22T05:06:46Z</updated>
+    <link href="../../Lluis%20Llach/Jaque%20al%20destino%20%28745%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lluis%20Llach/Jaque%20al%20destino%20%28745%29/Jaque%20al%20destino%20-%20Lluis%20Llach.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="621 KB" />
+    <author>
+      <name>Lluís Llach</name>
+      <uri>../authors_0/authors_556_Page_1.xml</uri>
+    </author>
+    <published>2020-10-08T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Catedral</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Un grito en la oscuridad pasa desapercibido en el castillo. A la mañana siguiente se descubre un cadáver, cuya identidad puede hacer peligrar la dinastía del reino de Magens. El joven presbítero Orenç es el encargado de investigar el asesinato. Su co...</summary>
+    <link href="../book_0/book_745.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Jodía Pavía (1525)</title>
+    <id>calibre:book:63</id>
+    <updated>2023-01-17T11:40:42Z</updated>
+    <link href="../../Arturo%20Perez-Reverte/Jodia%20Pavia%20%281525%29%20%2863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arturo%20Perez-Reverte/Jodia%20Pavia%20%281525%29%20%2863%29/Jodia%20Pavia%20%281525%29%20-%20Arturo%20Perez-Reverte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="681 KB" />
+    <author>
+      <name>Arturo Pérez-Reverte</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2000-08-06T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Zenda</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>Durante su cautiverio, tras caer derrotado en la batalla de Pavía frente a las tropas de Carlos V, Francisco I de Francia, escribe una carta a Mimí.Pequeño relato de Arturo Pérez-Reverte publicado en la sección «Los relatos del verano» del suplemento...</summary>
+    <link href="../book_0/book_63.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Joyland</title>
+    <id>calibre:book:2613</id>
+    <updated>2024-09-17T00:24:17Z</updated>
+    <link href="../../Stephen%20King/Joyland%20%282613%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Joyland%20%282613%29/Joyland%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="588 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>2013-06-06T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <summary>Devin Jones es un estudiante de 21 años que consigue trabajo en el verano de 1973 en Joyland, un pequeño parque de atracciones de estilo antiguo, anterior a la llegada de los modernos parques temáticos. Una de las leyendas que corre entre los emplead...</summary>
+    <link href="../book_2/book_2613.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Juego del Ángel</title>
+    <id>calibre:book:1267</id>
+    <updated>2024-03-07T06:24:52Z</updated>
+    <link href="../../Carlos%20Ruiz%20Zafon/El%20Juego%20del%20Angel%20%281267%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Ruiz%20Zafon/El%20Juego%20del%20Angel%20%281267%29/El%20Juego%20del%20Angel%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="846 KB" />
+    <author>
+      <name>Carlos Ruiz Zafón</name>
+      <uri>../authors_0/authors_897_Page_1.xml</uri>
+    </author>
+    <published>2008-04-17T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Lang:es" />
+    <category term="El Cementerio de los Libros Olvidados" />
+    <summary>El Cementerio de los Libros Olvidados [2]: En la turbulenta Barcelona de los años 20 un joven escritor obsesionado con un amor imposible recibe la oferta de un misterioso editor para escribir un libro como no ha existido nunca, a cambio de una fortun...</summary>
+    <link href="../book_1/book_1267.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

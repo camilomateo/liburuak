@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2782</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">159ef602-3275-4e52-b64f-a324530dc98d</dc:identifier>
+        <dc:title>El vacío en el que flotas</dc:title>
+        <dc:creator opf:file-as="Franco, Jorge" opf:role="aut">Jorge Franco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-01T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;"Él, que había caminado media vida en el puro filo de una navaja, identificó ya en su niño la irremediable vocación al extravío".&lt;/p&gt;
+&lt;p&gt;La explosión de una bomba y la desaparición de un niño trenzarán de manera ineludible el drama de los protagonistas de El vacío en el que flotas, y entonces seremos testigos -en este juego de ficciones en el que una historia parece desarrollarse dentro de otra, como en un set de muñecas rusas- de tres relatos que comparten un mismo personaje. En el primero, una joven pareja pierde a su hijo pequeño en un atentado terrorista: la madre sobrevive, pero del niño no queda ningún rastro. En el segundo, un joven y desconocido escritor gana un importante premio literario: ahora disfruta y padece la fama lejos del hombre que lo crio, un ser enigmático pero lleno de compasión y ternura, una especie de artista de la noche que, ataviado de mujer, siempre aspiró a dedicarse a cantar en su propio cabaré. Y en el tercero, aquel hombre que se rebusca la vida, y a veces se viste de mujer, de repente llega a su pensión con un niño perdido: explica que los padres del pequeño murieron en un accidente y que él debe cuidarlo, pues es su única familia. Así, las tres historias se van entrecruzando, emergiendo unas de otras, para provocar una lectura intensa e intrigante que se pregunta por aquellos que nos dejan con el peso de su ausencia.&lt;/p&gt;
+&lt;p&gt;"Este es uno de los autores colombianos a quien me gustaría pasarle la antorcha". &lt;/p&gt;
+&lt;p&gt;Gabriel García Márquez&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786287659025</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CFCNK2H6</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-09T07:18:53.833997+00:00"/>
+        <meta name="calibre:title_sort" content="vacío en el que flotas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

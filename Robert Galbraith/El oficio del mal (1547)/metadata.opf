@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1547</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85bad031-3b6b-46a1-9bf4-256b0c200d92</dc:identifier>
+        <dc:title>El oficio del mal</dc:title>
+        <dc:creator opf:file-as="Galbraith, Robert" opf:role="aut">Robert Galbraith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-10T11:10:28+00:00</dc:date>
+        <dc:description>En un paquete misterioso que ha llegado a la oficina, Robin Ellacott encuentra, horrorizada, una pierna de mujer.&lt;br/&gt;&lt;br/&gt;Su jefe, el detective privado Cormoran Strike, se muestra tanto o más sobresaltado ante el hallazgo, aunque mucho menos sorprendido. Hay cuatro personas de su pasado que podrían estar involucradas en el envío, y Strike sabe que todas ellas son capaces de actuar de una forma tan cruel y abominable.&lt;br/&gt;&lt;br/&gt;Mientras la policía se concentra en la única pista que Strike ya ha descartado, éste y Robin deciden investigar por su cuenta y se sumergen en el mundo siniestro de los otros tres sospechosos. Pero cuando varios hechos igual de aterradores empiezan a sucederse, Strike y Robin se dan cuenta de que el tiempo se les agota por momentos...&lt;br/&gt;&lt;br/&gt;Además de una trama de suspense ingeniosamente construida y repleta de giros inesperados, &lt;i&gt;El oficio del mal&lt;/i&gt; nos ofrece una historia apasionante sobre un hombre y una mujer en una encrucijada tanto personal como profesional. Un libro que te atrapa hasta la última página.</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Cormoran Strike"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:43.643680+00:00"/>
+        <meta name="calibre:title_sort" content="oficio del mal, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

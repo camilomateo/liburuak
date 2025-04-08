@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">901</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d717f8ec-b4a7-4062-a818-61b337950650</dc:identifier>
+        <dc:title>El camino enterrado</dc:title>
+        <dc:creator opf:file-as="Serrano, Carlos" opf:role="aut">Carlos Serrano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-11T22:00:00+00:00</dc:date>
+        <dc:description>Año 827 d. C. Gastón de Lyon es un veterano de guerra asolado por la culpa y el arrepentimiento. Combatió durante su juventud a las órdenes del emperador de los francos, y las víctimas de su espada se esfuerzan cada noche en recordarle sus crímenes. Su alma se encuentra maldita por ello, y ni siquiera la Iglesia y sus consejos han podido sanarla. Retirado en un monasterio junto al Ródano, cerca del convento donde vive Gala, su única hija, Gastón comprende que el clero nunca podrá ayudarlo, y decide partir lejos con la chica. La pregunta es dónde podrá lograr su redención, y en boca de curanderas, herejes y judíos aparece el nombre de un sendero secreto que padre e hija seguirán hacia las costas del fin del mundo. Toulouse, Burdeos, el castillo de Gauzón, la torre de Hércules y Lisboa aparecerán en el camino, pero la meta es Iria Flavia, donde descansan los muertos y se encuentra la tumba del único apóstol que puede acabar con la maldición del guerrero. El camino enterrado aborda el descubrimiento del sepulcro del apóstol Santiago en Galicia y el comienzo de la peregrinación cristiana hacia Compostela. Los pilares del evento son muy anteriores, y durante el camino aparecerán nombres como el de Prisciliano y un poso pagano que nunca podrá ser enterrado del todo. El camino nace mucho antes que el descubrimiento de la tumba, y solo quienes eran poseedores de ese conocimiento podían encontrar la verdad y el perdón.</dc:description>
+        <dc:publisher>Pàmies</dc:publisher>
+        <dc:identifier opf:scheme="PAGINAS">512</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002359</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Historica</dc:subject>
+        <meta name="calibre:timestamp" content="2023-06-26T15:25:11.281280+00:00"/>
+        <meta name="calibre:title_sort" content="camino enterrado, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

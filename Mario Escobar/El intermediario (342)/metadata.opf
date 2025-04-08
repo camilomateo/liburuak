@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">342</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55f7c60c-793b-472c-aca4-91bfc2f9c146</dc:identifier>
+        <dc:title>El intermediario</dc:title>
+        <dc:creator opf:file-as="Escobar, Mario" opf:role="aut">Mario Escobar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-05T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Madrid se ha convertido en la ciudad peligrosa. En los barrios se respira un ambiente de miedo y tensión entre las diferentes comunidades. En los barrios altos, los problemas son muy distintos, la corrupción política y los sobornos empresariales impiden que las cosas cambien. Tras el primer caso de la inspectora gitana Adela Palazuelo que vive y trabaja en Pan Bendito, ahora le han asignado el caso de asesinato de Un aristócrata famoso aparece asesinado en La Finca, una de las zonas más exclusivas de Madrid. El joven noble tenía asuntos pendientes con la justicia por estafar a la Comunidad por la venta de unas vacunas en mal estado. El día antes de su comparecencia aparece ahogado en su piscina, al principio creen que es un accidente pero es un homicidio. ¿A quién le favorece su muerte? Adela tendrá que descubrirlo, mientras los partidos se encuentran en plena campaña electoral. Hay novelas imposibles de dejar una vez que has comenzado, historias que llevan el suspense a su estado máximo y hacen dudar al lector cada vez que termina un capítulo. En este thriller absolutamente original y adictivo, Mario Escobar rompe los límites de la intriga psicológica con un relato que explora las frágiles fronteras entre la verdad y la mentira.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mario Escobar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Crímenes de Madrid"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-02-21T12:22:04.197971+00:00"/>
+        <meta name="calibre:title_sort" content="intermediario, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

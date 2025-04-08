@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">534</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e178a3f-b6c7-4d03-9a3b-2637ed0cd2f9</dc:identifier>
+        <dc:title>El lenguaje oculto de los libros</dc:title>
+        <dc:creator opf:file-as="Río, Alfonso del" opf:role="aut">Alfonso del Río</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-23T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt; &lt;p&gt;Bilbao y Oxford, 1933. Gabriel de la Sota, escritor y profesor en la Universidad de Oxford, es el heredero de una de las mayores fortunas vizcaínas, propietaria de una gran empresa siderúrgica. Pero alguien tenebroso ha descubierto un oscuro secreto de su pasado y está dispuesto a todo para hundirlo. C. S. Lewis y J. R. R. Tolkien, sus mejores amigos, lo acompañarán incondicionalmente para que pueda crear la mejor historia jamás escrita.&lt;/p&gt; &lt;p&gt;Londres, 1961. Mark Wallace, padre de una niña de diez años que tiene un don muy especial, es un reconocido abogado británico a punto de retirarse. Un día recibe la visita de la escritora Úrsula de la Sota, quien le encarga que investigue sobre su pasado y herencia familiares: la prensa internacional se ha hecho eco de que la fortuna de Gabriel de la Sota quizá no se perdió completamente en 1933 y que las claves para saber dónde se halla pueden encontrarse en su última novela.&lt;/p&gt; &lt;p&gt;Una historia que viaja entre Oxford y Bilbao a lo largo de más de treinta años y en la que todos los personajes están conectados por un misterio que fue enterrado. Y solo será capaz de revelarlo quien logre descifrar el lenguaje oculto tras las páginas de la mayor obra del famoso escritor.&lt;/p&gt; &lt;p&gt;Un relato sobre el bien y el mal, sobre el amor a la verdad y a la literatura, sobre la fuerza de la auténtica amistad, la que siempre acompaña y no juzga.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alfonso del Río&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:40:14.154288+00:00"/>
+        <meta name="calibre:title_sort" content="lenguaje oculto de los libros, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

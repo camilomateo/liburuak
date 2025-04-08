@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">927</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b32c8a6-5a2d-448b-90ab-3d6d3fe10330</dc:identifier>
+        <dc:title>La soledad del perro</dc:title>
+        <dc:creator opf:file-as="Julio César Cano" opf:role="aut">Julio César Cano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mientras en noviembre de 2008, el inspector Monfort disfruta de unos días de descanso en Madrid con la magistrada Elvira Figueroa, en el Casino Real de Castellón se inaugura la exposición del famoso cuadro de Goya Perro semihundido. Cuando el mecenas que ha financiado la exposición, el empresario Carlos Sorli, desaparece, el comisario Romerales le encarga la investigación a Monfort, que tiene la mente puesta en otro delito, el de un conductor kamikaze. El caso Sorli se complica más aún tras el asesinato del conservador del museo del Prado y con el precario estado de salud en el que ha quedado después de recibir una paliza el agente Robert Calleja, que forma parte del equipo de Monfort junto a Silvia Redó.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">p06kEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788419110947</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Inspector Monfort"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2023-07-04T12:12:18.823484+00:00"/>
+        <meta name="calibre:title_sort" content="soledad del perro, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

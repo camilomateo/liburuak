@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d7e6577-686f-4b75-b10a-cc2d738eda27</dc:identifier>
+        <dc:title>El tercer hombre</dc:title>
+        <dc:creator opf:file-as="Dugoni, Robert" opf:role="aut">Robert Dugoni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;La misión es nueva y los enemigos también, pero el objetivo es el mismo de siempre: sobrevivir. Cuando el agente Charles Jenkins se decide por fin a dar carpetazo a los juegos de espías, dos infiltradas en la Administración rusa cortan toda comunicación con sus enlaces. Eran las últimas supervivientes del llamado grupo de las Siete Hermanas. ¿Qué ha ocurrido? ¿Se han escondido tras ser descubiertas? ¿O será incluso que han cambiado de bando? Jenkins se ve obligado a averiguarlo, para lo que debe viajar de nuevo a Moscú. Una vez allí será perseguido por agentes, policía e incluso la mafia. El estadounidense deberá desplegar todo su talento para superar la misión y dar con las dos mujeres… o morir en el intento. Solo cuando vea cómo el círculo se va estrechando a su alrededor, empezará a pensar que quizá esta vez haya ido demasiado lejos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Amazon Crossing</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Dugoni&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Charles Jenkins"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-02-16T07:39:00.166873+00:00"/>
+        <meta name="calibre:title_sort" content="tercer hombre, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

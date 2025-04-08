@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2684</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7866bb93-50f9-4492-9f90-d00f838e6da5</dc:identifier>
+        <dc:title>Mi querida Lucía</dc:title>
+        <dc:creator opf:file-as="La Vecina Rubia" opf:role="aut">La Vecina Rubia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-16T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Aquel sofocante verano de 2002, Lucía Romasanta, astróloga, madre soltera y redactora de la sección del horóscopo con más éxito del país, recibe una perturbadora carta de un admirador anónimo. Un texto manuscrito que le hace directamente responsable de la muerte de una desconocida en caso de que no tome partido. &lt;/p&gt;
+&lt;p&gt;A esta primera carta le seguirán otras, cada vez más violentas, más amenazadoras, más personales… Una historia que pasará a formar parte de las investigaciones de la Policía Judicial como el famoso «Caso del horóscopo».  Ahora, la pregunta para Lucía es ¿podría haber evitado sus muertes? &lt;/p&gt;
+&lt;p&gt;«Mi querida Lucía, sé que te afanas en descubrirme, pero poco importa quién soy. Solo lo que está por venir es lo único que debería preocuparte. Hasta entonces…». &lt;/p&gt;
+&lt;p&gt;Mi querida Lucía es un inquietante thriller , real y sin artificios. Un historia apasionante, psicológica e impredecible hasta el final, que ahonda en la presión que puede soportar una madre en una situación límite.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:11:23.568424+00:00"/>
+        <meta name="calibre:title_sort" content="Mi querida Lucía"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

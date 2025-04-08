@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2971</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e2f1334-5725-4b59-8d5c-95b8aa04e661</dc:identifier>
+        <dc:title>Crónica sentimental de España</dc:title>
+        <dc:creator opf:file-as="Vázquez Montalbán, Manuel" opf:role="aut">Manuel Vázquez Montalbán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1971-02-14T23:00:00+00:00</dc:date>
+        <dc:description>Cuando &lt;i&gt;Crónica sentimental de España&lt;/i&gt; apareció en forma de artículos en la revista &lt;i&gt;Triunfo&lt;/i&gt; en 1969, supuso una insólita y fresca mirada al pasado inmediato, alejada tanto de la pesadez crítica como de la autocomplacencia.&lt;br&gt;&lt;br&gt;Firmada por Manuel Vázquez Montalbán, por entonces un joven y casi desconocido treintañero que más tarde se convertiría en una de las voces más importantes de la España contemporánea, esta crónica presenta un recuento de los mimbres con los que se forjó la supervivencia espiritual de una generación que perdió la guerra, muchas veces sin llegar a vivirla: la canción y el deporte, la radio y el cine, lo español y lo «americano»…&lt;br&gt;&lt;br&gt;Un libro determinante para toda aquella gente que formaba parte de la cofradía de los disidentes y sabía leer entre líneas, y que con la &lt;i&gt;Crónica sentimental de España&lt;/i&gt; de Montalbán aprendió a respetar el afán de supervivencia psicológica de las clases populares en el erial de los tiempos de plomo.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">48133</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:48:16+00:00"/>
+        <meta name="calibre:title_sort" content="Crónica sentimental de España"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

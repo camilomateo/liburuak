@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1732</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00c8ddd4-1459-4597-85b7-d6d3e2d5c0ec</dc:identifier>
+        <dc:title>Heridas abiertas</dc:title>
+        <dc:creator opf:file-as="Flynn, Gillian" opf:role="aut">Gillian Flynn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Heridas abiertas es la primera novela de Gillian Flynn, autora de la exitosa Perdida y consagrada ya como maestra del thriller psicológico.&lt;/p&gt;
+&lt;p&gt;Recién salida de una breve estancia en un hospital psiquiátrico, Camille Preaker se dirige a su ciudad natal a cubrir una serie de asesinatos para el periódico en el que trabaja. Por primera vez en once años, la reportera de sucesos regresa a la inmensa mansión en la que creció, donde se tendrá que enfrentar a los recuerdos de su hermana, que murió en plena adolescencia; pero lo que más perturba a Camille es la presencia de su madre, una mujer fría y manipuladora que despierta la admiración de sus vecinos y que vive obsesionada con su salud y la de los suyos.&lt;/p&gt;
+&lt;p&gt;Con la policía local abrumada por los hechos, Camille llevará a cabo su propia investigación, desafiando las rígidas normas sociales de un pequeño pueblo de la América profunda.&lt;/p&gt;
+&lt;p&gt;Finalista del prestigioso premio Edgar de novela negra y galardonada con el Ian Fleming Steel Dagger, la primera novela de Gillian Flynn es un thriller apasionante que retrata las complicadas relaciones entre hermanas, madres e hijas, así como la sutil violencia que envuelve los nexos familiares.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00IKSJICK</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-08T14:59:24.835025+00:00"/>
+        <meta name="calibre:title_sort" content="Heridas abiertas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

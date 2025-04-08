@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">876</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1385d73-b3d3-4e78-9d03-9d9e7c01b868</dc:identifier>
+        <dc:title>Un extraño en casa</dc:title>
+        <dc:creator opf:file-as="Lapena, Shari" opf:role="aut">Shari Lapena</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Te encuentras en casa preparando la cena mientras esperas a que tu marido vuelva del trabajo.&lt;/p&gt;&lt;p&gt;Estás deseando verle.&lt;/p&gt;&lt;p&gt;Eso es lo último que recuerdas.&lt;/p&gt;&lt;p&gt;Despiertas
+ en el hospital sin saber cómo has llegado hasta allí. Te cuentan que 
+has sufrido un accidente. Perdiste el control de tu coche mientras 
+conducías a toda velocidad por uno de los peores barrios de la ciudad.&lt;/p&gt;&lt;p&gt;La
+ policía sospecha que ocultas algún secreto oscuro, pero tu marido se 
+niega a creerlo. Tu mejor amiga no está tan segura. Y ni siquiera tú 
+sabes qué creer...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Suma de Letras</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B079C5VRP3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-20T14:46:22.324350+00:00"/>
+        <meta name="calibre:title_sort" content="extraño en casa, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

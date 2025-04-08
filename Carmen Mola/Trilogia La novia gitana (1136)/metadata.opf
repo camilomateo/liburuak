@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05e204b1-ee60-4c16-9545-70b40602cdd4</dc:identifier>
+        <dc:title>Trilogía La novia gitana</dc:title>
+        <dc:creator opf:file-as="Carmen Mola" opf:role="aut">Carmen Mola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-23T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;LA SERIE DE NOVELA NEGRA MÁS EXTREMA Y EXITOSA DE LOS ÚLTIMOS AÑOS&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;MÁS DE 600.000 LECTORES&lt;/B&gt;&lt;/P&gt; &lt;P&gt;«¿La Elena Ferrante española? Carmen Mola irrumpe con fuerza en el panorama de la novela negra.»&lt;BR&gt;&lt;B&gt;Juan Carlos Galindo,&lt;/B&gt; &lt;I&gt;&lt;B&gt;El País&lt;/B&gt;&lt;/I&gt;&lt;/P&gt; &lt;P&gt;Ensalzada unánimemente por la crítica, esta trilogía se ha convertido en el mayor fenómeno de la novela negra española de los últimos años, y ha consagrado a su autora, Carmen Mola: una escritora audaz y enigmática que ya ha conquistado a más de seiscientos mil lectores.&lt;/P&gt; &lt;P&gt;&lt;I&gt;La novia gitana, La Red Púrpura&lt;/I&gt; y &lt;I&gt;La Nena&lt;/I&gt; son tres novelas de alto impacto, con tramas de una violencia extrema y un ritmo infernal, protagonizadas por una inspectora peculiar y solitaria: Elena Blanco, al frente de la Brigada de Análisis de Casos.&lt;/P&gt; &lt;P&gt;La trilogía será adaptada próximamente a la televisión en una serie que promete convertirse en un resonante éxito.&lt;/P&gt; &lt;P&gt;&lt;B&gt;Reseñas:&lt;/B&gt;&lt;BR&gt;«¿Quién es Carmen Mola?...</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420456492</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:18.144263+00:00"/>
+        <meta name="calibre:title_sort" content="Trilogía La novia gitana"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

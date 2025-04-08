@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">816</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d23e1558-6a9c-4355-b0fc-213763fc64e4</dc:identifier>
+        <dc:title>Chusma</dc:title>
+        <dc:creator opf:file-as="David Sainz" opf:role="aut">David Sainz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-14T12:12:05+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;b&gt;La historia más personal del cómico y guionista David Sainz, creador de la serie Malviviendo. &lt;/b&gt;&lt;br&gt;Genio precoz del audiovisual español, David Sainz convierte su infancia y juventud en mito en este libro sobre primeras veces. Bienvenido al vecindario que lo vio crecer, donde la enfermedad da paso a la timidez, la lealtad, el amor y la maldad. Donde crecer es un juego azaroso en el que tienes las de perder, y del que solo te salva una buena historia.&lt;br&gt;«Llegué al mundo solo dos horas después de que acabase el día de los inocentes del 83. Me libré por muy poco de que mi vida fuese una broma aún más evidente. [...] Mi padre era muy fan del tebeo El capitán Trueno y propuso llamarme Goliat, como su personaje favorito. Pero mi madre terminó llamándome David. Pasé de poder llevar el nombre de un gigante bíblico al del pequeño muchacho que lo derrotó de una pedrada. Es curioso el sentido que hoy tiene esto, llamarme como un inesperado vencedor que, a simple vista, tenía pinta de ser aplastado por un pisotón.»&lt;/p&gt;</dc:description>
+        <dc:publisher>Ediciones Temas de Hoy</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788499989730</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-06T06:14:18.583790+00:00"/>
+        <meta name="calibre:title_sort" content="Chusma"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

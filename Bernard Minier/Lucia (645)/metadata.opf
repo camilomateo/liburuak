@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">645</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d692479-968d-4a21-b048-ca6571426c65</dc:identifier>
+        <dc:title>Lucía</dc:title>
+        <dc:creator opf:file-as="Minier, Bernard" opf:role="aut">Bernard Minier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Número 1 de ventas en Francia. Un thriller aterrador y absolutamente adictivo. Salamanca, otoño de 2019. A través de un potente programa informático que permite cruzar datos de los diversos cuerpos policiales, seis estudiantes universitarios tutelados por el catedrático de Criminología Salomón Borges acaban de descubrir la existencia de un misterioso homicida, oculto durante tres décadas, cuyo modus operandi consiste en escenificar composiciones renacentistas encolando los cuerpos de sus víctimas. &lt;/p&gt;
+&lt;p&gt;Al mismo tiempo, la joven teniente Lucía Guerrero, miembro de la elitista Unidad Central Operativa de la Guardia Civil, acaba de descubrir a su compañero crucificado y encolado en una colina de las afueras de Madrid. Un crimen inusitado y atroz que la llevará a conocer a Salomón Borges y a recorrer con él la geografía española, desde las calles de Salamanca hasta Segovia y el Pirineo de Huesca, en busca del abominable asesino. &lt;/p&gt;
+&lt;p&gt;Con Salamanca y la España de hoy como telón de fondo, Bernard Minier nos ofrece un thriller donde todos los personajes se enfrentarán a su propio destino, sus terrores más profundos y una verdad mucho más turbadora que la de cualquier relato mitológico. La crítica ha dicho:«Bernard Minier ahonda hasta el fondo en la cuestión del mal y logra que la mente de sus lectores se tambalee. No había leído nada igual desde Millennium.»L'Obs «Una nueva heroína que sorprende y nos deja sin aliento.»L'Express «El maestro del género.»Le Figaro Littéraire&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419346483</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-10T14:29:06+00:00"/>
+        <meta name="calibre:title_sort" content="Lucía"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

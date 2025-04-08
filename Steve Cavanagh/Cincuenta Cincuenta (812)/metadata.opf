@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">812</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd30ae64-3ac5-4ccf-b3e4-af02905730ff</dc:identifier>
+        <dc:title>Cincuenta Cincuenta</dc:title>
+        <dc:creator opf:file-as="Cavanagh, Steve" opf:role="aut">Steve Cavanagh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-24T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="center" style="font-style: italic; font-weight: bold"&gt;Dos hermanas a juicio por asesinato.&lt;/p&gt;
+&lt;p align="center" style="font-style: italic; font-weight: bold"&gt;Se acusan mutuamente.&lt;/p&gt;
+&lt;p align="center"&gt;&lt;span style="font-weight: bold; font-style: italic;"&gt;¿A quién crees?&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;"911 ¿cuál es su emergencia?"&lt;/p&gt;
+&lt;p&gt;"Mi papá está muerto. Mi hermana Sofía lo mató. Ella todavía está en la casa. Por favor envíe ayuda."&lt;/p&gt;
+&lt;p&gt;“Mi papá está muerto. Mi hermana Alexandra lo mató. Ella todavía está en la casa. Por favor envíe ayuda.”&lt;/p&gt;
+&lt;p&gt;Una de ellas es una mentirosa y una asesina.&lt;/p&gt;
+&lt;p&gt;¿Pero cuál?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Eddie Flynn"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2023-06-06T06:14:11.071332+00:00"/>
+        <meta name="calibre:title_sort" content="Cincuenta Cincuenta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

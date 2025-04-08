@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e674d023-1be0-4aed-8344-1c21907eac92</dc:identifier>
+        <dc:title>Inocentes. Las otras víctimas de la ETA</dc:title>
+        <dc:creator opf:file-as="Juan J. Mateos, Fernando Sabater" opf:role="aut">Juan J. Mateos, Fernando Sabater</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-10T00:12:36+00:00</dc:date>
+        <dc:description>&lt;p&gt;La ETA, una organización terrorista sin parangón en Europa, dejó 
+un reguero de viudas, huérfanos, hermanos y amigas no solo desconsolados
+ por unas muertes dramáticas sino vilipendiados por una sociedad cruel, 
+aterrorizada y, en muchos casos, cómplice que no supo o quiso mostrar el
+ más elemental rasgo de piedad o empatía con unas víctimas cuyo único 
+pecado era su parentesco con los que la organización terrorista había 
+puesto en una diana, antes de disparar un arma. Todos ellos son los 
+inocentes de los que habla este libro único y brutal que quiere rendir 
+sentido homenaje a miles de compatriotas heridos por la metralla, pero 
+quizá aún más, por el desprecio de una sociedad enferma y de un país 
+acomplejado que además de no defender sus vidas no supieron consolar a 
+sus familiares. Pese a los ríos de tinta utilizados para intentar contar
+ los años salvajes de la reciente historia de España, hasta ahora nunca 
+se había abordado el fenómeno del día después como se hace en este 
+libro.&lt;/p&gt;</dc:description>
+        <dc:publisher>‎ ARZALIA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419018465</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:19.042085+00:00"/>
+        <meta name="calibre:title_sort" content="Inocentes. Las otras víctimas de la ETA"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

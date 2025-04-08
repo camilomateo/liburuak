@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3fa84f6-5281-4dda-94ce-b1a7a6d556af</dc:identifier>
+        <dc:title>Tentación</dc:title>
+        <dc:creator opf:file-as="Cipriano, Karla" opf:role="aut">Karla Cipriano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-09T06:37:40+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Emma está huyendo de su pasado y planea hacer una nueva vida en
+ Londres. Nunca pensó que ahí conocería a la tentación en persona: 
+Alexander Roe. Un hombre enigmático y seductor que, desde que la 
+conoció, supo que la quería hacer pecar en su cama. Pecar hasta 
+corromperla.&lt;/p&gt;&lt;p&gt;Aunque Alexander parece ser uno de los 
+millonarios más aclamados de la ciudad, él también tiene un secreto 
+oscuro que debe guardar. Ambos podrán salvarse o destruirse el uno al 
+otro. Antes de perder la cordura, Emma hará que Alexander caiga en la 
+tentación.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Montena</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-20T10:26:18.269656+00:00"/>
+        <meta name="calibre:title_sort" content="Tentación"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

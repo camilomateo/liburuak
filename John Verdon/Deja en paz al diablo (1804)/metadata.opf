@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55084d94-1500-4ab8-9453-de223dd8f273</dc:identifier>
+        <dc:title>Deja en paz al diablo</dc:title>
+        <dc:creator opf:file-as="Verdon, John" opf:role="aut">John Verdon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Nada es nunca lo que parece. Y menos si David Gurney está involucrado. Han pasado seis meses. David Gurney apenas ha conseguido reincorporarse a una cierta normalidad después de haberse encontrado al borde de la muerte tras resolver el caso más peligroso al que se había enfrentado. Madeleine, su esposa, está preocupada; Gurney ha sido diagnosticado con síndrome de estrés post traumático y nada parece alegrarle. Días después el ex detective recibe una llamada. Connie Clark, la periodista que creó la leyenda de Superpoli y lo catapultó a la fama quiere pedirle ayuda. Su hija Kim está realizando un documental sobre las familias de las víctimas de un asesino en serie al que nunca atraparon, el Buen Pastor, y Connie quisiera que Gurney supervisara sus investigaciones y la guiara. En parte por aburrimiento y en parte por hacerle un favor a Connie, Gurney acepta. Sin embargo, esto no será más que el principio. Incapaz de ponerle coto a su curiosidad y a su necesidad de resolver cada una de las incógnitas que se le presentan, David Gurney se verá arrastrado a una investigación para descubrir la verdadera identidad del asesino. Un asesino que es tan imprevisible como peligroso, un diablo al que convendría dejar en paz. Si en Sé lo que estás pensando te asombró y en No abras los ojos te aterró, con Deja en paz al diablo, John Verdon consigue lo inesperado: sorprender al lector a cada página hasta dejarlo sin aliento.</dc:description>
+        <dc:publisher>Rocaeditorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="David Gurney"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-08-27T07:07:33.808876+00:00"/>
+        <meta name="calibre:title_sort" content="Deja en paz al diablo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

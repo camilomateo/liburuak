@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2922</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8837f3de-2a91-4d8b-9964-9ddd5755deb2</dc:identifier>
+        <dc:title>El día del relámpago</dc:title>
+        <dc:creator opf:file-as="Benítez, J.J." opf:role="aut">J.J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-03T23:00:00+00:00</dc:date>
+        <dc:description>Caballo de Troya terminó, pero ¿qué le sucedió al mayor tras su regreso a 1973? ¿Imagina usted «Rayo Negro»? ¿Fue el general Curtis un traidor? El día del relámpago es un thriller en el que usted vivirá 101 días trepidantes. ¿Murió Eliseo? ¿Se hundió la «cuna» en el mar Muerto? Aunque lo intente no podrá imaginar lo que sucederá el 29 de agosto de 2027. Tendrá que leerlo (y tampoco). Con este libro, usted «vivirá lo no vivido».</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-10T16:58:18.994648+00:00"/>
+        <meta name="calibre:title_sort" content="día del relámpago, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2646</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee604677-fa5c-4d2f-9236-2ff50048f0f2</dc:identifier>
+        <dc:title>Steve Jobs &amp; Apple</dc:title>
+        <dc:creator opf:file-as="Michael Moritz" opf:role="aut">Michael Moritz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T22:00:00+00:00</dc:date>
+        <dc:description>La historia de Apple es en realidad la historia de Steve Jobs, líder carismático y con una capacidad extraordinaria para gestionar talentos y materializar su visión: productos innovadores, de extrema complejidad y de gran belleza. «Steve Jobs &amp; Apple» narra un episodio histórico: el nacimiento de Apple y del primer ordenador personal; y al mismo tiempo narra una épica historia empresarial que llega hasta nuestros días. «A medio camino entre la biografía empresarial y la hagiografía de un triunfador romántico de cuño norteamericano, este libro es la demostración palpable de cómo el business internacional se preocupa por proyectar y cuidar una imagen vitalista y sonriente de sí mismo». «Una historia fascinante… relata con éxito y elegancia cómo Steve Jobs y Stephen Wozniak, dos jóvenes prodigios de la tecnología con una visión incierta de su futuro, tropiezan con el producto oportuno en el momento idóneo y abren permanentemente nichos en la historia de la revolución de la información»</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">5068</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.5</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>memorias</dc:subject>
+        <dc:subject>Tecnología</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-21T14:27:28.279979+00:00"/>
+        <meta name="calibre:title_sort" content="Steve Jobs &amp; Apple"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

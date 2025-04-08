@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">74</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d4d7b52-283c-4bdf-8511-ac254503fbac</dc:identifier>
+        <dc:title>El legado de Stonehenge</dc:title>
+        <dc:creator opf:file-as="Christer, Sam" opf:role="aut">Sam Christer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-08T03:47:49+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Reino Unido, época actual. Ocho días antes del solsticio de verano, es hallado el cadáver de un hombre en los alrededores del monumento de Stonehenge.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;En la piel tiene las marcas de unos extraños símbolos. Unas horas más tarde, un famoso cazador de recompensas se suicida en su propia casa, dejando una críptica carta a su hijo, el arqueólogo Gideon Chase. Tras el revuelo mediático, una policía y Chase se verán inmersos en una trama de sociedades secretas y una antiquísima logia, devota, durante siglos, de Stonehenge.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Alentada por un nuevo y carismático líder, la logia ha vuelto a los rituales con sacrificios humanos en un intento desesperado por descubrir el secreto de las piedras del monumento megalítico?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Lleno de códigos, símbolos, suspense y detalles fascinantes sobre la historia de uno de los monumentos más misteriosos del mundo, El enigma Stonehenge es un trepidante thriller llamado a rivalizar con El código Da Vinci.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;"Trepidante y muy bien escrita"&lt;/p&gt;
+&lt;p&gt;Daily Mail&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;"Si os apetece adentraros en una fantástica historia acerca de un misterio irresoluble y con personajes cercanos y realistas, El enigma Stonehenge es una muy buena elección."&lt;/p&gt;
+&lt;p&gt;Tras la lluvia literaria&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">334c7483-8873-47cd-832d-7a515716ab49</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sam Christer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:02:42.639482+00:00"/>
+        <meta name="calibre:title_sort" content="legado de Stonehenge, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

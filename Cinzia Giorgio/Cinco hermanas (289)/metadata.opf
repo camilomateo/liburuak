@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">289</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0540895-3c20-47a9-9fca-127ad56b1fa8</dc:identifier>
+        <dc:title>Cinco hermanas</dc:title>
+        <dc:creator opf:file-as="Cinzia Giorgio" opf:role="aut">Cinzia Giorgio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;b&gt; Una poderosa dinastía femenina.&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Una marca, emblema de la elegancia italiana en el mundo.&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Una amistad inquebrantable.&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;La primera vez que Maddalena Splendori entra en la boutique de Adele  Casagrande en Roma en 1933, nace entre ambas mujeres un vínculo que las  unirá para siempre. Comparten el espíritu inconformista y apasionado que  permitió a Maddalena salir de la miseria en la que nació y convertirse  en una figura de los salones de Roma y a Adele abrir junto con su esposo  un negocio de moda con el que cumpliría su sueño. Muy pronto, los abrigos de piel y los accesorios con su marca se harán famosos en el mundo entero a pesar de la guerra. Será el principio de un  éxito imparable. Adele transmitirá su amor por la producción artesanal y  por la tradición, además de su capacidad visionaria, a sus cinco hijas.  Ellas, junto con Karl Lagerfeld, convertirán la marca en un icono del lujo internacional.&lt;/p&gt;
+ &lt;p&gt;&lt;i&gt;&lt;b&gt;Cinco hermanas&lt;/b&gt;&lt;/i&gt;&lt;b&gt; es la emocionante historia de una dinastía  familiar del mundo de la moda y de la amistad profunda entre dos mujeres excepcionales.&lt;/b&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466670661</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Cinzia Giorgio&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-09T10:32:38.711139+00:00"/>
+        <meta name="calibre:title_sort" content="Cinco hermanas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

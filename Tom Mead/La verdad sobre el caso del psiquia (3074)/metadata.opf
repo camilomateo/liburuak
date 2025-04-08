@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3074</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbb9c774-bfb6-42fb-bd63-915e29e77934</dc:identifier>
+        <dc:title>La verdad sobre el caso del psiquiatra desaparecido</dc:title>
+        <dc:creator opf:file-as="Mead, Tom" opf:role="aut">Tom Mead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-09T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt; &lt;p style="font-style: italic; font-weight: bold"&gt;&lt;span style="color: #29357c"&gt;Un crimen imposible, un mago retirado y un asesino desaparecido como por arte de magia&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Londres, 1936. El célebre psiquiatra Anselm Rees aparece muerto en su estudio, asesinado. La ventana está sellada y la puerta cerrada con llave por dentro. No hay pistas, ni testigos, ni arma del crimen y, dadas las circunstancias, es imposible que el asesino se haya escapado sin ser visto.&lt;/p&gt; &lt;p&gt;Desconcertado, el inspector Flint recurre a un aliado excepcional: su amigo Joseph Spector, un mago. Quién mejor que un ilusionista para encontrar a un homicida desaparecido como por arte de magia?&lt;/p&gt; &lt;p&gt;A medida que avanza la investigación e interrogan al elenco de sospechosos, todos familiares o pacientes de la víctima, salen a la luz secretos del pasado y una lista de oscuros móviles que podrían haber provocado el crimen.&lt;/p&gt; &lt;p&gt;Cuando se produce un robo inexplicable y un segundo homicidio, esta vez en un ascensor impenetrable, Flint y Spector tienen la certeza de que detrás de esta ola de crímenes absurdos se esconde la misma mano.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Newton Compton Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-19T08:18:48.658482+00:00"/>
+        <meta name="calibre:title_sort" content="La verdad sobre el caso del psiquiatra desaparecido"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

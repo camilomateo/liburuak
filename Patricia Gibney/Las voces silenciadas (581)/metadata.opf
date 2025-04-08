@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">581</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1150eb1-8c14-47ff-bee3-6a717ddc94a0</dc:identifier>
+        <dc:title>Las voces silenciadas</dc:title>
+        <dc:creator opf:file-as="Gibney, Patricia" opf:role="aut">Patricia Gibney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;Un &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;thriller&lt;/span&gt;&lt;span class="a-text-bold"&gt; adictivo de la autora &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;best seller&lt;/span&gt;&lt;span class="a-text-bold"&gt; Patricia Gibney&lt;/span&gt;&lt;br&gt;&lt;/b&gt;Cuando
+ la joven Beth Mullen regresa a su casa, donde vive con su hermana 
+gemela, Rachel, el silencio sepulcral que la recibe le provoca 
+escalofríos. Beth sube las escaleras a toda prisa y encuentra a su 
+hermana tumbada en la cama, con el cuerpo rígido y sus ojos azules 
+cerrados para siempre. &lt;br&gt;En cuanto la inspectora Lottie Parker llega a
+ la escena, sabe que han asesinado a Rachel: tiene quemaduras alrededor 
+de la boca y una esquirla de cristal insertada en la garganta. Ante un 
+crimen tan atroz, Lottie no puede perder ni un segundo para empezar la 
+investigación. &lt;br&gt;Pero todo se complica cuando el sargento Boyd, el 
+prometido de Lottie, desaparece. ¿Podrá la inspectora encontrarlo antes 
+de que sea demasiado tarde? ¿O también silenciarán su voz para siempre?&lt;br&gt;&lt;span class="a-text-bold"&gt;&lt;br&gt;&lt;b&gt;El nuevo fenómeno del &lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;span class="a-text-bold a-text-italic"&gt;thriller&lt;/span&gt;&lt;span class="a-text-bold"&gt; internacional&lt;/span&gt;&lt;br&gt;&lt;span class="a-text-bold"&gt;Más de un millón y medio de ejemplares vendidos&lt;/span&gt;&lt;br&gt;&lt;span class="a-text-bold a-text-italic"&gt;Best seller&lt;/span&gt;&lt;span class="a-text-bold"&gt; del &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;Wall Street Journal&lt;/span&gt;&lt;span class="a-text-bold"&gt; y del &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;USA Today&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Principal de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788416223510</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09RWYN1WG</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Lottie Parker"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:timestamp" content="2023-04-28T11:16:49.523405+00:00"/>
+        <meta name="calibre:title_sort" content="voces silenciadas, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

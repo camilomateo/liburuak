@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d7ca2ec-e18d-457a-b6c4-899c8b349e3f</dc:identifier>
+        <dc:title>Misión Olvido</dc:title>
+        <dc:creator opf:file-as="Dueñas, María" opf:role="aut">María Dueñas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-28T06:00:00+00:00</dc:date>
+        <dc:description>Incapaz de recomponer sus propios pedazos y con el fin de despegarse de su ayer, la profesora Blanca Perea acepta a la desesperada lo que anticipa como un tedioso proyecto académico en una insignificante universidad californiana. El campus que la acoge resulta, sin embargo, mucho más seductor de lo previsto. La catalogación del legado de su viejo compatriota Andrés Fontana dista enormemente de ser tan insustancial como prometía. Y cuando el carismático Daniel Carter entra en su vida, todo adquiere una nueva dimensión. Amores cruzados, certezas a medias e intereses silenciados que acabarán por salir a la luz. Desde los viejos franciscanos que fundaron las míticas misiones californianas a los hispanistas y escritores exiliados que a pesar de la nostalgia nunca lograron regresar. Con todos ellos entreverados en la propia historia de Blanca, «Misión Olvido» compone una narración intrigante, emotiva e intensamente humana.</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Romántico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:20.368968+00:00"/>
+        <meta name="calibre:title_sort" content="Misión Olvido"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

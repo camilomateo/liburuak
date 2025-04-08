@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3053</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e7e9d46-d72f-4100-88b6-f22d6f9f4872</dc:identifier>
+        <dc:title>Las hijas del volcán</dc:title>
+        <dc:creator opf:file-as="BALIBRERA, GINA MARÍA" opf:role="aut">Gina María Balibrera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-02T01:04:11+00:00</dc:date>
+        <dc:description>CADA MITO, CADA HISTORIA, TIENE AL MENOS DOS VERSIONES... DEPENDIENDO DE QUIÉN CUENTA LA HISTORIA Y DE QUIÉN LA ESCUCHA. Una original y arrolladora novela sobre dos hermanas que escapan de un genocidio, y el viaje que las lleva de Hollywood a París, y hasta el Cannery Row de California, perseguidas por los fantasmas de sus amigos asesinados, que no han acabado de contar sus historias.El Salvador, 1923. Graciela, la segunda hija de Socorrito, una campesina oriunda de los cafetales de Izalco, vive en las faldas del volcán hasta que recibe un mensaje de la capital, donde es reclamada por el Gran Pendejo, el dictador que gobierna las mareas, les dice a los volcanes cuándo hacer erupción y le da forma a la luna. Ahí conoce a Consuelo, su hermana que fue raptada antes de que ella naciera. Ambas pasan años bajo la cruel sombra del sátrapa convertidas en sus oráculos. Pero cuando este ordena el genocidio de su comunidad, las hermanas no soportan el horror y escapan por separado, creyendo...</dc:description>
+        <dc:publisher>Planeta México</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-14T10:54:31.836589+00:00"/>
+        <meta name="calibre:title_sort" content="hijas del volcán, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

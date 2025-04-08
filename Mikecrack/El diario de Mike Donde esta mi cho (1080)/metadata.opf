@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1080</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f88949ce-2399-44d7-b9b2-6a9e5e3ca844</dc:identifier>
+        <dc:title>El diario de Mike Donde esta mi chocolate</dc:title>
+        <dc:creator opf:file-as="Mikecrack" opf:role="aut">Mikecrack</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;«Querido diario… ¡tengo un plan infalible para recuperar mi chocolate!»&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Que sepáis que solo estoy haciendo esto para que me devuelvan mi chocolate.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Trolli se ha enfadado conmigo, me ha escondido &lt;span class="a-text-bold"&gt;mi último chocolate&lt;/span&gt; y me ha castigado a copiar mil veces «No me volveré a comer las hojas de los libros». ¡Jooo, qué injusticia!&lt;/p&gt;&lt;p&gt;No pienso hacerle ni caso. Voy a usar este cuaderno para escribir un &lt;span class="a-text-bold"&gt;diario supersecreto &lt;/span&gt;y trazar un plan para recuperar lo que me pertenece.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;¿Queréis
+ ver cómo rescato mi chocolate como un auténtico héroe? ¡Pues que 
+empiece la misión! Pero… no vale contar lo que leáis en estas páginas, 
+¡que nos conocemos!&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Literatura infantil y juvenil</dc:subject>
+        <meta name="calibre:timestamp" content="2023-11-20T19:26:24.150686+00:00"/>
+        <meta name="calibre:title_sort" content="diario de Mike Donde esta mi chocolate, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

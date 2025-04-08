@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1435</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9900b537-102f-4fc3-862a-df2b2d612d99</dc:identifier>
+        <dc:title>Prohibida en Normandía</dc:title>
+        <dc:creator opf:file-as="Raro, Rosario" opf:role="aut">Rosario Raro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;- La reportera Martha Gellhorn colabora con The Ghost Army, un ejército fantasma creado en Hollywood para engañar a los nazis. Ella y su marido, el famoso Ernest Hemingway, inventan las vidas de soldados que no existen. Pero Martha aspira a más; quiere cruzar el Atlántico y relatar de primera mano la etapa definitiva de la guerra. Para conseguirlo tendrá que rebelarse contra el rol que pretenden asignarle como mera sombra en la vida de su marido y, además, desafiar una prohibición del alto mando militar que impide la presencia de mujeres en el desembarco de Normandía. Contra todos los intentos de borrarla, esta extraordinaria periodista luchará por la libertad en una épica travesía que la llevará desde Hollywood hasta Canfranc, pasando por Londres, Dover y Pau, entre otros lugares. Ochenta años después del Día D a la Hora H, Prohibida en Normandía es una novela que le rinde justicia al amor y a la verdad.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-20T15:13:31.039375+00:00"/>
+        <meta name="calibre:title_sort" content="Prohibida en Normandía"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

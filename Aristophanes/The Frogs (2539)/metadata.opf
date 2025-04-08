@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2539</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8268150f-4cd0-490b-9b24-4b4d27b5fa71</dc:identifier>
+        <dc:title>The Frogs</dc:title>
+        <dc:creator opf:file-as="Aristophanes" opf:role="aut">Aristophanes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>Greek</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>(Comedy)</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Translations</dc:subject>
+        <dc:subject>into</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Voyages</dc:subject>
+        <dc:subject>to</dc:subject>
+        <dc:subject>the</dc:subject>
+        <dc:subject>otherworld</dc:subject>
+        <dc:subject>Dionysus</dc:subject>
+        <dc:subject>(Greek</dc:subject>
+        <dc:subject>deity)</dc:subject>
+        <dc:subject>Playwriting</dc:subject>
+        <dc:subject>Dramatists</dc:subject>
+        <dc:subject>Aristophanes</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:52+00:00"/>
+        <meta name="calibre:title_sort" content="The Frogs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

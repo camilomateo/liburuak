@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70d7cee6-4ae7-454c-9e93-1052736b8f0b</dc:identifier>
+        <dc:title>Dentro de casa</dc:title>
+        <dc:creator opf:file-as="Jewell, Lisa" opf:role="aut">Lisa Jewell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="center" style="font-style: italic; font-weight: bold"&gt;&lt;span style="color: #105356"&gt;¿Qué sabes realmente de tu familia?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;En una majestuosa casa del elegante barrio de Chelsea, la policía encuentra a una bebé en su cuna. Bien alimentada, cuidada y feliz, espera a que la cojan en brazos.&lt;/p&gt;
+&lt;p&gt;En la cocina de esa misma casa hay tres cadáveres en estado de descomposición. Junto a ellos, una nota escrita con urgencia.&lt;/p&gt;
+&lt;p&gt;Veinticinco años después, Libby, esa bebé a quien encontraron con vida, regresa a una casa que esconde su origen familiar y el más oscuro de los secretos.&lt;/p&gt;
+&lt;p style="font-style: italic; font-weight: bold"&gt;&lt;span style="color: #105356"&gt;Ten cuidado con a quién dejas entrar. Hay personas que nunca se irán.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Crossbooks</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Lisa Jewell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-23T10:00:37.324172+00:00"/>
+        <meta name="calibre:title_sort" content="Dentro de casa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1474</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9aeeacd1-ef96-4b90-81c1-2434c07e840a</dc:identifier>
+        <dc:title>La pirámide de la longevidad</dc:title>
+        <dc:creator opf:file-as="Puntí, María" opf:role="aut">Maria Puntí</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-11T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Nuestro cuerpo no es una máquina inagotable. Necesita un 
+mantenimiento diario: una buena nutrición para alimentar los tejidos y 
+generar energía, un descanso reparador para órganos, una masa muscular 
+para sostener los huesos o vitaminas suficientes para detoxificar. Pero 
+no nos han explicado que, a pesar de tener una excelente genética, la 
+gran mayoría de enfermedades y dolencias pueden ser prevenidas con un 
+estilo de vida saludable.&lt;/p&gt;&lt;p&gt;Maria Puntí nos comparte en
+ este libro los pilares esenciales para el cuidado de nuestra salud, 
+proporcionándonos las herramientas para mejorar nuestra calidad de vida y
+ prevenir la aparición de enfermedades. Porque el objetivo no debe ser 
+envejecer lo más tarde posible, sino lo mejor posible.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VERGARA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T15:13:16.987983+00:00"/>
+        <meta name="calibre:title_sort" content="pirámide de la longevidad, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

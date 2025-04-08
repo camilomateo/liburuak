@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">977</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74cb4df8-96ec-4b3d-a8c2-e9ac8d9416c6</dc:identifier>
+        <dc:title>Por siempre jamás</dc:title>
+        <dc:creator opf:file-as="Coben, Harlan" opf:role="aut">Harlan Coben</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;¿SE PUEDE TENER CONFIANZA CIEGA EN ALGUIEN?&lt;/p&gt;&lt;p&gt;Will
+ Klein adora a su hermano mayor, Ken, y cree que nunca le decepcionará. 
+Pero una noche, en el sótano de la casa familiar, aparece el cadáver de 
+una chica asesinada. Era una antigua novia de Will. Ante los indicios 
+que apuntan a su culpabilidad, Ken desaparece de casa y de la vida de 
+Will. Once años después, Will descubre que su hermano mayor sigue vivo. 
+No será lo único que averiguará.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>RBA Libros</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00E8HIAE4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-23T10:28:58.052341+00:00"/>
+        <meta name="calibre:title_sort" content="Por siempre jamás"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

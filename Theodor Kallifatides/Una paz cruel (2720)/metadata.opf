@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2720</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35ee5216-13d1-40d2-9cc3-8c8279aee1dc</dc:identifier>
+        <dc:title>Una paz cruel</dc:title>
+        <dc:creator opf:file-as="Kallifatides, Theodor" opf:role="aut">Theodor Kallifatides</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-01T06:00:00+00:00</dc:date>
+        <dc:description>Las obras que encumbraron a Theodor Kallifatides como uno de los grandes escritores europeos de la segunda mitad del siglo XX fueron sus tres novelas Campesinos y señores (1973), El arado y la espada (1975) y Una paz cruel (1977), que ahora se traducen por primera vez al español. Con ellas, Kallifatides retrató su infancia y su adolescencia y a la vez el período más trágico de la historia contemporánea de Grecia, el que va desde que los nazis invaden el país en 1941 hasta el fin de la guerra civil griega en 1949, y la miseria de la posguerra en un país devastado. En Una paz cruel, la guerra civil ha terminado. Los partisanos han sido aniquilados y ha llegado el momento de reeducar a los griegos en las viejas tradiciones, como fieles cristianos y verdaderos patriotas. La familia de Minos se ha mudado a Atenas. El padre no puede ejercer como maestro por su pasado socialista y la familia vive en la penuria, castigada también por los hermanos que participaron en la lucha antifascista. Pero la vida sigue y Minos despertará a la adolescencia. Mientras el recuerdo de Rebeca todavía permanece vivo, poco a poco nuevas experiencias amorosas se apoderan de él. La Atenas de la postguerra es el telón de fondo donde escenas crueles y tiernas, burlescas y conmovedoras se alternan para ofrecernos un fresco de una vivacidad cautivadora. Así se cierra la trilogía que, en palabras del propio Kallifatides, «es lo que siempre quise decir sobre Grecia, los griegos, mi pueblo y su gente».</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-11-26T15:32:48.709853+00:00"/>
+        <meta name="calibre:title_sort" content="paz cruel, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

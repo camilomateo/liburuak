@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">698</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0feb9e04-35b6-4d7a-abf9-6df9f25df905</dc:identifier>
+        <dc:title>Hilos de sangre</dc:title>
+        <dc:creator opf:file-as="Marsons, Angela" opf:role="aut">Angela Marsons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-12T06:00:00+00:00</dc:date>
+        <dc:description>La víctima ha recibido una sola puñalada, precisa, en el vientre; y, a primera vista, cualquiera diría que ha sido un robo frustrado. Una trabajadora social, madre cariñosa, se ha perdido en un acto de violencia sin sentido. Pero, para la detective Kim Stone, las cuentas no cuadran. Cuando una drogadicta local aparece asesinada con una herida idéntica, Kim intuye que se enfrenta al mismo homicida. Ahora bien, no hay nada que relacione a las víctimas, salvo la fría y calculada naturaleza de sus muertes; así que este podría ser su caso más difícil hasta la fecha. Mientras busca desesperadamente al retorcido autor, Kim recibe una escalofriante carta que pondrá bajo amenaza su concentración en el caso. La doctora Alex Thorne, la sociópata a quien puso tras las rejas, está decidida a golpearla donde más le duele. La pondrá cara a cara con la mujer responsable de la muerte de su hermano: su propia madre. Mientras crece la cuenta de los cadáveres, Kim y su equipo dejan al descubierto una red de oscuros secretos que los acercan cada vez más al asesino. Y un miembro de su equipo podría estar en peligro de muerte; pero, esta vez, a Kim quizás no le queden fuerzas para salvarlo…</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:identifier opf:scheme="PAGINAS">411</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002333</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Kim Stone"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:05.543127+00:00"/>
+        <meta name="calibre:title_sort" content="Hilos de sangre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

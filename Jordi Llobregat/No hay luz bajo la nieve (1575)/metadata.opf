@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1575</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24333caa-81cb-4179-b51b-c61da4a30e61</dc:identifier>
+        <dc:title>No hay luz bajo la nieve</dc:title>
+        <dc:creator opf:file-as="Llobregat, Jordi" opf:role="aut">Jordi Llobregat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Un hombre desnudo y maniatado, con los párpados cosidos con un 
+alambre, ha sido encontrado sumergido en las aguas heladas de una 
+piscina, durante las obras de la estación de esquí Vall de Beau en el 
+Pirineo: la infraestructura más emblemática de la candidatura 
+hispano-francesa para los próximos Juegos Olímpicos de Invierno.&lt;/p&gt;&lt;p&gt;La
+ subinspectora de homicidios Álex Serra y el teniente de policía francés
+ Jean Cassel serán los encargados de la investigación. Después de un 
+tiempo apartada del cuerpo por un grave incidente en el que Serra 
+disparó a un compañero, sus superiores la envían a las montañas a 
+investigar el caso. Serra creció en un pequeño pueblo de la zona, al 
+otro lado del valle. Nadie como ella conoce aquel lugar.&lt;/p&gt;&lt;p&gt;Con
+ su regreso, se reencuentra con todo aquello que creía haber dejado 
+atrás: una montaña inmisericorde, un entorno opresivo dominado por los 
+secretos y los recuerdos de un pasado que todavía no ha superado. Ahora,
+ además, un asesino inteligente e implacable la pondrá a prueba.&lt;/p&gt;&lt;p&gt;Este
+ será solo el primero de una serie de crímenes que tienen que ver con 
+una historia oculta durante décadas. Solo quien la conozca podrá 
+resolver el caso y dar con el misterioso criminal.&lt;/p&gt;&lt;p&gt;Mientras tanto, la tormenta de nieve más devastadora de los últimos veinte años está a punto de desencadenarse.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07V4P2JK5</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Alex Serra"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:51.296301+00:00"/>
+        <meta name="calibre:title_sort" content="No hay luz bajo la nieve"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32ec737f-c830-4fd3-9fd7-af9a554fbeb0</dc:identifier>
+        <dc:title>El hombre de cristal</dc:title>
+        <dc:creator opf:file-as="Motte, Anders de la" opf:role="aut">Anders de La Motte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-05T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Vuelve Anders de la Motte, el autor de novela negra que arrasa en Europa con la serie de la Unidad de Casos Perdidos.&lt;/p&gt;
+&lt;p&gt;La inspectora Leonore Asker, al mando de la peculiar Unidad de Casos Perdidos, recibe una llamada del todo inesperada: su padre, con quien no tiene contacto desde hace más de quince años, necesita su ayuda, ya que se ha hallado un cuerpo en su finca y la policía sospecha que él ha sido el asesino.&lt;/p&gt;
+&lt;p&gt;Mientras, Martin Hill se muda a una finca apartada para escribir una biografía sobre el empresario Gunnar Irving, intrigado por el hecho de que la legendaria propiedad contiene una isla privada con un observatorio astronómico abandonado. Pronto, Hill descubre que la zona tiene más historias que ofrecer: luces misteriosas y cuerpos mutilados. Mientras Asker y Hill intentan encontrar respuestas, un temible asesino en serie, el hombre de cristal, surge de las profundidades de la oscuridad de las que nadie regresa jamás. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467073522</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-19T08:18:47.843793+00:00"/>
+        <meta name="calibre:title_sort" content="hombre de cristal, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

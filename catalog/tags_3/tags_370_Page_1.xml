@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Poetry</title>
+  <id>Calibre2opds:taglist:P:370</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_370_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Poetry" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por P" />
+  <entry>
+    <title>Místicas</title>
+    <id>calibre:book:2132</id>
+    <updated>2024-09-06T02:21:21Z</updated>
+    <link href="../../Maria%20Raquel%20Adler/Misticas%20%282132%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Raquel%20Adler/Misticas%20%282132%29/Misticas%20-%20Maria%20Raquel%20Adler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="71 KB" />
+    <author>
+      <name>María Raquel Adler</name>
+      <uri>../authors_1/authors_1512_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Argentine" />
+    <category term="Poetry" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2132.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Paradise Lost</title>
+    <id>calibre:book:2520</id>
+    <updated>2024-09-09T10:34:48Z</updated>
+    <link href="../../John%20Milton/Paradise%20Lost%20%282520%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Milton/Paradise%20Lost%20%282520%29/Paradise%20Lost%20-%20John%20Milton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="288 KB" />
+    <author>
+      <name>John Milton</name>
+      <uri>../authors_1/authors_1632_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fall" />
+    <category term="of" />
+    <category term="man" />
+    <category term="--" />
+    <category term="Poetry" />
+    <category term="Adam" />
+    <category term="(Biblical" />
+    <category term="figure)" />
+    <category term="Eve" />
+    <category term="Bible." />
+    <category term="Genesis" />
+    <category term="History" />
+    <category term="Biblical" />
+    <category term="events" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2520.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Aeneid</title>
+    <id>calibre:book:2532</id>
+    <updated>2024-09-09T10:34:50Z</updated>
+    <link href="../../Virgil/The%20Aeneid%20%282532%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Virgil/The%20Aeneid%20%282532%29/The%20Aeneid%20-%20Virgil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="332 KB" />
+    <author>
+      <name>Virgil</name>
+      <uri>../authors_1/authors_1673_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aeneas" />
+    <category term="(Legendary" />
+    <category term="character)" />
+    <category term="--" />
+    <category term="Poetry" />
+    <category term="Legends" />
+    <category term="Rome" />
+    <category term="Epic" />
+    <category term="Latin" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2532.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The divine comedy</title>
+    <id>calibre:book:2527</id>
+    <updated>2024-09-09T10:34:49Z</updated>
+    <link href="../../Dante%20Alighieri/The%20divine%20comedy%20%282527%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dante%20Alighieri/The%20divine%20comedy%20%282527%29/The%20divine%20comedy%20-%20Dante%20Alighieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <author>
+      <name>Dante Alighieri</name>
+      <uri>../authors_1/authors_1579_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Epic" />
+    <category term="Poetry" />
+    <category term="Italian" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="to" />
+    <category term="1400" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2527.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Iliad</title>
+    <id>calibre:book:2521</id>
+    <updated>2024-09-09T10:34:48Z</updated>
+    <link href="../../Homer/The%20Iliad%20%282521%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Homer/The%20Iliad%20%282521%29/The%20Iliad%20-%20Homer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Homer</name>
+      <uri>../authors_1/authors_1668_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Classical" />
+    <category term="literature" />
+    <category term="Epic" />
+    <category term="Poetry" />
+    <category term="Greek" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Achilles" />
+    <category term="(Mythological" />
+    <category term="character)" />
+    <category term="Trojan" />
+    <category term="War" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2521.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Odyssey</title>
+    <id>calibre:book:2518</id>
+    <updated>2024-09-09T10:34:47Z</updated>
+    <link href="../../Homer/The%20Odyssey%20%282518%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Homer/The%20Odyssey%20%282518%29/The%20Odyssey%20-%20Homer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="319 KB" />
+    <author>
+      <name>Homer</name>
+      <uri>../authors_1/authors_1668_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Homer" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Epic" />
+    <category term="Poetry" />
+    <category term="Greek" />
+    <category term="Odysseus" />
+    <category term="King" />
+    <category term="of" />
+    <category term="Ithaca" />
+    <category term="(Mythological" />
+    <category term="character)" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2518.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Works of Edgar Allan Poe — Volume 5</title>
+    <id>calibre:book:2450</id>
+    <updated>2024-09-09T10:34:33Z</updated>
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282450%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edgar%20Allan%20Poe/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20Vol%20%282450%29/The%20Works%20of%20Edgar%20Allan%20Poe%20--%20-%20Edgar%20Allan%20Poe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="288 KB" />
+    <author>
+      <name>Edgar Allan Poe</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="American" />
+    <category term="Poetry" />
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2450.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2664</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1b6f362-e1d2-4ce8-945f-15a5b0ac7e9d</dc:identifier>
+        <dc:title>La vegetariana</dc:title>
+        <dc:creator opf:file-as="Han, Kang" opf:role="aut">Kang Han</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-29T23:00:00+00:00</dc:date>
+        <dc:description>Hacer preguntas, eso es para mí escribir. No escribo respuestas, simplemente me afano por redondear las preguntas, trato de permanecer mucho tiempo dentro de ellas. De rodillas, arrastrándome otras veces, espero llegar hasta el final, hasta el centro (aunque sea imposible). Esta novela es también una pregunta imposible. Hay una mujer, un ser humano que ya no quiere formar parte de la humanidad. Un ser que pone en juego su vida para no dañar a nadie ni a nada, un ser a quien un día deja de importarle en absoluto vivir o morir. Simplemente quise preguntar si una mujer así se quedara en silencio, y llevara a cabo su decisión, qué es lo que pasaría; con qué se encontraría al final del camino.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">47871</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T05:58:42.395963+00:00"/>
+        <meta name="calibre:title_sort" content="vegetariana, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1854</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">675bfa99-6bd4-4ecc-a697-92fbe3ce8f6f</dc:identifier>
+        <dc:title>La Señora England</dc:title>
+        <dc:creator opf:file-as="Halls, Stacey" opf:role="aut">Stacey Halls</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;YORKSHIRE DEL OESTE, 1904. Cuando Ruby May asume la responsabilidad de cuidar a los hijos de Charles y Lilian England, una pareja adinerada perteneciente a una poderosa dinastía de propietarios de fábricas, tiene la esperanza de que ese sea el nuevo comienzo que necesita. Pero a medida que se adapta a la vida en la aislada Hardcastle House, se hace evidente que algo no va del todo bien con la preciosa y misteriosa señora England. La única persona que se muestra amable con Ruby, aunque de una manera que no la hace sentir del todo cómoda, es el hombre de la casa: Charles England. Excluida por las demás criadas y sintiéndose cada vez más incómoda, Ruby se ve envuelta en una serie de extraños acontecimientos que la obligarán a cuestionar todo cuanto creía saber. En Hardcastle House se esconde un oscuro secreto, pero Ruby también tiene el suyo. Con una venganza cocinada a fuego lento, esta obra retrata un matrimonio de la época eduardiana y teje una apasionante historia de hombres y mujeres, poder y control, coraje, verdad y el engaño más oscuro. Con el paisaje atmosférico de Yorkshire del Oeste como telón de fondo, La señora England posiciona a Stacey Halls como una de las escritoras más interesantes y fascinantes de nuestra época.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Umbriel</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:35.361918+00:00"/>
+        <meta name="calibre:title_sort" content="Señora England, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

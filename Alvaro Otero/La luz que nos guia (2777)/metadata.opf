@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2777</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0a5c92b-6015-4a32-9a0f-0d7f5e6a5eac</dc:identifier>
+        <dc:title>La luz que nos guía</dc:title>
+        <dc:creator opf:file-as="Otero, Álvaro" opf:role="aut">Álvaro Otero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-19T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Por más sorprendente que parezca, todo lo que se cuenta en La luz que nos guía ocurrió de verdad. Basada en hechos reales, la acción arranca en el verano de 1932, cuando cinco amigos que viven en un pueblo de España, y que coquetean con el comunismo más radical, acaban involucrados en la muerte del párroco. Cuatro de ellos huyen a la Unión Soviética, donde su entusiasmo y su ingenuidad se verán enfrentados a los años más duros del estalinismo. Comienza entonces un largo periplo vital lleno de aventuras, viajes, tragedias y sucesos inesperados, que los lleva desde la Rusia estalinista hasta el campo de exterminio de Auschwitz. Al mismo tiempo, el quinto miembro del grupo, que se queda en España, acaba militando en la Falange, radicalizándose durante la Guerra Civil y enrolándose en la División Azul, con la que atravesará media Europa y llegará a las puertas de Leningrado, donde su destino comenzará a cruzarse con el de sus antiguos amigos. La novela se estructura en diferentes planos, contraplanos y flashbacks que atrapan la atención del lector y van revelando poco a poco las claves de esta historia intensa e impactante. La luz que nos guía es, finalmente, una gran obra sobre la luz engañosa de las ideologías más radicales. También una novela sobre Auschwitz, sobre la División Azul, sobre la Unión Soviética de las purgas y las hambrunas, y un homenaje a esa generación de españoles que eran jóvenes veinteañeros en los años treinta del siglo xx y que vieron sus vidas atrapadas en las turbulencias políticas de la época.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-09T07:18:53.020215+00:00"/>
+        <meta name="calibre:title_sort" content="luz que nos guía, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

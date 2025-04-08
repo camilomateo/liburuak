@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10212041-a281-4ccc-bd9d-4d2b7f382a58</dc:identifier>
+        <dc:title>Una noche en el paraíso</dc:title>
+        <dc:creator opf:file-as="Berlin, Lucia" opf:role="aut">Lucia Berlin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;«Ninguna autora ya fallecida aparece en las páginas con más vida que Berlin: divertida, oscura y enamorada del mundo.»&lt;/span&gt;&lt;br&gt;&lt;span class="a-text-bold a-text-italic"&gt;Kirkus Reviews&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;XIV Premio Esther Benítez de Traducción de ACETT&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Vuelve la autora de&lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt; Manual para mujeres de la limpieza&lt;/span&gt;&lt;span class="a-text-bold"&gt;, el gran redescubrimiento de la literatura de los últimos años.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Hace
+ pocos años, una colección de relatos de una escritora ya desaparecida y
+ casi olvidada sacudió el panorama literario internacional. Se trataba 
+de&lt;span class="a-text-italic"&gt; Manual para mujeres de la limpieza,&lt;/span&gt;
+ de Lucia Berlin, quien poco después alcanzó el lugar que le 
+correspondía: se convirtió en la escritora favorita de la prensa y los 
+lectores, el título fue libro del año para los medios y su peculiar 
+estilo fue comparado con el de Raymond Carver o Lorrie Moore.&lt;/p&gt;&lt;p&gt;La
+ singular capacidad de Berlin para representar la belleza y el dolor de 
+las rutinas de nuestra vida, su extraordinaria honestidad, su 
+magnetismo, la familiaridad de sus personajes, su sutil pero abrumadora 
+melancolía... Todo ello se encuentra nuevamente y con gran intensidad en&lt;span class="a-text-italic"&gt;Una noche en el paraíso&lt;/span&gt;,
+ una compilación sensacional que es un regalo para todos los lectores 
+ansiosos por seguir leyendo al indiscutible fenómeno que es Lucia 
+Berlin. Este volumen indispensable, preparado por su hijo, Mark Berlin, 
+contiene veintidós relatos inéditos en español, obras maestras de la 
+literatura reciente. Por si fuera poco, la estupenda traducción a de 
+Eugenia Vásquez Nacarino fue premiada con el XIV Premio Esther Benítez 
+de Traducción.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-23T07:42:57.369079+00:00"/>
+        <meta name="calibre:title_sort" content="noche en el paraíso, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

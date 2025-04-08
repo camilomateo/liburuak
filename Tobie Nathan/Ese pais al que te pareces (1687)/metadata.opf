@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1687</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03897430-a9d8-4cd3-88a2-bfca682ce8c5</dc:identifier>
+        <dc:title>Ese país al que te pareces</dc:title>
+        <dc:creator opf:file-as="Nathan. Tobie" opf:role="aut">Tobie Nathan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-03T06:00:00+00:00</dc:date>
+        <dc:description>La historia de un amor prohibido entre dos jóvenes en el Egipto de Faruq, el rey-niño. El Egipto multicultural y las décadas más convulsas del siglo XX se convierten en el escenario de un amor imposible. Zohar nace en el gueto judío de El Cairo, de una madre bruja, Esther, y de un padre ciego, Mouty. Zohar le debe la vida a una mujer árabe, Jihanne, la de la voz de oro, su ama de cría, que durante cuarenta días amamanta a Zohar y a su propio bebé, una niña llamada Masreya. Quince años más tarde, los hermanos de leche se encuentran por azar y la atracción será inmediata. Se amarán toda la vida en secreto, pues el amor entre hermanos de leche está prohibido. Masreya se convertirá en una famosa bailarina, pretendida por su belleza. Conocerá a muchos hombres, pero su único amor será Zohar. Al mismo tiempo que el lector sigue la historia de los dos amantes, también conoce la convulsa historia del país y un retrato singular de Egipto.</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Historica</dc:subject>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:45.670201+00:00"/>
+        <meta name="calibre:title_sort" content="Ese país al que te pareces"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

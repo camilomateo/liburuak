@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73ded5da-f1b4-4957-83dd-508e681e9522</dc:identifier>
+        <dc:title>Las tres bodas de Manolita</dc:title>
+        <dc:creator opf:file-as="Grandes, Almudena" opf:role="aut">Almudena Grandes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;En el Madrid recién salido de la guerra civil, sobrevivir es un 
+duro oficio cotidiano. Especialmente para Manolita, una joven de 
+dieciocho años que, con su padre y su madrastra encarcelados, y su 
+hermano Antonio escondido en un tablao flamenco, tiene que hacerse cargo
+ de su hermana Isabel y de otros tres más pequeños. A Antonio se le 
+ocurrirá una manera desesperada de prolongar la resistencia en los años 
+más terribles de la represión: utilizar unas multicopistas que nadie 
+sabe poner en marcha para imprimir propaganda clandestina. Y querrá que 
+sea su hermana Manolita, la señorita «Conmigo No Contéis», quien visite a
+ un preso que puede darles la clave de su funcionamiento. Manolita no 
+sabe que ese muchacho tímido y sin aparente atractivo va a ser en 
+realidad un hombre determinante en su vida, y querrá visitarlo de nuevo,
+ después de varios periplos, en el destacamento penitenciario de El 
+Valle de los Caídos. Pero antes deberá descubrir quién es el delator que
+ merodea por el barrio.&lt;br&gt;&lt;br&gt;Las tres bodas de Manolita es una emotiva
+ historia coral sobre los años de pobreza y desolación en la inmediata 
+posguerra, y un tapiz inolvidable de vidas y destinos, de personajes 
+reales e imaginados. Una novela memorable sobre la red de solidaridad 
+que tejen muchas personas, desde los artistas de un tablao flamenco 
+hasta las mujeres que hacen cola en la cárcel para visitar a los presos,
+ o los antiguos amigos del colegio de su hermano, para proteger a una 
+joven con coraje.&lt;br&gt;&lt;br&gt;La segunda edición de la versión en ebook de 
+Las tres bodas de Manolita, de diciembre de 2014, incluye La mirada de 
+Manolita: Un recorrido sentimental por la España de posguerra de la mano
+ de Almudena Grandes.&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788483838365</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Almudena Grandes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Episodios de una guerra interminable"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:48:47.978605+00:00"/>
+        <meta name="calibre:title_sort" content="tres bodas de Manolita, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

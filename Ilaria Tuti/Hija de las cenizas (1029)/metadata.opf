@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1029</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfdfcc8b-d809-40db-9e5d-c6c44ec85cdf</dc:identifier>
+        <dc:title>Hija de las cenizas</dc:title>
+        <dc:creator opf:file-as="Tuti, Ilaria" opf:role="aut">Ilaria Tuti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-29T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Un asesino en serie, detenido por la comisaria Battaglia hace 
+veintisiete años, consigue escapar del módulo de alta seguridad de la 
+cárcel en la que está preso. Sin embargo, tras diez días de fuga, él 
+mismo se vuelve a entregar a la policía porque teme ser el blanco de 
+otro peligroso criminal que quiere reproducir los antiguos y macabros 
+escenarios de sus asesinatos. Para desvelar nuevos detalles sobre sus 
+crímenes e información sobre su misterioso imitador, solo está dispuesto
+ a hablar con Teresa Battaglia. Teresa debe interpretar las enigmáticas 
+pistas que este deja tras de sí: unas refinadas piezas de mosaicos que 
+construye con trozos de huesos humanos, al tiempo que intenta reconectar
+ con la persona que fue hace casi tres décadas, aquella mujer brillante,
+ atrapada en una turbulenta relación conyugal, que se convirtió en una 
+pionera cazadora de asesinos en serie y en la primera especialista en 
+perfiles criminales de la policía italiana.&lt;/p&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-10-20T08:25:39.688712+00:00"/>
+        <meta name="calibre:title_sort" content="Hija de las cenizas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

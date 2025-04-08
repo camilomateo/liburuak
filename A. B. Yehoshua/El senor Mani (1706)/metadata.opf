@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1706</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52d420a0-876d-46f8-b04d-91399236f2d9</dc:identifier>
+        <dc:title>El señor Mani</dc:title>
+        <dc:creator opf:file-as="Yehoshua, A. B." opf:role="aut">A. B. Yehoshua</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-03T05:00:00+00:00</dc:date>
+        <dc:description>El señor Mani es una crónica envolvente de seis generaciones, que se adentra en el tiempo desde el Jerusalén de 1982 hasta mediados del siglo XIX. A través de los Mani, Yehoshua nos habla de ese a veces fino pero inquebrantable hilo que une a padres e hijos. ¿Puede un hombre romper las cadenas que lo atan a su pasado? ¿Puede anular su identidad? A.B. Yehoshua pone en escena cinco diálogos en los que una voz diversa nos guía entre las historias de ingratitud, heroísmo y generosidad de una familia movida por el sueño de la paz.</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-06T08:52:11.553199+00:00"/>
+        <meta name="calibre:title_sort" content="señor Mani, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

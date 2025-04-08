@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89ddeb05-d10b-446c-9012-f2b6f3678e76</dc:identifier>
+        <dc:title>Dispersión</dc:title>
+        <dc:creator opf:file-as="Iain Reid" opf:role="aut">Iain Reid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-12T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;Del autor de &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;Estoy pensando en dejarlo&lt;/span&gt;&lt;span class="a-text-bold"&gt;, un thriller inquietante sobre el paso del tiempo&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Penny
+ es artista y lleva varias décadas viviendo en el mismo apartamento, 
+rodeada de los objetos y los recuerdos de su larga vida. Resignada a los
+ rituales triviales de la vejez, un día empieza a sufrir lapsus. Años 
+atrás, antes de que falleciera el que había sido su pareja durante mucho
+ tiempo, se hicieron preparativos, sin que ella lo supiera, para 
+reservarle una habitación en una singular residencia en la que, tras 
+sufrir demasiados «incidentes», acaba ingresando.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Al 
+principio, acompañada de personas como ella, conversando, contemplando 
+los hermosos bosques que rodean la casa, todo va bien. Incluso empieza a
+ pintar de nuevo. Pero a medida que los días comienzan a difuminarse, 
+Penny, con una creciente sensación de inquietud y desconfianza, empieza a
+ perder la noción del paso del tiempo y del lugar que ocupa ella en el 
+mundo. ¿Está sucumbiendo a los efectos sutilmente destructivos del 
+envejecimiento o está participando, sin saberlo, en algo más 
+inquietante?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Una novela al mismo tiempo compasiva y 
+extraña, narrada con una prosa austera e hipnótica, y difícil de 
+clasificar en un género concreto.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Anaya</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Iain Reid&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-09T11:08:55.234659+00:00"/>
+        <meta name="calibre:title_sort" content="Dispersión"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

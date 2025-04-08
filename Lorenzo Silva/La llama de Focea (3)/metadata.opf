@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5b22c8b-9cd0-4bd1-8c72-1f45e477dfbd</dc:identifier>
+        <dc:title>La llama de Focea</dc:title>
+        <dc:creator opf:file-as="Lorenzo Silva" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-27T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Queralt Bonmatí, una joven barcelonesa de familia pudiente, aparece asesinada en un paraje idílico del Camino de Santiago. Había salido tres semanas antes de Roncesvalles, donde tuvo un incidente con un desconocido, pero esta es sólo una de las pistas que no ayudan a una resolución rápida. El subteniente Bevilacqua recibe del máximo jefe del cuerpo, el teniente general Pereira, el encargo de ocuparse de la investigación, dado el perfi l del padre de la víctima, Ferran Bonmatí, un expolítico y empresario vinculado al independentismo catalán que a su vez está en el radar de la justicia por sus oscuras actividades en apoyo del desafío al Estado. El caso llevará a Bevilacqua desde Lugo hasta Barcelona, la ciudad a la que llegó en los días del sueño olímpico, donde vivió acontecimientos que removerán su corazón y su memoria y que en el otoño de 2019 verá incendiarse con la llama de una rabia que viene de lejos. Una llama a la que no era ajena la víctima, una veinteañera díscola que, tras revolverse contra los suyos, hacía el Camino para encontrar su propio lugar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2db69c1c-490d-41eb-adbc-0849e43aa2dc</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788423362073</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Lorenzo Silva&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T20:10:33.505158+00:00"/>
+        <meta name="calibre:title_sort" content="llama de Focea, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

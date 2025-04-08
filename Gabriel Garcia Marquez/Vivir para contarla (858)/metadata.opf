@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">858</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adf163b7-c01d-474c-b97b-f878a9506bc5</dc:identifier>
+        <dc:title>Vivir para contarla</dc:title>
+        <dc:creator opf:file-as="García Márquez, Gabriel" opf:role="aut">Gabriel García Márquez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;i&gt;Vivir para contarla&lt;/i&gt; es la novela de una vida y, a lo largo de sus páginas el lector de García Márquez descubrirá ecos de personajes e historias que han poblado sus inolvidables novelas como &lt;i&gt;Cien años de soledad&lt;/i&gt; o &lt;i&gt;El amor en los tiempos del cólera&lt;/i&gt;. Además, esta obra incluye muchas más sorpresas. Seguiremos los primeros pasos de García Márquez en el mundo de la creación artística, el trabajo incansable en el proceso de redacción y corrección de &lt;i&gt;La hojarasca&lt;/i&gt;, los distintos escenarios de una juventud bohemia plagada de burdeles, bailes y hoteluchos de mala muerte en Barranquilla, Cartagena de Indias y Bogotá. Y todo aderezado con reflexiones sobre el oficio de escritor, en un entramado que avanza y retrocede en el tiempo con la seguridad que sólo pueden dar cincuenta años de oficio maestro.</dc:description>
+        <dc:publisher>Literatura Random House</dc:publisher>
+        <dc:identifier opf:scheme="EPL">5493</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.5</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>memorias</dc:subject>
+        <meta name="calibre:timestamp" content="2023-06-12T12:04:15.881492+00:00"/>
+        <meta name="calibre:title_sort" content="Vivir para contarla"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

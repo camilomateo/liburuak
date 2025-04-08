@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">701</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">affba8c0-2c51-48dc-8912-0de494baed23</dc:identifier>
+        <dc:title>La sangre de los inocentes</dc:title>
+        <dc:creator opf:file-as="Navarro, Julia" opf:role="aut">Julia Navarro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Soy espía y tengo miedo… Así empieza la crónica que escribe en el siglo XIII fray Julián sobre el cruel asedio a Montségur y la lucha entre cátaros y católicos. Siglos después, en 1939, un medievalista agnóstico emprende un peligroso viaje por el Berlín nazi en busca de su esposa de origen judío. En la actualidad, un grupo de musulmanes radicales se inmola en Frankfurt dejando tras de sí un mensaje críptico que pone en estado de alerta al Centro Antiterrorista de la Unión Europea, cuyos agentes, con la ayuda de los servicios secretos del Vaticano, intentarán desvelar un enigma que une la intolerancia de la Inquisición, la sinrazón fascista y el integrismo islámico en una frase: «Algún día alguien vengará la sangre de los inocentes». Un musulmán captado por una célula terrorista, un jesuita experto en herejías, un conde francés obsesionado por una dramática herencia familiar, un hombre misterioso —El Facilitador— que desde la sombra maneja los hilos del poder junto a una intrépida joven de los servicios antiterroristas protagonizan este apasionante libro sobre la venganza y la traición, con el violento conflicto entre Oriente y Occidente como telón de fondo. En su novela más madura y ambiciosa, Julia Navarro sorprende con una vertiginosa aventura que nos transporta a lugares como Jerusalén, Granada, Roma o Estambul, y que indaga en las causas del fanatismo religioso y la intolerancia a lo largo de los siglos.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Romántico</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:11.798293+00:00"/>
+        <meta name="calibre:title_sort" content="sangre de los inocentes, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

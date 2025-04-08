@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97790ff3-194f-4d3a-b8d1-1cf66b0644a8</dc:identifier>
+        <dc:title>El maravilloso mago de Oz</dc:title>
+        <dc:creator opf:file-as="Baum, Lyman Frank" opf:role="aut">Baum, Lyman Frank</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-12T22:00:00+00:00</dc:date>
+        <dc:publisher>www.elejandria.com</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>CUENTOS INFANTILES</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baum, Lyman Frank&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-23T18:51:29.969298+00:00"/>
+        <meta name="calibre:title_sort" content="maravilloso mago de Oz, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

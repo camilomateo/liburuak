@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3079</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e253ee0d-c3ed-44fe-8bf1-ecb4b447818c</dc:identifier>
+        <dc:title>Lucía y el infinito</dc:title>
+        <dc:creator opf:file-as="Codina, Sara" opf:role="aut">Sara Codina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-21T00:00:00+00:00</dc:date>
+        <dc:description>Tras el éxito de Neurodivina y punto, Sara Codina da el salto a la ficción con una novela lúcida, entrañable y divertida sobre el día a día de una mujer autista con diagnóstico tardío.Lucía está harta de aguantar a su compañero de trabajo trepa. De vivir entregada a la soltería para no caer en otra relación tóxica. De esforzarse por encajar en un mundo que la excluye por sistema. Su diagnóstico de autismo a los cuarenta y tantos, lejos de hundirla, ha sido un revulsivo para empezar a tomar decisiones. Lo que lleva años soportando ya no le vale.Inicia así un camino de autoconocimiento que comparte con sus amigas Isabela y Sofía, expertas en el noble arte de la insultoterapia, quienes la animan a hacer cosas impensables para ella como abrirse un perfil en una aplicación de citas. Y gracias al vínculo tan especial que la une a Noa, su sobrina adolescente, que también es autista, tiene la oportunidad de conectar con la niña que fue y entender mejor su propia condición.Lucía ya no...</dc:description>
+        <dc:publisher>Lunwerg Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-20T17:11:44.630740+00:00"/>
+        <meta name="calibre:title_sort" content="Lucía y el infinito"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

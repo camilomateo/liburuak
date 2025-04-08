@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">484</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61665b6b-64bc-4832-b1e6-dab4d29fe1f3</dc:identifier>
+        <dc:title>Una película para cada año de tu vida</dc:title>
+        <dc:creator opf:file-as="Alejandro G. Calvo" opf:role="aut">Alejandro G. Calvo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-31T16:58:40+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Si solo pudieras ver una película al año, ¿cuál sería?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A
+ lo largo de la vida, las personas disfrutamos, de media, de más de 
+cinco mil películas. Nos emocionamos con historias y personajes que 
+hacen un clic en nuestro interior que no sabemos explicar. ¿Y si alguien
+ pudiera ayudarnos a entender por qué el cine se ha vuelto 
+imprescindible para el ser humano?&lt;/span&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;En &lt;/span&gt;&lt;span class="a-text-italic"&gt;Una película para cada año de tu vida&lt;/span&gt;&lt;span&gt;, el periodista y crítico de SensaCine Alejandro G. Calvo se convierte en nuestro guía particular y nos recomienda &lt;/span&gt;&lt;span class="a-text-bold"&gt;qué películas ver según el momento vital en el que nos encontramos&lt;/span&gt;&lt;span&gt;.
+ Con un estilo que combina erudición y relato personal, Calvo explora el
+ hilo que conecta a Steven Spielberg con nuestros sueños, a David Lynch 
+con nuestras pesadillas y a Jean-Luc Godard con nuestro gran amor, y nos
+ demuestra que &lt;/span&gt;&lt;span class="a-text-bold"&gt;siempre hay una historia en pantalla dispuesta a ofrecernos una lección de vida&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Temas de Hoy</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788499989570</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alejandro G. Calvo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-29T12:11:48.508030+00:00"/>
+        <meta name="calibre:title_sort" content="Una película para cada año de tu vida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

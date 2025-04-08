@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2636</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1b5877c-dcdb-454d-85c6-2e8d4d55f613</dc:identifier>
+        <dc:title>Aires de libertad</dc:title>
+        <dc:creator opf:file-as="Jacobs, Anne" opf:role="aut">Anne Jacobs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-30T00:00:00+00:00</dc:date>
+        <dc:description>La esperada cuarta entrega de la fascinante saga familiar de Anne Jacobs, autora de La Villa de las Telas.
+Wiesbaden, 1961. Ahora que Hilde Koch ha modernizado el café familiar con mucho cariño y lo regenta con dedicación, de pronto su hermano Wilhelm pretende disputarle la dirección del negocio. Su gran sueñode labrarse una carrera en el cine ha fracasado, mientras que su mujer, Karin, goza de un gran éxito como actriz. Tampoco en el viñedo de Jean-Jacques, el marido de Hilde, van muy bien las cosas. Y quien sale en su ayuda es nada menos que el rebelde Mischa, que entre las viñas no solo encuentra un trabajo, sino también algo que en absoluto esperaba: el amor. Sin embargo, por Wiesbaden empieza a correr un desagradable rumor que hace que todos teman por la supervivencia del café...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="El Café del Ángel"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2024-10-21T14:01:14.977831+00:00"/>
+        <meta name="calibre:title_sort" content="Aires de libertad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

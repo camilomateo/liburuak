@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">848e5b0f-08a7-4479-8459-1d612c978e17</dc:identifier>
+        <dc:title>La herejía de Miguel Ángel</dc:title>
+        <dc:creator opf:file-as="Strukul, Matteo" opf:role="aut">Matteo Strukul</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-26T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un Miguel Ángel inédito por el autor de la gran saga de Los Médici. Sumido en una profunda crisis artística y espiritual, el genio del Renacimiento concebirá la versión final de la tumba de Julio II de una forma que podría condenarlo a la hoguera. Roma, otoño de 1542. Miguel Ángel se encuentra en el punto de mira de la Inquisición. Vive una profunda crisis religiosa y su amistad con Vittoria Colonna, la marquesa de Pescara, no ha pasado desapercibida. El jefe del Santo Oficio, el cardenal Gian Pietro Carafa, ha ordenado seguir a la dama para identificar el lugar donde se reúne la secta de los Espirituales, encabezada por Reginald Pole, que aboga por el retorno a la pureza evangélica en una ciudad donde la corrupción campa a sus anchas. Roma, que se ha convertido en una ciudad devorada por el vicio, será el cruel teatro en el que se crucen las vidas de Malasorte, la joven ladronzuela que ha recibido el encargo de espiar a los Espirituales, de Vittorio Corsini, el capitán de los esbirros de la ciudad, de Vittoria Colonna y del mismo Miguel Angel Buonarroti, el artista más genial de su tiempo. La crítica ha dicho:«Matteo Strukul ha vuelto a presentar el Renacimiento como uno de los periodos más oscuros de la Historia».Vanity Fair «Strukul es un autor ecléctico y cautivador. Un dumas 2.0».TuttoLibri&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466670432</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">GhCtEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-10T14:29:07.971785+00:00"/>
+        <meta name="calibre:title_sort" content="La herejía de Miguel Ángel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1584</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29dacf53-29f3-4fa6-982b-30afd3fa4dbf</dc:identifier>
+        <dc:title>El secreto de Île-de-Sein</dc:title>
+        <dc:creator opf:file-as="Bannalec, Jean-Luc" opf:role="aut">Jean-Luc Bannalec</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-07T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span itemprop="description" style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;b&gt;&lt;i&gt;El secreto de Île-de-Sein es el nuevo caso del comisario Dupin, el protagonista de la serie de novela policíaca que lleva vendidos más de 2.500.000 de ejemplares. &lt;br&gt;&lt;br&gt;Una pequeña isla bretona cargada de mitos, leyendas, secretos y muerte.&lt;/i&gt;&lt;/b&gt; &lt;br&gt;&lt;br&gt;Es la mañana siguiente a la verbena del solsticio de verano, y no podría haber empezado peor para el comisario Georges Dupin. Su madre no deja de llamarle al móvil para que vaya a París a celebrar su 75 aniversario. Su secretaria Nolwenn está organizando una marcha de protesta en vez de atender la comisaría con su eficacia habitual. Y él... él está en la lonja de Douarnenez, un pueblecito en la costa de Finisterre, sin haber tomado todavía su primer café, rodeado de desperdicios de pescado y frente a un contenedor con un cadáver.&lt;/span&gt;&lt;br style="font-family: Arial, Verdana, sans-serif; font-size: 13px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06XQFR15P</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Georges Dupin"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:53.702388+00:00"/>
+        <meta name="calibre:title_sort" content="El secreto de Île-de-Sein"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

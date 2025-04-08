@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e8ce392-88b9-4593-bcdd-3e976079fa3b</dc:identifier>
+        <dc:title>El aguijón del escorpión</dc:title>
+        <dc:creator opf:file-as="Child, Douglas Preston Y Lincoln" opf:role="aut">Douglas Preston Y Lincoln Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Leyendas apaches, minas abandonadas y experimentos secretos en la segunda entrega de la nueva serie de Preston &amp;amp; Child que mezcla arqueología, historia, asesinato y suspense. Corrie Swanson, joven agente del FBI, se enfrenta al descubrimiento de un cuerpo momificado en High Lonesome, un pueblo minero de Nuevo México abandonado hace mucho tiempo. El cadáver se encuentra en posición fetal, el rostro presenta un rictus terrorífico y entre sus ropas se oculta una cruz de oro y piedras preciosas. El extraño hallazgo plantea muchas preguntas y Corrie solicita la colaboración de la doctora Nora Kelly en la excavación. El fallecido se llamaba Jim Gower y solía merodear por el pueblo en busca de reliquias de los indios originarios de la zona y de los conquistadores españoles que llegaron después. Corrie localiza al único descendiente del muerto, Jesse Gower, que reclama la propiedad de la cruz de oro y afirma que antes de dedicarse a buscar objetos antiguos, Jim Gower había sido propietario de un rancho a pocos kilómetros de High Lonesome, que le expropió el gobierno. La investigación concluye que Jim Gower murió alrededor de 1945, envenenado. Entretanto, la doctora Kelly ha identificado uno de los objetos hallados junto al cadáver, se trata de una bolsita de hierbas con propiedades medicinales, como las que usaban los apaches. La crítica ha dicho sobre Huesos olvidados:«Un inicio fantástico para una nueva serie. El talento de los autores brilla en esta mezcla de historia, exploración de la naturaleza y crimen que sin duda acabará en lo más alto de las listas de best sellers».Associated Press «Cuando encuentras los nombres de Preston &amp;amp; Child en un libro solo quieres dejarlo todo a un lado para leer las fantásticas palabras que han escrito... Una novela del mejor equipo de escritores que hay actualmente que no vas a querer perderte».Suspense Magazine «Un thriller que gustará tanto a los fans de siempre de Preston &amp;amp; Child como a nuevos devotos atraídos por la siempre atractiva historia de un crimen del pasado que llega para atormentar el presente».CrimeReads«Escalofríos, emoción y una combinación de historia y conocimientos arqueológicos que uno solo puede conseguir en una novela de Preston &amp;amp; Child. Me encantó disfrutar de la compañía de Nora Kelly y Corrie Swanson y espero verlas en futuras aventuras».Bookreporter&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401031144</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Douglas Preston Y Lincoln Child&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Nora Kelly"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:39:56.683406+00:00"/>
+        <meta name="calibre:title_sort" content="aguijón del escorpión, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

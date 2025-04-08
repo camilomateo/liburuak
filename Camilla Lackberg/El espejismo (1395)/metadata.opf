@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1395</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c924c020-5934-43ac-a508-68ef494a490b</dc:identifier>
+        <dc:title>El espejismo</dc:title>
+        <dc:creator opf:file-as="Läckberg, Camilla &amp; Fexeus, Henrik" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:creator opf:file-as="Läckberg, Camilla &amp; Fexeus, Henrik" opf:role="aut">Henrik Fexeus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-04T06:00:00+00:00</dc:date>
+        <dc:description>Se acerca la Navidad en Estocolmo y la ciudad se llena de luces. Pero algo siniestro está a punto de suceder: al mismo tiempo que un miembro del ministerio sueco está siendo amenazado de una forma macabra, una pila de huesos de aspecto misterioso es hallada en las vías de metro abandonado de la ciudad, y todo apunta a que pertenecen a un importante financiero.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;La investigadora Mina Dabiri y sus compañeros del departamento de Homicidios, todavía en shock tras los trágicos acontecimientos del verano pasado, se verán puestos a prueba de nuevo. Cuando las pistas empiezan a escasear, Mina decide recurrir al mentalista Vincent Walder. Él, a su vez, lucha incansablemente contra sus propios demonios. ¿Qué o quiénes se esconden en los túneles en las profundidades de Estocolmo? Y, lo más importante, ¿con qué motivo?</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408287711</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Mina Dabiri y Vincent Walder"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-04-08T12:35:07.246936+00:00"/>
+        <meta name="calibre:title_sort" content="espejismo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

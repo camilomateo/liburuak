@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3012</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46936cad-7016-4d8f-bf99-056c8d519f7b</dc:identifier>
+        <dc:title>Trilogía del Imperio</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1951-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Entre las novelas de Robots y la serie de la Fundación se encuentra la Trilogía del Imperio: tres clásicas obras de Isaac Asimov donde se trazan los inicios de la expansión humana por la Galaxia hasta llegar al auge del Imperio Galáctico con capital en Trantor.&lt;/p&gt;&lt;p&gt;En &lt;cite&gt;Polvo de estrellas&lt;/cite&gt;, un ranchero de un mundo agrícola y la princesa de un sofisticado reino nebular deben unir sus fuerzas para tratar de encontrar el mundo rebelde que supone la última esperanza contra el tiránico imperio que los oprime.&lt;/p&gt;&lt;p&gt;En &lt;cite&gt;Las corrientes del espacio&lt;/cite&gt;, el descubrimiento de un espacioanalista pone en peligro la relación de dependencia entre Florina, el único planeta donde se cultiva el preciado kyrt, y sus amos de Sark, en un conflicto que afecta a la expansión del Imperio de Trantor.&lt;/p&gt;&lt;p&gt;En &lt;cite&gt;Un guijarro en el cielo&lt;/cite&gt;, un hombre de nuestros días se ve catapultado al futuro lejano, cuando el Imperio abarca la Galaxia y la Tierra no es más que una mota perdida entre millones de mundos habitados, que se mofan de sus pretensiones de ser el origen de la humanidad. Pero la Tierra prepara su venganza…&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">69429</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:52.312289+00:00"/>
+        <meta name="calibre:title_sort" content="Trilogía del Imperio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">174</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e709bcdf-39a6-4a6b-8b23-298cc7a9dc18</dc:identifier>
+        <dc:title>El Rayo que no Cesa</dc:title>
+        <dc:creator opf:file-as="Miguel Hernández" opf:role="aut">Miguel Hernández</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-06T23:00:00+00:00</dc:date>
+        <dc:publisher>https://www.elejandria.com</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miguel Hernández&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-23T18:53:45.998553+00:00"/>
+        <meta name="calibre:title_sort" content="Rayo que no Cesa, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

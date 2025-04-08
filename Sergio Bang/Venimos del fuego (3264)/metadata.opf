@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3264</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9bc46f7-7923-4006-8219-df49a3840801</dc:identifier>
+        <dc:title>Venimos del fuego</dc:title>
+        <dc:creator opf:file-as="Bang, Sergio" opf:role="aut">Sergio Bang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-20T00:00:00+00:00</dc:date>
+        <dc:description>«Una emocionante novela que desborda amor por las librerías, por quienes pusieron el cuerpo para conquistar libertades y derechos y por todos esos libros que, mientras ardan en nuestra memoria, nos alentarán a seguir luchando». Nando LópezMadrid, 1975. La dictadura de Franco está en sus últimos días y en las calles la tensión resulta difícil de contener. Durante una manifestación estudiantil, la librería de Alma es atacada y consumida por las llamas.Confundida con una manifestante, Alma es detenida por Juárez, un policía al servicio de la maquinaria represora del régimen. En su camino se cruzará con Alejandro y Alicia, estudiantes rebeldes, y se les unirán Mario, un fotógrafo internacional que documenta el final del franquismo, y Nando y Luisa, libreros de mundos opuestos pero unidos por un mismo deseo de justicia y libertad.En un país cargado de incertidumbre, donde el cambio parece inevitable, este grupo de amigos sellará uno de esos compromisos que solo pueden forjarse en...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-07T20:12:26.029767+00:00"/>
+        <meta name="calibre:title_sort" content="Venimos del fuego"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

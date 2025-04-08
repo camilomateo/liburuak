@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33acacc6-a167-413c-a62b-13e9ac8ffbd0</dc:identifier>
+        <dc:title>100 Clásicos de la Literatura Universal: Vol.1</dc:title>
+        <dc:creator opf:file-as="Polidori, John William &amp; Lorca, Federico García &amp; Descartes, René &amp; Poe, Edgar Allan &amp; James, Henry &amp; Doyle, Arthur Conan &amp; Joyce, James" opf:role="aut">John William Polidori</dc:creator>
+        <dc:creator opf:file-as="Polidori, John William &amp; Lorca, Federico García &amp; Descartes, René &amp; Poe, Edgar Allan &amp; James, Henry &amp; Doyle, Arthur Conan &amp; Joyce, James" opf:role="aut">Federico García Lorca</dc:creator>
+        <dc:creator opf:file-as="Polidori, John William &amp; Lorca, Federico García &amp; Descartes, René &amp; Poe, Edgar Allan &amp; James, Henry &amp; Doyle, Arthur Conan &amp; Joyce, James" opf:role="aut">René Descartes</dc:creator>
+        <dc:creator opf:file-as="Polidori, John William &amp; Lorca, Federico García &amp; Descartes, René &amp; Poe, Edgar Allan &amp; James, Henry &amp; Doyle, Arthur Conan &amp; Joyce, James" opf:role="aut">Edgar Allan Poe</dc:creator>
+        <dc:creator opf:file-as="Polidori, John William &amp; Lorca, Federico García &amp; Descartes, René &amp; Poe, Edgar Allan &amp; James, Henry &amp; Doyle, Arthur Conan &amp; Joyce, James" opf:role="aut">Henry James</dc:creator>
+        <dc:creator opf:file-as="Polidori, John William &amp; Lorca, Federico García &amp; Descartes, René &amp; Poe, Edgar Allan &amp; James, Henry &amp; Doyle, Arthur Conan &amp; Joyce, James" opf:role="aut">Arthur Conan Doyle</dc:creator>
+        <dc:creator opf:file-as="Polidori, John William &amp; Lorca, Federico García &amp; Descartes, René &amp; Poe, Edgar Allan &amp; James, Henry &amp; Doyle, Arthur Conan &amp; Joyce, James" opf:role="aut">James Joyce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-26T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Antología contiene:&lt;/p&gt;50 Clásicos que debes leer antes de morir por Oscar Wilde &amp; Louisa May Alcott &amp; Jane Austen &amp; J.M. Barrie &amp; Edgar Rice Burroughs &amp; Gustavo Adolfo Bécquer &amp; Joseph Bédier &amp; Félix Lope de Vega y Carpio &amp; G. K. Chesterton &amp; Wilkie Collins &amp; Rubén Darío &amp; Fedor Mikhaïlovitch Dostoïevski &amp; Arthur Conan Doyle &amp; Alexandre Dumas &amp; Concha Espina &amp; Francis Scott Fitzgerald &amp; Kahlil Gibran &amp; Miguel Hernández &amp; Homero &amp; Vicente Blasco Ibáñez &amp; Jerome K. Jerome &amp; Franz Kafka &amp; Mariano José de Larra &amp; Jack London &amp; Federico García Lorca &amp; Thomas Malory &amp; Margaret Mitchell &amp; Molière &amp; Vladimir Nabokov &amp; Platón &amp; Edgar Allan Poe &amp; Antoine De Saint-Exupéry &amp; Emilio Salgari &amp; William Shakespeare &amp; Stendhal &amp; Voltaire &amp; Julio Verne &amp; Thomas Wolfe&lt;br/&gt;50 Clásicos que debes leer antes de morir por Dante Alighieri &amp; Aristóteles &amp; Jane Austen &amp; Charles Baudelaire &amp; Giovanni Boccaccio &amp; Anne Brontë &amp; C. Collodi &amp; James Fenimore Cooper &amp; Fedor Mikhaïlovitch Dostoïevski &amp; Arthur Conan Doyle &amp; Alexandre Dumas &amp; José de Espronceda &amp; Gustave Flaubert &amp; Sigmund Freud &amp; Benito Pérez Galdós &amp; Kahlil Gibran &amp; Johann Wolfgang Goethe. &amp; Johann Wolfgang von Goethe &amp; Victor Hugo &amp; Thomas Hardy &amp; Nathaniel Hawthorne &amp; Vicente Blasco Ibáñez &amp; Washington Irving &amp; James Joyce &amp; Mariano José de Larra &amp; Jack London &amp; Federico García Lorca &amp; H. P. Lovecraft &amp; Antonio Machado &amp; Gustav Meyrink &amp; John Stuart Mill &amp; Amado Nervo &amp; Friedrich Nietzsche &amp; Solomon Northup &amp; Alexander Sergeyevich Pushkin &amp; Francisco de Quevedo &amp; Walter Scott &amp; William Shakespeare &amp; Robert Louis Stevenson &amp; Harriet Beecher Stowe &amp; Jonathan Swift &amp; Mark Twain &amp; Miguel de Unamuno &amp; Ramón María del Valle-Inclán &amp; Julio Verne &amp; Virginia Woolf</dc:description>
+        <dc:publisher>Bauer Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08LDS8MR4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;John William Polidori&quot;: &quot;&quot;, &quot;Federico García Lorca&quot;: &quot;&quot;, &quot;René Descartes&quot;: &quot;&quot;, &quot;Edgar Allan Poe&quot;: &quot;&quot;, &quot;Henry James&quot;: &quot;&quot;, &quot;Arthur Conan Doyle&quot;: &quot;&quot;, &quot;James Joyce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T22:51:25.759300+00:00"/>
+        <meta name="calibre:title_sort" content="100 Clásicos de la Literatura Universal: Vol.1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

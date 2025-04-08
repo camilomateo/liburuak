@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">313f21cd-6ef5-4b21-9db4-503ad1356a31</dc:identifier>
+        <dc:title>En la sombra</dc:title>
+        <dc:creator opf:file-as="Príncipe Harry" opf:role="aut">Príncipe Harry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-10T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div data-v-7b0c7258="" class="text-container"&gt;&lt;div data-v-7b0c7258=""&gt;&lt;p&gt;Fue
+ una de las imágenes más desgarradoras del siglo XX: dos niños, dos  
+príncipes, caminando detrás del féretro de su madre mientras el mundo  
+contemplaba la escena con pesar... y horror. A la vez que se daba  
+sepultura a Diana, princesa de Gales, miles de millones de personas se  
+preguntaron qué debían de pensar y sentir esos príncipes y qué rumbo 
+tomarían sus vidas en adelante.&lt;br&gt;&lt;/p&gt;&lt;p&gt;En el caso de Harry, esta es, por fin, esa historia.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Con su franqueza directa y sin concesiones, &lt;i&gt;En la sombra&lt;/i&gt;
+ es una  publicación que marcará un hito, llena de lucidez, 
+revelaciones,  introspección y sabiduría, adquirida a un alto coste, 
+sobre el eterno poder del amor.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0BM6K2B97</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788401032141</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Príncipe Harry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-19T07:43:22.565297+00:00"/>
+        <meta name="calibre:title_sort" content="En la sombra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

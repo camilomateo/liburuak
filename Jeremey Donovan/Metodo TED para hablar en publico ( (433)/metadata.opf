@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d06bab32-da29-41cb-9278-bb11c2a82b54</dc:identifier>
+        <dc:title>Método TED para hablar en público (Edición revisada y ampliada)</dc:title>
+        <dc:creator opf:file-as="Donovan, Jeremey" opf:role="aut">Jeremey Donovan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-23T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;¿Cuáles son las claves del éxito mundial de las conferencias TED?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Jeremey, Donovan, uno de los organizadores del TED, nos brinda esta guía llena de consejos para hacer de tu exposición oral un acto inspirador capaz de subyugar al público. Las conferencias TED, por las que han pasado algunos de los más reputados científicos, empresarios y artistas han logrado convertirse en un fenómeno viral. ¿Cuál es el secreto? La narración, el lenguaje corporal, el tono, la empatía con el público... Todo influye a la hora de lograr captar la atención.&lt;/p&gt;</dc:description>
+        <dc:publisher>Ariel</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788434423725</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jeremey Donovan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-14T16:12:02.353709+00:00"/>
+        <meta name="calibre:title_sort" content="Método TED para hablar en público (Edición revisada y ampliada)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

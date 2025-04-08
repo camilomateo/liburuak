@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1fcca203-89db-4c47-9adb-c96b247b0666</dc:identifier>
+        <dc:title>Una mochila para el Universo</dc:title>
+        <dc:creator opf:file-as="Punset, Elsa" opf:role="aut">Elsa Punset</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>¿Cuánto debe durar un abrazo? ¿De qué sirve llorar? ¿Qué podemos hacer para cambiar nuestra suerte? ¿Tiene algún propósito el enamoramiento? ¿Y por qué es tan inevitable el desamor? ¿Cómo aprendemosa tener miedo? ¿A partir de qué edad empezamos a mentir? ¿Por qué sentimos envidia? ¿Cuántos amigos necesitamos para ser felices? ¿Podemos evitar estresarnos sin necesidad? ¿Por qué le importa más a unhombre que a una mujer que le rayen el coche? Y, más allá de las mil dietas milagrosas, ¿existen trucos emocionales para adelgazar?
+A éstas y muchas otras preguntas, trascendentales y cotidianas, responde Elsa Punset en este libro, concebido como una «pequeña guía de rutas variadas» que transitan por la geografía de las emociones humanas con el propósito de hacernos más fácil comprenderlo que nos rodea, reconocerla importancia de nuestras relaciones con los demás,descubrir que es mucho más lo que nos une que lo quenos separa, encontrar formas eficaces de comunicarnos,gestionar la relación entre el cuerpo y la mente, potenciar el caudal de alegría que encerramos, organizarnos para lograr fijar y cumplir nuestras metas y ayudar al cerebro humano a contrarrestar su tendencia innata «a la supervivencia miedosa y desconfiada».
+Porque, como señala Elsa Punset con palabras transparentes y sencillas, para transformar nuestras vidas y nuestras relaciones «no necesitamos tanto como creemos: en una mochila ligera cabe lo que nos ayuda a comprender y a gestionar la realidad que nos rodea».
+Una guía indispensable para entender a los demás y manejarse con éxito en eluniverso de las emociones.</dc:description>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423324613</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>religion_self</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elsa Punset&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-03T07:39:14.732339+00:00"/>
+        <meta name="calibre:title_sort" content="mochila para el Universo, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

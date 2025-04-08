@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">918eccde-3216-4950-85a5-6ec6b4caa2f5</dc:identifier>
+        <dc:title>El usurpador</dc:title>
+        <dc:creator opf:file-as="Jørn Lier Horst" opf:role="aut">Jørn Lier Horst</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span&gt;Un hombre ha fallecido delante del televisor. No sería noticia 
+si no fuera porque, tras cuatro meses en que nadie lo echó de menos, lo 
+ha encontrado casi momificado un operario de la compañía eléctrica. Poco
+ después tiene lugar otro macabro descubrimiento, esta vez en un bosque.
+ Junto a un abeto hallan un cadáver semienterrado en la nieve. Debe de 
+llevar ahí desde verano y, atrapado entre sus dedos, hay un mechón de 
+cabellos rubios.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Mientras William Wisting, detective 
+del cuerpo de policía de Larvik, investiga el segundo caso, su hija, 
+Lisa Wisting, vuelve unos días a su pueblo natal para preparar un 
+reportaje sobre el primero: ¿cómo puede morir alguien así en Noruega, 
+uno de los países más prósperos del mundo?&lt;/span&gt;&lt;/p&gt;&lt;p align="justify"&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Lo que 
+nadie intuye es que pronto emergerá de las sombras la inquietante figura
+ de un usurpador: un asesino en serie que, suplantando la identidad de 
+algunas de sus víctimas, ha eludido a la justicia durante décadas. Por 
+si fuera poco, el FBI va a pisar suelo noruego para darle caza y con 
+ellos deberá colaborar, le guste o no, el taciturno William Wisting.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417910778</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">61107644</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Cuarteto Wisting"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-05-31T11:18:14.224146+00:00"/>
+        <meta name="calibre:title_sort" content="usurpador, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

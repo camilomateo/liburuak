@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40cd57d5-c039-4be2-9dca-3fc04e729d17</dc:identifier>
+        <dc:title>Tren bala</dc:title>
+        <dc:creator opf:file-as="Isaka, Kotaro" opf:role="aut">Kotaro Isaka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-11T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Nanao, conocido como «el asesino más desafortunado del gremio», sube a un tren bala de Tokio a Morioka con una sencilla tarea: robar una maleta y bajarse en la siguiente estación.&lt;/p&gt;
+&lt;p&gt;Sin que él lo sepa, el mortífero dúo de sicarios conocidos como Mandarina y Limón también busca la misma maleta, y ellos no son los únicos pasajeros peligrosos a bordo. Satoshi, «el Príncipe», un joven de apenas catorce años pero con la mente de un psicópata despiadado, se encontrará con Kimura, con quien tiene una cuenta que saldar.&lt;/p&gt;
+&lt;p&gt;Cuando los cinco asesinos descubren que viajan todos en el mismo tren, se dan cuenta de que sus misiones están más conectadas de lo que pensaban.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09WVSNHYH</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-07T13:32:37.754664+00:00"/>
+        <meta name="calibre:title_sort" content="Tren bala"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

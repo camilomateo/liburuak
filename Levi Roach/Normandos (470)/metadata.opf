@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">470</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c05e21d9-615d-486d-9cb5-d317d5ae7352</dc:identifier>
+        <dc:title>Normandos</dc:title>
+        <dc:creator opf:file-as="Roach, Levi" opf:role="aut">Levi Roach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-12T14:58:33+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;De la mano del joven medievalista Levi Roach, esta obra nos acerca a una de las civilizaciones que más alteraron el rumbo de la historia medieval europea. Desde sus inicios como saqueadores vikingos y más tarde mercenarios y vasallos francos a las órdenes del temible y legendario Rollo, los normandos se propagaron por toda Europa, asimilándose a las principales culturas cristianas para servir a sus caprichosos príncipes y duques con su emblemático afán de guerra, gloria y riqueza. Roach nos lleva junto a estos personajes diluidos por la historia para conocer sus peripecias, y como estas derrumbaron y reedificaron los cimientos de la cultura europea.&lt;/p&gt;
+&lt;p align="justify"&gt;No hubo pueblo ni frontera a la que estos guerreros no llegasen, desde la lluviosa Inglaterra hasta las impresionantes urbes bizantinas, pasando por la Iberia almorávide o la Italia fracturada del medievo. Cualquiera que fuese su destino, los normandos hacían sentir su presencia, derrocando dinastías, conquistando tierras y ciudades, trazando el rumbo del catolicismo o desafiando a los grandes imperios de la época. De paganos a cristianos, de piratas y vándalos a príncipes y reyes, la ascendencia meteórica de los normandos no solo muestra su capacidad camaleónica como pueblo, sino ejemplifica la turbulenta y sinuosa historia medieval, donde la traición, la guerra, la intriga y la diplomacia eran moneda de cambio en cada pueblo con los que trataban.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Crítica</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491995098</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Levi Roach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-24T20:44:12.344872+00:00"/>
+        <meta name="calibre:title_sort" content="Normandos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

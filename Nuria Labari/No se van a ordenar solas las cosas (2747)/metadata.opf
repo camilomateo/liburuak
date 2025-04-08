@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2747</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c8ec05d-b860-4bd8-bfdc-04ba6b84a081</dc:identifier>
+        <dc:title>No se van a ordenar solas las cosas</dc:title>
+        <dc:creator opf:file-as="Labari, Nuria" opf:role="aut">Nuria Labari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Los protagonistas de este libro sienten que han perdido la libertad para ordenar su propia historia dentro de otra historia que es mucho más grande que ellos mismos. La madre celosa del tiempo que su empleada de hogar pasa con sus hijos, el adolescente vigoréxico obsesionado con construir un cuerpo que lo convierta en mejor persona, el anciano judío homosexual que llora abrazado a los jerséis de su amante cuando se le rompe la lavadora… y la vida. &lt;br&gt;Una colección de personajes que luchan por encajar en el relato de sus propias vidas, héroes y fracasados al mismo tiempo. Labari indaga en estos cuentos en el deseo, la diferencia de clase social o el racismo, y en las carencias de todo tipo que nos impiden descifrar nuestra identidad sin atender a dogmas o a recetas. Al contrario, enfrenta el peligroso deseo de reunir lo que es distinto a través del lenguaje y se lanza a escribir desde fronteras, palabras e idiomas nuevos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Páginas de Espuma</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B0DGXLX818</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-18T07:33:28.802170+00:00"/>
+        <meta name="calibre:title_sort" content="No se van a ordenar solas las cosas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

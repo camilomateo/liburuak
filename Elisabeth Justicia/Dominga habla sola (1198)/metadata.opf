@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1198</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0186e6c8-f156-4271-a9e7-e2dba79371be</dc:identifier>
+        <dc:title>Dominga habla sola</dc:title>
+        <dc:creator opf:file-as="Justicia, Elisabeth" opf:role="aut">Elisabeth Justicia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-03T06:00:00+00:00</dc:date>
+        <dc:description>Dominga habla sola ¡y a veces hasta se da la razón! La anciana más tierna, gamberra y viral de las redes nos muestra su ingenio y su filosofía vital en este libro de viñetas y textos en el que recopila algunas de sus más conocidas escenas junto a otras muchas ilustraciones inéditas. En estas páginas Dominga reflexiona sobre la soledad (la elegida y la obligada), el miedo (como obstáculo y como reto) y el paso del tiempo (que a veces vuela y otras se hace eterno), y a través de ello nos habla de otras muchas cosas, como las emociones, el feminismo, la salud mental o el edadismo. Siempre a través de la ironía deslenguada y la sabiduría que solo alguien que ha vivido mucho puede permitirse. La ilustradora y diseñadora Elisabeth Justicia ha construido un personaje maravilloso, con alma propia, que da visibilidad a las personas mayores y sus problemáticas, que en el fondo no dejan de ser un reflejo de las de nuestra sociedad.</dc:description>
+        <dc:publisher>AGUILAR</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">208</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002308</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Comic</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-05T17:00:24.735347+00:00"/>
+        <meta name="calibre:title_sort" content="Dominga habla sola"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

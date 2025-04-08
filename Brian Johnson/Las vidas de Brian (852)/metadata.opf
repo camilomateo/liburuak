@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">852</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6801d5e6-464b-4517-b68d-42dd94a47c49</dc:identifier>
+        <dc:title>Las vidas de Brian</dc:title>
+        <dc:creator opf:file-as="Johnson, Brian" opf:role="aut">Brian Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-14T23:00:00+00:00</dc:date>
+        <dc:description>Las memorias del cantante de AC/DC, que, tras un periplo vital alucinante y accidentado, sustituyó al trágicamente desaparecido Bon Scott al frente de uno de los grupos clave del rock duro para firmar Back in Black: un hito del rock y el segundo disco más vendido de todos los tiempos.
+Brian Johnson nació en 1947 en Dunston, en la región de Newcastle, al nordeste de Inglaterra. Su padre fue militar y combatió en el norte de África durante la Segunda Guerra Mundial y su madre creció en el seno de una opulenta familia italiana. De muy joven, Brian se quedó prendado del rock cuando vio a Little Richard en televisión tocar «Tutti Frutti». Dotado de un potente chorro de voz, pronto empezó a destacar entre el coro de los boy scouts y no tardó en montar los primeros grupos de versiones. Mientras trabaja como delineante en una gran empresa de turbinas de vapor y pasa una temporada como paracaidista del Ejército, se pone al frente de Geordie, con los que consigue colocar un single en el Top 10, salir en el Top of the Pops y hacer giras por Europa y Australia… Sin embargo, la suerte del grupo se estancó y, tras una serie de álbumes fallidos, Brian Johnson se encontró en la ruina, separado, con dos hijas pequeñas y una amenaza de embargo. Pese a todo, superada la treintena y cuando parecía que el sueño del rock se esfumaba, fue convocado para un casting de AC/DC, que tras la trágica muerte de su cantante, Bon Scott, estaban en un impasse. Brian sorprendió a los hermanos Young con su potencia vocal y pericia con las letras, y lo enrolaron para grabar el que sería a la postre el mayor éxito del grupo: Back in Black, grabado en las Bahamas y que incluye himnos como «Hells Bells» o «You Shook Me All Night Long», y que acabaría siendo el segundo disco más vendido de todos los tiempos.
+Narrado con humor y con una sensibilidad poco común entre la fraternidad del rock, Las vidas de Brian es un excepcional y emocionante testimonio de una de las grandes voces del rock.
+«Estas memorias pa</dc:description>
+        <dc:publisher>Contra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418282874</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-12T12:02:06.698127+00:00"/>
+        <meta name="calibre:title_sort" content="vidas de Brian, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

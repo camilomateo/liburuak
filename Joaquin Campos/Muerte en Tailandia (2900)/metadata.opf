@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2900</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35f8c3f1-2a50-45c7-a534-ae57fdafb099</dc:identifier>
+        <dc:title>Muerte en Tailandia</dc:title>
+        <dc:creator opf:file-as="Campos, Joaquín" opf:role="aut">Joaquín Campos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-29T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El 2 de agosto de 2023, el cirujano colombiano Edwin Arrieta fue asesinado y descuartizado en la paradisiaca isla de Koh Phangan. Casi inmediatamente fue detenido el joven español Daniel Sancho. La policía tailandesa no tenía dudas sobre su autoría.&lt;/p&gt;
+&lt;p&gt;Y entonces… se desató la locura en los medios de comunicación españoles.&lt;/p&gt;
+&lt;p&gt;El escritor y reportero Joaquín Campos, residente desde hace muchos años en Asia, fue uno de los primeros en llegar a la isla para cubrir el macabro suceso. Gran conocedor del terreno y de la idiosincrasia local, durante meses ha investigado y entrevistado a decenas de personas que han tenido algo que ver con Daniel y Edwin —algunas de ellas han hablado por primera vez para este libro— para dilucidar qué ocurrió exactamente el día del crimen y los meses previos, pero también después.&lt;/p&gt;
+&lt;p&gt;Durante su investigación ha analizado todas las aristas de este caso: la verdadera relación de Daniel y Edwin, la actitud de sus respectivas familias, la estrategia de los abogados, las implicaciones monetarias, el futuro carcelario de Daniel… y ha conseguido dar respuesta a casi todas las incógnitas. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>LA ESFERA DE LOS LIBROS, S.L.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788413849843</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-10T16:14:59.911441+00:00"/>
+        <meta name="calibre:title_sort" content="Muerte en Tailandia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

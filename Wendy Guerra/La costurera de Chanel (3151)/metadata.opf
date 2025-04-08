@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a597f76-509f-4b53-bf2f-6408b0d983d4</dc:identifier>
+        <dc:title>La costurera de Chanel</dc:title>
+        <dc:creator opf:file-as="Guerra, Wendy" opf:role="aut">Wendy Guerra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-20T00:00:00+00:00</dc:date>
+        <dc:description>La premiada Wendy Guerra, elogiada por Eduardo Mendoza y Alejandro González Iñárritu entre otros, regresa con una conmovedora y original novela.«Una escritora fantástica que siempre sorprende». Milena Busquets«Lírica y desenfadada, cómica, tristísima, totalmente inimitable». Alejandro ZambraComienza el verano en Arcachon, una pequeña ciudad de provincias francesa, y Simone Leblanc se propone reabrir el taller de costura fundado por su abuela. Impulsada por la fuerza de su creatividad, y con ayuda de Teresa, su ama de llaves y confidente, trabajan en la remodelación y al inicio de la temporada sus diseños ya están expuestos en el escaparate y el taller vuelve a llenarse de clientes.Pero Simone aspira a más: se libera del corsé, aligera los vestidos, prefiere el lino y el algodón a la seda, experimenta con los trajes de baño, creando patrones simples con géneros rompedores para su época. Hasta que una veraneante parisina, quien se presenta como Gabrielle Chanel, irrumpe en la...</dc:description>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-10T15:00:50.768810+00:00"/>
+        <meta name="calibre:title_sort" content="costurera de Chanel, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

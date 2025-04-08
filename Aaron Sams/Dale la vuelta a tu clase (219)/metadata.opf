@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">534a3f44-077f-49ac-903b-9e072ab2a40e</dc:identifier>
+        <dc:title>Dale la vuelta a tu clase</dc:title>
+        <dc:creator opf:file-as="Sams, Aaron" opf:role="aut">Aaron Sams</dc:creator>
+        <dc:creator opf:file-as="Sams, Aaron" opf:role="aut">Jonathan Bergmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-10T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Los impulsores de esta metodología educativa llegaron a ella al 
+plantearse estas preguntas: ¿Cómo puede un solo profesor personalizar la
+ educación de tantos estudiantes? ¿Cómo puede asegurarse de que cada 
+alumno aprende, cuando hay tantas metas y objetivos que alcanzar? ¿Qué 
+pasaría si grabáramos nuestras exposiciones, los alumnos vieran el vídeo
+ como tarea y luego dedicáramos todo el tiempo de la clase a ayudarlos 
+con los conceptos que no entienden? De este modo nació la "clase al 
+revés", que centra la atención en cada alumno y su propio ritmo de 
+aprendizaje.&lt;/p&gt;</dc:description>
+        <dc:publisher>Grupo SM</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00LU3OPHA</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Aaron Sams&quot;: &quot;&quot;, &quot;Jonathan Bergmann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-27T10:56:00.398748+00:00"/>
+        <meta name="calibre:title_sort" content="Dale la vuelta a tu clase"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1233</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45ceef90-e85e-44b4-a83b-7a5befd04205</dc:identifier>
+        <dc:title>Manicomio</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra I" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1978-09-14T22:00:00+00:00</dc:date>
+        <dc:description>Jordi Sierra i Fabra tuvo con este libro, publicado en 1978, su primer best seller a ambos lados del Atlántico. Investigando en manicomios de toda Catalunya y otras zonas de España, reunió 12 historias verdaderas, tenebrosas en algunos casos, sobre las prácticas médicas con los pacientes en la dictadura. Con Franco recién muerto y la transición a la democracia, la novela fue una de las primeras en denunciar los crimenes de la época más reciente de la historia de España.</dc:description>
+        <dc:publisher>A.T.E.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9798479020247</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-23T07:42:57.211079+00:00"/>
+        <meta name="calibre:title_sort" content="Manicomio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

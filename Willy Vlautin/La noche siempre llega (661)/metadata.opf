@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">661</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d29f3d7-b99b-4991-928d-241099735448</dc:identifier>
+        <dc:title>La noche siempre llega</dc:title>
+        <dc:creator opf:file-as="Vlautin, Willy" opf:role="aut">Willy Vlautin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una gran novela de suspense con alma de clásico contemporáneo, de la mano de uno de los autores más celebrados por la crítica en Estados Unidos. «Uno de los libros más conmovedoramente humanos que he leído en muchos años.» Jesús Carrasco «Más directo que Carver, menos ingenuo que Bukowski, Vlautin reclama hábilmente ese mismo territorio difuso y lo hace nuevo.» New York Times Book Review «Intensa y visceral.» Sunday Times «Esta novela refleja magistralmente la melancolía de una ciudad que expulsa a su clase trabajadora.» The New York Times «Vlautin es uno de los novelistas más valientes de la actualidad, un Steinbeck poco sentimental, un Kent Haruf desconsolado.» Ursula K. Le Guin Lynette está peligrosamente cansada. Entre cuidar a su hermano discapacitado, estudiar y trabajar, hay días en los que quiere tirar la toalla. Pero tiene un sueño que la motiva a seguir adelante y que, después de años de esfuerzo, está al alcance de su mano: comprar la modesta casa en la periferia de Portland donde vive con su familia. Es la única manera de asegurarse un futuro medianamente digno. Cuando su plan se viene abajo, Lynette, en un intento por salvar la situación, se embarcará en una odisea desesperada de 48 horas a través de una ciudad en la que reina la codicia y la ambición. Un libro contundente. Una historia dura pero llena de lucha y esperanza. Y todo ello combinado con el personal estilo del autor que, como lo define John Connolly, convierte sus novelas en dulces baladas «tristes, inquietantes y extrañamente hermosas».&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432242175</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">UP23EAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-15T15:51:14.234952+00:00"/>
+        <meta name="calibre:title_sort" content="noche siempre llega, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

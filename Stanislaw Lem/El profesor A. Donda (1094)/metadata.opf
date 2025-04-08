@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1094</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5754d5b-1443-4ac0-8c87-237c0e22fcb7</dc:identifier>
+        <dc:title>El profesor A. Donda</dc:title>
+        <dc:creator opf:file-as="Stanislaw Lem" opf:role="aut">Stanislaw Lem</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-05T06:34:20+00:00</dc:date>
+        <dc:description>¡El holocausto informativo ha caído sobre el planeta! Ijon Tichy se
+acurruca delante de una cueva de la que le ha expulsado un gorila,
+mientras graba sus memorias en tablillas de arcilla, como hacían los
+babilonios. Su colega, el profesor Affidavit Donda, ha hecho un
+descubrimiento asombroso: ¡la información almacenada en las computadoras
+tiene un peso medible! Todos los ordenadores del mundo se han destruido
+a sí mismos y ello ha provocado la desaparición de la totalidad de los
+bancos de datos informatizados que hay en la Tierra. Aunque esto ha
+causado el colapso del Primer Mundo, ha supuesto un enorme alivio para
+el Tercero. No solo las armas modernas se han quedado obsoletas, sino
+que el sistema monetario mundial también ha sido abolido de un plumazo,
+lo que ha obligado a la humanidad a regresar a una suerte de paraíso
+perdido (que de paradisiaco tiene más bien poco).</dc:description>
+        <dc:publisher>Impedimenta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-12-12T07:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="El profesor A. Donda"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

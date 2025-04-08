@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21421c59-6bf8-4b69-b8b4-f7e66027c22b</dc:identifier>
+        <dc:title>El amor, las mujeres y la vida</dc:title>
+        <dc:creator opf:file-as="Mario Benedetti" opf:role="aut">Mario Benedetti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-15T14:27:19+00:00</dc:date>
+        <dc:description>Este libro reúne los mejores poemas de amor escritos por Mario Benedetti, uno de los poetas más innovadores, divertidos, ambiciosos y modernos de la literatura en español. El amor, las mujeres y la vida recoge una selección de poemas aclamados por varias generaciones, aquellos en los que Benedetti vuelca su concepción de la vida: el amor como compensación de la muerte se levanta en sus versos lleno de fe, como fuerza principal que mueve al ser humano, como una proclama de la existencia, que va de la erótica del amante hasta la esperanza del revolucionario o la gratitud del amigo. «El amor es uno de los elementos emblemáticos de la vida. Breve o extendido, espontáneo o minuciosamente construido, es de cualquier manera un apogeo en las relaciones humanas.»</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <dc:subject>Romántico</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:04:34.836606+00:00"/>
+        <meta name="calibre:title_sort" content="amor, las mujeres y la vida, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3522685-1f79-4a95-a456-94eda60e9f23</dc:identifier>
+        <dc:title>Este dolor no es mío</dc:title>
+        <dc:creator opf:file-as="Wolynn, Mark" opf:role="aut">Mark Wolynn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-24T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Un enfoque transformador que permite resolver problemas crónicos 
+como la depresión, la ansiedad y las fobias, que no han podido ser 
+aliviados mediante la terapia tradicional, los medicamentos u otras 
+medidas.&lt;/p&gt;</dc:description>
+        <dc:publisher>Gaia</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788415292913</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08P3H7WNK</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-16T12:02:36+00:00"/>
+        <meta name="calibre:title_sort" content="Este dolor no es mío"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

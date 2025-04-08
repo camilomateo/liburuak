@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1856</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe65df62-2f15-464d-96b0-641b4b20716f</dc:identifier>
+        <dc:title>Billete de ida</dc:title>
+        <dc:creator opf:file-as="Escudé, Montserrat Soler" opf:role="aut">Montserrat Soler Escudé</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;veces rio. A veces lloro.&lt;br&gt;Esa perfecta e indefinible&lt;br&gt;dualidad de sentimientos&lt;br&gt;me hace humana."&lt;br&gt;&lt;br&gt;Puede que la vida te lance al vacío y sientas que te vas a estrellar de cabeza contra el suelo y que tu mundo se acaba.&lt;br&gt;Pero hay personas a tu alrededor que te sujetan y evitan el golpe.&lt;br&gt;No sólo eso.&lt;br&gt;Te recogen suavemente y te acompañan susurrándote palabras de ánimo que te reconfortan.&lt;br&gt;Por y para esas personas es éste libro. Para ellas, y para todas las que, en algún momento, han creído que la vida no valía la pena.&lt;br&gt;Porque vivir siempre vale la pena.&lt;br&gt;Porque, a pesar de todo, yo tomé la decisión de seguir adelante y hacerlo con una sonrisa .&lt;br&gt;Y si yo pude, te aseguro que tú también .&lt;br&gt;Este libro es una realidad ficcionada. O unas vivencias puestas por escrito. O quizá sólo fue un sueño que creí vivir.&lt;br&gt;Cógelo como quieras y permítete sentirlo.&lt;br&gt;&lt;br&gt;Siéntete libre al leerlo porque la vida es éso: la libertad de escoger cómo te la tomas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones HaraKiri</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CW1HXLYX</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:35.963194+00:00"/>
+        <meta name="calibre:title_sort" content="Billete de ida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

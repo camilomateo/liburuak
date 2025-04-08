@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">462</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38b0270b-9e08-4579-9098-f3f753e35a59</dc:identifier>
+        <dc:title>Fortuna</dc:title>
+        <dc:creator opf:file-as="Díaz, Hernán" opf:role="aut">Hernán Díaz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-23T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Un deslumbrante puzle literario: la 
+misteriosa historia de un magnate de los años veinte en varias versiones
+ que se complementan o contradicen.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;En los triunfales años veinte, Benjamin Rask y su esposa Helen 
+dominan Nueva York: él, un magnate financiero que ha amasado una 
+fortuna; ella, la hija de unos excéntricos aristócratas. Pero a medida 
+que la década se acerca a su fin, y sus excesos revelan un lado oscuro, a
+ los Rask empiezan a rodearlos las sospechas…&lt;/p&gt;&lt;p&gt;Ese es el punto de partida de &lt;span class="a-text-italic"&gt;Obligaciones, &lt;/span&gt;una
+ exitosa novela de 1937 que todo Nueva York parece haber leído y que 
+cuenta una historia que puede, sin embargo, contarse de algunas otras 
+formas. Hernán Díaz compone en &lt;span class="a-text-italic"&gt;Fortuna &lt;/span&gt;un
+ magistral puzle literario: una suma de voces, de versiones confrontadas
+ que se complementan, se matizan y se contradicen, y, al hacerlo, ponen 
+al lector ante las fronteras y los límites entre la realidad y la 
+ficción, entre la verdad –acaso imposible de encontrar– y su versión 
+manipulada.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Anagrama</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Hernán Díaz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-24T20:44:11.155980+00:00"/>
+        <meta name="calibre:title_sort" content="Fortuna"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

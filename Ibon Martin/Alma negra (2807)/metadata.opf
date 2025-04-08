@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2807</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22ab2eaf-a803-4191-8981-f76f11b7186d</dc:identifier>
+        <dc:title>Alma negra</dc:title>
+        <dc:creator opf:file-as="Ibon Martín" opf:role="aut">Ibon Martín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Aunque hace décadas que las minas enmudecieron en los Montes de Hierro, en la quietud de la noche aún pueden oírse los lamentos desesperados de las almas que quedaron sepultadas en su vientre de roca. La aparición del cadáver de Teresa Echegaray, la poderosa mujer que pretende reabrir la explotación, despierta entre los habitantes de la cuenca minera el miedo a las leyendas dormidas y reaviva el rencor acumulado durante tantos años.&lt;/p&gt;
+&lt;p&gt;La investigación del asesinato se verá lastrada por un acontecimiento que sacude la vida de Julia. Cuando parece que al fin ha llegado la hora de cicatrizar una dolorosa herida de su pasado, no encuentra la respuesta que busca, sino nuevas preguntas y una misión para Ane Cestero quien, despojada de su uniforme y su placa, tendrá que resolver el rompecabezas armada únicamente con su instinto. Juntas se enfrentarán al caso más complicado de su carrera.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-16T07:08:29.141774+00:00"/>
+        <meta name="calibre:title_sort" content="Alma negra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

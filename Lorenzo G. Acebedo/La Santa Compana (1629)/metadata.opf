@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1629</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">175a15b3-41d2-4f98-be10-5ceaad77f551</dc:identifier>
+        <dc:title>La Santa Compaña</dc:title>
+        <dc:creator opf:file-as="Acebedo, Lorenzo G." opf:role="aut">Lorenzo G. Acebedo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-08T12:37:01+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una lectura trepidante en la que la intriga y el humor se mezclan con el terror y la erudición histórica.&lt;/p&gt;
+&lt;p&gt;«Un narrador cínico y ético, mujeriego, solitario y aficionado al bebercio… En la prosa española dudo que haya algo mejor. ¡Bravo!» Ángeles López, La Razón&lt;br&gt;«Hay en este autor enmascarado bajo un seudónimo un gran escritor agazapado… capaz de lanzar en medio de una trama detectivesca guiños de altura, pensamientos profundos y sagaces, párrafos soberbios sobre el amor, la vida y la escritura.» Gonzalo Núñez, El Debate&lt;/p&gt;
+&lt;p&gt;Gonzalo de Berceo ha llegado a Santiago de Compostela para participar, como tantos otros peregrinos, en la celebración del jubileo. Además, siente curiosidad por probar una nueva variedad de vino elaborada por su amigo Lope con uva mencía. Mientras asiste a la misa mayor en la catedral, contempla cómo un arcediano, presa de un delirio místico, se interpone al paso devastador del botafumeiro, que lo destroza para horror de los fieles que atestan el templo. Este episodio se suma a una serie de sucesos inexplicables que está diezmando el cabildo de la catedral, lo que llevará al arzobispo, antiguo compañero de estudios de Berceo, a pedirle ayuda. En una atmósfera inquietante en la que no faltan extrañas visiones, acusaciones de brujería y apariciones de la Santa Compaña, Berceo se enfrenta al caso ayudado por el gustoso vino que Lope y la tabernera Lupa no dejan de ofrecerle. Una lectura trepidante en la que la intriga y el humor se mezclan con el terror y la erudición histórica, y con la memorable aparición de un joven poeta: el futuro rey Alfonso X el Sabio. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Gonzalo de Berceo"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-06-13T16:06:43.551533+00:00"/>
+        <meta name="calibre:title_sort" content="Santa Compaña, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

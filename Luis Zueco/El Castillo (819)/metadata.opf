@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">819</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">158f373f-3607-4720-aebf-01b13063ff17</dc:identifier>
+        <dc:title>El Castillo</dc:title>
+        <dc:creator opf:file-as="Zueco, Luis" opf:role="aut">Luis Zueco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-08T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p style="text-align:center"&gt;&lt;B&gt;Esta novela narra el sueño de aquellos que desafiaron su destino hace  mil años, lograron construir una de las fortalezas medievales más grandes del mundo: el castillo de Loarre.&lt;/B&gt;&lt;/P&gt; &lt;p style="text-align:center"&gt;&lt;B&gt;Una novela sobre la construcción del grandioso e imponente castillo  de Loarre. El sueño de unos hombres y mujeres que desafiaron su destino hace mil años.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Entre la Tierra Llana y el Pirineo aragonés se encuentra el monumento  militar románico más importante de Europa: el castillo-abadía  de  Loarre, una fortaleza impresionante, construida cuando esa zona era una  peligrosa tierra de frontera. ¿Cómo se edificó? ¿Quién logró tal hazaña?&lt;/P&gt; &lt;P&gt;Todo comenzó cuando un aguerrido monarca, el rey Sancho III el Mayor,  decidió levantar una fortificación en una recóndita sierra, poco poblada  y desde la que se podía avistar al enemigo musulmán a diez kilómetros de  distancia. Y con la promesa de un futuro mejor,  atrajo a un grupo dehombres y mujeres para quienes la supervivencia era una heroicidad cotidiana.&lt;/P&gt; &lt;P&gt;Entre ellos, un maestro de obras lombardo; Juan el carpintero y su hijo  Fortún; Ava la arquera; Javierre, un muchacho cuya ambición  creció a la  par que el castillo; y un sacerdote fiel al viejo rito hispánico, acompañado de la inteligente y misteriosa Eneca.&lt;/P&gt; &lt;P&gt;Y con sus escasos medios y conocimientos, lograron superar las  limitaciones que les imponían la ignorancia y el poder hasta culminar la  fortaleza religiosa y militar desde la que se gestó uno de los más importantes reinos medievales, clave de la Reconquista. &lt;B&gt;Esta es su  epopeya.&lt;/B&gt;&lt;/P&gt;</dc:description>
+        <dc:publisher>B DE BOOKS</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Trilogía medieval"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-06-06T06:14:22.309838+00:00"/>
+        <meta name="calibre:title_sort" content="Castillo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

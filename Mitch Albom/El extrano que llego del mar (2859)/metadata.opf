@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2859</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d36b6ee2-ee81-44fa-96d1-c5316d100f4e</dc:identifier>
+        <dc:title>El extraño que llegó del mar</dc:title>
+        <dc:creator opf:file-as="Mitch Albom" opf:role="aut">Mitch Albom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-25T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Las respuestas a nuestras preguntas siempre están más cerca de lo que creemos.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Una cautivadora novela sobre el poder in­finito de la esperanza, por el autor de Martes con mi viejo profesor.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;¿Qué pasaría si pidiéramos ayuda a Dios y este apareciera?&lt;/strong&gt; El yate de lujo Galaxy ha naufragado, y, de los más de cuarenta pasajeros, solo se han salvado nueve. Después de tres días sin agua, comida ni esperanza, los náufragos encuentran a un hombre flotando entre las olas y lo rescatan. «Yo soy el Señor», susurra el extraño.&lt;/p&gt;&lt;p&gt;El relato se retoma cuando un año después aparece un bote del Galaxy a la deriva en una isla del Caribe. El inspector Jarty LeFleur descubre en su interior un cuaderno escrito por Benji, uno de los náufragos, y toda la historia cobra sentido.&lt;/p&gt;</dc:description>
+        <dc:publisher>Maeva Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410260726</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-30T21:16:37.881708+00:00"/>
+        <meta name="calibre:title_sort" content="extraño que llegó del mar, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

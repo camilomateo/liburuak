@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1474a04c-4c68-41f2-8d01-8c4df8d12634</dc:identifier>
+        <dc:title>El Juego del Ángel</dc:title>
+        <dc:creator opf:file-as="Ruiz Zafón, Carlos" opf:role="aut">Carlos Ruiz Zafón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-17T06:00:00+00:00</dc:date>
+        <dc:description>En la turbulenta Barcelona de los años 20 un joven escritor obsesionado con un amor imposible recibe la oferta de un misterioso editor para escribir un libro como no ha existido nunca, a cambio de una fortuna y, tal vez, mucho más. Con estilo deslumbrante e impecable precisión narrativa, el autor de «La Sombra del Viento» nos transporta de nuevo a la Barcelona del Cementerio de los Libros Olvidados para ofrecernos una gran aventura de intriga, romance y tragedia, a través de un laberinto de secretos donde el embrujo de los libros, la pasión y la amistad se conjugan en un relato magistral.</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">2.7</dc:identifier>
+        <dc:identifier opf:scheme="EPL">1279</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:series" content="El Cementerio de los Libros Olvidados"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-03-07T17:24:52.550953+00:00"/>
+        <meta name="calibre:title_sort" content="Juego del Ángel, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

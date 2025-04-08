@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1867</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64692edb-d2f2-44d8-9ccd-ce60c469f0af</dc:identifier>
+        <dc:title>El asesino de Google Maps</dc:title>
+        <dc:creator opf:file-as="Herranz, Juan" opf:role="aut">Juan Herranz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-20T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Navegando por Street View, Carlos descubre a una posible víctima oculta en la parte trasera de un coche.&lt;br&gt;La casualidad lo condujo ante algo que jamás debiera haber visto.&lt;br&gt;Desde ese momento estará en el punto de mira del asesino de Google Maps.&lt;br&gt;Porque nadie puede saber lo que este asesino planea.&lt;br&gt;Y todos están en peligro cuando una mente brillante encuentra la fórmula para consumar los asesinatos perfectos.po&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0D1B5QCP7</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-02T14:27:39+00:00"/>
+        <meta name="calibre:title_sort" content="asesino de Google Maps, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

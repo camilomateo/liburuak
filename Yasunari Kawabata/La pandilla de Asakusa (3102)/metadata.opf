@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8a0a36b-18ed-4ad7-afb3-99a19f253cc0</dc:identifier>
+        <dc:title>La pandilla de Asakusa</dc:title>
+        <dc:creator opf:file-as="Kawabata, Yasunari" opf:role="aut">Yasunari Kawabata</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El vibrante corazón de un Japón en transformación, capturado por Kawabata. En 1920, el barrio de Asakusa era un lugar que permitía el anonimato, la libertad, la deriva; un lugar en el que la vida fluía por todas partes, lleno de placeres sexuales y sociales. Testimonio del choque de las tradiciones milenarias de Japón con el florecimiento de la ciudad moderna, esta novela retrata la energía desbordante de Asakusa mediante la crónica, el relato popular, las escenas callejeras y un rit-mo cinematográfico. Kawabata nos muestra Asakusa en su apogeo de preguerra. La pandilla de Asakusa captura la zona de una manera muy cercana a lo que era: cien millones de personas por año, una ola humana, el dinero derrochado en los espectáculos, restaurantes, casas de geishas, un mundo frívolo, frenético, repleto de cuerpos humanos. "Las historias de la pandilla escarlata se engarzan en el fluir sin descanso de Asakusa, de sus puentes, de sus ríos, de sus calles, de su gente, en esa efervescencia de luces y sombras en la que nos introduce Kawabata, tan distinta de la imagen que solemos tener desde Occidente de un Japón contenido y severo. &lt;/p&gt;
+&lt;p&gt;" —Ana María Shua&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral Argentina</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786316598752</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-27T17:24:55.077406+00:00"/>
+        <meta name="calibre:title_sort" content="pandilla de Asakusa, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

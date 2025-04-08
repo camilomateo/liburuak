@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">158</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15357a80-0a22-4986-87c9-1f642c35d611</dc:identifier>
+        <dc:title>La Reina del Sur</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Nombre: Teresa
+Apellidos: Mendoza Chávez (a.) La Mejicana
+CARACTERÍSTICAS FÍSICAS: Ojos negros. Cabello negro. Sin marcas ni cicatrices. Complexión delgada. Estatura 1,65.
+HISTORIA CRIMINAL: Nacida en Culiacán, Sinaloa (México). Hija de padre español y madre mejicana. Convivió con Raimundo Dávila Parra, (a.) El Güero Dávila, piloto de aviación relacionado con el cártel de Juárez. Viaja a España. Melilla. Relacionada con Dris Larbi, propietario de clubs nocturnos. Algeciras. Gibraltar. Relacionada con Santiago López Fisterra, piloto de planeadoras. Tráfico de tabaco y estupefacientes. Detenida por el Servicio de Vigilancia Aduanera. Prisión de El Puerto de Santa María.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.4</dc:identifier>
+        <dc:identifier opf:scheme="EPL">1193</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arturo Pérez-Reverte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-22T16:58:09.700092+00:00"/>
+        <meta name="calibre:title_sort" content="Reina del Sur, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

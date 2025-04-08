@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">647bb47b-26ac-4204-b16d-c318204ac4ac</dc:identifier>
+        <dc:title>El principio de incertidumbre</dc:title>
+        <dc:creator opf:file-as="Guillén, Sònia" opf:role="aut">Sònia Guillén</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un asesino en serie obsesionado con la física cuántica secuestra y mantiene prisioneras a personas que viven en "superposición", es decir, que llevan dos vidas al mismo tiempo. &lt;/p&gt;
+&lt;p&gt;Tras la desaparición de una pintora desconocida que oculta la identidad de la grafitera más famosa del mundo, una pareja de policías pedirá ayuda a Berta Fernández, una doctora en física cuántica cuya existencia no pasa por un momento fácil. &lt;/p&gt;
+&lt;p&gt;Juntos tratarán de acercarse a Squark, como firma el criminal, mientras intentan descifrar sus crípticos mensajes y las víctimas van cayendo en sus trampas, que se corresponden con grandes experimentos de la física. &lt;/p&gt;
+&lt;p&gt;En el primero, Squark reproduce la paradoja del gato de Schrödinger. Tal como anuncia en las redes, la prisionera está viva y muerta a la vez, ya que hasta que la policía encuentre la caja donde está encerrada no se podrá comprobar su estado. La cuenta atrás no ha hecho más que empezar, mientras el inspector Estrada, la criminóloga Nadia Mateo y la doctora Berta Fernández intentan adelantarse a los movimientos de un juego mortal inspirado en el principio de incertidumbre de Heisenberg. Lo que los tres desconocen es que también ellos forman parte del macabro plan.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Contraluz Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-03T15:06:05.994723+00:00"/>
+        <meta name="calibre:title_sort" content="principio de incertidumbre, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1656</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3e9c102-05a6-4e48-82eb-c51a3dc02679</dc:identifier>
+        <dc:title>Al caer la luz</dc:title>
+        <dc:creator opf:file-as="McInerney, Jay" opf:role="aut">Jay McInerney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Russell Calloway es un brillante y ambicioso editor y su mujer, la fascinante Corrine, una joven agente de Bolsa que trabaja en Wall Street. Llevan casados poco tiempo, pero a sus amigos les parece que forman un matrimonio perfecto.En la vida de los Calloway todo parece ir sobre ruedas, al igual que en la ciudad: viven en el acelerado Manhattan de mediados de los ochenta donde el dinero abunda tanto como la cocaína y las oportunidades no escasean para quienes tengan talento y ganas de aprovecharlas. Sin embargo, las señales de que algo va mal empiezan a ser visibles: solo hace falta que alguien quiera verlas.Publicada por primera vez en 1992, Al caer la luz es una maravillosa novela sobre un matrimonio que empieza a dejar atrás su dorada juventud pero también una elegía al Nueva York anterior al crac del 87, una ciudad mucho más variada y extrema que la actual. Esta es una de las obras más celebradas de Jay McInerney, quien supo combinar comedia social y drama para crear una historia y unos personajes genuinamente inolvidables.&lt;/p&gt;</dc:description>
+        <dc:publisher>Libros del Asteroide</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Trilogía Calloway"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-07-07T13:32:36.159455+00:00"/>
+        <meta name="calibre:title_sort" content="Al caer la luz"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

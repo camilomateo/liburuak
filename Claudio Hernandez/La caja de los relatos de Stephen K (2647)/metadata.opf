@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f36fd2a4-68a7-45d6-93eb-600c6c0e7e0b</dc:identifier>
+        <dc:title>La caja de los relatos de Stephen King</dc:title>
+        <dc:creator opf:file-as="Claudio Hernández" opf:role="aut">Claudio Hernández</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-23T22:00:00+00:00</dc:date>
+        <dc:description>Stephen King empezó a escribir a la temprana edad de ocho años. Cuando salía del cine y si la película era buena, escribía una versión de la misma y se la enseñaba a su madre. Esta, un buen día, le dijo, que porque no escribía sus propios relatos o historias. El pequeño Stevie se puso manos a la obra y a partir de ahí, se inspiró en su alrededor para escribir sus cuentos. Un buen día, cuando cumplió trece años, encontró una caja de cartón llena de manuscritos y libros de Poe y Lovecraft. La caja pertenecía a su padre, que le había abandonado cuando Stevie tenía dos años de edad. Y nadie sabe qué relatos o novelas había dentro de la caja. Pudo Stevie inspirarse en ellos para crear Carrie, El umbral de la noche, Salem´s Lot, El resplandor, La danza de la muerte, Christine, Cujo, La zona muerta, Ojos de fuego, Cementerio de animales o IT entre otros. Nadie lo sabe con certeza y este relato explica qué pudo haber sucedido...</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>memorias</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T05:50:35.330285+00:00"/>
+        <meta name="calibre:title_sort" content="caja de los relatos de Stephen King, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

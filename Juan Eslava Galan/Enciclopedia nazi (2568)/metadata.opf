@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2568</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f4ae80c-de29-4078-a759-efee8196e11b</dc:identifier>
+        <dc:title>Enciclopedia nazi</dc:title>
+        <dc:creator opf:file-as="Galán, Juan Eslava" opf:role="aut">Juan Eslava Galán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-24T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una obra ambiciosa que expone de manera clara y rigurosa el mundo nazi y realiza un recorrido asombroso por la época que vio nacer este fenómeno. Aquí no solo hacen acto de presencia los «grandes hombres», sino también aquellos personajes anónimos que, sin hacer historia, la padecieron. Un viaje que nos conduce a través de la prodigiosa transformación de Alemania durante los trece años en que Hitler estuvo en el poder (1933-1945).&lt;/p&gt;
+&lt;p&gt;En este libro, Juan Eslava Galán ha volcado todo su conocimiento de años de investigaciones y lecturas. Planteada con un formato especial y dinámico, esta Enciclopedia nazi ofrece a los lectores una experiencia rica y personal en la que cada lectura será una pequeña aventura.&lt;/p&gt;
+&lt;p&gt;La obra más ambiciosa del gran maestro de la divulgación histórica: un retrato extraordinario del mundo nazi en una edición de lujo &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408249078</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B09GFZMWN9</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-09T13:24:01+00:00"/>
+        <meta name="calibre:title_sort" content="Enciclopedia nazi"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

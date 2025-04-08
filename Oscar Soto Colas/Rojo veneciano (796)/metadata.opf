@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">796</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d03e0952-4e60-4338-b507-195bc8cdb155</dc:identifier>
+        <dc:title>Rojo veneciano</dc:title>
+        <dc:creator opf:file-as="Colás, Óscar Soto" opf:role="aut">Óscar Soto Colás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Valladolid, 1620. Martin de Castro es un pintor de santos cuya esposa murió al dar a luz a su querida hija, Juana. La niña demuestra desde bien pequeña un talento auténtico por la pintura. Siendo ya una adolescente, ocurren dos sucesos que cambiarán su hasta entonces plácida vida: Martín es seducido por una intrigante mujer que acaba convirtiéndose en su madrastra y ella, a su vez, comienza una intensa relación con Francisco Peña, el mejor aprendiz de su padre. Así se inicia esta intensa, barroca y fascinante novela en la que su autor ha derrochado talento narrativo para recrear la vida de una mujer que tiene que desempeñar su arte en la clandestinidad, negándose así a aceptar un destino impuesto por otros. Una vida cargada de rebeldía y plena en experiencias que trae al presente el fascinante siglo XVII. Desde la Venecia de los dogos a la Roma de los papas, pasando por el Madrid de los Austrias y la severa Valladolid, Juana conocerá de primera mano el ambiente artístico de su época y a personajes históricos como el mismísimo Diego Velázquez o Felipe IV.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467069600</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-31T11:04:25.543689+00:00"/>
+        <meta name="calibre:title_sort" content="Rojo veneciano"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

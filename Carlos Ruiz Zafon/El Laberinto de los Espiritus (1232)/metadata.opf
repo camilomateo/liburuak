@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1232</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e123f53d-046f-4b6d-9238-30b7dab08f12</dc:identifier>
+        <dc:title>El Laberinto de los Espíritus</dc:title>
+        <dc:creator opf:file-as="Zafón, Carlos Ruiz" opf:role="aut">Carlos Ruiz Zafón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-19T03:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;En la Barcelona de finales de los años 50, Daniel Sempere ya no es aquel niño que descubrió un libro que habría de cambiarle la vida entre los pasadizos del Cementerio de los Libros Olvidados. El misterio de la muerte de su madre Isabella ha abierto un abismo en su alma del que su esposa Bea y su fiel amigo Fermín intentan salvarle. Justo cuando Daniel cree que está a un paso de resolver el enigma, una conjura mucho más profunda y oscura de lo que nunca podría haber imaginado despliega su red desde las entrañas del Régimen. Es entonces cuando aparece Alicia Gris, un alma nacida de las sombras de la guerra, para conducirlos al corazón de las tinieblas y desvelar la historia secreta de la familia... aunque a un terrible precio. El Laberinto de los Espíritus es un relato electrizante de pasiones, intrigas y aventuras. A través de sus páginas llegaremos al gran final de la saga iniciada con La Sombra del Viento, que alcanza aquí toda su intensidad y calado, a la vez que dibuja un gran homenaje al mundo de los libros, al arte de narrar historias y al vínculo mágico entre la literatura y la vida.&lt;/p&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">9584255177</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">zn30DAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789584255174</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-02-22T17:06:23.622851+00:00"/>
+        <meta name="calibre:title_sort" content="Laberinto de los Espíritus, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ac1ec4e-c4a2-4593-9d8a-f41fe0ece1c8</dc:identifier>
+        <dc:title>La sombra del miedo</dc:title>
+        <dc:creator opf:file-as="Jónasson, Ragnar" opf:role="aut">Ragnar Jónasson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;span style="font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2;"&gt;En Siglufjördur, un pequeño pueblo pesquero en el norte de Islandia, sólo accesible mediante un túnel,  todos se conocen y nunca ocurre nada. Ari Thór, quien acaba de terminar la escuela de policía en Reykiavik, es enviado allí para su primer caso. Este sitio ideal en el que «nunca pasa nada», es hallado un cuerpo sin vida con indicios de haber sido asesinado durante sus primeros días en su puesto. Empieza así una investigación que cambiará para siempre la vida del joven Ari.&lt;/span&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ragnar Jónasson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Islandia Negra"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:11:02.567457+00:00"/>
+        <meta name="calibre:title_sort" content="sombra del miedo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

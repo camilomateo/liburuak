@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a50b0aef-2908-47f0-898e-fc291acf12ed</dc:identifier>
+        <dc:title>Los valores literarios</dc:title>
+        <dc:creator opf:file-as="Azorín" opf:role="aut">Azorín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Spanish</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>and</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-06T12:21:19+00:00"/>
+        <meta name="calibre:title_sort" content="valores literarios, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

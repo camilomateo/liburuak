@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1721</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9da0aa73-f2dd-4d27-95b3-2b90484cd18b</dc:identifier>
+        <dc:title>Las dos muertes de Ray Loriga</dc:title>
+        <dc:creator opf:file-as="Daniel Jiménez" opf:role="aut">Daniel Jiménez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-08T22:00:00+00:00</dc:date>
+        <dc:description>En 2017, tras varios años de silencio, Ray Loriga gana el Premio Alfaguara con su novela Rendición. El escritor más representativo de la nueva narrativa española de los noventa recupera de golpe la fama que había ido perdiendo. El libro recibe buenas críticas y se agota la primera edición, la segunda, la tercera. Ray concede entrevistas, bromea con los periodistas que le habían dado por muerto, acude como invitado a un late night. Luego viaja a Latinoamérica para promocionar su obra. La gira finaliza en Buenos Aires. Y allí, en un hospedaje del barrio de La Boca, aparece su cadáver. Semanas antes del viaje, Daniel Jiménez conoció a Ray Loriga en la Feria del Libro de Madrid. Hablaron, se intercambiaron sus últimos libros, fueron a tomar una cerveza. Me gustaría escribir una novela sobre ti, le dijo Daniel. Se separaron con la promesa de volver a verse, pero ese encuentro nunca llegó a producirse. Como si fuera una deuda de sangre o una confesión, Daniel se propuso investigar la vida, la obra y la muerte de Ray Loriga con una idea en la cabeza: Un escritor muerto ya no puede seguir escribiendo, eso es cierto; pero los demás sí podemos hacerlo por él. Novela negra, biografía no autorizada, ensayo metaliterario, autoficción plagiarista: Las dos muertes de Ray Loriga es un libro que pretende derrumbar las fronteras entre géneros con un único propósito: contar una historia verdadera.</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417747268</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-08T14:59:22.464952+00:00"/>
+        <meta name="calibre:title_sort" content="dos muertes de Ray Loriga, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

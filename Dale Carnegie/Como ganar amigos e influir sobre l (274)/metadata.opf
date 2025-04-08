@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f90afc89-131c-48a8-a1b1-7e74a5d046ab</dc:identifier>
+        <dc:title>Como ganar amigos e influir sobre las personas</dc:title>
+        <dc:creator opf:file-as="Carnegie, Dale" opf:role="aut">Dale Carnegie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788493664923</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>religion_self</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dale Carnegie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-03T07:39:16.331775+00:00"/>
+        <meta name="calibre:title_sort" content="Como ganar amigos e influir sobre las personas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

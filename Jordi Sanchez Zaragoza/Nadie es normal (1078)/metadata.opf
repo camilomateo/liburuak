@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1078</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3418cc0a-81d6-4c15-9848-5a1840a9dfea</dc:identifier>
+        <dc:title>Nadie es normal</dc:title>
+        <dc:creator opf:file-as="Zaragoza, Jordi Sánchez" opf:role="aut">Jordi Sánchez Zaragoza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-11T14:46:06+00:00</dc:date>
+        <dc:description>&lt;p&gt;Una asistenta con incontinencia verbal, unos matones septuagenarios
+  realizando el que creen su último trabajo, un taxista insolente y
+  preguntón, amigos, vecinos, compañeros de reparto, pelotas, pesados…,
+  estos son los variados y característicos personajes que trufan las
+  páginas de este divertido, entrañable y, en ocasiones, surrealista
+  libro de relatos.&lt;/p&gt;
+&lt;p&gt;Historias de ficción cargadas de humor, salpicadas de ternura, y con
+  un punto de acidez y crítica necesarias con las que el autor igual nos
+  adentra en su mundo profesional, con sus respectivos sinsabores, como
+  nos presenta personajes descacharrantes con la capacidad de enternecer
+  a cualquier lector o escenas tan costumbristas como disparatadas.&lt;/p&gt;
+&lt;p&gt;Un pintoresco paisaje en el que la invención parece brotar de la
+  cruda realidad, lo improbable se codea con el realismo más mundano y
+  donde las anécdotas están servidas. Un libro para disfrutar.&lt;/p&gt;
+&lt;p&gt;
+  &lt;b&gt;Fresco, divertido, original, imprevisible, sincero, así es &lt;i&gt;Nadie
+      es normal, &lt;/i&gt;el sorprendente libro de Jordi Sánchez&lt;/b&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408240877</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">69f301b6-e9e9-46e7-9544-b933bbda43aa</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-11-20T19:26:23.810596+00:00"/>
+        <meta name="calibre:title_sort" content="Nadie es normal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

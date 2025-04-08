@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1116</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">834eff21-1326-46bf-a7e6-e07332251bfb</dc:identifier>
+        <dc:title>Archivo criminal</dc:title>
+        <dc:creator opf:file-as="Hartung, Andrea" opf:role="aut">Andrea Hartung</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Un libro para los amantes del #Truecrime y para los que no se han adentrado en este género aún. Descubre una selección de los crímenes más emblemáticos de Chile y del mundo, que te atraparán en cada capítulo.&lt;/p&gt;
+&lt;p&gt;¿Cómo asegurar que en nuestro interior no habita un monstruo?&lt;/p&gt;
+&lt;p&gt;Cuando la periodista Andrea Hartung leyó por casualidad el libro Helter Skelter –que relata los asesinatos cometidos por Charles Manson y la secta que formó en un rancho californiano cuyos crímenes resuenan en el cine, la literatura y la televisión hasta hoy– entró sin saberlo en un mundo desconocido, pero extremadamente envolvente que se ha convertido en&lt;br&gt;una lucrativa industria de entretenimiento: el true crime. Aquí nació su imperiosa necesidad por investigar algunos de los casos más perturbadores que estremecieron a generaciones.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Planeta Chile</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789564083858</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:14.647228+00:00"/>
+        <meta name="calibre:title_sort" content="Archivo criminal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

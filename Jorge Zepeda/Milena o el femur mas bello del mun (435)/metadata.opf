@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">435</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4471911-55dc-41ea-a5a5-626793dfddcb</dc:identifier>
+        <dc:title>Milena o el fémur más bello del mundo</dc:title>
+        <dc:creator opf:file-as="Zepeda, Jorge" opf:role="aut">Jorge Zepeda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-10T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;La belleza de Milena también fue su perdición. Convertida en 
+esclava sexual desde la adolescencia, intenta huir cuando muere su 
+protector, un magnate de la comunicación que sufre un fallo cardiaco 
+mientras hace el amor con ella. En su angustiosa fuga, se cruza con los 
+Azules, un trío de justicieros formado por el periodista Tomás 
+Arizmendi, la política Amelia Navarro y el especialista en alta 
+seguridad, Jaime Lemus. Ellos desean liberarla, pero Milena guarda con 
+recelo un espinoso misterio que atesora en su libreta negra y que supone
+ su salvación y, sobre todo, su venganza.&lt;br&gt;Una vigorosa novela de 
+acción y amor que denuncia los abusos de poder y la corrupción, pero que
+ sobre todo, nos muestra el alma abierta de una mujer vejada, como 
+tantas otras, en un mundo cada vez más globalizado.&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408134053</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jorge Zepeda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-20T16:50:05.072910+00:00"/>
+        <meta name="calibre:title_sort" content="Milena o el fémur más bello del mundo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

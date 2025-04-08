@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d43e7dde-b3b9-49e1-8c15-23fdbb8f515b</dc:identifier>
+        <dc:title>Seis Cuatro</dc:title>
+        <dc:creator opf:file-as="Yokoyama, Hideo" opf:role="aut">Hideo Yokoyama</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-13T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-weight: 600; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;La pesadilla que ningún padre podría soportar. El caso que ningún inspector podría resolver. El giro que ningún lector podría prever.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;En enero de 1989, una niña de siete años fue raptada al norte de Tokio. Los padres nunca llegaron a saber la identidad del secuestrador. Tampoco volvieron a ver a su hija. Nombre en clave del caso: Seis Cuatro.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Más de una década después, el jefe de prensa de la policía se ve obligado a volver sobre el suceso, cuyo estigma no se ha diluido en el tiempo: el fracaso de la investigación sigue siendo motivo de escándalo. Pero el veterano Mikami no aspira ya a resolver el crimen, solo pretende tender una mano a la familia de la víctima y contribuir de algún modo a limpiar la reputación del cuerpo. Sin embargo, tras detectar una irregularidad en el expediente, Mikami acabará desvelando el móvil de un delito que encierra secretos inimaginables.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Hideo Yokoyama&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-02T20:06:33.056556+00:00"/>
+        <meta name="calibre:title_sort" content="Seis Cuatro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

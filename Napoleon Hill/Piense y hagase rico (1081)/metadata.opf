@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1081</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e4eb2be-0da9-4a0b-938d-bb11c27c4520</dc:identifier>
+        <dc:title>Piense y hágase rico</dc:title>
+        <dc:creator opf:file-as="Napoleon Hill" opf:role="aut">Napoleon Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-18T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;I&gt;&lt;B&gt;Piense y hágase rico&lt;/B&gt;&lt;/I&gt;&lt;B&gt; es una obra diseñada para arrastrar al triunfo, entendido no solo como triunfo económico, sino, sobre todo, como logro de íntima satisfacción que permite el equilibrio personal.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Es así de sencillo: la riqueza y la realización personal están al alcance de todas aquellas personas que lo desean; basta simplemente con desvelar un secreto, el secreto del éxito. Napoleon Hill aprendió este secreto del famoso industrial, filántropo y escritor Andreus Carnegie, y lo sistematizó para hacerlo accesible en &lt;I&gt;Piense y hágase rico&lt;/I&gt;.&lt;/P&gt; &lt;P&gt;&lt;B&gt;Reseña:&lt;/B&gt;&lt;BR&gt;«Un libro excelente. Si aprendes a hacer que el dinero trabaje para ti, tu vida será más sencilla y feliz.»&lt;BR&gt;&lt;B&gt;Robert Kiyosaki&lt;/B&gt;&lt;/P&gt;</dc:description>
+        <dc:publisher>DEBOLS!LLO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466353151</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-11-20T19:26:24.363980+00:00"/>
+        <meta name="calibre:title_sort" content="Piense y hágase rico"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

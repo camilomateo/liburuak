@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2695</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65cc08a7-5340-4ed0-ba2b-3b8795e47a54</dc:identifier>
+        <dc:title>Una pluma en el aire</dc:title>
+        <dc:creator opf:file-as="Beigbedere, Alejandra" opf:role="aut">Alejandra Beigbedere</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-17T00:00:00+00:00</dc:date>
+        <dc:description>El apasionante relato de la Argentinita, una mujer que quería bailar por encima de todo. Una oda al arte, a la amistad y a la libertad.El día en que la Argentinita sube por primera vez a un escenario, con tan solo cuatro años, descubre que bailar es su destino y que quiere dedicarse a ello hasta su último aliento. Con sus pasos y su voz cautivará al mundo entero, y conocerá a las mentes más brillantes de su época: trabará una gran amistad con García Lorca, asistirá a las mejores fiestas flamencas y vivirá un apasionado romance con el torero Ignacio Sánchez-Mejías, aunque también sufrirá dolorosas pérdidas. Su talento la llevará de París a Buenos Aires, desde los cafés de Málaga hasta los escenarios de Nueva York, al tiempo que en su propio país se inicia una durísima guerra civil. Frente al miedo, esta fascinante mujer se aferrará a lo que siempre la ha sostenido: el baile.</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-31T16:50:32.243143+00:00"/>
+        <meta name="calibre:title_sort" content="pluma en el aire, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

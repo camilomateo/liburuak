@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">417</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">132b7abf-8957-41c2-9c22-9c68b7ff7edb</dc:identifier>
+        <dc:title>La cuarta chica por la izquierda</dc:title>
+        <dc:creator opf:file-as="Martín, Andreu" opf:role="aut">Andreu Martín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Primera Guerra Mundial.&lt;/strong&gt; Mientras las principales ciudades europeas se desangran en el conflicto, &lt;strong&gt;Barcelona&lt;/strong&gt; es una de las grandes perlas del Mediterráneo. A pesar de su condición de territorio neutral, nadie ignora que en la costa hay puertos donde proveerse ilegalmente de combustible y víveres, con el beneplácito de las autoridades locales, y que en el cabo de Ixent llegan submarinos alemanes donde se cuecen todo tipo de intereses y conflictos con &lt;strong&gt;servicios secretos, agentes dobles y espías de ambos bandos&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;En el centro neurálgico de esta Barcelona en plena ebullición urbanística, con el ruido de las calles, el fragor de los bares, el juego del casino y los espectáculos nocturnos, llega Amadeu, un muchacho de pueblo, que busca una bailarina con quien su padre había vivido una extraña aventura. Solo tiene una pista: &lt;strong&gt;es la cuarta chica por la izquierda de una fotografía&lt;/strong&gt; que guarda en el bolsillo de la chaqueta. Enseguida descubre que se llama Amanda Rogent y que se exhibe en el &lt;strong&gt;Moulin Rouge&lt;/strong&gt; : toda una vedet a quien le encanta escandalizar. Amadeu necesita encontrar respuestas, pero descubrir la verdad no siempre es lo mejor que te puede ocurrir…&lt;/p&gt;
+&lt;p&gt;Después de títulos como &lt;em&gt;El Harén del Tibidabo&lt;/em&gt; , &lt;em&gt;Todos te recordarán&lt;/em&gt; , &lt;em&gt;La favorita del Harén&lt;/em&gt; y &lt;em&gt;Vais a decir que estoy loco&lt;/em&gt; , Andreu Martín vuelve a Alrevés con una novela retrospectiva, ambientada en la excitante Barcelona de las primeras décadas del siglo XX.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Alrevés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418584947</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Andreu Martín&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-14T15:30:29.245954+00:00"/>
+        <meta name="calibre:title_sort" content="cuarta chica por la izquierda, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

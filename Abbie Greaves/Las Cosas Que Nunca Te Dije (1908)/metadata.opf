@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1908</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18163b13-7f38-4dae-8e45-85a2f8b9ad01</dc:identifier>
+        <dc:title>Las Cosas Que Nunca Te Dije</dc:title>
+        <dc:creator opf:file-as="Abbie Greaves" opf:role="aut">Abbie Greaves</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Frank no ha hablado con su esposa Maggie en los últimos seis meses. Durante semanas han vivido bajo el mismo techo, dormido en la misma cama y comido en la misma mesa, todo sin cruzar palabra. Maggie tiene varias ideas sobre por qué ha callado su esposo. Pero hará falta otro giro desgarrador de los acontecimientos antes de que Frank finalmente comience a desentrañar los secretos que lo han silenciado.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;¿Es aquí donde termina su historia? ¿O es donde comienza?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Toda una vida juntos. Seis meses de silencio. Una última oportunidad.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08PS564Y6</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788467061369</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:34:01.741126+00:00"/>
+        <meta name="calibre:title_sort" content="Las Cosas Que Nunca Te Dije"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

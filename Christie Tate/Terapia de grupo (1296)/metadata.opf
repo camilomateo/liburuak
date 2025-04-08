@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8791660-2a85-438a-b96f-8d21f7b833db</dc:identifier>
+        <dc:title>Terapia de grupo</dc:title>
+        <dc:creator opf:file-as="Tate, Christie" opf:role="aut">Christie Tate</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-17T14:09:18+00:00</dc:date>
+        <dc:description>Como si fuera la protagonista de una novela, Christie Tate nos habla sin tapujos del trauma, desmitificando la terapia de grupo y desestigmatizando la salud mental.El testimonio emocionante, descarnado y divertido de una mujer en busca del amor y la estabilidad emocional.Christine Tate es una estudiante brillante, ha vencido un trastorno alimentario y tiene la vida por delante. Y se siente sola, tanto que cree que morir es la única salida para ponerle fin a esa soledad. Busca ayuda y llega hasta un psicólogo que la empuja a comenzar terapia en grupo para compartir sus problemas con otras personas que a su vez harán lo mismo con ella. De esta manera, si uno es honesto y deja de lado los secretos, establecerá relaciones reales y privadas en las que no podrá esconderse. Así comienza la andadura de Christine en los grupos de terapia. Porque para confiar en uno mismo, hay que confiar también en los demás. «Cada página de estas increíbles memorias me hacían pensar "Ojalá lo hubiera...</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423363032</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-15T08:02:27.545299+00:00"/>
+        <meta name="calibre:title_sort" content="Terapia de grupo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

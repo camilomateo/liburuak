@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf4b8081-b978-4b5a-bc2d-5b4fdad721d2</dc:identifier>
+        <dc:title>Salvini &amp; Meloni</dc:title>
+        <dc:creator opf:file-as="Daniel Vicente Guisado &amp; Jaime Bordel Gil" opf:role="aut">Daniel Vicente Guisado</dc:creator>
+        <dc:creator opf:file-as="Daniel Vicente Guisado &amp; Jaime Bordel Gil" opf:role="aut">Jaime Bordel Gil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-05T21:09:08+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;Matteo
+ Salvini y Giorgia Meloni son los hijos de un nuevo siglo en el que la 
+derecha radical parece que avanza inexorablemente hacia el gobierno. 
+Salvini ya estuvo en el poder, Meloni también, hace más de diez años, de
+ la mano de Silvio Berlusconi. Hoy, todo indica que podrían gobernar sin
+ el apoyo de la Forza Italia de Berlusconi.&lt;/p&gt;&lt;p&gt;¿Cómo es 
+posible que hoy dos partidos radicales ocupen todo el espacio de la 
+derecha italiana? ¿Qué entendemos por partidos radicales populistas de 
+derecha? ¿Qué los distingue de un partido de ultraderecha? ¿Qué 
+consecuencias tiene para Italia y Europa su apogeo y su más que posible 
+acceso al gobierno italiano?&lt;/p&gt;&lt;p&gt;Para entender cómo hemos
+ llegado a esta situación debemos remontarnos a la primera gran crisis 
+del sistema político republicano en Italia. A comienzos de los años 
+noventa del siglo pasado, Italia atravesaría una grave crisis política. 
+La mayoría de los dirigentes italianos se vieron implicados en una trama
+ de corrupción que les obligó a dejar la política y entre 1992 y 1994 el
+ país se vio sumergido en un interregno del que emergerían los más 
+diversos fenómenos.&lt;/p&gt;&lt;p&gt;Silvio Berlusconi, la Lega Nord 
+de Umberto Bossi y la Alleanza Nazionale de Gianfranco Fini fueron las 
+primeras consecuencias. Después vendrían Matteo Salvini, el Movimento 5 
+Stelle, y, por último, Giorgia Meloni. Y es que casi treinta años 
+después, los ecos de Tangentopoli siguen resonando en el laboratorio 
+político italiano.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Apostroph</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-25T11:33:03.859917+00:00"/>
+        <meta name="calibre:title_sort" content="Salvini &amp; Meloni"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

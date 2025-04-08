@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f9fd3da-8dd8-423d-b6a1-f9f78deaa47d</dc:identifier>
+        <dc:title>La vulnerabilidad del azar</dc:title>
+        <dc:creator opf:file-as="BENAVIDES, FERNANDO" opf:role="aut">Fernando Benavides</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-27T23:00:00+00:00</dc:date>
+        <dc:description>Por el creador de Fausto, el podcast true crime más escuchado en América Latina.Estado de México: el hallazgo del cadáver calcinado de una mujer con las manos atadas y una pierna fracturada marca el inicio de una macabra serie de crímenes. Los agentes Moreira y Zapata, dos judiciales veteranos convencidos de haberlo visto todo, son asignados al caso. Aunque al principio creen que será una investigación de rutina, a medida que las pistas se agotan y más cuerpos comienzan a aparecer sus esperanzas de atrapar al asesino se desmoronan.La vulnerabilidad del azar se aleja de los estereotipos del género al explorar todas las facetas de un crimen: desde la brutalidad de los homicidios y el dolor experimentado por las familias de las víctimas, hasta el día a día de los detectives, sus dilemas personales y los obstáculos que deben vencer cuando se enfrentan a superiores incompetentes y un sistema judicial pervertido. Esta historia desentierra la investigación real sobre un violento...</dc:description>
+        <dc:publisher>Destino México</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-16T07:08:28.657152+00:00"/>
+        <meta name="calibre:title_sort" content="vulnerabilidad del azar, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

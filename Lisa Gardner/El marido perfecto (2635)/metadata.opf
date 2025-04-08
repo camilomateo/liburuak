@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2635</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b20f4e6-39dd-447c-9a16-f4a69b172a91</dc:identifier>
+        <dc:title>El marido perfecto</dc:title>
+        <dc:creator opf:file-as="Gardner, Lisa" opf:role="aut">Lisa Gardner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;br&gt;El condecorado policía Jim Beckett era todo lo que Tess había 
+soñado… Pero dos años después de que casarse con él y dar a luz a su 
+hija, descubrió que su marido ocultaba un oscuro secreto y ayudó a 
+meterlo entre rejas por asesinar de forma salvaje a diez mujeres. 
+Incluso encerrado en una prisión de máxima seguridad, él juró que iría a
+ por ella y se lo haría pagar. Ahora, Jim ha escapado, y comienza el 
+juego más peligroso de todos…&lt;br&gt;&lt;br&gt;Después de toda una vida de temor, 
+Tess hará todo para proteger a su hija y defenderse. Para ello, 
+contratará a un exmarine hundido. A medida que la mayor cacería humana 
+que se haya visto jamás en cuatro estados se moviliza para atrapar a 
+Beckett, el tiempo avanza hacia el aterrador reencuentro entre marido y 
+mujer. Y Tess sabe que, esta vez, sus únicas opciones son morir… o 
+matar.&lt;/div&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-21T14:01:14.672139+00:00"/>
+        <meta name="calibre:title_sort" content="marido perfecto, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

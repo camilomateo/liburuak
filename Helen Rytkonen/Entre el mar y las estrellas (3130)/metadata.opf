@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">525ba7a9-4ed1-48fc-a9a4-32c9a7270650</dc:identifier>
+        <dc:title>Entre el mar y las estrellas</dc:title>
+        <dc:creator opf:file-as="Rytkönen, Helen" opf:role="aut">Helen Rytkönen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Él sueña con alcanzar las estrellas. Ella tiene los pies en la tierra. Juntos se verán envueltos en un romance tan profundo como el océano que los separa. Marcos es un hombre que ama su trabajo, siempre con la palabra perfecta para quienes lo rodean, pero últimamente no la encuentra para sí mismo. Amaia es un genio de la informática que prefiere vivir en ese solitario mundo de unos y ceros, donde se siente segura, antes que afrontar la vida real. Aunque nunca se han visto, ambos se han hecho amigos tras años trabajando juntos. Por eso, cuando Marcos desaparece de repente, Amaia decide saltarse todas sus reglas para asegurarse de que está bien. Sin embargo, lo que no espera es que, al encontrarlo, su misterioso colega resulte ser alguien que le rompa por completo los esquemas. En la mágica isla de Lanzarote, los dos aprenderán a arriesgarse y a vivir intensamente mientras descubren un amor más luminoso que las estrellas que contemplan desde lados opuestos del océano. En la tercera entrega de la serie Atlántica, Helen Rytkönen nos adentra en la historia de Marcos, el más sensible y enigmático de los hermanos Olivares. Una novela que nos hace viajar con la imaginación y, sobre todo, con el corazón.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Atlántica"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-03-06T16:54:51.095036+00:00"/>
+        <meta name="calibre:title_sort" content="Entre el mar y las estrellas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

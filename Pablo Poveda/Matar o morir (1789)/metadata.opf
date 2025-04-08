@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1789</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37e1df70-e075-4bd1-a05e-196db60201d3</dc:identifier>
+        <dc:title>Matar o morir</dc:title>
+        <dc:creator opf:file-as="Pablo Poveda" opf:role="aut">Pablo Poveda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-04T23:00:00+00:00</dc:date>
+        <dc:description>Prometió no hacer preguntas, pero ella abrió la caja de Pandora. Ahora un sicario profesional anda suelto y los servicios han puesto precio a su cabeza. Dana Laine tiene que evitar el desastre.  
+  
+La tensión del Brexit y los ataques terroristas que han sembrado el miedo en Europa, han convertido la capital británica en un nido de culebras.  
+  
+Los agentes Laine y Ponce viajan a Londres para colaborar con el MI5 inglés, en un extraño robo organizado de criptomonedas.  
+  
+Cuando dan con la primera pista de quién puede estar detrás, un atentado bomba pone sus vidas en juego.  
+  
+Laine descubre que les han ocultado la verdad.  
+  
+Una operación clasificada. Un trabajo sin terminar.  
+  
+Dos opciones: matar o morir.</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Dana Laine"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:15.889020+00:00"/>
+        <meta name="calibre:title_sort" content="Matar o morir"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

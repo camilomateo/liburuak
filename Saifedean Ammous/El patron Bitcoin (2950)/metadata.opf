@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45bf29d1-01ba-433b-a511-82659eb7d1d2</dc:identifier>
+        <dc:title>El patrón Bitcoin</dc:title>
+        <dc:creator opf:file-as="Ammous, Saifedean" opf:role="aut">Saifedean Ammous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Pasado, presente y futuro del dinero: de las piedras al Bitcoin&lt;/b&gt;&lt;/p&gt;
+
+    &lt;p&gt;La crisis financiera ha dejado un poso general de desconfianza en la sociedad. Todo lo que tiene que ver con el mundo financiero es visto con un recelo no siempre justificado y, en este caldo de cultivo, han nacido las llamadas criptomonedas. Partiendo de esta premisa, el profesor y economista Saifedean Ammous explica, con afán pedagógico, la historia del dinero y expone por qué el futuro pertenece al Bitcoin, entre otras criptomonedas.&lt;/p&gt;
+
+    &lt;p&gt;Si los males del sistema financiero y monetario tienen que ver con la inestabilidad, la fragilidad o la creación de burbujas de activos, las criptomonedas, lejos de agravar estas críticas generalizadas, pueden ayudar a mitigarlas. Frente al intervencionismo, el Bitcoin, gracias a la tecnología blockchain que lo sustenta, ofrece un servicio de pago confiable, seguro, llamado a plantar cara al monopolio monetario de los bancos centrales.&lt;/p&gt;
+
+    &lt;p&gt;Desde las piedras preciosas hasta las monedas de curso corriente, pasando por el patrón oro y las burbujas de expansión crediticia, la historia del dinero es la de crisis y rupturas que buscan ser superadas, y este libro argumenta por qué podemos creer que el Bitcoin puede llegar a ser la solución a este problema histórico.&lt;/p&gt;
+
+    &lt;p&gt;&lt;i&gt;Una lectura fascinante.&lt;/i&gt;&lt;br/&gt;Del prólogo de &lt;b&gt;Nassim Nicholas Taleb&lt;/b&gt;, autor de &lt;i&gt;El cisne negro&lt;/i&gt;.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">63108</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Economía</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:25:06.345629+00:00"/>
+        <meta name="calibre:title_sort" content="patrón Bitcoin, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3013</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42f169f0-baca-47b3-b13a-94269bd01898</dc:identifier>
+        <dc:title>El hombre del Bicentenario</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1976-04-29T23:00:00+00:00</dc:date>
+        <dc:description>Este volumen, publicado en conmemoración de casi medio siglo de trabajo literario de ISAAC ASIMOV, contiene once relatos recientes, incluido el popular EL HOMBRE DEL BICENTENARIO (que a su vez conmemora Sa declaración de la Independencia norteamericana, 1777-1977), que ha merecido el premio HUGO como mejor cuento largo del año en cuestión. Es la conmovedora historia de un robot de talento llamado Andrew, y de sus esfuerzos por ser aceptado entre los mortales, cuya reacción ante el era, tristemente, sólo humana. Pero hay más; desde juegos matemáticos hasta enfrentamientos a vida o muerte, estos cuento^ ofrecen una completa panorámica del paisaje asimoviano: INTUICIÓN FEMENINA — TROMBA DE AGUA — OUE ES EL HOMBRE — UN EXTRAÑO EN EL PARAISO — VIDA Y TIEMPOS DE MULTIVAC — LA CRIBA — EL HOMBRE DEL BICENTENARIO — CUANDO LOS SANTOS — UN SISTEMA ANTICUADO — EL INCIDENTE DEL TERCENTENARIO — NACE UNA IDEA.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:series" content="Super Ficción"/>
+        <meta name="calibre:series_index" content="35"/>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:52.512332+00:00"/>
+        <meta name="calibre:title_sort" content="hombre del Bicentenario, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

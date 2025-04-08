@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b412e12-29b0-4516-9d70-a45e8f1e961b</dc:identifier>
+        <dc:title>Lo que no cuentan los muertos</dc:title>
+        <dc:creator opf:file-as="Inés Plana" opf:role="aut">Inés Plana</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Rita Marí, la heredera de una gran fortuna, sobrevivió a un accidente aéreo en el que murieron tres amigas suyas. Desde entonces, alejada de su marido e hijos, hundida en la culpa, vive recluida en su mansión al borde del mar, en Valencia. Un año después de la catástrofe, Rita desaparece sin dejar rastro y Julián Tresser, antes teniente y ahora capitán de la Guardia Civil de la UCO, protagonista de las dos novelas anteriores de Inés Plana, se traslada desde Madrid con su equipo para investigar el caso.&lt;br&gt;Ante él se alza un muro de incógnitas. ¿Quién era en realidad la esquiva Rita Marí? ¿Su desaparición ha sido voluntaria? ¿Quiénes&lt;br&gt;eran los enemigos de esa mujer solitaria y depresiva? Pero, sobre todo, ¿será capaz Julián, también un superviviente de su propio pasado, de descifrar las claves ocultas de la desaparición y afrontar los retos de su presente?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Teniente Tresser"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:15.907226+00:00"/>
+        <meta name="calibre:title_sort" content="que no cuentan los muertos, Lo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

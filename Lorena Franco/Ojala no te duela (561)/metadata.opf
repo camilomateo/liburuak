@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">561</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15f16a29-eb69-4a5b-a92e-90bdb586373c</dc:identifier>
+        <dc:title>Ojalá no te duela</dc:title>
+        <dc:creator opf:file-as="Franco, Lorena" opf:role="aut">Lorena Franco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-10T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;DETRÁS DE UNA DESAPARICIÓN SIEMPRE HAY ALGUIEN QUE OCULTA UNA HISTORIA &lt;br&gt;&lt;br&gt;Barcelona, 1994. Manuel Santos, un albañil de vida sencilla, cobró en efectivo diez millones de pesetas gracias a un décimo premiado en el Gordo de la lotería de Navidad, y se esfumó como si se lo hubiera tragado la tierra.&lt;br&gt;&lt;br&gt;Veinticuatro años más tarde, después de muchas elucubraciones, desentierran los restos de Manuel del terreno contiguo al bloque de edificios donde vivía con su mujer y sus tres hijos. En su cartera encuentran un papel con un nombre escrito que ha sobrevivido al paso del tiempo y a las circunstancias: Nieves Villegas, una incógnita para la familia de la víctima.&lt;br&gt;&lt;br&gt;Érica, la hija pequeña de Manuel, famosa presentadora de televisión en Miami, regresa a Barcelona con la obsesión de descubrir quién mató a su padre, destapando secretos y mentiras familiares hasta llegar a un final impactante y sobrecogedor.&lt;br&gt;&lt;br&gt;LO TENÍA TODO, SALVO LA VERDAD&lt;br&gt;SI NO PUEDES CONFIAR NI EN TU PROPIA FAMILIA, ¿QUIÉN TE QUEDA?&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-17T11:30:19.421545+00:00"/>
+        <meta name="calibre:title_sort" content="Ojalá no te duela"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

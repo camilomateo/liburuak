@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd70d59e-7d8b-487a-9c98-3afd4574cd29</dc:identifier>
+        <dc:title>El Palacio de la Medianoche</dc:title>
+        <dc:creator opf:file-as="Carlos Ruiz Zafón" opf:role="aut">Carlos Ruiz Zafón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-27T06:00:00+00:00</dc:date>
+        <dc:description>Calcuta, 1932: El corazón de las tinieblas. Un tren en llamas atraviesa la ciudad. Un espectro de fuego siembra el terror en las sombras de la noche. Pero eso no es más que el principio. En la víspera de cumplir 16 años, Ben, Sheere y sus amigos deberán enfrentarse al más terrible y mortífero enigma de la historia de la ciudad de los palacios.</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408095491</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-07T17:32:14.366456+00:00"/>
+        <meta name="calibre:title_sort" content="Palacio de la Medianoche, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

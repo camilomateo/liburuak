@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a971eda-4257-48a9-bff5-837b6c80f229</dc:identifier>
+        <dc:title>Falcó</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-19T05:00:00+00:00</dc:date>
+        <dc:description>«El mundo de Falcó era otro, y allí los bandos estaban perfectamente definidos: de una parte él, y de la otra todos los demás».&lt;br/&gt;La Europa turbulenta de los años treinta y cuarenta del siglo XX es el escenario de las andanzas de Lorenzo Falcó, excontrabandista de armas, espía sin escrúpulos, agente de los servicios de inteligencia. Durante el otoño de 1936, mientras la frontera entre amigos y enemigos se reduce a una línea imprecisa y peligrosa, Falcó recibe el encargo de infiltrarse en una difícil misión que podría cambiar el curso de la historia de España. Un hombre y dos mujeres —los hermanos Montero y Eva Rengel— serán sus compañeros de aventura y tal vez sus víctimas, en un tiempo en el que la vida se escribe a golpe de traiciones y nada es lo que parece.</dc:description>
+        <dc:publisher>Libros4</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.4</dc:identifier>
+        <dc:identifier opf:scheme="EPL">33289</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arturo Pérez-Reverte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Falcó"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:27:14.477987+00:00"/>
+        <meta name="calibre:title_sort" content="Falcó"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

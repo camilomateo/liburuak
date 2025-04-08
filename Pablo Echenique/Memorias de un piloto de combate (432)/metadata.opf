@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">432</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb6b5969-f7f2-4e77-b83a-28fcd1c0c560</dc:identifier>
+        <dc:title>Memorias de un piloto de combate</dc:title>
+        <dc:creator opf:file-as="Echenique, Pablo" opf:role="aut">Pablo Echenique</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-16T00:43:08+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;span class="a-text-bold"&gt;&lt;b&gt;Pablo
+ Echenique aborda con sorprendente transparencia la lucha fratricida de 
+la izquierda en los últimos años, el fin del bipartidismo y la 
+negociación del primer gobierno de coalición en España, el ejercicio del
+ poder y la vida privada de un científico con severos problemas de 
+movilidad que le han permitido mirar al mundo con ojos tranquilos y 
+razonablemente felices.&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;«Un ejercicio de honestidad y
+ humanidad brutal y delicioso a partes iguales. La historia de alguien 
+que eligió cambiar a mejor la vida de la gente, antes que recibir el 
+aplauso de los grandes medios de comunicación. El humor mordaz de 
+Echenique hará reír a los más reacios y sorprenderá a quienes no le 
+conocen». &lt;span class="a-text-bold"&gt;Ione Belarra&lt;/span&gt;&lt;br&gt;«La
+ vida de Pablo Echenique ha sido una sucesión de retos que ha afrontado 
+con sentido del humor y coraje. Una experiencia que merece la pena leer.
+ Podrás discrepar de él, pero seguro que reconocerás su trayectoria». &lt;span class="a-text-bold"&gt;Félix Bolaños&lt;/span&gt;&lt;br&gt;«Echenique
+ escribe desde un lugar incómodo con vistas privilegiadas para confirmar
+ que lo personal es político, histórico y comunitario. Unas memorias 
+escritas por un científico humanista que sabe cómo funcionan las cosas 
+y, también, cómo contarlo. Una delicia agridulce. Gracias, Pablo». &lt;span class="a-text-bold"&gt;Bob Pop&lt;/span&gt;&lt;br&gt;«Una
+ figura esencial para entender la política del siglo XXI. Una persona 
+que trasciende al político. Echenique y Pablo, juntos en un libro 
+atravesado por una humanidad trepidante». &lt;span class="a-text-bold"&gt;Ana Pardo de Vera&lt;/span&gt;&lt;br&gt;«Un
+ paseo por la trayectoria vital de alguien que entiende la política como
+ un oficio y, sobre todo, como un servicio a la ciudadanía. Echenique 
+trenza su relato autobiográfico con tintes de humor, provocación y altas
+ dosis de crítica (y cierta autocrítica)». &lt;span class="a-text-bold"&gt;Salvador Illa&lt;/span&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Arpa Editores</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-03-14T15:53:30+00:00"/>
+        <meta name="calibre:title_sort" content="Memorias de un piloto de combate"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

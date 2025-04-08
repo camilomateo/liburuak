@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">97</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a481738-7416-4445-8209-849d05a52886</dc:identifier>
+        <dc:title>Código Nueva York</dc:title>
+        <dc:creator opf:file-as="Carlos Basso Prieto" opf:role="aut">Carlos Basso Prieto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Tercera aventura del espía del Vaticano, Alberto Prat, que sale de su retiro para enfrentar un nuevo misterio que lo llevará de Nueva York a una legendaria cueva al sur de Chile. El exagente secreto Alberto Prat vuelve a ponerse a las órdenes del Vaticano para resolver el enigma detrás de una reliquia protegida hace años por los jesuitas y que ahora lo vuelve a poner en peligro a él junto a sus amigos más cercanos. La historia parte en Nueva York, donde tras la pandemia Prat, más viejo y cansado, se ve envuelto el crimen de un famoso millonario chileno y tendrá que enfrentar a un peligroso grupo de sicarios de alto nivel que están dispuestos a todo para conseguir unos antiguos documentos ligados a Isaac Newton y a la masonería. Desde tiroteos en el metro de Nueva York hasta persecuciones en el sur de Chile, son parte de una trama que también nos lleva al pasado, a la época del montonero Vicente Benavides entre 1813 y 1822 y su obsesión por una antigua reliquia cristiana que podría estar oculta en algún lugar de la provincia de Arauco.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial Chile</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08ZJVVXYR</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789569585760</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">HsokEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Carlos Basso Prieto&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="El espía del Vaticano"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:09:40.041370+00:00"/>
+        <meta name="calibre:title_sort" content="Código Nueva York"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3035</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb902604-e99d-4b32-a467-2154e34dc2f8</dc:identifier>
+        <dc:title>La búsqueda de los elementos</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1961-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Tenemos ante nosotros un nuevo libro de Isaac Asimov en que nos cuenta la historia de la investigación, durante 2600 años, para investigar la materia de que está compuesto el Universo. Desde Tales de Mileto hasta Seaborg de California, de la alquimia al ciclotrón, desde la búsqueda del secreto de convertir el plomo en oro a la fabricación de los elementos artificiales, todo ello ha constituido un relato fantástico de descubrimientos alocados, de falsificaciones y de ideas brillantes, todo lo cual nos proporciona una lectura de veras apasionante. Entre todos los héroes que han luchado por poner al día nuestro saber acerca de los elementos, podemos citar a Lavoisier, Mendéleiev, a los Curie… Pero también ocupan un destacado lugar los pensadores griegos; los alquimistas, con su piedra filosofal y sus elixires de larga vida; la magia en general… Luego, con Lavoisier, llamado con justeza el Padre de la Química, se producirá un nuevo inicio que, poco a poco, nos llevará a los tiempos actuales, en que el hombre ha sido capaz de producir elementos nuevos, bombardeando los elementos radiactivos y creando los transuránidos… Pero en ese camino han influido también la casualidad, los accidentes, las intuiciones brillantes (como descubrir el elementos helio antes en el Sol que en la Tierra), el perder y encontrar elementos, el encasillarlos en los huecos vacíos de la Tabla ideada por Mendéleiev… Con su visión científica y su bien conocido conocimiento de los valores dramáticos, el doctor Asimov hace llegar a nuestras manos el relato de toda esta crónica, a un tiempo científica y aventurera. En cierto modo, se trato de un libro que forma una densa historia de la Química, puesto que, en realidad, el desarrollo de dicha ciencia ha sido inspirado por la búsqueda y descubrimiento de los diferentes elementos. El libro está ilustrado con detalladas Tablas e Índices de los elementos conocidos, en los diversos períodos de investigación, hasta llegar a la actualidad con la ya rellena Tabla Periódica de los Elementos, configurada premonitoriamente por el químico Mendéleiev que previó, dejando las correspondientes casillas huecas, los elementos que todavía faltaban y que serían descubiertos un día u otro. En resumen, este libro apasionante nos ilustra y enseña, una vez más, como la tenaz labor del hombre le ha llevado a la brillantez de sus conocimientos actuales.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Ciencias exactas</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:56.540505+00:00"/>
+        <meta name="calibre:title_sort" content="búsqueda de los elementos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

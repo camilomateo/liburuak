@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2242a7fc-9977-445b-b86b-3c2ad5a6ca99</dc:identifier>
+        <dc:title>Cuando se apagan las luces</dc:title>
+        <dc:creator opf:file-as="Santos, Care" opf:role="aut">Care Santos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-06T06:00:00+00:00</dc:date>
+        <dc:description>El joven Eric sale del correccional de menores tras cuatro años de internamiento. Sin embargo, la reinserción en una sociedad cargada de prejuicios resultará una realidad todavía más dura: no volver a caer en la delincuencia cuando el entorno parece empeñado en ello, continuar los estudios, encontrar un trabajo, alejarse de su barrio. Xenia le ayudó a superar unas barreras que creía infranqueables, ¿pero será el amor una fuerza suficiente para superar las dificultades ahora.</dc:description>
+        <dc:publisher>Edebé</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002625</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">232</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-10T15:00:48.082538+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando se apagan las luces"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

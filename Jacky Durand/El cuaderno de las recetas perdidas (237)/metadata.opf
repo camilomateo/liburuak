@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">237</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eed16315-9cdb-46aa-ab71-e1e3474fbd11</dc:identifier>
+        <dc:title>El cuaderno de las recetas perdidas</dc:title>
+        <dc:creator opf:file-as="Jacky Durand" opf:role="aut">Jacky Durand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-23T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;Una preciosa novela sobre secretos familiares, recetas escondidas, amores perdidos y las pasiones que heredamos de nuestros padres. &lt;/p&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;¿Cuáles son los sabores que quedan grabados en nuestra memoria? &lt;/p&gt;
+&lt;p align="justify"&gt;Los recuerdos vuelven a Julien a fuego lento ahora que debe despedirse de su padre. De él heredó su pasión por la cocina, aunque teme que ya nunca sabrá por qué, siendo uno de los chefs más talentosos, Henry no quiso que su hijo siguiera sus pasos. Tampoco hablaron jamás de por qué la madre de Julien los abandonó de manera repentina, ni de qué fue del apreciado cuaderno de recetas donde el chef guardaba los secretos de sus platos. &lt;/p&gt;
+&lt;p align="justify"&gt;Ese cuaderno obsesiona a Julien y está decidido a encontrarlo. Entre sus páginas se esconden los sabores y aromas que marcaron su infancia, pero lo que él no puede imaginar es que su búsqueda podría develar muchos más secretos que los culinarios. &lt;/p&gt;
+&lt;p align="justify"&gt;&lt;strong&gt;Críticas:&lt;/strong&gt;&lt;br&gt;«Una maravillosa historia de amor para ser saboreada como una deliciosa comida».&lt;br&gt;&lt;em&gt;Le Parisien&lt;/em&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;«De la conmovedora novela de Jacky Durand emerge el aroma de un plato consistente, preparado a fuego lento en una olla vieja».&lt;br&gt;&lt;em&gt;L'observatoire&lt;/em&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;«Jacky Durand ha encontrado la receta del éxito. Con la maestría de los escritores más célebres, añade una buena pizca de amor a los secretos culinarios y familiares».&lt;br&gt;&lt;em&gt;L'Express&lt;/em&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;«Una novela dedicada al amor por la cocina sabrosa y generosa».&lt;br&gt;&lt;em&gt;Libération&lt;/em&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;«Una emotiva glosa a la relación entre padres e hijos. Una historia para deleitar el gusto, pero también el corazón».&lt;br&gt;&lt;em&gt;Le point&lt;/em&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;«Trincha el verbo, fríe los adjetivos, saltea las viejas palabras y hierve los nombres de la buena, tradicional e inmortal cocina francesa. También nos sirve una historia de amor como quien pone la mesa. Alegrías y tristezas están en el menú».&lt;br&gt;&lt;em&gt;Le Journal du Dimanche&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788425360176</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jacky Durand&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-02T11:04:16.943130+00:00"/>
+        <meta name="calibre:title_sort" content="El cuaderno de las recetas perdidas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87bbe318-ea20-44e6-bd36-910729a72f30</dc:identifier>
+        <dc:title>La heredera del mar</dc:title>
+        <dc:creator opf:file-as="Ferrándiz, Juan Francisco" opf:role="aut">Juan Francisco Ferrándiz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;1348. La Corona de Aragón vive una de sus épocas más convulsas. Una enfermedad terrible y desconocida llega al puerto de Barcelona y comienza a propagarse por sus calles cuando Marina Montaner, descendiente de un largo linaje de mercaderes valencianos, desembarca en una Ciudad Condal sumida en el caos. Huyendo de los secuaces del rey Pedro IV el Ceremonioso, la joven es perseguida por una afrenta de la que ha sido injustamente acusada.&lt;/p&gt;&lt;p&gt;Juan Francisco Ferrándiz, uno de los maestros de la novela histórica, nos traslada a un año clave de nuestro pasado en que la Guerra de la Unión, la primera revuelta de insubordinación a la Corona en España, coincidió con una terrible epidemia de peste que cambió el mundo. A lo largo de las páginas de esta obra trepidante seguiremos los pasos de Marina, una heroína inolvidable que surcará el Mediterráneo en busca de la forma de salvar a su familia.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">74864</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:11:24.408625+00:00"/>
+        <meta name="calibre:title_sort" content="heredera del mar, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

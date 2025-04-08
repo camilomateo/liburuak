@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1294</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2db4bb88-7b1a-4945-a189-1cea9b4fafae</dc:identifier>
+        <dc:title>El caballo ciego</dc:title>
+        <dc:creator opf:file-as="Boyle, Kay" opf:role="aut">Kay Boyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-23T05:30:45+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Esta extraordinaria novela corta retrata a una familia en 1938. A una joven, casi en el momento de convertirse en adulta, le regalan un caballo castrado y repentinamente ciego. La madre está decidida a sacrificarlo; su hija, a salvarlo. El caballo es el significante central en una lucha triangular y casi freudiana entre un padre, artista fracasado y alcohólico, una madre castradora y pragmática, y una hija que busca su independencia pero no puede permitírsela.&lt;/p&gt;
+&lt;p&gt;Una ficción de la familia como campo de batalla, en la que todas las conversaciones transcurren en un campo de minas. Una brillante combinación de observaciones agudas, tensión in crescendo y conciencia moral: sencilla en la superficie y compleja en el fondo.&lt;/p&gt;
+&lt;p&gt;La autora, que rehuyó ser adscrita a la Generación Perdida, es una de las escritoras subestimadas del siglo XX, comparable sin embargo por su elaborada prosa a Virginia Woolf, James Joyce y William Faulkner.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Muñeca Infinita</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788412595628</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-15T08:02:27.020840+00:00"/>
+        <meta name="calibre:title_sort" content="caballo ciego, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

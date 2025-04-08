@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1218</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f61947d-78b5-41d3-b132-1138a08cd7a9</dc:identifier>
+        <dc:title>Tinta y fuego</dc:title>
+        <dc:creator opf:file-as="Olmo, Benito" opf:role="aut">Benito Olmo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-13T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¿Su pasión le ayudará a encontrar la biblioteca perdida o le hará dar un paso en falso? Su reputación está en juego y su vida también Greta es una reputada buscadora de libros raros y valiosos, aunque su popularidad ha caído en picado debido a la desaparición de una primera edición de Borges que debía tasar. Ahogada por las deudas y la desconfianza de sus allegados, acepta un encargo insólito: encontrar la biblioteca de la familia Fritz-Briones, perdida durante la Segunda Guerra Mundial. La investigación la conducirá hasta Berlín, donde constatará que los nazis llevaron a cabo el mayor robo de libros de la historia, pero también algo más: alguien está asesinando a bibliófilos, libreros y coleccionistas de todo el mundo para tratar de reconstruir la mítica Biblioteca de la Comunidad Judía de Roma, que fue saqueada y escondida por el Tercer Reich. Greta no podrá resistirse a este giro en la investigación. ¿Qué amante de los libros ignoraría el rastro de la legendaria colección? Poco importa que su vida pueda estar en peligro; lo que no sabe es que esta aventura la llevará a descubrir una verdad sobre sí misma para la que, quizás, no esté preparada.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>NdeNovela</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-20T15:09:06.311814+00:00"/>
+        <meta name="calibre:title_sort" content="Tinta y fuego"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

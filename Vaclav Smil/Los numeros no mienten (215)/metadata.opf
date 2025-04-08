@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">885aecf3-1813-4772-ae71-72a5810d5a13</dc:identifier>
+        <dc:title>Los números no mienten</dc:title>
+        <dc:creator opf:file-as="Vaclav Smil" opf:role="aut">Vaclav Smil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-22T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;Un maestro de los datos y las estadísticas ofrece una visión del mundo tan sorprendente como iluminadora.&lt;/b&gt;&lt;/p&gt; &lt;p&gt;¿Es
+ peligroso volar? ¿Qué es peor para el medioambiente, un coche o un  
+móvil? ¿Cuánto pesan todas las vacas del mundo juntos y por qué ese dato
+ importa? ¿Se puede medir la felicidad?&lt;/p&gt; &lt;p&gt;La misión de Vaclav Smil 
+es convencernos de que los hechos importan.  Científico medioambiental, 
+analista de políticas públicas y autor tremendamente prolífico, es el 
+referente de Bill Gates cuando se trata de entender el mundo.&lt;/p&gt; &lt;p&gt;En&lt;i&gt; Los números no mienten&lt;/i&gt;,
+ nos embarcamos con Smil en una  fascinante expedición en busca de datos
+ que desafían nuestras preconcepciones, al tiempo que nos invita a ver 
+con nuevos ojos el impacto de las transformaciones del mundo moderno 
+sobre la sociedad y el medioambiente. Basado en divertidos ejemplos, 
+estadísticas y gráficas asombrosas, este libro es la combinación 
+perfecta de ingenio, historia y ciencia quecambiará la manera en que 
+vemos el mundo.&lt;/p&gt; &lt;p&gt;Es posible que los números no mientan, pero ¿qué verdad transmiten?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>DEBATE</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-01-27T09:34:32+00:00"/>
+        <meta name="calibre:title_sort" content="números no mienten, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

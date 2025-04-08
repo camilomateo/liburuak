@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">722</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab7125a7-d170-473c-b560-89a8ea0754e9</dc:identifier>
+        <dc:title>Ordénate la vida</dc:title>
+        <dc:creator opf:file-as="Oihane Cantabrana" opf:role="aut">Oihane Cantabrana</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;El orden que hay (o no hay) en nuestro hogar suele reflejar cómo nos sentimos por dentro. Los espacios ordenados invitan a la armonía y la paz mental; en cambio, en un lugar atiborrado de objetos es fácil que nuestra mente se distraiga.&lt;br&gt;Oihane Cantabrana, conocida como Ordenatrix, es experta en analizar el desorden de montones de hogares y familias, y en este libro nos revela las claves para conseguir dominar nuestros espacios y los objetos que los llenan, tanto si vivimos solos, en pareja o en familia. Además, aprenderemos que el orden no solo tiene que ver con dónde y cómo colocamos nuestras cosas, sino que también debemos aprender a controlar al consumista que llevamos dentro.&lt;br&gt;Con un montón de ideas prácticas y sencillas, en estas páginas descubriremos los mejores trucos para conseguir mantener ordenados los espacios y crear ambientes que nos aporten calma y bienestar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Zenith</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408269014</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:10:56.915128+00:00"/>
+        <meta name="calibre:title_sort" content="Ordénate la vida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

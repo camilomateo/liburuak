@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c6f0dbe-612c-40a6-b200-664ee097769b</dc:identifier>
+        <dc:title>Mira las luces, amor mio</dc:title>
+        <dc:creator opf:file-as="Annie Ernaux" opf:role="aut">Annie Ernaux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-09T05:00:00+00:00</dc:date>
+        <dc:description>Durante un año, Annie Ernaux llevó un diario de sus visitas al hipermercado Alcampo del centro comercial de Les Trois-Fontaines, en la región parisina. En él, anotó sus observaciones, esforzándose por dirigir una mirada nueva, por captar lo imperceptible. «Ver para escribir, es ver de otra manera», afirma. A ratos divertida, o enternecida, a ratos indignada, Annie va descifrando las estrategias comerciales, se rebela contra los estereotipos que descubre en cada sección, y describe el ballet ininterrumpido de empleados y clientes. El hipermercado, lejos de reducirse al lugar donde se hacen las compras, adopta aquí un rostro distinto: se convierte en un gran espacio de citas, en un auténtico espectáculo humano. Una captura impresionista del mundo de la gran distribución donde lo cotidiano se eleva a rango de sujeto literario.</dc:description>
+        <dc:publisher>Cabaret Voltaire</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419047069</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>S2</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Annie Ernaux&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-13T19:25:34.781991+00:00"/>
+        <meta name="calibre:title_sort" content="Mira las luces, amor mio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

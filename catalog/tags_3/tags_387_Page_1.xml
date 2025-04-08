@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>corta</title>
+  <id>Calibre2opds:taglist:C:387</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_387_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="corta" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_C_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por C" />
+  <entry>
+    <title>Crimen</title>
+    <id>calibre:book:2195</id>
+    <updated>2024-09-06T02:21:32Z</updated>
+    <link href="../../Agustin%20Espinosa/Crimen%20%282195%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Agustin%20Espinosa/Crimen%20%282195%29/Crimen%20-%20Agustin%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="85 KB" />
+    <author>
+      <name>Agustín Espinosa</name>
+      <uri>../authors_1/authors_1553_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Novela" />
+    <category term="corta" />
+    <category term="Surrealismo" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [15]:</summary>
+    <link href="../book_2/book_2195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El zorro</title>
+    <id>calibre:book:2488</id>
+    <updated>2024-09-09T10:34:41Z</updated>
+    <link href="../../D.%20H.%20Lawrence/El%20zorro%20%282488%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../D.%20H.%20Lawrence/El%20zorro%20%282488%29/El%20zorro%20-%20D.%20H.%20Lawrence.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="131 KB" />
+    <author>
+      <name>D. H. Lawrence</name>
+      <uri>../authors_1/authors_1612_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Novela" />
+    <category term="corta" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2488.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c0e0150-bce6-4f69-a444-85596a980619</dc:identifier>
+        <dc:title>El miedo duele</dc:title>
+        <dc:creator opf:file-as="Ponce, David" opf:role="aut">David Ponce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Un libro revelador que nos explica la influencia del miedo en 
+nuestra salud física y que nos enseña cómo aprender a controlarlo para 
+disfrutar de una vida mejor. David Ponce nos guía por el complejo 
+laberinto de nuestras emociones, mostrándonos cómo aquello que sentimos 
+puede ser tanto un veneno como un remedio para nuestro cuerpo. Ponce nos
+ descubre cómo el miedo puede reconfigurarse para sanar heridas 
+profundas, compartiendo no solo teorías científicas, tratamientos 
+innovadores y consejos prácticos que nos ayudan a mejorar la calidad de 
+vida, sino también su experiencia, sus propias batallas y triunfos de 
+una manera profundamente personal. El miedo duele no promete soluciones 
+fáciles. Nos ayuda a entender la relación intrínseca entre las 
+preocupaciones del alma y las tensiones físicas que experimentamos y, 
+sobre todo, cómo el miedo modela nuestra realidad.&lt;/p&gt;</dc:description>
+        <dc:publisher>Plataforma Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410243323</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Familia y salud</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:56.461290+00:00"/>
+        <meta name="calibre:title_sort" content="miedo duele, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">563</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8a758b7-9320-405d-8ef7-18f206ea3ed6</dc:identifier>
+        <dc:title>Cuando te falte el aire</dc:title>
+        <dc:creator opf:file-as="Campos, Úrsula" opf:role="aut">Úrsula Campos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-11T22:00:00+00:00</dc:date>
+        <dc:description>Zaragoza, noviembre de 2018. Tras el asalto en plena noche al Instituto de Salud Pública, la policía descubre que han robado una serie de vacunas y han destrozado el despacho de Quina Larrea, jefa del Servicio de Epidemiología. Mientras Quina investiga la muerte de un joven para descartar una enfermedad infecciosa que se creía erradicada, la inspectora Lysander tratará de averiguar quién está detrás del asalto. A partir de ese momento, la vida de Quina se tambalea y solo puede contar con el apoyo de Álex, una nueva epidemióloga que la ayudará en sus pesquisas.</dc:description>
+        <dc:publisher>Maeva Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="13ID">50002309</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">304</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Larrea &amp; Lysander"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-04-17T11:30:20.268958+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando te falte el aire"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

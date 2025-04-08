@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07960103-93ea-4c2d-bd72-8d7b8f79b2db</dc:identifier>
+        <dc:title>Isla negra</dc:title>
+        <dc:creator opf:file-as="Toni Montserrat" opf:role="aut">Toni Montserrat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Inspirada en un terrible crimen real,&lt;/strong&gt; Isla negra &lt;strong&gt;lleva a la Ibiza rural del siglo XIX una novela policiaca única y sorprendente.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La noche del 26 de diciembre de 1863 mueren brutalmente asesinados el párroco de la iglesia rural de Sant Jordi, en Ibiza, y su criado. Estos crímenes agitan la vida de los isleños y alarman a las autoridades de la provincia, que claman ante la barbarie y el vandalismo de los ibicencos. Lo extraordinario de las muertes y la falta de avances obligan al Gobierno central a recurrir a Marc Guasch, un investigador que oculta un vínculo con la isla. A medida que avanza en sus pesquisas, Guasch descubre la realidad de una tierra olvidada en la que todo el mundo parece ocultar algo y puede ser culpable de los atroces asesinatos.&lt;/p&gt;
+&lt;p&gt;En su emocionante ópera prima, Toni Montserrat, nacido y residente en Ibiza, aúna la ambientación rigurosa de un periodo desconocido de la isla con la intriga de la mejor novela negra. El resultado es una adictiva trama detectivesca que el lector no podrá abandonar.&lt;/p&gt;
+&lt;p&gt;Toni Montserrat (Ibiza, 1974) es licenciado y máster en Administración y Dirección de Empresas por la ESADE y ha trabajado como consultor de negocios en Barcelona, Ciudad de México, Milán y Turín, donde también ha residido. Apasionado del arte, lector precoz, inquieto, curioso y emprendedor, se inició en la música siendo un niño, ha experimentado con la pintura y diseñado su propia marca de camisas durante 15 años, pero ha sido en la literatura donde ha encontrado su verdadera vocación artística. &lt;em&gt;Isla negra&lt;/em&gt; es su primera novela.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janes</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">8401030587</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788401030581</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">8Aq6EAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-09T11:41:42.429249+00:00"/>
+        <meta name="calibre:title_sort" content="Isla negra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

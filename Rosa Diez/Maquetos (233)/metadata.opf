@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">233</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f345a832-b531-49ca-804f-487a67c6ec90</dc:identifier>
+        <dc:title>Maquetos</dc:title>
+        <dc:creator opf:file-as="Rosa Díez" opf:role="aut">Rosa Díez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;Escrito desde el corazón y la memoria, &lt;span class="a-text-italic"&gt;Maquetos&lt;/span&gt;
+ es la historia de tres generaciones de una familia, la de Rosa Díez, 
+que fueron tratados como extraños en el País Vasco. Es el ejemplo de 
+cómo el franquismo, primero, y el nacionalismo, después, señalaron como 
+extranjeros (maquetos) a quienes llegaban a esa tierra de otros lugares 
+de España, expulsados de su casa por las penurias de la guerra o 
+buscando una vida mejor, algo que ha continuado de generación en 
+generación.&lt;/p&gt;&lt;p&gt;Más allá de los acontecimientos políticos
+ en los que se enmarca el relato y de los hechos que acaecieron en esos 
+años, la autora transmite con honda emoción el dolor por la doble 
+injusticia que padecieron muchos miles de compatriotas a los que el 
+franquismo consideró malos españoles y el nacionalismo señaló como malos
+ vascos.&lt;/p&gt;&lt;p&gt;Una lectura imprescindible. Una historia escrita para que nadie olvide.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>La Esfera de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09RKM37CH</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Rosa Díez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-27T11:05:01.494219+00:00"/>
+        <meta name="calibre:title_sort" content="Maquetos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

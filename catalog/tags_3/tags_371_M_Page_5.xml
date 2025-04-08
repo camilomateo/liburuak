@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por M</title>
+  <id>Calibre2opds:taglist:L:371:M</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_371_M_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por M" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <link href="./tags_371_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:es" />
+  <link href="./tags_371_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por M" />
+  <link href="../tags_3/tags_371_M_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (6 de 9)" />
+  <entry>
+    <title>Muertos prescindibles</title>
+    <id>calibre:book:1666</id>
+    <updated>2024-07-07T03:32:38Z</updated>
+    <link href="../../Michael%20Hjorth/Muertos%20prescindibles%20%281666%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Hjorth/Muertos%20prescindibles%20%281666%29/Muertos%20prescindibles%20-%20Michael%20Hjorth.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="568 KB" />
+    <author>
+      <name>Michael Hjorth</name>
+      <uri>../authors_0/authors_852_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Hans Rosenfeldt</name>
+      <uri>../authors_0/authors_848_Page_1.xml</uri>
+    </author>
+    <published>2012-10-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <category term="Sebastian Bergman" />
+    <summary>Sebastian Bergman [3]: En las montañas de Jämtland dos mujeres hacen un descubrimiento macabro: del suelo sobresalen los huesos de una mano. La policía local llega a la escena del crimen y no encuentra uno, sino seis cuerpos; entre ellos, el de dos n...</summary>
+    <link href="../book_1/book_1666.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mujer equivocada</title>
+    <id>calibre:book:928</id>
+    <updated>2023-07-04T02:12:24Z</updated>
+    <link href="../../Mercedes%20Rosende/Mujer%20equivocada%20%28928%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mercedes%20Rosende/Mujer%20equivocada%20%28928%29/Mujer%20equivocada%20-%20Mercedes%20Rosende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Mercedes Rosende</name>
+      <uri>../authors_0/authors_696_Page_1.xml</uri>
+    </author>
+    <published>2023-04-27T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Bookwire Spain</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Úrsula" />
+    <summary>Úrsula [1]: Mercedes Rosende nos sumerge en el particular universo de Úrsula, que con traducciones al italiano, inglés, alemán y francés triunfa en toda Europa. Úrsula está insatisfecha. Demasiado fea, demasiado hambrienta, demasiado sola..., su vida...</summary>
+    <link href="../book_0/book_928.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mujer océano</title>
+    <id>calibre:book:931</id>
+    <updated>2023-07-04T02:12:28Z</updated>
+    <link href="../../Vanesa%20Martin/Mujer%20oceano%20%28931%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Vanesa%20Martin/Mujer%20oceano%20%28931%29/Mujer%20oceano%20-%20Vanesa%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="885 KB" />
+    <author>
+      <name>Vanesa Martín</name>
+      <uri>../authors_0/authors_699_Page_1.xml</uri>
+    </author>
+    <published>2016-03-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«A un palmo de ti es fácil morderte. Guarda la lengua, que voy directa,no sea que, al sentirla húmeda, la invite donde guardo ciertos ecos y duermen huracanes, allí donde más de uno murió a oscuras, perdiéndose en el intento de encontrar fuego,que cu...</summary>
+    <link href="../book_0/book_931.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mujercitas</title>
+    <id>calibre:book:2040</id>
+    <updated>2024-09-06T02:09:02Z</updated>
+    <link href="../../Louisa%20May%20Alcott/Mujercitas%20%282040%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Louisa%20May%20Alcott/Mujercitas%20%282040%29/Mujercitas%20-%20Louisa%20May%20Alcott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="558 KB" />
+    <author>
+      <name>Louisa May Alcott</name>
+      <uri>../authors_1/authors_1467_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2040.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mujeres del alma mía</title>
+    <id>calibre:book:671</id>
+    <updated>2023-05-15T05:51:26Z</updated>
+    <link href="../../Isabel%20Allende/Mujeres%20del%20alma%20mia%20%28671%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isabel%20Allende/Mujeres%20del%20alma%20mia%20%28671%29/Mujeres%20del%20alma%20mia%20-%20Isabel%20Allende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="503 KB" />
+    <author>
+      <name>Isabel Allende</name>
+      <uri>../authors_0/authors_498_Page_1.xml</uri>
+    </author>
+    <published>2020-09-23T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una Isabel Allende más Allende que nunca.Un regalo para todos sus lectores, una lección de vida y coraje.Cada año vivido y cada arruga cuentan mi historia.Isabel Allende bucea en su memoria y nos ofrece un emocionante libro sobre su relación con el ...</summary>
+    <link href="../book_0/book_671.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mujeres errantes</title>
+    <id>calibre:book:1751</id>
+    <updated>2024-08-26T10:56:07Z</updated>
+    <link href="../../Pilar%20Sanchez%20Vicente/Mujeres%20errantes%20%281751%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pilar%20Sanchez%20Vicente/Mujeres%20errantes%20%281751%29/Mujeres%20errantes%20-%20Pilar%20Sanchez%20Vicente.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="479 KB" />
+    <author>
+      <name>Pilar Sánchez Vicente</name>
+      <uri>../authors_0/authors_851_Page_1.xml</uri>
+    </author>
+    <published>2018-04-30T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una escritora autodestructiva, una pescadera ambulante y una emigrante sin escrúpulos. Tres mujeres unidas por un hilo común: la huida hacia delante.Sin miedo. Sin rumbo. Sin freno.Greta Meier, famosa escritora suiza afincada en Londres, retorna a su...</summary>
+    <link href="../book_1/book_1751.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Mundo Amarillo</title>
+    <id>calibre:book:280</id>
+    <updated>2023-02-03T08:39:20Z</updated>
+    <link href="../../Albert%20Espinosa/El%20Mundo%20Amarillo%20%28280%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Albert%20Espinosa/El%20Mundo%20Amarillo%20%28280%29/El%20Mundo%20Amarillo%20-%20Albert%20Espinosa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="128 KB" />
+    <author>
+      <name>Albert Espinosa</name>
+      <uri>../authors_0/authors_189_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.papyrefb2.net</dcterms:publisher>
+    <category term="det_history" />
+    <category term="Lang:es" />
+    <summary>El mundo amarillo es un mundo fantástico que quiero compartir contigo. Es el mundo de los descubrimientos que hice durante los diez años que estuve enfermo de cáncer. Es curioso, pero la fuerza, la Vitalidad y los hallazgos que haces cuando estás enf...</summary>
+    <link href="../book_0/book_280.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mándalo a la mierda (mereces algo mejor)</title>
+    <id>calibre:book:1172</id>
+    <updated>2024-01-30T06:17:56Z</updated>
+    <link href="../../Silvia%20Llop/Mandalo%20a%20la%20mierda%20%28mereces%20algo%20m%20%281172%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Silvia%20Llop/Mandalo%20a%20la%20mierda%20%28mereces%20algo%20m%20%281172%29/Mandalo%20a%20la%20mierda%20%28mereces%20al%20-%20Silvia%20Llop.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="339 KB" />
+    <author>
+      <name>Silvia Llop</name>
+      <uri>../authors_0/authors_854_Page_1.xml</uri>
+    </author>
+    <published>2020-01-29T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Nunca pensabas que podías estar interesada en un libro así, pero aquí te encuentras. Tu vida amorosa no es el cuento de hadas que te prometió Disney, pero aún no has perdido la esperanza y quieres encontrar a alguien especial con quien compartir aven...</summary>
+    <link href="../book_1/book_1172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Más allá de los volcanes</title>
+    <id>calibre:book:886</id>
+    <updated>2023-06-23T01:09:38Z</updated>
+    <link href="../../Yolanda%20Fidalgo/Mas%20alla%20de%20los%20volcanes%20%28886%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yolanda%20Fidalgo/Mas%20alla%20de%20los%20volcanes%20%28886%29/Mas%20alla%20de%20los%20volcanes%20-%20Yolanda%20Fidalgo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="637 KB" />
+    <author>
+      <name>Yolanda Fidalgo</name>
+      <uri>../authors_0/authors_537_Page_1.xml</uri>
+    </author>
+    <published>2017-09-13T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Roca Editorial</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>NOVELA GANADORA DEL IV PREMIO INTERNACIONAL DE NARRATIVA MARTA DE MONT MARÇAL.Eric Aubriot, antes de la gran guerra, era un médico brillante con un futuro prometedor. Tras ella, mientras París despierta y recupera la alegría, él se limita a sobreviv...</summary>
+    <link href="../book_0/book_886.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Más allá del invierno</title>
+    <id>calibre:book:998</id>
+    <updated>2023-08-23T02:48:40Z</updated>
+    <link href="../../Isabel%20Allende/Mas%20alla%20del%20invierno%20%28998%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isabel%20Allende/Mas%20alla%20del%20invierno%20%28998%29/Mas%20alla%20del%20invierno%20-%20Isabel%20Allende.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="516 KB" />
+    <author>
+      <name>Isabel Allende</name>
+      <uri>../authors_0/authors_498_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janés</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La esperada nueva novela de Isabel Allende. Isabel Allende parte de la célebre cita de Albert Camus -«en medio del invierno aprendí por fin que había en mí un verano invencible»- para urdir una trama que presenta la geografía humana de unos personaje...</summary>
+    <link href="../book_0/book_998.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Máximas y pensamientos</title>
+    <id>calibre:book:1934</id>
+    <updated>2024-09-05T06:03:57Z</updated>
+    <link href="../../Napoleon%20Bonaparte/Maximas%20y%20pensamientos%20%281934%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Napoleon%20Bonaparte/Maximas%20y%20pensamientos%20%281934%29/Maximas%20y%20pensamientos%20-%20Napoleon%20Bonaparte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="87 KB" />
+    <author>
+      <name>Napoleón Bonaparte</name>
+      <uri>../authors_1/authors_1380_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [20]:</summary>
+    <link href="../book_1/book_1934.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Máximo impacto</title>
+    <id>calibre:book:327</id>
+    <updated>2023-02-16T07:13:44Z</updated>
+    <link href="../../David%20Baldacci/Maximo%20impacto%20%28327%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Baldacci/Maximo%20impacto%20%28327%29/Maximo%20impacto%20-%20David%20Baldacci.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="724 KB" />
+    <author>
+      <name>David Baldacci</name>
+      <uri>../authors_0/authors_231_Page_1.xml</uri>
+    </author>
+    <published>2017-04-20T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Novelas de acción" />
+    <category term="Lang:es" />
+    <category term="Will Robie" />
+    <summary>Will Robie [2]: Baldacci vuelve con un palpitante nuevo caso de Will Robie, el héroe de «Los inocentes».Eficiente e implacable, Will Robie es el hombre a quien recurre el gobierno de Estados Unidos para eliminar a los peores enemigos del estado. Sin ...</summary>
+    <link href="../book_0/book_327.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Método TED para hablar en público (Edición revisada y ampliada)</title>
+    <id>calibre:book:433</id>
+    <updated>2023-03-14T05:12:04Z</updated>
+    <link href="../../Jeremey%20Donovan/Metodo%20TED%20para%20hablar%20en%20publico%20%28%20%28433%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jeremey%20Donovan/Metodo%20TED%20para%20hablar%20en%20publico%20%28%20%28433%29/Metodo%20TED%20para%20hablar%20en%20publi%20-%20Jeremey%20Donovan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="542 KB" />
+    <author>
+      <name>Jeremey Donovan</name>
+      <uri>../authors_0/authors_322_Page_1.xml</uri>
+    </author>
+    <published>2015-02-23T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ariel</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>¿Cuáles son las claves del éxito mundial de las conferencias TED? Jeremey, Donovan, uno de los organizadores del TED, nos brinda esta guía llena de consejos para hacer de tu exposición oral un acto inspirador capaz de subyugar al público. Las confere...</summary>
+    <link href="../book_0/book_433.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mía: Cuando el amor va un paso más allá</title>
+    <id>calibre:book:1209</id>
+    <updated>2024-02-06T06:22:02Z</updated>
+    <link href="../../Allyson%20Martin/Mia_%20Cuando%20el%20amor%20va%20un%20paso%20mas%20%281209%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Allyson%20Martin/Mia_%20Cuando%20el%20amor%20va%20un%20paso%20mas%20%281209%29/Mia_%20Cuando%20el%20amor%20va%20un%20paso%20-%20Allyson%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="184 KB" />
+    <author>
+      <name>Allyson Martín</name>
+      <uri>../authors_0/authors_877_Page_1.xml</uri>
+    </author>
+    <published>2022-09-30T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>...</summary>
+    <link href="../book_1/book_1209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mírame y bésame</title>
+    <id>calibre:book:465</id>
+    <updated>2023-03-24T09:44:12Z</updated>
+    <link href="../../Megan%20Maxwell/Mirame%20y%20besame%20%28465%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Megan%20Maxwell/Mirame%20y%20besame%20%28465%29/Mirame%20y%20besame%20-%20Megan%20Maxwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="694 KB" />
+    <author>
+      <name>Megan Maxwell</name>
+      <uri>../authors_0/authors_90_Page_1.xml</uri>
+    </author>
+    <published>2023-03-21T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Esencia</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Las guerreras Maxwell" />
+    <summary>Las guerreras Maxwell [8]: Nueva entrega de «Las guerreras Maxwell», una saga romántica que nos traslada a la Escocia medieval.Las gemelas Beth y Gladys Craig se vieron obligadas a abandonar Noruega y dejar atrás a su familia. Las constantes amenazas...</summary>
+    <link href="../book_0/book_465.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Místicas</title>
+    <id>calibre:book:2132</id>
+    <updated>2024-09-06T02:21:21Z</updated>
+    <link href="../../Maria%20Raquel%20Adler/Misticas%20%282132%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maria%20Raquel%20Adler/Misticas%20%282132%29/Misticas%20-%20Maria%20Raquel%20Adler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="71 KB" />
+    <author>
+      <name>María Raquel Adler</name>
+      <uri>../authors_1/authors_1512_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Argentine" />
+    <category term="Poetry" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2132.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Möbius 2: El Artefacto Intemporal</title>
+    <id>calibre:book:401</id>
+    <updated>2023-03-09T00:10:56Z</updated>
+    <link href="../../Brandon%20Q.%20Morris/Mobius%202_%20El%20Artefacto%20Intemporal%20%28401%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Q.%20Morris/Mobius%202_%20El%20Artefacto%20Intemporal%20%28401%29/Mobius%202_%20El%20Artefacto%20Intempor%20-%20Brandon%20Q.%20Morris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="585 KB" />
+    <author>
+      <name>Brandon Q. Morris</name>
+      <uri>../authors_0/authors_292_Page_1.xml</uri>
+    </author>
+    <published>2023-02-27T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HardSF.space</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Möbius" />
+    <summary>Möbius [2]: Un artefacto en el lugar incorrecto y dos personas en el momento incorrecto, víctimas de un juego incorrecto.Max y Liz han logrado escapar del misterioso fenómeno temporal. La colonia de Marte les promete una vida nueva y emocionante. Per...</summary>
+    <link href="../book_0/book_401.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las madres</title>
+    <id>calibre:book:140</id>
+    <updated>2023-01-19T08:55:14Z</updated>
+    <link href="../../Carmen%20Mola/Las%20madres%20%28140%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carmen%20Mola/Las%20madres%20%28140%29/Las%20madres%20-%20Carmen%20Mola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="673 KB" />
+    <author>
+      <name>Carmen Mola</name>
+      <uri>../authors_0/authors_68_Page_1.xml</uri>
+    </author>
+    <published>2022-09-27T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="La novia gitana" />
+    <summary>La novia gitana [4]: NO SE PUEDE IR MÁS LEJOSTras el fenómeno de La novia gitana, llega la nueva entrega de la saga que cambió la novela negra española conquistando a la crítica y a más de medio millón de lectoresUNO DE LOS LIBROS MÁS ESPERADOS DE ES...</summary>
+    <link href="../book_0/book_140.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La maestra</title>
+    <id>calibre:book:1532</id>
+    <updated>2024-06-02T10:59:40Z</updated>
+    <link href="../../Jose%20Antonio%20Lucero/La%20maestra%20%281532%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Antonio%20Lucero/La%20maestra%20%281532%29/La%20maestra%20-%20Jose%20Antonio%20Lucero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <author>
+      <name>José Antonio Lucero</name>
+      <uri>../authors_1/authors_1115_Page_1.xml</uri>
+    </author>
+    <published>2024-04-05T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>UN HOMENAJE A AQUELLOS QUE NOS ENSEÑAN A APRENDER
+
+El profesor y creador de La cuna de Halicarnaso escribe una emotiva novela en homenaje a su vocación: la docencia.
+
+«JoséAntonio Lucero deslumbra gracias a una mirada sobre el pasado como la de Almud...</summary>
+    <link href="../book_1/book_1532.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El maestro de la fuga</title>
+    <id>calibre:book:1837</id>
+    <updated>2024-08-30T02:08:02Z</updated>
+    <link href="../../Jonathan%20Freedland/El%20maestro%20de%20la%20fuga%20%281837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jonathan%20Freedland/El%20maestro%20de%20la%20fuga%20%281837%29/El%20maestro%20de%20la%20fuga%20-%20Jonathan%20Freedland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="4 MB" />
+    <author>
+      <name>Jonathan Freedland</name>
+      <uri>../authors_1/authors_1314_Page_1.xml</uri>
+    </author>
+    <published>2023-01-26T10:29:56Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>La verdadera historia de Rudi Vrba, el judío que escapó de Auschwitz para alertar al mundo de las atrocidades nazis.En abril de 1944, Rudolf Vrba se convirtió uno de los primeros judíos que escapó de Auschwitz. Contra todo pronóstico, tras esquivar p...</summary>
+    <link href="../book_1/book_1837.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El maestro y Margarita</title>
+    <id>calibre:book:2435</id>
+    <updated>2024-09-09T10:34:30Z</updated>
+    <link href="../../Mijail%20Bulgakov/El%20maestro%20y%20Margarita%20%282435%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mijail%20Bulgakov/El%20maestro%20y%20Margarita%20%282435%29/El%20maestro%20y%20Margarita%20-%20Mijail%20Bulgakov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="408 KB" />
+    <author>
+      <name>Mijaíl Bulgákov</name>
+      <uri>../authors_1/authors_1647_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Sátira" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [11]:</summary>
+    <link href="../book_2/book_2435.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El maestro</title>
+    <id>calibre:book:338</id>
+    <updated>2023-02-20T10:02:18Z</updated>
+    <link href="../../Mario%20Escobar/El%20maestro%20%28338%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Escobar/El%20maestro%20%28338%29/El%20maestro%20-%20Mario%20Escobar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="646 KB" />
+    <author>
+      <name>Mario Escobar</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>2021-10-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Combinando de forma magistral la ficción con datos históricos, Mario Escobar sitúa al lector en la terrible situación de los judíos polacos y su lucha por la supervivencia en el Gueto de Varsovia. Varsovia, 1939Agnieszka Ignaciuk y su hijo, Henryk, l...</summary>
+    <link href="../book_0/book_338.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La magia del cazador de cisnes</title>
+    <id>calibre:book:1715</id>
+    <updated>2024-08-06T10:56:51Z</updated>
+    <link href="../../Ada%20K.%20Soler/La%20magia%20del%20cazador%20de%20cisnes%20%281715%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ada%20K.%20Soler/La%20magia%20del%20cazador%20de%20cisnes%20%281715%29/La%20magia%20del%20cazador%20de%20cisnes%20-%20Ada%20K.%20Soler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="663 KB" />
+    <author>
+      <name>Ada K. Soler</name>
+      <uri>../authors_1/authors_1228_Page_1.xml</uri>
+    </author>
+    <published>2024-08-01T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Ambra es soltera y su vida amorosa parece tranquila, mientras se involucra en una investigación peligrosa: descubrir al asesino de su amiga Concetta, quien fue encontrada con un cisne pintado en el estómago.Durante su búsqueda, conoce a dos hombres ...</summary>
+    <link href="../book_1/book_1715.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El mago de Oz</title>
+    <id>calibre:book:2051</id>
+    <updated>2024-09-06T02:09:04Z</updated>
+    <link href="../../Lyman%20Frank%20Baum/El%20mago%20de%20Oz%20%282051%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lyman%20Frank%20Baum/El%20mago%20de%20Oz%20%282051%29/El%20mago%20de%20Oz%20-%20Lyman%20Frank%20Baum.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="176 KB" />
+    <author>
+      <name>Lyman Frank Baum</name>
+      <uri>../authors_1/authors_1473_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [5]:</summary>
+    <link href="../book_2/book_2051.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El mal camino</title>
+    <id>calibre:book:643</id>
+    <updated>2023-05-04T11:37:26Z</updated>
+    <link href="../../Mikel%20Santiago/El%20mal%20camino%20%28643%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mikel%20Santiago/El%20mal%20camino%20%28643%29/El%20mal%20camino%20-%20Mikel%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="652 KB" />
+    <author>
+      <name>Mikel Santiago</name>
+      <uri>../authors_0/authors_17_Page_1.xml</uri>
+    </author>
+    <published>2015-06-13T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El famoso escritor Bert Amandale y su familia se trasladan a la Provenza Francesa huyendo de un sinfin de problemas en Londres. Las cosas parecen ir por el buen camino hasta que Chucks Basil, amigo íntimo de Bert y problemática estrella de rock se mu...</summary>
+    <link href="../book_0/book_643.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tags_3/tags_371_M_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (4 of 9)" />
+  <link href="../tags_3/tags_371_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 9)" />
+  <link href="../tags_3/tags_371_M_Page_9.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (9 of 9)" />
+</feed>

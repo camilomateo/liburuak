@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a7ea1dd-443c-45af-9d17-82e0a257ece5</dc:identifier>
+        <dc:title>El asesino de la montaña</dc:title>
+        <dc:creator opf:file-as="Motte, Anders de La" opf:role="aut">Anders de La Motte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Llega el autor de novela negra que arrasa en Europa, en la estela de Jo Nesbø y Camilla Läckberg.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Son los peores policías, los perdedores, los expulsados, los marginados. Son la Unidad de Casos Perdidos.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Y sólo ellos pueden resolver el caso más difícil de la historia de Suecia.&lt;/p&gt;
+&lt;p&gt;La inspectora Leonore Asker es la mejor candidata para dirigir el Departamento de Crímenes Violentos. Pero, cuando la hija de una familia adinerada de Suecia desaparece, sus superiores la apartan del caso y la hacen responsable de la Unidad de Casos Perdidos, un departamento olvidado de dudosa reputación. Humillada, en su nuevo puesto Leo se verá envuelta en una investigación trivial: alguien está alterando las escenas de una gran maqueta ferroviaria. Sin embargo, después de que aparezca en la maqueta una figura idéntica a la de la chica desaparecida, Asker comprende que se enfrentan a un asesino despiadado y solo hay una persona que puede ayudarla: Martin Hill, profesor de arquitectura y experto en exploración urbana.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Unidad de Casos Perdidos"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-01-16T17:00:20.410448+00:00"/>
+        <meta name="calibre:title_sort" content="asesino de la montaña, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

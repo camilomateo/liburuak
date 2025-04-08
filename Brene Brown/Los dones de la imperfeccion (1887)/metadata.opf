@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1887</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4acc188-5eac-40c0-bcbf-86411790891f</dc:identifier>
+        <dc:title>Los dones de la imperfección</dc:title>
+        <dc:creator opf:file-as="Brown, Brené" opf:role="aut">Brené Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-23T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;¡No te pierdas el especial de Netflix de una hora, Brené Brown: The Call to Courage! &lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;Cuando nuestras vergüenzas y temores mienten, a menudo los escuchamos de todos modos. Frustran nuestra gratitud, aceptación y compasión, nuestra bondad. Ellos insisten: "No soy digno". Pero somos dignos de autodescubrimiento, crecimiento personal y amor ilimitado. &lt;/B&gt;&lt;/P&gt; &lt;P&gt;Con el éxito de ventas de Brené Brown en el New York Times, Los dones de la imperfección (The Gifts of Imperfection), que ha vendido más de 2 millones de copias en más de 30 idiomas diferentes, y Forbes recientemente nombró a uno de los "Cinco libros que realmente cambiarán su perspectiva de la vida", encontramos coraje para superar el miedo paralizante y la autoconciencia, fortaleciendo nuestra conexión con el mundo.&lt;/P&gt; &lt;P&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;Una guía motivadora e inspiradora para una vida incondicional, en lugar del libro de autoayuda promedio, con este innovador trabajo, Brené Brown, Ph.D., refuerza el...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial USA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781941999134</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:51.470462+00:00"/>
+        <meta name="calibre:title_sort" content="dones de la imperfección, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">926e57d1-a5db-4ce6-8765-b546283b5b74</dc:identifier>
+        <dc:title>Antonio</dc:title>
+        <dc:creator opf:file-as="Bracher, Beatriz" opf:role="aut">Beatriz Bracher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-26T14:37:16+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="promoPriceBlockMessage_feature_div"&gt;En vísperas del nacimiento de su hijo, un hombre joven decide reconstruir la historia de su malogrado padre, quien murió años atrás asolado por la enfermedad y la pobreza después de un largo proceso de decadencia mental. Para ello recurre a las tres únicas personas vivas que podrían arrojar luz sobre esa biografía, marcada por un oscuro trauma familiar. Juntando las piezas de este rompecabezas de voces, descubrimos poco a poco una suerte de parábola mítica familiar capaz de tocar las zonas arcaicas del corazón humano.&lt;/p&gt;
+&lt;p&gt;Gracias a una factura elegante y a un lenguaje que, abriéndose a los ritmos orales, se pierde en los meandros discursivos propios del género del testimonio, Antonio ofrece también un impresionante retrato de la burguesía de São Paulo. Asistimos al desfile de varias generaciones que, al ir sucediéndose a lo largo de la historia reciente del mundo occidental, revelan la disparidad de sus destinos, sus profundas grietas morales e intelectuales, así como la fatalidad de sus prejuicios.&lt;/p&gt;
+&lt;p&gt;Poco a poco, la novela va conquistando al lector con su sutileza, su inteligencia y la potencia de un vórtice trágico que echa a andar toda la trama.&lt;/p&gt;
+&lt;p&gt;Beatriz Bracher es una narradora brillante, delicada y astuta para controlar el equilibrio entre el énfasis y la dispersión. Con maestría logra amplificar y disparar en muchos sentidos la cualidad misteriosa de una historia tan fascinante como devastadora. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Periférica</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:07.824837+00:00"/>
+        <meta name="calibre:title_sort" content="Antonio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

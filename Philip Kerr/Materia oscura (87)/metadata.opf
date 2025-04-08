@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">87</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d278c2a0-e1e6-449a-a607-633364882fa3</dc:identifier>
+        <dc:title>Materia oscura</dc:title>
+        <dc:creator opf:file-as="Kerr, Philip" opf:role="aut">Philip Kerr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-07T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; font-weight: 600"&gt;&lt;span style="color: #000000"&gt;Un absorbente&lt;/span&gt;&lt;em style="color: #000000"&gt; thriller&lt;/em&gt;&lt;span style="color: #000000"&gt; histórico sobre política, ciencia y religión en el Londres de finales del siglo XVII por uno de los autores más icónicos del género negro.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;En 1696, Christopher Ellis, un impetuoso joven aficionado a los naipes y a las mujeres, es enviado a la Torre de Londres, pero no como prisionero. Gracias a un inesperado giro del destino, Ellis se convierte en el nuevo ayudante de sir Isaac Newton, el renombrado científico que es además el encargado de perseguir a los falsificadores que amenazan con derrumbar la economía inglesa. Con la aguda perspicacia de Newton y la habilidad de Ellis con la espada, la peculiar pareja de detectives se prepara para resolver el caso. Sin embargo, cuando sus pesquisas los conducen hasta un misterioso mensaje codificado sobre un cadáver escondido en la Torre de los Leones, los dos investigadores se darán cuenta de que se está urdiendo algo mucho más siniestro.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Philip Kerr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:09:24.132266+00:00"/>
+        <meta name="calibre:title_sort" content="Materia oscura"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

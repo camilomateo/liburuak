@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2892</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b348d45d-fd22-4957-a77d-8346cac40bc2</dc:identifier>
+        <dc:title>La biblioteca de Córdoba</dc:title>
+        <dc:creator opf:file-as="Morales, Andrea D." opf:role="aut">Andrea D. Morales</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-23T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Año 973 d. C. Hubo un tiempo en que solo los libros podían custodiar la sabiduría, y por ello se convirtieron en tesoros. Para protegerlos, nació en Córdoba la mayor biblioteca de la Historia de Occidente. Será allí donde llegue Nasir, un joven médico procedente de Bagdad, con la misión de encontrar un valioso manuscrito. Allí conocerá a Lubna, una de las esclavas más audaces y cercanas del califa, cuidadora de la sabiduría y los libros.&lt;/p&gt;
+&lt;p&gt;La biblioteca de Córdoba nos traslada a la época de esplendor del califato, donde las mujeres -poetas, matemáticas, conservadoras y catalogadoras- eran las encargadas de salvaguardar el conocimiento. Este relato extraordinario, repleto de intrigas palaciegas, misterios y pasión, marcará para siempre el destino de Nasir y Lubna.&lt;/p&gt;
+&lt;p&gt;Con pulso narrativo y un excelente rigor histórico, Andrea D. Morales, autora de La última sultana y La dama de la judería, recupera la desconocida figura de Lubna de Córdoba y la olvidada inmensidad de su biblioteca. Al darles vida en esta novela nos demuestra que los libros siempre han tenido y tendrán el mayor de los poderes: salvarnos del olvido y convertirnos en eternos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-10T16:14:58.016537+00:00"/>
+        <meta name="calibre:title_sort" content="biblioteca de Córdoba, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

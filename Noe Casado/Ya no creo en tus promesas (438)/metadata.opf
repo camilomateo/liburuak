@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">438</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ed6bf32-3711-46e1-85f4-86b316d48409</dc:identifier>
+        <dc:title>Ya no creo en tus promesas</dc:title>
+        <dc:creator opf:file-as="Casado, Noe" opf:role="aut">Noe Casado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una trepidante novela romántica en la que un supuesto feliz matrimonio acabará desencadenando una trama repleta de acción, engaños e intriga. Desde que conocí a Finley mi vida ha sido un cuento de hadas: un matrimonio de película, lujo por doquier y un hombre a mi lado que me ha hecho feliz durante todo el tiempo que ha durado el engaño. Nunca imaginé que mi marido llevara una doble vida, por eso me sentí tan traicionada cuando lo descubrí y decidí alejarme de él. Sin embargo, Finley no estaba dispuesto a consentir mi marcha. Yo era una pieza que no se podía permitir perder en su retorcido plan, así que ideó otro mucho más retorcido que el anterior para que volviera. ¿Para qué? Supongo que para recuperar su «inversión», es decir, a mí, porque eso es lo que me consideraba. Mandarlo a paseo sin duda era lo más acertado para mi paz mental, pero él disponía de los medios y los contactos para hacerme la vida imposible. Así que me vi forzada a aceptar un trato que pisoteaba mis principios. Y tampoco estaba preparada para lo que ocurrió después...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Esencia</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Noe Casado&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-20T16:50:06.527497+00:00"/>
+        <meta name="calibre:title_sort" content="Ya no creo en tus promesas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

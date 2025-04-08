@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d106452-5716-4256-8b43-fc935777c944</dc:identifier>
+        <dc:title>La hermana ausente</dc:title>
+        <dc:creator opf:file-as="Elliot, Kendra" opf:role="aut">Kendra Elliot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-17T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-weight: 600; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #333333"&gt;Durante veinte años ha protegido los secretos de sus hermanas. Ahora estos amenazan con salir a la luz y teñirlo todo de sangre.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #333333; background-color: #ffffff"&gt;Hace veinte años, Emily Mills encontró el cadáver de su padre ahorcado en el jardín de casa. Su hermana menor, Madison, sostuvo que ella dormía en su habitación. Su hermana mayor, Tara, afirmó que había salido con una amiga. Aunque la policía detuvo al asesino y cerró el caso, la tragedia arrastró a su madre al suicidio y llevó a Tara a abandonar la familia.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #333333; background-color: #ffffff"&gt;Desde entonces, Emily y Madison han seguido adelante con sus vidas e intentado olvidar lo que ocurrió esa noche, hasta que un doble asesinato resucita sus recuerdos. El encargado de la investigación es el agente especial del FBI Zander Wells, cuyos esfuerzos por resolver el horrible crimen se cruzan con el misterioso asesinato del padre de Emily y su pasado.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #333333; background-color: #ffffff"&gt;Al cabo de poco aparecen nuevas víctimas y Zander sospecha que el pueblo de Bartonville alberga un secreto que nadie quiere desenterrar. ¿Se trata de algo que las hermanas ignoran o que no quieren revelar? ¿Y Tara? Tal vez Emily no quiera encontrarla porque, cuando su hermana desapareció, se llevó un secreto con ella.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Amazon Crossing</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Columbia River"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:37.363439+00:00"/>
+        <meta name="calibre:title_sort" content="hermana ausente, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

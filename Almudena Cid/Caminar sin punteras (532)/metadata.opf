@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">532</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67fe0cb1-8b40-4f84-8ef6-9e025d578ed2</dc:identifier>
+        <dc:title>Caminar sin punteras</dc:title>
+        <dc:creator opf:file-as="Cid, Almudena" opf:role="aut">Almudena Cid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-08T20:11:36+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Almudena Cid comparte sus herramientas para avanzar con equilibrio ante los giros de la vida.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;En &lt;/span&gt;&lt;span class="a-text-italic"&gt;Caminar sin punteras&lt;/span&gt;&lt;span&gt;
+ habla de cómo, cuando el centro de tu vida se desmorona, recurrir a su 
+experiencia como deportista de élite la salvó de quedarse esperando a 
+que algo aliviara el dolor. Cuando tuvo que mirar atrás y encontrar el 
+modo de hacer frente al caos, regresaron con más presencia que nunca la 
+disciplina y la fuerza mental que desarrolló en su carrera como 
+gimnasta.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;La naturaleza metafórica de los aparatos 
+propios de la rítmica -cinta, cuerda, mazas, pelota y aro- irrumpió 
+también con toda su belleza, para recordarle lo que aprendió de ellos y 
+cómo aprovecharlo para construir con cimientos más sólidos.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;En
+ estas páginas Almudena comparte, con gran honestidad y empatía, el 
+camino que ella misma ha transitado el último año para ayudar a todas 
+esas personas dispuestas a tomar las riendas de su presente.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Habla
+ de cómo el final de un amor puede ser a veces la mejor noticia. De cómo
+ es posible encontrar fuerzas donde no creías, y cómo puedes 
+redescubrirte a ti misma mientras tratas de deshacer el nudo en el que 
+se ha convertido tu vida.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VERGARA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-04-05T10:40:12+00:00"/>
+        <meta name="calibre:title_sort" content="Caminar sin punteras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

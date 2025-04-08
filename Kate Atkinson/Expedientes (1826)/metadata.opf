@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1826</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dfa021d5-89db-4bb0-83ba-9f869fe08018</dc:identifier>
+        <dc:title>Expedientes</dc:title>
+        <dc:creator opf:file-as="Atkinson, Kate" opf:role="aut">Kate Atkinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Bajo una ola de calor, entre turistas despistados y estudiantes extranjeros, el detective Jackson Brodie se ocupa de sus casos en un Cambridge al margen de la imponente sombra de los «colleges». Su trabajo suele centrarse en rutinarias historias de infidelidad, pero de pronto recibe dos encargos similares: averiguar qué ocurrió hace años con una niña desaparecida y una joven asesinada. Durante el proceso Jackson –un escocés ex militar, ex policía, cuarentón y divorciado– no sólo desvelará una intrincada red de secretos; también deberá enfrentarse a otro caso, éste más doloroso y más antiguo, que lo ha acompañado siempre. Con la trama trepidante de un «thriller» y el calado de una novela psicológica «Expedientes» plantea un acercamiento caleidoscópico y plural al clásico relato detectivesco, que gana así en hondura sin perder ritmo ni interés. Un inolvidable elenco de personajes y su brillante capacidad para dosificar tragedia y humor completan el perfil de un libro que no defraudará al amante de la narrativa ni al partidario del género negro.</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Jackson Brodie"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-08-28T10:55:06.062685+00:00"/>
+        <meta name="calibre:title_sort" content="Expedientes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

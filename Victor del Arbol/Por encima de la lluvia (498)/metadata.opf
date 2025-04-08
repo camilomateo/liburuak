@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">498</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59630c6e-028c-4d3b-85ec-5119cf566acb</dc:identifier>
+        <dc:title>Por encima de la lluvia</dc:title>
+        <dc:creator opf:file-as="Víctor del Árbol" opf:role="aut">Víctor del Árbol</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-09T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;Miguel
+ y Helena se conocen en una residencia de ancianos en Tarifa, a una edad
+ en la que creen haberlo vivido todo ya. A Miguel le asusta volar. A 
+Helena le da pánico el mar. Los dos tienen hijos adultos y sienten que 
+les han relegado a un plano casi ornamental. El dramático suicidio de un
+ compañero de la residencia les abre los ojos. No quieren pasar sus 
+últimos días recordando y añorando tiempos supuestamente mejores. Y 
+juntos decidirán emprender el viaje de sus vidas, en el que descubrirán 
+que nada es defi nitivo mientras queden ilusiones que perseguir. &lt;br&gt;Mientras
+ tanto, en la lejana ciudad sueca de Mälmo, la joven Yasmina, hija de 
+inmigrantes marroquíes y que sueña con ser cantante, vive atrapada entre
+ el cuidado de su autoritario abuelo Abdul y el desprecio de su madre, 
+para quien Yasmina es una vergüenza porque trabaja para un sueco de 
+pasado turbio. Y vive un romance secreto con el subcomisario de la 
+Policía sueca, un hombre mayor e importante. &lt;br&gt;Estos tres personajes 
+dibujan una historia sobre el sentido del amor y sobre lo 
+extraordinarias que pueden llegar a ser las personas comunes. &lt;br&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Pasado,
+ presente y futuro se entremezclan en este viaje desde Tánger en 1955 
+hasta Mälmo en 2014, metáfora de un viaje mucho más importante: el de 
+vivir siempre intensamente.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">553186</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Víctor del Árbol&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:01:57.652404+00:00"/>
+        <meta name="calibre:title_sort" content="Por encima de la lluvia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

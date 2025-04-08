@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">836</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">683a3c3c-0e04-4138-9f54-c37f75e1f596</dc:identifier>
+        <dc:title>La mala víctima</dc:title>
+        <dc:creator opf:file-as="Belmonte, Rosa &amp; Landaluce, Emilia" opf:role="aut">Rosa Belmonte</dc:creator>
+        <dc:creator opf:file-as="Belmonte, Rosa &amp; Landaluce, Emilia" opf:role="aut">Emilia Landaluce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-02T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El verdadero periodismo es aquello que nadie quiere que se publique. Una novela que, bajo la apariencia de una comedia de costumbres, ofrece un thriller que nada tiene que envidiar a los mejores del mercado. El asesinato de Aldara, una joven aparentemente víctima de un violador en serie que tiene aterrorizada a la costa de Cádiz, es la excusa perfecta de las autoras para hacer una disección, tan irónica como implacable de la alta sociedad y de las luchas de poder en los medios de comunicación. Socorro, excelente reportera de sucesos con tanto talento como mala leche, será la encargada de seguir la investigación y escribir sobre el caso de Aldara en el periódico nacional para el que trabaja. Con ella asistimos a la radical transformación del periodismo en algo que ya no se sabe muy bien qué es. A través de la prosa de esta novela, las autoras provocarán asombro, risa, indignación, reflexión y, desde la primera página, un entretenimiento indiscutible.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467070125</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-09T11:56:05.772114+00:00"/>
+        <meta name="calibre:title_sort" content="mala víctima, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

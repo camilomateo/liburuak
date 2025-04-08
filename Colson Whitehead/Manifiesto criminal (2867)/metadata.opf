@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2867</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c8516d7-f166-4917-b78f-3d30011a8716</dc:identifier>
+        <dc:title>Manifiesto criminal</dc:title>
+        <dc:creator opf:file-as="Whitehead, Colson" opf:role="aut">Colson Whitehead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-28T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Comienza la década de los setenta y la ciudad de Nueva York parece más sucia y peligrosa que nunca. Mientras en las calles de Harlem estalla una guerra abierta entre el Ejército Negro de Liberación y la policía estatal, Ray Carney, al frente de su próspera tienda de muebles, intenta mantenerse alejado de los negocios turbios y ser un honrado padre de familia. Pero no es sencillo dejar atrás un pasado entre ladrones, gánsteres y policías corruptos y, al no encontrar entradas para los Jackson 5 para su hija adolescente, no duda en recurrir a un viejo contacto policial que, a cambio, le reclamará favores un tanto dudosos.&lt;/p&gt;
+&lt;p&gt;Manifiesto criminal nos conducirá desde un mundo de caprichosas estrellas de Hollywood, traficantes de drogas y sicarios que pueblan una producción cinematográfica «made in Harlem» hasta una trama de especuladores y corrupción política que hará que el barrio arda en llamas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Ray Carney"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-02-02T12:10:16.071840+00:00"/>
+        <meta name="calibre:title_sort" content="Manifiesto criminal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

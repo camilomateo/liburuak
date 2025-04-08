@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1756</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb1d4cf0-84e9-46a1-9acd-46f820795e5c</dc:identifier>
+        <dc:title>¡Que viva la cocina!</dc:title>
+        <dc:creator opf:file-as="Barredo, Gorka" opf:role="aut">Gorka Barredo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-07T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;Gorka Barredo nos presenta recetas fáciles, económicas y rápidas de hacer.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;¡Hola, receteros y receteras!&lt;/P&gt; &lt;P&gt;Mi nombre es Gorka Barredo y por mucho que me llamen youtuber, blogger o influencer, yo prefiero que se me conozca como cocinero; uno que tiene la peculiaridad de compartir sus recetas a través de las redes.&lt;/P&gt; &lt;P&gt;En&lt;I&gt; &lt;B&gt;¡Que viva la cocina!&lt;/B&gt;&lt;/I&gt; he recopilado, en exclusiva para ti, 70 recetas que no encontrarás ni en mi blog, ni en mis canales de YouTube ni en Facebook. Primeros, segundos y postres que, como todos los platos que me caracterizan, son caseros, fáciles, baratos y para todos los públicos. No importa si tienes mucha o poca experiencia entre fogones, porque el mejor cocinero del mundo no es aquel que mejor guisa, sino el que más entusiasmo le pone a la cocina.&lt;/P&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417338411</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:08.522283+00:00"/>
+        <meta name="calibre:title_sort" content="¡Que viva la cocina!"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

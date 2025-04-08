@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1093</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec5314c5-653d-4994-bff7-64991469ce9d</dc:identifier>
+        <dc:title>Fragil virtud</dc:title>
+        <dc:creator opf:file-as="Melero, Javier" opf:role="aut">Melero, Javier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-08T06:05:34+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span&gt;Un empresario del cinturón industrial de Barcelona acude a un 
+elitista bufete de abogados de la ciudad con un espeluznante caso de 
+asesinato y extorsión. El letrado, tan eficiente como desencantado, nos 
+sumergirá en la entrañas policiales y judiciales de la ciudad condal y 
+nos mostrará una galería variopinta de personajes (detectives, fiscales,
+ abogados, jueces, inspectores…).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A medio camino entre la novela negra y el true crime, &lt;/span&gt;&lt;span class="a-text-italic"&gt;Frágil virtud&lt;/span&gt;&lt;span&gt;
+ relata el descenso a los infiernos de un grupo de burgueses que deciden
+ resolver sus agravios flirteando con el crimen, lo que desencadenará 
+una vorágine terrible en la que nada es excesivo: ni el secuestro, ni el
+ asesinato, ni la propia aniquilación. Autores y víctimas comparten su 
+desprecio por cualquier freno moral en una historia en la que los 
+inocentes brillan por su ausencia.&lt;/span&gt;&lt;/p&gt;&lt;p style="background-color: #ffffff; font-family: 'Source Sans Pro','sans-serif'; font-size: medium"&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Javier Melero, 
+abogado penalista, se sirve de su propia experiencia para pintar un 
+retrato osado y sin ambages de un grupo humano, que sirve, a su vez, 
+para hablar de todos los seres humanos. Un relato vibrante y cargado de 
+ironía: literatura, al fin y al cabo.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Ariel</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-12-12T07:34:15.866976+00:00"/>
+        <meta name="calibre:title_sort" content="Fragil virtud"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

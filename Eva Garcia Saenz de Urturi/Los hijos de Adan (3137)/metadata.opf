@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3137</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ae19524-2245-4ce5-87f7-729294abcca1</dc:identifier>
+        <dc:title>Los hijos de Adán</dc:title>
+        <dc:creator opf:file-as="García Sáenz de Urturi, Eva" opf:role="aut">Eva García Sáenz de Urturi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-23T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Para un longevo el pasado siempre vuelve en forma de problemas&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;LA CUENTA ATRÁS ESTÁ LLEGANDO A SU FIN&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;NO TE PIERDAS LA SAGA MÁS ESPERADA DE LA AUTORA DE &lt;em&gt;EL SILENCIO DE LA CIUDAD BLANCA&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;La inesperada vuelta de Gunnarr,&lt;/strong&gt; el hijo que Iago del Castillo creyó muerto en 1602, alterará la tranquila vida que este y Adriana habían conseguido construir en Santander.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;23&lt;/strong&gt;&lt;span style="font-weight: bold; font-style: italic"&gt;.&lt;/span&gt;&lt;strong&gt;000 a. C., Europa:&lt;/strong&gt; Lür, que teme ser el único hombre sobre la tierra, recorre un continente desolado &lt;strong&gt;en busca del clan de Los Hijos de Adán&lt;/strong&gt; y de su legendaria matriarca, Adana, de quien se dice que no envejece.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;800 d. C., Dinamarca:&lt;/strong&gt; Gunnarr se convierte en berserker, un guerrero perteneciente a &lt;strong&gt;un grupo de mercenarios vikingos&lt;/strong&gt; que no sienten dolor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1620 d. C., Nueva Inglaterra:&lt;/strong&gt; Urko se embarca en el Mayflower para construir la colonia de Plymouth. Allí conocerá a Manon Adams, &lt;strong&gt;una mujer que dejará huella en él a pesar del paso del tiempo&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;La Vieja Familia está a punto de descubrir que ha estado en peligro desde antes de su nacimiento, porque, para un longevo, &lt;strong&gt;el pasado siempre vuelve en forma de problemas,&lt;/strong&gt; y estos solo acaban de empezar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="La saga de los longevos"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-03-06T16:54:52.255022+00:00"/>
+        <meta name="calibre:title_sort" content="hijos de Adán, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">116</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0dbd1d07-c7d5-4fc8-9a07-2e523cff92db</dc:identifier>
+        <dc:title>La guerra de los vivos</dc:title>
+        <dc:creator opf:file-as="Santos, Iván" opf:role="aut">Iván Santos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-26T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="background-color: #ffffff; color: #333333"&gt;El grupo de Rai ha conseguido atravesar media península pagando un alto precio. Dejando su comodidad atrás, han descubierto que los zombis no son realmente lo más terrible de este apocalipsis y que en cualquier momento, la suerte y el destino les pueden atacar sin piedad... Con su grupo mermado y con promesas hechas a nuevos amigos, Rai, Cartas, Sandra e Irina se encuentran frente a la reja de la finca del abuelo, sin saber que su mundo está a punto de ser gigante.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Iván Santos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:29.889641+00:00"/>
+        <meta name="calibre:title_sort" content="guerra de los vivos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

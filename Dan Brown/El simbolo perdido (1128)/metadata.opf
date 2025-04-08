@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ade35de8-b78d-4989-acbb-59e8a5156679</dc:identifier>
+        <dc:title>El símbolo perdido</dc:title>
+        <dc:creator opf:file-as="Brown, Dan" opf:role="aut">Dan Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-30T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Washington. El experto en simbología Robert Langdon es 
+convocado inesperadamente por Peter Solomon, masón, filántropo y su 
+antiguo mentor, para dar una conferencia en el Capitolio. Pero el 
+secuestro de Peter y el hallazgo de una mano tatuada con cinco 
+enigmáticos símbolos cambian drásticamente el curso de los 
+acontecimientos. Atrapado entre las exigencias de una mente perturbada y
+ la investigación oficial, Langdon se ve inmerso en un mundo clandestino
+ de secretos masónicos, historia oculta y escenarios nunca antes vistos,
+ que parecen arrastrarlo hacia una sencilla pero inconcebible verdad. &lt;br&gt;&lt;br&gt;
+ Con la ayuda de Katherine Solomon, hermana de Peter y experta en 
+ciencias neoéticas, Robert Langdon tiene doce horas para salvar a su 
+amigo y, al mismo tiempo, evitar que uno de los secretos mejor guardados
+ de nuestra historia caiga en manos equivocadas... &lt;br&gt;&lt;br&gt; Dan Brown 
+vuelve a retar a los lectores con una historia inteligente y de ritmo 
+vertiginoso que ofrece sorpresas en cada página. &lt;span class="a-text-italic"&gt;El símbolo perdido&lt;/span&gt; es lo que los fans del autor estaban esperando: su novela más emocionante.&lt;/p&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B009OPQUDS</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:16.764253+00:00"/>
+        <meta name="calibre:title_sort" content="El símbolo perdido"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

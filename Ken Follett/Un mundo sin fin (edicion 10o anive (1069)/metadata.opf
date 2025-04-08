@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ab20939-540c-4675-9a2a-81847561d506</dc:identifier>
+        <dc:title>Un mundo sin fin (edición 10º aniversario)</dc:title>
+        <dc:creator opf:file-as="Ken Follett" opf:role="aut">Ken Follett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-25T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p style="text-align:center"&gt;&lt;B&gt;Veinte años después de la publicación de&lt;I&gt; Los pilares de la Tierra&lt;/I&gt;, Ken Follett volvía al fascinante mundo de Kingsbridge para presentar a sus lectores un retrato admirable del mundo medieval y  una magnífica  saga épica que aporta una nueva dimensión a la ficción histórica.&lt;/B&gt;&lt;/P&gt; &lt;p style="text-align:center"&gt;&lt;B&gt;Esta nueva edición incluye un prefacio del autor con motivo del 10º aniversario de la publicación.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;La publicación de &lt;I&gt;Los pilares de la Tierra&lt;/I&gt; supuso un acontecimiento editorial sin precedentes que cautivó a millones de  lectores.&lt;/P&gt; &lt;P&gt;En &lt;I&gt;Un mundo sin fin&lt;/I&gt; Ken Follett vuelve al fascinante mundo de  Kingsbridge dos siglos después de la construcción de su majestuoso  templo gótico. La catedral y el priorato ocupan de nuevo el centro de  una encrucijada de amor y de odio, orgullo y codicia. En un mundo en que  defensores a ultranza de las viejas costumbres luchan con encono con las  mentes más progresistas, la intriga y la tensión llegan rápidamente a  límites insoportables con el devastador telón de fondo de la Peste Negra, que aniquiló a la mitad de la población europea.&lt;/P&gt; &lt;P&gt;Intriga, asesinatos, hambruna, plagas y guerras. Un retrato admirable  del mundo medieval y una novela extraordinaria que aporta una  nueva dimensión a la ficción histórica.&lt;/P&gt; &lt;P&gt;&lt;B&gt;Reseña:&lt;/B&gt;&lt;BR&gt;«No hay rincón sin sorpresa, ni página tediosa.»&lt;BR&gt;&lt;I&gt;Qué leer&lt;/I&gt;&lt;/P&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401338328</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Los pilares de la Tierra"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-11-05T15:25:02.240743+00:00"/>
+        <meta name="calibre:title_sort" content="mundo sin fin (edición 10º aniversario), Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

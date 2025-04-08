@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">635</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b8933ac-d49d-4edf-bb0c-e54904771a6e</dc:identifier>
+        <dc:title>Los crímenes de Hamlet</dc:title>
+        <dc:creator opf:file-as="Malenka Ramos" opf:role="aut">Malenka Ramos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sangre por sangre: del bosque no se sale. Una escalofriante novela de terror con tintes sobrenaturales que te atrapará hasta el final. Con setenta años cumplidos, Hamlet, el famoso asesino en serie, pasa los días sumido en el oscuro sueño de volver a pintar las turbadoras escenas que quitan el sueño a la policía. Lleva veinte años recluido en una cárcel de máxima seguridad, pero, a pesar de ello, ha aparecido un nuevo cadáver con su inconfundible firma en el tranquilo y apartado valle de Caín. El trágico suceso ha despertado al Cortador, un ser diabólico y sanguinario que, según la creencia popular, solo vivía en viejas leyendas. Hasta ahora... El Cortador y su séquito han acudido a la llamada de la sangre y reclaman sus dominios en el bosque con su particular firma: corta brazos y piernas. Hamlet y la mujer más anciana del lugar son las únicas personas que pueden ayudar a la policía a desentrañar el caso.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Contraluz Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418945540</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">2TyiEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Malenka Ramos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:42.946235+00:00"/>
+        <meta name="calibre:title_sort" content="crímenes de Hamlet, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2828</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0314d2e-8ae2-480d-b4e7-46f802dd057c</dc:identifier>
+        <dc:title>Han cantado bingo</dc:title>
+        <dc:creator opf:file-as="Corujo, Lana" opf:role="aut">Lana Corujo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-27T13:14:56+00:00</dc:date>
+        <dc:description>EL DEBUT NARRATIVO DE UNA POETA E ILUSTRADORA: DOS HERMANAS UNIDAS POR UN JUEGO, UN VOLCÁN Y UNA TRAGEDIA «Una yincana por el cielo estrellado de la infancia. Qué inteligente y lúcida es Lana Corujo», Luna Miguel · «Leer este libro me dio fiebre. Me fascinó y me aterró. Me conmovió y me rompió», Aida González Rossi · «Brillante y oscura. Una escritura saltarina que se te queda pegada bien cerquita del corazón como sus fantasmas», Juanpe Sánchez López · «Como en un juego, leer esta historia también ha sido como cruzar una frontera entre el miedo y el afecto. Ha sido tan sencillo, ha sido tan difícil», Júlia PeróTodo empieza con un juego: algunas noches, en los diez minutos suspendidos antes de que Abuela regrese del bingo, dos hermanas salen a escondidas por la puerta de atrás hasta El Ahorcado —un volcán redondo como una panza bocarriba—, cuentan hasta tres y corren de vuelta sin mirar atrás. Sin embargo, una noche algo cambia... porque una vez traspasado el terreno de una...</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-23T13:00:54.004524+00:00"/>
+        <meta name="calibre:title_sort" content="Han cantado bingo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

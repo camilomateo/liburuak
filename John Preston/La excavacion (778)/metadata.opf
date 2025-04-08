@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">778</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a104313b-5490-473d-9176-191d0143429f</dc:identifier>
+        <dc:title>La excavación</dc:title>
+        <dc:creator opf:file-as="Preston, John" opf:role="aut">John Preston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El libro en que se ha inspirado una de las grandes películas de Netflix, The Dig. &lt;/p&gt;
+&lt;p&gt;En el largo y caluroso verano del año 1939 Inglaterra se prepara para la guerra. Pero en una pequeña granja junto al río, cerca de Suffolk, ajena a cuanto acontece más allá de sus lindes, se vive otro tipo de historia, una que poco o nada tiene que ver con las nubes oscuras que se arremolinan sobre el continente. La señora Pretty, una granjera viuda, con la ayuda de Basil Brown, un arqueólogo de habilidades más bien poco ortodoxas y muy dado a la reflexión, ha demostrado estar en lo cierto en lo que concierne a los montículos que hay en su propiedad. Nadie daba demasiado por ellos, pero pronto descubrirán que esconden uno de los mayores tesoros arqueológicos de la historia. &lt;/p&gt;
+&lt;p&gt;Un evocador drama humano de pasión, rivalidad y arrepentimiento en los albores de la Segunda Guerra Mundial.«Fascinante, exquisitamente original.» Ian McEwan«Una apasionante historia de amor y de pérdida, un verdadero tesoro literario.» Robert Harris«Brilla con nostalgia y pesar. Es algo completamente maravilloso.» New York Times«Una novela conmovedora, perfectamente tramada.» Spectator«Una evocación maravillosa de una época perdida.» Sunday Times«Maravilloso, evocador. De una historia de barro y suciedad, Preston ha sacado oro.» Observer&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>La Galera</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418059889</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-25T11:32:56.675137+00:00"/>
+        <meta name="calibre:title_sort" content="excavación, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

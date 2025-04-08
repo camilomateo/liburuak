@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por R</title>
+  <id>Calibre2opds:taglist:L:371:R</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_371_R_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por R" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por L" />
+  <link href="./tags_371_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:es" />
+  <link href="./tags_371_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Libros que empiezan por R" />
+  <link href="../tags_3/tags_371_R_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (4 de 4)" />
+  <entry>
+    <title>La rebelión de los buenos</title>
+    <id>calibre:book:897</id>
+    <updated>2023-06-23T01:09:54Z</updated>
+    <link href="../../Roberto%20Santiago/La%20rebelion%20de%20los%20buenos%20%28897%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Roberto%20Santiago/La%20rebelion%20de%20los%20buenos%20%28897%29/La%20rebelion%20de%20los%20buenos%20-%20Roberto%20Santiago.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="959 KB" />
+    <author>
+      <name>Roberto Santiago</name>
+      <uri>../authors_0/authors_672_Page_1.xml</uri>
+    </author>
+    <published>2023-06-13T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>PARA EL QUE EL MAL TRIUNFE SOLO ES NECESARIO QUE LOS BUENOS NO HAGAN NADA. Roberto Santiago reinventa la novela negra con una trama absorbente que desafía el poder de los amos del mundo. La rebelión de los buenos, Premio de Novela Fernando Lara 2023F...</summary>
+    <link href="../book_0/book_897.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La receta secreta de la señora Quinn</title>
+    <id>calibre:book:1526</id>
+    <updated>2024-06-02T10:59:38Z</updated>
+    <link href="../../Olivia%20Ford/La%20receta%20secreta%20de%20la%20senora%20Quin%20%281526%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Olivia%20Ford/La%20receta%20secreta%20de%20la%20senora%20Quin%20%281526%29/La%20receta%20secreta%20de%20la%20senora%20-%20Olivia%20Ford.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="882 KB" />
+    <author>
+      <name>Olivia Ford</name>
+      <uri>../authors_1/authors_1110_Page_1.xml</uri>
+    </author>
+    <published>2024-03-22T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>2024</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una entrañable novela en la que el amor y la deliciosa comida se mezclan para lograr la receta perfecta y recordarnos que algunos sueños se cumplen gracias a la edad, y no a pesar de ella.
+Aunque no le pega nada, Jennifer Quinn decide presentarse a B...</summary>
+    <link href="../book_1/book_1526.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las recetas de Blanca</title>
+    <id>calibre:book:487</id>
+    <updated>2023-03-29T02:11:52Z</updated>
+    <link href="../../Blanca%20Garcia-Orea%20Haro/Las%20recetas%20de%20Blanca%20%28487%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Blanca%20Garcia-Orea%20Haro/Las%20recetas%20de%20Blanca%20%28487%29/Las%20recetas%20de%20Blanca%20-%20Blanca%20Garcia-Orea%20Haro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="34 MB" />
+    <author>
+      <name>Blanca García-Orea Haro</name>
+      <uri>../authors_0/authors_360_Page_1.xml</uri>
+    </author>
+    <published>2021-11-28T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grijalbo</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Recetas para toda la familia y adaptadas a intolerancias. Tras el exito de su libro anterior Dime que comes y te dire que bacterias tienes Blanca García-Orea propone 80 recetas nuevas,  fáciles de hacer en familia y adaptadas a intolerancias o cierta...</summary>
+    <link href="../book_0/book_487.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El refugio de las mariposas</title>
+    <id>calibre:book:155</id>
+    <updated>2023-01-21T04:10:34Z</updated>
+    <link href="../../Xabier%20Gutierrez/El%20refugio%20de%20las%20mariposas%20%28155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Xabier%20Gutierrez/El%20refugio%20de%20las%20mariposas%20%28155%29/El%20refugio%20de%20las%20mariposas%20-%20Xabier%20Gutierrez.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Xabier Gutiérrez</name>
+      <uri>../authors_0/authors_24_Page_1.xml</uri>
+    </author>
+    <published>2022-10-18T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones Destino</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En el hotel Baños de Panticosa, en el valle de Tena aragonés, Valeria, una cantante ruandesa, se arroja al vacío desde su habitación. Era una clienta habitual, una mujer con una historia escondida cuyos motivos para suicidarse nadie podría sospechar....</summary>
+    <link href="../book_0/book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La regata</title>
+    <id>calibre:book:1812</id>
+    <updated>2024-08-27T09:07:36Z</updated>
+    <link href="../../Manuel%20Vicent/La%20regata%20%281812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Manuel%20Vicent/La%20regata%20%281812%29/La%20regata%20-%20Manuel%20Vicent.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="784 KB" />
+    <author>
+      <name>Manuel Vicent</name>
+      <uri>../authors_1/authors_1299_Page_1.xml</uri>
+    </author>
+    <published>2017-04-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial España</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El amor de Dora Mayo, aspirante a actriz, y el exitoso empresario Pepe  California parece vivir sus mejores y más ardientes días en el verano de  2016, cuando una regata congrega a lo más granado de la sociedad a  orillas del Mediterráneo. Pero la mu...</summary>
+    <link href="../book_1/book_1812.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las reglas del Mikado</title>
+    <id>calibre:book:1628</id>
+    <updated>2024-06-13T06:06:43Z</updated>
+    <link href="../../Erri%20de%20Luca/Las%20reglas%20del%20Mikado%20%281628%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Erri%20de%20Luca/Las%20reglas%20del%20Mikado%20%281628%29/Las%20reglas%20del%20Mikado%20-%20Erri%20de%20Luca.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="270 KB" />
+    <author>
+      <name>Erri de Luca</name>
+      <uri>../authors_1/authors_1175_Page_1.xml</uri>
+    </author>
+    <published>2024-06-04T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Seix Barral</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un encuentro fortuito puede entrelazar dos vidas para siempre a pesar de la distancia. Ella es una joven gitana que huye de su familia para escapar de un matrimonio concertado; él, un relojero que acampa en la frontera y la acoge en su tienda. El enc...</summary>
+    <link href="../book_1/book_1628.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El regreso de Sherlock Holmes</title>
+    <id>calibre:book:2335</id>
+    <updated>2024-09-09T10:34:09Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/El%20regreso%20de%20Sherlock%20Holmes%20%282335%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/El%20regreso%20de%20Sherlock%20Holmes%20%282335%29/El%20regreso%20de%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="329 KB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Intriga" />
+    <category term="Policíaco" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [109]:</summary>
+    <link href="../book_2/book_2335.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La reina de Nairobi</title>
+    <id>calibre:book:866</id>
+    <updated>2023-06-19T05:31:20Z</updated>
+    <link href="../../Belen%20Junco/La%20reina%20de%20Nairobi%20%28866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Belen%20Junco/La%20reina%20de%20Nairobi%20%28866%29/La%20reina%20de%20Nairobi%20-%20Belen%20Junco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="572 KB" />
+    <author>
+      <name>Belén Junco</name>
+      <uri>../authors_0/authors_651_Page_1.xml</uri>
+    </author>
+    <published>2023-01-25T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>La Esfera de los Libros</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Romantica" />
+    <category term="Lang:es" />
+    <summary>«Lo dejo todo a cambio de nada. Ahora me toca ser feliz conmigo misma. Me propongo comenzar una vida sin ataduras, sin reglas. Una vida mía, solo mía». Siguiendo el impulso de su corazón, la protagonista de esta novela abandona su vertiginosa existen...</summary>
+    <link href="../book_0/book_866.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La reina de espadas</title>
+    <id>calibre:book:1845</id>
+    <updated>2024-08-30T02:25:26Z</updated>
+    <link href="../../Javier%20Mas/La%20reina%20de%20espadas%20%281845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Javier%20Mas/La%20reina%20de%20espadas%20%281845%29/La%20reina%20de%20espadas%20-%20Javier%20Mas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="326 KB" />
+    <author>
+      <name>Javier Más</name>
+      <uri>../authors_1/authors_1320_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Almuzara</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <summary>España, 1448. Dos mujeres luchan por el poder en la corona de Castilla: la reina Isabel de Portugal, madre de futura Isabel la Católica, y la condesa de Montalbán, doña Juana de Pimentel. Ambas se enfrentarán en una lucha sin piedad para poseer la Lo...</summary>
+    <link href="../book_1/book_1845.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La reina roja</title>
+    <id>calibre:book:535</id>
+    <updated>2023-04-05T00:40:16Z</updated>
+    <link href="../../Juan%20Gomez-Jurado/La%20reina%20roja%20%28535%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Juan%20Gomez-Jurado/La%20reina%20roja%20%28535%29/La%20reina%20roja%20-%20Juan%20Gomez-Jurado.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="848 KB" />
+    <author>
+      <name>Juan Gómez-Jurado</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>2018-11-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ediciones B</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Antonia Scott" />
+    <summary>Antonia Scott [1]: Antonia Scott es una mujer muy especial. Tiene un don que es al mismo tiempo una maldición: una extraordinaria inteligencia. Gracias a ella ha salvado decenas de vidas, pero también lo ha perdido todo. Hoy se parapeta contra el mun...</summary>
+    <link href="../book_0/book_535.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El reino de las mujeres</title>
+    <id>calibre:book:2362</id>
+    <updated>2024-09-09T10:34:15Z</updated>
+    <link href="../../Anton%20Chejov/El%20reino%20de%20las%20mujeres%20%282362%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anton%20Chejov/El%20reino%20de%20las%20mujeres%20%282362%29/El%20reino%20de%20las%20mujeres%20-%20Anton%20Chejov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="99 KB" />
+    <author>
+      <name>Antón Chéjov</name>
+      <uri>../authors_1/authors_1626_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Otros" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [166]:</summary>
+    <link href="../book_2/book_2362.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El reino de los ciegos</title>
+    <id>calibre:book:1418</id>
+    <updated>2024-04-09T11:16:19Z</updated>
+    <link href="../../Louise%20Penny/El%20reino%20de%20los%20ciegos%20%281418%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Louise%20Penny/El%20reino%20de%20los%20ciegos%20%281418%29/El%20reino%20de%20los%20ciegos%20-%20Louise%20Penny.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="617 KB" />
+    <author>
+      <name>Louise Penny</name>
+      <uri>../authors_0/authors_330_Page_1.xml</uri>
+    </author>
+    <published>2024-03-14T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Salamandra</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Inspector Armand Gamache" />
+    <summary>Inspector Armand Gamache [14]: Vuelve la gran dama del crimen canadiense con la serie que ha cautivado a 15 millones de lectores«Un misterio hechizante.»The Washington PostSuspendido aún de empleo y sueldo por un caso relacionado con una remesa de dr...</summary>
+    <link href="../book_1/book_1418.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El reino</title>
+    <id>calibre:book:841</id>
+    <updated>2023-06-09T01:56:12Z</updated>
+    <link href="../../Jo%20Nesbo/El%20reino%20%28841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jo%20Nesbo/El%20reino%20%28841%29/El%20reino%20-%20Jo%20Nesbo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="920 KB" />
+    <author>
+      <name>Jo Nesbo</name>
+      <uri>../authors_0/authors_465_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Reservoir Books</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En lo alto de una montaña, en los páramos de Noruega, hay un viejo caserón habitado por un hombre solitario. Se llama Roy, es experto en pájaros, lleva la gasolinera del pueblo y en cada casa corre un rumor sobre él. Su vida gris se reabre con la vue...</summary>
+    <link href="../book_0/book_841.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La reliquia</title>
+    <id>calibre:book:2381</id>
+    <updated>2024-09-09T10:34:19Z</updated>
+    <link href="../../Eca%20de%20Queiros/La%20reliquia%20%282381%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eca%20de%20Queiros/La%20reliquia%20%282381%29/La%20reliquia%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="220 KB" />
+    <author>
+      <name>Eça de Queirós</name>
+      <uri>../authors_1/authors_1506_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Realista" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [198]:</summary>
+    <link href="../book_2/book_2381.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El retiro</title>
+    <id>calibre:book:451</id>
+    <updated>2023-03-23T11:00:42Z</updated>
+    <link href="../../Sarah%20Pearse/El%20retiro%20%28451%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sarah%20Pearse/El%20retiro%20%28451%29/El%20retiro%20-%20Sarah%20Pearse.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="636 KB" />
+    <author>
+      <name>Sarah Pearse</name>
+      <uri>../authors_0/authors_336_Page_1.xml</uri>
+    </author>
+    <published>2023-03-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Principal de los Libros</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Elin Warner" />
+    <summary>Elin Warner [2]: Vienen a disfrutar de unas vacaciones, pero alguien busca venganza…En la isla inglesa de Reaper's Rock se acaba de abrir un retiro de bienestar que promete descanso y relax a todos sus huéspedes, pero se rumorea que la isla está mald...</summary>
+    <link href="../book_0/book_451.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El reto de la longevidad</title>
+    <id>calibre:book:1778</id>
+    <updated>2024-08-26T10:56:13Z</updated>
+    <link href="../../James%20DiNicolantonio/El%20reto%20de%20la%20longevidad%20%281778%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20DiNicolantonio/El%20reto%20de%20la%20longevidad%20%281778%29/El%20reto%20de%20la%20longevidad%20-%20James%20DiNicolantonio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>James DiNicolantonio</name>
+      <uri>../authors_1/authors_1277_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jason Fung</name>
+      <uri>../authors_1/authors_1278_Page_1.xml</uri>
+    </author>
+    <published>2020-09-11T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>EDAF</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Nadie puede vivir para siempre (¡al menos por ahora!), pero en este innovador libro, los doctores James DiNicolantonio y Jason Fung explican cómo es posible alargar la vida y, al mismo tiempo, disfrutar de buena salud y conservar la vitalidad. Basado...</summary>
+    <link href="../book_1/book_1778.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El retorno inesperado de Josephine Fox</title>
+    <id>calibre:book:1018</id>
+    <updated>2023-08-30T08:59:18Z</updated>
+    <link href="../../Claire%20Gradidge/El%20retorno%20inesperado%20de%20Josephine%20%281018%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Claire%20Gradidge/El%20retorno%20inesperado%20de%20Josephine%20%281018%29/El%20retorno%20inesperado%20de%20Joseph%20-%20Claire%20Gradidge.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="587 KB" />
+    <author>
+      <name>Claire Gradidge</name>
+      <uri>../authors_0/authors_752_Page_1.xml</uri>
+    </author>
+    <published>2021-10-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros de Seda, S.L.</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Un pasado del que nadie le habla, un cadáver que nadie reclama y un secreto que nadie ha podido desvelar. ¿Lo logrará Jo?Abril de 1941, Romsey, Inglaterra. Hace más de veinte años que Josephine Fox, Jo, no pisa el pueblo en el que nació. Nunca supo q...</summary>
+    <link href="../book_1/book_1018.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El retrato de Dorian Gray</title>
+    <id>calibre:book:2246</id>
+    <updated>2024-09-09T10:33:52Z</updated>
+    <link href="../../Oscar%20Wilde/El%20retrato%20de%20Dorian%20Gray%20%282246%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oscar%20Wilde/El%20retrato%20de%20Dorian%20Gray%20%282246%29/El%20retrato%20de%20Dorian%20Gray%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="262 KB" />
+    <author>
+      <name>Oscar Wilde</name>
+      <uri>../authors_0/authors_110_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_2/book_2246.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El retrato de casada</title>
+    <id>calibre:book:523</id>
+    <updated>2023-04-05T00:40:06Z</updated>
+    <link href="../../Maggie%20O%27Farrell/El%20retrato%20de%20casada%20%28523%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maggie%20O%27Farrell/El%20retrato%20de%20casada%20%28523%29/El%20retrato%20de%20casada%20-%20Maggie%20O%27Farrell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="608 KB" />
+    <author>
+      <name>Maggie O'Farrell</name>
+      <uri>../authors_0/authors_387_Page_1.xml</uri>
+    </author>
+    <published>2023-03-12T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros del Asteroide</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>El matrimonio era su destino. Ahora tendrá que sobrevivir a él. La esperadísima nueva novela de Maggie O’Farrell tras el gran éxito internacional de Hamnet. Florencia, mediados del siglo XVI. Lucrezia, tercera hija del gran duque Cosimo de’ Medici, e...</summary>
+    <link href="../book_0/book_523.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La revelación</title>
+    <id>calibre:book:1562</id>
+    <updated>2024-06-02T10:59:47Z</updated>
+    <link href="../../A.%20M.%20Homes/La%20revelacion%20%281562%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../A.%20M.%20Homes/La%20revelacion%20%281562%29/La%20revelacion%20-%20A.%20M.%20Homes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="420 KB" />
+    <author>
+      <name>A. M. Homes</name>
+      <uri>../authors_1/authors_1141_Page_1.xml</uri>
+    </author>
+    <published>2024-04-24T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Anagrama</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Una feroz sátira política, el retrato despiadado de los poderosos que amenazan la democracia americana.Noviembre de 2008: Barack Obama gana las elecciones. Entre los republicanos cunde el desánimo e incluso la inquietud ante la deriva que puede tomar...</summary>
+    <link href="../book_1/book_1562.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La revuelta de las cariatides</title>
+    <id>calibre:book:1427</id>
+    <updated>2024-04-09T11:16:21Z</updated>
+    <link href="../../Petros%20Markaris/La%20revuelta%20de%20las%20cariatides%20%281427%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Petros%20Markaris/La%20revuelta%20de%20las%20cariatides%20%281427%29/La%20revuelta%20de%20las%20cariatides%20-%20Petros%20Markaris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="408 KB" />
+    <author>
+      <name>Petros Márkaris</name>
+      <uri>../authors_0/authors_391_Page_1.xml</uri>
+    </author>
+    <published>2024-04-04T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Tusquets Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <category term="Jaritos" />
+    <summary>Jaritos [16]: La pandemia ha quedado atrás, y Kostas Jaritos ya es jefe de las Fuerzas de Seguridad del Ática, un logro que celebrará con su familia y sus amigos. Después de recibir las felicitaciones del ministro del Interior, regresa a Jefatura… es...</summary>
+    <link href="../book_1/book_1427.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un revés inesperado</title>
+    <id>calibre:book:650</id>
+    <updated>2023-05-10T04:29:12Z</updated>
+    <link href="../../Liane%20Moriarty/Un%20reves%20inesperado%20%28650%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Liane%20Moriarty/Un%20reves%20inesperado%20%28650%29/Un%20reves%20inesperado%20-%20Liane%20Moriarty.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="734 KB" />
+    <author>
+      <name>Liane Moriarty</name>
+      <uri>../authors_0/authors_479_Page_1.xml</uri>
+    </author>
+    <published>2023-04-26T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Suma de Letras</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>De la autora de Big Little Lies, una novela deliciosamente oscura sobre matrimonios, hermanos, secretos y cómo la gente que más queremos es la que nos puede hacer más daño. Los miembros de la familia Delaney se quieren con locura...es solo que a vece...</summary>
+    <link href="../book_0/book_650.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El rey Lear</title>
+    <id>calibre:book:2372</id>
+    <updated>2024-09-09T10:34:17Z</updated>
+    <link href="../../William%20Shakespeare/El%20rey%20Lear%20%282372%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/El%20rey%20Lear%20%282372%29/El%20rey%20Lear%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="139 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_1/authors_1585_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [172]:</summary>
+    <link href="../book_2/book_2372.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El rey de los tejones</title>
+    <id>calibre:book:1740</id>
+    <updated>2024-08-08T05:28:21Z</updated>
+    <link href="../../Philip%20Hensher/El%20rey%20de%20los%20tejones%20%281740%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20Hensher/El%20rey%20de%20los%20tejones%20%281740%29/El%20rey%20de%20los%20tejones%20-%20Philip%20Hensher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="492 KB" />
+    <author>
+      <name>Philip Hensher</name>
+      <uri>../authors_1/authors_1245_Page_1.xml</uri>
+    </author>
+    <published>2013-09-29T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Libros del Asteroide</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Lejos del ajetreo, la inseguridad y la contaminación de Londres, los acomodados habitantes de Hanmouth −un pintoresco pueblo en el estuario del río Hain, en el canal de Bristol− viven orgullosos en unos carísimos cottages que han restaurado en el cen...</summary>
+    <link href="../book_1/book_1740.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El rey se divierte</title>
+    <id>calibre:book:2413</id>
+    <updated>2024-09-09T10:34:26Z</updated>
+    <link href="../../Victor%20Hugo/El%20rey%20se%20divierte%20%282413%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Victor%20Hugo/El%20rey%20se%20divierte%20%282413%29/El%20rey%20se%20divierte%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="115 KB" />
+    <author>
+      <name>Victor Hugo</name>
+      <uri>../authors_1/authors_1420_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Histórico" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [244]:</summary>
+    <link href="../book_2/book_2413.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tags_3/tags_371_R_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 4)" />
+  <link href="../tags_3/tags_371_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 4)" />
+</feed>

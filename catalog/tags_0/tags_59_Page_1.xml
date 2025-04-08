@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Juvenil</title>
+  <id>Calibre2opds:taglist:J:59</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_59_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Juvenil" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por J" />
+  <entry>
+    <title>Belleza Negra</title>
+    <id>calibre:book:2294</id>
+    <updated>2024-09-09T10:34:02Z</updated>
+    <link href="../../Anna%20Sewell/Belleza%20Negra%20%282294%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anna%20Sewell/Belleza%20Negra%20%282294%29/Belleza%20Negra%20-%20Anna%20Sewell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="188 KB" />
+    <author>
+      <name>Anna Sewell</name>
+      <uri>../authors_1/authors_1602_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Juvenil" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [3]:</summary>
+    <link href="../book_2/book_2294.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fábulas</title>
+    <id>calibre:book:2031</id>
+    <updated>2024-09-06T02:09:01Z</updated>
+    <link href="../../Felix%20Maria%20Samaniego/Fabulas%20%282031%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Felix%20Maria%20Samaniego/Fabulas%20%282031%29/Fabulas%20-%20Felix%20Maria%20Samaniego.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="141 KB" />
+    <author>
+      <name>Félix María Samaniego</name>
+      <uri>../authors_1/authors_1461_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Infantil" />
+    <category term="y" />
+    <category term="Juvenil" />
+    <category term="Poesía" />
+    <category term="Cuentos" />
+    <category term="Clásico" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2031.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hopeless. Tocando el cielo</title>
+    <id>calibre:book:2580</id>
+    <updated>2024-09-11T03:29:02Z</updated>
+    <link href="../../Colleen%20Hoover/Hopeless.%20Tocando%20el%20cielo%20%282580%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colleen%20Hoover/Hopeless.%20Tocando%20el%20cielo%20%282580%29/Hopeless.%20Tocando%20el%20cielo%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="414 KB" />
+    <author>
+      <name>Colleen Hoover</name>
+      <uri>../authors_0/authors_6_Page_1.xml</uri>
+    </author>
+    <published>2012-12-18T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novela" />
+    <category term="Intriga" />
+    <category term="Juvenil" />
+    <category term="Romántico" />
+    <category term="Lang:es" />
+    <summary>En ocasiones, conocer la verdad resulta más doloroso que creer las mentiras. Eso es lo que la joven Sky descubre cuando su camino se cruza con el de Dean Holder, un chico conflictivo que tiene la irritante habilidad de despertarle emociones que ni si...</summary>
+    <link href="../book_2/book_2580.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La ladrona de libros</title>
+    <id>calibre:book:536</id>
+    <updated>2023-04-05T00:40:18Z</updated>
+    <link href="../../Markus%20Zusak/La%20ladrona%20de%20libros%20%28536%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Markus%20Zusak/La%20ladrona%20de%20libros%20%28536%29/La%20ladrona%20de%20libros%20-%20Markus%20Zusak.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Markus Zusak</name>
+      <uri>../authors_0/authors_396_Page_1.xml</uri>
+    </author>
+    <published>2005-09-01T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Drama" />
+    <category term="Infantil" />
+    <category term="Juvenil" />
+    <category term="Lang:es" />
+    <summary>Érase una vez un pueblo donde las noches eran largas y la muerte contaba su propia historia. En el pueblo vivía una niña que quería leer, un hombre que tocaba el acordeón y un joven judío que escribía cuentos hermosos para escapar del horror de la gu...</summary>
+    <link href="../book_0/book_536.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El paraíso de los gatos</title>
+    <id>calibre:book:2384</id>
+    <updated>2024-09-09T10:34:20Z</updated>
+    <link href="../../Emile%20Zola/El%20paraiso%20de%20los%20gatos%20%282384%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emile%20Zola/El%20paraiso%20de%20los%20gatos%20%282384%29/El%20paraiso%20de%20los%20gatos%20-%20Emile%20Zola.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="75 KB" />
+    <author>
+      <name>Émile Zola</name>
+      <uri>../authors_1/authors_1607_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aventuras" />
+    <category term="Juvenil" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [200]:</summary>
+    <link href="../book_2/book_2384.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Principito</title>
+    <id>calibre:book:1350</id>
+    <updated>2024-03-21T01:00:35Z</updated>
+    <link href="../../Antoine%20de%20Saint-Exupery/El%20Principito%20%281350%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antoine%20de%20Saint-Exupery/El%20Principito%20%281350%29/El%20Principito%20-%20Antoine%20de%20Saint-Exupery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="456 KB" />
+    <author>
+      <name>Antoine de Saint-Exupéry</name>
+      <uri>../authors_0/authors_989_Page_1.xml</uri>
+    </author>
+    <published>1943-04-06T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Fantástico" />
+    <category term="Juvenil" />
+    <category term="Lang:es" />
+    <summary>'El Principito' (en francés: 'Le Petit Prince'), publicado el 6 de abril de 1943, es el relato corto más conocido del escritor y aviador francés Antoine de Saint-Exupéry. Lo escribió mientras se hospedaba en un hotel en Nueva York y fue publicado por...</summary>
+    <link href="../book_1/book_1350.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

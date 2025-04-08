@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e170348e-1457-46a6-b24d-c62c79dbc4fb</dc:identifier>
+        <dc:title>Las reglas del Mikado</dc:title>
+        <dc:creator opf:file-as="Luca, Erri de" opf:role="aut">Erri de Luca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un encuentro fortuito puede entrelazar dos vidas para siempre a pesar de la distancia. Ella es una joven gitana que huye de su familia para escapar de un matrimonio concertado; él, un relojero que acampa en la frontera y la acoge en su tienda. El encuentro inaugura un entendimiento hecho de diálogos nocturnos, un intercambio de saberes y visiones: ella, que cree en el destino, en las señales, en el dios de las cosas; él, que se siente un engranaje de la máquina del mundo y que interpreta ese mundo según las reglas del juego del Mikado, como si jugar fuera una forma de poner orden en el caos. Un entendimiento que durará toda una vida, incluso en la distancia, y que tendrá consecuencias que reverberarán a lo largo del tiempo: ambos tomarán decisiones inevitables que cambiarán el destino del otro.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432243790</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-13T16:06:43.377312+00:00"/>
+        <meta name="calibre:title_sort" content="reglas del Mikado, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

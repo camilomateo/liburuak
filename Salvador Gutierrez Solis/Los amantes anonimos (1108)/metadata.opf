@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db42f8c9-4b6d-433c-befa-9a6b8a04d15d</dc:identifier>
+        <dc:title>Los amantes anónimos</dc:title>
+        <dc:creator opf:file-as="Salvador Gutiérrez Solís" opf:role="aut">Salvador Gutiérrez Solís</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-19T22:00:00+00:00</dc:date>
+        <dc:description>El mismo día en el que Juan Carlos I anuncia su abdicación aparecen en tres ciudades de España —Sevilla, Madrid y Barcelona—, en papeleras de lugares muy conocidos y frecuentados, restos humanos semicongelados: un pie, una mano y un corazón. Todos los indicios apuntan a la siniestra estrategia de un asesino en serie que quiere acaparar toda la atención.
+
+Para tratar de resolver el caso, la policía recurre a la excéntrica, huraña e intuitiva inspectora Carmen Puerto, que a pesar de su autoimpuesta reclusión, es capaz de analizar, interpretar y desvelar los crímenes más complicados. Como en "El lenguaje de las mareas", Carmen Puerto encontrará en Jaime Cuesta y Julia Núñez los ojos y las manos que la conectarán con el exterior.
+
+
+
+"Los amantes anónimos", primera de las novelas protagonizada por Carmen Puerto, es un fascinante y adictivo thriller en el que se dan cita los asesinos en serie, el mundo de la televisión y el de las finanzas, la corrupción política, la soledad tras las redes sociales, el sexo en todas sus variantes y los rincones más oscuros de las páginas de contactos. Una novela que toma al lector de la mano y lo introduce en la trama, hasta conseguir que llegue a "contemplarla" con sus propios ojos, gracias a la narrativa visual y precisa de Salvador Gutiérrez Solís. Literatura de alto voltaje que se asoma a la realidad, convirtiéndola en una pieza esencial de un complejo y perfectamente ensamblado artefacto narrativo.
+
+
+
+"Un turbador retrato del mal". EL CULTURAL
+
+"Gutiérrez Solís es uno de los novelistas más vigorosos de su generación". CUADERNOS DEL SUR
+
+"Una novela imprescindible". DIARIO IDEAL
+
+"Novela negra de gran calidad". ABC</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Inspectora Carmen Puerto"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:12.816263+00:00"/>
+        <meta name="calibre:title_sort" content="amantes anónimos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

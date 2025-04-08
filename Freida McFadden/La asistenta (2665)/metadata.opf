@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19e60f1e-ce57-4cf0-9fa7-9fb13a395229</dc:identifier>
+        <dc:title>La asistenta</dc:title>
+        <dc:creator opf:file-as="McFadden, Freida" opf:role="aut">Freida McFadden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-21T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Detrás de la puerta, ella lo ve todo&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Todos los días friego la preciosa casa de los Winchester de arriba abajo. Recojo a su hija del colegio y preparo deliciosas comidas para toda la familia antes de subir a cenar sola en mi minúscula habitación del piso superior.&lt;/p&gt;&lt;p&gt;Intento no prestar atención a Nina cuando lo ensucia todo simplemente para ver cómo lo limpio. A las extrañas mentiras que cuenta sobre su propia hija. A su marido, que cada día parece más abatido. Pero cuando miro a Andrew a los ojos, castaños, encantadores y llenos de dolor, no me resulta difícil imaginar cómo sería vivir en la piel de Nina. El gran vestidor, el coche de lujo, el esposo perfecto.&lt;/p&gt;&lt;p&gt;Hasta que un día no me resisto a probarme uno de sus maravillosos vestidos blancos. Solo quiero saber qué se siente. Pero ella pronto lo descubre, y cuando me doy cuenta de que la puerta de mi habitación solo se cierra por fuera ya es demasiado tarde.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Algo me reconforta: los Winchester no saben quién soy en realidad&lt;/b&gt;.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">72614</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Psicológico</dc:subject>
+        <meta name="calibre:series" content="La asistenta"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-10-22T05:58:42.785256+00:00"/>
+        <meta name="calibre:title_sort" content="asistenta, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

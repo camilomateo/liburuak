@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">733</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09f3ef52-0ce6-4c37-8483-805d2d2bd867</dc:identifier>
+        <dc:title>Yoga para la vida real. Retox</dc:title>
+        <dc:creator opf:file-as="Imparato, Lauren" opf:role="aut">Lauren Imparato</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-06T22:00:00+00:00</dc:date>
+        <dc:description>¿Quieres ir a clase con la mejor profesora de yoga del mundo? ¿Quieres sacarle todo el partido a los beneficios del yoga?El ritmo frenético de nuestro día a día es ineludible: prisas, presión, cansancio, estrés... Y esta exigencia no tiene perspectivas de cambio. La solución pasa pues por mejorar nuestro mundo interior y no por enfrentarnos al exterior. Nada de retiros espirituales, nada de sesiones de meditación, nada de ayunos. Hacen falta recursos concretos para enfrentarnos a cada uno de nuestros retos diarios, soluciones que mejoren nuestra vitalidad, éxito, fuerza y felicidad.Yoga para la vida real. Retox nos presenta estas soluciones, basadas en una visión revolucionaria de entender y practicar el yoga, ideada al 100 % para resolver los contratiempos y dificultades de la vida actual: dolores de cabeza y migrañas, estrés, dolor de espalda, agotamiento, desordenes en el sueño, jetlag, síndrome premenstrual, sensación de hinchazón permanente, falta de agilidad, decaimiento,...</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408157038</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:59:51.890963+00:00"/>
+        <meta name="calibre:title_sort" content="Yoga para la vida real. Retox"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

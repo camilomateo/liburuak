@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7de105d7-1ff6-4d96-8384-e26092c1fc19</dc:identifier>
+        <dc:title>Amores que matan</dc:title>
+        <dc:creator opf:file-as="Barceló, Elia" opf:role="aut">Elia Barceló</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;HAY UN LUGAR DONDE DUERMEN ANTIGUOS SECRETOS OLVIDADOS:&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;SECRETOS DE AMOR Y MUERTE, DE SANGRE Y HUESOS.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;BIENVENIDOS A SANTA RITA.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Los habitantes de Santa Rita, con sus problemas e historias, y dos cadáveres – uno, un bebé cuyo esqueleto se acaba de encontrar entre los restos de un muro derribado, en la zona antigua de Santa Rita, junto a unos cuadros muy valiosos de la escuela expresionista "Der Blaue Reiter", el otro, un conocido especialista de historia del arte que tenía que hacer el peritaje de los cuadros - forman el núcleo narrativo de la nueva obra de Elia Barceló, un Noir Mediterráneo, con guiños a clásicos del suspense como Colombo o Dexter. La inspectora Lola Galindo, con la ayuda de Robles y otros más, investiga un caso lleno de misterios y secretos, tanto en el mundo del arte del siglo pasado como en la actualidad.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Sobre Muerte en Santa Rita&lt;/p&gt;
+&lt;p align="justify"&gt;Santa Rita es mi declaración de amor al Mediterráneo, y también a uno de los géneros literarios que más disfruto, el de crimen y misterio clásico, esas maravillosas novelas que recuerdo de mi adolescencia, que se leen muy rápido, que te llevan a otro lugar, te presentan un puzle que tienes que resolver, y se cierran con una sonrisa. Si he conseguido eso, estaré más que pagada.Elia Barceló&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0BS1X89KQ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788419449658</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">123080865</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">D6imEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Elia Barceló&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Muerte en Santa Rita"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:01:55.065080+00:00"/>
+        <meta name="calibre:title_sort" content="Amores que matan"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

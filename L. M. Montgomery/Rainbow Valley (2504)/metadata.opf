@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2504</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69348392-39a2-411f-aa12-d096336f0812</dc:identifier>
+        <dc:title>Rainbow Valley</dc:title>
+        <dc:creator opf:file-as="Montgomery, L. M." opf:role="aut">L. M. Montgomery</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Orphans</dc:subject>
+        <dc:subject>Juvenile</dc:subject>
+        <dc:subject>Family</dc:subject>
+        <dc:subject>Life</dc:subject>
+        <dc:subject>Foster</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>20th</dc:subject>
+        <dc:subject>Century</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:44+00:00"/>
+        <meta name="calibre:title_sort" content="Rainbow Valley"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

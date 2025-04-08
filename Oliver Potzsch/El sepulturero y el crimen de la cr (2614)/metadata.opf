@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d76d8d46-d05c-4cf2-b7a3-60e9fb04665a</dc:identifier>
+        <dc:title>El sepulturero y el crimen de la cripta</dc:title>
+        <dc:creator opf:file-as="Pötzsch, Oliver" opf:role="aut">Oliver Pötzsch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-10T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;El thriller histórico que triunfa en Europa. 3.500.000 de lectores. &lt;/p&gt;
+&lt;p align="justify"&gt;&lt;strong&gt;Viena, 1895.&lt;/strong&gt; Durante una visita turística clandestina a la Cripta de San Esteban aparece el cuerpo de un hombre con el rostro deformado por el horror. En un momento en el que los fantasmas y el espiritismo se imponen como moda, el difunto se empeñaba en desenmascarar a los impostores que ganaban dinero estafando a la gente crédula. Leopold von Herzfeldt será el encargado de investigar el caso junto a la joven Julia, con quien mantiene una relación a espaldas del cuerpo de policía. Mientras, el sepulturero Augustin Rothmayer decide investigar la desaparecen tantos niños y qué tiene que ver un viejo cuento infantil prtagonizado por el Grajo Nocturno pensado para asustar a los más pequeños.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0D7H3749H</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ikMPEQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">214506578</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788408293286</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:series" content="Inspector Leopold von Herzfeldt"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-09-17T10:24:17.518842+00:00"/>
+        <meta name="calibre:title_sort" content="sepulturero y el crimen de la cripta, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

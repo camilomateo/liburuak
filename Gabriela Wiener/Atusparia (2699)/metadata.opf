@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8c083d9-e472-415b-9be0-f6a4ca29fde7</dc:identifier>
+        <dc:title>Atusparia</dc:title>
+        <dc:creator opf:file-as="Wiener, Gabriela" opf:role="aut">Gabriela Wiener</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-17T00:00:00+00:00</dc:date>
+        <dc:description>La gran novela rusa de Gabriela Wiener.«Seguirle lapista a Wiener es uno delospocoslujos quenos quedan».AlejandroZambra «¿Puede una novela ser esperpento y lírica, tragedia y farsa, denuncia y comedia, revolución y pasión amorosa? Marxismo internacional, revuelta indigenista, neoliberalismo, extractivismo feroz y, ay, la historia de los que nunca importan en una prosa extraordinaria –de las más extraordinarias en castellano hoy- y llena de aventuras».Gabriela Cabezón CámaraUna política de izquierda víctima del lawfare se encuentra prisionera en una cárcel de alta seguridad en las entrañas de la selva amazónica.Se hace llamar Atusparia, como el líder de la resistencia indígena peruana del siglo XIX y como el delirante colegio comunista donde estudió en los estertores de la guerra fría. El amor en tiempos del capitalismo la engulle en una espiral de drogas y sexualidad frenética que la alejarán de los viejos ideales de su educación hasta que el llamado de sus raíces la llevarán...</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-31T16:50:33+00:00"/>
+        <meta name="calibre:title_sort" content="Atusparia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

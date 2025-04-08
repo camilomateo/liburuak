@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2613</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6847a13e-d64f-4340-94c0-aa57638f9cc2</dc:identifier>
+        <dc:title>Joyland</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-06T06:00:00+00:00</dc:date>
+        <dc:description>Devin Jones es un estudiante de 21 años que consigue trabajo en el verano de 1973 en Joyland, un pequeño parque de atracciones de estilo antiguo, anterior a la llegada de los modernos parques temáticos. Una de las leyendas que corre entre los empleados es que en la Casa de los horrores habita el fantasma de una chica asesinada allí años atrás. Mientras cumple sus obligaciones diarias, Devin va atando los cabos sueltos que lo llevarán a descubrir la identidad del asesino.</dc:description>
+        <dc:identifier opf:scheme="EPL">4194</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">2.5</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-17T10:24:17.364095+00:00"/>
+        <meta name="calibre:title_sort" content="Joyland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

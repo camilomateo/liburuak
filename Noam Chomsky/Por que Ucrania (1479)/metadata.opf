@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c12cd445-f4dd-44cf-9d7f-30cccb96636f</dc:identifier>
+        <dc:title>Por qué Ucrania</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Noam Chomsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-10T21:57:08+00:00</dc:date>
+        <dc:description>&lt;div&gt;En este libro, Noam Chomsky expone las causas de la invasión de 
+Ucrania iniciada por Rusia en febrero de 2022, partiendo de dos premisas
+ fundamentales: por un lado, estamos ante «un grave crimen de guerra por
+ el que hay que buscar explicaciones, pero que no tiene ni 
+justificaciones ni atenuantes»; por el otro, estamos asistiendo a un 
+movimiento expansivo de la OTAN hacia el este, que merece ser destacado y
+ analizado.&lt;br&gt;A lo largo de ocho entrevistas que citan documentos 
+confidenciales y explican las dinámicas más complejas de las relaciones 
+entre Rusia, Estados Unidos, la Alianza Atlántica, la UE y China, 
+Chomsky ofrece al lector lo que los medios de comunicación raramente 
+logran proporcionar: la posibilidad de comprender las razones más 
+profundas del conflicto y lo que en ello está en juego, reflexionando a 
+la vez sobre las consecuencias y las reacciones a nivel económico, 
+político y militar en el resto del mundo.&lt;br&gt;Acompañan las entrevistas 
+unos textos del politólogo Pablo Bustinduy, cuyo foco analítico se 
+centra en el papel de Europa ante la guerra ruso-ucraniana y en la 
+necesidad de la UE de encontrar su lugar dentro del nuevo orden 
+internacional del siglo XXI.&lt;/div&gt;</dc:description>
+        <dc:publisher>Altamarea Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T15:13:17+00:00"/>
+        <meta name="calibre:title_sort" content="Por qué Ucrania"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

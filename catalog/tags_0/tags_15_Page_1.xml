@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>det_crime</title>
+  <id>Calibre2opds:taglist:D:15</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="det_crime" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por D" />
+  <entry>
+    <title>El Arte De No Amargarse La Vida</title>
+    <id>calibre:book:273</id>
+    <updated>2023-02-03T08:39:18Z</updated>
+    <link href="../../Rafael%20Santandreu/El%20Arte%20De%20No%20Amargarse%20La%20Vida%20%28273%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rafael%20Santandreu/El%20Arte%20De%20No%20Amargarse%20La%20Vida%20%28273%29/El%20Arte%20De%20No%20Amargarse%20La%20Vida%20-%20Rafael%20Santandreu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="381 KB" />
+    <author>
+      <name>Rafael Santandreu</name>
+      <uri>../authors_0/authors_185_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>www.papyrefb2.net</dcterms:publisher>
+    <category term="det_crime" />
+    <category term="Lang:es" />
+    <summary>Rafael Santandreu explica en esta obra un método claro, concreto y práctico para caminar hacia el cambio psicológico, mejorar nuestra relación con nosotros mismos y superar todos aquellos pensamientos, sentimientos y creencias negativas que nos amarg...</summary>
+    <link href="../book_0/book_273.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vestido de novia</title>
+    <id>calibre:book:114</id>
+    <updated>2023-01-18T00:43:30Z</updated>
+    <link href="../../Pierre%20Lemaitre/Vestido%20de%20novia%20%28114%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pierre%20Lemaitre/Vestido%20de%20novia%20%28114%29/Vestido%20de%20novia%20-%20Pierre%20Lemaitre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="530 KB" />
+    <author>
+      <name>Pierre Lemaitre</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="det_crime" />
+    <category term="Lang:es" />
+    <summary>No dejes que nadie te desvele nada de esta historia
+«Un thriller diabólico, que se lee del tirón, con fascinación y miedo. Arte del grande.»
+Avantages
+Sophie Duguet no entiende qué le sucede: pierde objetos, olvida situaciones, es detenida en un supe...</summary>
+    <link href="../book_0/book_114.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

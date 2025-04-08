@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">805</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b9681d8-08a1-4587-9d71-a0273b083f9c</dc:identifier>
+        <dc:title>Cuando ya no estás</dc:title>
+        <dc:creator opf:file-as="Vidal, Laura" opf:role="aut">Laura Vidal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-24T22:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;El libro que te ayudará a superar la muerte de tu animal de compañía.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Perder a un ser querido nunca es fácil. Al fin y al cabo, ¿cómo podemos pasar página tras la marcha de alguien que ha estado tan presente en nuestra vida? ¿De qué manera hemos de superar el no volver a ver a un amigo, a un miembro de nuestra familia?&lt;/P&gt; &lt;P&gt;Aunque a menudo se le resta importancia, la muerte de un animal de compañía sigue siendo un momento muy duro para quienes la sufren. No por nada ese peludo ha estado ahí día tras día, dándonos calor cuando hacía frío y consuelo cuando estábamos tristes. Y, cuando ya no está, el vacío que deja puede llegar a ser muy doloroso.&lt;/P&gt; &lt;P&gt;Laura Vidal, especialista en gestión del duelo animal, ofrece en este libro un apoyo a todo aquel que haya perdido a su perro, a su gato, y no halle en psicólogos convencionales o en su entorno la ayuda, las palabras y la empatía que necesita. Porque el camino puede ser duro, pero no hay por qué recorrerlo solo.&lt;/P&gt;</dc:description>
+        <dc:publisher>VERGARA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418620195</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-31T11:30:23.243311+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando ya no estás"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

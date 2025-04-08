@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1685</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5ca1e6c-a9a4-4585-8563-2bfd52fd0aeb</dc:identifier>
+        <dc:title>El asesino desconsolado</dc:title>
+        <dc:creator opf:file-as="Guelbenzu, J. M." opf:role="aut">J. M. Guelbenzu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Julia, la mejor amiga de la juez Mariana de Marco, acaba de mudarse a un apartamento nuevo, amplio y luminoso, en uno de los rascacielos más bonitos y lujosos del barrio más moderno de la ciudad de G… Para celebrarlo, Mariana decide hacerle una visita inesperada e inaugurarlo con un brindis. Pero, al poco de llegar, una llamada al timbre interrumpe la velada. Tras la puerta se encontrarán el cadáver de un hombre que ha sido apuñalado por la espalda con un cuchillo de cocina. &lt;br&gt;&lt;br&gt;La casualidad, o el destino, harán que el caso le sea entregado a la juez De Marco. Los indicios la conducirán a investigar a los vecinos de esta nueva comunidad, donde parece que se encuentra el asesino, y en la que conoceremos a personajes variopintos y sospechosos. La víctima, Hernán Caldera, tenía en su haber una réplica de un cuadro no catalogado del pintor impresionista Monet, y parece ser que este será uno de los hilos más claros de los que poder tirar. Mariana se ve desbordada por este caso y por el inesperado retorno de su novio Javier, el joven periodista con el que ya comparte piso, y que siguiendo su olfato periodístico decidirá investigar la pista del cuadro por su cuenta.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01NCZZ6I1</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788423352166</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Mariana de Marco"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="2024-07-29T09:15:45.306917+00:00"/>
+        <meta name="calibre:title_sort" content="asesino desconsolado, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

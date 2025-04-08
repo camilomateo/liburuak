@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>S2</title>
+  <id>Calibre2opds:taglist:S:35</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_35_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="S2" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por S" />
+  <entry>
+    <title>Almuerzo en el café Gotham</title>
+    <id>calibre:book:345</id>
+    <updated>2023-02-21T01:25:02Z</updated>
+    <link href="../../Stephen%20King/Almuerzo%20en%20el%20cafe%20Gotham%20%28345%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Almuerzo%20en%20el%20cafe%20Gotham%20%28345%29/Almuerzo%20en%20el%20cafe%20Gotham%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="2 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../authors_0/authors_241_Page_1.xml</uri>
+    </author>
+    <published>2022-10-24T05:27:15Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nórdica Libros</dcterms:publisher>
+    <category term="S2" />
+    <category term="Lang:es" />
+    <summary>Almuerzo en el café Gotham apareció originalmente en la antología Dark Love de 1995 (editada por Nancy A. Collins , Edward E. Kramer y Martin H. Greenberg).Un hombre llamado Steve Davis llega a casa un día y encuentra una carta de su esposa, Diane, q...</summary>
+    <link href="../book_0/book_345.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El confinado</title>
+    <id>calibre:book:1008</id>
+    <updated>2023-08-27T03:30:30Z</updated>
+    <link href="../../Roberto%20Dominguez%20Moro/El%20confinado%20%281008%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Roberto%20Dominguez%20Moro/El%20confinado%20%281008%29/El%20confinado%20-%20Roberto%20Dominguez%20Moro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="527 KB" />
+    <author>
+      <name>Roberto Domínguez Moro</name>
+      <uri>../authors_0/authors_747_Page_1.xml</uri>
+    </author>
+    <published>2020-04-23T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Maeva Ediciones</dcterms:publisher>
+    <category term="S2" />
+    <category term="Lang:es" />
+    <summary>Las redes sociales, los aplausos colectivos y los encuentros con Julia, su vecina, no servirán para sosegar a Juan, más obsesionado cada día que pasa con el estado de salud de sus vecinos. Al contrario, la declaración del estado de alarma, la intoxic...</summary>
+    <link href="../book_1/book_1008.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La máquina del amor sagrado y profano</title>
+    <id>calibre:book:311</id>
+    <updated>2023-02-16T08:33:16Z</updated>
+    <link href="../../Iris%20Murdoch/La%20maquina%20del%20amor%20sagrado%20y%20profa%20%28311%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Iris%20Murdoch/La%20maquina%20del%20amor%20sagrado%20y%20profa%20%28311%29/La%20maquina%20del%20amor%20sagrado%20y%20p%20-%20Iris%20Murdoch.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="534 KB" />
+    <author>
+      <name>Iris Murdoch</name>
+      <uri>../authors_0/authors_102_Page_1.xml</uri>
+    </author>
+    <published>2022-03-22T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Impedimenta</dcterms:publisher>
+    <category term="S2" />
+    <category term="Lang:es" />
+    <summary>Ganadora del Premio Whitbread, La máquina del amor sagrado y profano es una fábula sobre la falsedad, el fingimiento, la vida encubierta y la renuncia. Un prodigioso examen de los disfraces con los que somos capaces de desfigurar al amor.Montague «Mo...</summary>
+    <link href="../book_0/book_311.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mira las luces, amor mio</title>
+    <id>calibre:book:298</id>
+    <updated>2023-02-13T08:25:36Z</updated>
+    <link href="../../Annie%20Ernaux/Mira%20las%20luces%2C%20amor%20mio%20%28298%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Annie%20Ernaux/Mira%20las%20luces%2C%20amor%20mio%20%28298%29/Mira%20las%20luces%2C%20amor%20mio%20-%20Annie%20Ernaux.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="507 KB" />
+    <author>
+      <name>Annie Ernaux</name>
+      <uri>../authors_0/authors_206_Page_1.xml</uri>
+    </author>
+    <published>2022-08-09T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Cabaret Voltaire</dcterms:publisher>
+    <category term="S2" />
+    <category term="Lang:es" />
+    <summary>Durante un año, Annie Ernaux llevó un diario de sus visitas al hipermercado Alcampo del centro comercial de Les Trois-Fontaines, en la región parisina. En él, anotó sus observaciones, esforzándose por dirigir una mirada nueva, por captar lo impercept...</summary>
+    <link href="../book_0/book_298.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Smonk</title>
+    <id>calibre:book:1293</id>
+    <updated>2024-03-15T09:02:26Z</updated>
+    <link href="../../Tom%20Franklin/Smonk%20%281293%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tom%20Franklin/Smonk%20%281293%29/Smonk%20-%20Tom%20Franklin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="416 KB" />
+    <author>
+      <name>Tom Franklin</name>
+      <uri>../authors_0/authors_940_Page_1.xml</uri>
+    </author>
+    <published>2022-12-29T08:04:47Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Dirty Works</dcterms:publisher>
+    <category term="S2" />
+    <category term="Lang:es" />
+    <summary>Smonk odia a las cabras y a los irlandeses. Tiene un Winchester y gasta un bastón de empuñadura de marfil con una espada oculta. Lleva cuatro o cinco revólveres repartidos por la ropa, munición de sobra, cartuchos de dinamita y un cuchillo en una bot...</summary>
+    <link href="../book_1/book_1293.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tierra inestable</title>
+    <id>calibre:book:392</id>
+    <updated>2023-03-09T00:08:54Z</updated>
+    <link href="../../Claire%20Fuller/Tierra%20inestable%20%28392%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Claire%20Fuller/Tierra%20inestable%20%28392%29/Tierra%20inestable%20-%20Claire%20Fuller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="512 KB" />
+    <author>
+      <name>Claire Fuller</name>
+      <uri>../authors_0/authors_285_Page_1.xml</uri>
+    </author>
+    <published>2023-03-06T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Impedimenta</dcterms:publisher>
+    <category term="S2" />
+    <category term="Lang:es" />
+    <summary>Con sensibilidad e inteligencia, Claire Fuller compone un relato desgarrador sobre la pobreza rural en el siglo XXI. Sus personajes luchan por salir adelante en una sociedad que no es del todo consciente de haberlos dejado atrás.Los mellizos Jeanie y...</summary>
+    <link href="../book_0/book_392.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trilogía Nacidos de la bruma (Mistborn)</title>
+    <id>calibre:book:200</id>
+    <updated>2023-01-26T07:21:02Z</updated>
+    <link href="../../Brandon%20Sanderson/Trilogia%20Nacidos%20de%20la%20bruma%20%28Mistb%20%28200%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Trilogia%20Nacidos%20de%20la%20bruma%20%28Mistb%20%28200%29/Trilogia%20Nacidos%20de%20la%20bruma%20%28M%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="3 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../authors_0/authors_126_Page_1.xml</uri>
+    </author>
+    <published>2019-06-27T05:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Nova</dcterms:publisher>
+    <category term="S2" />
+    <category term="Ciencia Ficción" />
+    <category term="Lang:es" />
+    <summary>El imperio final,El Pozo de la Ascensión y El Héroe de las Eras son los tres primeros libros de la saga «Nacidos de la Bruma [Mistborn]», obra imprescindible del Cosmere, el universo destinado a dar forma a la serie más extensa y fascinante jamás esc...</summary>
+    <link href="../book_0/book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

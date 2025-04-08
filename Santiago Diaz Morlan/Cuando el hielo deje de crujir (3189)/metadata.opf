@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e38d909-69ac-4728-bf67-ae9a51a36c8e</dc:identifier>
+        <dc:title>Cuando el hielo deje de crujir</dc:title>
+        <dc:creator opf:file-as="Santiago Díaz Morlán" opf:role="aut">Santiago Díaz Morlán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-24T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;31 de diciembre del año 406 d. C. Vándalos, alanos y suevos aprovechan que el cauce del Rin se congela para cruzar en masa el limes del opulento Imperio occidental. Licia, una joven aristócrata, y Quinto, un general al mando de las legiones enviadas por Estilicón para guardar la frontera, unen entonces sus destinos. Pero terminan separándose y comienzan, cada uno por su lado, sendos viajes que los llevarán a vivir el trágico destino del Imperio. Ella a través de la Galia e Hispania y él desde Germania a Italia. El cerco y caída de Roma en el año 410 d. C. volverá a unir sus vidas, empañadas por la guerra, las intrigas políticas, la traición, la ambición y la cólera de los desposeídos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Pàmies</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410070288</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-23T19:31:40.258914+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando el hielo deje de crujir"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

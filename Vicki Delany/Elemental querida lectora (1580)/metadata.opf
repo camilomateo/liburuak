@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1580</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a1fd13f-b3e5-472d-9637-3dad64dfc9f5</dc:identifier>
+        <dc:title>Elemental querida lectora</dc:title>
+        <dc:creator opf:file-as="Delany, Vicki" opf:role="aut">Vicki Delany</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-23T06:00:00+00:00</dc:date>
+        <dc:description>Gemma Doyle regenta, junto a su gato Moriarty, la Sherlock Holmes Bookshop, una librería especializada en el famoso detective y ubicada en el número 222 de Baker Street de Cape Cod. Tras la visita de un grupo de jugadoras de bridge, Gemma encuentra una revista rara y muy valiosa que contiene la primera historia de Sherlock Holmes. Un hallazgo trascendente que deja de parecer fortuito cuando una de las mujeres que visitaron la tienda aparece muerta. Desde el principio, Gemma será la principal sospechosa, pero, con ayuda de su amiga Jayne, que dirige el Salón del Té de la Señora Hudson, se pondrán manos a la obra para investigar y limpiar su nombre siguiendo las pistas de un atractivo experto en libros raros.</dc:description>
+        <dc:publisher>Editorial Alma</dc:publisher>
+        <dc:identifier opf:scheme="13ID">50002510</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">336</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:series" content="Misterios en la librería Sherlock Holmes"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:52.710347+00:00"/>
+        <meta name="calibre:title_sort" content="Elemental querida lectora"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

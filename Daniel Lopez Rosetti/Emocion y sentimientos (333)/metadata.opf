@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">333</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47a86434-efc4-4572-ae7b-b2dd7c750227</dc:identifier>
+        <dc:title>Emoción y sentimientos</dc:title>
+        <dc:creator opf:file-as="Rosetti, Daniel López" opf:role="aut">Daniel López Rosetti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Pese a que muchos así lo consideremos, no es lo mismo emoción que sentimientos. Las emociones son vivencias con rostro (miedo, ira, alegría, tristeza, asco, y sorpresa) y las podemos distinguir físicamente. No se aprenden, forma parte de nuestra herencia biológica y son reconocibles por cualquier persona en cualquier parte del mundo. Un ciego de nacimiento nunca ha visto una expresión de miedo o alegría, pero la expresará de una forma común a todos nosotros. Cuando esas emociones básicas se mezclan, se tramitan en el cerebro, se convierten en sentimientos (amor, fe, orgullo, culpa…). Éstos son menos intensos que las emociones, pero mucho más duraderos.&lt;br /&gt;&lt;br /&gt; En este libro, Rosetti, uno de los mayores expertos iberoamericanos en cardiología y enfermedades relacionadas con el estrés y la ansiedad, pone de relieve el relevante papel que juegan las emociones y los sentimientos en nuestra toma de decisiones y las acciones que se derivan de ellas. Asimismo nos ofrece las herramientas para familiarizarnos con todas ellas y distinguir qué tienen en común y en qué se diferencian, así como para aprender a reparar en lo que sentimos, en lo que hacemos sentir a los demás y a descubrir cómo influyen en nuestra salud física.&lt;br /&gt;&lt;br /&gt; Es frecuente que alguien elabore una explicación racional sobre una decisión determinada, cuando en realidad la mayoría de veces esa decisión es simple y llanamente el resultado del deseo impulsado por las emociones y los sentimientos más profundos y, en algunos casos, ocultos en nuestro inconsciente.&lt;/p&gt;</dc:description>
+        <dc:publisher>Ariel</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788434427891</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel López Rosetti&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-16T19:12:17.399644+00:00"/>
+        <meta name="calibre:title_sort" content="Emoción y sentimientos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1251</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a20f4bb0-965f-4da8-9157-a486b73f94c6</dc:identifier>
+        <dc:title>Menos costes, más rentabilidad</dc:title>
+        <dc:creator opf:file-as="Barra, Unai Ansejo" opf:role="aut">Unai Ansejo Barra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Menos costes, más rentabilidad. Este libro que tienes entre las 
+manos se ha ido cocinando a fuego muy lento desde hace varios años. 
+Primero, muchos años de experiencia laboral relacionada con la gestión 
+de activos y de formación académica han ido creando el andamiaje 
+intelectual necesario. Segundo, la creación de Indexa Capital me ha 
+ayudado a poner en marcha todos los aprendizajes, a darles forma y 
+bajarlos a tierra para ser útiles. Y tercero, mi vocación de formación y
+ transparencia ha hecho que vaya escribiendo y anotando toda información
+ que creía importante transmitir en el blog de Indexa. Este libro, es 
+fruto de todo este proceso.Hay muchos libros de inversión, pero pienso 
+que este libro puede ser útil a aquellos inversores o ahorradores que 
+buscan una forma sostenible, práctica y académicamente contrastada de 
+poner a trabajar su dinero. En el cuento mi propia evolución como 
+inversor.&lt;/p&gt;</dc:description>
+        <dc:publisher>indexcapital</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08NZTZDHN</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-23T08:42:00.182408+00:00"/>
+        <meta name="calibre:title_sort" content="Menos costes, más rentabilidad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

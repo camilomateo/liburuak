@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3014</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60e8c9bf-6468-4925-9572-73ac34373ae0</dc:identifier>
+        <dc:title>A lo marciano</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1951-12-31T23:00:00+00:00</dc:date>
+        <dc:description>A lo marciano dos novelas cortas y dos relatos de Isaac Asimov publicados originalmente a principios de los años cincuenta, década que se recuerda como la más fructífera y memorable de toda la su trayectoria como escritor de ciencia ficción. Las dos narraciones largas son particularmente sólidas y merecen figurar entre las obras más destacadas de Asimov. Planteando un cierto grado de expansión de la humanidad por el sistema solar, A lo marciano describe la crisis que padece una colonia afincada precariamente en Marte como consecuencia de los intereses políticos conservadores de un mandatario terresrtre; es una reflexión sobre las condiciones necesarias y los problemas implicados en la carrera espacial, al tiempo que un lamento sobre el derroche energético…, veinte años antes del advenimiento de la crisis de la energía. Engañabobos se centra en el estudio que lleva a cabo una expedición científica de los restos de una colonia afincada en un planeta bellísimo, que ha sucumbido a los efectos mortales de una misteriosa enfermedad; a la fascinación del poder llegar a conocer los posibles escenarios del universo y las virtudes de una trama impecable, hay que añadir el examen a fondo sobre las supuestas virtudes del conocimiento especializado.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:series" content="Super Ficción"/>
+        <meta name="calibre:series_index" content="61"/>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:52+00:00"/>
+        <meta name="calibre:title_sort" content="A lo marciano"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

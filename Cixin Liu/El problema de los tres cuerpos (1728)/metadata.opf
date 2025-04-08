@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1728</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c5b7c26-3a39-4d2f-a50f-75d717e660a6</dc:identifier>
+        <dc:title>El problema de los tres cuerpos</dc:title>
+        <dc:creator opf:file-as="Liu, Cixin" opf:role="aut">Cixin Liu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-17T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El primer libro de la «Trilogía de los Tres Cuerpos», el fenómeno editorial chino que ha conquistado al mundo y ha ganado el premio Hugo 2015 a la mejor novela.&lt;/p&gt;
+&lt;p&gt;El problema de los tres cuerpos es la primera novela no escrita originariamente en inglés galardonada con el premio Hugo, el Nobel del género de la ciencia ficción.&lt;/p&gt;
+&lt;p&gt;Su autor, Cixin Liu, ha sido considerado el gran descubrimiento del géneroy es capaz de vender cuatro millones de ejemplares solamente en China y de hacerse con prescriptores de la talla de Barack Obama, quien seleccionó El problema de los tres cuerpos como una de sus lecturas navideñas de 2015, y Mark Zuckerberg, que lo convirtió en la primera novela de su club de lectura.&lt;/p&gt;
+&lt;p&gt;El público y la crítica de los cinco continentes se rinden ante esta obra maestra, enormemente visionaria, sobre el papel de la ciencia en nuestras sociedades, que nos ayuda a comprender el pasado y el futuro de China, pero también, leída en clave geopolítica, del mundo en que vivimos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-08T14:59:24.190335+00:00"/>
+        <meta name="calibre:title_sort" content="problema de los tres cuerpos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

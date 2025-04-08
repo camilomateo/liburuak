@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4e152c4-a92a-411f-903f-c295a6935afb</dc:identifier>
+        <dc:title>La sombra de los sueños</dc:title>
+        <dc:creator opf:file-as="Giner, Gonzalo" opf:role="aut">Gonzalo Giner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Hay sueños que es mejor no cumplir. Una historia repleta de acción, aventura y conspiraciones en torno a la figura histórica de Saladino. Sarah Ludwig es una sofisticada ladrona de arte. Tras su último robo, un valioso Manet, contacta con ella el emir Jalid bin Ayub, un apasionado amante de los caballos que, conquistado por su talento, le pide ayuda para llevar a cabo un objetivo increíblemente ambicioso y arriesgado. Para lograrlo, Jalid necesita emprender también una compleja excavación en una convulsa Siria y reunir el empeño de un hombre de ciencia, corto en escrúpulos y con escasos límites éticos a la hora de proceder. Solo así, el emir podrá hacer realidad una larga obsesión con la que pretende sorprender al mundo y reescribir el pasado: revivir a Shujae, la legendaria yegua del héroe musulmán más grande de la historia, Saladino. ¿Acaso son esas las únicas intenciones de Jalid o van mucho más allá? El éxito de su asombroso plan podría terminar siendo la pesadilla de muchos. Porque todo sueño también tiene su sombra.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T11:44:04+00:00"/>
+        <meta name="calibre:title_sort" content="sombra de los sueños, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

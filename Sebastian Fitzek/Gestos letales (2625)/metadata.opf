@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2625</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c558f648-45ee-4ed2-8ad9-ada543b7d4f2</dc:identifier>
+        <dc:title>Gestos letales</dc:title>
+        <dc:creator opf:file-as="Fitzek, Sebastian" opf:role="aut">Sebastian Fitzek</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-18T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El autor de thriller número uno en Alemania vuelve con una trama absorbente que sorprende en cada giro. 19.000.000 de copias vendidas de todos sus libros. Un pequeño movimiento en la comisura de la boca, el más mínimo cambio en la pupila, son suficientes para «leer» el verdadero yo de una persona. Hannah Herbst es experta en reconocer las señales secretas del cuerpo humano y, como asesora policial, ha atrapado a varios delincuentes peligrosos. Mientras se enfrenta a las consecuencias de la pérdida de memoria después de someterse a una operación, se encuentra ante el caso más terrible de su carrera: una mujer ha asesinado brutalmente a su familia y tras su confesión ha logrado escapar. Hannah dispone únicamente del breve vídeo en el que la asesina admite su culpabilidad para analizar el caso. El único problema es que... la asesina del vídeo es la propia Hannah. La crítica ha dicho: «Los thrillers de Fitzek son impresionantes y están llenos de giros salvajes». Harlan Coben «Sebastian Fitzek es, sin lugar a dudas, uno de los escritores de novela criminal más sugerentes. Sus thrillers son tan intensos que es imposible abandonarlos». Karin Slaughter&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466676908</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-04T08:51:32.041133+00:00"/>
+        <meta name="calibre:title_sort" content="Gestos letales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

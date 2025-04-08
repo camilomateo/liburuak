@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1790</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9241c662-0724-494a-aa9d-89df03fcbe2f</dc:identifier>
+        <dc:title>El ADN dictador</dc:title>
+        <dc:creator opf:file-as="Pita, Miguel" opf:role="aut">Miguel Pita</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-08T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;El prestigioso&lt;b&gt; &lt;/b&gt;científico Miguel Pita ha logrado introducirse con éxito en la mente de Ale, un ser humano cualquiera, durante un día de su vida. En este libro acompañaremos a Ale en el ascensor, en el trabajo o en una cita y, a través de este peculiar experimento, entenderemos hasta qué punto la genética nos marca la existencia y comprenderemos cómo funcionamos realmente. Desde por qué nos pierde tanto el dulce, hasta si la felicidad, la depresión o la inteligencia vienen de serie. ¿De verdad elegimos libremente a nuestra pareja? ¿La infidelidad es hereditaria? ¿Están en mis genes marcadas las enfermedades que padeceré? En conclusión: ¿nacemos o nos hacemos?&lt;/p&gt;
+&lt;p&gt;Y es que, nos guste o no, la naturaleza ha depositado un plan secreto en nuestro interior; todos llevamos un microchip que nos influye.&lt;b&gt; &lt;/b&gt;Nuestro ADN dirige la fabricación de cada parte de nuestro cuerpo y cada una de las reacciones fisiológicas que lo recorren: desde los cambios hormonales, hasta la digestión, pasando por lo que ocurre en el cerebro…&lt;/p&gt;</dc:description>
+        <dc:publisher>Ariel</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:16.063128+00:00"/>
+        <meta name="calibre:title_sort" content="ADN dictador, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

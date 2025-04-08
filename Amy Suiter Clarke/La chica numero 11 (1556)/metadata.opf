@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb241eff-f039-4498-b331-76b2374f273f</dc:identifier>
+        <dc:title>La chica número 11</dc:title>
+        <dc:creator opf:file-as="Clarke, Amy Suiter" opf:role="aut">Amy Suiter Clarke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-21T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Elena Castillo presenta Justicia en el aire, un exitoso podcast que 
+investiga crímenes sin resolver. &lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tras cuatro temporadas, decide abordar 
+el caso del asesino en serie más temible de todos: el Asesino de los 
+Números. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Veinte años atrás, este serial killer tuvo en vilo a toda la 
+ciudad, secuestrando y torturando a chicas jóvenes. Su modus operandi 
+incluía una serie de precisos rituales. Tras el secuestro de la chica 
+número 11, desapareció sin dejar rastro y la opinión popular aceptó que 
+falleció en un incendio. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sin embargo, dos décadas después, una joven es 
+secuestrada y Elena está convencida de que se trata del mismo asesino. 
+¿Ha vuelto realmente el Asesino de los Números, o es que Elena se está 
+obsesionando demasiado?&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:46.188240+00:00"/>
+        <meta name="calibre:title_sort" content="La chica número 11"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

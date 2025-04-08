@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8af33065-bd0b-4425-b2dc-b2e7efa728ca</dc:identifier>
+        <dc:title>Todos los finales felices se parecen</dc:title>
+        <dc:creator opf:file-as="Alberto García-Salido" opf:role="aut">Alberto García-Salido</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-20T06:00:00+00:00</dc:date>
+        <dc:description>La segunda novela de Alberto García-Salido (@nopanaden). Una emotiva y divertida historia, con dosis de drama y de comedia de enredo, escrita con el pulso de la vida misma: a partir de aquellos momentos que no se pueden planear.La historia de Ismael empieza con una llamada de teléfono que prefiere no coger. En vez de hacerlo, ese caluroso día de julio en Madrid decide salir de casa mientras recuerda el relato de su vida, de su familia y de su maldición: una rara enfermedad hereditaria que podría padecer y cuya sombra le acecha desde niño.Ismael ha aceptado su destino, pero un robo inesperado, una persecución policial y una amistad imposible están a punto de demostrarle que, si bien todos los finales felices se parecen, los infelices lo son cada uno a su manera.Alberto García-Salido nos sumerge en las veinticuatro horas que cambiarán para siempre al protagonista de esta emotiva, divertida y frenética novela escrita con el pulso de la vida misma, a partir de aquellos momentos que...</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417809348</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-11-22T11:06:50.948357+00:00"/>
+        <meta name="calibre:title_sort" content="Todos los finales felices se parecen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

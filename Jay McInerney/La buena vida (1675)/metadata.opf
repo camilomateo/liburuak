@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">323797bf-2b36-42a1-8ce5-600e6c578b17</dc:identifier>
+        <dc:title>La buena vida</dc:title>
+        <dc:creator opf:file-as="McInerney, Jay" opf:role="aut">Jay McInerney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Tras superar no pocas dificultades, el matrimonio Calloway sigue unido. Russell continúa trabajando como editor, aunque en un puesto menos importante, y Corrine ha dejado su trabajo en la bolsa para dedicarse a sus dos hijos pequeños y a escribir un guion cinematográfico. &lt;/p&gt;&lt;p&gt;En el Upper East Side, Luke McGavock, un millonario gestor de inversiones, ha decidido tomarse un año sabático para poder dedicar más tiempo a su mujer y a su hija adolescente. Sin embargo, una mañana de septiembre de 2001 el cielo de Nueva York se oscurece y, en los días posteriores, gente que no estaba destinada a encontrarse termina trabajando mano a mano en las tareas de reconstrucción de la ciudad.&lt;/p&gt;&lt;p&gt;En &lt;i&gt;La buena vida&lt;/i&gt;, Jay McInerney retoma a sus dos personajes más carismáticos y se emplea en lo que sabe hacer mejor: presentarnos la complejidad social y moral de la ciudad de Nueva York y a unos protagonistas en los que siempre encontramos ecos de nuestras propias vidas.&lt;/p&gt;</dc:description>
+        <dc:publisher>Libros del Asteroide</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417007522</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Trilogía Calloway"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-07-22T16:21:11.356839+00:00"/>
+        <meta name="calibre:title_sort" content="buena vida, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

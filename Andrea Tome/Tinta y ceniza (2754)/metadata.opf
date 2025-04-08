@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2754</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">903b0953-e95f-4782-8124-367a49bdb6fd</dc:identifier>
+        <dc:title>Tinta y ceniza</dc:title>
+        <dc:creator opf:file-as="Tomé, Andrea" opf:role="aut">Andrea Tomé</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-07T00:00:00+00:00</dc:date>
+        <dc:description>La guerra parecía una amenaza lejana, pero pronto se convirtió en una realidad que teñiría sus vidas de miedo, dolor y esperanza.En el Londres de 1938 las noticias del conflicto bélico iniciado por Alemania son, para los jóvenes británicos, un simple eco, un tema de conversación más. Apenas dos años después, sin embargo, nadie habla de otra cosa. Mientras sus dos mejores amigos se alistan al ejército, Vera aspira a cambiar su puesto actual en el Telegraph por el de corresponsal de guerra. Pero cuando comprende que no van a permitírselo por su condición de mujer, la joven no duda en embarcarse como enfermera para vivir de cerca el combate... Aunque eso pueda significar presenciar la muerte del hombre al que ama.Una conmovedora historia de superación, valentía, amistad y pasión durante la guerra que enfrentó a Europa entera, truncando los destinos de toda una generación.</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-22T10:36:54.872597+00:00"/>
+        <meta name="calibre:title_sort" content="Tinta y ceniza"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

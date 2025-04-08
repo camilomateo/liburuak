@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1050</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">270fdf12-54ad-4190-b375-f8db8894adb6</dc:identifier>
+        <dc:title>Quién esconde tu secreto</dc:title>
+        <dc:creator opf:file-as="Toni Aparicio" opf:role="aut">Toni Aparicio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Nadia es una mujer feliz. Ha cumplido sus aspiraciones profesionales, tiene una relación con el hombre al que ama y un hijo estupendo. Vive en una elegante urbanización, en una casa perfecta para ella y su joven familia. Sin embargo, la felicidad nunca es eterna. Todo empieza a tambalearse cuando recibe un mensaje anónimo en el que acusan a su marido de asesinato. Al principio, Nadia lo ignora, pero al día siguiente se despierta con la noticia de que una vecina ha sido salvajemente golpeada hasta la muerte. Además, el marido de esta ha desaparecido y la policía lo busca como principal sospechoso. Sin embargo, Nadia recuerda algo que ocurrió la noche anterior y que empieza a atormentarle. Mientras tanto, los mensajes no dejan de llegar. ¿Eres de esas que prefieren mirar para otro lado? No. Nadia no es de esa clase de personas. Ha de saber qué está pasando. Y antes de que alguien descubra que ella también tiene secretos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">7wLaEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788411484145</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-11-01T18:27:31.188755+00:00"/>
+        <meta name="calibre:title_sort" content="Quién esconde tu secreto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

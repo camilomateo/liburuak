@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1549</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2449de06-884d-4b62-baed-6736165eadd0</dc:identifier>
+        <dc:title>Cuando nadie nos ve</dc:title>
+        <dc:creator opf:file-as="Sarria, Sergio" opf:role="aut">Sergio Sarria</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-08T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="color: rgb(51, 51, 51); font-family: verdana, arial, helvetica, sans-serif; font-size: small; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Comienza la Semana Santa en Morón de la Frontera (Sevilla). Lucía Gutiérrez, sargento de la Guardia Civil, tiene una reunión de emergencia con la alcaldesa del pueblo, debido a varios incidentes que relacionan a jóvenes costaleros con el consumo de drogas. A poco de montar un operativo de vigilancia, se descubre un caso de suicidio: Antonio Jiménez, conductor del autobús escolar de Morón, ha aparecido muerto en su vivienda, tras abrirse las tripas a la manera del harakiri japonés. Y al día siguiente, unos padres denuncian la&lt;/span&gt;&lt;br style="color: rgb(51, 51, 51); font-family: verdana, arial, helvetica, sans-serif; font-size: small; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;span style="color: rgb(51, 51, 51); font-family: verdana, arial, helvetica, sans-serif; font-size: small; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;desaparición de su hijo Álex, de siete años. No va a ser una Semana Santa cualquiera y, aunque no lo parezca, hay una siniestra relación entre todos estos acontecimientos.&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:44.071509+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando nadie nos ve"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2703</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64f8fb1d-b036-4a7a-a08c-5b01fe53b12e</dc:identifier>
+        <dc:title>Todo muere</dc:title>
+        <dc:creator opf:file-as="Gómez-Jurado, Juan" opf:role="aut">Juan Gómez-Jurado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-05T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;LA ESPERA HA TERMINADO&lt;/p&gt;
+&lt;p&gt;Se cierra el círculo del Universo Reina Roja.&lt;/p&gt;
+&lt;p&gt;«Ni en un millón de años podrías imaginarte un desenlace como este».&lt;br&gt;Zenda&lt;/p&gt;
+&lt;p&gt;Vuelve el autor más leído en lengua española.&lt;/p&gt;
+&lt;p&gt;EL MAYOR UNIVERSO DE THRILLER JAMÁS ESCRITO&lt;/p&gt;
+&lt;p&gt;Nota de la editorial:&lt;br&gt;&lt;br&gt;Esta novela es la clave del Universo Reina Roja, el proyecto narrativo al que Juan Gómez-Jurado ha dedicado los últimos quince años.&lt;/p&gt;
+&lt;p&gt;Por expreso deseo del autor, en este libro no se incluye la clásica sinopsis de la historia. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DDY4L1P4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Todo arde"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-11-07T11:45:05.208117+00:00"/>
+        <meta name="calibre:title_sort" content="Todo muere"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

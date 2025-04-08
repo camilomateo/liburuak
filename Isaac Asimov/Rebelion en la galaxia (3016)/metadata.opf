@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3016</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">716a263e-4311-461a-a1fd-197ad8d29e31</dc:identifier>
+        <dc:title>Rebelión en la galaxia</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1950-12-31T23:00:00+00:00</dc:date>
+        <dc:description>El Universo entero se halla subyugado por un poder casi infinito: el Imperio lntergaláctico, que gobierna con férrea mano millares de soles y galaxias y billones de planetas habitados. Pero los poderosos señores del Cosmos, llevados por su soberbia, pisotean las más elementales libertades humanas, haciendo caso omiso de la dignidad del Hombre. Un puñado de hombres escogidos se alzan contra esta inícua tiranía, ansiando restablecer el respeto a la libertad y la dignidad humanas. Quienes tan nobles y elevados miras propugnan descubren, un arma irresistible, un documento crucial que dará la clave de la victoria a los que ansían la libertad de las galaxias, un documento político conservado milagrosamente de la historia más remota de un pequeño planeta de la estrella llamada Sol: la Constitución de los Estados Unidos…</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">69174</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:series" content="Nebulae - Primera Época"/>
+        <meta name="calibre:series_index" content="20"/>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:53.536740+00:00"/>
+        <meta name="calibre:title_sort" content="Rebelión en la galaxia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

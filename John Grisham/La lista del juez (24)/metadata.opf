@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f546d9a-a62b-4409-8eb1-c6f9c4a3d4e2</dc:identifier>
+        <dc:title>La lista del juez</dc:title>
+        <dc:creator opf:file-as="Grisham, John" opf:role="aut">John Grisham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-24T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un thriller lleno de tensión y con una premisa impactante: ¿y si un asesino en serie buscado durante más de veinte años fuera un juez en ejercicio?&lt;/p&gt;
+&lt;p&gt;Lacy Stoltz se ha encontrado en numerosas ocasiones frente a problemas de corrupción en su trabajo como investigadora de la Comisión de Conducta Judicial de Florida. Pero nada la ha preparado para el caso que una asustada pero decidida desconocida quiere poner en sus manos.&lt;/p&gt;
+&lt;p&gt;El padre de Jeri Crosby fue asesinado hace veinte años. Su muerte sigue sin resolverse pero Jeri tiene un sospechoso al que ha estado siguiendo de manera obsesiva durante dos décadas. En el camino, ha descubierto otras víctimas.&lt;/p&gt;
+&lt;p&gt;Sus sospechas son firmes pero las pruebas parecen imposibles de conseguir. El culpable es inteligente, paciente y siempre va un paso pordelante de la policía. Es el más brillante de los asesinos en serie. Conoce los procedimientos, el trabajo de investigación y, sobre todo..., conoce la ley.&lt;/p&gt;
+&lt;p&gt;Se trata de un juez de Florida de la jurisdicción de Lacy. Y tiene una lista con los nombres de todos sus objetivos, personas inocentes que han tenido la mala suerte de cruzarse en su camino y ofenderle de alguna manera. ¿Podrá detenerle Lacy sin convertirse en su próxima víctima?&lt;/p&gt;
+&lt;p&gt;La lista del juez es la más sorprendente y escalofriante novela de John Grisham hasta la fecha.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0B6Y4MNML</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;John Grisham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:15:00.554501+00:00"/>
+        <meta name="calibre:title_sort" content="lista del juez, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

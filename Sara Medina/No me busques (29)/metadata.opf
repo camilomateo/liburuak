@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d7ba07a-d407-4ebb-93f5-6a7d804bf025</dc:identifier>
+        <dc:title>No me busques</dc:title>
+        <dc:creator opf:file-as="Medina, Sara" opf:role="aut">Sara Medina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-25T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¿BAJARÍAS AL INFIERNO PARA ENCONTRAR AQUELLO QUE MÁS AMAS? Sílvia, una ejecutiva que vive en la zona más alta y lujosa de Barcelona, descubre que su hijo Martí no ha ido a la última sesión de la terapia de rehabilitación con la que lleva meses tratándose. Es entonces cuando sus peores temores se confirman: Martí ha desaparecido sin dejar rastro. La única noticia que tiene de él es un mensaje que dice: «No me busques». Tras intentar denunciar la desaparición en la policía, Sílvia decide investigar por su cuenta y consigue el contacto de Moni, la exnovia de Martí, una excéntrica joven que trafica con cocaína para poder cumplir su sueño: mudarse a Tonga, una isla paradisíaca de los mares del Sur. Pronto Moni también descubre que tiene un motivo para dar con él: Martí le ha robado el último fardo que guardaba en casa y con el que, por fin, terminaría de reunir el dinero suficiente para marcharse. Desconfiando la una de laotra, Sílvia y Moni, bajarán al peligroso submundo barcelonés, donde tendrán que enfrentarse a la violencia y a la amenaza del Tigre, el capo de una mafia extranjera que podría hacer realidad sus peores pesadillas... No me busques es un thriller trepidante y lleno de contrastes en torno a dos mujeres que solo juntas podrán encontrar el sentido de su vida. Entre ellas se teje una extraña amistad a través de la búsqueda del joven al que quieren, cada una a su manera, y a quien no saben si encontrarán vivo o muerto.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sara Medina&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:17:55.726962+00:00"/>
+        <meta name="calibre:title_sort" content="No me busques"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

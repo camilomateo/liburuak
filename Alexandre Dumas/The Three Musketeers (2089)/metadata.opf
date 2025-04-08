@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2089</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba935249-4eb5-4426-b3c3-0a43e800bdb4</dc:identifier>
+        <dc:title>The Three Musketeers</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Louis</dc:subject>
+        <dc:subject>XIII</dc:subject>
+        <dc:subject>1610-1643</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>and</dc:subject>
+        <dc:subject>adventurers</dc:subject>
+        <dc:subject>Swordsmen</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-06T12:09:10.505217+00:00"/>
+        <meta name="calibre:title_sort" content="The Three Musketeers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

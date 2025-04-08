@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">882</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">523a8436-2391-416b-b8dd-1a13490b2275</dc:identifier>
+        <dc:title>Las horas crueles</dc:title>
+        <dc:creator opf:file-as="Pariente, Marto" opf:role="aut">Marto Pariente</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-21T23:00:00+00:00</dc:date>
+        <dc:description>Se irá a la tumba sin confesar.&amp;#160;Un country noir que nos sorprende por su prosa tan ágil como gamberra y por su elenco de personajes al más puro estilo&amp;#160;Fargo.No hay salida, ha llegado a una encrucijada: o salta desde lo alto del cortado a las aguas del Bornova o muere a manos de quien lo está persiguiendo. Tomás Moreda, el Monstruo de la Tejera Negra, no tarda en resolver el dilema. Que Dios decida si ha de sobrevivir a la caída o ha de sucumbir por su único pecado: el de no recordar qué pasó aquel día de hace treinta años, cuando perdió a sus pequeños en el bosque y lo acusaron de haberlos matado.¿Dónde están sus hijos?Nadie duda de que los enterró y de que se irá a la tumba sin confesar.Una semana después, sigue en paradero desconocido. ¿Sigue vivo? Para encontrar la respuesta a esta pregunta, la madre de Tomás Moreda, la única convencida de su inocencia, recurre a Constanza Desaparecidos, una agencia que continúa buscando cuando a la policía se le agotan los recursos.Frank...</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467069952</dc:identifier>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-22T13:04:23.955865+00:00"/>
+        <meta name="calibre:title_sort" content="horas crueles, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

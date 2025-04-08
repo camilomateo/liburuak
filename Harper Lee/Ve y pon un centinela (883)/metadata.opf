@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25e7bcb6-2994-492e-a5e2-732c54230e75</dc:identifier>
+        <dc:title>Ve y pon un centinela</dc:title>
+        <dc:creator opf:file-as="Lee, Harper" opf:role="aut">Harper Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Harper Lee trae una nueva novela emblemática ambientada dos 
+décadas después de la historia de la obra maestra ganadora del Pulitzer,
+ Matar a un ruiseñor Maycomb, Alabama. A sus veintiséis años, Jean 
+Louise Finch —«Scout»— vuelve a casa desde la ciudad de Nueva York para 
+visitar su anciano padre, Atticus. En el contexto de las tensiones por 
+los derechos civiles y de los disturbios políticos que estaban 
+transformando el Sur, el regreso de Jean Louise a casa se torna 
+agridulce cuando descubre verdades perturbadoras acerca de su querida y 
+unida familia, de la ciudad y de las personas que más quiere. Los 
+recuerdos de infancia la invaden y ve cuestionados sus valores y 
+fundamentos. Con muchos de los personajes más sobresalientes de Matar a 
+un ruiseñor, Ve y pon un centinela capta a la perfección la situación de
+ una joven y un mundo inmersos en una transición dolorosa para dejar 
+atrás las ilusiones del pasado, un viaje que únicamente puede ser guiado
+ por la propia conciencia. Escrito a mediados de los años cincuenta, Ve y
+ pon un centinela nos ayuda a entender y apreciar mejor a Harper Lee. 
+Esta es una inolvidable novela de sabiduría, humanidad, pasión, humor y 
+espontánea precisión, una obra de arte hondamente emotiva que evoca de 
+una forma maravillosa otra época sin perder su plena relevancia para 
+nuestros tiempos. No solo confirma la inmarchitable genialidad de Matar a
+ un ruiseñor, sino que representa además un complemento esencial que 
+añade profundidad, contexto y nuevo significado al clásico 
+estadounidense.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00UFA8N40</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-22T13:04:25.231860+00:00"/>
+        <meta name="calibre:title_sort" content="Ve y pon un centinela"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

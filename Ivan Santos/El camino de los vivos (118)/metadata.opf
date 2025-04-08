@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd0a2e91-65df-458f-a5fe-4a274617cb91</dc:identifier>
+        <dc:title>El camino de los vivos</dc:title>
+        <dc:creator opf:file-as="Iván Santos" opf:role="aut">Iván Santos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Rai es un chico cualquiera, en Madrid, de camino al trabajo, coge su 
+tren como cada día, su ebook... y se sienta a leer mientras cuenta 
+mentalmente las paradas para llegar a su destino... Pero algo raro 
+ocurre, algo distinto, que rompe la rutina. Unas chicas irrumpen en el 
+vagón, asustadas, estaciones vacías y otras abarrotadas... gente que 
+sube asustada y otra que huye del tren... Rai empieza a preocuparse de 
+verdad. Un atentado en Madrid, el caos... el miedo se apodera de la 
+ciudad y de repente Rai se ve inmerso en ese caos, atrincherándose en el
+ restaurante donde trabaja junto con sus compañeros. Conocerás el miedo,
+ la angustia y la incertidumbre de vivir desde dentro cómo la humanidad 
+fuera del restaurante se deshace... pero también aprenderás a valorar la
+ importancia de estar unidos frente al caos&lt;/p&gt;</dc:description>
+        <dc:publisher>Amazon</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B075LH9CPY</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Iván Santos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:43:31.144758+00:00"/>
+        <meta name="calibre:title_sort" content="camino de los vivos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

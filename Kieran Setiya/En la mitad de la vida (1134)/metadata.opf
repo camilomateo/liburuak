@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de54b1a1-fed6-4af3-86c2-7b785f512e58</dc:identifier>
+        <dc:title>En la mitad de la vida</dc:title>
+        <dc:creator opf:file-as="Setiya, Kieran" opf:role="aut">Kieran Setiya</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Más tarde o más temprano surgen en nuestra vida una serie de 
+interrogantes a los que no es fácil dar respuesta. ¿Cómo reconciliarnos 
+con las vidas que no hemos podido vivir, con los caminos que no tomamos,
+ con la nostalgia del pasado? ¿Cómo aceptar nuestros fracasos, la 
+futilidad de las tareas que consumen nuestro presente o la propia 
+mortalidad? La mayor parte de la gente empieza a plantearse estas 
+cuestiones cuando más o menos ha llegado a la mitad de su vida, cuando 
+la juventud está todavía cerca pero puede otear ya la muerte al final 
+del trayecto.&lt;/p&gt; &lt;br&gt;&lt;p&gt;En este brillante 
+libro, a medio camino entre el ensayo filosófico y el libro de 
+autoayuda, Kieran Setiya (profesor de filosofía en el MIT) afronta los 
+retos de la vida adulta y la madurez y nos propone un paseo (de 
+Aristóteles a Schopenhauer, de Virginia Woolf a Simone de Beauvoir) por 
+distintas obras filosóficas y literarias que nos ayudan a entender qué 
+es la crisis de la mediana edad y cómo podemos hacerle frente. Un libro 
+que, en realidad, como dice su autor, «no es solo para quienes se 
+encuentran en la mediana edad, sino para cualquiera que esté lidiando 
+con la irreversibilidad del tiempo».&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libros del Asteroide</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07MTG89N9</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788417007836</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:17.818228+00:00"/>
+        <meta name="calibre:title_sort" content="En la mitad de la vida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1644</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">405159e2-43e4-476b-8b5e-b0f7091e81a6</dc:identifier>
+        <dc:title>Una mujer insignificante</dc:title>
+        <dc:creator opf:file-as="Murillo, Catalina" opf:role="aut">Catalina Murillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-29T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;«Lo que hace cien años era una mujer enamorada, hoy es una mujer medicada».&lt;/p&gt;
+&lt;p&gt;Pido perdón por lo que a continuación voy a relatar, pregunto. Aunque, ¿a quién podría ya pedirle &lt;strong&gt;perdón&lt;/strong&gt;? No tengo inclinación a hablar con gente &lt;strong&gt;muerta&lt;/strong&gt; , me espanta la posibilidad de que me respondan. Me rindo. Acepto que hay algoimpúdico en contar la vida de quien mantuvo su &lt;strong&gt;intimidad&lt;/strong&gt; bajo llave. Así que me aguanto. Y no pido perdón. Ni me perdono.&lt;/p&gt;
+&lt;p&gt;Una &lt;strong&gt;carta&lt;/strong&gt; atraviesa el océano y trastorna la rígida estabilidad de un hogar. Se desencadena un &lt;strong&gt;caos&lt;/strong&gt; fabuloso de vino, música,risas, que va sacando a flote las heridas y frustraciones de una mujer que nunca fue la persona más &lt;strong&gt;importante&lt;/strong&gt; para nadie. Esta es su historia, la vida de la madre de la &lt;strong&gt;narradora&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Catalina Murillo te lo cuenta al oído, te va envolviendo en esa narración que construye con la cercanía de la oralidad. Su prosa evidencia la calidad &lt;strong&gt;literaria&lt;/strong&gt; de una escritora potente que convierte una historia íntima en experiencia colectiva. Corazón y cerebro, humor y dolor. Sin dramatismo ni &lt;strong&gt;cinismo&lt;/strong&gt; , van emergiendo grandes temas, la relación madre-hija, la "hijidad", y la pregunta siempre abierta: amor, qué es eso. O qué era. Y qué será.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786073844505</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-06-22T12:04:43.356673+00:00"/>
+        <meta name="calibre:title_sort" content="mujer insignificante, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

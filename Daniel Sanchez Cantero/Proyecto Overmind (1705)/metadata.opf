@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1705</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a4cc504-7e9a-4e18-8ef1-d3dd5a5144ca</dc:identifier>
+        <dc:title>Proyecto Overmind</dc:title>
+        <dc:creator opf:file-as="Cantero, Daniel Sánchez" opf:role="aut">Daniel Sánchez Cantero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-17T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El poder de la mente puede llevarte hasta los rincones oscuros. ¿Cuánto valoras tu libertad? Una mujer cubierta de sangre huye en plena noche para salvar la vida... Seis personas asesinadas salvajemente a su espalda... Dos inspectores de la Guardia Nacional volcados para encontrarla... Un laboratorio secreto enterrado en las profundidades de la selva mexicana... Y un objeto de incalculable valor que podría dinamitar la sociedad actual. La tranquilidad de El Cruce, una ciudad próxima a la selva Lacandona, en México, se verá enturbiada al ser el escenario de un crimen múltiple. La inspectora, Valentina Vargas y su compañero, Sebastián Cruz, de la Guardia Nacional, intentarán encontrar respuestas a los crímenes mientras buscan a Nora Baker. La mujer que se ha fugado de un laboratorio oculto en la selva. Con ella, se ha llevado un objeto de vital importancia para el Núcleo, una organización secreta presente en los más altos estratos sociales, que lleva a cabo proyectos que ponen a prueba el potencial humano. El desafío de Nora llevará a una persecución por todo el país en la que estarán involucrados la policía, el CNI mexicano, la CIA, un neurocirujano y un boina verde. Tras PROYECTO ZERO, Silva y David se enfrentarán al Núcleo en PROYECTO OVERMIND, una novela de suspense diferente que combina tecnología, ciencia, inteligencia artificial, investigación policial y muchas dosis de adrenalina en un relato que no dará un respiro al lector.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-06T08:52:11.388805+00:00"/>
+        <meta name="calibre:title_sort" content="Proyecto Overmind"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

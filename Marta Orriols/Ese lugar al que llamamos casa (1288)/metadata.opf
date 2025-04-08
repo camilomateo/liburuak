@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03e66fb4-b692-4d34-824f-00fc25e3c366</dc:identifier>
+        <dc:title>Ese lugar al que llamamos casa</dc:title>
+        <dc:creator opf:file-as="Marta Orriols" opf:role="aut">Marta Orriols</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-19T10:25:35+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Una periodista que cubre la zona de Oriente Medio regresa a Barcelona después de mucho tiempo. Quiere reanudar el contacto con la familia, pero lo que de verdad necesita es tomar distancia de las guerras, de un tipo de periodismo que no la convence y de una periodista italiana de quien se ha enamorado. Una vez en casa, se reencuentra con su padre, que está enfermo, con una madre siempre distante, una hermana que le echa en cara la lejanía y el hombre que había sido su pareja. En definitiva, vuelve a un lugar que nunca ha considerado propio, en el que quisiera estar. Son días para poner las ideas en orden, reconciliarse o no con el pasado, y también para mirar hacia delante y decidir si retoma la vida en Barcelona o si vuelve a marcharse. &lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;A veces hay que volver a casa para descubrir hacia dónde queremos ir.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Una voz literaria única que retrata nuestras emociones como pocas.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Marta Orriols es una de las voces con más personalidad de nuestra narrativa. Ha publicado los libros Anatomía de las distancias cortas, Aprender a hablar con las plantas y Dulce introducción al caos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-15T07:54:01.908762+00:00"/>
+        <meta name="calibre:title_sort" content="Ese lugar al que llamamos casa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

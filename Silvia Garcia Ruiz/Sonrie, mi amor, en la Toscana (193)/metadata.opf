@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">193</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cceacded-1e3a-45cc-8a1a-956f6a9b90ac</dc:identifier>
+        <dc:title>Sonríe, mi amor, en la Toscana</dc:title>
+        <dc:creator opf:file-as="Ruiz, Silvia García" opf:role="aut">Silvia García Ruiz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-26T15:26:16+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif"&gt;Dominic Norton es un famoso fotógrafo que acaba retirándose por las críticas de Luca Rossi, un modelo italiano. Evie, que siempre ha querido ser fotógrafa como su padre, jura vengarse del modelo y lo contrata para una serie de campañas con el fin de ridiculizarlo. Pero lo que no sabe es que el hombre al que está perjudicando no es Luca sino su hermano gemelo Angelo, que ha accedido a ayudarlo como tantas otras veces.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif"&gt;Angelo deja atrás su serena y planificada existencia en los viñedos familiares de la Toscana y la cambia por la escandalosa vida que Luca lleva en Nueva York. Pronto se da cuenta, sin embargo, de que su irresponsable hermano no pretende huir de un trabajo sino de la persona que, sin saber que se ha equivocado de hombre, le está haciendo a él la vida imposible.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Arial, sans-serif"&gt;¿Conseguirá Angelo mostrarle a Evie su verdadero yo aunque sólo sea viéndolo a través de su cámara? ¿Culminará Evie su venganza a pesar de sospechar que no se trata del mismo hombre que calumnió a su padre?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Erótica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Silvia García Ruiz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:19+00:00"/>
+        <meta name="calibre:title_sort" content="Sonríe, mi amor, en la Toscana"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

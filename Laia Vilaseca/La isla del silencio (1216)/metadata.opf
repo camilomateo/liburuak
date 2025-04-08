@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31e1cbb9-1f1b-45c3-a5c0-862a012ddb2e</dc:identifier>
+        <dc:title>La isla del silencio</dc:title>
+        <dc:creator opf:file-as="Vilaseca, Laia" opf:role="aut">Laia Vilaseca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La desaparición de un joven adolescente trastorna la vida en un pequeño pueblo del Pirineo. En 1982 un triple asesinato macabro en Sant Jordà, un pequeño pueblo del Pirineo catalán, marcará para siempre la vida de sus habitantes. La policía encuentra los cuerpos en la isla del Silencio, un lugar que siempre había sido protagonista de leyendas oscuras y un reclamo para todos los que visitaban el pueblo. Después de la detención del asesino, Sant Jordà intenta sobreponerse y volver a la normalidad. Pero la isla sigue presente, inmóvil, recordándoles los terribles hechos de los que fue testigo. Años más tarde, Nil, el hijo del policía que llevó el caso, decide hacer un documental sobre la tragedia y, a medida que se adentra en ella, descubre que no todos los indicios corroboran que la persona detenida fuera el verdadero culpable. Cuando Nil desaparece de forma repentina, Emma, su mejor amiga, está convencida de que le ha pasado algo. Pero tendrán que pasar veintisiete años para que Emma, tras encontrar un misterioso sobre bajo la puerta, tenga por fin la oportunidad de averiguar la verdad sobre qué le pasó a su amigo y los secretos que esconde la isla del Silencio. Un thriller que demuestra que, por mucho que pasen los años, hay muertos que no se pueden superar hasta que no se hace justicia.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-20T12:04:11.379258+00:00"/>
+        <meta name="calibre:title_sort" content="isla del silencio, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

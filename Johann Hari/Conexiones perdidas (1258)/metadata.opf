@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1258</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b9c59cd-dd71-49c2-ada3-db7808d13776</dc:identifier>
+        <dc:title>Conexiones perdidas</dc:title>
+        <dc:creator opf:file-as="Hari, Johann" opf:role="aut">Johann Hari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-26T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;Hari sufrió de depresión desde niño y comenzó a tomar antidepresivos cuando era adolescente. Como a toda su generación, le dijeron que la causa de su problema era un desequilibrio químico en su cerebro. Pero años más tarde comenzó a investigar y aprendió que casi todo lo que nos han dicho sobre la depresión y la ansiedad es falso. Viajando por todo el mundo, Hari descubrió que los científicos sociales estaban descubriendo evidencias de que la depresión y la ansiedad no son causadas por un desequilibrio químico en nuestro cerebro, sino que son en gran parte consecuencia de problemas que tienen que ver con la forma en que vivimos hoy en día. Una vez identificadas nueve causas reales de depresión y ansiedad, Hari se dirigió a algunos científicos, que proponen soluciones radicalmente diferentes y que parecen funcionar. &lt;/span&gt;&lt;em style="color: #000000"&gt;Conexiones perdidas&lt;/em&gt;&lt;span style="color: #000000"&gt; nos lleva a un debate muy diferente sobre la depresión y la ansiedad, que muestra cómo, juntos, podemos acabar con esta epidemia. Un viaje épico que cambiará nuestra forma de pensar acerca de una de las crisis más grandes de nuestra cultura actual.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Capitán Swing</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-01T13:15:57.284392+00:00"/>
+        <meta name="calibre:title_sort" content="Conexiones perdidas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

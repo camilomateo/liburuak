@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1893</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e94878ca-1f65-4718-a730-17bc85e48135</dc:identifier>
+        <dc:title>El éxito de ser feliz en lo que haces</dc:title>
+        <dc:creator opf:file-as="Nicollier, Fernando Ariel" opf:role="aut">Fernando Ariel Nicollier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-15T00:00:00+00:00</dc:date>
+        <dc:description>Son muchos los autores que hablan de felicidad y todos coinciden en que esta no es un fin en sí mismo, no la podemos buscar, sino que la encontramos realizando nuestras actividades cotidianas. No es un estado lineal, no es algo que sucede de una vez para siempre: implica tiempo, sufrimientos, sacrificios y luchas. 
+Se puede ser feliz porque somos seres humanos y somos capaces de amar y encontrar sentido a la vida, sin importar las circunstancias. Este pequeño libro tiene una gran misión: despertarte a la vida y que comiences a reconocer dónde estás, qué estás haciendo y cómo te sientes. A través de una serie de preguntas, El éxito de ser feliz en lo que haces busca llevar al lector a un viaje de autoconocimiento y toma de decisiones, con la esperanza de inspirar adultos felices y resistir las influencias negativas de los medios de comunicación.
+En un mundo saturado de información contradictoria y valores desenfocados, la obra emerge para alumbrar el camino hacia una vida plena y significativa. Al poner un alto y desafiar la información contradictoria, invita a comprometerse con el propio crecimiento, proponiendo una mirada más profunda hacia la búsqueda de la satisfacción genuina.</dc:description>
+        <dc:publisher>Tinta Libre Ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:54.503725+00:00"/>
+        <meta name="calibre:title_sort" content="éxito de ser feliz en lo que haces, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

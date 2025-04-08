@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0f63cb0-5412-4d68-86d2-d7da897ebefc</dc:identifier>
+        <dc:title>El mentalista</dc:title>
+        <dc:creator opf:file-as="Camilla Läckberg &amp; Henrik Fexeus" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:creator opf:file-as="Camilla Läckberg &amp; Henrik Fexeus" opf:role="aut">Henrik Fexeus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-16T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 15px; font-family: 'Segoe UI Historic','Segoe UI','Helvetica','Arial','sans-serif'; background-color: #ffffff"&gt;&lt;span style="background-color: #ffffff; color: #050505"&gt;En un parque de atracciones a las afueras de Estocolmo aparece el cuerpo de una joven asesinada de forma macabra: atravesada por múltiples espadas dentro de una caja.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 15px; font-family: 'Segoe UI Historic','Segoe UI','Helvetica','Arial','sans-serif'; background-color: #ffffff"&gt;&lt;span style="background-color: #ffffff; color: #050505"&gt;La agente de policía Mina Dabiri, reservada y metódica, forma parte del equipo especial de investigación que se hace cargo del caso. Cuando Mina agota todas las posibles pistas, recurre al conocido mentalista Vincent Walder para que los ayude a detectar los indicios que podrían conectar el asesinato con el mundo del ilusionismo.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 15px; font-family: 'Segoe UI Historic','Segoe UI','Helvetica','Arial','sans-serif'; background-color: #ffffff"&gt;&lt;span style="background-color: #ffffff; color: #050505"&gt;Con la aparición de un nuevo cuerpo, Mina y Vincent entienden que se enfrentan a un despiadado asesino en serie y comienzan una trepidante carrera contrarreloj para descifrar los códigos numéricos y las trampas visuales de una mente brillante y perversa. Un apasionante viaje a la parte más oscura del alma humana que no dejará indiferente a ningún lector.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 15px; font-family: 'Segoe UI Historic','Segoe UI','Helvetica','Arial','sans-serif'; background-color: #ffffff"&gt;&lt;span style="background-color: #ffffff; color: #050505"&gt;Atrévete a descubrir la verdad.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Camilla Läckberg&quot;: &quot;&quot;, &quot;Henrik Fexeus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-05T10:40:18.096089+00:00"/>
+        <meta name="calibre:title_sort" content="mentalista, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

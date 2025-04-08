@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1195</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c75dfae-765a-48b8-8253-d9349b3709fb</dc:identifier>
+        <dc:title>Un arpegio de lluvia en el cristal</dc:title>
+        <dc:creator opf:file-as="Correa, José Luis" opf:role="aut">José Luis Correa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-20T06:00:00+00:00</dc:date>
+        <dc:description>A finales de junio de 2020, pocos días después del confinamiento, cuando la vida comienza a regresar a la ciudad, aparecen dos cadáveres en la calle la Naval. Elías Almeida y Ángel Estupiñán han sido asesinados en la buhardilla que comparten desde hace cinco años. Como suele suceder en estos casos, nadie acierta con una explicación. Son dos hombres queridos y respetados. La madre de Almeida, ante la opacidad de la policía, acude a «un detective algo estrambótico al que se le dan bien los enigmas». Así comienza la decimocuarta entrega de la serie de novelas que tienen como protagonista a Ricardo Blanco, el alter ego de José Luis Correa. Una historia de ambigüedades y silencios, un asesino que llena la escena de pistas contradictorias y un móvil confuso que a veces se vence hacia la pura homofobia y a veces hacia la cruda venganza. Perdedores, antihéroes, personajes variopintos a quienes hostigan los errores del pasado se encuentran, como en un escenario, en un tiempo en el que los...</dc:description>
+        <dc:publisher>Alba editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411780353</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-05T16:55:58.495837+00:00"/>
+        <meta name="calibre:title_sort" content="arpegio de lluvia en el cristal, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

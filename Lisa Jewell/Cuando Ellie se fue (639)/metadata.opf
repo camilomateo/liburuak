@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">639</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90ecdeda-00ed-4d02-8031-84489053005a</dc:identifier>
+        <dc:title>Cuando Ellie se fue</dc:title>
+        <dc:creator opf:file-as="Jewell, Lisa" opf:role="aut">Lisa Jewell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-30T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Altamente adictiva, Lisa Jewell ya ha conquistado a 5 millones de lectores. «Absorbente.» Sunday Mirror «Magistral.» The New York Times Una chica desaparecida, un secreto enterrado. Ellie Mack tiene quince años, y es la hija perfecta, la preferida de la familia. Sus compañeros de escuela la adoran, sus profesores la admiran. Pero un día, durante unas vacaciones, desaparece. Su madre, Laurel Mack, se niega a creer la versión de que su hija se ha ido por voluntad propia y se lanza a una investigación incansable. La desgracia la hará añicos, se llevará por delante su matrimonio y la distanciará de sus otros hijos. Diez años después, parece que Laurel vuelve a encauzar su vida. Un encuentro casual con un hombre ha traído un soplo de aire fresco, algo de esperanza y también nuevas incógnitas sobre la desaparición de Ellie.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Lisa Jewell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:43.169727+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando Ellie se fue"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

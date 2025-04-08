@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">957</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ed6ccfe-f95b-474f-a848-56bdd1f16fa7</dc:identifier>
+        <dc:title>Los crímenes del lago</dc:title>
+        <dc:creator opf:file-as="Virto, Gemma Herrero" opf:role="aut">Gemma Herrero Virto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-30T22:00:00+00:00</dc:date>
+        <dc:description>Durante el verano del año 2001 tres niños aparecen muertos en las aguas del lago Champlain, en Vermont. Eric, un niño de doce años, pierde a Anne Austen, la chica de la que está enamorado. Además, durante las noches, sus sueños se ven interrumpidos por las visitas de los fantasmas de las víctimas. Aterrado y al borde de la locura, sus padres se lo llevan del pueblo para que pueda olvidar. Durante quince años, la vida de Eric parece normal. Las apariciones no han vuelto a presentarse y ha conseguido convencerse de que todo aquello sólo fue fruto de su imaginación infantil desbordada por aquellos terribles acontecimientos. Eso es lo que piensa hasta que un día encuentra un libro, escrito por una tal Anne Austen, en el que se narran con todo detalle los crímenes que sucedieron aquel verano. Y las apariciones regresan…</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policial</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2023-08-01T15:26:05.716922+00:00"/>
+        <meta name="calibre:title_sort" content="crímenes del lago, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

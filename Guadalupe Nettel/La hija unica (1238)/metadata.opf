@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c5cd7f7-ac06-4f72-ac37-922c5f828e90</dc:identifier>
+        <dc:title>La hija única</dc:title>
+        <dc:creator opf:file-as="Guadalupe Nettel" opf:role="aut">Guadalupe Nettel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Tres mujeres enfrentadas a la maternidad. Tres maneras de afrontarla. Una intensa y deslumbrante novela sobre la familia en el mundo actual.&lt;/p&gt;
+&lt;p&gt;Poco después de cumplir los ocho meses de embarazo, a Alina le anuncian que su hija no podrá sobrevivir al nacimiento. Ella y su compañero emprenden entonces un doloroso pero también sorprendente proceso de aceptación y duelo. Ese último mes de gestación se convierte para ellos en una extraña oportunidad para conocer a esa hija a la que tanto trabajo les cuesta renunciar. Laura, la gran amiga de Alina, refiere el conflicto&lt;/p&gt;
+&lt;p&gt;de esta pareja, mientras reflexiona sobre el amor y su lógica a veces incomprensible, pero también sobre las estrategias que los seres humanos inventamos para superar la frustración. Laura nos cuenta igualmente la historia de su vecina Doris, madre soltera de un niño encantador con problemas de comportamiento.&lt;/p&gt;
+&lt;p&gt;Escrita con una sencillez solo aparente, La hija única es una novela profunda y llena de sabiduría sobre la maternidad, sobre su negación o su asunción; sobre las dudas, incertidumbres e incluso sentimientos de culpa que la envuelven; sobre las alegrías y las angustias que la acompañan. Es también una novela sobre tres mujeres –Laura, Alina, Doris– y los vínculos –de amistad, de amor– que establecen entre ellas. Una novela sobre las formas diversas que puede tomar la familia en el mundo actual.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Anagrama</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788433941855</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-23T07:42:58.053079+00:00"/>
+        <meta name="calibre:title_sort" content="hija única, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

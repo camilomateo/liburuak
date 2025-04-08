@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1565</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1804587-7326-4495-9896-4c440a16d340</dc:identifier>
+        <dc:title>Amanecer</dc:title>
+        <dc:creator opf:file-as="Conn Iggulden" opf:role="aut">Conn Iggulden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-23T05:00:00+00:00</dc:date>
+        <dc:description>Un futuro incierto y nebuloso se cierne sobre Eduardo IV. La Casa de York ha sido derrotada y el rey se ha exiliado en Flandes, aunque no por mucho tiempo. El empeño por defender aquello que considera suyo lleva a Eduardo a zarpar junto a su hermano hacia Ravenspur, el lugar donde se jará su destino. Un ejército diezmado y exhausto llega a la costa, a casa. Las fuerzas escasean, y en el horizonte solo se dibuja una opción: atacar. Sin embargo, nuevos vientos soplan no lejos de allí y el joven Enrique Tudor, convertido ya en un hombre, será llamado a entrar en el tumultuoso curso de la historia, la historia de la guerra de las Dos Rosas.</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417128494</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="La guerra de las Dos Rosas"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:48.359677+00:00"/>
+        <meta name="calibre:title_sort" content="Amanecer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

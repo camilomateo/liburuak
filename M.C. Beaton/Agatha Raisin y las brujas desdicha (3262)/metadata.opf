@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3262</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b4d6c92-70ae-4e3b-a689-95b6c3a90798</dc:identifier>
+        <dc:title>Agatha Raisin y las brujas desdichadas</dc:title>
+        <dc:creator opf:file-as="Beaton, M.C." opf:role="aut">M.C. Beaton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-21T08:46:51+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una nueva entrega de la serie sobre Agatha Raisin, la heroína más aclamada del cosy crime. Más de diez millones de lectores en todo el mundo&lt;/p&gt;
+&lt;p&gt;Después de que una peluquera vengativa le aplicara crema depilatoria en lugar de champú, y siempre aquejada de mal de amores, Agatha Raisin decide pasar una temporada lejos de su idílico hogar de Carsely y refugiarse en el exclusivo y algo lúgubre Garden Hotel de la localidad costera de Wyckhadden. Pero lo que comienza como un retiro espiritual se convierte muy pronto en un auténtico suplicio para la pobre Agatha, que tiene que lidiar con gente de la tercera edad que no cesa de inmiscuirse en sus penurias capilares. Desesperada por recuperar su cabello cuanto antes, nuestra heroína decide seguir el consejo de una huésped del hotel y acude a la casita de Francie Juddle, una bruja local especializada en pociones mágicas, en busca de un tónico milagroso. Por desgracia, lejos de mejorar, todo acaba de torcerse cuando Francie es asesinada con un fuerte golpe en la cabeza y Agatha, la última persona en verla con vida, se convierte en la principal sospechosa. ¿Quién puede haber cometido un crimen tan atroz? A medida que profundiza en su investigación, Agatha Raisin descubre profundas ansias de venganza y secretos inconfesables entre el extraño grupo de ancianos con el que, muy a su pesar, comparte interminables partidas de Scrabble y bailes de salón.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Agatha Raisin"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:timestamp" content="2025-04-07T20:12:25.681693+00:00"/>
+        <meta name="calibre:title_sort" content="Agatha Raisin y las brujas desdichadas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

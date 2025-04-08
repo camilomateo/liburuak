@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1510</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89e7331a-227c-4fa2-8a4d-0e056c6ece73</dc:identifier>
+        <dc:title>La noche soñada</dc:title>
+        <dc:creator opf:file-as="Huerta, Màxim" opf:role="aut">Màxim Huerta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-25T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;En la víspera de San Juan de 1980, los habitantes de Calabella, en la Costa Brava, esperan a la mítica Ava Gardner, que va a inaugurar el cine de verano del pueblo. Todo el mundo está pendiente de la actriz, salvo Justo, el benjamín de la peculiar familia Brightman. En el día más mágico del año, el muchacho ha decidido que, en vez de pedir un deseo, va a hacer todo lo que esté en su mano por cambiar el destino de los suyos.La noche soñada es una historia sobre la búsqueda de la felicidad.&lt;/p&gt;&lt;p class="description"&gt;De la mano de Màxim Huerta, el lector descubrirá que el viaje más arriesgado es el que se emprende hacia el amor, tantas veces doloroso e imposible, pero con el que nunca deberíamos dejar de soñar.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta Spain</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">1iwlAwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788467041286</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-05-22T16:46:44.817409+00:00"/>
+        <meta name="calibre:title_sort" content="noche soñada, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

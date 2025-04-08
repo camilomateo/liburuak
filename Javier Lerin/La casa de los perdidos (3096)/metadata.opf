@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3096</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f00b0c68-5421-438d-b627-49f887bda7f0</dc:identifier>
+        <dc:title>La casa de los perdidos</dc:title>
+        <dc:creator opf:file-as="Lerín, Javier" opf:role="aut">Javier Lerín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-21T12:56:07+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Thriller psicológico, desapariciones, asesinatos marcan La casa de los perdidos, una novela al más puro estilo de Reina Roja.&lt;/p&gt;
+&lt;p&gt;Leyre Aranguren está decidida a averiguar toda la verdad que rodea la muerte de su madre. Hace dos días que la enterraron y desde entonces no se encuentra muy bien, se le olvidan las cosas, todo está confuso. Y así fue justo como empezaron los delirios de su madre. Por eso decide viajar a una masía en los alrededores de Barcelona en busca de respuestas. Se alojará allí y con la ayuda de Lucas, un peculiar exhacker y actual devoto y predicador, Leyre descubrirá que en la masía se esconden oscuros secretos. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Suma de Letras</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-25T19:50:24.710388+00:00"/>
+        <meta name="calibre:title_sort" content="casa de los perdidos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

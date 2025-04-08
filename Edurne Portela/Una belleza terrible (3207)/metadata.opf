@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3207</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c60c8e4-4860-444e-a72e-4056b671fe6b</dc:identifier>
+        <dc:title>Una belleza terrible</dc:title>
+        <dc:creator opf:file-as="Edurne Portela &amp; José Ovejero" opf:role="aut">Edurne Portela</dc:creator>
+        <dc:creator opf:file-as="Edurne Portela &amp; José Ovejero" opf:role="aut">José Ovejero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-12T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Esta novela, que han escrito juntos Edurne Portela y José Ovejero, cuenta la historia de Raymond Molinier, Jeanne Martin des Pallières, Vera Lanis, Jean van Heijenoort, Elisabeth Käsemann y tantos otros hombres y mujeres, de orígenes humildes o aristócratas, obreros o intelectuales, que compartieron sus luchas y su intimidad mientras ponían su vida al servicio de la revolución, de la transformación radical de un mundo que les parecía injusto. En un arco temporal de casi un siglo que va desde el París de la Primera Guerra Mundial hasta el de los años 80, pasando por la España de la guerra civil o la Argentina peronista y de las posteriores dictaduras, los protagonistas de Una belleza terrible, organizados alrededor del trotskismo, se enfrentaron a enemigos siempre superiores, ya fueran la Alemania nazi, el estalinismo, o las dictaduras militares en América Latina, confiados en la validez de su causa. Con un trabajo intenso de documentación y conversación con testigos, Ovejero y Portela también escriben sobre su propia búsqueda, sus dudas y dificultades a la hora de retratar personajes con vidas tan complejas e intensas. El resultado es una novela fascinante e inolvidable que se basa en personajes y hechos reales para retratar en profundidad las tragedias individuales y colectivas, las contradicciones, las dudas, los errores, la generosidad, el heroísmo incluso, de quienes, a pesar de saberse en el bando perdedor, nunca dejaron de luchar por la construcción de una sociedad más justa.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410317338</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">228530970</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0DYPKVNZM</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:10.380835+00:00"/>
+        <meta name="calibre:title_sort" content="Una belleza terrible"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d709fb5-8db6-4685-9bfe-942c091d4831</dc:identifier>
+        <dc:title>El juego del mal</dc:title>
+        <dc:creator opf:file-as="Pallarés, Marcos Nieto" opf:role="aut">Marcos Nieto Pallarés</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-11-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;DESCUBRE LA NOCHE EN QUE TODO CAMBIÓ PARA SIEMPRE. MADRID, 2018. El cadáver de una mujer vestida con ropas de muñeca aparece en la exclusiva urbanización de La Moraleja. Su rostro ha quedado irreconocible de un único disparo y sus huellas dactilares no constan en ninguna base de datos. Pero lo que más sorprende a Álvaro de la Torre y a su compañera Elsa Bermejo, inspectores de homicidios, no es su extraño aspecto, sino la cicatriz en forma de «M» que esconde detrás de la oreja: una marca que conecta el crimen con el asesinato de una niña sevillana en 1982. Siempre fiel a sus instintos, el inspector De la Torre se enfrentará a sus propios fantasmas mientras lucha por resolver el caso más perturbador y personal de toda su carrera. Treinta y seis años después, cazador y presa vuelven a encontrarse. Las piezas del puzle están a punto de encajar. UN CASO ENTERRADO EN LA MEMORIA. UNA CICATRIZ EN FORMA DE «M». UN THRILLER DE ALTO VOLTAJE. Porque nadie puede ocultarse para siempre… ¿O sí?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Newton Compton Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-20T15:13:30.388864+00:00"/>
+        <meta name="calibre:title_sort" content="juego del mal, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

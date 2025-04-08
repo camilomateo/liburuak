@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02af3d9d-89e7-4e93-b029-84ca5c2e1fbd</dc:identifier>
+        <dc:title>Un futuro prometedor</dc:title>
+        <dc:creator opf:file-as="Lemaitre, Pierre" opf:role="aut">Pierre Lemaitre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-13T00:00:00+00:00</dc:date>
+        <dc:description>PARÍS, PRAGA, 1959Una trama llena de acción, mucho suspense y giros inesperados, con la Guerra Fría y la amenaza nuclear como telón de fondoVuelve Pierre Lemaitre con su saga sobre la familia Pelletier. Iniciado hace más de diez años con Nos vemos allá arriba (Premio Goncourt 2013), el monumental proyecto de Pierre Lemaitre de ofrecer una historia subjetiva, incuestionable y sobre todo gozosa del siglo XX, que no ha cesado de sumar lectores y elogios de la crítica, prosigue con Un futuro prometedor, un sabrosísimo relato lleno de giros, misterio, tensión, espías y amor en el contexto de la Guerra Fría.Tras vender su fábrica de jabón en Beirut, el matrimonio Pelletier se instala en la apacible campiña francesa, donde recibe la visita regular de sus tres hijos y sus numerosos nietos. Corre el año 1959 y la vida parece sonreír a los Pelletier, pese a que el sombrío panorama político nacional e internacional no invita al optimismo. Pero todo cambia cuando, en plena Guerra Fría y...</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Los años gloriosos"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:09.753759+00:00"/>
+        <meta name="calibre:title_sort" content="futuro prometedor, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

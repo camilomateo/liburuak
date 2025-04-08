@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1170</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6b67e8e-0544-498a-b0ca-22145c7ba4dc</dc:identifier>
+        <dc:title>El libro de las pruebas</dc:title>
+        <dc:creator opf:file-as="Banville, John" opf:role="aut">John Banville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;La perfecta introducción al universo Banville&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;«Una novela sorprendente, perturbadora» (The New York Times Book Review), por el ganador del Premio Booker y del Premio Príncipe de Asturias de las Letras.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Freddie Montgomery es un científico de talento exiliado en una isla del Mediterráneo. Llegado el momento de saldar una deuda, su mujer y su hijo son retenidos como garantía de pago, y él regresa a Irlanda para conseguir fondos en una búsqueda que termina en el robo de un cuadro valioso y el asesinato de una joven. ¿El móvil del crimen? Ni la avaricia, ni la venganza. Ha matado porque «podía hacerlo»: es un asesino accidental como el que quizá todos llevamos dentro. Mientras espera juicio escribe esta confesión como un intento de presentar las pruebas, no ya de su inocencia, sino de los acontecimientos que lo han llevado a esa celda y han marcado el recorrido de su vida entera.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Reseñas:&lt;/strong&gt;&lt;br /&gt;«Cada creación suya...</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788420418353</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-25T19:51:59.151151+00:00"/>
+        <meta name="calibre:title_sort" content="libro de las pruebas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

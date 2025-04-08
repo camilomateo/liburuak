@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>****</title>
+  <id>Calibre2opds:rated:FOUR</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./rated_FOUR_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="****" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="./rated.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Valoración" />
+  <entry>
+    <title>La hora azul</title>
+    <id>calibre:book:2755</id>
+    <updated>2024-12-22T11:36:55Z</updated>
+    <link href="../../Paula%20Hawkins/La%20hora%20azul%20%282755%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paula%20Hawkins/La%20hora%20azul%20%282755%29/La%20hora%20azul%20-%20Paula%20Hawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="521 KB" />
+    <author>
+      <name>Paula Hawkins</name>
+      <uri>../authors_0/authors_43_Page_1.xml</uri>
+    </author>
+    <published>2024-10-16T02:29:28Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Cuando la Tate Modern descubre que el hueso utilizado en una de las esculturas más famosas de la célebre y ya fallecida artista Vanessa Chapman es humano y no pertenece a un animal, como se creía, todas las miradas se centran en ella y en la misterio...</summary>
+    <link href="../book_2/book_2755.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Corazón roto</title>
+    <id>calibre:book:2748</id>
+    <updated>2024-12-18T08:33:29Z</updated>
+    <link href="../../Colleen%20Hoover/Corazon%20roto%20%282748%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Colleen%20Hoover/Corazon%20roto%20%282748%29/Corazon%20roto%20-%20Colleen%20Hoover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="662 KB" />
+    <author>
+      <name>Colleen Hoover</name>
+      <uri>../authors_0/authors_6_Page_1.xml</uri>
+    </author>
+    <published>2024-10-02T00:31:19Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary> Los Voss no son una familia normal: para empezar, viven en una iglesia reutilizada. La madre, que años atrás tuvo cáncer, vive en el sótano; el padre está casado con la antigua enfermera de la madre; el pequeño medio hermano no tiene permitido hacer...</summary>
+    <link href="../book_2/book_2748.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Puente</title>
+    <id>calibre:book:1892</id>
+    <updated>2024-09-03T09:33:54Z</updated>
+    <link href="../../Matt%20Brolly/El%20Puente%20%281892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matt%20Brolly/El%20Puente%20%281892%29/El%20Puente%20-%20Matt%20Brolly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="298 KB" />
+    <author>
+      <name>Matt Brolly</name>
+      <uri>../authors_1/authors_1348_Page_1.xml</uri>
+    </author>
+    <published>2024-08-30T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Oblong Books</dcterms:publisher>
+    <category term="Policial" />
+    <category term="Lang:es" />
+    <summary>Cuando el cuerpo de una joven es descubierto en un contenedor de carga en Bristol, la policía sospecha que era una inmigrante ilegal cuya muerte fue un trágico accidente. Pero su teoría es desmentida por dos piezas de evidencia: el contenedor estaba ...</summary>
+    <link href="../book_1/book_1892.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Noche y día</title>
+    <id>calibre:book:1759</id>
+    <updated>2024-08-26T10:56:09Z</updated>
+    <link href="../../Virginia%20Woolf/Noche%20y%20dia%20%281759%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Virginia%20Woolf/Noche%20y%20dia%20%281759%29/Noche%20y%20dia%20-%20Virginia%20Woolf.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="646 KB" />
+    <author>
+      <name>Virginia Woolf</name>
+      <uri>../authors_1/authors_1260_Page_1.xml</uri>
+    </author>
+    <published>2024-02-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>DEBOLS!LLO</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Classics" />
+    <category term="Women" />
+    <category term="Lang:es" />
+    <summary>Katherine, una joven londinense de clase alta, no sabe qué esperar de su vida. Por el día ayuda a componer la biografía de su abuelo, un famoso y venerado poeta, y por las noches pasa las horas adentrándose en libros sobre su verdadera fascinación, l...</summary>
+    <link href="../book_1/book_1759.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fuimos los afortunados</title>
+    <id>calibre:book:1742</id>
+    <updated>2024-08-08T05:32:08Z</updated>
+    <link href="../../Georgia%20Hunter/Fuimos%20los%20afortunados%20%281742%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Georgia%20Hunter/Fuimos%20los%20afortunados%20%281742%29/Fuimos%20los%20afortunados%20-%20Georgia%20Hunter.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="770 KB" />
+    <author>
+      <name>Georgia Hunter</name>
+      <uri>../authors_1/authors_1247_Page_1.xml</uri>
+    </author>
+    <published>2024-04-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>EDICIONES URANO</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Historical" />
+    <category term="Lang:es" />
+    <summary>Inspirada en la increíble y verídica historia de una familia judía separada a comienzos de la Segunda Guerra Mundial, decidida a sobrevivir (y a reunirse de nuevo), esta obra es un tributo al triunfo de la esperanza y del amor contra todo pronóstico....</summary>
+    <link href="../book_1/book_1742.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Al final del camino</title>
+    <id>calibre:book:1680</id>
+    <updated>2024-07-22T06:30:41Z</updated>
+    <link href="../../Carlos%20Laredo/Al%20final%20del%20camino%20%281680%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Laredo/Al%20final%20del%20camino%20%281680%29/Al%20final%20del%20camino%20-%20Carlos%20Laredo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carlos Laredo</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2023-07-02T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Kokapeli Ediciones</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Crime" />
+    <category term="Lang:es" />
+    <category term="El cabo Holmes" />
+    <summary>El cabo Holmes [10]: El hijo de un negociante de diamantes de Amberes y su novia gallega deciden hacer el Camino de Santiago. Mientras se dan un paseo nocturno por la playa de Lires, la última etapa antes de llegar al cabo Finisterre, surgen de la os...</summary>
+    <link href="../book_1/book_1680.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una mujer insignificante</title>
+    <id>calibre:book:1644</id>
+    <updated>2024-06-22T02:04:43Z</updated>
+    <link href="../../Catalina%20Murillo/Una%20mujer%20insignificante%20%281644%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Catalina%20Murillo/Una%20mujer%20insignificante%20%281644%29/Una%20mujer%20insignificante%20-%20Catalina%20Murillo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="297 KB" />
+    <author>
+      <name>Catalina Murillo</name>
+      <uri>../authors_1/authors_1188_Page_1.xml</uri>
+    </author>
+    <published>2024-02-29T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>«Lo que hace cien años era una mujer enamorada, hoy es una mujer medicada».Pido perdón por lo que a continuación voy a relatar, pregunto. Aunque, ¿a quién podría ya pedirle perdón? No tengo inclinación a hablar con gente muerta , me espanta la posibi...</summary>
+    <link href="../book_1/book_1644.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A vuelo de pájaro</title>
+    <id>calibre:book:1632</id>
+    <updated>2024-06-22T02:04:40Z</updated>
+    <link href="../../Marcela%20Serrano/A%20vuelo%20de%20pajaro%20%281632%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marcela%20Serrano/A%20vuelo%20de%20pajaro%20%281632%29/A%20vuelo%20de%20pajaro%20-%20Marcela%20Serrano.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="394 KB" />
+    <author>
+      <name>Marcela Serrano</name>
+      <uri>../authors_1/authors_1178_Page_1.xml</uri>
+    </author>
+    <published>2024-03-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Alfaguara</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Literary" />
+    <category term="Lang:es" />
+    <summary>Las agudas anotaciones diarias de una escritora chilena que ha cautivado con su mirada a miles de lectores, Premio Sor Juana Inés de la Cruz.El diario ir y volver de los pájaros, las relaciones entre sus perros y los distintos animales del campo en q...</summary>
+    <link href="../book_1/book_1632.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Segunda oportunidad</title>
+    <id>calibre:book:1402</id>
+    <updated>2024-04-08T02:46:19Z</updated>
+    <link href="../../James%20Patterson/Segunda%20oportunidad%20%281402%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Patterson/Segunda%20oportunidad%20%281402%29/Segunda%20oportunidad%20-%20James%20Patterson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="965 KB" />
+    <author>
+      <name>James Patterson</name>
+      <uri>../authors_0/authors_167_Page_1.xml</uri>
+    </author>
+    <published>2023-11-08T11:00:00Z</published>
+    <dcterms:language>ca</dcterms:language>
+    <dcterms:publisher>RBA Libros</dcterms:publisher>
+    <category term="Lang:ca" />
+    <category term="El club de las mujeres contra el crimen" />
+    <summary>El club de las mujeres contra el crimen [2]: La ciudad de San Francisco está conmocionada tras el tiroteo a la salida de una iglesia que ha acabado con la vida de una niña de once años. La recientemente ascendida a teniente Lindsay Boxer se encarga d...</summary>
+    <link href="../book_1/book_1402.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Laberinto de los Espíritus</title>
+    <id>calibre:book:1232</id>
+    <updated>2024-02-22T06:06:23Z</updated>
+    <link href="../../Carlos%20Ruiz%20Zafon/El%20Laberinto%20de%20los%20Espiritus%20%281232%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlos%20Ruiz%20Zafon/El%20Laberinto%20de%20los%20Espiritus%20%281232%29/El%20Laberinto%20de%20los%20Espiritus%20-%20Carlos%20Ruiz%20Zafon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Carlos Ruiz Zafón</name>
+      <uri>../authors_0/authors_897_Page_1.xml</uri>
+    </author>
+    <published>2016-11-19T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Grupo Planeta</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>En la Barcelona de finales de los años 50, Daniel Sempere ya no es aquel niño que descubrió un libro que habría de cambiarle la vida entre los pasadizos del Cementerio de los Libros Olvidados. El misterio de la muerte de su madre Isabella ha abierto ...</summary>
+    <link href="../book_1/book_1232.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cicatrices en el hielo</title>
+    <id>calibre:book:843</id>
+    <updated>2023-06-27T08:29:36Z</updated>
+    <link href="../../Ines%20Domenech%20del%20Rio/Cicatrices%20en%20el%20hielo%20%28843%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ines%20Domenech%20del%20Rio/Cicatrices%20en%20el%20hielo%20%28843%29/Cicatrices%20en%20el%20hielo%20-%20Ines%20Domenech%20del%20Rio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="574 KB" />
+    <author>
+      <name>Inés Doménech del Río</name>
+      <uri>../authors_0/authors_633_Page_1.xml</uri>
+    </author>
+    <published>2023-04-19T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Algaida Editores</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>Tras años de ejercicio profesional en zonas rurales, la forense Carlota Suarez vuelve a Málaga, su ciudad natal. Con su entusiasmo habitual, afrontará las consecuencias del traslado, con nuevos compañeros como el inspector Aranda, antiguas amistades ...</summary>
+    <link href="../book_0/book_843.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

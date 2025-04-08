@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">913</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">144266bd-595d-4e50-8d37-4d61b496bcd6</dc:identifier>
+        <dc:title>Cesarea</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-26T06:00:00+00:00</dc:date>
+        <dc:description>Cesarea. Caballo de Troya 5: no apto para cardíacos. Así lo define el autor.Tras seis años de justificado silencio (no se pierda el prólogo), J. J. Benítez reanuda la obra por la que, probablemente, será recordado.De la mano del mayor norteamericano, el lector soñará, cabalgará por la Palestina del año 30, sufrirá, se emocionará...Descubrirá, por ejemplo, entre más de dos mil datos, la verdadera personalidad de algunos de los personajes que rodearon a Jesús de Nazaret. ¿Imaginó que Poncio Pilato fue en realidad un demente?Cesarea. Caballo de Troya 5, un relato vibrante, meticuloso y concienzudo, le abrirá las puertas de un mundo silenciado por los evangelistas.Sea creyente o no, de algo puede estar seguro: este libro le marcará para siempre.Y un consejo: no se alarme cuando alcance el final. J. J. Benítez es así...</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408004660</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Caballo de Troya"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2023-07-04T12:11:54.673634+00:00"/>
+        <meta name="calibre:title_sort" content="Cesarea"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

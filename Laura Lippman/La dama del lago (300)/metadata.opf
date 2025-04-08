@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5810dfa6-6a88-4d02-9cbc-0277f9865d0d</dc:identifier>
+        <dc:title>La dama del lago</dc:title>
+        <dc:creator opf:file-as="Laura Lippman" opf:role="aut">Laura Lippman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;&lt;b&gt;La nueva novela de Laura Lippman, una de las autoras más emblemáticas del &lt;i&gt;noir&lt;/i&gt; estadounidense.&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;b&gt;Baltimore, 1966&lt;/b&gt;. Maddie, madre y esposa perfecta, decide una  noche, de forma impulsiva, plantarlo todo y convertirse en periodista,  dispuesta a cumplir sus sueños de juventud. Cuando el cuerpo de una  joven aparece en un lago, Maddie ve la ocasión de hacerse un nombre y  arrojar luz sobre este crimen, a pesar de la indiferencia general. Lo  que no se imagina es la cantidad de problemas que causará al perseguir una historia que nadie quiere que cuente.&lt;/p&gt;
+ &lt;p&gt;La dama del lago no es sólo un fascinante relato de una investigación  criminalística, sino también la historia de dos mujeres que manifestaron  su compromiso por luchar contra el destino que les había tocado en suerte, en la que se entremezclan el racismo, el sexismo y la lucha de clases en la América de los años sesenta.&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;La crítica ha dicho:&lt;/b&gt;&lt;br /&gt;«Cautivadora [...]. Extraordinaria.»&lt;br /&gt;Stephen King&lt;/p&gt;
+ &lt;p&gt;«La escritora más próxima a Ruth Rendell, pero con destellos de humor.  [...] Una novela inquietante, un libro especial, extraordinario, que  trasciende las obras de Agatha Christie y Rex Stout, y honra al género negro.»&lt;br /&gt;Stephen King&lt;/p&gt;
+ &lt;p&gt;«Lippman es una narradora nata, en la cumbre de su talento.»&lt;br /&gt;Lee Child&lt;/p&gt;
+ &lt;p&gt;«Sencillamente, una de nuestras mejores novelistas, y punto.»&lt;br /&gt;&lt;i&gt;The Washington Post&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Lippman es un logro literario.»&lt;br /&gt;&lt;i&gt;Chicago Sun-Times&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Lippman no hace más que mejorar.»&lt;br /&gt;&lt;i&gt;Entertainment Weekly&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«La mujer del lago es dolorosa, considerada y de lectura compulsiva.»&lt;br /&gt;&lt;i&gt;Vanity Fair&lt;/i&gt;&lt;/p&gt;
+ &lt;p&gt;«Inspirada por la muerte sin resolver de Shirley Parker [...], la  ambiciosa novela de Lippman entreteje unos veinte puntos de vista en un  todo vívido y sin costuras. La novela demuestra que Lippman, que fue  reportera del Baltimore Sun, es tanto una periodista habilidosa como una exp</dc:description>
+        <dc:publisher>Salamandra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418968792</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Laura Lippman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-13T19:25:34.881544+00:00"/>
+        <meta name="calibre:title_sort" content="La dama del lago"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3068</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d0cdb64-f7be-4e4e-a7b3-1b7d4d997b97</dc:identifier>
+        <dc:title>Quiérete bien, quiere mejor</dc:title>
+        <dc:creator opf:file-as="Nicolau, María" opf:role="aut">María Nicolau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-14T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;¿Has oído alguna vez aquello de «nadie te querrá hasta que no lo hagas tú»? En realidad, la pregunta debería ser: ¿cómo nos quieren?, ¿nos quieren bien? Y, sobre todo, ¿nos queremos bien a nosotras mismas?&lt;/p&gt;
+&lt;p&gt;Crear tu concepto de amor, romper con los mitos románticos, definir tus límites y ser tu propio lugar seguro son algunas de las herramientas para empezar a desaprender todo lo que nos han contado sobre las relaciones y reconstruirlas de forma sana, contigo misma y con los demás.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Para, respira y tómate el tiempo de conocerte y aceptarte, y empieza a quererte bien para querer mejor.&lt;/p&gt;
+&lt;p&gt;Un libro con ejercicios prácticos para trabajar herramientas clave como:&lt;br&gt;&lt;br&gt;- La empatía&lt;br&gt;&lt;br&gt;- Los límites&lt;br&gt;&lt;br&gt;- El equilibrio&lt;br&gt;&lt;br&gt;- La autoestima&lt;br&gt;&lt;br&gt;- El concepto de amor&lt;br&gt;&lt;br&gt;- Y mucho más. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-19T08:18:47.684828+00:00"/>
+        <meta name="calibre:title_sort" content="Quiérete bien, quiere mejor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">495</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bb49b7a-a654-40f5-b3f3-00f770a08cd1</dc:identifier>
+        <dc:title>Los pecados del padre</dc:title>
+        <dc:creator opf:file-as="Archer, Jeffrey" opf:role="aut">Jeffrey Archer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-23T06:00:00+00:00</dc:date>
+        <dc:description>"Los pecados del padre" es el segundo libro de las aclamadas Las crónicas de Clifton, la obra más ambiciosa de Jeffrey Archer tras una carrera de cuatro décadas como autor bestsellers internacionales. Tras la estela del lanzamiento el año pasado de "Solo el tiempo lo dirá", libro que arrasó en las listas de bestsellers de todo el mundo, "Los pecados del padre" lleva al lector a asombroso viaje desde los bajos fondos de Bristol a las salas de juntas de Manhattan. El libro da comienzo en Nueva York, 1939. Harry Clifton, bajo la nueva identidad de Tom Bradshaw, se encuentra arrestado por homicidio en primer grado. Cuando Sefton Jelks, un abogado estrella de Manhattan, le ofrece sus servicios sin esperar pago a cambio, Harry no tiene más remedio que aceptar la oferta, pues no le queda un centavo. Después de que Harry sea hallado culpable y condenado en el juicio, Selks desaparece misteriosamente. La única forma que tendrá Harry de demostrar su inocencia será revelar su verdadera identidad, cosa que ha jurado no hacer para proteger a la mujer que ama. Mientras tanto, su amada Emma Barrington viaja a Nueva York. Ha dejado a su hijo en Inglaterra tras decidir que hará todo lo posible para encontrar al hombre con quien esperaba contraer matrimonio, incapaz de creer que ha muerto en el mar. La única prueba que posee es una carta que ha permanecido cerrada sobre la repisa de una chimenea en Bristol desde hace más de un año. Sin embargo, la letra de la carta es inconfundible.La nueva novela época de Jeffrey Archer tensa las lealtades familiares hasta el límite a medida que se revelan nuevos secretos. "Los pecados del padre" presenta todos los giros característicos de las clásicas novelas de Archer. Una historia que dejará a los lectores con ganas de mucho más.-</dc:description>
+        <dc:publisher>SAGA Egmont</dc:publisher>
+        <dc:identifier opf:scheme="13ID">50001931</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">355</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jeffrey Archer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Las crónicas de Clifton"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:01:56.350337+00:00"/>
+        <meta name="calibre:title_sort" content="pecados del padre, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1578</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43665606-3c87-4234-a191-f9cff0dc136c</dc:identifier>
+        <dc:title>Un cadáver en Port du Bélon</dc:title>
+        <dc:creator opf:file-as="Bannalec, Jean-Luc" opf:role="aut">Jean-Luc Bannalec</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span itemprop="description"&gt;En Riec-sur-Bélon, entre acantilados, 
+bosques mágicos y el Atlántico, el lugar donde se cultivan las mejores 
+ostras del mundo, aparece un cadáver en un aparcamiento. Sin embargo, 
+cuando la policía llega, el cuerpo ha desaparecido. Solo una anciana 
+insiste en que ella lo ha visto, pero su declaración es tan confusa y 
+presenta tantas lagunas que nadie la cree. Al cabo de unas horas llega 
+otro aviso: un grupo de turistas ha encontrado a un hombre muerto en 
+Monts d’Arrée, a cien kilómetros de allí. Por suerte, ese cadáver sigue 
+en su sitio cuando el comisario Dupin y sus colaboradores llegan. Las 
+ropas de la víctima coinciden con la descripción de la anciana de Bélon,
+ pero aparte de eso, y de dos extraños tatuajes, no hay más pistas sobre
+ el muerto.
+&lt;br&gt;
+&lt;br&gt;Cuando poco a poco los indicios le conducen a países vecinos de 
+raíces celtas y a antiguos cultos druídicos bretones y, para acabar de 
+rematarlo, uno de los subinspectores es acusado de robo de arena de las 
+playas, el comisario Georges Dupin comprende que se encuentra ante uno 
+de los casos más extraños de su carrera. Pero no le quedará más remedio 
+que hacer frente a esa investigación caótica en medio de la presión del 
+prefecto por los resultados, la falta de medios para investigar, el 
+desconocido mundo de las ostras y la advertencia de su médico de reducir
+ drásticamente el consumo de cafeína.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Georges Dupin"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:52.243396+00:00"/>
+        <meta name="calibre:title_sort" content="cadáver en Port du Bélon, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

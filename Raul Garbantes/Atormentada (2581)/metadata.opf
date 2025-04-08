@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2581</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c494f0f2-cdb7-4068-84b5-a45174d51523</dc:identifier>
+        <dc:title>Atormentada</dc:title>
+        <dc:creator opf:file-as="Garbantes, Raúl" opf:role="aut">Raúl Garbantes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;No es el mejor momento para Julia Stein y acaban de asignarle un caso difícil. Alguien está asesinando parejas jóvenes en Kansas. El homicida abandona los cuerpos de las víctimas como si hubiesen sido devoradas por una bestia llena de colmillos y garras. Cinco niños han visto morir a sus padres y son incapaces de decir algo con sentido.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;Mientras tanto, en la ciudad de Topeka, la detective Alexis Carter y su compañera Anne Ashton, se han topado con un escalofriante caso de asesinato de una pareja de padres jóvenes. Su hija está desaparecida y la están buscando desesperadamente. Anne, que conoce a Hans Freeman pide ayuda a nuestros agentes ante la situación desesperada en que se encuentra la ciudad.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;Julia decide ir en ayuda de Anne y Alexis y esperar a Hans que está ausente de Washington en esos momentos. Hay muchas coincidencias en el caso de Topeka con los casos que ella está investigando en otras partes de Kansas. Además, Julia recibe una advertencia por parte de Anne sobre Alexis: ella tiene una facultad muy especial.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;¿Podrán Julia y Hans atrapar al asesino bestial? ¿Podrán con su ayuda las detectives Alexis y Anne encontrar a la hija de una de sus víctimas que está desaparecida?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Agentes del FBI Julia Stein y Hans Freeman"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2024-09-11T13:29:02+00:00"/>
+        <meta name="calibre:title_sort" content="Atormentada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

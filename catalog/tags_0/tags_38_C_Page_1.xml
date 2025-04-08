@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Libros que empiezan por C</title>
+  <id>Calibre2opds:taglist:A:38:C</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_38_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Libros que empiezan por C" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por A" />
+  <link href="./tags_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Autoayuda" />
+  <entry>
+    <title>Calma tu puta cabeza</title>
+    <id>calibre:book:1348</id>
+    <updated>2024-03-21T01:00:34Z</updated>
+    <link href="../../Dra.%20Faith%20G.%20Harper/Calma%20tu%20puta%20cabeza%20%281348%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dra.%20Faith%20G.%20Harper/Calma%20tu%20puta%20cabeza%20%281348%29/Calma%20tu%20puta%20cabeza%20-%20Dra.%20Faith%20G.%20Harper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="324 KB" />
+    <author>
+      <name>Dra. Faith G. Harper</name>
+      <uri>../authors_0/authors_987_Page_1.xml</uri>
+    </author>
+    <published>2024-01-03T11:16:05Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Autoayuda" />
+    <category term="Lang:en" />
+    <summary>Nuestros cerebros hacen todo lo posible por ayudarnos, pero a veces pueden comportarse como unos verdaderos imbéciles. Se empeñan en atraparnos, iniciando una discusión estéril, convirtiéndonos en adictos o encerrándonos en nosotros mismos. Y, por mu...</summary>
+    <link href="../book_1/book_1348.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Caminar sin punteras</title>
+    <id>calibre:book:532</id>
+    <updated>2023-04-05T00:40:14Z</updated>
+    <link href="../../Almudena%20Cid/Caminar%20sin%20punteras%20%28532%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Almudena%20Cid/Caminar%20sin%20punteras%20%28532%29/Caminar%20sin%20punteras%20-%20Almudena%20Cid.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="549 KB" />
+    <author>
+      <name>Almudena Cid</name>
+      <uri>../authors_0/authors_394_Page_1.xml</uri>
+    </author>
+    <published>2023-02-08T08:11:36Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>VERGARA</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Almudena Cid comparte sus herramientas para avanzar con equilibrio ante los giros de la vida.En Caminar sin punteras habla de cómo, cuando el centro de tu vida se desmorona, recurrir a su experiencia como deportista de élite la salvó de quedarse esp...</summary>
+    <link href="../book_0/book_532.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Colate por Nicolás</title>
+    <id>calibre:book:364</id>
+    <updated>2023-02-27T01:48:14Z</updated>
+    <link href="../../Nicolas%20Vallejo-Nagera/Colate%20por%20Nicolas%20%28364%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nicolas%20Vallejo-Nagera/Colate%20por%20Nicolas%20%28364%29/Colate%20por%20Nicolas%20-%20Nicolas%20Vallejo-Nagera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="596 KB" />
+    <author>
+      <name>Nicolás Vallejo-Nágera</name>
+      <uri>../authors_0/authors_259_Page_1.xml</uri>
+    </author>
+    <published>2022-05-17T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>HarperCollins Ibérica S.A.</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>La historia que nunca creí que contaríaNicolás Vallejo-Nágera, miembro de una de las sagas familiares más respetadas y uno de los personajes más queridos del país, reflexiona en estas apasionantes páginas sobre los detalles más desconocidos de su vid...</summary>
+    <link href="../book_0/book_364.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Como hacer que te pasen cosas buenas</title>
+    <id>calibre:book:1345</id>
+    <updated>2024-03-21T01:00:33Z</updated>
+    <link href="../../Marian%20Rojas%20Estape/Como%20hacer%20que%20te%20pasen%20cosas%20buena%20%281345%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marian%20Rojas%20Estape/Como%20hacer%20que%20te%20pasen%20cosas%20buena%20%281345%29/Como%20hacer%20que%20te%20pasen%20cosas%20b%20-%20Marian%20Rojas%20Estape.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="449 KB" />
+    <author>
+      <name>Marian Rojas Estapé</name>
+      <uri>../authors_0/authors_427_Page_1.xml</uri>
+    </author>
+    <published>2018-03-15T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Divulgación" />
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Uniendo el punto de vista científico, psicológico y humano, la autora nos ofrece una reflexión profunda, salpicada de útiles consejos y con vocación eminentemente didáctica, acerca de la aplicación de nuestras propias capacidades al empeño de procura...</summary>
+    <link href="../book_1/book_1345.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando ya no estás</title>
+    <id>calibre:book:805</id>
+    <updated>2023-05-31T01:30:26Z</updated>
+    <link href="../../Laura%20Vidal/Cuando%20ya%20no%20estas%20%28805%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Laura%20Vidal/Cuando%20ya%20no%20estas%20%28805%29/Cuando%20ya%20no%20estas%20-%20Laura%20Vidal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="652 KB" />
+    <author>
+      <name>Laura Vidal</name>
+      <uri>../authors_0/authors_600_Page_1.xml</uri>
+    </author>
+    <published>2021-08-24T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>VERGARA</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>El libro que te ayudará a superar la muerte de tu animal de compañía. Perder a un ser querido nunca es fácil. Al fin y al cabo, ¿cómo podemos pasar página tras la marcha de alguien que ha estado tan presente en nuestra vida? ¿De qué manera hemos de s...</summary>
+    <link href="../book_0/book_805.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuando ya no sea yo</title>
+    <id>calibre:book:654</id>
+    <updated>2023-05-10T04:29:14Z</updated>
+    <link href="../../Carme%20Elias/Cuando%20ya%20no%20sea%20yo%20%28654%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carme%20Elias/Cuando%20ya%20no%20sea%20yo%20%28654%29/Cuando%20ya%20no%20sea%20yo%20-%20Carme%20Elias.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="550 KB" />
+    <author>
+      <name>Carme Elias</name>
+      <uri>../authors_0/authors_482_Page_1.xml</uri>
+    </author>
+    <published>2023-04-05T11:47:51Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Editorial Planeta</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Escribir un libro de memorias mientras la mía se desvanece es arriesgado. Aun así, siento la tentación de hacerlo. Amo la palabra escrita. Siempre me ha gustado y la he saboreado como intérprete. Soy actriz de profesión y, lo que es más importante, d...</summary>
+    <link href="../book_0/book_654.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cómo dejar de pensar demasiado</title>
+    <id>calibre:book:922</id>
+    <updated>2023-07-04T02:12:12Z</updated>
+    <link href="../../George%20Cure/Como%20dejar%20de%20pensar%20demasiado%20%28922%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20Cure/Como%20dejar%20de%20pensar%20demasiado%20%28922%29/Como%20dejar%20de%20pensar%20demasiado%20-%20George%20Cure.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="506 KB" />
+    <author>
+      <name>George Cure</name>
+      <uri>../authors_0/authors_692_Page_1.xml</uri>
+    </author>
+    <published>2022-08-29T03:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Una Guía Para Eliminar el Pensamiento Excesivo. Técnicas Prácticas y Mini-Abitudes para Aliviar la Ansiedad, Eliminar ... y Alcanzar la Paz No se puede negar que el pensamiento es importante. A través del pensamiento puedes analizar situaciones, plan...</summary>
+    <link href="../book_0/book_922.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cómo ganar amigos e influir sobre las personas</title>
+    <id>calibre:book:2673</id>
+    <updated>2024-10-22T08:08:32Z</updated>
+    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%282673%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dale%20Carnegie/Como%20ganar%20amigos%20e%20influir%20sobre%20l%20%282673%29/Como%20ganar%20amigos%20e%20influir%20sob%20-%20Dale%20Carnegie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Dale Carnegie</name>
+      <uri>../authors_0/authors_186_Page_1.xml</uri>
+    </author>
+    <published>1935-12-31T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>ePubLibre</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Ensayo" />
+    <category term="Manuales y cursos" />
+    <category term="Lang:es" />
+    <summary>Convertido en un clásico de las relaciones humanas, «Cómo ganar amigos…» contiene principios tan sólidos que siendo escritos en 1936, siguen tan vigentes como entonces. Aplicando su gran conocimiento de las personas, dotes de observación y experienci...</summary>
+    <link href="../book_2/book_2673.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cómo salvar una mala racha</title>
+    <id>calibre:book:799</id>
+    <updated>2023-05-31T01:07:20Z</updated>
+    <link href="../../Marie%20Robert/Como%20salvar%20una%20mala%20racha%20%28799%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marie%20Robert/Como%20salvar%20una%20mala%20racha%20%28799%29/Como%20salvar%20una%20mala%20racha%20-%20Marie%20Robert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="653 KB" />
+    <author>
+      <name>Marie Robert</name>
+      <uri>../authors_0/authors_595_Page_1.xml</uri>
+    </author>
+    <published>2020-06-01T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Ariel</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Una visita catastrófica a Ikea en donde nada ocurre como estaba previsto, una cita a ciegas fracasa por varias incompatibilidades, una madre entra en pánico al descubrir que su hijo está en plena adolescencia y no sabe qué hacer con él… Distintas sit...</summary>
+    <link href="../book_0/book_799.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un clavado a tu cerebro</title>
+    <id>calibre:book:56</id>
+    <updated>2023-01-17T10:58:46Z</updated>
+    <link href="../../Eduardo%20Calixto/Un%20clavado%20a%20tu%20cerebro%20%2856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eduardo%20Calixto/Un%20clavado%20a%20tu%20cerebro%20%2856%29/Un%20clavado%20a%20tu%20cerebro%20-%20Eduardo%20Calixto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="739 KB" />
+    <author>
+      <name>Eduardo Calixto</name>
+      <uri>../authors_0/authors_41_Page_1.xml</uri>
+    </author>
+    <published>2017-02-10T06:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Penguin Random House Grupo Editorial México</dcterms:publisher>
+    <category term="Autoayuda" />
+    <category term="Lang:es" />
+    <summary>Encuentra las respuestas a todas las preguntas relacionadas con tus pensamientos, tus emociones, en síntesis: con la forma maravillosa en que funciona tu cerebro.¿Por qué sientes celos, ansiedad, angustia? ¿Sabías que existen áreas cerebrales de la ...</summary>
+    <link href="../book_0/book_56.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

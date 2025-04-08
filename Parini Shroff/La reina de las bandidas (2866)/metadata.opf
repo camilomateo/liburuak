@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2866</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d51450a4-2a67-4f19-a37f-73e2eb77f5d2</dc:identifier>
+        <dc:title>La reina de las bandidas</dc:title>
+        <dc:creator opf:file-as="Shroff, Parini" opf:role="aut">Parini Shroff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-15T00:00:00+00:00</dc:date>
+        <dc:description>UNA COMEDIA NEGRA SOBRE SOBRE MUJERES QUE QUIEREN DESHACERSE DE SUS MARIDOS
+ «Una historia reconfortante sobre un elenco de mujeres con la idea de asesinar a sus indeseables maridos. Una historia que demuestra que el antídoto contra cualquier circunstancia sombrías es la amistad femenina». The New York Times Book Review
+Una irreverente comedia negra repleta de mujeres irónicas e ingeniosas.Cinco años atrás, el marido de Geeta desapareció sin dejar rastro. Sin embargo, en su remota aldea de la India corre el rumor de que ella lo mató, algo que no se ha molestado en desmentir, pues esa mala reputación puede mantener a salvo a una mujer soltera en la India rural: nadie se mete con ella, ni la acosa, ni intenta controlarla de nuevo. Pero su libertad no pasa desapercibida para sus vecinas, y cuando una de ellas le pide ayuda para deshacerse de un esposo borracho y abusivo, se pone en marcha una sucesión de acontecimientos incontrolados que cambiarán para siempre la vida de Geeta y de todas las mujeres de la aldea.
+Perspicaz, irreverente y conmovedora, La reina de las bandidas es una novela inolvidable repleta de humor negro sobre un grupo de mujeres que anhelan una segunda oportunidad para sus vidas.
+*Finalista al debut del año según Goodreads*
+«Shroff considera con inteligencia una forma en que las mujeres de la India rural podrían lograr autonomía». The Washington Post</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-02T12:10:15.734741+00:00"/>
+        <meta name="calibre:title_sort" content="reina de las bandidas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

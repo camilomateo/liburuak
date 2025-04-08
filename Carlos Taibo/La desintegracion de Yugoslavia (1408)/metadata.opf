@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">911135f6-0cf8-49ee-8fad-3918fbff41e8</dc:identifier>
+        <dc:title>La desintegración de Yugoslavia</dc:title>
+        <dc:creator opf:file-as="Taibo, Carlos" opf:role="aut">Carlos Taibo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-30T23:00:00+00:00</dc:date>
+        <dc:description>&lt;span style="color: rgb(51, 51, 51); font-family: 'Amazon Ember', Arial, sans-serif; font-size: small; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Los conflictos yugoslavos, y sobre todo la guerra de Kosovo, conmovieron y movilizaron a la sociedad española. Quienes se vieron aturdidos por el alud de titulares, acontecimientos, lugares, nombres... encontrarán en este ensayo las principales características del "espacio balcánico", los antecedentes y el desarrollo de los diferentes conflictos, el papel que desempeñó cada una de las partes contendientes y algunas conclusiones de cariz general que permiten acrecentar la comprensión de procesos innegablemente complejos. Y es que los conflictos yugoslavos siguen en algún grado abiertos, de tal suerte que un mayor conocimiento de lo acontecido bien puede servir para entender las situaciones contemporáneas de Bosnia-Herzegovina, Croacia, Kosova, Macedonia o Serbia.&lt;/span&gt;</dc:description>
+        <dc:publisher>Los Libros de La Catarata</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-08T14:39:28.238910+00:00"/>
+        <meta name="calibre:title_sort" content="desintegración de Yugoslavia, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

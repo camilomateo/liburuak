@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1444</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7435691-777c-4b78-8cbe-55cd54e0c8b4</dc:identifier>
+        <dc:title>La casa de los aleteos</dc:title>
+        <dc:creator opf:file-as="Wildenstein, Olivia" opf:role="aut">Olivia Wildenstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-10T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"Este libro es una deliciosa fantasía de exquisita imaginación y suntuosa narración". RUNYX, autora de GothikanaLIBERA A LOS CUERVOS, FALLON, Y ENTONCES SERÁS REINA.Mi vida cambió cuando un oráculo vaticinó que me convertiría en reina, puesto que la curvatura de mis orejas nunca me permitió tener grandes aspiraciones. Al fin y al cabo, yo era la mestiza sin magia a quien las bestias adoraban y los fae de sangre pura de la corte detestaban. Bueno... todos, menos uno. &lt;/p&gt;
+&lt;p&gt;Dante Regio, el príncipe de Luce, había sido el dueño de mi corazón desde que me dio mi primer beso. Si un puñado de reliquias de hierro iban a ayudarme a derrocar al monarca de nuestro reino para que yo pudiese gobernar junto a su hermano, entonces me embarcaría en una caza del tesoro sin pensármelo dos veces. &lt;/p&gt;
+&lt;p&gt;Habría estado bien que el oráculo me hubiese avisado de que estaba a punto de liberar a un demonio alado. &lt;/p&gt;
+&lt;p&gt;Y de que este se iba a obsesionar conmigo. &lt;/p&gt;
+&lt;p&gt;Quienes disfrutaron de la obra de Sarah J. Maas y Mary E. Pearson devorarán este épico romance fantástico cargado de absorbentes engaños, traiciones y amores fingidos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Faeris Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <meta name="calibre:series" content="El reino de los cuervos"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-04-20T15:25:36.810454+00:00"/>
+        <meta name="calibre:title_sort" content="casa de los aleteos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

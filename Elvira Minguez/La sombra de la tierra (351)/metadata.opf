@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">351</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32c7d91c-cf21-4fe9-8851-cb86c2070ed6</dc:identifier>
+        <dc:title>La sombra de la tierra</dc:title>
+        <dc:creator opf:file-as="Elvira Mínguez" opf:role="aut">Elvira Mínguez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-11T15:03:14+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;«Serán los hijos los que se conjuren contra el silencio de los padres para arrancar a la tierra de su sombra»&lt;br&gt;La sombra de la tierra es la historia de dos mujeres o, mejor dicho, de la escalada al poder de una de ellas y la pérdida del mismo de la otra.&lt;br&gt;Estamos en 1896, en Villaveza del Agua, un pueblo de la provincia de Zamora donde el hambre y la pobreza son las circunstancias vitales de sus habitantes, sometidos a la Garibalda, una mujer viuda y enferma que impone sus propias normas a la comunidad entera.&lt;br&gt;La dictadura de la Garibalda, el control y la explotación a los que tiene sometidos a los hombres y mujeres del pueblo y el temor reverencial que sienten hacia ella ha llevado a los habitantes de Villaveza a buscar una solución, y esta solución (o eso es lo que creen) es Atilana, una mujer tan dura como sus circunstancias que aspira a conseguir el poder que ostenta la caciquesa.&lt;br&gt;Enfrentadas desde hace muchos años, el odio las mantiene en pie. La lucha de estas dos mujeres egoístas y manipuladoras arrastrará a todo aquel que esté a su lado. Atilana y Garibalda tan absortas una en la otra, incapaces de ver más allá de su enfrentamiento, no serán conscientes de lo que se está gestando a su alrededor hasta que sea demasiado tarde.&lt;br&gt;Nadie en el pueblo saldrá indemne de este encono, aunque serán sus hijos, principales víctimas de estas mujeres despiadadas, los condenados a soportar la herencia maldita de estos actos.&lt;br&gt;La actriz Elvira Mínguez se revela en esta historia como una narradora con una energía extraordinaria, capaz de metabolizar todo su talento dramático y un profundo conocimiento de nuestra literatura en unos personajes trágicos e inolvidables. La lectura de esta novela terrible, y aún así traspasada por la misericordia, que es de la autora pero que nos atañe a todos, tiene el poder catártico, transformador, reservado sólo a las grandes historias.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467069242</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Elvira Mínguez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-23T12:18:56.298640+00:00"/>
+        <meta name="calibre:title_sort" content="sombra de la tierra, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

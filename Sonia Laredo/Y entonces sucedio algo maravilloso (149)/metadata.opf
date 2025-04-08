@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">323e3c89-945c-4a6f-9ba8-1972f4056f9d</dc:identifier>
+        <dc:title>Y entonces sucedió algo maravilloso</dc:title>
+        <dc:creator opf:file-as="Laredo, Sonia" opf:role="aut">Sonia Laredo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;«Y entonces, mientras estaba en mi casa y me sentía sola, fracasada y 
+desesperada, me dispuse a jugar a mi juego privado de los libros, 
+buscando consuelo. Me preparé para seguir el camino que los libros me 
+indicaran sin saber que me llevarían a encontrarme con un reino mágico, 
+un hombre misterioso, un viejo secreto y un tesoro incalculable. Pero en
+ aquellos momentos, yo no sabía nada de todo eso. Lo único que podía 
+hacer era esforzarme para no llorar.» &lt;br&gt;&lt;br&gt;Brianda Gonzaga, una 
+editora de éxito que ronda los cuarenta, rompe de manera forzosa con su 
+realidad cuando la despiden sin demasiadas contemplaciones. Sumida en 
+una espiral de desasosiego, busca consuelo en quienes nunca le han 
+fallado, los libros, y siguiendo una suerte de pálpito, se embarca en un
+ viaje que la llevará a un lugar perdido entre las montañas que la 
+cambiará para siempre: el Concejo de Nuba. &lt;br&gt;&lt;br&gt;Y entonces sucedió 
+algo maravilloso. El anuncio de una vieja librería en traspaso en la que
+ buscar un tesoro, una tormenta, los brazos de un enigmático amante y el
+ fantasma de un niño desaparecido en el pueblo unos años atrás 
+arrastrarán a Brianda a una historia apasionante en la que empezar a ser
+ la protagonista de su propia vida, sin renunciar a nada de lo que es 
+importante: la amistad, el amor, la alegría el conocimiento y sí…, 
+también un poco de sexo.
+
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423346516</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sonia Laredo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-19T07:55:23.316112+00:00"/>
+        <meta name="calibre:title_sort" content="Y entonces sucedió algo maravilloso"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

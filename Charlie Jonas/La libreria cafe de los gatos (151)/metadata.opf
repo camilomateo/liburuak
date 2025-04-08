@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">030db055-931c-4ba6-bad3-e79d5b4fab11</dc:identifier>
+        <dc:title>La librería café de los gatos</dc:title>
+        <dc:creator opf:file-as="Charlie Jonas" opf:role="aut">Charlie Jonas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Libros y gatos bienvenidos
+
+Una auténtica novela feel-good, encantadora y estimulante que atrapa desde la primera hasta la última página.Leonie, una joven profesora de instituto que ha decorado su piso de Colonia con gran dedicación, acepta a regañadientes cuidar de la gata de su vecina durante tres semanas. A Susann le gustaría volver a Isquia, tal vez por última vez, y Leonie no quiere impedir que cumpla su deseo, así que se queda con Mimi, aunque no tiene ni idea de cómo cuidarla. Los primeros días son un desastre. Leonie necesita un milagro. Entonces se le ocurre la genial idea de dejar a la gata con su amiga Maxie, que acaba de abrir la librería café “La señorita Paula” en honor a su tía, que ha fallecido recientemente y le ha dejado miles de libros que espera vender a los clientes.</dc:description>
+        <dc:publisher>Maeva Ediciones, S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Charlie Jonas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-19T07:55:25.767616+00:00"/>
+        <meta name="calibre:title_sort" content="La librería café de los gatos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1373</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7807dcf-4c24-46b0-90aa-8b9efbc837e7</dc:identifier>
+        <dc:title>Los días de la fiebre</dc:title>
+        <dc:creator opf:file-as="Mendoza, Andrés Felipe Solano" opf:role="aut">Andrés Felipe Solano Mendoza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-15T09:40:25+00:00</dc:date>
+        <dc:description>«El Covid-19 recorre las calles de Seúl mientras un hombre cualquiera va y viene sin saber cuándo se cruza con él, cuándo lo roza, cuándo se aleja. Los días de la fiebre es un mapa inquietante de esos dos itinerarios dominados por el azar.»—Juan José Millás Andrés Felipe Solano vio su mundo sacudirse durante cien días febriles. Desde el centro de Corea del Sur, país que el mundo tomaría como ejemplo para frenar el Covid-19, escribe en Los días de fiebre su testimonio literario, un libro sobre lo que hemos sentido todos y las preguntas que aún tardaremos en responder. En marzo de 2020, Corea del Sur se convirtió en un ejemplo de cómo frenar el Covid-19 y eso podría justificar que este libro fuera un recuento de las medidas que tomaron para lograrlo; un reportaje sobre las restricciones lúcidas o polémicas del país que nunca mirábamos -el mismo de Parásitos- o un ensayo sobre todo aquello que los asiáticos hacen diferente. Podría ser un texto especulativo sobre el futuro de la...</dc:description>
+        <dc:publisher>Ediciones Temas de Hoy</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788499988191</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-03T10:30:02.633161+00:00"/>
+        <meta name="calibre:title_sort" content="días de la fiebre, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

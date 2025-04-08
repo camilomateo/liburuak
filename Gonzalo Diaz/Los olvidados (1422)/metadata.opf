@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1422</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a1ca3bb-6cef-4961-bf1e-3b25826a0b74</dc:identifier>
+        <dc:title>Los olvidados</dc:title>
+        <dc:creator opf:file-as="Díaz, Gonzalo" opf:role="aut">Gonzalo Díaz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-04T12:17:52+00:00</dc:date>
+        <dc:description>&lt;div&gt;La vida de Lis Vázquez, una atractiva reportera sin demasiadas 
+expectativas que malgasta su vida por los innumerables bares del 
+céntrico barrio de Malasaña, cambiará para siempre tras la enigmática 
+llamada de un antiguo amigo de la adolescencia. La posible desaparición 
+de una pareja natural de Sempiterno, el pueblo donde la reportera pasó 
+gran parte de su juventud, bajo un extraño símbolo pintado con tiza 
+sobre el marco de su puerta, será el punto de arranque de una aventura 
+que llevará a la protagonista a afrontar los fantasmas del pasado a la 
+vez que se redescubre a sí misma. &lt;br&gt;Su búsqueda de la verdad la 
+conducirá por un sinuoso y siniestro camino hasta descubrir un oscuro 
+secreto guardado celosamente durante generaciones, lo que desembocará en
+ un desenlace trepidante con un punto y final que no dejará indiferente.&lt;/div&gt;</dc:description>
+        <dc:publisher>Distrito 93</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-09T09:16:19.744180+00:00"/>
+        <meta name="calibre:title_sort" content="Los olvidados"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

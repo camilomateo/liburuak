@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2736</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31fcc9f9-beca-4063-b9db-8222d01147a1</dc:identifier>
+        <dc:title>La eterna noche de los 43</dc:title>
+        <dc:creator opf:file-as="Miguel Ángel Juárez Franco" opf:role="aut">Miguel Ángel Juárez Franco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-23T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;En la ciudad de Iguala, un pequeño pueblo mexicano del estado de Guerrero, un grupo de 43 jóvenes estudiantes desapareció en circunstancias misteriosas la noche del 26 al 27 de septiembre de 2014. &lt;/p&gt;
+&lt;p align="justify"&gt;El caso de los 43 va mucho más allá de una simple desaparición. Su investigación destapa una alianza entre altos funcionarios guberna- mentales, poderosos cárteles del narcotráfico y fuerzas de seguridad pública corruptas, todos ellos coludidos en una oscura conspiración para ocultar sus crímenes. Por medio de un entramado de ficción basa- do en hechos reales, esta novela-crónica nos sumerge en un relato que deja al lector sin aliento en tanto destapa las profundidades de la corrupción y el narcotráfico, pero también muestra el indomable espíritu de aquellos que luchan por la justicia y la verdad. &lt;/p&gt;
+&lt;p align="justify"&gt;En 2024 se conmemoran diez años de la desaparición de los 43 estudian- tes de Ayotzinapa en la tristemente famosa Noche de Iguala. Con La noche eterna de los 43, todo sobre la desaparición forzada de los estudiantes de Ayotzinapa, Miguel Ángel Juárez Franco desentraña como nadie nunca antes el conflicto que estremece a la sociedad mexicana desde hace un decenio.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Almuzara México</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">219526680</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0DHXKLTSM</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">BqgkEQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786076989968</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-11T07:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="La eterna noche de los 43"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

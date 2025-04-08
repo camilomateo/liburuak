@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4093da74-3eb6-4a84-9f57-224dcf32e348</dc:identifier>
+        <dc:title>Todo el tiempo que nos queda</dc:title>
+        <dc:creator opf:file-as="Junquera, Irene" opf:role="aut">Irene Junquera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-28T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;«No
+ permitas que nadie apague tu luz», le dice una maestra a Elena, una 
+niña de pueblo curiosa e imaginativa que tiene un don especial: escribe 
+de maravilla. Pero en aquella época a las mujeres se les prohíbe 
+brillar.&lt;/p&gt;&lt;p&gt;Elena crece y estudia en el Madrid de los 
+años sesenta bajo el férreo control de la tía Victoria, una mujer dura 
+que esconde un misterio. Allí conoce a Mateo, un amor prohibido por los 
+prejuicios. Para cumplir su sueño de convertirse en novelista, Elena 
+debe afrontar renuncias dolorosas echando mano de su mayor fortaleza, la
+ bondad.&lt;/p&gt;&lt;p&gt;Esta es una novela inspiradora cargada de 
+ternura en la que se resaltan los amores de juventud, la amistad y la 
+lucha de las mujeres del siglo xx por reavivar sus anhelos más 
+profundos. Se lo dice a todos los adolescentes por igual y también a las
+ madres y a los padres que viven con temor a romper sus ataduras: nunca 
+es tarde para liberarte y conseguir lo que deseas.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Esta chica aprendió que nunca es tarde para querernos y perseguir nuestros sueños.&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-02T11:40:18.884825+00:00"/>
+        <meta name="calibre:title_sort" content="Todo el tiempo que nos queda"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

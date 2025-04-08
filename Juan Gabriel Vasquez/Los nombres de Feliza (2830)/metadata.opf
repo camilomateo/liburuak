@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2830</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43735089-8d73-4572-9bf3-b6864ae4ddfe</dc:identifier>
+        <dc:title>Los nombres de Feliza</dc:title>
+        <dc:creator opf:file-as="Vásquez, Juan Gabriel" opf:role="aut">Juan Gabriel Vásquez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-03T00:00:00+00:00</dc:date>
+        <dc:description>La nueva novela del autor Premio Alfaguara de Novela 2011 por El ruido de las cosas al caer.UNA FICCIÓN CON BASE REAL SOBRE UNA ARTISTA EXCEPCIONAL QUE SUPO ENFRENTARSE A TODAS LAS CONVENCIONES DE SU MUNDO.«Vásquez ha sucedido a García Márquez como el gran maestro literario de Colombia». Ariel Dorfman, The New York Review of Books«Me di cuenta de que entender a Feliza era una empresa difícil. Nada era sencillo cuando se trataba de ella».El 8 de enero de 1982, la escultora colombiana Feliza Bursztyn murió en un restaurante de París. Tenía cuarenta y ocho años. En el momento de su muerte repentina la acompañaban su marido y cuatro amigos. Uno de ellos, el escritor Gabriel García Márquez, publicó días después un artículo que incluía tres palabras en apariencia simples, pero misteriosas en el fondo: «Murió de tristeza».Juan Gabriel Vásquez parte de esas palabras para investigar en la vida secreta o desconocida de una mujer extraordinaria. Feliza Bursztyn se enfrentó siempre a la...</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-23T13:00:54.323457+00:00"/>
+        <meta name="calibre:title_sort" content="nombres de Feliza, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3221</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1bce0557-1b9a-4fcd-bccb-9527956cf36f</dc:identifier>
+        <dc:title>Los viejos amores</dc:title>
+        <dc:creator opf:file-as="Ribas, Rosa" opf:role="aut">Rosa Ribas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-07T13:08:16+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En todas las historias familiares hay un hecho que determina el destino de sus miembros. En el caso de Lola, la matriarca de esta saga de detectives, es la muerte de su hijo Marc, hace casi cinco años. Para Lola, lo que vino después fue un tiempo romo y agrisado. Pero hace unos meses que los Hernández se han reunido de nuevo, vuelven a investigar juntos como en los viejos tiempos. También Ayala, el fiel colaborador, ha regresado. Todos curtidos y, por qué no decirlo, más baqueteados a las órdenes del peculiar Mateo. Por otro lado, un estafador del amor campa a sus anchas por el barrio, se hace pasar por un antiguo compañero de colegio de sus víctimas y parece que su avaricia no tiene límites. Los Hernández se enfrentan a un escurridizo adversario. Un nuevo caso para esta familia en el que la soledad de las personas mayores, las redes sociales y la ciberdelincuencia pondrán a prueba el frágil equilibrio de los miembros de esta singular agencia.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:18.497247+00:00"/>
+        <meta name="calibre:title_sort" content="viejos amores, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

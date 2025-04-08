@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">889</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5439fe7f-69ab-401c-8e9a-7e5d77265780</dc:identifier>
+        <dc:title>Lectura fácil</dc:title>
+        <dc:creator opf:file-as="Cristina Morales" opf:role="aut">Cristina Morales</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-04T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;Son cuatro: Nati, Patri, Marga y Àngels. Son parientas, tienen diversos grados de lo que la Administración y la medicina consideran «discapacidad intelectual» y comparten un piso tutelado. Han pasado buena parte de sus vidas en RUDIS y CRUDIS (residencias urbanas y rurales para personas con discapacidad intelectual). Pero ante todo son mujeres con una extraordinaria capacidad para enfrentarse a las condiciones de dominación que les ha tocado sufrir. La suya es la Barcelona opresiva y bastarda: la ciudad de las okupas, la Plataforma de Afectados por la Hipoteca, los ateneos anarquistas y el arte políticamente correcto.&lt;/p&gt;&lt;p class="description"&gt;Esta es una novela radical en sus ideas, en su forma y en su lenguaje. Una novela-grito, una novela politizadora que cruza voces y textos: un fanzine que pone en jaque el sistema neoliberal, las actas de una asamblea libertaria, las declaraciones ante un juzgado que pretende esterilizar forzosamente a una de las protagonistas, la novela autobiográfica que escribe una de ellas con la técnica de la Lectura Fácil…&lt;/p&gt;&lt;p class="description"&gt;Este libro es un campo de batalla: contra el heteropatriarcado monógamo y blanco, contra la retórica institucional y capitalista, contra el activismo que usa los ropajes de «lo alternativo» para apuntalar el statu quo. Pero es también una novela que celebra el cuerpo y la sexualidad, el deseo de y entre las mujeres, la dignidad de quien es señalada con el estigma de la discapacidad y la capacidad transgresora y revolucionaria del lenguaje. Es sobre todo un retrato –visceral, vibrante, combativo y feminista– de la sociedad contemporánea con la ciudad de Barcelona como escenario.&lt;/p&gt;&lt;p class="description"&gt;Lectura fácil confirma a Cristina Morales como una de las voces más potentes, creativas, inconformistas e innovadoras de la literatura española actual.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Anagrama</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788433939937</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-23T11:09:40.087049+00:00"/>
+        <meta name="calibre:title_sort" content="Lectura fácil"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

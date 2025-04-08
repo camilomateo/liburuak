@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3092</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">668072ec-5481-4f70-baca-46fc897a29ab</dc:identifier>
+        <dc:title>La ballena varada</dc:title>
+        <dc:creator opf:file-as="O'Connor, Elizabeth" opf:role="aut">Elizabeth O'Connor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-16T16:45:55+00:00</dc:date>
+        <dc:description>Una pequeña isla frente a las costas de Gales. Un país bajo la amenaza de otra guerra. Una joven de la comunidad que se enfrenta al choque entre una forma de vida que desaparece y un mundo nuevo que viene a través del mar.En 1938, una ballena aparece muerta en las costas de una remota isla galesa en la que apenas habitan doce familias. Para Manod, una joven que ha pasado toda su vida allí, es tanto un presagio de fatalidad como un símbolo de lo que puede haber más allá de sus costas, y aviva su deseo de explorar la vida más allá de esa hermosa pero durísima isla que su familia ha llamado hogar durante generaciones. En ese sentido la llegada de Edward y Joan, dos etnógrafos ingleses que esperan estudiar la cultura de la isla, le parece una bendición y una forma de evadirse al comenzar a trabajar para ellos como secretaria y traductora, dado que pocos miembros de la comunidad hablan inglés. A medida que los aldeanos se sienten atraídos por la curiosidad hacia la ballena, que se...</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-23T09:50:04.800619+00:00"/>
+        <meta name="calibre:title_sort" content="ballena varada, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

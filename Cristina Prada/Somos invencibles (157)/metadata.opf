@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10dd7c7d-723e-4d62-b4a5-bd841eb8d8da</dc:identifier>
+        <dc:title>Somos invencibles</dc:title>
+        <dc:creator opf:file-as="Prada, Cristina" opf:role="aut">Cristina Prada</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Tommy y Helsey están a punto de descubrir que el amor de verdad no se puede controlar y que un beso puede hacerte volar hasta tocar las estrellas. Helsey solo tiene dos reglas: *Nunca te relaciones con los chicos del equipo de fútbol. *Nunca seas el centro de atención. Porque Helsey tiene dos objetivos: *Mantenerse en su zona de confort. *Conseguir que su secreto siga siendo un secreto. Solo hay una cosa con la que Helsey no ha contado: Tommy Taylor. Siendo concretos: Tommy Taylor y tener que fingir que son novios para que su familia no piense que es una negada total. ¿Qué podría salir mal? ¿Lo de fingir una relación? ¿Lo de hacerse amigos en el proceso? O, quizás, ¿lo de dejarse llevar? Sí, seguramente será eso último... Lo que Helsey no imagina es lo increíble que va a resultar, cuánto va a reír, cuánto va a soñar y, sobre todo, cuánto va a sentir.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Esencia</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Cristina Prada&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-23T17:20:02.161807+00:00"/>
+        <meta name="calibre:title_sort" content="Somos invencibles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

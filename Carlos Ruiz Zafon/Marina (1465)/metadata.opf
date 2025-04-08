@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1465</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ded2a32-4331-429c-aa66-de5470a51ce3</dc:identifier>
+        <dc:title>Marina</dc:title>
+        <dc:creator opf:file-as="Zafón, Carlos Ruiz" opf:role="aut">Carlos Ruiz Zafón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-02T11:53:27+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div class="frase-mkt"&gt;&lt;p&gt;&lt;strong&gt;25 aniversario de uno de los libros más queridos de Carlos Ruiz Zafón. &lt;/strong&gt;&lt;strong&gt;Edición ilustrada por Iban Barrenetxea&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;«Quince años más tarde, la memoria de aquel día ha vuelto a 
+mí. He visto a aquel muchacho vagando entre las brumas de la estación de
+ Francia y el nombre de Marina se ha encendido de nuevo como una herida 
+fresca. Todos tenemos un secreto encerrado bajo llave en el ático del 
+alma. Este es el mío».&lt;/p&gt;&lt;p class="description"&gt;
+							
+&lt;/p&gt;&lt;p&gt;En la &lt;strong&gt;Barcelona de 1980&lt;/strong&gt; Óscar Drai sueña despierto, 
+deslumbrado por los palacetes modernistas cercanos al internado en el 
+que estudia. En una de sus escapadas&lt;strong&gt; conoce a Marina&lt;/strong&gt;, una chica audaz que comparte con Óscar la aventura de adentrarse en un &lt;strong&gt;enigma doloroso del pasado&lt;/strong&gt; de la ciudad. Un misterioso personaje de la posguerra se propuso el &lt;strong&gt;mayor desafío imaginable&lt;/strong&gt;, pero su ambición lo arrastró por &lt;strong&gt;sendas siniestras&lt;/strong&gt; cuyas consecuencias debe pagar alguien todavía hoy.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T14:46:09.961272+00:00"/>
+        <meta name="calibre:title_sort" content="Marina"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

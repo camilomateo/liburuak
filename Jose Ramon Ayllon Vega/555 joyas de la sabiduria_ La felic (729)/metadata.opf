@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f302925-30f6-4de0-bfdc-e98bdccb80b5</dc:identifier>
+        <dc:title>555 joyas de la sabiduría: La felicidad según los clásicos</dc:title>
+        <dc:creator opf:file-as="Vega, José Ramón Ayllón" opf:role="aut">José Ramón Ayllón Vega</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-27T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Este bello libro aborda de manera sencilla y práctica las grandes 
+cuestiones que han movido a la humanidad desde siempre: la felicidad, el
+ amor, la libertad, la justicia..., y lo hace desde la reflexión, la 
+belleza y las sabias palabras de cuatro de los pensadores más 
+fructíferos, atemporales e importantes de todos los tiempos. 
+Estructurado con una pequeña introducción a cada uno de los temas, las 
+citas, breves pero intensas, brillantes e ingeniosas, ayudan a pensar y a
+ comprender. Porque todo lo que hay en los libros de autoayuda actuales,
+ ya estaba en los clásicos.&lt;/p&gt;</dc:description>
+        <dc:publisher>Ediciones Martínez Roca</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0064T0538</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-17T11:23:20.493736+00:00"/>
+        <meta name="calibre:title_sort" content="555 joyas de la sabiduría: La felicidad según los clásicos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

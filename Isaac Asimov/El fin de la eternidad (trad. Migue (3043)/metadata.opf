@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3043</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">338df20b-54cb-4829-8de3-8d42be020a03</dc:identifier>
+        <dc:title>El fin de la eternidad (trad. Miguel López Genicio)</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1954-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Andrew Harlan ha cometido un crimen, pero su acto no es un simple delito. Porque la ley que ha quebrantado es la más importante de todas para un Ejecutor: la ley que impide que miles de años de historia sean borrados y reescritos de forma irreversible por la guerra, la muerte y la decadencia. Pero ni siquiera la Eternidad, la organización a la que pertenece, puede detenerle. Harlan ha sido entrenado para introducir cambios en el tiempo, y sólo él puede rescatar a la única persona que le importa antes de que uno de los cambios la haga desaparecer para siempre. Lo que Harlan no sabe, sin embargo, es que lo que está en juego es mucho más de lo que él cree. Y lo que no podría imaginar de ningún modo es la partida de ajedrez temporal de la que forma parte, una partida que puede decidir el futuro de la humanidad.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:57.779258+00:00"/>
+        <meta name="calibre:title_sort" content="fin de la eternidad (trad. Miguel López Genicio), El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

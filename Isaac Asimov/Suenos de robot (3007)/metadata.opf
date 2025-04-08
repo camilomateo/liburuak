@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3007</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">874958e8-7590-493f-85d3-90c24bcfd071</dc:identifier>
+        <dc:title>Sueños de robot</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-04-22T23:00:00+00:00</dc:date>
+        <dc:description>El extraordinario divulgador científico y maestro de la narrativa que es Asimov nos ofrece en este magnífico libro de relatos una aproximación profunda al fenómeno de los robots, en el cual este autor es autoridad indiscutible. ¿Qué papel desempeñarán en un futuro más o menos lejano estos extraños mecanismos creados por el hombre casi a su imagen y semejanza? ¿Cómo influirán mañana los robots en la vida de la Humanidad? Asimov nos brinda aquí unas narraciones que nos deleitarán y, al mismo tiempo, nos darán claves que, sin duda, nos moverán a la reflexión… y quizás a la preocupación. Las historias aparecen espléndidamente ilustradas por Ralph McQuarrie, diseñador de numerosas películas de ciencia ficción.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:51+00:00"/>
+        <meta name="calibre:title_sort" content="Sueños de robot"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

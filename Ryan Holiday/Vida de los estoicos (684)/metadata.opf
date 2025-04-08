@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">684</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41e1eacf-2d3f-4d85-aca5-d860f1d2d5c8</dc:identifier>
+        <dc:title>Vida de los estoicos</dc:title>
+        <dc:creator opf:file-as="Ryan Holiday &amp; Stephen Hanselman" opf:role="aut">Ryan Holiday</dc:creator>
+        <dc:creator opf:file-as="Ryan Holiday &amp; Stephen Hanselman" opf:role="aut">Stephen Hanselman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;De la mano del autor de bestsellers Ryan Holiday, presentamos un libro inspirador sobre la vida de los estoicos y sobre lo mucho que todavía pueden aportarnos en relación a la felicidad, el éxito, la resistencia y la virtud. Casi 2.300 años después de su aparición en Atenas, el estoicismo ha encontrado una nueva audiencia entre aquellos que buscan alcanzar la superación y el éxito en su vida. - No es de extrañar; la filosofía estoica y su apuesta por el autodominio, la virtud y la indiferencia hacia lo que no podemos controlar es tan urgente en la actualidad como lo fue en la época del Imperio Romano. - Más que un simple tratado de historia, el libro está pensado para ayudar al lector a aplicar la filosofía estoica en su propia vida. Organizado en breves biografías de los pensadores estoicos más relevantes, este libro muestra vívidamente qué representó la práctica del estoicismo para las personas que lo adoptaron como modo de vida, ofreciéndonos poderosas lecciones inspiradoras de sus esfuerzos y éxitos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Reverte</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788429196450</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-15T16:09:51+00:00"/>
+        <meta name="calibre:title_sort" content="Vida de los estoicos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1243</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7d351c2-d479-4f53-a1f4-f0df669f547e</dc:identifier>
+        <dc:title>Encuentra tu ikigai</dc:title>
+        <dc:creator opf:file-as="Lemke, Bettina" opf:role="aut">Bettina Lemke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-12T05:00:00+00:00</dc:date>
+        <dc:description>Ikigai es un maravilloso concepto japonés que significa «la razón de vivir». Describe la sensación de saber cuál es el sentido de la propia vida y, en consecuencia, la seguridad de que tu existencia merece la pena. Para la cultura japonesa, la búsqueda del ikigai es tremendamente importante, porque su descubrimiento aporta sentido y felicidad. Según los estudios más recientes, un alto nivel de ikigai no solo conduce a una experiencia más plena, sino que alarga la vida.
+¿Por qué estoy aquí? ¿Cuál es mi misión en el mundo? ¿Qué me hace feliz? Todos nos hemos formulado estas preguntas… Bettina Lemke desentraña en este libro los misterios del ikigai, esa fuerza vital interior que es la respuesta a todas las dudas existenciales, y nos ofrece un apasionante programa de preguntas y ejercicios para que cada persona pueda desentrañar el suyo. Sí, lo sepas o no, tú también llevas dentro tu ikigai. Si aún no lo has descubierto… ahora es el momento.</dc:description>
+        <dc:publisher>Urano</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <dc:subject>Ensayo</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-23T08:41:58.156400+00:00"/>
+        <meta name="calibre:title_sort" content="Encuentra tu ikigai"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

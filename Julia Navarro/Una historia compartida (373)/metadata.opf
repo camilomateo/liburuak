@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">373</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e291f05c-f1e0-44b9-bdff-655ccfc2d316</dc:identifier>
+        <dc:title>Una historia compartida</dc:title>
+        <dc:creator opf:file-as="Navarro, Julia" opf:role="aut">Julia Navarro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-11T19:26:58+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;El libro más personal de Julia Navarro&lt;/B&gt;&lt;/P&gt; &lt;P&gt;&lt;B&gt;Una sugerente invitación a compartir las historias escritas y vividas por mujeres: con ellos, sin ellos, por ellos, frente a ellos.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Hasta el siglo XX la Historia la escribieron los hombres. Eso explica por qué las mujeres apenas aparecemos como sujetos de las historias de la Historia. Sin embargo, la lista de aquellas que la protagonizaron es extensa: desde diosas hasta reinas, desde cortesanas hasta científicas, desde actrices hasta santas, desde escritoras hasta políticas... Hemos estado en todas partes, aunque un manto de silencio se empeñara en cubrirnos o ignorarnos.&lt;/P&gt; &lt;P&gt;Eso sí, no podemos contar las historias de estas mujeres sin tenerlos también en cuenta a ellos, porque desde el principio de los tiempos las vidas de hombres y mujeres han estado entrelazadas y no se explican las unas sin los otros, es decir con ellos, sin ellos, por ellos, frente a ellos o con la ignorancia de ellos. Por eso, este...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Julia Navarro&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-03T07:31:25.238570+00:00"/>
+        <meta name="calibre:title_sort" content="historia compartida, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

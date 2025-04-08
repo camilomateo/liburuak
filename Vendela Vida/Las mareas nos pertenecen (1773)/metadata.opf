@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1773</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5ac9151-444d-4c12-b7cc-cb8e4e99a075</dc:identifier>
+        <dc:title>Las mareas nos pertenecen</dc:title>
+        <dc:creator opf:file-as="Vida, Vendela" opf:role="aut">Vendela Vida</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-style: italic"&gt;&lt;span style="color: #000000"&gt;UNA CONMOVEDORA NOVELA SOBRE LA AMISTAD FEMENINA, LA TRAICIÓN Y UNA MISTERIOSA DESAPARICIÓN. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Eulabee y su magnética mejor amiga, Maria Fabiola, viven junto al océano en un brumoso barrio de San Francisco. Lo saben todo acerca de sus calles, casas y playas, de sus rincones secretos y de los excéntricos personajes que lo pueblan. &lt;/p&gt;
+&lt;p&gt;Un día, de camino a clase, son testigos de un acontecimiento terrible, ¿o quizás no? &lt;/p&gt;
+&lt;p&gt;Eulabee y Maria Fabiola discrepan sobre lo ocurrido y su amistad sufre una importante fractura, que coincide con la repentina desaparición de Maria Fabiola, un posible secuestro que conmociona el tranquilo vecindario y amenaza con exponer verdades nunca dichas.&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;Fascinante y llena de suspense, Las mareas nos pertenecen constituye un magistral retrato sobre la pérdida de la inocencia, el dolor que supone un exceso de libertad y la lucha por encontrarse a uno mismo.&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;Relatada con ojo crítico y gran calidez, nos ofrece al mismo tiempo misterio y un tributo a las maravillas de la juventud en toda su belleza y confusión.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:11.712534+00:00"/>
+        <meta name="calibre:title_sort" content="Las mareas nos pertenecen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

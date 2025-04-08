@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72dc2959-1ad4-44fc-92ae-55c3d1bcd5d1</dc:identifier>
+        <dc:title>GPS</dc:title>
+        <dc:creator opf:file-as="Rico, Lucie" opf:role="aut">Lucie Rico</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-24T00:00:00+00:00</dc:date>
+        <dc:description>Sandrine quiere compartir su ubicación contigo.
+Ariane es una joven con dificultades sociales que prefiere no salir de su casa. Todo cambia cuando Sandrine, su mejor amiga, la invita a su fiesta de compromiso y le envía su ubicación en tiempo real para ayudarla a orientarse y llegar bien. A la mañana siguiente, Sandrine ha desaparecido. No contesta al teléfono. No hay rastro de ella, solo el punto del GPS que sigue moviéndose y que Ariane no puede dejar de mirar. El GPS le proporciona un sentimiento de proximidad con Sandrine. Como si ambas compartieran un secreto. Hasta que encuentran un cadáver calcinado a orillas de un lago por donde ha pasado el punto del GPS, que no deja de moverse. Ariane investiga, pero todas las pistas la llevan a un callejón sin salida. Lo más inquietante es que el punto del GPS insiste en llevarla a los lugares clave de su amistad.  
+
+Esta novela sobre la amistad y la muerte, sobre las fragilidades sociales y psicológicas, transita por las ilusiones del duelo desde el prisma de nuestras adicciones tecnológicas.</dc:description>
+        <dc:publisher>AdN Editorial Grupo Anaya</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T11:44:04+00:00"/>
+        <meta name="calibre:title_sort" content="GPS"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

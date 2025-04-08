@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1819</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">294d5fd0-f55a-46d4-9c69-c17884512e90</dc:identifier>
+        <dc:title>Furia en las tinieblas</dc:title>
+        <dc:creator opf:file-as="Proulx, A.R." opf:role="aut">A.R. Proulx</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-21T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif"&gt;Dean Antoine, uno de los más destacados oficiales de la policía de París, explora los rincones del barrio Latino y en especial los de la Sorbona tras una serie de acontecimientos desconcertantes y la inesperada visita de un siniestro personaje. Se verá envuelto en una densa niebla de prácticas ocultas, siendo testigo de rituales espiritistas y una serie de encuentros demoniacos que desafiarán su imaginación y experiencia hasta introducirlo en un mundo sobrenatural. ¿Será una hermandad? ¿Una sociedad secreta? ¿Las secuelas de un pasado ignorado?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DDYDJ5CV</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Misterio</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-28T10:55:04.500885+00:00"/>
+        <meta name="calibre:title_sort" content="Furia en las tinieblas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

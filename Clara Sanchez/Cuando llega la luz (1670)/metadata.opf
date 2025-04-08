@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50bbc772-97c9-40fd-a4b8-90c008babcd8</dc:identifier>
+        <dc:title>Cuando llega la luz</dc:title>
+        <dc:creator opf:file-as="Sánchez, Clara" opf:role="aut">Clara Sánchez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;La esperadísima continuación de Lo que esconde tu nombre. Más de 1.000.000 de lectores.¿Puedes proteger a quien más quieres? No se puede huir ni olvidar. El pasado siempre te encuentra.&lt;/p&gt;
+&lt;p&gt;En el último año y medio la vida de Sandra ha dado todo un vuelco. Tras escapar de las engañosas redes de un grupo de ancianos nada inocentes instalados en el tranquilo pueblo de Dianium, se traslada a Madrid junto a su hijo recién nacido, Janín. Alejada del pasado, su nueva vida parece felizmente encauzada, pero un día, al recoger a Janín de la guardería, encuentra una nota anónima en su mochila: «¿DÓNDE ESTÁ TU AMIGO JULIÁN?». Después de mucho tiempo sin saber de él, Sandra tendrá que localizarlo y ponerlo sobre aviso: alguien anda sobre su pista y no se detendrá ante nada hasta encontrarlo.&lt;br&gt;&lt;br&gt;Mientras tanto, Julián pasa sus días en la residencia Los Tres Olivos. Desde que Sandra y él pusieron al descubierto el paradero de varios miembros de la Hermandad, él ha seguido empeñado en sacar a la luz la cara oculta de antiguos nazis instalados en la costa levantina. Ahora algunos, ya octogenarios, comparten residencia con el viejo Julián, quien deberá convivir con ellos en el más estricto anonimato para no ser descubierto.&lt;br&gt;Tras Lo que esconde tu nombre, la apasionante intriga de Cuando llega la luz nos adentra en una historia de amor y de coraje, de memoria y de culpa, de esperanza y de fortaleza. Un subyugante relato sobre la venganza, los límites del mal y la fuerza que se esconde, casi invisible, en el lado más oscuro del ser humano. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423351503</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">a4be9845-5f84-466e-a3fa-e150b42a7026</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-17T21:51:01.995120+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando llega la luz"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

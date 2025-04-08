@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">638</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a189c36-4fa1-4252-8917-a7b841c9c1ef</dc:identifier>
+        <dc:title>Proyecto Ernetti</dc:title>
+        <dc:creator opf:file-as="Portiche, Roland" opf:role="aut">Roland Portiche</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-11T09:14:23+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una novela sobre el enigma del cronovisor, el secreto mejor guardado del Vaticano.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;En plena Guerra Fría una carrera contrarreloj entre el Vaticano, la CIA, el KGB y el Mossad podría cambiar el orden mundial.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Ciudad del Vaticano, 1956&lt;/b&gt;&lt;/span&gt;.
+ El papa Pio XII encarga al obispo Montini y a Pellegrino Ernetti, un 
+joven benedictino, exorcista y físico, que investigue la documentación 
+del también físico Ettore Majorana, encontrada en la celda del 
+monasterio calabrés en el que vivió desde su desaparición en 1938. A 
+partir de las notas del científico siciliano, Pellegrini emprende la 
+construcción del cronovisor, un artefacto para visualizar momentos del 
+pasado. El papa ha puesto todas sus esperanzas en este proyecto secreto 
+para demostrar la veracidad de las Sagradas Escrituras y devolver la fe 
+del pueblo en la Iglesia.&lt;/p&gt;&lt;p&gt;Mientras tanto, en Brasil, 
+un poderoso obispo que cuenta con la colaboración de los servicios 
+secretos soviéticos está decidido a provocar un cisma en la Iglesia para
+ convertirse en «el Papa de los pobres».&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Roland Portiche&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:43.124831+00:00"/>
+        <meta name="calibre:title_sort" content="Proyecto Ernetti"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

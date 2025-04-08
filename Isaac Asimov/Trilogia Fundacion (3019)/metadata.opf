@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3019</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1888e9f-e9dc-4fb5-b167-dc30a7cd7d4a</dc:identifier>
+        <dc:title>Trilogía Fundación</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1962-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Isaac Asimov empezó a escribir la saga de la Fundación a los veintiún años, sin saber que un día esta obra se convertiría en la piedra angular de la ciencia ficción del siglo XX, ni que con ella cautivaría a lectores de todas las edades durante más de siete décadas.
+¿Por qué surgen y caen los imperios? La Trilogía Fundación es una historia con múltiples capas cuya lectura sigue siendo tan apasionante hoy como cuando se publicó por vez primera en la década de 1950. Incorporando infinitos elementos de la política contemporánea, la historia antigua y las matemáticas, la obra maestra de Asimov explora el declive del Imperio Galáctico, una civilización que gobernó sobre casi veinticinco millones de planetas habitados.
+Esta edición única de la Trilogía Fundación, ilustrada y en un solo volumen, es el mejor homenaje a la mayor saga de la ciencia ficción universal.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">67553</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia Ficción</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-12T12:51:54.001866+00:00"/>
+        <meta name="calibre:title_sort" content="Trilogía Fundación"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

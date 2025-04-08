@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4d43d1f-e30a-4c05-8064-12bec5517d2b</dc:identifier>
+        <dc:title>Muerte entre muffins de arándanos</dc:title>
+        <dc:creator opf:file-as="Fluke, Joanne" opf:role="aut">Joanne Fluke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-06T06:00:00+00:00</dc:date>
+        <dc:description>El Carnaval de Invierno de Lake Eden está a punto de empezar. Hannah ha sido contratada para suministrar las galletas para el evento, pero el honor de crear la tarta ha recaído en Connie Mac. En opinión de Hannah, la reputación de la cocinera televisiva está más hinchada que un suflé. Y parece que no va desencaminada: la dulce Connie resulta ser una déspota malcarada, pero tal vez no merecía que la mataran, ¡y menos en la pastelería de Hannah! Cuando la policía precinta The Cookie Jar por considerarla el escenario de un crimen, Hannah se encontrará con masa de galletas y sin horno, y una idea se cocina en su mente: si quiere salvar su negocio tendrá que encontrar ella misma al asesino. ¡Un nuevo caso que resolver, una avalancha de dulces y nuevas recetas de repostería mortalmente apetitosas</dc:description>
+        <dc:publisher>Editorial Alma</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002632</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">400</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:12.702352+00:00"/>
+        <meta name="calibre:title_sort" content="Muerte entre muffins de arándanos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

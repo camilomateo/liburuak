@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">991</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0e1ec72-fb76-4c27-90c1-995ab89e3d89</dc:identifier>
+        <dc:title>Kamasutra</dc:title>
+        <dc:creator opf:file-as="Manara, Milo" opf:role="aut">Milo Manara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-01-01T06:00:00+00:00</dc:date>
+        <dc:description>El encuentro casual entre un misterioso Sikh conducirá a la fascinante Parva y a la maliciosa Lulú a una audaz aventura, la cual culminará en un misterioso templo de la India, en donde las dos protagonistas se iniciarán en el arte y la técnica erótica secreta del Kamasutra. Sólo así Parva podrá entrar en comunión con Shiva, el Dios del amor, condenado a vivir en un espíritu incorpóreo.</dc:description>
+        <dc:publisher>Librolandia</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:identifier opf:scheme="EPL">48266</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Erótico</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Comic</dc:subject>
+        <meta name="calibre:timestamp" content="2023-08-23T12:48:25+00:00"/>
+        <meta name="calibre:title_sort" content="Kamasutra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

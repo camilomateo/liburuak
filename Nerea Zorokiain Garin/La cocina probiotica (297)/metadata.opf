@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">963ce653-84af-472f-af3f-f343f28d6e43</dc:identifier>
+        <dc:title>La cocina probiótica</dc:title>
+        <dc:creator opf:file-as="Garín, Nerea Zorokiain" opf:role="aut">Nerea Zorokiain Garín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-08T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;El libro de cocina para cuidar tu microbiota.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;La
+ alimentación probiótica es aquella que está pensada para preservar el 
+hábitat y las condiciones de vida que los microorganismos beneficiosos 
+para nuestro sistema digestivo necesitan. Gracias a la microbiota somos 
+capaces de realizar funciones vitales básicas y, por tanto, cuidar de 
+ella nos reporta grandes beneficios:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- metabolizar mejor los nutrientes;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- aumentar la capacidad de respuesta del sistema inmune;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- regular el peso de forma natural;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- disfrutar de equilibro emocional.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Este libro nos ofrece &lt;/span&gt;&lt;span class="a-text-bold"&gt;las claves y más de 80 recetas&lt;/span&gt;&lt;span&gt; que tienen en cuenta el origen y la calidad de los alimentos para lograr una gran transformación a largo plazo.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;¡Disfruta de deliciosos desayunos, postres, bebidas y platos principales que harán que goces de buena salud!&lt;/span&gt;&lt;/p&gt;  &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Nerea Zorokiain Garín&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-13T19:25:34.720544+00:00"/>
+        <meta name="calibre:title_sort" content="cocina probiótica, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84399804-3972-45b3-816b-5d303079c497</dc:identifier>
+        <dc:title>Tokio Redux</dc:title>
+        <dc:creator opf:file-as="Peace, David" opf:role="aut">David Peace</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-15T06:00:00+00:00</dc:date>
+        <dc:description>El 5 de julio de 1949 la Ocupación tenía resaca. El Japón ocupado
+militarmente por los Estados Unidos se despierta de los festejos del
+Cuatro de Julio con una preocupante noticia: Sadanori Shimoyama, el
+presidente de la Empresa Nacional de Ferrocarriles, el hombre que adora
+los trenes, ha desaparecido. Sobre él pesan amenazas de muerte tras
+anunciar cien mil despidos. Shimoyama es pieza clave para que todo siga
+funcionando bajo la Ocupación, para que el país ame a sus nuevos amos,
+para que no estalle la tercera guerra mundial. El general Willoughby,
+mano derecha del comandante supremo MacArthur, su fascista favorito,
+encarga al detective Harry Sweeney que centre todos los recursos
+disponibles en encontrar a Shimoyama. En 1964, mientras el país prepara
+los Juegos Olímpicos, al expolicía Hideki Murota, le encargan averiguar
+qué ha sido de Roman Kuroda, escritor obsesionado con el misterio
+Shimoyama. Su editor le ha dado un cuantioso anticipo para que escriba
+el gran libro sobre el caso y el plazo del contrato está a punto de
+expirar. Y en el otoño de 1988, mientras el emperador Hirohito agoniza,
+Donald Reichenbach, el prestigioso traductor estadounidense afincado en
+Japón, recibe la visita de una joven compatriota. Viene a exigirle
+información sobre los lejanos días en los que el joven Reichenbach
+trabajaba para el contraespionaje americano en el país del sol naciente.
+Tokio Redux es la historia de tres hombres atrapados en la locura que
+envuelve el caso Shimoyama, una espectacular novela negra de corte
+clásico a la que David Peace ha dedicado diez años y que pone broche de
+oro a su Trilogía de Tokio.</dc:description>
+        <dc:publisher>Hoja de Lata Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788416537372</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Trilogía de Tokio"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:17.621240+00:00"/>
+        <meta name="calibre:title_sort" content="Tokio Redux"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

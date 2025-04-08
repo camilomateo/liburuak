@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f32b5abd-bc34-4ea4-b7b5-813150acae6b</dc:identifier>
+        <dc:title>La risa asusta al miedo</dc:title>
+        <dc:creator opf:file-as="de la Calle, Sergio" opf:role="aut">Sergio de la Calle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Pero… ¿es esto cierto? Dondequiera que miremos, parece haber una 
+crisis, ya sea económica, climática, política o bélica. Muchas veces, al
+ mismo tiempo. En este escenario, ¿hay espacio para el humor? SÍ, aunque
+ no sea obvio, los tiempos de crisis son los más propicios para la risa.
+ Es cuando se vuelve más necesaria y útil, porque, como dice Sergio de 
+la Calle, «en medio del caos, el humor es la brújula para orientarse; en
+ los accidentes emocionales, un airbag; y, en la oscuridad, un faro». La
+ risa asusta al miedo se alzó con el Premio Feel Good en su octava 
+edición porque es un elogio al humor en todas sus formas y 
+circunstancias, un verdadero manifiesto para quienes han decidido (o 
+deberían) llevar la risa como estandarte. En este libro encontrarás a 
+muchos valientes, algunos célebres y otros anónimos, que se plantaron 
+con una sonrisa firme ante problemas de diferente índole y gravedad y 
+dijeron, sin que les temblase la voz: «Si puedo reír, es que todavía no 
+me han vencido».
+
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Bookwire Spain</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda y desarrollo personal</dc:subject>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:45.499982+00:00"/>
+        <meta name="calibre:title_sort" content="risa asusta al miedo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

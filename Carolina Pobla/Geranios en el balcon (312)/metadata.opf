@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">312</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7eafe2f0-7643-42a3-9738-695a59886d59</dc:identifier>
+        <dc:title>Geranios en el balcón</dc:title>
+        <dc:creator opf:file-as="Pobla, Carolina" opf:role="aut">Carolina Pobla</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-24T22:00:00+00:00</dc:date>
+        <dc:description>Geranios en el balcón by Carolina Pobla. Cuando la familia se convierte en fuente de inspiración: una cautivadora novela basada en la historia de los abuelos de la autora. La novela ofrece una enriquecedora visión de la historia de España del último siglo gracias a Rosario y Tobías, dos jóvenes de orígenes totalmente opuestos a los que la casualidad une en la Barcelona de antes de la guerra. A través de los ojos de los protagonistas, conocemos cómo era la vida en Algeciras en el primer tercio del siglo XX; el fascinante viaje de un joven burgués de Barcelona a Estados Unidos –una historia basada en hechos reales y poco explorada en la literatura española: la de los españoles que quisieron abrirse camino en Norteamérica–; y, más adelante, la Barcelona habitada por cupletistas, prostitutas y revolucionarios, donde los sueños de Rosario, que quiere ser cantante, se unen con los de Tobías, recién llegado de América. Una Barcelona que respira vida, y diversión, pero también pobreza y clandestinidad, y en la que todo se trunca con el estallido de la Guerra Civil.</dc:description>
+        <dc:publisher>Maeva Ediciones, S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carolina Pobla&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-16T07:33:14.304622+00:00"/>
+        <meta name="calibre:title_sort" content="Geranios en el balcón"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

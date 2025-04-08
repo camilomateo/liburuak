@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1399</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3695b865-4c42-4293-85b1-818ef5a5b92b</dc:identifier>
+        <dc:title>La princesa de hielo (edición 10.º Aniversario)</dc:title>
+        <dc:creator opf:file-as="Läckberg, Camilla" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Edición Especial con 60 páginas extra: entrevista y fotos de la autora, consejos para escribir novela negra, cubiertas internacionales. En el invierno de 2003 Erica Falck regresa a Fjällbacka después de que sus padres, Elsy y Thore, fallecieran en un terrible accidente de tráfico. Ha dejado Estocolmo para terminar la biografía de Selma Lagerlöf mientras recoge y hace limpieza en la casa de sus padres. Sin embargo, ve frustrados esos planes cuando su amiga de la infancia, Alexandra Wijkner, aparece muerta en la bañera de la residencia de verano que tenía en Fjällbacka. Su muerte resulta estar relacionada con una desaparición que se produjo veinticinco años atrás. Erica no puede por menos de seguir investigando en lo que le ha ocurrido a su amiga y, durante sus pesquisas, conoce a Patrik Hedström, policía de Tanumshede, que estuvo enamorado de ella en su juventud. En el reencuentro se enamoran y su relación se va fortaleciendo al mismo tiempo que se ven envueltos en una maraña de mentiras, traiciones y verdades ocultas con raíces en un pasado remoto. «La princesa de hielo» es la primera novela de Camilla Läckberg, que la dio a conocer en todo el mundo como una joven promesa del misterio sueco e inició un fenómeno que dura hasta hoy. Es el libro más vendido de la serie de Fjällbacka, con más de 600 000 ejemplares vendidos de este título en nuestro país. Para celebrarlo, presentamos esta edición conmemorativa del 10.º aniversario.</dc:description>
+        <dc:publisher>Ediciones MAEVA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Fjällbacka"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-04-08T12:39:41.802222+00:00"/>
+        <meta name="calibre:title_sort" content="princesa de hielo (edición 10.º Aniversario), La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

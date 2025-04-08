@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">665cf46e-e47c-4edd-be93-dfab9a3994fe</dc:identifier>
+        <dc:title>Solo queda silencio</dc:title>
+        <dc:creator opf:file-as="Txemi, Parra" opf:role="aut">Txemi Parra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Después de la nevada...&lt;/p&gt;
+&lt;p align="justify"&gt;Después de la confesión...&lt;/p&gt;
+&lt;p align="justify"&gt;Después de la muerte...&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;SOLO QUEDA SILENCIO&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;En Jaca, el Año Nuevo amanece con una tragedia: han hallado en el río el cadáver de Martín Blasco, un joven abogado. Su último mensaje constaba de una única palabra: Perdón.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Si bien la escena del crimen apunta a un posible suicidio, hay algo que no encaja. ¿Por qué iba a matarse un hombre feliz que se había casado justo el día anterior? ¿A qué se refería con esa nota de disculpa? ¿Hay alguna relación entre Martín y el hombre que ha aparecido congelado en la bañera de su casa?&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Mientras la nieve tiñe el pueblo de blanco, Gloria Maldonado, la inspectora asignada al caso, intuye que para desentrañar la verdad hará falta quebrar la capa de hielo que lleva años sepultando los secretos de sus habitantes. Pecados que ni siquiera el tiempo ha logrado borrar porque solo se expían con la muerte.&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Con la garra y el estilo de los mejores autores de thriller, Txemi Parra nos ofrece un misterio fascinante que sacude la paz de un idílico enclave pirenaico.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-12-11T07:23:55.942708+00:00"/>
+        <meta name="calibre:title_sort" content="Solo queda silencio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

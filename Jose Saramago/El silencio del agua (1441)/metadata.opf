@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1441</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">344920fc-74c5-4b28-9f41-06a184b97bf2</dc:identifier>
+        <dc:title>El silencio del agua</dc:title>
+        <dc:creator opf:file-as="Saramago, José" opf:role="aut">José Saramago</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="box-sizing: inherit; margin-top: 0px; margin-bottom: var(--global-md-spacing); color: rgb(45, 55, 72); font-family: Montserrat, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"&gt;«No creo que exista en el mundo un silencio más profundo que el silencio del agua. Lo sentí en aquella hora y nunca lo he olvidado».&lt;/p&gt;&lt;p style="box-sizing: inherit; margin-top: 0px; margin-bottom: var(--global-md-spacing); color: rgb(45, 55, 72); font-family: Montserrat, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"&gt;El silencio del agua es lo único que el protagonista de esta bella historia oye mientras espera junto al río. Espera, espera y espera el regreso del barbo para vengar su caña partida.&lt;/p&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p style="box-sizing: inherit; margin-top: 0px; margin-bottom: 0px; color: rgb(45, 55, 72); font-family: Montserrat, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"&gt;Pero sabe que no será él quien cace al animal… Otro gran poético relato de José Saramago, acompañado por preciosas ilustraciones de Yolanda Mosquera.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-20T15:25:36.041206+00:00"/>
+        <meta name="calibre:title_sort" content="silencio del agua, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

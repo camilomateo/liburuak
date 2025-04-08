@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1079</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7362390-a284-47a3-a93c-7c5ff22f5151</dc:identifier>
+        <dc:title>La montaña de 7 colores</dc:title>
+        <dc:creator opf:file-as="Vicente, Mónica" opf:role="aut">Mónica Vicente</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.0.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-20T11:44:31+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;Los viajes de Brianne continúan. Tras salir del garaje y descubrir nuestro gran potencial, Mónica Vicente nos invita a ascender a nuestra mejor versión.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Brianne ha descubierto que tiene las facultades y el derecho de ser quien ella desee, sin necesidad de satisfacer las necesidades y expectativas de otros. Pero... ¿quién quiere ser? ¿Dónde quiere ir? ¿Cuál es su propósito?&lt;/P&gt; &lt;P&gt; Con la intención de dar respuesta a estas preguntas vitales, Brianne emprende un nuevo viaje en solitario equipada tan solo con una mochila y la firme decisión de averiguar quién puede llegar a ser.&lt;/P&gt; &lt;P&gt; Le han hablado de un lugar mágico en la cima de una montaña donde la gente conoce su destino, pero llegar arriba no será fácil. En su ascenso, Brianne conocerá a los moradores de la montaña, de quienes aprenderá importantes lecciones que le permitirán ir superando etapas desde el estado de supervivencia a la iluminación.&lt;/P&gt; &lt;P&gt;&lt;B&gt;Sobre&lt;/B&gt; &lt;I&gt;&lt;B&gt;Tienes un Ferrari en el...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2023-11-20T19:26:24.002083+00:00"/>
+        <meta name="calibre:title_sort" content="montaña de 7 colores, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4484f627-1f5f-4872-9674-356dc614bc9e</dc:identifier>
+        <dc:title>Adiós a la inflamación</dc:title>
+        <dc:creator opf:file-as="Sandra Moñino Costa" opf:role="aut">Sandra Moñino Costa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Aumento de peso, problemas en la piel, dolores de cabeza o patologías como la diabetes, el hipotiroidismo, la esclerosis múltiple, el cáncer o la depresión podrían deberse a una inflamación crónica. En este libro descubrirás que una dieta adecuada, hábitos saludables y una buena gestión de las emociones son primordiales para desinflamarte y recuperar tu salud. La nutricionista Sandra Moñino, una de las mayores expertas en inflamación, nos da todas las claves y trucos para identificarla, prevenirla y combatirla. Además, te ofrece un completo menú antiinflamatorio con recetas ricas, fáciles, saciantes y muy saludables.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Salud y bienestar</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:08:32.966997+00:00"/>
+        <meta name="calibre:title_sort" content="Adiós a la inflamación"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

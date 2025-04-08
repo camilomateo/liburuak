@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3243</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a7cfb4f-5524-4d2e-a1e6-ebf54c4cc210</dc:identifier>
+        <dc:title>Cuentos selectos</dc:title>
+        <dc:creator opf:file-as="Némirovsky, Irène" opf:role="aut">Irène Némirovsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-19T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Prólogo de Pola Oloixarac&lt;br&gt;&lt;br&gt;Irène Némirovsky escribió en todo momento y en todo lugar. Y, desde los veintiún años hasta su deportación y fallecimiento en el campo de concentración de Auschwitz, publicó constantemente. Algunas de sus novelas, como El malentendido, El vino de la soledad o Jezabel, aparecieron en revistas de la época antes de convertirse en libros, al igual que muchos de sus relatos breves, que se hicieron conocidos gracias a semanales de corte femenino. Más tarde, con el recrudecimiento de la guerra y los estatutos antisemitas del gobierno de Vichy durante la invasión alemana de Francia, las cosas se complicaron. Pese a necesitar el dinero más que nunca, sus historias comenzaron a ser rechazadas; y, cuando no lo eran, debía utilizar pseudónimos, como Pierre Neyret o Denise Mérande. &lt;br&gt;&lt;br&gt;No fue hasta sesenta años después de su muerte que Némirovsky encontró su lugar en el panteón de las grandes escritoras del siglo xx, a partir del premio Renaudot a su inconclusa novela Suite francesa. Sin embargo, la memoria colectiva nunca la olvidó. Y ahora, al fin, este Cuentos selectos –con prólogo de Pola Oloixarac– recupera sus grandes pequeñas historias, algunas ya conocidas y otras (la mayoría) inéditas hasta la fecha en español. Así, esta recopilación sólo acentúa la certeza que ya conocíamos: la gran literatura siempre triunfa.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bookwire Spain</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:21.017484+00:00"/>
+        <meta name="calibre:title_sort" content="Cuentos selectos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1250</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b51fc81-04b1-42ed-984b-046822c519d6</dc:identifier>
+        <dc:title>Frontera oscura</dc:title>
+        <dc:creator opf:file-as="Cabeza, Sabino" opf:role="aut">Sabino Cabeza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-05T22:00:00+00:00</dc:date>
+        <dc:description>En el año 2560 la humanidad ha logrado extenderse por unos ocho mil planetas gracias a los motores anagravónicos que permiten los saltos Inspacio-Expacio. La capitana Florence Schiaparelli, conocida en la Flota Federal como Florence Media Vida, y la tripulación de la Banshee tienen como misión obtener todos los datos posibles del agujero negro al que ella misma ha bautizado como el Ojo de Dios.
+Pero cuando detecten a una nave sin identificar atrapada cerca del horizonte de sucesos del agujero negro la capitana Schiaparelli deberá decidir si se arriesgan a perderlo todo para salvar a la tripulación de la misteriosa nave.
+Frontera oscura es una novela escrita en la mejor tradición de las historias de aventuras espaciales, una obra que explora los secretos del universo y la inagotable curiosidad del ser humano por descubrirlos.</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-23T08:41:59.951408+00:00"/>
+        <meta name="calibre:title_sort" content="Frontera oscura"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

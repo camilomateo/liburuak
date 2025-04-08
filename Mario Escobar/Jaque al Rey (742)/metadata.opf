@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">742</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5caaa51b-e810-4844-b6d5-dd6e3c522da5</dc:identifier>
+        <dc:title>Jaque al Rey</dc:title>
+        <dc:creator opf:file-as="Escobar, Mario" opf:role="aut">Mario Escobar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-26T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Madrid se ha convertido en la ciudad peligrosa. En los barrios se respira un ambiente de miedo y tensión entre las diferentes comunidades. En los barrios altos, los problemas son muy distintos, la corrupción política y los sobornos empresariales impiden que las cosas cambien.&lt;br&gt;Tras el primer caso de la inspectora gitana Adela Palazuelo que vive y trabaja en Pan Bendito, ahora le han asignado un caso muy complicado. Una antigua amante del Rey Emérito ha fallecido en Madrid, el CESID se ha hecho cargo de la investigación, pero el Ministro de Interior quiere que un cuerpo especial de la policía haga la suya propia. Mientras tanto, en pan Bendito se están produciendo incendios en casas ocupadas con familias dentro, un partido neonazi parece estar detrás del caso. Adela y su nueva compañera Ana de Armas tendrán que descubrir quién está detrás de la muerte de la amante del rey y parar los incendios en Pan Bendito antes de que más gente inocente muera.&lt;br&gt;Hay novelas imposibles de dejar una vez que has comenzado, historias que llevan el suspense a su estado máximo y hacen dudar al lector cada vez que termina un capítulo. En este thriller absolutamente original y adictivo, Mario Escobar rompe los límites de la intriga psicológica con un relato que explora las frágiles fronteras entre la verdad y la mentira.&lt;br&gt;&lt;br&gt;Un crimen inquietante, un rastro que conducirá a una dolorosa verdad. Descubre la Saga Crímenes del Norte, las novelas negras que te harán cuestionar los límites de lo prohibido.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Crímenes de Madrid"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2023-05-22T14:39:22.956681+00:00"/>
+        <meta name="calibre:title_sort" content="Jaque al Rey"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

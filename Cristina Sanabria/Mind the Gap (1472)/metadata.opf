@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1472</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b956b54b-692f-4441-9348-20181c89ac6e</dc:identifier>
+        <dc:title>Mind the Gap</dc:title>
+        <dc:creator opf:file-as="Sanabria, Cristina" opf:role="aut">Cristina Sanabria</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-25T01:57:16+00:00</dc:date>
+        <dc:description>&lt;p&gt;Mind de Gap es una novela que se infiltra en las grietas 
+económicas, emocionales e idiomáticas que surgen al vivir en otro país, 
+como Reino Unido. La residencia donde Alejandra y Marco se conocieron, 
+también tenía grietas -de otro tipo-, aunque no fueron un impedimento 
+para enamorarse. Las primeras veces no son fáciles, y los personajes de 
+esta historia lo saben bien. Pasan penurias y batallan por encontrar 
+trabajo en Londres sin saber bien el idioma, pero la pasión de la 
+juventud puede con todo. ¿O no? ¿Cómo es el amor en ciudades de paso? 
+¿Da tiempo a saber qué quieres o quién eres en ciudades tan frenéticas? 
+Esta envolvente novela intenta responder esta y otras cuestiones a golpe
+ de humor agridulce. La realidad, al igual que la ropa contra el frío, 
+tiene muchas capas, y en estas páginas se traspasan todas: la magia, el 
+entusiasmo, la ignorancia y la aceptación. Una historia enmarcada en una
+ ciudad, que puede ser tan hostil como adictiva, donde las amistades, al
+ igual que los amores, se aceleran, porque todos saben que un día serán 
+solo un recuerdo.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T15:13:16+00:00"/>
+        <meta name="calibre:title_sort" content="Mind the Gap"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

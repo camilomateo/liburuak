@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1781</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3ab4761-c03a-44c0-87d2-9b23426b3204</dc:identifier>
+        <dc:title>La mala leche</dc:title>
+        <dc:creator opf:file-as="Henar Álvarez &amp; Ana Müshell" opf:role="aut">Henar Álvarez</dc:creator>
+        <dc:creator opf:file-as="Henar Álvarez &amp; Ana Müshell" opf:role="aut">Ana Müshell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una novela gráfica sobre los dramas de la vida moderna donde se entremezclan feminismo, maternidad y sexo en clave de un humor irreverente.&lt;/p&gt;
+&lt;p&gt;«Con este cómic te partes. Henar nos da un tetazo en la cara con sus ideas revolucionarias. Es la madre de la comedia española», Moderna de Pueblo&lt;/p&gt;
+&lt;p&gt;«Humor, inteligencia y perreo. Esta mujer es un talentazo», Leticia Dolera&lt;/p&gt;
+&lt;p&gt;«Henar consigue que los miedos más complejos parezcan placeres sencillos, y eso es tan bueno que tengo muchas ganas de más», Bob Pop&lt;/p&gt;
+&lt;p&gt;Nani (alter ego de la cómica Henar Álvarez) es una joven y atribulada madre primeriza que sufre pequeñas explosiones de ira. ¿Los motivos? Un deseo sexual no resuelto, los machismos encubiertos, el miedo a la muerte o la culpa por no dar la talla como madre ni ser la pareja perfecta. Así, entre sueños húmedos, camisas de lactancia y chats clandestinos de Telegram, discurren estas viñetas autobiográficas, provocadoras y libres de tabúes sobre cómo nos relacionamos con el deseo en las diferentes etapas de nuestra vida, y con las que resulta muy fácil identificarse. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:14.264635+00:00"/>
+        <meta name="calibre:title_sort" content="mala leche, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0cb74cce-d9f7-4749-bea3-b8169bcff2f9</dc:identifier>
+        <dc:title>Jotadé</dc:title>
+        <dc:creator opf:file-as="Díaz, Santiago" opf:role="aut">Santiago Díaz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-13T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;LA EXPERIENCIA MÁS BRUTAL DE LA NOVELA NEGRA.&lt;/p&gt;
+&lt;p&gt;JOTADÉ, UN POLICÍA AL LÍMITE&lt;/p&gt;
+&lt;p&gt;Por el autor del fenómeno Indira con más de 250.000 lectores adictos a sus «thrillers de taquicardia» (El País).&lt;/p&gt;
+&lt;p&gt;«Uno de los reyes de la novela negra en España.» Cadena SER&lt;/p&gt;
+&lt;p&gt;«Un experto en la alquimia del thriller».&lt;br&gt;&lt;br&gt;Marina Sanmartín, ABC Cultural&lt;/p&gt;
+&lt;p&gt;Es una calurosa noche de julio en Madrid cuando dos hombres son destripados y lanzados al vacío desde un puente de la M30 en lo que parece un siniestro ajuste de cuentas entre clanes. Sus vísceras aterrizan sobre un descapotable que termina hundiéndose en el Manzanares con sus ocupantes, tres chicas que volvían de fiesta. Una de ellas fallece en el acto: es la hija pequeña del comisario, quien exige a sus agentes respuestas rápidas y poco ruido en los medios. Se trata de una orden casi imposible de cumplir por el subinspector Jotadé Cortés, el único policía gitano de su comisaría y un irreverente sin remedio que aborrece las jerarquías y acostumbra a saltarse las normas. Pero todos saben que también posee una intuición por encima de la media y que fue el hombre de confianza de la inspectora Indira Ramos en su último caso. Leal a sus compañeros y respetado en la calle, Jotadé se encontrará en una encrucijada que le obligará a volver a un pasado incómodo y a hacer lo imposible para proteger lo más importante de su vida.&lt;/p&gt;
+&lt;p&gt;Santiago Díaz inicia una nueva serie de alto impacto que vuelve a hipnotizarnos con sus giros y confirma a su autor como «uno de los reyes de la novela negra en España» (Jacobo Buceta, Hoy por Hoy, Cadena SER)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467073522</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Jotadé"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-03-23T19:31:39.932105+00:00"/>
+        <meta name="calibre:title_sort" content="Jotadé"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

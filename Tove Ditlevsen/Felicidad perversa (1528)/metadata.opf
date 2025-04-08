@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1528</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68612bb5-2c1e-421c-b8cb-a0c2c07d3e34</dc:identifier>
+        <dc:title>Felicidad perversa</dc:title>
+        <dc:creator opf:file-as="Ditlevsen, Tove" opf:role="aut">Tove Ditlevsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-03T14:36:15+00:00</dc:date>
+        <dc:description>&lt;div&gt;Una mujer recién casada anhela, irracionalmente, un paraguas de 
+seda; un esposo parece sentir celos del apego que tiene su esposa hacia 
+un gato e intenta desprenderse de él; una madre traicionada despide 
+impulsivamente a su empleada doméstica. Bajo la superficie de estos 
+cuentos que observan con precisión el amor, el matrimonio y la vida 
+familiar en la Copenhague de mediados del siglo XX, laten corrientes de 
+deseo, violencia y desesperación, mientras mujeres y hombres sueñan con 
+escapar de sus roles convencionales sin entender realmente qué significa
+ ese perverso anhelo al que llamamos felicidad.&lt;br&gt;&lt;br&gt;    En última 
+instancia, en esta magnífica colección de cuentos Tove Ditlevsen 
+consigue encarnar la complejidad de la vida y la lucha de las mujeres 
+por encontrar su lugar en una sociedad que a menudo las margina. Relatos
+ tan ácidos como conmovedores, que ofrecen una visión realista de 
+cuestiones cotidianas como la pareja o la maternidad, pero también de 
+temas como la soledad, el abuso, la infidelidad y la depresión.&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:38.742754+00:00"/>
+        <meta name="calibre:title_sort" content="Felicidad perversa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

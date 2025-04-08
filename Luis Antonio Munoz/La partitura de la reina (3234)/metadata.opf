@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9df174e5-6cce-486c-961f-fd22ffaa31cb</dc:identifier>
+        <dc:title>La partitura de la reina</dc:title>
+        <dc:creator opf:file-as="Muñoz, Luis Antonio" opf:role="aut">Luis Antonio Muñoz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-28T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;2 de mayo de 1758. Por recomendación de sus médicos, Bárbara de Braganza realiza un viaje de una jornada a Aranjuez. Lo hace acompañada de su esposo, el rey Fernando VI y de toda la corte porque desde hace años pasan allí la primavera navegando y haciendo música junto a su amigo Farinelli. Pero esta vez la reina tiene un mal presentimiento: cree que este podría ser su último viaje.&lt;/p&gt;
+&lt;p&gt;Dentro de la carroza real trata de olvidar sus molestos síntomas. En soledad irá reviviendo antiguos recuerdos de toda su vida. Al llegar al Real Sitio, contemplará por última vez las aguas limpias y serenas de su querido Tajo, un río que une Portugal y España, lugares en los que la reina vivió en paz pese al incansable acoso de su suegra, Isabel de Farnesio. &lt;/p&gt;
+&lt;p&gt;Pero Bárbara tiene un secreto. Un mensaje codificado en las notas de una composición que necesita terminar antes de abandonar este mundo. Con la ayuda de su maestro Domenico Scarlatti irá dando forma a una partitura que esconde la llave para conseguir aquello que más anhela y que estará junto a ella para siempre, en su último descanso. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>LA ESFERA DE LOS LIBROS, S.L.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788413849072</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:19+00:00"/>
+        <meta name="calibre:title_sort" content="partitura de la reina, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

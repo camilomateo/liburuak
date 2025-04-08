@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe39a213-f346-42ec-925c-21de7549d6d2</dc:identifier>
+        <dc:title>Vanity Fair</dc:title>
+        <dc:creator opf:file-as="Thackeray, William Makepeace" opf:role="aut">William Makepeace Thackeray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>England</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Married</dc:subject>
+        <dc:subject>Women</dc:subject>
+        <dc:subject>Female</dc:subject>
+        <dc:subject>friendship</dc:subject>
+        <dc:subject>Social</dc:subject>
+        <dc:subject>classes</dc:subject>
+        <dc:subject>British</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Waterloo</dc:subject>
+        <dc:subject>Battle</dc:subject>
+        <dc:subject>of</dc:subject>
+        <dc:subject>Belgium</dc:subject>
+        <dc:subject>1815</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-09T08:34:50.340457+00:00"/>
+        <meta name="calibre:title_sort" content="Vanity Fair"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

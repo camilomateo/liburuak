@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1780</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1231f6b2-eb5b-4cff-9d8a-f4d20855cab9</dc:identifier>
+        <dc:title>Impulsivo</dc:title>
+        <dc:creator opf:file-as="Garbantes, Raúl" opf:role="aut">Raúl Garbantes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-11-26T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ecos del pasado regresan.&lt;br&gt;Un verdugo en las sombras.&lt;br&gt;¿Lograrán Julia y Hans desenredar la telaraña de este asesino antes de que él haga su próximo movimiento?&lt;/p&gt;
+&lt;p&gt;Del autor bestseller de Amenazada llega esta trepidante séptima entrega de su serie más vendida.&lt;/p&gt;
+&lt;p&gt;El recuerdo del tiroteo en la escuela Huguenot aún causa escalofríos en Jacksonville Beach. Diez años después, un asesino serial vuelve a acechar la ciudad, su objetivo: los sobrevivientes.&lt;/p&gt;
+&lt;p&gt;Acompañada de la teniente Carol Sim, Julia se adentra en el laberinto de un caso que se complica con cada víctima. Con la lista de sospechosos menguando y el reloj en su contra, la tensión se dispara. Cuanto más cerca están de la verdad, más peligrosas se vuelven las circunstancias para Julia.&lt;/p&gt;
+&lt;p&gt;¿Podrá Hans llegar a tiempo para apoyar a Julia a descubrir al asesino y prevenir un desenlace fatal?&lt;/p&gt;
+&lt;p&gt;Impulsivo: Un thriller de misterio y asesinos en serie es el séptimo libro de la serie de los agentes del FBI Julia Stein y Hans Freeman. Prepárate para un thriller de suspenso que te mantendrá en vilo hasta el final.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Agentes del FBI Julia Stein y Hans Freeman"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:14+00:00"/>
+        <meta name="calibre:title_sort" content="Impulsivo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

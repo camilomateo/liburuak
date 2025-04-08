@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1672</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2bdbe0ff-eec2-4d2c-bb1b-5213a9287c76</dc:identifier>
+        <dc:title>El lago del cementerio</dc:title>
+        <dc:creator opf:file-as="Cleave, Paul" opf:role="aut">Paul Cleave</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-07-18T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Algunos secretos se niegan a permanecer enterrados... &lt;/p&gt;
+&lt;p style="font-style: italic"&gt;Una vibrante novela de misterio y crimen que te mantendrá intrigado hasta la última página. &lt;/p&gt;
+&lt;p&gt;Una exhumación normal se convierte en todo menos eso para el investigador privado Theodore Tate cuando los cuerpos empiezan a salir a la superficie del lago del cementerio. Tate sabe que debe mantenerse alejado y dejar que sus antiguos compañeros de la policía se ocupen de ello. Pero, cuando se abre un ataúd y su ocupante no es el anciano que se supone que debe estar allí, el detective sabe que tiene que implicarse para evitar que la policía siga con la investigación, pues se está acercando peligrosamente a la verdad: la verdad sobre él. &lt;/p&gt;
+&lt;p&gt;Con las pruebas acumulándose en su contra, Tate debe utilizar sus habilidades para anticiparse a la policía y mantenerse fuera de la cárcel a fin de encontrar a un asesino. Un asesino con una misión… Una persona que matará una y otra vez y que convertirá a Tate en un hombre que él desprecia.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788742812594</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Theodore Tate"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-07-17T21:51:02.342340+00:00"/>
+        <meta name="calibre:title_sort" content="El lago del cementerio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

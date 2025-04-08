@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abe8a559-a14c-42d1-a452-d2f6192a5672</dc:identifier>
+        <dc:title>Diario de viaje</dc:title>
+        <dc:creator opf:file-as="Páez, Fito" opf:role="aut">Fito Páez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-02T23:00:00+00:00</dc:date>
+        <dc:description>Fito tiene sida. Lo cantó él mismo cuando se terminaron los años 80. Es un portador sano de todo lo que contagia (en las fronteras) cada época. Fito pone el cuerpo. Escribe el diario de un viaje: las mil y una idas y vueltas entre hoteles, casas, palacios, aeropuertos, arrabales y desierto. Es uno de los últimos mohicanos que hace su ritual en la montaña.Puso las canciones en tu walkman, hoy en tu spotify. Y ahora pone en tus manos un diario para repasar entre sus colchas revueltas ciertas filiaciones históricas. Porque Fito hierve de malestar en la cultura. Hay algo que no le cierra, una fractura que es necesario reponer y que en él toma la forma de una risa negra. Así, entre anotaciones, obsesiones, recuerdos y sociología fina de calle, nos va descubriendo en su escritura espléndida el montaje de un año de su vida, repleto de tensiones políticas y personales.Martín Rodríguez</dc:description>
+        <dc:publisher>Planeta Argentina</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789504955641</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Musica</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-02T11:40:18+00:00"/>
+        <meta name="calibre:title_sort" content="Diario de viaje"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

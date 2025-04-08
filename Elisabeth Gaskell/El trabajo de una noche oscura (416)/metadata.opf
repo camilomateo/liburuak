@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">416</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f08d8106-3442-468e-a80b-ea4a32e31164</dc:identifier>
+        <dc:title>El trabajo de una noche oscura</dc:title>
+        <dc:creator opf:file-as="Elisabeth Gaskell" opf:role="aut">Elisabeth Gaskell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-27T23:00:00+00:00</dc:date>
+        <dc:description>Hamley es un pequeño pueblo donde Edward Wilkins ejerce como abogado, al igual que hizo su padre antes que él. Su habilidad para contar historias y su aguda inteligencia permiten que se gane la simpatía de los nobles locales, aunque por supuesto, nunca lo considerarán como un igual y lo sabe. Conmocionado por la muerte de su esposa y su segunda hija, el señor Wilkins se centra en su hija mayor, Ellinor, cuya vida parece perfecta: está enamorada del joven señor Corbet, un estudiante de derecho brillante y ambicioso; todo le sonríe, hasta el punto de que no advierte el evidente estado de decadencia de su padre, quien, sintiendo el peso de su inadaptación social y de su propio fracaso, vuelca su descontento en vicios, lujos y alcohol. Todo se detiene una noche, una noche oscura en la que Ellinor es testigo de un crimen. Y será este acontecimiento el que ponga patas arriba su vida de un modo dramático.</dc:description>
+        <dc:publisher>Libros de Seda</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419386038</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Elisabeth Gaskell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-14T15:30:28.929007+00:00"/>
+        <meta name="calibre:title_sort" content="El trabajo de una noche oscura"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

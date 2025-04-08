@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">509</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17b233db-5d37-492f-a60d-858646cb78fb</dc:identifier>
+        <dc:title>El paso a paso de la ley de la atracción</dc:title>
+        <dc:creator opf:file-as="Alexandra Nizhelskaya" opf:role="aut">Alexandra Nizhelskaya</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: bold"&gt;¿Sientes que es muy difícil crear la vida que deseas? ¿Que no puedes hacer nada para cambiar tu futuro?¿No sabes cómo volver tus sueños realidad? &lt;br&gt;&lt;/p&gt;
+&lt;p align="justify"&gt;Alexandra Nizhelskaya, creadora del canal de YouTube de desarrollo y bienestar espiritual The Vortex Way, nos enseña en este libro a manifestar nuestros deseos con la ley de la atracción, para que empecemos a vivir en un estado de creación que nos permita transformar el presente y el futuro. &lt;/p&gt;
+&lt;p align="justify"&gt;Con un lenguaje cercano y ejemplos claros y sencillos, la autora nos comparte los nueve pasos de la ley de la atracción y nos da ejercicios y métodos probados para que la apliquemos en el día a día. En este libro aprenderemos que no necesitamos nada además de consciencia y disposición para cambiar nuestra realidad, y que ser felices está más al alcance de lo que imaginamos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VERGARA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789585381582</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alexandra Nizhelskaya&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T12:02:01.739524+00:00"/>
+        <meta name="calibre:title_sort" content="paso a paso de la ley de la atracción, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

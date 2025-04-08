@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1053</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0adba634-a81c-4fb2-9aca-f5bf4f1051ac</dc:identifier>
+        <dc:title>Todos nosotros</dc:title>
+        <dc:creator opf:file-as="Flores, Javier Menéndez" opf:role="aut">Javier Menéndez Flores</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-03T15:00:07+00:00</dc:date>
+        <dc:description>LIBR8233673</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-11-01T18:27:32.391774+00:00"/>
+        <meta name="calibre:title_sort" content="Todos nosotros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

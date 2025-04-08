@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1558</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1604bacf-3078-43af-b36e-05864a8ae545</dc:identifier>
+        <dc:title>O calle para siempre</dc:title>
+        <dc:creator opf:file-as="Guelbenzu, J. M." opf:role="aut">J. M. Guelbenzu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Un mensaje anónimo enviado al párroco que ha de oficiar una boda de postín y el asesinato de un chantajista de medio pelo en mitad de la ceremonia, involucrará a la juez Mariana de Marco y a su pareja, el periodista Javier Goitia, que asistían como invitados. Mariana está convencida de que alguien de una de las familias de los contrayentes trató de impedir la boda, y que otro de los asistentes fue el asesino del maleante contratado para sabotearla.&lt;/span&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423355266</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Mariana de Marco"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:46.639177+00:00"/>
+        <meta name="calibre:title_sort" content="O calle para siempre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

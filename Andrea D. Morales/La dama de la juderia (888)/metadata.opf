@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">888</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c5b91b8-50c1-47da-88dd-68247a21d19e</dc:identifier>
+        <dc:title>La dama de la judería</dc:title>
+        <dc:creator opf:file-as="Morales, Andrea D." opf:role="aut">Andrea D. Morales</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Tras el éxito de La última sultana, Andrea D. Morales narra la historia de la leyenda más famosa de Sevilla: la de la bella Susona. «Andrea D. Morales combina el rigor histórico y el pulso narrativo».El Mundo «Una nueva voz con ánimos renovados y nuevas formas de ver el género de la novela histórica nacional».David Yagüe, 20 Minutos «Andrea D. Morales es una autoridad en la historia de las mujeres en el periodo de dominación musulmana en el sur de la Península».Ideal Un amor imposible y una traición imperdonable. Una época de misterios y conspiraciones. Una novela con alma de clásico. &lt;/p&gt;
+&lt;p&gt;Desde finales del siglo XV, una leyenda impregna las calles de Sevilla. Cada noche, la bella Susona, hija de un famoso converso de la judería del barrio Santa Cruz, acude al encuentro de un caballero cristiano de noble linaje llamado Nuño de Guzmán. Él no debe enamorarse, pues su cometido es descubrir si los rumores son ciertos: se dice que Susona y su familia judaízan en secreto. Sin embargo, bajo el rocío de las flores de azahar, se convierten en amantes furtivos. Cuando Susona descubre que una conspiración que se fragua entre las paredes de su hogar podría dañar a su amado, se verá obligada a escoger: la fidelidad a su pueblo, a su padre y a su familia, o el amor que le profesa a Nuño de Guzmán. Para salvar a unos deberá condenar a los otros. La historia de Susona, llena de amor, traición y muerte, acabará tornándose en leyenda. Tras La última sultana, Andrea D. Morales nos traslada a una época de odio, miedo y conspiraciones entre judíos y cristianos y nos demuestra que hasta en los momentos más oscuros de la humanidad, puede florecer la pasión.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-23T11:09:38.542169+00:00"/>
+        <meta name="calibre:title_sort" content="dama de la judería, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

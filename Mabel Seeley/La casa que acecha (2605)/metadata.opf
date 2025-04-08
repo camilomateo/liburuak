@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2605</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64db7efd-a2c4-47c3-9c17-7276834ce50d</dc:identifier>
+        <dc:title>La casa que acecha</dc:title>
+        <dc:creator opf:file-as="Seeley, Mabel" opf:role="aut">Mabel Seeley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1943-09-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Gwynne Dacres, una mujer joven, despedida de su trabajo y sin mucha suerte, alquila un apartamento de dos habitaciones en la planta baja de una enorme casa de huéspedes, regentada por la señora Garr, un edificio antiguo y espeluznante, situado en el mismo borde de un empinado terraplén, donde los inquilinos tiran su basura en la parte de atrás del edificio. Gwynne Dacres no es una heroína ingenua ordinaria. Ha estado casada, es capaz de cuidar de sí misma, y, en su mayor parte, se las ha arreglado para superar la depresión. La gran depresión es algo palpable en esta novela, un personaje tan importante como cualquiera de las víctimas del crimen. Sin embargo, pronto Dacres comienza a irritarse ante el comportamiento intrusivo y cada vez más paranoico de su casera. Los inquilinos son un grupo mixto de hombres y mujeres, y Dacres desarrolla una relación con el atractivo inquilino del segundo piso, Hodge Kistler, al que vislumbró por primera vez mientras estaba en su habitación haciendo flexiones en calzoncillos. No pasa mucho tiempo antes de que Dacres se tropiece con el primer cadáver, empujado por el terraplén trasero de la casa. ¿Podría alguien en la casa de la señora Garr haber sido el responsable? Dacres comienza a husmear, poniendo su propia vida en peligro.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="EPL">76750</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:series" content="Biblioteca de bolsillo. Serie naranja"/>
+        <meta name="calibre:series_index" content="70"/>
+        <meta name="calibre:timestamp" content="2024-09-17T10:24:16.039847+00:00"/>
+        <meta name="calibre:title_sort" content="casa que acecha, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

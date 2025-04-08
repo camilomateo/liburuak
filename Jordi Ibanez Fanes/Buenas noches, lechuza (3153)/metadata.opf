@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43a31aa5-ec70-4a67-8909-4cca445da21b</dc:identifier>
+        <dc:title>Buenas noches, lechuza</dc:title>
+        <dc:creator opf:file-as="Fanés, Jordi Ibáñez" opf:role="aut">Jordi Ibáñez Fanés</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-20T16:34:35+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un viejo profesor de filosofía con un pasado inconfesable y unas ataduras presentes no menos oscuras forma parte de un grupo de ancianos que representan una rebelión. ¿Es un instigador? ¿Es un mero observador? ¿Forma todo parte de un plan, o nada es lo que parece y al mismo tiempo todo es peor? Jordi Ibáñez construye una enigmática historia de espías al servicio de Rusia en la Barcelona actual, con sujetos que juegan peligrosamente a ser lo que no son, con charlas crepusculares entre viejos agentes atiborrados de alcohol y mala conciencia, con alguna que otra monja planteando preguntas difíciles, con jueces adormilados, y con ese viejo filósofo lúcido y avergonzado de su pasado poniéndose discretamente al servicio de una jovencísima muchacha caída del cielo. Este es un libro sobre las posibilidades que ofrece la vejez. El juego, el complot, la amistad, la conversación, el cuidado y los afectos liberados del deseo, la actuación —los viejos actores, los saltimbanquis resistentes— tejen el complejo tapiz de voces y saberes que el autor ofrece sin esquivar la cuestión más decisiva de todas: que envejecer es una oportunidad para asomarse al fin a la sabiduría.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-10T15:00:51.289854+00:00"/>
+        <meta name="calibre:title_sort" content="Buenas noches, lechuza"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

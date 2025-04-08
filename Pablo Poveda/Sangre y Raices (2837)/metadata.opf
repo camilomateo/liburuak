@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2837</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23f06421-926c-49bb-b6cc-66fb97e2f5a6</dc:identifier>
+        <dc:title>Sangre y Raíces</dc:title>
+        <dc:creator opf:file-as="Poveda, Pablo" opf:role="aut">Pablo Poveda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-21T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La lealtad se pone a prueba. El poder se disputa. La verdad puede matar.&lt;/p&gt;
+&lt;p&gt;Cuando el inspector Javier Serrano se sumerge en un caso de asesinato vinculado al poderoso clan Bernabeu, desentierra secretos que podrían destruir tanto a la familia como a la élite empresarial de Elche. Pero no está solo en esta maraña de engaños: Natalia Rivas, la nueva oficial en el equipo, guarda lealtades ocultas que podrían costarles caro a todos.&lt;br&gt;&lt;br&gt;¿De qué lado estará cuando todo estalle?&lt;/p&gt;
+&lt;p&gt;Sofía Bernabeu, la estratega fría y calculadora, y su hermano Ignacio, impulsivo y hambriento de poder, chocan en una lucha interna que amenaza con desmoronar el imperio familiar desde dentro. Mientras tanto, Raquel Ortega, una informante atrapada entre el peligro y la supervivencia, sabe demasiado y camina al borde de una verdad que podría costarle la vida.&lt;/p&gt;
+&lt;p&gt;Las tensiones entre los Bernabeu y los Parres se intensifican en una guerra sin reglas, mientras las lealtades se desmoronan y la justicia parece más lejana que nunca.&lt;br&gt;&lt;br&gt;¿Puede Serrano desenredar esta red de sangre y mentiras antes de que sea demasiado tarde?&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DR33RFLQ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Bajo Sospecha"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-01-26T10:50:53.871187+00:00"/>
+        <meta name="calibre:title_sort" content="Sangre y Raíces"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

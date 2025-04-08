@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c59de228-60df-435c-82ca-fa237e86b049</dc:identifier>
+        <dc:title>El valor de la atención</dc:title>
+        <dc:creator opf:file-as="Hari, Johann" opf:role="aut">Johann Hari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span&gt;Según algunos de los últimos estudios publicados, los 
+adolescentes solo son capaces de concentrarse en una tarea durante 
+sesenta y cinco segundos, mientras que los adultos apenas pueden 
+aguantar tres minutos. Como muchos de nosotros, Johann Hari es 
+consciente del peligro que supone la omnipresencia de las pantallas, así
+ como de esa imperiosa necesidad que nos asalta de pasar constantemente 
+de un dispositivo a otro sin levantar la vista. Hoy en día, lograr el 
+estado de concentración necesario para acometer labores intelectualmente
+ complejas y exigentes es casi una quimera.&lt;/span&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Hari decidió entrevistar a los principales expertos en concentración humana para identificar las causas de esta crisis. En &lt;/span&gt;&lt;span class="a-text-italic"&gt;El valor de la atención&lt;/span&gt;&lt;span&gt;
+ desglosa los doce factores que la generaron –desde nuestra incapacidad 
+de dejar fluir la mente hasta la contaminación en las ciudades–, y 
+denuncia a las poderosas empresas que nos están robando el foco. Además,
+ nos da las herramientas para entender la situación, defendernos y 
+recuperar nuestra capacidad de vivir con atención.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-01T08:53:29+00:00"/>
+        <meta name="calibre:title_sort" content="valor de la atención, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

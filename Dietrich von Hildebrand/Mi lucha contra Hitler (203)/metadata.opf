@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">203</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df64c6af-3794-4b2f-b119-53cc6ef87561</dc:identifier>
+        <dc:title>Mi lucha contra Hitler</dc:title>
+        <dc:creator opf:file-as="Hildebrand, Dietrich von" opf:role="aut">Dietrich von Hildebrand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-29T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;¿Qué hizo el autor para ser considerado un peligroso enemigo de Hitler? Golpear sin miedo en las raíces intelectuales y espirituales del nazismo, sin espionajes, sin violencias. Dedicó todas sus fuerzas a romper el hechizo que el nazismo poseía entre tantos de sus compatriotas. El relato cubre de 1921 a 1938, cuando la contribución de Hitler a Alemania era considerada positiva e inevitable, y las denuncias de von Hildebrand despreciables. Sus declaraciones públicas le llevan a ser incluido en las primeras listas negras nazis, en 1921, mucho antes de que se desataran los horrores del Tercer Reich. Memorias de Dietrich von Hildebrand, de 1921 a 1938. Muestran cómo llegó a ser un peligroso enemigo de Hitler y el artífice de la resistencia intelectual ante el nazismo. Su lucha continuó tras huir de Europa, mediante artículos publicados en Viena: algunos de ellos se recogen al final de este volumen.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Rialp</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Dietrich von Hildebrand&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:24:40.868773+00:00"/>
+        <meta name="calibre:title_sort" content="Mi lucha contra Hitler"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

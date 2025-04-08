@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">649</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea031037-cfec-4bd6-8f54-557701f69a7a</dc:identifier>
+        <dc:title>La bruja</dc:title>
+        <dc:creator opf:file-as="Läckberg, Camilla" opf:role="aut">Camilla Läckberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Nada es lo que parece.&lt;br&gt;No te fíes del título ni de la portada.&lt;br&gt;La última novela de Camilla Läckberg no es lo que parece.&lt;br&gt;Resuelve el enigma de La bruja.&lt;/p&gt;&lt;p&gt;Las cazas de brujas no son cosa del pasado.&lt;br&gt;El enemigo no siempre es un extraño que viene de lejos.&lt;br&gt;La desaparición de una niña desata una caza de brujas en pleno siglo XXI.&lt;/p&gt;&lt;p&gt;La desaparición de Linnea, una niña de cuatro años, de una granja en las afueras de Fjällbacka, despierta trágicos recuerdos. Treinta años antes se perdió en la misma granja el rastro de otra niña, Stella, que al poco fue hallada sin vida.Entonces dos adolescentes fueron acusadas y declaradas culpables de su secuestro y asesinato, pero evitaron ir a prisión por ser menores de edad. Una de ellas, Helen, ha llevado una vida apacible en Fjällbacka; la otra, Marie, una actriz de éxito, regresa por primera vez después del suceso para rodar una película.&lt;/p&gt;&lt;p&gt;Los habitantes de Fjällbacka se organizan para buscar a Linnea y no pueden evitar preguntarse si otras niñas pueden estar en peligro. Aunque Patrik cree que la verdad siempre encuentra su camino a pesar de los rumores, tanto él como sus compañeros de la comisaría investigan la conexión entre ambos casos.&lt;/p&gt;&lt;p&gt;Tan solo su mujer Erika parece conservar la calma; lleva algún tiempo trabajando en un libro sobre el asesinato de aquella niña, aparentemente resuelto hace años. Pero la investigación abrirá antiguas heridas y aumentará el miedo a que lo desconocido traiga terribles consecuencias para todos los habitantes de Fjällbacka.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Maeva Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07CWV4TM6</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788417108717</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Los crímenes de Fjällbacka"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:timestamp" content="2023-05-10T14:29:09.400830+00:00"/>
+        <meta name="calibre:title_sort" content="La bruja"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

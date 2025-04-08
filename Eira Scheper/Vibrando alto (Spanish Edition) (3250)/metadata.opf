@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3250</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd94b1fc-4d96-4f92-b605-d7aebbff4720</dc:identifier>
+        <dc:title>Vibrando alto (Spanish Edition)</dc:title>
+        <dc:creator opf:file-as="Scheper, Eira" opf:role="aut">Eira Scheper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-13T03:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CW1WM5VR</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:22.145719+00:00"/>
+        <meta name="calibre:title_sort" content="Vibrando alto (Spanish Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

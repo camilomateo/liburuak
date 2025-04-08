@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c7edb7d-7e37-4383-815f-1abcce21b952</dc:identifier>
+        <dc:title>En la cocina con la doctora Arponen</dc:title>
+        <dc:creator opf:file-as="Sari Arponen" opf:role="aut">Sari Arponen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;div class="text-container" style="--max-h: 704px; --ghost-height: 0px; --timer: 352ms;" data-v-809af916=""&gt;&lt;div class="formated-text" data-v-809af916="" data-v-7fdc4342=""&gt;&lt;p&gt;&lt;b&gt;La salud empieza en el mercado y en la cocina&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Se podría decir que en nuestra sociedad comemos por encima de nuestras posibilidades en lo que a cantidad se refiere, pero a menudo por debajo de ellas en cuanto a calidad. Enfermamos en parte por lo que comemos y lo que no comemos. Y es que cuanta más información tenemos, parece que menos sabemos qué comer.&lt;/p&gt; &lt;p&gt;Una mala alimentación está detrás de muchas de las enfermedades que sufrimos: cáncer, patologías cardiovasculares, las metabólicas como la diabetes... Lo que comemos influye en el funcionamiento de nuestro sistema inmunitario, en la salud cerebral, en el intestino o en los procesos de envejecimiento. Una buena alimentación es prevención y tratamiento: «Que el alimento sea tu medicina».&lt;/p&gt; &lt;p&gt;Sari Arponen, experta en medicina del estilo de vida y microbiota, nos explica en este libro conceptos básicos de la alimentación como los macro y los micronutrientes o la densidad nutricional, resume las dietas existentes y analiza lo que tienen en común las más saludables. Además, comparte las recetas que ella misma prepara y consume. De fácil elaboración y sin técnicas ni ingredientes extraños. Cada receta aporta información acerca de para qué tipo de dieta es adecuada (baja en FODMAP, &lt;i&gt;low carb&lt;/i&gt;, vegetariana, sin lácteos, paleo?) y los motivos por los que el plato es beneficioso para tu organismo.&lt;/p&gt; &lt;p&gt;Todas las recetas son sin gluten y sin azúcares añadidos, y en general, bajas o moderadas en carga glucémica; hay pocos lácteos (y muy poca caseína). Se proponen sustituciones de los ingredientes para diversas intolerancias y preferencias. Un patrón de alimentación a base de comida real, bueno para la microbiota, que le da al sistema inmune elementos para una función óptima y ayuda a ralentizar el envejecimiento. ¡Disfruta y cuídate comiendo!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alienta Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-15T15:51:30.629081+00:00"/>
+        <meta name="calibre:title_sort" content="En la cocina con la doctora Arponen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

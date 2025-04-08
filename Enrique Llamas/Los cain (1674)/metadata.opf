@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1674</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35b3edad-edf5-4fba-8d28-374192c60138</dc:identifier>
+        <dc:title>Los caín</dc:title>
+        <dc:creator opf:file-as="Llamas, Enrique" opf:role="aut">Enrique Llamas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-02T22:00:00+00:00</dc:date>
+        <dc:description>Un pueblo perdido en mitad de Castilla en las postrimerías del franquismo. Un joven maestro madrileño falto de experiencia y fuera de lugar. Una niña ahogada veinte años atrás. El fatal accidente de una adolescente para la que huir era la única salida. Una extraña epidemia que acaba con los ciervos del lugar, y el silencio, la nieve, la cerrazón y los secretos como únicos testigos, mudos e impasibles, del lento pasar de los días en un lugar olvidado, furibundo en medio de la nada, ahogado bajo odios enconados y rencores enquistados cuyo motivo nadie recuerda. Con prosa medida, afilada, tan dura como las gentes que retrata, Enrique Llamas se revela, con esta novela cuyas raíces se traban en nuestra mejor tradición literaria, como un talento digno de ser tenido en cuenta, un narrador capaz de pergeñar una primera obra que quedará marcada en nuestra memoria por sus certeros personajes, su ambientación magistral y su testimonio, hondo y veraz, de un mundo que creíamos haber dejado atrás pero todavía sigue anclado en el corazón de este país.</dc:description>
+        <dc:publisher>Alianza Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-22T16:21:11.205808+00:00"/>
+        <meta name="calibre:title_sort" content="caín, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

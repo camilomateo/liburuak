@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4d9ac41-205e-43d1-bd2e-c4924a82bac9</dc:identifier>
+        <dc:title>El visionario</dc:title>
+        <dc:creator opf:file-as="Abel Quentin" opf:role="aut">Abel Quentin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Con enorme talento y un finísimo sentido del humor, esta novela llena de matices es una muy pertinente sátira sobre el auge de la nueva moral.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Al inicio de los años ochenta, Jean Roscoff es un joven académico de izquierdas con una carrera prometedora; casi cuarenta años después, nadie se acuerda de él. Ya jubilado y recién divorciado, intenta hacerse un hueco en el panorama cultural francés escribiendo un libro sobre un poeta estadounidense prácticamente desconocido que murió en un accidente en Francia a principios de los años sesenta. Tras su publicación en una pequeña editorial, la tranquila vida de Roscoff dará un vuelco cuando lo que parecía un inofensivo ensayo desate una polémica en las redes sociales que lo situará en el punto de mira de la opinión pública.&lt;/p&gt;
+
+&lt;p&gt;La caída en desgracia de un ingenuo antihéroe en la era de la cultura &lt;i&gt;woke&lt;/i&gt; le sirve a Quentin para construir una brillante radiografía de nuestro tiempo. Una divertidísima y afilada sátira llena de matices sobre la cultura de la cancelación y el choque generacional que ha sido galardonada con el Prix de Flore y el Prix Maison Rouge.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;«Prix de Flore, Prix Maison Rouge, finalista de los premios Goncourt, Renaudot y Femina.» &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;«La gran novela sobre la cultura de la cancelación. Es, sobre todo, la revelación de un escritor extraordinario (…) El lector no podrá soltar esta novela. &lt;b&gt;Frédéric Beigbeder &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;«Una fábula cómica, con una evidente influencia houellebecquiana, rica y ambivalente: es ante todo el melancólico retrato de un hombre inadaptado.»  &lt;b&gt;Raphaëlle Leyris (Le Monde)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;«Quentin narra el examen de conciencia de un intelectual superado por los acontecimientos a la vez que se ríe con elocuencia de cierta izquierda devorada por sus propios hijos (…) Este heredero de Balzac tiene más de un as en la manga.» &lt;b&gt;Louis-Henri de La Rochefoucauld (L’Express)&lt;/b&gt;&lt;/p&gt;
+ &lt;p&gt;«Con un humor devastador, Quentin hace un desmesurado elogio al m</dc:description>
+        <dc:publisher>Libros del Asteroide</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419089519</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Abel Quentin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:41.781888+00:00"/>
+        <meta name="calibre:title_sort" content="El visionario"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

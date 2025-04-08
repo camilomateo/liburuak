@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2629</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de2cc689-23b7-44e5-9d48-7f79b9bc3422</dc:identifier>
+        <dc:title>Todas las ventanas</dc:title>
+        <dc:creator opf:file-as="Sánchez, Bárbara" opf:role="aut">Bárbara Sánchez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-05T00:00:00+00:00</dc:date>
+        <dc:description>Todas las ventanas marca el prometedor debut de Bárbara Sánchez que, con una prosa exquisita cargada de ternura y emoción,cuenta la historia de un grupo de vecinas que deciden crear un pódcast en el que contar y compartir sus vidas.Seis mujeres, vecinas de un mismo bloque, están a la espera de algo. Cada una aguarda cosas distintas, pero para todas se trata de una espera relacionada con lo sentimental. En el 1.° B vive desde hace dos semanas Amelia, una periodista de veintinueve años con trabajo y pareja. Su vida da un giro radical cuando la despiden y su novio decide irse a trabajar una temporada a Washington. En plena crisis vital, Amelia conoce a sus nuevas vecinas. Juntas ponen en marcha una tertulia de radio en la azotea del edificio para contarse su día a día al tiempo que intentan ayudar a Agustina, la mayor de todas ellas, a recuperar su casa de toda la vida.Una historia de sororidad, amor y amistad que refleja la problemática de la mujer contemporánea y la contradicción...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-16T07:57:39.636312+00:00"/>
+        <meta name="calibre:title_sort" content="Todas las ventanas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

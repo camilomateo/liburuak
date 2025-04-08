@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80c1d25d-5f17-4fdb-bb00-d8a576e39700</dc:identifier>
+        <dc:title>Monjas y soldados</dc:title>
+        <dc:creator opf:file-as="Murdoch, Iris" opf:role="aut">Iris Murdoch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-25T07:21:44+00:00</dc:date>
+        <dc:description>Guy, centro de un nutrido círculo de familiares y amigos, está en su lecho de muerte. Sus ojos releen por última vez la «Odisea» mientras su esposa Gertrude recibe el apoyo de una cohorte de allegados (intelectuales, artistas, abogados y miembros del Parlamento) que se dejan caer por la casa cada semana. Es justo entonces cuando Anne, su mejor amiga de la universidad, llama a su puerta por sorpresa, tras haber pasado los últimos quince años en un convento de clausura. Aún en busca de su fe perdida, Anne se instala con Gertrude, que empieza a sentirse como una Penélope cercada por sus pretendientes: no solo por el melancólico Conde, hijo de exiliados polacos, que siempre ha estado enamorado de ella, sino también por el afable y exitoso Manfred o por el respetable y distinguido Moses... Sus días se complican tras la muerte de Guy, cuando Gertrude, abrumada por tantos requerimientos, decide refugiarse en su amiga Anne y viajar a Francia con la decisión de vender la casa que allí compartía con su marido. 
+Amor y amistad. Lealtad y conflictos morales. Tan magistral como siempre, Murdoch ahonda de forma brillante en las aspiraciones y los miedos que experimenta todo ser humano cuando ha de posicionarse ante las situaciones más extremas de la vida. Una obra deslumbrante que nos transporta a la elegancia estilística de otra época.</dc:description>
+        <dc:publisher>Impedimenta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Iris Murdoch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-22T17:00:06.279633+00:00"/>
+        <meta name="calibre:title_sort" content="Monjas y soldados"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

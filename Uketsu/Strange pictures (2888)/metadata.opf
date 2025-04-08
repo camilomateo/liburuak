@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2888</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f8bac37-acb9-4bb3-b4f6-4b8c94548ea0</dc:identifier>
+        <dc:title>Strange pictures</dc:title>
+        <dc:creator opf:file-as="Uketsu" opf:role="aut">Uketsu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-23T00:00:00+00:00</dc:date>
+        <dc:description>EL FENÓMENO DE MISTERIO QUE ARRASA EN JAPÓN.Más de tres millones de lectores en Japón.Traducido a más de treinta idiomas.¿Un dibujo puede ser suficiente para descubrir a un asesino?Una mujer embarazada, un niño, una casa, un paisaje dibujado por la víctima de un asesinato en su agonía final... El descubrimiento de nueve imágenes extrañas, relacionadas con crímenes del pasado, conduce a una única verdad escalofriante. El lector se sentirá como un detective desentrañando página a página el hilo común que las une a todas.StrangePictures es la primera novela publicada en español de Uketsu, una enigmática figura surgida de las profundidades de internet y que se ha convertido de la noche a la mañana en uno de los nombres más relevantes del panorama literario japonés. Con sus historias, Uketsu ha transformado para siempre las reglas de los géneros de terror y de misterio.Reseñas: «La nueva sensación de la literatura de misterio no puede ser más popular. [...] Sus ricas imágenes,...</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-10T16:14:57.239239+00:00"/>
+        <meta name="calibre:title_sort" content="Strange pictures"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

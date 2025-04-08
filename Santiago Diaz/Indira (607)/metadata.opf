@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed20e154-e949-42f7-b84c-a9d1f26b2e80</dc:identifier>
+        <dc:title>Indira</dc:title>
+        <dc:creator opf:file-as="Santiago Díaz" opf:role="aut">Santiago Díaz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Para la inspectora Indira Ramos ha sido un año repleto de sucesos: cazó a un monstruo al que todo el mundo daba por muerto, perdió a uno de sus mejores agentes en un desgraciado accidente y tuvo que elegir entre los dos hombres de su vida. Pero, cuando todo parecía haber vuelto a la normalidad y se presentaba ante ella una etapa tranquila, la vida se empeña en ponerle las cosas más difíciles que nunca y tendrá que enfrentarse, junto al inspector Iván Moreno, a un caso que les unirá o les separará para siempre.&lt;/p&gt;
+&lt;p align="justify"&gt;Su equipo -ahora compuesto por la subinspectora María Ortega, por una agente Lucía Navarro más taciturna de lo habitual tras su rehabilitación y por Jotadé, un oficial de origen gitano de métodos poco ortodoxos pero efectivos que pondrá patas arriba la vida de sus compañeros- tiene que investigar el hallazgo de varios cadáveres en un solar en construcción. Nada parece unir a las víctimas y solo investigando su pasado podrán entender por qué les han ido matando uno a uno.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Santiago Díaz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspectora Indira Ramos"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:41.372909+00:00"/>
+        <meta name="calibre:title_sort" content="Indira"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

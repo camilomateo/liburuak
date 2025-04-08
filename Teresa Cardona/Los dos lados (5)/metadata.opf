@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86029a2e-6cf8-46a4-aad1-794244239b91</dc:identifier>
+        <dc:title>Los dos lados</dc:title>
+        <dc:creator opf:file-as="Cardona, Teresa" opf:role="aut">Teresa Cardona</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-07T23:00:00+00:00</dc:date>
+        <dc:description>Arde el suelo de granito y solo el rechinar de las cigarras perturba el apacible y familiar verano de San Lorenzo de El Escorial. Sus habitantes, acostumbrados a los rigores de la sierra, se quejan de la ola de calor, resguardándose a la sombra de los antiguos muros del monasterio. Un calor que, sin embargo, no ha acelerado la agonía del hombre que, maniatado en el fresco cuarto de calderas de una casa herreriana entre los pinos del monte Abantos, aparece muerto por deshidratación, con la vista fija en una botella de agua que cuelga del techo a la altura de sus ojos. La teniente Karen Blecker —recién llegada a España tras pasar la mayor parte de su carrera trabajando para la Europol— y el particular brigada Cano comenzarán por esclarecer la identidad de la víctima, a quien nadie de la zona parece conocer. Pero, a medida que avanza la investigación, los evidentes paralelismos con un crimen cometido dos décadas atrás les obligarán también a escarbar en los dolorosos años de plomo del terrorismo y en las afiladas aristas que siempre presenta la verdad cuando se examina desde los dos lados…</dc:description>
+        <dc:publisher>Siruela</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Teresa Cardona&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T20:15:29.489272+00:00"/>
+        <meta name="calibre:title_sort" content="dos lados, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

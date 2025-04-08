@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">988</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28e3a295-6342-4127-bfc1-c682a864f70e</dc:identifier>
+        <dc:title>Traición en Farleigh Place</dc:title>
+        <dc:creator opf:file-as="Bowen, Rhys" opf:role="aut">Rhys Bowen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'; font-weight: 600"&gt;&lt;span style="color: #333333"&gt;Dos héroes se enfrentan a la búsqueda desesperada de un traidor para salvar Gran Bretaña.&lt;/span&gt;&lt;/p&gt;
+&lt;p align="justify" style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #333333; background-color: #ffffff"&gt;La II Guerra Mundial llega a Farleigh Place, idílica mansión de lord Westerham, cuando un paracaidista aparece muerto en la finca. Ben Cresswell, amigo de la familia y agente del MI5, recibe el encargo de investigar de incógnito si se trata de un espía alemán. La misión le permite estar cerca de la hija mediana de lord Westerham, Pamela, su gran amor no correspondido. Sin embargo, ella también tiene una vida secreta ya que trabaja en Bletchley Park, el departamento encargado de descifrar los códigos de los alemanes.&lt;/span&gt;&lt;/p&gt;
+&lt;p align="justify" style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #333333; background-color: #ffffff"&gt;A medida que Ben sigue la pista de posibles traidores, que incluyen a varios conocidos, descubre la existencia de un grupo de compatriotas que han tramado un complot para derrocar al gobierno y al rey. ¿Serán capaces Pam y Ben de frustrar sus planes?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Amazon Crossing</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-23T12:48:20.482118+00:00"/>
+        <meta name="calibre:title_sort" content="Traición en Farleigh Place"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

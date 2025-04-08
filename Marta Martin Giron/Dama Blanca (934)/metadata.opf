@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f64e01f6-49f0-431b-9983-b7febf3aef04</dc:identifier>
+        <dc:title>Dama Blanca</dc:title>
+        <dc:creator opf:file-as="Girón, Marta Martín" opf:role="aut">Marta Martín Girón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-04T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¿Qué hay en la mente de un asesino?&lt;br&gt;¿Qué se cruza por la de la víctima al caer en sus manos?&lt;br&gt;Los detectives Yago Reyes y Aines Collado se enfrentan a uno de los peores casos de sus carreras como detectives de homicidios. La víctima, una joven de apenas quince años, es hallada muerta y semidesnuda en los arrozales de la localidad valenciana de Cullera. Comienza así una investigación a contrarreloj para atrapar al culpable. A cada paso dado, aumentan las sospechas de que alguien de su entorno más cercano pudo ser el responsable de su muerte. Sin embargo, ahondar en sus vidas hará que salgan a la luz secretos terribles; el precio a pagar será muy alto.&lt;br&gt;&lt;br&gt;&lt;em&gt;Un crimen inquietante, un rastro que conducirá a una dolorosa verdad. Descubre Dama Blanca, la novela negra que te hará cuestionar los límites de lo prohibido.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>suspense</dc:subject>
+        <meta name="calibre:series" content="Inspector Yago Reyes"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-07-04T12:12:30.810537+00:00"/>
+        <meta name="calibre:title_sort" content="Dama Blanca"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

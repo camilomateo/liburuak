@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b923d534-ce6c-4454-b723-84aa97e33f76</dc:identifier>
+        <dc:title>El caso Rawson</dc:title>
+        <dc:creator opf:file-as="Roberto Villar &amp; Miguel Villar" opf:role="aut">Roberto Villar</dc:creator>
+        <dc:creator opf:file-as="Roberto Villar &amp; Miguel Villar" opf:role="aut">Miguel Villar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-15T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Adrián Rawson, el mítico científico, empresario y director de un museo de los horrores cumple condena. ¿Tan aterrador es su crimen? Tal vez muera en la cárcel después de haber alcanzado el éxito profesional y la felicidad junto a Eva, su mujer. Pero, ¿cómo ha acabado allí? La vida de la pareja transcurría en perfecta armonía, aunque siempre bañada por la lúgubre mirada de sus adorados cadáveres, criaturas guardianas de su mutuo proyecto de vida: El museo Forense Capitalino. ¿Un matrimonio feliz entre cadáveres? Un desfile de extremidades amputadas y malformaciones corporales se dan cita tras las puertas de uno de los mayores reclamos turísticos de la ciudad, donde pronto irrumpirá un mal difícil de doblegar. Un museo siniestro. En una obsesiva espiral de celos y autodestrucción, Rawson tendrá que enfrentar a las pesadillas que brotan de lo más profundo de su psique.¿Puede un cuerpo inerte y mutilado, expresión terrorífica de la conciencia desquiciada de Adrián, dictarle su destino y empujarlo a decidir también el de su esposa? Espectros y visiones del pasado ¿Será Eva capaz de sobrevivir al macabro baile de recuerdos, sangre, fantasmas y formol que transforman a su amoroso marido en un oscuro amasijo de monstruosas sospechas? Novela profunda y aterradora, con ecos de Ray Bradbury, Stephen King o Clive Barker. Podría formar parte de la serie de culto, La dimensión desconocida (de Rod Serling). Libro muy apetecible envuelto en lo inquietante y lo siniestro . Víctor Matellano, director de cine y teatro. Escritor cinematográfico.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>13insurgentes</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">208</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002493</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2024-04-30T14:46:08.828281+00:00"/>
+        <meta name="calibre:title_sort" content="caso Rawson, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87422a57-b6a0-47f0-9b8d-d3c95fe712e0</dc:identifier>
+        <dc:title>Querida yo : tenemos que hablar : conócete y sé feliz contigo</dc:title>
+        <dc:creator opf:file-as="Clapés, Elizabeth" opf:role="aut">Elizabeth Clapés</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-02T23:00:00+00:00</dc:date>
+        <dc:description>Antes, cuando escuchaba hablar sobre la importancia de «conocerse a una misma», no lo entendía. Cuando llevas treinta años viviendo contigo, ¿se puede saber qué es lo que te falta por conocer? ¿De verdad hay algo que puede pillarte por sorpresa?&lt;/p&gt;
+
+    &lt;p&gt;En nuestro día a día, tenemos miles de sentimientos, personas, heridas, situaciones que nos generan malestar. Identificarlas y saber distinguir las que podemos cambiar de las que no es muy importante para dejar de hacernos las preguntas de siempre. ¿Por qué me noto tan sensible? ¿Por qué siempre estoy a la defensiva? ¿Por qué siento ansiedad? ¿Qué me pasa?&lt;/p&gt;
+
+    &lt;p&gt;Por eso, querida amiga, tenemos que hablar. Vamos a parar un momento para conocernos, corregirnos, aceptarnos, perdonarnos. Y una parte muy importante: para mandar a la mierda lo que sea necesario. A ver si así podemos empezar a querernos tanto como nos merecemos, que ya toca.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">70717</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:08:34.310053+00:00"/>
+        <meta name="calibre:title_sort" content="Querida yo : tenemos que hablar : conócete y sé feliz contigo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

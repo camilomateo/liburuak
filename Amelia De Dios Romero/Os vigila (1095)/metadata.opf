@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1095</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">483dbc56-afc8-40ad-b178-67261d74f559</dc:identifier>
+        <dc:title>Os vigila</dc:title>
+        <dc:creator opf:file-as="Amelia De Dios Romero" opf:role="aut">Amelia De Dios Romero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-10T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-weight: 600"&gt;NOVELA GANADORA DEL PREMIO MONT MARÇAL 2021.&lt;/p&gt;
+&lt;p align="justify" style="font-weight: 600"&gt;Un trepidante&lt;em&gt; thriller&lt;/em&gt; psicológico que se desarrolla en las montañas asturianas.&lt;/p&gt;
+&lt;p align="justify"&gt;Olivia regresa a la casa de Caberu, en las montañas asturianas, un año después del accidente que acabó con la vida de Guillermo y del que todavía no se ha recuperado. Desde que llegó, cada noche cree oír su voz advirtiéndola de que salga de allí y huya, porque hay alguien que la vigila para hacerle daño. Ella lo achaca al estrés de volver al lugar en el que ocurrió todo y trata de racionalizar, pero lo cierto es que suceden cosas que cuesta trabajo explicar.&lt;/p&gt;
+&lt;p align="justify"&gt;Y a eso hay que añadir el carácter arisco de algunos lugareños, como Camilo, un hombre que vive solo desde que su abuela desapareció y con el que Guillermo compartía pasión por las motos, pero que cada vez que ve a Olivia se comporta de manera más huraña, invitándola prácticamente a que desaparezca.&lt;/p&gt;
+&lt;p align="justify"&gt;Los días harán el resto, y poco a poco Olivia seguirá pistas y atará cabos hasta destapar una caja de truenos que la hará saltar por los aires.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-12-12T07:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="Os vigila"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

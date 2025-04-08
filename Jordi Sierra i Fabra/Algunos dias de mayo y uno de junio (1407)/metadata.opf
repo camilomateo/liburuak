@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1407</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8737814-386f-47cc-89f9-44101f8f8ac9</dc:identifier>
+        <dc:title>Algunos días de mayo y uno de junio</dc:title>
+        <dc:creator opf:file-as="Jordi Sierra i Fabra" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-14T03:00:00+00:00</dc:date>
+        <dc:description>En la última entrega de Mascarell, el inspector tendrá que enfrentarse al caso más grande de su vida. Mucho más que una novela negra. «No sólo es un acierto dentro de la novela policial española, sino una recreación formidable de unos años de los que hay muy poca narrativa, y mucho menos crítica social». Irene Dalmases, Agencia EFE Mayo de 1952. En Barcelona se celebra el Congreso Eucarístico, la ciudad se convierte en el foco del mundo y la vida empieza a tomar otro color con el fin de las cartillas de racionamiento, la apertura de las cárceles franquistas y la atenuación de las restricciones. Barcelona hierve de fervor religioso: Franco, personalidades de todos los ámbitos, el enviado del papa y miles de sacerdotes, monjas y católicos llegan en coche, tren, barco o avión de todas partes del mundo. En ese contexto, el rector de un convento llama al detective David Fortuny para pedirle ayuda: tres sacerdotes se han suicidado con apenas unos días de diferencia. Miquel Mascarell sabe que «sacerdotes» y «suicidio» son dos palabras que no encajan, y más siendo tres, sin que tuvieran contacto entre sí ni aparente relación. Comienza así una investigación que desentrañará un drama personal entretejido a través del tiempo que amenazará no solo la paz del Congreso, sino la vida futura de la ciudad, porque Barcelona y Mascarell pueden estar en el ojo del huracán.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-08T14:38:20.707171+00:00"/>
+        <meta name="calibre:title_sort" content="Algunos días de mayo y uno de junio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

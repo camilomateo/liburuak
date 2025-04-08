@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc1c904f-3917-4240-b3ba-9bb9838f9d2e</dc:identifier>
+        <dc:title>Demasiados bombones para el embajador</dc:title>
+        <dc:creator opf:file-as="Smirnov, Lara" opf:role="aut">Lara Smirnov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-29T06:00:00+00:00</dc:date>
+        <dc:description>Título: Demasiados bombones para el embajador Autor: Lara Smirnov Formato: EPUB Etiqueta: Novela Romántica, Erótica, Humor Alejandro de la Encina y del Roble, excelentísimo embajador de España en Japón, siente que ha encontrado por fin a su alma gemela. Irina del Carmen Tanaka, hija de una sofisticada rusa y de un empresario japonés, es una joven diplomática con ganas de comerse el mundo, y si es junto al sexy embajador español mucho mejor, ya que le gusta darle bocaditos de vez en cuando. Alejandro querría formar una familia con Irina y usa todo su arsenal para que su relación llegue a puerto seguro, pero sus examantes le complican mucho la vida. Durante una fiesta en la embajada, la pareja recibe una visita inesperada que pondrá a prueba su amor. Dicen que a nadie le amarga un dulce, pero Irina se está hartando de que no dejen de aparecer bombones en casa del embajador. ¿Superarán el empacho o morirá su relación por exceso de azúcar? N.J</dc:description>
+        <dc:publisher>Zafiro eBooks</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Erotico</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lara Smirnov&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:19.990263+00:00"/>
+        <meta name="calibre:title_sort" content="Desconocido"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

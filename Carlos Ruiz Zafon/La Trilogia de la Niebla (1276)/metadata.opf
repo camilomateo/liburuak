@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c39558d8-b23d-4b8b-ab27-52b924774391</dc:identifier>
+        <dc:title>La Trilogía de la Niebla</dc:title>
+        <dc:creator opf:file-as="Ruiz Zafón, Carlos" opf:role="aut">Carlos Ruiz Zafón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-01T06:00:00+00:00</dc:date>
+        <dc:description>En una misteriosa casa de la costa atlántica, lejos del Londres amenazado por la guerra, Max va a descubrir que los desafíos del presente a menudo tienen su razón de ser en pactos inconfesables sellados mucho tiempo atrás, donde habitan seres como El Príncipe de la Niebla.
+
+En la Calcuta de 1932, un tren en llamas atraviesa la ciudad, y el círculo de amigos de Ben y Sheere debe enfrentarse al más terrible y mortífero enigma de la ciudad de los palacios; una aventura, El Palacio de la Medianoche, que va a cambiar sus propias vidas. Entre París y un extraño faro de Normandía se desarrolla Las Luces de Septiembre, en la que Irene e Ismael se adentran en el misterio de un fabricante de juguetes que vive entre seres mecánicos y sombras del pasado, a la vez que crecen los lazos que los van a unir para siempre.
+
+La Trilogía de la Niebla nos ofrece una inigualable combinación de aventura, misterio y emociones, de la mano del magistral narrador de La Sombra del Viento, Carlos Ruiz Zafón.</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="EPL">56035</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-07T17:32:14.599928+00:00"/>
+        <meta name="calibre:title_sort" content="Trilogía de la Niebla, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

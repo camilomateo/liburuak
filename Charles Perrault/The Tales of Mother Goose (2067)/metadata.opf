@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2067</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb00a957-f452-4dc9-8b4e-64a5877b058a</dc:identifier>
+        <dc:title>The Tales of Mother Goose</dc:title>
+        <dc:creator opf:file-as="Perrault, Charles" opf:role="aut">Charles Perrault</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy</dc:subject>
+        <dc:subject>tales</dc:subject>
+        <dc:subject>--</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>Children's</dc:subject>
+        <dc:subject>Stories</dc:subject>
+        <dc:subject>French</dc:subject>
+        <dc:subject>Translations</dc:subject>
+        <dc:subject>into</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="277"/>
+        <meta name="calibre:timestamp" content="2024-09-06T12:09:07.105053+00:00"/>
+        <meta name="calibre:title_sort" content="Tales of Mother Goose, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

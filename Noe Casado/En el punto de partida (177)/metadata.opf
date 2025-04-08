@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4e098bc-d8de-4881-8b7d-b49a692cb9e7</dc:identifier>
+        <dc:title>En el punto de partida</dc:title>
+        <dc:creator opf:file-as="Casado, Noe" opf:role="aut">Noe Casado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-08T09:44:48+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Ella me traicionó y yo le salvé la vida.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Nunca he hecho excepciones con nadie, solo con ella.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;A cambio, le puse algunas condiciones.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Primera: jamás regresaría al país.&lt;/p&gt;&lt;p&gt;Segunda: no contactaría bajo ningún concepto con sus seres queridos.&lt;/p&gt;&lt;p&gt;Tercera: no podría llevarse ningún objeto de su vida actual.&lt;/p&gt;&lt;p&gt;Cuarta: se olvidaría de mí.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Ha pasado el tiempo y creo que no se ha saltado ni un requisito;&lt;/span&gt; no obstante, me voy a asegurar de ello, pese a la promesa que me hice a mí mismo de no volver a ponerme en contacto con ella.&lt;span class="a-text-bold"&gt;Durante los últimos meses he cumplido por obligación con mi parte, sin embargo, ella es mi debilidad.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Echaré la vista atrás, una última vez, antes de seguir con mi vida.&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Porque lo de olvidarla es imposible.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Esencia</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Erótica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Noe Casado&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Ice Star"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-01-26T18:16:17.399613+00:00"/>
+        <meta name="calibre:title_sort" content="En el punto de partida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

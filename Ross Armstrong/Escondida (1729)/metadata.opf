@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3afac655-69d7-4414-9e48-d028dd09c90c</dc:identifier>
+        <dc:title>Escondida</dc:title>
+        <dc:creator opf:file-as="Armstrong, Ross" opf:role="aut">Ross Armstrong</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-17T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;Lily vive con su esposo Aiden en un piso de un edificio nuevo frente a una urbanización que será demolida en breve. La afición de Lily por observar a las aves a través de sus prismáticos la lleva a no poder evitar la tentación de espiar a sus vecinos. &lt;/div&gt;&lt;div&gt;Un día, una mujer desaparece. Lily cree haber visto algo extraño. Pero ella no es la única que está observando. &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417128098</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0754KFCWP</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-08T14:59:24.357352+00:00"/>
+        <meta name="calibre:title_sort" content="Escondida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

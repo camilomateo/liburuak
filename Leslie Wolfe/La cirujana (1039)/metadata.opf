@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1039</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9ca441f-a216-48b1-850f-3c74397429b8</dc:identifier>
+        <dc:title>La cirujana</dc:title>
+        <dc:creator opf:file-as="Wolfe, Leslie" opf:role="aut">Leslie Wolfe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-11T07:52:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;span&gt;Cirujana de confianza. Esposa dedicada. ¿Asesina? &lt;br&gt;&lt;br&gt;Antes de
+ que mi mundo se derrumbara, lo tenía todo. Una exitosa carrera. Una 
+casa de ladrillo rojo preciosa, donde podía relajarme frente a la 
+chimenea. Un apuesto y devoto marido cuyos ojos azules y sonrisa 
+encantadora siempre me hicieron sentir segura. &lt;br&gt;&lt;br&gt;Cuando digo la 
+hora de la muerte, mi voz es firme. Mis compañeros permanecen en 
+silencio a mi alrededor con los ojos fijos en mí, confundidos, 
+preocupados. &lt;br&gt;&lt;br&gt;Nunca he perdido a un paciente hasta hoy. &lt;br&gt;&lt;br&gt;Mis
+ manos tiemblan dentro de los guantes de látex. Me deslizo por las frías
+ paredes de azulejos. Mi corazón se acelera en mi pecho. &lt;br&gt;&lt;br&gt;Nunca he odiado a un paciente hasta hoy. &lt;br&gt;&lt;br&gt;Pero ¿qué opción tenía después de haberlo reconocido? &lt;br&gt;¿Y qué haré para protegerme si alguien se entera de la verdad? &lt;br&gt;&lt;br&gt;Un
+ apasionante thriller psicológico que te pondrá el pelo de punta y te 
+hará contener la respiración hasta el sorprendente giro final.&lt;/span&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-10-20T11:12:31.477458+00:00"/>
+        <meta name="calibre:title_sort" content="cirujana, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

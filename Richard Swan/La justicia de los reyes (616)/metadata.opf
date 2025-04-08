@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">616</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">659b2902-8194-4141-b425-a0a8ec892983</dc:identifier>
+        <dc:title>La justicia de los reyes</dc:title>
+        <dc:creator opf:file-as="Swan, Richard" opf:role="aut">Richard Swan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El Imperio del Lobo hierve a fuego lento por los disturbios. Rebeldes, herejes y patricios poderosos desafían el poder del trono imperial. &lt;/p&gt;
+&lt;p&gt;Solo la Orden de la Magistratura Imperial se interpone en el camino del caos. Sir Konrad Vonvalt representa la justicia más temida por todos, defendiendo la Ley gracias a su mente aguda, sus poderes arcanos y su habilidad como espadachín. A su lado se encuentra Helena Sedanka, su talentosa protegida, una huérfana de las guerras que forjaron el Imperio. Cuando ambos investigan el asesinato de una noble en una provincia remota, descubren una conspiración que se extiende hasta lo más elevado de la sociedad imperial. Los peligros aumentan a cada paso que dan; Vonvalt y Helena deberán tomar una decisión: ¿abandonarán las leyes que han jurado respetar para proteger el Imperio?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Gamon</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418711701</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Swan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="El imperio del lobo"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-05-04T21:27:41.908733+00:00"/>
+        <meta name="calibre:title_sort" content="La justicia de los reyes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

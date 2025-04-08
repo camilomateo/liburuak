@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1563</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a05a8975-5180-4e73-b801-933ba53e8d7c</dc:identifier>
+        <dc:title>Soy toda oídos</dc:title>
+        <dc:creator opf:file-as="Hye-jin, Kim" opf:role="aut">Kim Hye-jin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;La escritora coreana, autora del éxito internacional "Sobre mi hija", regresa a las afueras con una novela sobre culpa, reparación... y gatos.&lt;br&gt;&lt;br&gt;Haesu Im es una terapeuta de éxito y colaboradora de un popular 
+programa de televisión. Pero cuando hace un comentario negativo sobre un
+ personaje público que más tarde se suicida es condenada al ostracismo, 
+despedida de su trabajo y acosada en redes sociales.&lt;br&gt;Apartada de su 
+mundo anterior, vaga de noche por las calles de la ciudad por miedo a 
+ser reconocida hasta que un día tiene un encuentro inesperado con Sei, 
+una niña que intenta alimentar a un gato callejero, un ser herido por la
+ vida al igual que ellas.&lt;br&gt;Alternando estos paseos, conversaciones y 
+cartas que la protagonista escribe pero nunca llega a enviar, la autora 
+coreana vuelve a emplear su prosa minimalista como un bisturí, para 
+presentarnos un triángulo de personajes atrapados en el destino del 
+otro, en busca de reparación y de un lugar seguro en un mundo hostil.
+
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Las afueras</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:47+00:00"/>
+        <meta name="calibre:title_sort" content="Soy toda oídos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

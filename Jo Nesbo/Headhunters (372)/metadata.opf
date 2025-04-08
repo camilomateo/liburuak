@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">372</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7b7c215-7cc3-4293-9e44-5326fdee462a</dc:identifier>
+        <dc:title>Headhunters</dc:title>
+        <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una vertiginosa novela independiente de Jo Nesbø, con todo el ritmo y la capacidad para sorprender de su serie Harry Hole.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Roger
+ Brown parece tenerlo todo. Gracias a su ambición y a su carisma ha 
+conseguido ser líder como cazatalentos para empresas, comprar una lujosa
+ mansión y casarse con una mujer culta y atractiva que gestiona una 
+galería de arte. Sin embargo, no puede escapar a sus peores impulsos. La
+ codicia y la obsesión por lo bello le han llevado también a convertirse
+ en ladrón de obras de arte y, cuando conoce a Clas Greve, cree ver un 
+blanco perfecto. Greve es el director ejecutivo que buscaba para una 
+empresa y, además, posee algo que Brown ansía quedarse: un cuadro de 
+Rubens.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Una vez puesto en marcha el robo, sin embargo, Brown descubrirá que el delito es el menor de sus problemas.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Con una trama impecable y unos giros sorprendentes, Nesbø atrapa al lector desde la primera hasta la última página.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Debolsillo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466364058</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jo Nesbø&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-03T07:31:24.888626+00:00"/>
+        <meta name="calibre:title_sort" content="Headhunters"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

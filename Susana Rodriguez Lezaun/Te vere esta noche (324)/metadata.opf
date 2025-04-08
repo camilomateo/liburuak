@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e55d387f-f700-49b4-9837-9fa81a8d18d3</dc:identifier>
+        <dc:title>Te veré esta noche</dc:title>
+        <dc:creator opf:file-as="Lezaun, Susana Rodríguez" opf:role="aut">Susana Rodríguez Lezaun</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-03T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Una desaparición. Una persecución. En la guerra todos pierden. &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;&lt;b&gt;Las peores batallas se libran en lo más profundo de nuestra alma.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Raquel
+ Gimeno viaja en coche con su familia. Sus dos hijos y su madre 
+descansan detrás mientras su marido conduce a su lado. Agotada por los 
+preparativos del traslado, cierra los ojos y se queda profundamente 
+dormida. Al despertar, se encuentra en un descampado. Aún dentro del 
+vehículo. Pero sola. Su familia ha desaparecido sin dejar rastro.&lt;/p&gt;&lt;p&gt;El
+ caso es asignado al inspector Vázquez. Sin embargo, David no está 
+pasando por su mejor momento. Su prometida, Irene Ochoa, también se ha 
+esfumado, acusada de asesinato. Él se resiste a creerlo, pero, entonces,
+ &lt;span class="a-text-bold"&gt;¿dónde está ella? ¿Por qué ha huido? ¿Qué verdad le ha ocultado la mujer a la que ama?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Rodeado
+ de interrogantes, azotado por las presiones de un caso tejido con los 
+hilos más oscuros de que la mente humana es capaz, el inspector Vázquez 
+se enfrentará al mayor reto de su carrera y de su vida.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>DEBOLS!LLO</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Susana Rodríguez Lezaun&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector David Vázquez"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-02-16T18:13:41.179437+00:00"/>
+        <meta name="calibre:title_sort" content="Te veré esta noche"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

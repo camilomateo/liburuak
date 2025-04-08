@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Translations</title>
+  <id>Calibre2opds:taglist:T:184</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_184_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Translations" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por T" />
+  <entry>
+    <title>Adán y Eva en el paraíso</title>
+    <id>calibre:book:2122</id>
+    <updated>2024-09-06T02:21:19Z</updated>
+    <link href="../../Eca%20de%20Queiros/Adan%20y%20Eva%20en%20el%20paraiso%20%282122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eca%20de%20Queiros/Adan%20y%20Eva%20en%20el%20paraiso%20%282122%29/Adan%20y%20Eva%20en%20el%20paraiso%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="236 KB" />
+    <author>
+      <name>Eça de Queirós</name>
+      <uri>../authors_1/authors_1506_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Adam" />
+    <category term="(Biblical" />
+    <category term="figure)" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Eve" />
+    <category term="Short" />
+    <category term="Stories" />
+    <category term="Portuguese" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="Spanish" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2122.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Comedias, tomo 1 de 3</title>
+    <id>calibre:book:2526</id>
+    <updated>2024-09-09T10:34:49Z</updated>
+    <link href="../../Aristofanes/Comedias%2C%20tomo%201%20de%203%20%282526%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aristofanes/Comedias%2C%20tomo%201%20de%203%20%282526%29/Comedias%2C%20tomo%201%20de%203%20-%20Aristofanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="201 KB" />
+    <author>
+      <name>Aristófanes</name>
+      <uri>../authors_1/authors_1670_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Athens" />
+    <category term="(Greece)" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Aristophanes" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="Spanish" />
+    <category term="Greek" />
+    <category term="(Comedy)" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2526.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Comedias, tomo 2 de 3</title>
+    <id>calibre:book:2528</id>
+    <updated>2024-09-09T10:34:49Z</updated>
+    <link href="../../Aristofanes/Comedias%2C%20tomo%202%20de%203%20%282528%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aristofanes/Comedias%2C%20tomo%202%20de%203%20%282528%29/Comedias%2C%20tomo%202%20de%203%20-%20Aristofanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="213 KB" />
+    <author>
+      <name>Aristófanes</name>
+      <uri>../authors_1/authors_1670_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Athens" />
+    <category term="(Greece)" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Aristophanes" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="Spanish" />
+    <category term="Greek" />
+    <category term="(Comedy)" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2528.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Comedias, tomo 3 de 3</title>
+    <id>calibre:book:2529</id>
+    <updated>2024-09-09T10:34:49Z</updated>
+    <link href="../../Aristofanes/Comedias%2C%20tomo%203%20de%203%20%282529%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aristofanes/Comedias%2C%20tomo%203%20de%203%20%282529%29/Comedias%2C%20tomo%203%20de%203%20-%20Aristofanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="199 KB" />
+    <author>
+      <name>Aristófanes</name>
+      <uri>../authors_1/authors_1670_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Athens" />
+    <category term="(Greece)" />
+    <category term="--" />
+    <category term="Drama" />
+    <category term="Aristophanes" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="Spanish" />
+    <category term="Greek" />
+    <category term="(Comedy)" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2529.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crito</title>
+    <id>calibre:book:2538</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../Plato/Crito%20%282538%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Plato/Crito%20%282538%29/Crito%20-%20Plato.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="106 KB" />
+    <author>
+      <name>Plato</name>
+      <uri>../authors_1/authors_1678_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Classical" />
+    <category term="literature" />
+    <category term="Philosophy" />
+    <category term="Ancient" />
+    <category term="Justice" />
+    <category term="--" />
+    <category term="Early" />
+    <category term="works" />
+    <category term="to" />
+    <category term="1800" />
+    <category term="Dialogues" />
+    <category term="Greek" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2538.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La nariz de un notario</title>
+    <id>calibre:book:2497</id>
+    <updated>2024-09-09T10:34:43Z</updated>
+    <link href="../../Edmond%20About/La%20nariz%20de%20un%20notario%20%282497%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edmond%20About/La%20nariz%20de%20un%20notario%20%282497%29/La%20nariz%20de%20un%20notario%20-%20Edmond%20About.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="126 KB" />
+    <author>
+      <name>Edmond About</name>
+      <uri>../authors_1/authors_1655_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="French" />
+    <category term="Fiction" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="Spanish" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2497.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las noches mejicanas</title>
+    <id>calibre:book:2500</id>
+    <updated>2024-09-09T10:34:43Z</updated>
+    <link href="../../Gustave%20Aimard/Las%20noches%20mejicanas%20%282500%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gustave%20Aimard/Las%20noches%20mejicanas%20%282500%29/Las%20noches%20mejicanas%20-%20Gustave%20Aimard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="366 KB" />
+    <author>
+      <name>Gustave Aimard</name>
+      <uri>../authors_1/authors_1657_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="French" />
+    <category term="Fiction" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="Spanish" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2500.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Tales of Mother Goose</title>
+    <id>calibre:book:2067</id>
+    <updated>2024-09-06T02:09:07Z</updated>
+    <link href="../../Charles%20Perrault/The%20Tales%20of%20Mother%20Goose%20%282067%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charles%20Perrault/The%20Tales%20of%20Mother%20Goose%20%282067%29/The%20Tales%20of%20Mother%20Goose%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="525 KB" />
+    <author>
+      <name>Charles Perrault</name>
+      <uri>../authors_0/authors_105_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fairy" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="France" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="French" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [277]:</summary>
+    <link href="../book_2/book_2067.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Aeneid</title>
+    <id>calibre:book:2532</id>
+    <updated>2024-09-09T10:34:50Z</updated>
+    <link href="../../Virgil/The%20Aeneid%20%282532%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Virgil/The%20Aeneid%20%282532%29/The%20Aeneid%20-%20Virgil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="332 KB" />
+    <author>
+      <name>Virgil</name>
+      <uri>../authors_1/authors_1673_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Aeneas" />
+    <category term="(Legendary" />
+    <category term="character)" />
+    <category term="--" />
+    <category term="Poetry" />
+    <category term="Legends" />
+    <category term="Rome" />
+    <category term="Epic" />
+    <category term="Latin" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2532.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The divine comedy</title>
+    <id>calibre:book:2527</id>
+    <updated>2024-09-09T10:34:49Z</updated>
+    <link href="../../Dante%20Alighieri/The%20divine%20comedy%20%282527%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dante%20Alighieri/The%20divine%20comedy%20%282527%29/The%20divine%20comedy%20-%20Dante%20Alighieri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <author>
+      <name>Dante Alighieri</name>
+      <uri>../authors_1/authors_1579_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Epic" />
+    <category term="Poetry" />
+    <category term="Italian" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="to" />
+    <category term="1400" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2527.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Frogs</title>
+    <id>calibre:book:2539</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../Aristophanes/The%20Frogs%20%282539%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aristophanes/The%20Frogs%20%282539%29/The%20Frogs%20-%20Aristophanes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="99 KB" />
+    <author>
+      <name>Aristophanes</name>
+      <uri>../authors_1/authors_1679_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Comedies" />
+    <category term="Greek" />
+    <category term="Drama" />
+    <category term="(Comedy)" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Voyages" />
+    <category term="to" />
+    <category term="the" />
+    <category term="otherworld" />
+    <category term="Dionysus" />
+    <category term="(Greek" />
+    <category term="deity)" />
+    <category term="Playwriting" />
+    <category term="Dramatists" />
+    <category term="Aristophanes" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2539.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Iliad</title>
+    <id>calibre:book:2521</id>
+    <updated>2024-09-09T10:34:48Z</updated>
+    <link href="../../Homer/The%20Iliad%20%282521%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Homer/The%20Iliad%20%282521%29/The%20Iliad%20-%20Homer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Homer</name>
+      <uri>../authors_1/authors_1668_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Classical" />
+    <category term="literature" />
+    <category term="Epic" />
+    <category term="Poetry" />
+    <category term="Greek" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Achilles" />
+    <category term="(Mythological" />
+    <category term="character)" />
+    <category term="Trojan" />
+    <category term="War" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2521.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The little mermaid</title>
+    <id>calibre:book:2093</id>
+    <updated>2024-09-06T02:09:12Z</updated>
+    <link href="../../H.%20C.%20Andersen/The%20little%20mermaid%20%282093%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20C.%20Andersen/The%20little%20mermaid%20%282093%29/The%20little%20mermaid%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="461 KB" />
+    <author>
+      <name>H. C. Andersen</name>
+      <uri>../authors_1/authors_1491_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fairy" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="Denmark" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Danish" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2093.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Odyssey</title>
+    <id>calibre:book:2518</id>
+    <updated>2024-09-09T10:34:47Z</updated>
+    <link href="../../Homer/The%20Odyssey%20%282518%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Homer/The%20Odyssey%20%282518%29/The%20Odyssey%20-%20Homer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="319 KB" />
+    <author>
+      <name>Homer</name>
+      <uri>../authors_1/authors_1668_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Homer" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Epic" />
+    <category term="Poetry" />
+    <category term="Greek" />
+    <category term="Odysseus" />
+    <category term="King" />
+    <category term="of" />
+    <category term="Ithaca" />
+    <category term="(Mythological" />
+    <category term="character)" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2518.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Phantom of the Opera</title>
+    <id>calibre:book:2509</id>
+    <updated>2024-09-09T10:34:46Z</updated>
+    <link href="../../Gaston%20Leroux/The%20Phantom%20of%20the%20Opera%20%282509%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gaston%20Leroux/The%20Phantom%20of%20the%20Opera%20%282509%29/The%20Phantom%20of%20the%20Opera%20-%20Gaston%20Leroux.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="264 KB" />
+    <author>
+      <name>Gaston Leroux</name>
+      <uri>../authors_1/authors_1664_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Horror" />
+    <category term="tales" />
+    <category term="Musical" />
+    <category term="Fiction" />
+    <category term="Opera" />
+    <category term="--" />
+    <category term="Paris" />
+    <category term="(France)" />
+    <category term="Composers" />
+    <category term="Phantom" />
+    <category term="of" />
+    <category term="the" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="French" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2509.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The sand man</title>
+    <id>calibre:book:2513</id>
+    <updated>2024-09-09T10:34:47Z</updated>
+    <link href="../../E.%20T.%20A.%20Hoffmann/The%20sand%20man%20%282513%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../E.%20T.%20A.%20Hoffmann/The%20sand%20man%20%282513%29/The%20sand%20man%20-%20E.%20T.%20A.%20Hoffmann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="137 KB" />
+    <author>
+      <name>E. T. A. Hoffmann</name>
+      <uri>../authors_1/authors_1666_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="German" />
+    <category term="--" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Hoffmann" />
+    <category term="E." />
+    <category term="T." />
+    <category term="A." />
+    <category term="(Ernst" />
+    <category term="Theodor" />
+    <category term="Amadeus)" />
+    <category term="1776-1822" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2513.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The snow Queen</title>
+    <id>calibre:book:2095</id>
+    <updated>2024-09-06T02:09:12Z</updated>
+    <link href="../../H.%20C.%20Andersen/The%20snow%20Queen%20%282095%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20C.%20Andersen/The%20snow%20Queen%20%282095%29/The%20snow%20Queen%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="893 KB" />
+    <author>
+      <name>H. C. Andersen</name>
+      <uri>../authors_1/authors_1491_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fairy" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="Denmark" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Danish" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2095.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The ugly duckling</title>
+    <id>calibre:book:2096</id>
+    <updated>2024-09-06T02:09:12Z</updated>
+    <link href="../../H.%20C.%20Andersen/The%20ugly%20duckling%20%282096%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20C.%20Andersen/The%20ugly%20duckling%20%282096%29/The%20ugly%20duckling%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <author>
+      <name>H. C. Andersen</name>
+      <uri>../authors_1/authors_1491_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fairy" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="Denmark" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Danish" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2096.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

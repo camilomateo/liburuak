@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8c86099-4e26-4bbd-8c13-7aee3fc56f67</dc:identifier>
+        <dc:title>Las ballenas cantan jazz</dc:title>
+        <dc:creator opf:file-as="Mario Viciosa" opf:role="aut">Mario Viciosa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-18T05:00:00+00:00</dc:date>
+        <dc:description>Las ballenas cantan jazz. Y el cosmos es un oscuro café. Y todos los plátanos son el mismo. El planeta Tierra es un lugar extraño y fascinante que se puede explicar a través de titulares como estos. En 1977 la humanidad lanzó su primera tarjeta de presentación al universo a través de las sondas Voyager. Desde entonces, un disco viaja por el espacio interestelar con sonidos e imágenes de nuestro mundo dirigidos a una supuesta civilización extraterrestre. Sin embargo, aquel mensaje en una botella es difícil de descifrar, entre otras cosas porque no deja entrever algo que sí hacen las narraciones: las pasiones, los sentimientos, los miedos… En definitiva, las emociones.
+
+Las ballenas cantan jazz es una explicación de nuestra singular existencia a Alice, una entidad hipotética y extraterrestre, escrita por Bob, otro hipotético portavoz humano, dispuesto a compartir el extrañamiento de un mundo que, aunque nos es habitual, no deja de ser formidablemente asombroso.</dc:description>
+        <dc:publisher>Ariel</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788434435551</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mario Viciosa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-27T11:03:59.542404+00:00"/>
+        <meta name="calibre:title_sort" content="ballenas cantan jazz, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

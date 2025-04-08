@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">593</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4968a923-e07b-404a-b157-19da6659da7f</dc:identifier>
+        <dc:title>El pez en la Luna</dc:title>
+        <dc:creator opf:file-as="Miura, Shion" opf:role="aut">Shion Miura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-01T06:00:00+00:00</dc:date>
+        <dc:description>Mashiki Honda tiene veinticuatro años y ha heredado una famosa librería de Tokio a la que acuden numerosos bibliófilos y donde a él mismo le gusta olvidarse del mundo exterior. Su amigo Taichi Senagaki, de carácter sociable y despreocupado, tiene veinticinco y es mayorista de libros usados. Los dos se criaron como si fueran hermanos mientras el abuelo de Mashiki les enseñaba a valorar los libros antiguos. Sin embargo, un verano sucedió algo que cambió su relación y el curso de los acontecimientos... Cuando una viuda se ofrece a venderles su biblioteca, ambos se trasladan a una casa perdida entre las montañas para tasar sus libros. Será entonces, al examinar los viejos volúmenes, cuando por fin se vean obligados a enfrentarse a ese pasado que tanto los marcó.</dc:description>
+        <dc:publisher>Nocturna Ediciones</dc:publisher>
+        <dc:identifier opf:scheme="13ID">50002319</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">256</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-02T11:40:17.893284+00:00"/>
+        <meta name="calibre:title_sort" content="pez en la Luna, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

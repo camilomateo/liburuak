@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c2bb298-9c84-4300-aade-92eea3aec47d</dc:identifier>
+        <dc:title>El juego escondido</dc:title>
+        <dc:creator opf:file-as="Cornudella, Eva" opf:role="aut">Eva Cornudella</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-08T10:14:46+00:00</dc:date>
+        <dc:description>Barcelona, 2021, la pequeña Zoe Clifford fallece tras la fiesta de su décimo cumpleaños. Lo que en un principio parece un caso de muerte súbita despierta las suspicacias de la forense, que no tarda en confirmarle al juez Mario Laredo que se trata de un caso de envenenamiento por aconitina, una sustancia prohibida y letal con un largo historial de usos oscuros, tanto en la medicina tradicional como en la brujería.
+El caso enfrenta al juez con un fantasma de su pasado, que se le aparece en sueños para revelarle mensajes cifrados sobre la causa. Laredo contará con la ayuda de Virginia Gibert, una fiscal a la que lo une mucho más que una relación profesional, sin ser consciente del peligro en el que ha puesto su vida.
+En este apasionante trhiller psicológico y procedimental el lector acompañará a los protagonistas en una investigación en la que las sombras del pasado resurgirán para enfrentarlos a sus peores pesadillas.</dc:description>
+        <dc:publisher>Ediciones Versátil</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-26T12:58:14.148458+00:00"/>
+        <meta name="calibre:title_sort" content="juego escondido, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

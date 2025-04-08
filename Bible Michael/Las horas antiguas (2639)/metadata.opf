@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2639</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef4eeddf-0a5f-42a1-acee-13642d81c64a</dc:identifier>
+        <dc:title>Las horas antiguas</dc:title>
+        <dc:creator opf:file-as="Michael, Bible" opf:role="aut">Bible Michael</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-17T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Harmony es un pueblo como cualquier otro, un rincón del mundo en el que santos y pecadores matan las tardes en el centro comercial, sucumben al adulterio, juegan a fútbol americano, ven porno o leen a Faulkner en la biblioteca pública. Su historia es un reguero de violencia colonial, linchamientos y fanatismo religioso. Pero esos episodios son ya folklore local, ecos lejanos. La verdadera tragedia irrumpe en el año 2000, cuando Iggy, un chico solitario y misterioso, acude a misa armado de un bidón de gasolina y una caja de cerillas, dispuesto a inmolarse como un monje budista. En el incendio mueren veinticinco fieles.&lt;br&gt;&lt;br&gt;Las horas antiguas explora las secuelas de este día fatídico en las víctimas, los testigos y el culpable, que cuenta las horas en el corredor de la muerte. La vida sigue, pero los vecinos de Harmony no cesan de preguntarse qué mosca le picó a Iggy. ¿Fueron los analgésicos que esnifaba, el alcohol y la heroína? ¿Su amor «cósmico, salvaje y extraño» por Cleo? ¿Su dolor ante el absurdo de la existencia?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Gatopardo Ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-21T14:01:15.962716+00:00"/>
+        <meta name="calibre:title_sort" content="Las horas antiguas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

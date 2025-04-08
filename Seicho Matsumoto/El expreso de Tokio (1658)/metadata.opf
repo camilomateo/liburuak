@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1658</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec2c0c3d-4d1d-488a-bff9-c0e79b059474</dc:identifier>
+        <dc:title>El expreso de Tokio</dc:title>
+        <dc:creator opf:file-as="Matsumoto, Seicho" opf:role="aut">Seicho Matsumoto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-23T06:00:00+00:00</dc:date>
+        <dc:description>Los cadáveres de un oscuro funcionario y de la camarera de un restaurante de Tokio son descubiertos en una playa de la isla de Kyushu. Todo parece indicar que se trata de un caso claro: dos amantes que se han suicidado juntos tomando cianuro. Pero algún detalle extraño llama la atención del inspector Mihara: el difunto se había pasado seis días solo en su hotel y en su bolsillo encontraron un único billete de tren; los amantes no habían viajado juntos. Resulta también que el funcionario trabajaba en un ministerio en el que un escándalo de corrupción está a punto de estallar.</dc:description>
+        <dc:publisher>Libros del Asteroide S.L.U.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-84-15625-54-4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:timestamp" content="2024-07-07T13:32:36.528345+00:00"/>
+        <meta name="calibre:title_sort" content="expreso de Tokio, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

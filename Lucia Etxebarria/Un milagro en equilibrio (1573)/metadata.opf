@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5116a546-7d76-473e-b0de-82c52dab7878</dc:identifier>
+        <dc:title>Un milagro en equilibrio</dc:title>
+        <dc:creator opf:file-as="Etxebarria, Lucía" opf:role="aut">Lucía Etxebarria</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Eva Agulló se ha hecho famosa con un libro sobre adicciones. La propia Eva es, en realidad, una adicta. Adicta al alcohol, a la angustia, a la valoración de los otros. En una carta-diario escrita a su hija recién nacida mientras su madre agoniza en el hospital, Eva intenta explicar de qué familia viene para poder imaginar hacia qué familia se dirige. A caballo entre el pasado, el presente y el futuro, entre Nueva York, Madrid y Alicante, reconstruye la historia nunca contada de la familia Agulló Benayas: los secretos a voces, las herencias, materiales o no, que los padres legan a sus hijos, y cómo para algunos lleva toda una vida aprender a vivirla. Para acabar concluyendo que la vida es, en sí misma, un milagro. Un milagro en equilibrio.</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Psicológico</dc:subject>
+        <meta name="calibre:timestamp" content="2024-06-02T08:59:50.133069+00:00"/>
+        <meta name="calibre:title_sort" content="milagro en equilibrio, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

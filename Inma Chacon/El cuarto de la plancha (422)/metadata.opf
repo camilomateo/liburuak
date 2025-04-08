@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">422</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8dd008d-0434-4bb7-bd6e-4c8b92dfd569</dc:identifier>
+        <dc:title>El cuarto de la plancha</dc:title>
+        <dc:creator opf:file-as="Chacón, Inma" opf:role="aut">Inma Chacón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un homenaje a las familias y a las madres tiernas, valientes y cómplices&lt;/p&gt;
+&lt;p&gt;El cuarto de la plancha es un libro tejido con el amor de las madres y de las historias que se susurran al oído antes de irse a dormir; es un canto de amor a la familia con todo lo que tiene de caótico, de bueno, de triste, de sabio y de conocido; es una mano tendida, un corazón remendado y una ventana abierta a los recuerdos. Es, en suma, la voz única, sincera y dulce, certera y personalísima de Inma Chacón desgranando en una obra inolvidable, tierna, divertida y cercana, también desgarradora por momentos, la historia de su familia, y la suya propia, narrada como su más fascinante novela.&lt;/p&gt;
+&lt;p&gt;De la particular relación que une a dos hermanas gemelas a lo largo de toda su vida y más allá de la muerte al valor de una joven madre viuda capaz de sacar adelante a sus nueve hijos; del misterio de un abuelo que no parecía querer a sus nietos al de una segunda esposa enamorada que, por no molestar, casi no tenía ni nombre; del recuerdo de un padre con un corazón tan grande que no le cabía en el pecho a los secretos que oculta un costurero antiguo o un rosario de piedras amarillas... Todo cuanto se nombra en El cuarto de la plancha guarda un significado y una historia. Pero, sobre todo, atesora un sentimiento, una emoción, que hace de este libro una obra cautivadora, honda, conmovedora, difícil de olvidar. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Contraluz Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Inma Chacón&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-14T15:30:30.907774+00:00"/>
+        <meta name="calibre:title_sort" content="cuarto de la plancha, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2fc6b6aa-03e2-4fb6-b723-f7aa1c39ff53</dc:identifier>
+        <dc:title>El poder de las palabras</dc:title>
+        <dc:creator opf:file-as="Sigman, Mariano" opf:role="aut">Mariano Sigman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-14T22:00:00+00:00</dc:date>
+        <dc:description>Es posible cambiar, en cualquier momento de la vida, nuestras ideas más arraigadas, nuestra forma de pensar y también nuestra experiencia emocional. Para lograrlo es suficiente una herramienta sencilla y extremadamente efectiva en la transformación de nuestro cerebro: el buen uso de la conversación.
+Nuestra mente es mucho más maleable de lo que creemos y, a pesar de que conservamos toda la vida la misma capacidad de aprender que tenemos de chicos, con el tiempo vamos perdiendo la necesidad y la motivación para hacerlo. Así, empezamos a convencernos de lo que no podemos: o somos malos para la matemática, o no nacimos para la música, o no podemos manejar nuestra ira, o nos es imposible superar el miedo. Este libro sostiene y demuestra que, independientemente del momento de nuestra existencia que atravesemos, podemos demoler esas creencias y cambiar ideas y sentimientos, aun aquellos más profundamente arraigados, aprendiendo a conversar. En efecto, la conversación —con otros y con nosotros— es la herramienta más extraordinaria para transformar nuestra vida.
+Después del éxito mundial de La vida secreta de la mente, Mariano Sigman reúne los avances más recientes de la neurociencia y los combina con historias de vida y una dosis importante de humor para explicar cómo y por qué las buenas conversaciones mejoran nuestras decisiones, ideas, memoria y emociones. He aquí un poder que está a nuestro alcance y podemos emplear para cambiar nuestra mente y tener una vida mejor: el poder de las palabras.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">71363</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Autoayuda</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:08:35.196705+00:00"/>
+        <meta name="calibre:title_sort" content="poder de las palabras, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

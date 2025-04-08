@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2815</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2af797a-3ba2-4e89-a545-e705af204ba6</dc:identifier>
+        <dc:title>La espera</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-10-11T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;La detective del Departamento de Policía de Los Ángeles Renée Ballard sigue los pasos de un aterrador violador múltiple cuyo rastro se ha perdido. Cuenta con la ayuda de la voluntaria más nueva de la Unidad de Casos Abiertos: la patrullera Maddie Bosch, hija de Harry.&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Renée Ballard y la Unidad de Casos Abiertos de la policía de Los Ángeles encuentran una relación de ADN entre un hombre recientemente detenido y un violador y asesino en serie del que no se había tenido noticia en los últimos veinte años. El detenido solo tiene veintitrés años, por lo que el vínculo genético tiene que ser familiar. En efecto, es hijo del Violador de la Almohada, responsable de aterrorizar la ciudad de Los Ángeles durante cinco años. Sin embargo, cuando Ballard y su equipo van a por el sospechoso, se encuentran con una desconcertante trama de secretos y obstáculos legales. &lt;/p&gt;&lt;p&gt;Entretanto, a Ballard le roban la placa, el arma y la identificación, y ella no puede denunciar ese robo...</dc:description>
+        <dc:publisher>AdN</dc:publisher>
+        <dc:identifier opf:scheme="MOBI">asin:B0DFZH7ZBQ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-20T10:21:16+00:00"/>
+        <meta name="calibre:title_sort" content="espera, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

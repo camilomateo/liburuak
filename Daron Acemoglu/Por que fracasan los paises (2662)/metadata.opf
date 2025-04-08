@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2662</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">067ddff9-0ff3-4f6b-90ac-ff83347311ad</dc:identifier>
+        <dc:title>Por qué fracasan los países</dc:title>
+        <dc:creator opf:file-as="Daron Acemoglu &amp; James A. Robinson" opf:role="aut">Daron Acemoglu</dc:creator>
+        <dc:creator opf:file-as="Daron Acemoglu &amp; James A. Robinson" opf:role="aut">James A. Robinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-31T23:00:00+00:00</dc:date>
+        <dc:description>¿Qué determina que un país sea rico o pobre? ¿Cómo se explica que, en condiciones similares, en algunos países haya hambrunas y en otros no? ¿Qué papel juega la política en estas cuestiones?Nogales (Arizona) y Nogales (Sonora) tienen la misma población, cultura y situación geográfica. ¿Por qué una es rica y otra pobre? ¿Por qué Botsuana es uno de los países africanos con mayor desarrollo y, en cambio, países vecinos como Zimbabue, Congo o Sierra Leona están sumidos en la más desesperante pobreza? ¿Por qué Corea del Norte es uno de los países más pobres del mundo y Corea del Sur uno de los más prósperos?Por qué fracasan los países responde a estas y otras cuestiones con una nueva y convincente teoría: la prosperidad no se debe al clima, a la geografía o a la cultura, sino a las políticas dictaminadas por las instituciones de cada país. Debido a ello, los países no conseguirán que sus economías crezcan hasta que no dispongan de instituciones gubernamentales que desarrollen políticas acertadas.Asimismo, los autores responden a las siguientes cuestiones:? China está creciendo a un ritmo trepidante. ¿Hasta cuándo podrá seguir creciendo al mismo ritmo? ¿Acabará por aplastar al mundo occidental?? ¿Hasta cuándo será Estados Unidos una potencia mundial? ¿Su sistema económico es apto para competir en las próximas décadas?? ¿Cuál es el mejor método para sacar de la pobreza a millones de personas? ¿Realmente las ayudas de Occidente ayudan a erradicar las hambrunas?A través de una cuidada selección de ejemplos históricos y actuales (desde la antigua Roma pasando por los Tudor y llegando a la China moderna) los reconocidos profesores Daron Acemoglu y James A. Robinson harán que usted vea el mundo, y sus problemas, de un modo completamente distinto.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencias sociales</dc:subject>
+        <dc:subject>Ensayo</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T05:58:41.528168+00:00"/>
+        <meta name="calibre:title_sort" content="Por qué fracasan los países"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

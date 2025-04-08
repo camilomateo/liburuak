@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3083</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">560f3502-1c17-4685-b18f-fcdb0f289238</dc:identifier>
+        <dc:title>Termita</dc:title>
+        <dc:creator opf:file-as="Albizua, Garazi" opf:role="aut">Garazi Albizua</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-21T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Termita narra, en primera persona, el día a día de una mujer ya no tan joven que vive con su abuela y que trabaja de teleoperadora. Esta voz narrativa es rebelde y macarra, irónica e impredecible. No cumple ninguna de las expectativas que la sociedad patriarcal impone sobre la mujer: su cuerpo no normativo, su sexualidad voraz, su rechazo al papel de cuidadora y su condición de no-madre la convierten, a ojos de otros, en un ser marginal. Pero la voz narrativa se rebela contra esa marginalidad, no narra desde la condición de víctima, no pretende dar pena ni apelar a la empatía. Se expresa sin ningún tipo de conmiseración en capítulos breves de escritura destilada y rotunda, manejando con gran inteligencia las elipsis y los silencios. Con un aura punk triste que lo impregna todo, reflexiona sin tapujos sobre su relación con la comida, el sexo, la explotación laboral, los afectos; sobre cómo la pobreza y la exclusión social se heredan, cómo las violencias pasadas se reproducen, generación tras generación, en los cuerpos de las menos privilegiadas. Y también expresa, rompiendo estereotipos y con suma originalidad, el amor entre una nieta y su abuela. Termita es toda una impugnación a las convenciones sociales y familiares, a las obligaciones laborales y afectivas del capitalismo. Y también una impugnación a las expectativas y las estructuras de la novela y de la ficción.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-02-23T09:50:03+00:00"/>
+        <meta name="calibre:title_sort" content="Termita"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

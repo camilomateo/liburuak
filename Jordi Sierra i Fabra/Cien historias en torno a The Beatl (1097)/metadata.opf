@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1097</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1cee3fc-728d-4ddd-bf26-3b83b3ef8622</dc:identifier>
+        <dc:title>Cien historias en torno a The Beatles</dc:title>
+        <dc:creator opf:file-as="Jordi Sierra i Fabra" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-25T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Se ha escrito mucho acerca de los Beatles. Miles de libros desmenuzando su vida y su obra. Pero siempre es buen momento para uno más, sobre todo si nos sirve para acercarnos a su lado más humano o insólito, curioso y no siempre conocido, y muy especialmente si lo escribe uno de los mayores expertos mundiales sobre ellos, autor, entre otros, de la novela “El joven Lennon” o los clásicos “Diccionario” y “Diario de los Beatles” junto a diversas biografías. Este es pues un viaje con cien paradas, cien momentos, cien historias que nos harán seguir amando al grupo que cambió la historia.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SiF</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Musica</dc:subject>
+        <meta name="calibre:timestamp" content="2023-12-28T14:38:21.839930+00:00"/>
+        <meta name="calibre:title_sort" content="Cien historias en torno a The Beatles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

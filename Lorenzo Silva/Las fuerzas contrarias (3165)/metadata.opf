@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16a8394d-114e-4d21-8e02-aa2f46fe4d59</dc:identifier>
+        <dc:title>Las fuerzas contrarias</dc:title>
+        <dc:creator opf:file-as="Silva, Lorenzo" opf:role="aut">Lorenzo Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>El subteniente Bevilacqua y la brigada Chamorro tendrán que enfrentarse a no de los mayores retos de su carrera: el esclarecimiento simultáneo de dos muertes en el momento más crítico que ha vivido nuestra sociedad en las últimas décadas.
+Dos casos que dejan huella en una novela que nos habla sobre cómo con ocasión de la pandemia se dejan sentir las fuerzas adversas a nuestro bien común, a nuestro futuro, a nuestra esperanza; unas fuerzas que vienen de más atrás y van más allá de la acción del virus.
+Una narración que explora, a través del género negro y de la complicidad entre un hombre y una mujer que llevan media vida batallando juntos, esa conmoción colectiva tras la que nada, tampoco para ellos, volverá a ser igual.
+La historia más íntima de Bevilacqua y Chamorro. Una doble investigación en tiempos oscuros que los unirá como nunca y marcará un giro en su relación.</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423367306</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Bevilacqua y Chamorro"/>
+        <meta name="calibre:series_index" content="14"/>
+        <meta name="calibre:timestamp" content="2025-03-14T13:34:11.683723+00:00"/>
+        <meta name="calibre:title_sort" content="fuerzas contrarias, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

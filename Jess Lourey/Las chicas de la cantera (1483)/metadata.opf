@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1483</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">540dd9df-0398-45af-98a4-793547fda8be</dc:identifier>
+        <dc:title>Las chicas de la cantera</dc:title>
+        <dc:creator opf:file-as="Lourey, Jess" opf:role="aut">Jess Lourey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En este idílico pueblo, tu vecino puede ser un asesino. ¿Quién será la próxima víctima? Minnesota, 1977. Para los adolescentes de un pueblo en el que todos se conocen, el verano significa fiestas, nadar en la cantera, ir a la feria del condado y aventurarse en los túneles de la ciudad. Pero para Heather no todo es diversión y juegos. Heather y su amiga Brenda tienen un secreto. Vieron algo en la oscuridad, algo que no pueden olvidar. Juraron no contárselo a nadie, pero su juramento se ve puesto a prueba cuando su amiga Maureen desaparece. A pesar de que es la segunda chica que lo hace en una semana, las autoridades se muestran reacias a investigar. Heather teme que las jóvenes desaparecidas estén relacionadas con lo que presenció aquella noche. Buscando desesperadamente respuestas por su cuenta, descubre que nadie en su comunidad es quien parece ser. Ni la policía, ni los chicos que conoció en la cantera, ni siquiera sus padres. Pero no puede dejar de investigar, porque sabe que esas chicas están en peligro. Además, también sabe que ella es la siguiente.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Principal de los Libros</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-30T15:13:18.486982+00:00"/>
+        <meta name="calibre:title_sort" content="chicas de la cantera, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

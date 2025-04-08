@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2038</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32d7dc58-0ad0-43e6-b741-88c1e0d0a3a3</dc:identifier>
+        <dc:title>Peter Pan y Wendy</dc:title>
+        <dc:creator opf:file-as="Barrie, James Matthew" opf:role="aut">James Matthew Barrie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-06T12:09:02.037166+00:00"/>
+        <meta name="calibre:title_sort" content="Peter Pan y Wendy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2795</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94e464bd-ddc6-4659-9bdd-28d48a732efd</dc:identifier>
+        <dc:title>Contra el dolor</dc:title>
+        <dc:creator opf:file-as="Fernández, Empar" opf:role="aut">Empar Fernández</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-09-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Daniela Ventura es una mujer racional que no cree en señales; sin embargo, cuando al poner el pie en la calle encuentra una paloma muerta frente a su portal, tiene un mal presentimiento. Y no se equivoca. Al llegar a la consulta médica en la que trabaja, advierte que Irene Solís, su mejor amiga desde la infancia, no está al frente de la recepción. No ha avisado y no responde al teléfono.&lt;br&gt;Comienza entonces una búsqueda desesperada contra reloj que la enfrentará con todo lo que desconocía sobre su amiga y la obligará a alejarse de su trabajo ante la posibilidad de estar implicada en una trama criminal de falsificación de recetas. Durante el proceso verá peligrar, no solo su amistad con Irene, también su propia vida, y estrechará la relación con alguien a quien amó y a quien creía haber olvidado.&lt;br&gt;Tras una larga trayectoria con la desigualdad y la injusticia social presentes en la mayoría de sus tramas, Empar Fernández regresa con un thriller que sitúa el foco en la crisis global de los analgésicos opioides.&lt;br&gt;Contra el dolor aborda además temas tan actuales como la precariedad laboral, la capacidad redentora de la amistad o la dificultad de crecer en el seno de una familia disfuncional. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Eunate</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-01-09T07:28:26.736344+00:00"/>
+        <meta name="calibre:title_sort" content="Contra el dolor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

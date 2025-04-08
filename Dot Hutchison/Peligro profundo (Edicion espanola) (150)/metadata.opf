@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">150</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c4bf367-6a54-4afa-ab6f-b99fb34b6921</dc:identifier>
+        <dc:title>Peligro profundo (Edición española)</dc:title>
+        <dc:creator opf:file-as="Hutchison, Dot" opf:role="aut">Dot Hutchison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-04T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;La estudiante Rebecca Sorley es como cualquier otra que puedas 
+encontrar en la Universidad de Florida: intenta mantenerse al día con 
+sus estudios, sus amigos y sobre todo con su compañera de habitación 
+Ellie, muy propensa a buscarse problemas con la ley…&lt;br&gt;&lt;br&gt;Cuando 
+aparece el cadáver flotando de uno de los estudiantes en el agua en un 
+área infestada de caimanes, la universidad aconseja a los estudiantes 
+permanecer alejados de los reptiles. Pero cuando encuentran un segundo 
+cuerpo la policía tiene claro que no ha sido un accidente, además los 
+dos jóvenes pertenecían a una misma fraternidad, de reputación dudosa 
+pues siempre estaba en el punto de mira por atacar y herir a mujeres. 
+Las amigas de Ellie recuerdan cómo ésta en múltiples ocasiones había 
+amenazado con matar a todos aquellos hombres que no aceptaran un NO por 
+respuesta, pero pensaban que formaba parte de su fuerte carácter… Ahora 
+poco a poco empiezan a sospechar de ella, pues está claro que hay un 
+asesino en serie suelto por el campus…un asesino que conoce muy bien a 
+sus víctimas, alguien dispuesto a salvar a las mujeres de crímenes 
+horribles…Un asesino anda suelto, y no es quien imaginas.&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Dot Hutchison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-19T07:55:24.605511+00:00"/>
+        <meta name="calibre:title_sort" content="Peligro profundo (Edición española)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

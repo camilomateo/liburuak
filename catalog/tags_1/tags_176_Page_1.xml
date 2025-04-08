@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Stories</title>
+  <id>Calibre2opds:taglist:S:176</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_176_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Stories" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por S" />
+  <link href="../tags_1/tags_176_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 de 2)" />
+  <entry>
+    <title>Adán y Eva en el paraíso</title>
+    <id>calibre:book:2122</id>
+    <updated>2024-09-06T02:21:19Z</updated>
+    <link href="../../Eca%20de%20Queiros/Adan%20y%20Eva%20en%20el%20paraiso%20%282122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eca%20de%20Queiros/Adan%20y%20Eva%20en%20el%20paraiso%20%282122%29/Adan%20y%20Eva%20en%20el%20paraiso%20-%20Eca%20de%20Queiros.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="236 KB" />
+    <author>
+      <name>Eça de Queirós</name>
+      <uri>../authors_1/authors_1506_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Adam" />
+    <category term="(Biblical" />
+    <category term="figure)" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Eve" />
+    <category term="Short" />
+    <category term="Stories" />
+    <category term="Portuguese" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="Spanish" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2122.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Adventures of Huckleberry Finn</title>
+    <id>calibre:book:2084</id>
+    <updated>2024-09-06T02:09:09Z</updated>
+    <link href="../../Mark%20Twain/Adventures%20of%20Huckleberry%20Finn%20%282084%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mark%20Twain/Adventures%20of%20Huckleberry%20Finn%20%282084%29/Adventures%20of%20Huckleberry%20Finn%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="7 MB" />
+    <author>
+      <name>Mark Twain</name>
+      <uri>../authors_1/authors_1488_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Humorous" />
+    <category term="Stories" />
+    <category term="Bildungsromans" />
+    <category term="Boys" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Male" />
+    <category term="friendship" />
+    <category term="Adventure" />
+    <category term="Missouri" />
+    <category term="Race" />
+    <category term="relations" />
+    <category term="Runaway" />
+    <category term="Children" />
+    <category term="Finn" />
+    <category term="Huckleberry" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="Fugitive" />
+    <category term="slaves" />
+    <category term="Mississippi" />
+    <category term="River" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [292]:</summary>
+    <link href="../book_2/book_2084.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Adventures of Sherlock Holmes</title>
+    <id>calibre:book:2074</id>
+    <updated>2024-09-06T02:09:08Z</updated>
+    <link href="../../Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes%20%282074%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes%20%282074%29/The%20Adventures%20of%20Sherlock%20Holm%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="278 KB" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Holmes" />
+    <category term="Sherlock" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Private" />
+    <category term="investigators" />
+    <category term="England" />
+    <category term="Detective" />
+    <category term="and" />
+    <category term="mystery" />
+    <category term="Stories" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [285]:</summary>
+    <link href="../book_2/book_2074.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Journey to the Centre of the Earth</title>
+    <id>calibre:book:2085</id>
+    <updated>2024-09-06T02:09:10Z</updated>
+    <link href="../../Jules%20Verne/A%20Journey%20to%20the%20Centre%20of%20the%20Eart%20%282085%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jules%20Verne/A%20Journey%20to%20the%20Centre%20of%20the%20Eart%20%282085%29/A%20Journey%20to%20the%20Centre%20of%20the%20-%20Jules%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="304 KB" />
+    <author>
+      <name>Jules Verne</name>
+      <uri>../authors_1/authors_1487_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Science" />
+    <category term="Fiction" />
+    <category term="Adventure" />
+    <category term="Stories" />
+    <category term="Earth" />
+    <category term="(Planet)" />
+    <category term="--" />
+    <category term="Core" />
+    <category term="Voyages" />
+    <category term="Imaginary" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2085.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alice's Adventures in Wonderland</title>
+    <id>calibre:book:2075</id>
+    <updated>2024-09-06T02:09:08Z</updated>
+    <link href="../../Lewis%20Carroll/Alice%27s%20Adventures%20in%20Wonderland%20%282075%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lewis%20Carroll/Alice%27s%20Adventures%20in%20Wonderland%20%282075%29/Alice%27s%20Adventures%20in%20Wonderlan%20-%20Lewis%20Carroll.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="121 KB" />
+    <author>
+      <name>Lewis Carroll</name>
+      <uri>../authors_1/authors_1462_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Imaginary" />
+    <category term="places" />
+    <category term="--" />
+    <category term="Juvenile" />
+    <category term="Alice" />
+    <category term="(Fictitious" />
+    <category term="character" />
+    <category term="from" />
+    <category term="Carroll)" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [286]:</summary>
+    <link href="../book_2/book_2075.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Anna Karenina</title>
+    <id>calibre:book:2255</id>
+    <updated>2024-09-09T10:33:53Z</updated>
+    <link href="../../graf%20Leo%20Tolstoy/Anna%20Karenina%20%282255%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../graf%20Leo%20Tolstoy/Anna%20Karenina%20%282255%29/Anna%20Karenina%20-%20graf%20Leo%20Tolstoy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="783 KB" />
+    <author>
+      <name>graf Leo Tolstoy</name>
+      <uri>../authors_1/authors_1582_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Adultery" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Didactic" />
+    <category term="Love" />
+    <category term="Stories" />
+    <category term="Married" />
+    <category term="Women" />
+    <category term="Russia" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2255.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Around the World in Eighty Days</title>
+    <id>calibre:book:2083</id>
+    <updated>2024-09-06T02:09:09Z</updated>
+    <link href="../../Jules%20Verne/Around%20the%20World%20in%20Eighty%20Days%20%282083%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jules%20Verne/Around%20the%20World%20in%20Eighty%20Days%20%282083%29/Around%20the%20World%20in%20Eighty%20Days%20-%20Jules%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="238 KB" />
+    <author>
+      <name>Jules Verne</name>
+      <uri>../authors_1/authors_1487_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Adventure" />
+    <category term="Stories" />
+    <category term="Voyages" />
+    <category term="around" />
+    <category term="the" />
+    <category term="world" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2083.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Baree, Son of Kazan</title>
+    <id>calibre:book:2506</id>
+    <updated>2024-09-09T10:34:44Z</updated>
+    <link href="../../James%20Oliver%20Curwood/Baree%2C%20Son%20of%20Kazan%20%282506%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Oliver%20Curwood/Baree%2C%20Son%20of%20Kazan%20%282506%29/Baree%2C%20Son%20of%20Kazan%20-%20James%20Oliver%20Curwood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="456 KB" />
+    <author>
+      <name>James Oliver Curwood</name>
+      <uri>../authors_1/authors_1661_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Dogs" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Western" />
+    <category term="Stories" />
+    <category term="Wolves" />
+    <category term="Nature" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2506.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Christmas Carol</title>
+    <id>calibre:book:2079</id>
+    <updated>2024-09-06T02:09:09Z</updated>
+    <link href="../../Charles%20Dickens/A%20Christmas%20Carol%20%282079%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charles%20Dickens/A%20Christmas%20Carol%20%282079%29/A%20Christmas%20Carol%20-%20Charles%20Dickens.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="125 KB" />
+    <author>
+      <name>Charles Dickens</name>
+      <uri>../authors_1/authors_1370_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Christmas" />
+    <category term="Stories" />
+    <category term="London" />
+    <category term="(England)" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Poor" />
+    <category term="families" />
+    <category term="Ghost" />
+    <category term="Misers" />
+    <category term="Sick" />
+    <category term="Children" />
+    <category term="Scrooge" />
+    <category term="Ebenezer" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [288]:</summary>
+    <link href="../book_2/book_2079.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El clavo</title>
+    <id>calibre:book:2131</id>
+    <updated>2024-09-06T02:21:21Z</updated>
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20clavo%20%282131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pedro%20Antonio%20de%20Alarcon/El%20clavo%20%282131%29/El%20clavo%20-%20Pedro%20Antonio%20de%20Alarcon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="776 KB" />
+    <author>
+      <name>Pedro Antonio de Alarcón</name>
+      <uri>../authors_1/authors_1509_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Detective" />
+    <category term="and" />
+    <category term="mystery" />
+    <category term="Stories" />
+    <category term="Spanish" />
+    <category term="Fiction" />
+    <category term="--" />
+    <category term="19th" />
+    <category term="century" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2131.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crime and Punishment</title>
+    <id>calibre:book:2475</id>
+    <updated>2024-09-09T10:34:38Z</updated>
+    <link href="../../Fyodor%20Dostoyevsky/Crime%20and%20Punishment%20%282475%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fyodor%20Dostoyevsky/Crime%20and%20Punishment%20%282475%29/Crime%20and%20Punishment%20-%20Fyodor%20Dostoyevsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="540 KB" />
+    <author>
+      <name>Fyodor Dostoyevsky</name>
+      <uri>../authors_1/authors_1651_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Detective" />
+    <category term="and" />
+    <category term="mystery" />
+    <category term="Stories" />
+    <category term="Psychological" />
+    <category term="Fiction" />
+    <category term="Saint" />
+    <category term="Petersburg" />
+    <category term="(Russia)" />
+    <category term="--" />
+    <category term="Murder" />
+    <category term="Crime" />
+    <category term="aspects" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2475.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crónicas de Marianela</title>
+    <id>calibre:book:2117</id>
+    <updated>2024-09-06T02:21:18Z</updated>
+    <link href="../../Angelica%20Palma/Cronicas%20de%20Marianela%20%282117%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Angelica%20Palma/Cronicas%20de%20Marianela%20%282117%29/Cronicas%20de%20Marianela%20-%20Angelica%20Palma.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="194 KB" />
+    <author>
+      <name>Angélica Palma</name>
+      <uri>../authors_1/authors_1504_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Short" />
+    <category term="Stories" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2117.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cuentos de poeta</title>
+    <id>calibre:book:2110</id>
+    <updated>2024-09-06T02:21:17Z</updated>
+    <link href="../../Rufino%20Blanco-Fombona/Cuentos%20de%20poeta%20%282110%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rufino%20Blanco-Fombona/Cuentos%20de%20poeta%20%282110%29/Cuentos%20de%20poeta%20-%20Rufino%20Blanco-Fombona.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="126 KB" />
+    <author>
+      <name>Rufino Blanco-Fombona</name>
+      <uri>../authors_1/authors_1497_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Venezuelan" />
+    <category term="Fiction" />
+    <category term="Short" />
+    <category term="Stories" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2110.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Little Black Sambo</title>
+    <id>calibre:book:2066</id>
+    <updated>2024-09-06T02:09:07Z</updated>
+    <link href="../../Helen%20Bannerman/Little%20Black%20Sambo%20%282066%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Helen%20Bannerman/Little%20Black%20Sambo%20%282066%29/Little%20Black%20Sambo%20-%20Helen%20Bannerman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>Helen Bannerman</name>
+      <uri>../authors_1/authors_1481_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Boys" />
+    <category term="--" />
+    <category term="Juvenile" />
+    <category term="Fiction" />
+    <category term="India" />
+    <category term="Tiger" />
+    <category term="Pride" />
+    <category term="and" />
+    <category term="vanity" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [275]:</summary>
+    <link href="../book_2/book_2066.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los Merodeadores de Fronteras</title>
+    <id>calibre:book:2499</id>
+    <updated>2024-09-09T10:34:43Z</updated>
+    <link href="../../Gustave%20Aimard/Los%20Merodeadores%20de%20Fronteras%20%282499%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gustave%20Aimard/Los%20Merodeadores%20de%20Fronteras%20%282499%29/Los%20Merodeadores%20de%20Fronteras%20-%20Gustave%20Aimard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="296 KB" />
+    <author>
+      <name>Gustave Aimard</name>
+      <uri>../authors_1/authors_1657_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Western" />
+    <category term="Stories" />
+    <category term="Texas" />
+    <category term="--" />
+    <category term="History" />
+    <category term="to" />
+    <category term="1846" />
+    <category term="Fiction" />
+    <category term="Lang:es" />
+    <link href="../book_2/book_2499.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pride and Prejudice</title>
+    <id>calibre:book:2073</id>
+    <updated>2024-09-06T02:09:08Z</updated>
+    <link href="../../Jane%20Austen/Pride%20and%20Prejudice%20%282073%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jane%20Austen/Pride%20and%20Prejudice%20%282073%29/Pride%20and%20Prejudice%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="379 KB" />
+    <author>
+      <name>Jane Austen</name>
+      <uri>../authors_1/authors_1484_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="England" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Young" />
+    <category term="Women" />
+    <category term="Love" />
+    <category term="Stories" />
+    <category term="Sisters" />
+    <category term="Domestic" />
+    <category term="Courtship" />
+    <category term="Social" />
+    <category term="classes" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [282]:</summary>
+    <link href="../book_2/book_2073.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Tales of Mother Goose</title>
+    <id>calibre:book:2067</id>
+    <updated>2024-09-06T02:09:07Z</updated>
+    <link href="../../Charles%20Perrault/The%20Tales%20of%20Mother%20Goose%20%282067%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charles%20Perrault/The%20Tales%20of%20Mother%20Goose%20%282067%29/The%20Tales%20of%20Mother%20Goose%20-%20Charles%20Perrault.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="525 KB" />
+    <author>
+      <name>Charles Perrault</name>
+      <uri>../authors_0/authors_105_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fairy" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="France" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="French" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [277]:</summary>
+    <link href="../book_2/book_2067.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Adventures of Tom Sawyer</title>
+    <id>calibre:book:2090</id>
+    <updated>2024-09-06T02:09:10Z</updated>
+    <link href="../../Mark%20Twain/The%20Adventures%20of%20Tom%20Sawyer%20%282090%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mark%20Twain/The%20Adventures%20of%20Tom%20Sawyer%20%282090%29/The%20Adventures%20of%20Tom%20Sawyer%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="9 MB" />
+    <author>
+      <name>Mark Twain</name>
+      <uri>../authors_1/authors_1488_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Humorous" />
+    <category term="Stories" />
+    <category term="Bildungsromans" />
+    <category term="Boys" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Male" />
+    <category term="friendship" />
+    <category term="Adventure" />
+    <category term="Missouri" />
+    <category term="Sawyer" />
+    <category term="Tom" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="Child" />
+    <category term="witnesses" />
+    <category term="Runaway" />
+    <category term="Children" />
+    <category term="Mississippi" />
+    <category term="River" />
+    <category term="Valley" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2090.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Golden Road</title>
+    <id>calibre:book:2503</id>
+    <updated>2024-09-09T10:34:44Z</updated>
+    <link href="../../L.%20M.%20Montgomery/The%20Golden%20Road%20%282503%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../L.%20M.%20Montgomery/The%20Golden%20Road%20%282503%29/The%20Golden%20Road%20-%20L.%20M.%20Montgomery.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="257 KB" />
+    <author>
+      <name>L. M. Montgomery</name>
+      <uri>../authors_1/authors_1660_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Prince" />
+    <category term="Edward" />
+    <category term="Island" />
+    <category term="--" />
+    <category term="Juvenile" />
+    <category term="Fiction" />
+    <category term="friendship" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Canadian" />
+    <category term="Authorship" />
+    <category term="Publishers" />
+    <category term="and" />
+    <category term="publishing" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2503.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Life and Adventures of Robinson Crusoe</title>
+    <id>calibre:book:2443</id>
+    <updated>2024-09-09T10:34:32Z</updated>
+    <link href="../../Daniel%20Defoe/The%20Life%20and%20Adventures%20of%20Robinson%20%282443%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Daniel%20Defoe/The%20Life%20and%20Adventures%20of%20Robinson%20%282443%29/The%20Life%20and%20Adventures%20of%20Robi%20-%20Daniel%20Defoe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="316 KB" />
+    <author>
+      <name>Daniel Defoe</name>
+      <uri>../authors_1/authors_1581_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Shipwreck" />
+    <category term="survival" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Islands" />
+    <category term="Crusoe" />
+    <category term="Robinson" />
+    <category term="(Fictitious" />
+    <category term="character)" />
+    <category term="Atlantic" />
+    <category term="Ocean" />
+    <category term="Adventure" />
+    <category term="Stories" />
+    <category term="Castaways" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2443.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The little mermaid</title>
+    <id>calibre:book:2093</id>
+    <updated>2024-09-06T02:09:12Z</updated>
+    <link href="../../H.%20C.%20Andersen/The%20little%20mermaid%20%282093%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20C.%20Andersen/The%20little%20mermaid%20%282093%29/The%20little%20mermaid%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="461 KB" />
+    <author>
+      <name>H. C. Andersen</name>
+      <uri>../authors_1/authors_1491_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fairy" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="Denmark" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Danish" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2093.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Man Without a Country</title>
+    <id>calibre:book:2541</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../Edward%20Everett%20Hale/The%20Man%20Without%20a%20Country%20%282541%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Edward%20Everett%20Hale/The%20Man%20Without%20a%20Country%20%282541%29/The%20Man%20Without%20a%20Country%20-%20Edward%20Everett%20Hale.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="275 KB" />
+    <author>
+      <name>Edward Everett Hale</name>
+      <uri>../authors_1/authors_1680_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <category term="Sea" />
+    <category term="Stories" />
+    <category term="Short" />
+    <category term="American" />
+    <category term="Soldiers" />
+    <category term="--" />
+    <category term="Stateless" />
+    <category term="persons" />
+    <category term="Exiles" />
+    <category term="Burr" />
+    <category term="Conspiracy" />
+    <category term="1805-1807" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2541.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Mill on the Floss</title>
+    <id>calibre:book:2536</id>
+    <updated>2024-09-09T10:34:52Z</updated>
+    <link href="../../George%20Eliot/The%20Mill%20on%20the%20Floss%20%282536%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20Eliot/The%20Mill%20on%20the%20Floss%20%282536%29/The%20Mill%20on%20the%20Floss%20-%20George%20Eliot.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="577 KB" />
+    <author>
+      <name>George Eliot</name>
+      <uri>../authors_1/authors_1677_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="England" />
+    <category term="--" />
+    <category term="Fiction" />
+    <category term="Psychological" />
+    <category term="Young" />
+    <category term="Women" />
+    <category term="Love" />
+    <category term="Stories" />
+    <category term="Domestic" />
+    <category term="Siblings" />
+    <category term="Conflict" />
+    <category term="of" />
+    <category term="generations" />
+    <category term="Vendetta" />
+    <category term="Loss" />
+    <category term="(Psychology)" />
+    <category term="Water" />
+    <category term="mills" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2536.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Mysterious Island</title>
+    <id>calibre:book:2086</id>
+    <updated>2024-09-06T02:09:10Z</updated>
+    <link href="../../Jules%20Verne/The%20Mysterious%20Island%20%282086%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jules%20Verne/The%20Mysterious%20Island%20%282086%29/The%20Mysterious%20Island%20-%20Jules%20Verne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="507 KB" />
+    <author>
+      <name>Jules Verne</name>
+      <uri>../authors_1/authors_1487_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Science" />
+    <category term="Fiction" />
+    <category term="Adventure" />
+    <category term="Stories" />
+    <category term="Castaways" />
+    <category term="--" />
+    <category term="Islands" />
+    <category term="of" />
+    <category term="the" />
+    <category term="Pacific" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2086.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The snow Queen</title>
+    <id>calibre:book:2095</id>
+    <updated>2024-09-06T02:09:12Z</updated>
+    <link href="../../H.%20C.%20Andersen/The%20snow%20Queen%20%282095%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../H.%20C.%20Andersen/The%20snow%20Queen%20%282095%29/The%20snow%20Queen%20-%20H.%20C.%20Andersen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="893 KB" />
+    <author>
+      <name>H. C. Andersen</name>
+      <uri>../authors_1/authors_1491_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Fairy" />
+    <category term="tales" />
+    <category term="--" />
+    <category term="Denmark" />
+    <category term="Children's" />
+    <category term="Stories" />
+    <category term="Danish" />
+    <category term="Translations" />
+    <category term="into" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <link href="../book_2/book_2095.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

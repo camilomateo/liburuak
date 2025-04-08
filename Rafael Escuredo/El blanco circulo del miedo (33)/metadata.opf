@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c350452-16a9-4396-a70f-a586bbb313e0</dc:identifier>
+        <dc:title>El blanco círculo del miedo</dc:title>
+        <dc:creator opf:file-as="Escuredo, Rafael" opf:role="aut">Rafael Escuredo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-03T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;El cruel y brutal asesinato de Claudia Morante trae de cabeza al 
+inspector Sobrado y sus companeros de brigada criminal. Ignacio Lama, 
+joven ejecutivo del sector financiero cuyos únicos intereses son las 
+mujeres y el dinero, y último amante de la víctima, es su máximo 
+sospechoso. Su involuntaria implicación en el asesinato precipita los 
+acontecimientos y pone en pleigo su plan para chantejear a los 
+directivos del banco donde trabaja. Mientras los bonos basura arrastran a
+ la entidad bancaria y sus altos cargos a una deuda millonaria, la 
+brigada investiga el caso a contrarreloj para descubrir la oscura trama 
+que se oculta tral el Dam, el bar de copas donde Ignacio y Claudia 
+solían acudir en sus noches de juerga.&lt;/p&gt;</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Rafael Escuredo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:20:12.754734+00:00"/>
+        <meta name="calibre:title_sort" content="blanco círculo del miedo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

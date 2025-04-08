@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">217</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ea31d8f-fee5-42f1-ab24-8f0caba868be</dc:identifier>
+        <dc:title>Dioses contra microbios</dc:title>
+        <dc:creator opf:file-as="Gándara, Alejandro" opf:role="aut">Alejandro Gándara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;No es frecuente apartarse de los caminos trillados para abordar una realidad tan abrumadora como la pandemia de la Covid-19, y eso lo consigue en esta original obra el profesor y escritor Alejandro Gándara. Por una parte, es un libro escrito desde la perplejidad del hombre confinado que, desubicado, busca comprender con detalles de la vida familiar, los vecinos y la ciudad que contempla desde la ventana. Pero sobre todo es una obra que busca desplazar la atención a «la visión que nuestras fuentes culturales y espirituales, principal pero no exclusivamente griegas, ofrecieron ante las mismas y a menudo mayores dificultades», un legado que hemos ido olvidando.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;Entre la Ilíada y Platón, entre Edipo y el oráculo de Delfos, o Aquiles, Príamo y Odiseo, Gándara ofrece destellos de una luminosa lucidez, como si aquellos griegos inaugurales hubieran intuido cómo afrontar una situación tan devastadora. El autor salpica además el texto de acertadas y concisas pinceladas sobre el mundo actual –desde el papel de los medios de comunicación o los políticos al contagio de un pensamiento ideologizado–, pero sin renunciar a un registro íntimo, de la biopolítica que mutila a Eros, de la dudosa cualidad de las cifras, de la cuantificación, como reflejo homogeneizador del dolor, la soledad y el desamparo.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ariel</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2023-01-27T10:54:38+00:00"/>
+        <meta name="calibre:title_sort" content="Dioses contra microbios"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

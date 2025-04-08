@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">244</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0383bc2f-5bfe-4a79-a24c-54d2c56ed7ff</dc:identifier>
+        <dc:title>Cataluña año cero</dc:title>
+        <dc:creator opf:file-as="Ekaizer, Ernesto" opf:role="aut">Ernesto Ekaizer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-25T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;Un relato vertiginoso y sorprendente contará punto por punto qué ocurrió los tres días previos a la fallida declaración unilateral de independencia del 27-O y lo que aconteció en las horas inmediatamente posteriores. Por medio de distintas fuentes del autor, sabremos, por vez primera, sucesos que no han trascendido a la opinión pública y que ayudarán a entender la gran mentira que se ocultaba y que se oculta tras el plan soberanista. Como gran experto en tribunales, Ernesto Ekaizer ha seguido todo el proceso judicial e incorpora en el libro la sentencia de los políticos presos. Un libro fundamental para entender un proceso político que a punto estuvo de derrumbar nuestro estado de Derecho.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ernesto Ekaizer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-02T19:58:29.388038+00:00"/>
+        <meta name="calibre:title_sort" content="Cataluña año cero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1766</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5fdfc22-de49-456c-a348-51131340a6ac</dc:identifier>
+        <dc:title>Un mundo extraño</dc:title>
+        <dc:creator opf:file-as="Isabel Güell" opf:role="aut">Isabel Güell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-19T06:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;Un&lt;/B&gt;&lt;B&gt;libro que&lt;/B&gt; &lt;B&gt;nos&lt;/B&gt; &lt;B&gt;invita a&lt;/B&gt; &lt;B&gt;maravillarnos ante la&lt;/B&gt; &lt;B&gt;complejidad de la&lt;/B&gt; &lt;B&gt;mente&lt;/B&gt; &lt;B&gt;humana.&lt;/B&gt;&lt;/P&gt;&lt;P&gt;A través de casos clínicos y con la pandemia como telón de fondo, este libro explora el extraño mundo de las enfermedadesneurológicas y juega con nuestra forma de experimentar el día a día para guiarnos por los maravillosos caminos de la mente.&lt;/P&gt;&lt;P&gt;Gracias a su dilatada experiencia como neuróloga y su enorme capacidad divulgadora, la doctora Isabel Güell se asoma al ámbito del recuerdoy la memoria, de las emociones, de los sentidos, del libre albedrio, del lenguaje o de la personalidad. Cuestiones complejasy enigmáticas que no solo demuestran la curiosidad, laerudicióny la empatía de la autora, sino que, en su conjunto, se convierten en una espléndida indagación de la naturaleza humana.&lt;/P&gt;&lt;P&gt;El resultado es un libro vibrante y luminoso, escrito desde la pasión por los demás y con un gran talento literario que encaja en latradición de...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418967917</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:10.400920+00:00"/>
+        <meta name="calibre:title_sort" content="mundo extraño, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

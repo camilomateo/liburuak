@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88b3a55c-513d-4370-8c90-948e1201e2fb</dc:identifier>
+        <dc:title>No digas nada</dc:title>
+        <dc:creator opf:file-as="Patricia Gibney" opf:role="aut">Patricia Gibney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un asesino se esconde en una ciudad llena de secretos
+
+Una cálida noche de verano, Mikey Driscoll, de once años, no regresa a casa después de haber jugado un partido de fútbol. Dos días después, el cuerpo sin vida del pequeño aparece en un parterre rodeado de flores silvestres. Para la inspectora Lottie Parker, el caso es personal: Mikey era amigo de su hijo Sean.
+Cuando la inspectora empieza a investigar, pronto descubre que su hijo no le está contando toda la verdad, pero no sabe a quién protege ni por qué. Y todo se complica cuando hallan el cuerpo de otro niño asesinado, también rodeado de flores.
+
+Para atrapar al asesino antes de que vuelva a matar, Lottie deberá trabajar contra reloj, porque su propio hijo podría ser la próxima víctima en una ciudad en la que todo el mundo oculta algo.</dc:description>
+        <dc:publisher>Principal de los Libros</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B083V69WF1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Patricia Gibney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Lottie Parker"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2023-02-02T20:07:01.589788+00:00"/>
+        <meta name="calibre:title_sort" content="No digas nada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

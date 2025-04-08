@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1b007e0-a76b-42e4-b461-a40ce3e0cecf</dc:identifier>
+        <dc:title>Vuelo hacia la libertad</dc:title>
+        <dc:creator opf:file-as="Hoffman, Alice" opf:role="aut">Alice Hoffman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-13T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El diario de Ana Frank ha cautivado e inspirado a lectores durante décadas. Publicado póstumamente por su afligido padre, el diario de Ana, escrito mientras ella y su familia estaban escondidos durante la Segunda Guerra Mundial, se ha convertido en uno de los textos centrales de la experiencia judía durante el Holocausto, así como en una obra de gran valor literario. &lt;br&gt;&lt;br&gt;Con la ocupación nazi de los Países Bajos, la vida de la familia Frank da un vuelco. Los prejuicios, las pérdidas y el terror abundan, y Ana se ve obligada a ser testigo de cómo la gente corriente se convierte en monstruos, y cómo los niños y las familias quedan atrapados en una marea de violencia. &lt;br&gt;&lt;br&gt;En medio de un peligro imposible, Ana, audaz, creativa y valiente, descubre quién es ella realmente, y con una sabiduría muy superior a su edad, se convertirá en una escritora que cambiará el mundo tal como lo conocemos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VR Europa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6c355cc8-2dd7-4056-8a03-10d226a97e3d</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B0DSWN41SJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-10T15:00:48.709557+00:00"/>
+        <meta name="calibre:title_sort" content="Vuelo hacia la libertad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

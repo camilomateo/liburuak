@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1635</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c64f0e6-1ff2-4360-b7c1-2f481292b71e</dc:identifier>
+        <dc:title>La mala hierba</dc:title>
+        <dc:creator opf:file-as="Martínez, Agustín" opf:role="aut">Agustín Martínez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-03T22:00:00+00:00</dc:date>
+        <dc:description>Nada crece sano en esta tierra enferma. Pero la verdad siempre resurge, como la mala hierba. Tras perder su empleo, Jacobo se ve obligado empezar una nueva vida junto a Irene, su esposa, y Miriam, la hija adolescente de ambos, en las afueras de Portocarrero, un pueblo en pleno desierto de Almería donde no crece nada salvo la mala hierba. Jamás pensó que el tiempo que pasan allí podía terminar de forma tan dramática: unos desconocidos irrumpen en su viejo cortijo. Irene es asesinada. Jacobo, herido, cae en coma. Sin embargo, el infierno no ha hecho más que empezar. Meses después, cuando Jacobo despierta, la Guardia Civil le pone al tanto de los avances en la investigación. Tienen a un culpable. Al responsable que ordenó su asesinato. Y no es otro que su propia hija de catorce años: Miriam. Con la ayuda de Nora, la singular abogada de Miriam, que cree firmemente en la inocencia de su cliente, Jacobo intentará descubrir qué sucedió realmente esa noche. Pero a medida que avanza la investigación, saldrán a la luz nuevos interrogantes que afectan a la cerrada comunidad de Portocarrero, donde nadie parece inocente. La segunda novela del autor de Monteperdido alcanza nuevas cotas de suspense e intensidad que no dan tregua al lector, y lo atrapan en un envolvente thriller lleno de ritmo, dramatismo, giros inesperados y un desenlace sorprendente.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-22T12:04:41.151580+00:00"/>
+        <meta name="calibre:title_sort" content="mala hierba, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

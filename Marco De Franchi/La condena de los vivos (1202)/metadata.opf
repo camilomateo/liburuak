@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1202</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84bee17c-616e-423b-919f-25c4f332c111</dc:identifier>
+        <dc:title>La condena de los vivos</dc:title>
+        <dc:creator opf:file-as="De Franchi, Marco" opf:role="aut">Marco De Franchi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-04T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Un niño corre desnudo y muerto de miedo por el campo toscano. 
+Se llama Fosco y ha logrado escapar de su secuestrador. Pocos días más 
+tarde desaparece otro niño, Andrea. Solo tiene doce años y el hombre que
+ se lo ha llevado de su casa ha matado a cuchilladas al padre. El SCO 
+(Servicio Central Operativo, el equivalente al FBI italiano) pone al 
+frente del caso a su comisaria más joven, Valentina Medici, que se 
+traslada de inmediato a la zona. Los dos niños no se conocen y no tienen
+ nada en común, salvo un detalle extraordinario: se parecen mucho, tanto
+ que podrían ser gemelos. Los investigadores tan solo cuentan con una 
+pista sobre el captor: se trata de un hombre musculoso con el pelo 
+blanco y una sonrisa gélida. El asesino va sumando desapariciones y 
+cadáveres entre sus víctimas, y no solo niños con lo que la pista de la 
+pedofilia se abandona.&lt;/p&gt;&lt;p&gt;Valentina no cuenta con muchos
+ apoyos entre los miembros de su equipo, pronto descubre que solo puede 
+confiar en Fabio Costa, un experimentado policía de pasado oscuro 
+relegado a una insignificante comisaría de provincia. A medida que pasa 
+el tiempo los enigmas se hacen más indescifrables, Valentina se da 
+cuenta de que el artífice de los delitos responde a una obsesión 
+morbosa, una mente criminal perturbada que juega a transformar sus 
+locuras visionarias en realidad.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones  B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-06T17:13:11.565299+00:00"/>
+        <meta name="calibre:title_sort" content="condena de los vivos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

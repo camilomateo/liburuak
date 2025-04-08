@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">837</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd3f8c46-f144-4e8b-843c-31ca3365ddaa</dc:identifier>
+        <dc:title>Ocho millones de dioses</dc:title>
+        <dc:creator opf:file-as="Gil, David B." opf:role="aut">David B. Gil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-15T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="margin: 0px 0px 14px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); text-align: center;"&gt;&lt;b&gt;a novela definitiva de David B. Gil mezcla viajes e investigación criminal con aventuras de batallas y espadas en el Japón feudal.&lt;/b&gt;&lt;/p&gt;&lt;p style="margin: -4px 0px 14px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;b&gt;Un hombre de fe obligado a desentrañar los más terribles crímenes, un joven samurái erigido en su protector, un viaje a través de un país castigado por siglos de guerra.&lt;/b&gt;&lt;/p&gt;&lt;p style="margin: -4px 0px 14px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;b&gt;Toledo, 1579.&lt;/b&gt; El padre Martín Ayala recibe la inesperada encomienda de regresar a Japón -el país donde se formó como sacerdote y misionero- diez años después de ser apartado de la misión por su relación ilícita con una joven japonesa. Alguien está asesinando con ritual crueldad a los padres cristianos en dichas costas. Ayala, considerado el máximo conocedor del idioma y las costumbres niponas en el seno de la Iglesia, deberá desentrañar las razones que se ocultan tras estas muertes.&lt;/p&gt;&lt;p style="margin: -4px 0px 14px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;b&gt;Japón, año 7 de la Era Tenshô.&lt;/b&gt; Kudô Kenjirô, hijo de un samurái rural, es elegido para una ingrata labor: proteger a un extranjero llegado con la intención de investigar unos crímenes inciertos. Kenjirô pronto descubrirá que fuerzas extrañas conspiran para que el visitante no lleve a buen puerto sus pesquisas. Juntos recorrerán un Japón devastado por la guerra y emponzoñado por las conspiraciones. A medida que el jesuita se reencuentra con su pasado, el curso de la investigación se desvelará fundamental no solo para la pervivencia de la cristiandad, sino para el propio futuro del país.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Suma de Letras</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07Q47ZB71</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-09T11:56:07.412518+00:00"/>
+        <meta name="calibre:title_sort" content="Ocho millones de dioses"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

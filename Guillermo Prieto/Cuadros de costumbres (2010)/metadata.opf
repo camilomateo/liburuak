@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2010</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd409628-ffc0-4bd1-8d12-27651f8670db</dc:identifier>
+        <dc:title>Cuadros de costumbres</dc:title>
+        <dc:creator opf:file-as="Prieto, Guillermo" opf:role="aut">Guillermo Prieto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Fundación Carlos Slim</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Biblioteca PruébaT"/>
+        <meta name="calibre:series_index" content="83"/>
+        <meta name="calibre:timestamp" content="2024-09-06T11:57:45.113432+00:00"/>
+        <meta name="calibre:title_sort" content="Cuadros de costumbres"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

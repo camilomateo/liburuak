@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">73</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a6b4523-5aa7-488f-966d-a153ba7e4cb4</dc:identifier>
+        <dc:title>El otro lado del silencio</dc:title>
+        <dc:creator opf:file-as="Kerr, Philip" opf:role="aut">Philip Kerr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;En 1956, el exdetective Bernie Gunther vive en la Riviera 
+francesa. Debería llevar una existencia tranquila, pero eso es algo 
+imposible para él. El pasado de la guerra le alcanza de la mano de un 
+antiguo oficial nazi. Además, ha sido invitado a Villa Mauresque por el 
+célebre escritor William Somerset Maugham, quien está siendo chantajeado
+ y necesita ayuda.&lt;br&gt;Puede que se trate de una cuestión personal. O 
+puede que sea víctima de la batalla que el espionaje está librando en el
+ corazón de Europa.&lt;/div&gt;</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Philip Kerr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Bernie Gunther"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:timestamp" content="2023-01-18T11:02:42.207594+00:00"/>
+        <meta name="calibre:title_sort" content="otro lado del silencio, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

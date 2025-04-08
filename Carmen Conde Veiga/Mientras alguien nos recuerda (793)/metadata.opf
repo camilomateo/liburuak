@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">793</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d19aa191-a5e2-41a5-a32d-fc19e9d61f1b</dc:identifier>
+        <dc:title>Mientras alguien nos recuerda</dc:title>
+        <dc:creator opf:file-as="Veiga, Carmen Conde" opf:role="aut">Carmen Conde Veiga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una vertiginosa novela negra situada en la Barcelona más convulsa de mediados del siglo XX.Barcelona, 1946Tras recibir una llamada en la comisaría de Vía Layetana, el inspector Aparicio y el agente Muñoz, dos policías de la brigada criminal, van al Instituto Mental de la Santa Cruz a investigar el asesinato de la hermana Natividad. El instituto era un centro de referencia de la psiquiatría barcelonesa, pero después de la guerra civil pasó a manos de religiosos sin formación que se aplicaron a reprimir a los enfermos con brutalidad. La hermana, que era la máxima responsable de los pabellones femeninos, ha aparecido muerta en la sala de cirugías. La han asesinado de forma muy violenta utilizando el instrumental médico de la sala, lo que hace pensar que el motivo del crimen ha sido la venganza. Aparicio y Muñoz se encontrarán con muchos impedimentos para avanzar en sus investigaciones. Tanto el responsable máximo del instituto, el hermano Olegario, como un alto cargo del franquismo, Jaime Bertrán de Andrade, van a intentar que los dos policías no puedan descubrir los terribles secretos que se ocultan entre aquellos muros.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-31T11:04:22.908282+00:00"/>
+        <meta name="calibre:title_sort" content="Mientras alguien nos recuerda"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

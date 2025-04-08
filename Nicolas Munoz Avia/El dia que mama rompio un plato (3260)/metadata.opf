@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3260</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6580f214-e699-4f16-ab99-890cdac6c556</dc:identifier>
+        <dc:title>El día que mamá rompió un plato</dc:title>
+        <dc:creator opf:file-as="Avia, Nicolás Muñoz" opf:role="aut">Nicolás Muñoz Avia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-20T00:00:00+00:00</dc:date>
+        <dc:description>EL REGALO PERFECTO PARA TODAS LAS MADRES.LA LECTURA OBLIGADA PARA TODOS LOS HIJOS.Marido, piso, hijos (niño y niña, la parejita) y una vida tranquila como ama de casa. Así podría ser la biografía de Aurora, a quien en la actualidad, ya en la gloriosa tercera edad, con los hijos emancipados, parece que solo le quede preocuparse de la llegada de los nietos y, cómo no, de que los suyos estén bien.Pero un día la familia descubre que Aurora ha sacado setenta mil euros de su cuenta y se los ha gastado en algo que desconocen. En un gesto poco común en ella, se niega a dar respuestas a las insistentes preguntas de sus seres más queridos, quienes son incapaces de entender esa actitud en una mujer que siempre había sido transparente. O eso pensaban...Una comedia agridulce sobre la vida, sobre la familia y sus secretos. Una historia que nos muestra ese momento en el que los hijos esperan que sus padres sean más obedientes de lo que ellos nunca fueron. Y una madre que reivindica, por fin,...</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-07T20:12:25.305597+00:00"/>
+        <meta name="calibre:title_sort" content="día que mamá rompió un plato, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

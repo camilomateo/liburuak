@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c4fd51a-48e9-410f-98d7-c27b7c045783</dc:identifier>
+        <dc:title>El bouquet del miedo</dc:title>
+        <dc:creator opf:file-as="Gutiérrez, Xabier" opf:role="aut">Xabier Gutiérrez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-19T06:00:00+00:00</dc:date>
+        <dc:description>En pleno mes de septiembre, tiempo de vendimia, y a pocos días para que empiece la recolección de la uva, al subcomisario de la Ertzaintza Vicente Parra le asignan la investigación del asesinato de la enóloga Esperanza Moreno, encargada hasta entonces de la elaboración del vino de las Bodegas Sáenz de la finca Marbil, una de las más prestigiosas haciendas de La Rioja, y productora del apreciado vino VVV. Su cuerpo ha sido hallado sin vida en su piso del barrio antiguo de San Sebastián, en medio de un charco de sangre y con la garganta seccionada. Todo parece indicar que se trata de un crimen pasional, cuando a las pocas horas de encontrar el cadáver, desaparece el novio de la víctima, Roberto, operador de cámara en uno de los programas de televisión de cocina más exitosos del país y dirigido por un afamado cocinero. El subcomisario Parra tendrá que dilucidar quién puede estar detrás de este crimen, a la vez que la búsqueda del paradero de Roberto se convierte en una carrera contrarreloj para solucionar el caso. La intriga que yace detrás de la liturgia de la elaboración del vino se mezcla con la tensión y el vértigo que rodean el mundo de la televisión, sus protagonistas y los límites de sus egos y ambiciones. Nadie está a salvo en estos dos sectores tan competitivos donde el poder lo puede todo.</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Xabier Gutiérrez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Los aromas del crimen"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:17:26.240694+00:00"/>
+        <meta name="calibre:title_sort" content="bouquet del miedo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

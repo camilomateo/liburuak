@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2601</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f9c1794-dedb-4fe7-a774-2490f144af81</dc:identifier>
+        <dc:title>Nuestro cuerpo</dc:title>
+        <dc:creator opf:file-as="Arsuaga, Juan Luis" opf:role="aut">Juan Luis Arsuaga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-10T06:00:00+00:00</dc:date>
+        <dc:description>En el Museo del Prado, un científico recorre el cuerpo del Diadúmeno de Policleto. En su anatomía puede leer una historia evolutiva de siete millones de años. En la sala contigua hay una escultura algo más tardía que muestra el cuerpo desnudo de la Venus del Delfín, el canon helenístico de la belleza femenina. El científico aprecia las diferencias entre ambos y se pregunta por su significado.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;A partir de la observación del cuerpo humano a través del arte y de su conocimiento como paleontólogo, Juan Luis Arsuaga nos invita a descubrir de forma sencilla y amena las maravillas que componen el cuerpo humano y cómo y por qué han evolucionado a lo largo de los siglos. Con su mirada lúcida, divertida e ingeniosa viajaremos al pasado para acercarnos a ese gran desconocido, nuestro cuerpo. Porque todas y cada una de las partes del cuerpo humano son un prodigio de la evolución.</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423363575</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-16T08:50:28.243019+00:00"/>
+        <meta name="calibre:title_sort" content="Nuestro cuerpo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

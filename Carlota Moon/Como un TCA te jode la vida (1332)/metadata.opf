@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1332</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24a722c5-e1f3-473c-876d-904e7d370f39</dc:identifier>
+        <dc:title>Cómo un TCA te jode la vida</dc:title>
+        <dc:creator opf:file-as="Moon, Carlota" opf:role="aut">Carlota Moon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-23T17:03:34+00:00</dc:date>
+        <dc:description>&lt;p&gt;Cómo un TCA te jode la vida te permitirá entender la realidad que 
+existe detrás de los trastornos de la conducta alimentaria a través de 
+una historia personal con la que probablemente te identificarás si estás
+ pasando por algo similar. Descubre cómo un TCA invade toda una vida 
+hasta hacerla ruinas y lo maravillosa que puede ser la opción de 
+recuperarse. Porque sí es posible salir de ahí. El objetivo de esta obra
+ es ayudar a pacientes, que sufren en silencio, a no sentirse tan solos y
+ a hacerles ver que existe esperanza. También a personas como 
+familiares, parejas o amigos a entender desde otra perspectiva esta 
+enfermedad y así ser un mejor acompañante.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:30+00:00"/>
+        <meta name="calibre:title_sort" content="Cómo un TCA te jode la vida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

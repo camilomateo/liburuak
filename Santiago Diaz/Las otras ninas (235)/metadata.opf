@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f0925ed-2a35-4193-9129-34302464769d</dc:identifier>
+        <dc:title>Las otras niñas</dc:title>
+        <dc:creator opf:file-as="Díaz, Santiago" opf:role="aut">Santiago Díaz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-13T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;La inspectora Indira Ramos apura sus últimos días de excedencia en un
+  pequeño municipio de Extremadura. Cuando, después de casi tres años,  
+llega el momento de abandonar su retiro y regresar a su trabajo en  
+Madrid, se ve incapaz de enfrentarse al subinspector Iván Moreno, al que
+ oculta un enorme secreto.&lt;/p&gt; &lt;p&gt;Pero ambos tendrán que volver a 
+trabajar mano a mano para resolver el  mayor rompecabezas criminal de la
+ historia contemporánea de España: en  una gasolinera han aparecido las 
+huellasdactilares del que fue durante muchos años el hombre más buscado 
+del país.&lt;/p&gt; &lt;p&gt;El brutal asesinato que cometió ha prescrito y la 
+policía ya no tiene  razones para mantener detenido al principal 
+sospechoso, que lleva tiempo  viviendo bajo una identidad falsa. Pero la
+ inspectora Ramos está  convencida de que un asesino como él ha tenido 
+que volver a matar, así  que solo necesita encontrar un crimen del que 
+no quede impune.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Reservoir Books</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Santiago Díaz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-29T11:32:42.901257+00:00"/>
+        <meta name="calibre:title_sort" content="otras niñas, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

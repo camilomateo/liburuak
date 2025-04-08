@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88b6e836-1c3e-412c-8932-889f47360811</dc:identifier>
+        <dc:title>Por si un día volvemos</dc:title>
+        <dc:creator opf:file-as="María Dueñas" opf:role="aut">María Dueñas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-26T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Hui de un crimen involuntario.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Hui de los hombres que no me quisieron.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Hui de una guerra.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Esta es mi historia, entre España y Orán, junto al Mediterráneo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Orán. Años 20, siglo xx.&lt;/strong&gt; En esta ciudad africana de origen árabe, pulso español y administración francesa &lt;strong&gt;desembarca una joven&lt;/strong&gt; con el falso nombre de Cecilia Belmonte. En apariencia, &lt;strong&gt;ha cruzado el Mediterráneo para escapar de la miseria&lt;/strong&gt;, como tantos compatriotas. Su razón, sin embargo, es más turbia.&lt;/p&gt;
+&lt;p&gt;La &lt;strong&gt;urgencia por sobrevivir&lt;/strong&gt; la obliga a dejarse la piel en plantaciones y lavaderos, como empleada doméstica y operaria de fábrica a destajo. Hasta que una madrugada, en la tabaquera Bastos, participa en un delito por el que paga con su sometimiento a un hombre despreciable. &lt;strong&gt;Su entereza será lo que la libere&lt;/strong&gt; y le aporte el coraje para rehacerse y emprender un &lt;strong&gt;camino en ascenso, repleto de quiebros, logros y desafíos&lt;/strong&gt; a lo largo de tres décadas vibrantes.&lt;/p&gt;
+&lt;p&gt;Esta es la &lt;strong&gt;historia de una mujer que vivió el auge colonial&lt;/strong&gt; y el trágico fin de la Argelia francesa. Y, en paralelo, sus páginas rescatan la memoria de los &lt;strong&gt;desconocidos pieds-noirs españoles&lt;/strong&gt; que, arrastrados por la emigración y el exilio, formaron parte de aquel mundo.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Vuelve María Dueñas, autora de la inolvidable &lt;em&gt;El tiempo entre costuras&lt;/em&gt;, con una nueva novela que te cautivará.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DVGBSDKM</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:19.876015+00:00"/>
+        <meta name="calibre:title_sort" content="Por si un día volvemos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

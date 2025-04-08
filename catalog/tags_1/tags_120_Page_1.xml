@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>sociales</title>
+  <id>Calibre2opds:taglist:S:120</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_120_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="sociales" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="LITERATURA CAMI" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="LITERATURA CAMI" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="etiquetas" />
+  <link href="../taglist/taglist_S_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Etiquetas que empiezan por S" />
+  <entry>
+    <title>Diccionario de refranes, adagios, proverbios...</title>
+    <id>calibre:book:1912</id>
+    <updated>2024-09-05T05:59:00Z</updated>
+    <link href="../../Jose%20Maria%20Sbarbi%20y%20Osuna/Diccionario%20de%20refranes%2C%20adagios%2C%20p%20%281912%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Maria%20Sbarbi%20y%20Osuna/Diccionario%20de%20refranes%2C%20adagios%2C%20p%20%281912%29/Diccionario%20de%20refranes%2C%20adagio%20-%20Jose%20Maria%20Sbarbi%20y%20Osuna.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="1 MB" />
+    <author>
+      <name>José María Sbarbi y Osuna</name>
+      <uri>../authors_1/authors_1363_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ciencias" />
+    <category term="sociales" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [15]:</summary>
+    <link href="../book_1/book_1912.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El exilio</title>
+    <id>calibre:book:1984</id>
+    <updated>2024-09-05T06:10:30Z</updated>
+    <link href="../../Victor%20Hugo/El%20exilio%20%281984%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Victor%20Hugo/El%20exilio%20%281984%29/El%20exilio%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="87 KB" />
+    <author>
+      <name>Victor Hugo</name>
+      <uri>../authors_1/authors_1420_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ciencias" />
+    <category term="sociales" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [243]:</summary>
+    <link href="../book_1/book_1984.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una humilde propuesta</title>
+    <id>calibre:book:2399</id>
+    <updated>2024-09-09T10:34:23Z</updated>
+    <link href="../../Jonathan%20Swift/Una%20humilde%20propuesta%20%282399%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jonathan%20Swift/Una%20humilde%20propuesta%20%282399%29/Una%20humilde%20propuesta%20-%20Jonathan%20Swift.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="64 KB" />
+    <author>
+      <name>Jonathan Swift</name>
+      <uri>../authors_1/authors_1469_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ciencias" />
+    <category term="sociales" />
+    <category term="Humor" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [222]:</summary>
+    <link href="../book_2/book_2399.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La mano invisible</title>
+    <id>calibre:book:1978</id>
+    <updated>2024-09-05T06:10:29Z</updated>
+    <link href="../../Adam%20Smith/La%20mano%20invisible%20%281978%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Adam%20Smith/La%20mano%20invisible%20%281978%29/La%20mano%20invisible%20-%20Adam%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Descargar este libro como EPUB" displaysize="125 KB" />
+    <author>
+      <name>Adam Smith</name>
+      <uri>../authors_1/authors_1414_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Fundación Carlos Slim</dcterms:publisher>
+    <category term="Ciencias" />
+    <category term="sociales" />
+    <category term="Filosofía" />
+    <category term="Lang:es" />
+    <category term="Biblioteca PruébaT" />
+    <summary>Biblioteca PruébaT [237]:</summary>
+    <link href="../book_1/book_1978.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

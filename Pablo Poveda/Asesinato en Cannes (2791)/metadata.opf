@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2791</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23f4f842-ca3f-4055-a7db-2159e980e168</dc:identifier>
+        <dc:title>Asesinato en Cannes</dc:title>
+        <dc:creator opf:file-as="Poveda, Pablo" opf:role="aut">Pablo Poveda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-13T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Cuando el detective privado Maldonado acepta un caso en el 
+glamoroso Festival de Cannes, pronto descubre que bajo las luces 
+deslumbrantes y las alfombras rojas, se ocultan secretos tan oscuros 
+como mortales. La muerte de un famoso director de cine español, 
+aparentemente accidental, desencadena una investigación que llevará a 
+Maldonado y a su intrépida asistente, Marla, a los rincones más 
+peligrosos del cine internacional.&lt;/p&gt;&lt;p&gt;Un detective 
+endurecido en un entorno hostil, una femme fatale con secretos, una 
+conspiración que podría derribar imperios, y una tensión sexual no 
+resuelta que chisporrotea en cada página.&lt;/p&gt;&lt;p&gt;Pero en un mundo donde todos tienen algo que ocultar... ¿Quién será el próximo en caer?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Nova Illice Media Pub</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DD7W7ZPB</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policial</dc:subject>
+        <dc:subject>suspense</dc:subject>
+        <meta name="calibre:series" content="Detective Maldonado"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:timestamp" content="2025-01-09T07:22:45.740527+00:00"/>
+        <meta name="calibre:title_sort" content="Asesinato en Cannes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

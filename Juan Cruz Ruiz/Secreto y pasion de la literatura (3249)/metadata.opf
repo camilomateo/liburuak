@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd288c68-a190-4723-a8b2-8658d580f58e</dc:identifier>
+        <dc:title>Secreto y pasión de la literatura</dc:title>
+        <dc:creator opf:file-as="Ruiz, Juan Cruz" opf:role="aut">Juan Cruz Ruiz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.1.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-02T08:34:05+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Grandes autores en primera persona, un brillante fresco de la reciente vida literaria española e hispanoamericana.&lt;/p&gt;
+&lt;p&gt;Esta obra es una semblanza luminosa y apasionada de una larga serie de autores imprescindibles de la narrativa hispanoamericana de las últimas décadas. En sus páginas se suceden las anécdotas, historias, declaraciones, entrevistas en profundidad y retratos de escritores de la talla de Jorge Luis Borges, Guillermo Cabrera Infante, Gabriel García Márquez, Mario Vargas Llosa, Almudena Grandes, José Manuel Caballero Bonald, Fernando Aramburu, Antonio Orejudo, Rafael Reig, Juan Carlos Onetti, Leonardo Padura, Jorge Semprún o Cristina Fernández Cubas, a los que se suman también perfiles impagables de escritores como Susan Sontag o Günter Grass. A lo largo de los años, Juan Cruz Ruiz pudo conocerlos, tratarlos y entrevistarlos repetidas veces, lo que le ha permitido trazar este espléndido atlas de la vida literaria y del mundo editorial en lengua española. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-02T12:19:21.969058+00:00"/>
+        <meta name="calibre:title_sort" content="Secreto y pasión de la literatura"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

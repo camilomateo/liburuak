@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da504638-c478-436c-9f4e-26be52a6a5f6</dc:identifier>
+        <dc:title>Las 48 leyes del poder</dc:title>
+        <dc:creator opf:file-as="Greene, Robert" opf:role="aut">Robert Greene</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-03-31T22:00:00+00:00</dc:date>
+        <dc:description>Una guía diseñada para mostrarle al lector cuáles son las cualidades personales que se deben de tener para alcanzar el poder en términos sociológicos, un método práctico para todo aquel que quiera conseguir el poder, observe el poder, o tenga que defenderse del poder. La obra contiene temas y elementos de «El príncipe» de Nicolás Maquiavelo y ha sido comparado con el clásico de Sun Tzu, «El arte de la guerra». Para explicar sus leyes y cómo estas se deben de ejecutar, el autor utiliza como ejemplo las estrategias, los aciertos y desaciertos de personajes históricos famosos como Julio César, Haile Selassie I, Napoleón Bonaparte, Carl von Clausewitz, Isabel I, Henry Kissinger, Pancho Villa, P. T. Barnum, Mao Zedong y muchos otros, recurriendo también a hechos reales importantes de la historia universal.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">36532</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>psicología</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T06:08:33.404768+00:00"/>
+        <meta name="calibre:title_sort" content="48 leyes del poder, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

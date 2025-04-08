@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">332</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14dfe3b3-9c8c-4a06-ace0-e1784a29febd</dc:identifier>
+        <dc:title>Reflejo mortal</dc:title>
+        <dc:creator opf:file-as="Herrero Virto, Gemma" opf:role="aut">Gemma Herrero Virto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-12T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Arial','sans-serif'"&gt;&lt;span style="color: #333333; background-color: #ffffff"&gt;Una bomba explota en pleno centro de Madrid y ningún grupo terrorista reivindica el atentado. La única pista con la que cuenta la policía es que, dos días antes del ataque, un desconocido envió un mensaje en clave a la SAC, un grupo de élite de las fuerzas de seguridad que se dedica al análisis de la personalidad de los delincuentes más peligrosos y perturbados. Cuando reciben un nuevo mensaje avisando del próximo ataque, la SAC decide pedir ayuda a Carlos, Natalia y Gus, famosos por haber conseguido dar caza a varios asesinos en serie en el País Vasco. ¿Serán capaces de descifrar los enigmas que se esconden en los mensajes del asesino? ¿Podrán detenerlo antes de que coloque su próxima trampa mortal? &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08B5L28FX</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Gemma Herrero Virto&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Caronte"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2023-02-16T18:19:30.012984+00:00"/>
+        <meta name="calibre:title_sort" content="Reflejo mortal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

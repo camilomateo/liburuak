@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">978</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ae28328-6af6-42f6-807b-397b834c222e</dc:identifier>
+        <dc:title>La culpa</dc:title>
+        <dc:creator opf:file-as="Solar, María" opf:role="aut">María Solar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-15T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;PREMIO XERAIS DE NOVELA 2022 Dos mujeres atadas de por vida por un crimen. La historia de una amistad que se transforma en posesión Cada seis meses, como un clavo, los empleados de una pequeña sucursal bancaria reciben la desagradable visita de la señora Gondar, una mujer de aspecto miserable y olor corporal insoportable que controla hasta el más mínimo detalle sus millonarias cuentas. Amanda, una nueva oficinista, la atiende una vez. Un mes después de la reunión, la señora Gondar fallece y Amanda se convierte inesperadamente en su única heredera. &lt;/p&gt;
+&lt;p&gt;La joven, junto a su amante periodista, Enric, inicia una investigación sobre la identidad de la anciana y descubre la historia de vida que unió de por vida a dos poderosas mujeres: los terribles secretos que las devoran, la culpa que las acecha y los tóxicos relación entre ellos que termina en un final inquietante, Amanda no solo heredó una fortuna, también heredó una culpa. Con "La culpa", María Solar nos sumerge en una narrativa en la que no podemos respirar hasta que desvelamos por completo esta historia de dominación, locura y muerte donde la culpa es omnipresente.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Contraluz Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2023-08-23T10:28:59.288379+00:00"/>
+        <meta name="calibre:title_sort" content="culpa, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

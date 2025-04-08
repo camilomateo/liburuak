@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1632</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8711705a-fa65-4fdc-be9c-42167e6335fc</dc:identifier>
+        <dc:title>A vuelo de pájaro</dc:title>
+        <dc:creator opf:file-as="Serrano, Marcela" opf:role="aut">Marcela Serrano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Las agudas anotaciones diarias de una escritora chilena que ha cautivado con su mirada a miles de lectores, Premio Sor Juana Inés de la Cruz.&lt;/p&gt;
+&lt;p&gt;El diario ir y volver de los pájaros, las relaciones entre sus perros y los distintos animales del campo en que vive, los colores de las estaciones, las conversaciones con sus hermanas en pleno encierro, las penas y risas de la vida a los 70 años, los cambios sociales de un país y un mundo enardecidos, los horrores que traen los noticieros, la dedicación amorosa a un primer nieto, las lecturas de clásicos como Ovidio y de contemporáneas como Toni Morrison que la deslumbran y estimulan.&lt;/p&gt;
+&lt;p&gt;Marcela Serrano se dio a la tarea, durante tres años consecutivos, de consignar algún detalle de cada día de su vida. Entre 2020 y 2022 dejó de lado la invención de historias y personajes para observar su propia vida y lo que ocurría en su entorno inmediato. Asignándole a cada uno de esos años y cuadernos un foco -delicias cotidianas para el primer año, asombros para el segundo y nada menos que la presencia del sol para el tercero-, Serrano construye un libro inaudito, renovando las formas de su escritura y exponiendo no sólo las derivas de una mujer que en la madurez se piensa y se analiza a sí misma con arrojo y valentía, sino también tejiendo poderosos relatos con todo aquello que observa y la conmueve.&lt;/p&gt;
+&lt;p&gt;Agilidad narrativa, fragilidad y goce, humor y observación paciente y sagaz marcan la impronta de estos cuadernos que, seleccionados y reunidos en un solo volumen, constituyen un nuevo hito para sus lectores: como dejará dicho Carlos Fuentes, "gracias a escritores como Marcela, la vida nunca dirá su última palabra".&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789563844696</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-06-22T12:04:40.553171+00:00"/>
+        <meta name="calibre:title_sort" content="A vuelo de pájaro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

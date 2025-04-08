@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0db90167-624e-4eac-9546-480fd13ab45a</dc:identifier>
+        <dc:title>A bordo de tu curiosidad</dc:title>
+        <dc:creator opf:file-as="Carlos Briones Llorente" opf:role="aut">Carlos Briones Llorente</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-08T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;¿Cuál fue el origen de todo? ¿Podemos viajar en el tiempo? ¿Qué
+ es la vida? ¿Podría haber otras vidas en el Universo? Estas son algunas
+ de las preguntas que el científico Carlos Briones nos propone en su 
+nuevo libro, un apasionante viaje a través de los principales retos que 
+la ciencia actual tiene planteados. A lo largo de 52 breves y sugerentes
+ capítulos, uno por cada semana del año, repasa diferentes campos 
+científicos, tecnológicos y sociales, sin olvidar temas de gran 
+actualidad como la inteligencia artificial, la crisis climática, las 
+pandemias, o el auge de las pseudociencias y los bulos. Reivindica la 
+importancia del espíritu crítico y la curiosidad, y lo hace con una 
+insuperable de combinación de rigor científico, frescura y calidad 
+literaria. En sus propias palabras: «creo que este libro puede gustarte 
+tengas la edad que tengas: seas un &lt;span class="a-text-italic"&gt;boomer&lt;/span&gt;, pertenezcas a la Generación X, a la Y de los &lt;span class="a-text-italic"&gt;millennials&lt;/span&gt; o a la Z. En breve, también si eres de la Alfa».&lt;/p&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-22T16:30:41.872651+00:00"/>
+        <meta name="calibre:title_sort" content="A bordo de tu curiosidad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

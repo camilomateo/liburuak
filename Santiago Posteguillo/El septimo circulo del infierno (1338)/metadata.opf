@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1338</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35901a68-4a64-4ac3-a1da-b5b447d663fe</dc:identifier>
+        <dc:title>El séptimo círculo del infierno</dc:title>
+        <dc:creator opf:file-as="Posteguillo, Santiago" opf:role="aut">Santiago Posteguillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;El KGB, el régimen nazi, la Inquisición, las guerras, el FBI, el gobierno chino, el hambre, la pérdida de un ser querido, la enfermedad, el exilio, la censura... Muchos son, en efecto, los infiernos de la literatura a los que se han tenido que enfrentar escritores y escritoras de todos los tiempos. ¿Cuál es el séptimo círculo de este universo infernal? Para Kipling su infierno fue la muerte de su hija Josephine, y de ese infierno surgió una obra tan vital y esperanzadora como El libro de la selva. Para Imre Kertesz su infierno fue ser víctima del holocausto, pero también del desprecio por parte de los suyos. Y de ahí salió Sin destino. Carson McCullers, la gran olvidada, la mejor autora estadounidense del siglo xx, menospreciada por ser mujer. Con la elegancia y el tino literario de las obras que homenajea, de los autores y autoras que reivindica, navegando entre viajes, anécdotas, episodios y experiencias propias, Santiago Posteguillo consigue contagiarnos su amor por los libros y en especial por los autores cuyo genio y talento hizo que del infierno salieran con obras que aún hoy nos elevan a los altares.&lt;/p&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408176954</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">6e7c7e3a-cb32-4c99-bbcf-1c5340c0fc4f</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-03-21T12:00:32.182084+00:00"/>
+        <meta name="calibre:title_sort" content="séptimo círculo del infierno, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e81580bc-5f3b-4101-b923-39e5ef149aef</dc:identifier>
+        <dc:title>Visitation Street</dc:title>
+        <dc:creator opf:file-as="Pochoda, Ivy" opf:role="aut">Ivy Pochoda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;b&gt;Editada por Dennis Lehane, el prestigioso autor de '&lt;i&gt;Mystic River'&lt;/i&gt; y '&lt;i&gt;Shutter Island'&lt;/i&gt;, '&lt;i&gt;Visitation Street'&lt;/i&gt; es una novela de misterio ambientada en un barrio obrero de Red Hook, en la costa neoyorkina.&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;Durante
+ una calurosa noche de verano, dos adolescentes deciden navegar en una 
+balsa improvisada. Desaparecen en la bahía, y solo encuentran, 
+arrastrada por la corriente y seminconsciente, a una de ellas. Jonathan,
+ el profesor de las chicas, tiene la misión de indagar y desenterrar los
+ pecados y secretos más profundos de la joven.&lt;br&gt;A la manera de Richard
+ Price y Zadie Smith, Ivy Pochoda tiene el don de expresar esos detalles
+ llamativos que definen un barrio, una noche o una ciudad con unas 
+pocas, pero precisas pinceladas. '&lt;i&gt;Visitation Street'&lt;/i&gt; es una novela absorbente en la que el lector se sumerge por completo en la atmósfera asfixiante creada por Ivy Pochoda.&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Malpaso Editorial</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B071WS17PN</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ivy Pochoda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:24:10.068826+00:00"/>
+        <meta name="calibre:title_sort" content="Visitation Street"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

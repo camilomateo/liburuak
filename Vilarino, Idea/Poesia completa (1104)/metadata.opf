@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b6184d1-a989-43c8-8b62-d40ecfdcfb1d</dc:identifier>
+        <dc:title>Poesía completa</dc:title>
+        <dc:creator opf:file-as="Vilariño, Idea" opf:role="aut">Vilariño, Idea</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-02T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Su poesía -escasa y sobria, lentamente madurada- transita 
+siempre por los extremos, tensa, como acorralada por una íntima 
+urgencia. Quizá el asunto que con mayor frecuencia aparece en esta 
+poesía sea la muerte, pero una muerte que late y se experimenta en el 
+esplendor de la vida, en los golpes del amor, en los embates del sexo, 
+en la dialéctica entre ausencia y recuerdo.&lt;/p&gt;&lt;p&gt;La 
+lectura de estos poemas conforma una experiencia intensa y perdurable y 
+supone el descubrimiento de una de las voces más contundentes y 
+secretamente bellas de la poesía contemporánea.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-08T08:16:12.056227+00:00"/>
+        <meta name="calibre:title_sort" content="Poesía completa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
