@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">297e6f96-b801-4d02-b19e-279c5c1ef32e</dc:identifier>
+        <dc:title>Lucila</dc:title>
+        <dc:creator opf:file-as="Cerda, Patricia" opf:role="aut">Patricia Cerda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-27T06:00:00+00:00</dc:date>
+        <dc:description>La novela sobre la fascinante vida de la poeta chilena ganadora del premio Nobel, Gabriela Mistral, escrita por una de las voces más reputadas de las letras chilenas, Patricia Cerda. UNA MUJER DE POESÍA Y CORAJE Esta fascinante novela arranca durante el último viaje de la poeta chilena Gabriela Mistral a su amado Valle de Elqui, donde nació. Allí salen a flote, entre viñedos, los recuerdos de una vida intensa que tiene por escenario las ciudades más vibrantes y a los pensadores y artistas más importantes de la primera mitad del siglo XX. UNA VIDA DE LUCES Y SOMBRAS Desde los primeros destellos de su existencia como Lucila Godoy hasta su transformación en la renombrada Gabriela Mistral, en estas páginas se desentraña la complejidad de una mujer cuya talla como literata e intelectual dejó una huella indeleble en la historia de la literatura. UNA POETA DE TALENTO ETERNO Y UNIVERSAL Lucila se lee como la mejor de las novelas de viajes y nos lleva de España a Mexico y Brasil hasta volver a las tierras chilenas, que cobran vida e iluminan en la intimidad a la mujer detrás del nombre de Gabriela Mistral.</dc:description>
+        <dc:publisher>13insurgentes</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002637</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">304</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Historica</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-10T06:37:48.812300+00:00"/>
+        <meta name="calibre:title_sort" content="Lucila"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

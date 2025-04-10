@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5af3585-55d0-44bf-8c82-8a828f7487d0</dc:identifier>
+        <dc:title>La llama inmortal de Stephen Crane</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-16T03:00:00+00:00</dc:date>
+        <dc:description>En esta apasionante biografía literaria de Stephen Crane (1871-1900), Paul Auster recrea la fascinante vida y la energía creativa del joven escritor, periodista y poeta que escribió La roja insignia roja del valor en 1895. Crane solo vivió 29 años, pero en ese corto espacio de tiempo cultivó la novela, los cuentos, la poesía y fue un aventurado periodista que cubrió conflictos como la Guerra de Cuba. Conoció a Joseph Conrad y Henry James, que elogiaron su escritura, y con su obra cambió las letras estadounidenses para siempre.
+
+En estas páginas, Auster ofrece, además, una ventana a la vida en Nueva York y Londres a finales del siglo XIX. Los años de Crane son también una época irrepetible en la que el país se prepara para dejar atrás la América del Salvaje Oeste para convertirse en la potencia capitalista que dominaría el mundo durante el siglo XX; una época de prosperidad que, sin embargo, esconde un pasado sin resolver marcado por el comercio de esclavos africanos y la matanza de indios nativos, y que tiene por delante los primeros movimientos sociales y las reivindicaciones sindicales.</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-10T06:42:25.912091+00:00"/>
+        <meta name="calibre:title_sort" content="llama inmortal de Stephen Crane, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

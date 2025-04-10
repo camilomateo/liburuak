@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">210d53ba-69f2-4ff9-9a14-2432290d4f6a</dc:identifier>
+        <dc:title>A solas conmigo</dc:title>
+        <dc:creator opf:file-as="Romero, Vanesa" opf:role="aut">Vanesa Romero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ambición, poder, amor, familia y un dilema que puede cambiarlo todo.&lt;/p&gt;
+&lt;p&gt;Cuando Cristóbal Suarch, el director de Voces, una prestigiosa revista, fallece de un infarto, su hijo Patrick –cuya única preocupación hasta ese momento había sido la de vivir la vida– ha de tomar las riendas de la empresa familiar. A pesar del shock inicial encuentra en las palabras de su padre, que le ha dejado una enigmática carta, dos consejos que marcarán el devenir de su futuro y el de la revista. El primero, que no confíe en Susana, la redactora-jefe. Y el segundo, que confíe en Cata, una de las integrantes de la redacción y autora del blog A solas conmigo.&lt;/p&gt;
+&lt;p&gt;La actriz Vanesa Romero regresa al panorama de la novela con una historia de traiciones, enredos, sexo y amor.A solas conmigo aborda las fricciones que se producen en el ámbito empresarial cuando las reglas del juego pivotan sobre el amor y la responsabilidad ante la gestión de un legado familiar a punto de desvanecerse. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410257238</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">lHY7EQAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-10T06:37:48.347855+00:00"/>
+        <meta name="calibre:title_sort" content="A solas conmigo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

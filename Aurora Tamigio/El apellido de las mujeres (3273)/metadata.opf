@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbdc59d2-3ced-4de7-a500-fa2037eb131b</dc:identifier>
+        <dc:title>El apellido de las mujeres</dc:title>
+        <dc:creator opf:file-as="Tamigio, Aurora" opf:role="aut">Aurora Tamigio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-17T16:13:07+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sicilia, 1925. Con apenas dieciséis años, Rosa decide escapar de un hogar donde la ira y la violencia son la norma. Ese acto de valentía marcará el inicio de una estirpe de mujeres que se enfrentarán a los desafíos del cambiante siglo xx. Tras los horrores de la Segunda Guerra Mundial, Rosa deberá sacar adelante a su familia; su hija, Selma, se verá obligada a abandonar su adorado pueblo de las montañas y cambiarlo por la vida humilde de barrio citadino, y sus tres nietas tendrán que labrarse un futuro en una Italia que avanza lentamente hacia la modernidad.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-10T06:37:48.088855+00:00"/>
+        <meta name="calibre:title_sort" content="apellido de las mujeres, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
