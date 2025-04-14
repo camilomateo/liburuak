@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fulfillmentToken fulfillmentType="buy" xmlns="http://ns.adobe.com/adept">
+    <distributor>urn:uuid:00000000-0000-0000-0000-000000000001</distributor>
+    <operatorURL>http://books.google.com/books/acs4/fulfillment</operatorURL>
+    <expiration>2025-04-13T06:47:47-07:00</expiration>
+    <transaction>ge:f7170eed-3300-5219-9104-a2a38dea6185:1744551167438604</transaction>
+    <userId>04321725455738011367</userId>
+    <resourceItemInfo>
+        <resource>urn:uuid:f7170eed-3300-5219-9104-a2a38dea6185</resource>
+        <resourceItem>1</resourceItem>
+        <src>https://books.google.com/books/download/La_Esposa_Perfecta_Un_Thriller_de_Suspen.epub?acsid=urn:uuid:f7170eed-3300-5219-9104-a2a38dea6185&amp;output=acs4_book_bytes&amp;ar=6f2087f716fad5beec455173166f0a40</src>
+        <downloadType>simple</downloadType>
+    </resourceItemInfo>
+    <hmac>N7DOeEQghYXJYzE+KFVlEMVu+QA=</hmac>
+</fulfillmentToken>
