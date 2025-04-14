@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05922615-6a2e-45eb-92e3-a2f46e8703ef</dc:identifier>
+        <dc:title>La cripta de invierno</dc:title>
+        <dc:creator opf:file-as="Michaels, Anne" opf:role="aut">Anne Michaels</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-27T00:00:00+00:00</dc:date>
+        <dc:description>Entretejiendo los grandes momentos históricos con la callada intimidad de las vidas humanas, esta obra reflexiona sobre lo que somos capaces de salvaguardar de la violencia de la vida.Nos convertimos en nosotros mismos cuando algo nos es concedido o cuando algo nos es arrebatadoEgipto, 1964. El gran templo de Abu Simbel ha de ser rescatado de la crecida de las aguas causada por la nueva presa de Asuán. Bloque a bloque será desmantelado para luego resucitar en un terreno a mayor altura. Dirigiendo este proyecto está Avery Escher, un joven ingeniero que acaba de llegar con su esposa.Por la noche, al acostarse en su casa flotante sobre el Nilo, Jean y Avery se trasladan al pasado -Avery a su niñez en Inglaterra durante la segunda guerra mundial, y Jean a su infancia en Canadá, cuando viajaba por la orilla del río Sr. Lawrence con su padre.Crítica: «Lea este libro como se lee poesía, escúchelo como se escucha la música... Anne Michaels nos guía hasta extraordinarias cimas de...</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-14T11:30:38.803694+00:00"/>
+        <meta name="calibre:title_sort" content="cripta de invierno, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
