@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fed1601d-a027-48aa-9f04-48010a624909</dc:identifier>
+        <dc:title>La cabalgata de las valquirias</dc:title>
+        <dc:creator opf:file-as="Pablo de Santis" opf:role="aut">Pablo de Santis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-25T06:00:00+00:00</dc:date>
+        <dc:description>Descubrí el pueblo en el que la ceniza volcánica cubre un oscuro secreto. Hace un año que la ceniza volcánica cubre Bosque Blanco, un pueblo turístico de la Patagonia. Los vuelos a la zona han sido cancelados; hoteles y restaurantes están vacíos, y una buena parte de la población ha debido marcharse. Cuando un hombre aparece asesinado al pie de un ciervo de bronce, los pobladores comprenden que los acecha algo aún peor que la ceniza que llega del volcán. El narrador es el comisario Conrado Nebra, enviado a Bosque Blanco desde la capital de la provincia. Le han encargado encontrar al asesino antes de que resuelva el caso Gabriel Valeri, un subcomisario que fue considerado un héroe en el pasado, pero que está al borde de ser expulsado de la fuerza policial. Una amapola prensada, hallada en el bolsillo del cadáver, da idea a los dos investigadores (y adversarios) de que no se trata de un asesinato común: el crimen es parte de un mensaje sangriento que ha de continuar. Pablo De Santis vuelve a sorprender con su gracia inigualable para desplegar tramas llenas de peripecia, cuyos personajes desgranan su encanto singular en reflexiones inteligentes y diálogos filosos. La cabalgata de las valquirias lo confirma como uno de los grandes escritores hispanoamericanos.</dc:description>
+        <dc:publisher>Seix Barral</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-11T07:07:17.794653+00:00"/>
+        <meta name="calibre:title_sort" content="cabalgata de las valquirias, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

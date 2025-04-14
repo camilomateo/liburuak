@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3284</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d7099ee-800b-402c-9c3a-23e0c862739d</dc:identifier>
+        <dc:title>La Hermandad</dc:title>
+        <dc:creator opf:file-as="Grisham, John" opf:role="aut">John Grisham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-02-01T06:00:00+00:00</dc:date>
+        <dc:description>Trumble es una prisión federal de régimen especial y hogar de unos criminales «inofensivos»: ladrones de bancos, traficantes de droga, estafadores, evasores de impuestos, un médico, cinco abogados, dos tipos de Wall Street… Y tres exjueces. Los tres han abandonado una vida acomodada y ahora matan el tiempo en la cárcel. Estos se hacen llamar "La hermandad" y cada día se reúnen en la sección jurídica de la biblioteca, donde trabajan en los casos de otros internos, practican la ley sin licencia y, a veces, dispensan justicia carcelaria. No obstante, se dedican sobre todo a un negocio muy lucrativo: el chantaje por correo. Todo parece ir sobre ruedas, hasta que su artimaña se vuelve contra ellos: una de las víctimas de la extorsión es una persona con quien habría sido mejor no involucrarse…</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-11T07:07:16.430395+00:00"/>
+        <meta name="calibre:title_sort" content="Hermandad, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

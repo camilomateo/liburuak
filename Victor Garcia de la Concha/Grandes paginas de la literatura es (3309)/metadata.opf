@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3309</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fbff772-b41c-44ca-bca2-8ad399e7fbb3</dc:identifier>
+        <dc:title>Grandes páginas de la literatura española</dc:title>
+        <dc:creator opf:file-as="Víctor García de la Concha" opf:role="aut">Víctor García de la Concha</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Víctor García de la Concha ha escogido las mejores páginas de nuestra literatura y acompaña cada una de un comentario donde nos desvela toda la belleza, originalidad y calidad que cada texto encierra, desde el Cantar de Mio Cid hasta la Generación del 50. &lt;/p&gt;
+&lt;p align="justify"&gt;En palabras de su autor, "este libro es el producto de un diálogo ininterrumpido de autores y lectores que van descubriendo un tesoro: las grandes páginas de la literatura española".&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467064544</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:12.910693+00:00"/>
+        <meta name="calibre:title_sort" content="Grandes páginas de la literatura española"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

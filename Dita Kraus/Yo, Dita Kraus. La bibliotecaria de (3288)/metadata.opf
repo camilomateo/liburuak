@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a199abc-15f2-45a8-84fa-64f0744a7781</dc:identifier>
+        <dc:title>Yo, Dita Kraus. La bibliotecaria de Auschwitz</dc:title>
+        <dc:creator opf:file-as="Dita Kraus" opf:role="aut">Dita Kraus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-22T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Las poderosas y emotivas memorias de Dita Kraus, la bibliotecaria de Auschwitz.&lt;br /&gt;La verdadera historia que ha conmovido a más de 5 millones de lectores en todo el mundo.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Nacida en Praga en 1929, hija de familia judía, Dita Kraus ha vivido las décadas más turbulentas de los siglos XX y XXI. En estas, sus memorias, Dita escribe con sorprendente claridad sobre los horrores y las alegrías de una vida interrumpida por el Holocausto. Desde sus primeros recuerdos y amistades de infancia en Praga antes de la guerra, hasta la ocupación nazi que llevó a ella y a su familia a ser enviadas al gueto judío en Terezín, así como al miedo y la valentía inimaginables de su encarcelamiento en Auschwitz y Bergen-Belsen, y la vida después de la liberación.&lt;/p&gt;&lt;p&gt;Dita ofrece un testimonio inquebrantable sobre las duras condiciones de los campamentos y su papel como bibliotecaria de los preciosos libros que sus compañeros prisioneros lograron pasar como contrabando esquivando la mirada vigilante de los guardias y que ella atesoró y cuidó. Pero también mira más allá del Holocausto, haciendo hincapié en la vida que reconstruyó después de la guerra: su matrimonio con su compañero, también superviviente, Otto B Kraus, una nueva vida en Israel y la felicidad y las angustias de la maternidad.&lt;/p&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418417771</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-11T07:07:17.208958+00:00"/>
+        <meta name="calibre:title_sort" content="Yo, Dita Kraus. La bibliotecaria de Auschwitz"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

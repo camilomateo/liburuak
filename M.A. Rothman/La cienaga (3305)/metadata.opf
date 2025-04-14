@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3305</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aeaed450-c851-4fd6-82a5-6516530a90f9</dc:identifier>
+        <dc:title>La ciénaga</dc:title>
+        <dc:creator opf:file-as="Rothman, M.A." opf:role="aut">M.A. Rothman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La ciénaga: Levi Yoder levanta el velo oscuro del poder&lt;/p&gt;
+&lt;p&gt;El aclamado autor superventas del USA Today presenta un nuevo y fascinante thriller que se sumerge en los entresijos del poder, la corrupción y la política más mortífera.&lt;/p&gt;
+&lt;p&gt;Levi, un personaje oscuro de la mafia de Nueva York, prefiere mantenerse en la sombra, solucionando problemas de forma discreta. Pero, cuando una enigmática organización llamada «la Panda» lo aborda para proponerle una misión peligrosa, su mundo da un vuelco traicionero. Las amenazas contra líderes mundiales se remontan a una alianza infame entre el crimen organizado y los infiltrados corruptos del gobierno a ambas orillas del Atlántico.&lt;/p&gt;
+&lt;p&gt;Lidiar con los bajos fondos es el fuerte de Levi, pero en La ciénaga se enfrentará a un laberinto de agentes sonrientes, esbirros políticos y un entramado de engaños que parece no tener fin. Aquí, el término «ciénaga» adopta un significado siniestro, y Levi se da cuenta de por qué algunos ven el gobierno como una cloaca.&lt;/p&gt;
+&lt;p&gt;En este trepidante thriller, Levi se embarca en una misión prácticamente imposible: frustrar un cataclismo inminente que podría sumir a la sociedad occidental en el caos y ser el presagio de una época aún más oscura. Mientras las amenazas se multiplican en dos continentes a pasos agigantados, Levi entabla una carrera contrarreloj, consciente de que el destino de las naciones está en juego.&lt;/p&gt;
+&lt;p&gt;Mientras se van desvelando secretos y la traición acecha en cada esquina, la misión de Levi se convierte en una lucha desesperada contra un enemigo esquivo, y nuestro protagonista debe enfrentarse a la cruda realidad de que quizá sea demasiado tarde para evitar un cataclismo que podría remodelar el mundo tal como lo conocemos. No te pierdas La ciénaga, donde los poderosos y los criminales chocan en un juego de alto riesgo por la supervivencia. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Primordial Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DZ2XMSXL</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Levi Yoder"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:11.991293+00:00"/>
+        <meta name="calibre:title_sort" content="ciénaga, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

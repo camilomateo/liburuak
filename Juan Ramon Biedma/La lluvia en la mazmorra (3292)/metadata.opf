@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3292</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">096afabb-3a31-4cc5-bd9c-6c1b2305596b</dc:identifier>
+        <dc:title>La lluvia en la mazmorra</dc:title>
+        <dc:creator opf:file-as="Juan Ramón Biedma" opf:role="aut">Juan Ramón Biedma</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-31T23:00:00+00:00</dc:date>
+        <dc:description>Durante los tres últimos días del mandato del general Primo de Rivera, la disputa por controlar un paquete de cartas destinadas a Alfonso XIII, redactadas por algunos de los prohombres más poderosos del país, obligan al escritor Enrique Jardiel Poncela, a una solitaria profesora, a una joven dramaturga y a un sereno de oscuro pasado a convertirse en detectives lo que los conducirá desde los ambientes teatrales y artísticos hasta algunos de los parajes más extravagantes del Madrid de los años treinta: apuestas clandestinas de riesgo extremo, el atraco de cadáveres con las facultades, asilos de actores, los llamados Cementerios Ambulantes o la vida oculta de la aristocracia más próxima a la monarquía; recorrido que desvelará un entramado trascendental para el futuro del país.</dc:description>
+        <dc:publisher>Ediciones Versátil</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-11T07:07:17.987493+00:00"/>
+        <meta name="calibre:title_sort" content="La lluvia en la mazmorra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

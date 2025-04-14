@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3315</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e1e8626-877b-4fb0-9e66-ed73288da7c2</dc:identifier>
+        <dc:title>Un poema pegado en la heladera</dc:title>
+        <dc:creator opf:file-as="Prieto, Mart n" opf:role="aut">Mart n Prieto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-01T15:47:41+00:00</dc:date>
+        <dc:description>&lt;div data-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;p&gt;Las
+ “noticias” que conforman este libro son clases de apreciación de 
+poesía. Martín Prieto, poeta y profesor que enseña a leer poesía, 
+estructura su libro como clases y, como también es narrador, las clases 
+se leen como cuentos. Prieto, que también es historiador de la 
+literatura, persigue e investiga la estela de los poemas y los poetas. 
+El hecho de ser un lector experimentado no le impide asombrarse ante 
+cada poema, ante cada verso, como si fuera la primera vez.&lt;/p&gt;&lt;p&gt;Poemas
+ y poetas son los personajes de este libro, en el que no faltan ni el 
+análisis agudo ni el retrato ajustado. Además de citarlos, además de 
+enseñarlos y analizarlos, Prieto dice, paladea y vuelve decir cada poema
+ y cada poeta. Los poemas y los poetas se dicen, se analizan, se cuentan
+ y se enseñan para que así haya cada vez más poemas y más poetas.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:14.278408+00:00"/>
+        <meta name="calibre:title_sort" content="Un poema pegado en la heladera"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8749ea6c-98d2-42a6-95a3-f1bfd68bde19</dc:identifier>
+        <dc:title>De tigres y gacelas</dc:title>
+        <dc:creator opf:file-as="Ginés Sánchez" opf:role="aut">Ginés Sánchez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-05T11:14:30+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Rocío Martínez fue una belleza cuando tenía quince años, aunque ahora ha engordado demasiado y se ha visto forzada a ocultar media cara tras una máscara. Ella será la inspiradora involuntaria del atraco que David el Mono y su primo, Rubén el Chato, planean contra la organización de don Jorge Illescas, un golpe con el que costear la reconstrucción del rostro de Rocío. Don Jorge Illescas se pasa la vida viajando por el mundo, haciendo negocios de dudosa legalidad que le han labrado incontables enemigos, casi siempre acompañado por Tania, su amante, una tratante de arte. El Chino, un matón salvaje y adicto, recibe el encargo de ir tras los pasos de don Jorge, desaparecido desde hace un tiempo, con el encargo de encontrar una valiosa estatuilla que debía de estar en su poder. Y en la búsqueda de esa escultura se dará de bruces, algún tiempo después, con la familia de Rocío y el Mono. De tigres y gacelas es una fiesta narrativa que nunca deja de sorprender al lector, llena de giros argumentales, una mezcla explosiva entre El halcón maltés y Death Proof.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-11T07:07:17.612783+00:00"/>
+        <meta name="calibre:title_sort" content="De tigres y gacelas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

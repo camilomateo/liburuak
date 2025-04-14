@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3306</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee1e7ffb-d112-46e2-9a76-3583aed9188d</dc:identifier>
+        <dc:title>Cúrame tiempo</dc:title>
+        <dc:creator opf:file-as="Gallardo, Javier" opf:role="aut">Javier Gallardo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-06T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Un viaje emocional de la mano de Javier Gallardo para dejar que el tiempo nos cure las heridas.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;No se puede disfrutar del &lt;span class="a-text-italic"&gt;presente,&lt;/span&gt;&lt;/p&gt;&lt;p&gt;sin hacer las paces con el &lt;span class="a-text-italic"&gt;pasado.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Cuando sufrimos una herida es muy fácil creer que &lt;span class="a-text-bold"&gt;no hay solución&lt;/span&gt;, que el dolor nunca se irá y que, desde ese momento, &lt;span class="a-text-bold"&gt;ya nada tiene sentido&lt;/span&gt;.
+ También es fácil pensar que el tiempo todo lo cura, que solo hay que 
+esperar y el dolor se irá solo. Pero lo cierto es que nada es tan fácil 
+ni tan difícil. Para sanar esas heridas que se esconden debajo de la 
+piel, &lt;span class="a-text-bold"&gt;hace falta saber olvidar y perdonar, quererse a uno mismo y aprender a vivir en paz.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;El tiempo todo lo cura, pero las cicatrices dependerán de lo que hagas durante ese tiempo. Por eso te pido que &lt;span class="a-text-bold"&gt;me acompañes en este viaje&lt;/span&gt;, serán solo tres paradas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:12.231741+00:00"/>
+        <meta name="calibre:title_sort" content="Cúrame tiempo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

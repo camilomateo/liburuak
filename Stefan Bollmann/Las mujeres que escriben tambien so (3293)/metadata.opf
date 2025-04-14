@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3293</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b68a09e-9180-4403-8a6a-57ef8a617a5e</dc:identifier>
+        <dc:title>Las mujeres que escriben también son peligrosas</dc:title>
+        <dc:creator opf:file-as="Bollmann, Stefan" opf:role="aut">Stefan Bollmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-01T06:00:00+00:00</dc:date>
+        <dc:description>La literatura ha sido tradicionalmente un terreno reservado a los hombres y, hasta bien entrado al siglo XX, las pocas mujeres que se atrevían a tomar la pluma solían utilizar seudónimos masculinos para ocultar semejante acto de rebeldía. Sin embargo, ya en el siglo XIII algunas mujeres se atrevían a escribir en un mundo en el que sólo unas poquísimas privilegiadas tenían acceso siquiera a la lectura. Esta interesante y reveladora obra, llena de ilustraciones y fotografías, propone repasar la trayectoria de las escritoras más destacadas que ha dado la historia, como las hermanas Brönte, Jane Austen, George Sand o Virginia Woolf.</dc:description>
+        <dc:publisher>Maeva</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:08.634908+00:00"/>
+        <meta name="calibre:title_sort" content="mujeres que escriben también son peligrosas, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

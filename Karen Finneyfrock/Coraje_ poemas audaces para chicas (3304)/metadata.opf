@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3304</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ed7eeb3-d121-47e8-b88f-45b76a3a9087</dc:identifier>
+        <dc:title>Coraje: poemas audaces para chicas valientes</dc:title>
+        <dc:creator opf:file-as="Finneyfrock, Karen" opf:role="aut">Karen Finneyfrock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-27T06:00:00+00:00</dc:date>
+        <dc:description>“No podemos controlar el mundo que habitarán y contribuirán a crear las chicas adolescentes. Pero si pudiésemos darles un amuleto para llevar en el bolsillo, sería el coraje. Por eso, en vez de una espada, o de un camino de baldosas amarillas, aquí va este libro.”,,Esta antología de poemas de algunas de las poetas más potentes y representativas del panorama actual estadounidense pretende ser una despensa sin fondo de la que niñas, chicas y mujeres extraigan la ración exacta de coraje que la vida les pida a cada momento.</dc:description>
+        <dc:publisher>2024</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:11.763208+00:00"/>
+        <meta name="calibre:title_sort" content="Coraje: poemas audaces para chicas valientes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

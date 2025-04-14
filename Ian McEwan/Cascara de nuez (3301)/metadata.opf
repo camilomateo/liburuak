@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98388cf7-9650-47b4-ae5d-91d98c957f68</dc:identifier>
+        <dc:title>Cáscara de nuez</dc:title>
+        <dc:creator opf:file-as="McEwan, Ian" opf:role="aut">Ian McEwan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-01T06:00:00+00:00</dc:date>
+        <dc:description>Trudy mantiene una relación adúltera con Claude, hermano de su marido John. Éste, poeta y editor de poesía, es un soñador depresivo con tendencia a la obesidad cuyo matrimonio se está desintegrando. Claude es más pragmático y trabaja en negocios inmobiliarios. La pareja de amantes concibe un plan: asesinar a John envenenándolo. El motivo: una mansión georgiana valorada en unos ocho millones de libras que, si John muere, heredará Trudy. Pero resulta que hay un testigo de esta maquinación criminal: el feto que Trudy lleva en sus entrañas. Y en una pirueta de triple salto mortal que parece imposible de sostener pero le sale redonda, McEwan convierte al feto, al que todavía no han puesto nombre porque no ha nacido, en el narrador de la novela, desde la primera página hasta la última. Lo que sigue es una mezcla genial de comedia negra, trama detectivesca y astuta reescritura intrauterina de un gran clásico, por cuyas páginas asoman también una joven poetisa amante de John y una bregada inspectora de policía. Pero además de observar desde primera fila los preparativos del asesinato de su padre a manos de su madre, el feto filosofa sobre el mundo y la vida, lanza preguntas incómodas y se lo cuestiona todo, mientras las copas de vino, y alguna bebida de más graduación, que bebe su madre tienen efectos mareantes sobre él.</dc:description>
+        <dc:publisher>Anagrama</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:11.010199+00:00"/>
+        <meta name="calibre:title_sort" content="Cáscara de nuez"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

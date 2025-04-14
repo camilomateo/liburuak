@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3285</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89fe4c15-8df3-4010-b8f3-e82dbf80c5bd</dc:identifier>
+        <dc:title>Rehenes</dc:title>
+        <dc:creator opf:file-as="Camino, Phil" opf:role="aut">Phil Camino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Después del éxito de Patria, de Fernando Aramburu, la sociedad española ha demostrado que está preparada para escuchar historias sobre lo que sucedió en España con el terrorismo de ETA. Una parte importante de nuestros jóvenes —se quejan muchos— no saben bien qué fue ETA. La autora misma lo ha constatado y por eso relanza esta novela que nunca llegó a las librerías y que ganó hace diez años el «Premio Bubok de novela» en cuyo jurando estaban: Rosa Regás, Andrés Teixidor, José Ángel Mañas, Javier Celaya y Lorenzo Silva. Contar historias, desde la ficción, es parte de esa deuda que hemos adquirido con esos jóvenes y es parte de ese restablecimiento de la memoria colectiva que toda sociedad debe hacer. Desde la política, pero también desde la literatura.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>La Huerta Grande</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418657566</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-11T07:07:16.610874+00:00"/>
+        <meta name="calibre:title_sort" content="Rehenes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

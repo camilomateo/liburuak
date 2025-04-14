@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39092874-ec80-41db-a7f2-cd262aed8b9b</dc:identifier>
+        <dc:title>Primeras luces</dc:title>
+        <dc:creator opf:file-as="Battilana, Carlos" opf:role="aut">Carlos Battilana</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-03-10T03:14:12+00:00</dc:date>
+        <dc:description>&lt;p&gt;Hay un pueblo de fronteras donde el español o el portugués se 
+juntan con el guaraní. Hay noches de carnaval donde los cuerpos 
+centellean al son de las comparsas, es el descubrimiento del ansia, de 
+la cadencia y del ritmo. También hay un barrio en el conurbano 
+bonaerense donde la hermandad de los niños se prolonga en juegos y 
+palabras. La lectura introduce en las horas de lo cotidiano una 
+suspensión, una demora, un margen de reserva íntimo que desata el 
+estremecimiento. Se abre un tiempo fuera del tiempo que lleva a la 
+poesía, esa zona de la lengua que es revelación luminosa, candor, 
+perplejidad, siempre reacia al deber o al envejecimiento. Un libro puede
+ encandilar dice el poeta en estas páginas. O ser una visión fulgurante 
+que nos mantiene en vilo.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:13.358292+00:00"/>
+        <meta name="calibre:title_sort" content="Primeras luces"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

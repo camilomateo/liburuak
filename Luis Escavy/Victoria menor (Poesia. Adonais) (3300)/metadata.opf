@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e12a164-c1a5-4e19-b1ac-b2b227feb42b</dc:identifier>
+        <dc:title>Victoria menor (Poesía. Adonáis)</dc:title>
+        <dc:creator opf:file-as="Escavy, Luis" opf:role="aut">Luis Escavy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-27T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Victoria menor consiguió el Premio Adonáis en su 76.ª convocatoria
+ «por su sentido del ritmo, su respeto a los maestros y su rechazo tanto
+ de cualquier desgarro formal como de toda floritura innecesaria, 
+desarrollado en un cancionero amoroso con timbres trascendentes», según 
+el juicio del jurado. Dividido en dos apartados, el libro se genera tras
+ el fin de una relación de pareja y la irrupción de otra nueva, 
+suponiendo ese proceso un ejercicio doloroso de indagación que permite 
+al autor ahondar principalmente en las claves de las relaciones humanas 
+–en particular las amorosas– y en sus propias emociones, siempre 
+marcadas por el desarraigo y la ternura.
+&lt;br&gt;
+&lt;br&gt;Con un lenguaje firme, reflexivo, en ocasiones conversacional y, por
+ lo común, penetrante y lúcido, Escavy consigue crear un universo 
+esplendente, caracterizado por las diferentes consideraciones que hace 
+sobre la manera de entender la entrega; entre ellas toma cuerpo la que 
+él mismo experimenta en su trato con personas religiosas, apartadas del 
+mundo, que, como él, descubren que «el amor es la luz y es nuestra 
+sombra» –tal cual apunta en algún poema–, pensamiento catalizador del 
+poemario. &lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Rialp, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432163470</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0BY34GBC6</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesia</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:10.440948+00:00"/>
+        <meta name="calibre:title_sort" content="Victoria menor (Poesía. Adonáis)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
