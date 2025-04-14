@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">80db4bf2-d6c8-4316-885e-16cba68930a9</dc:identifier>
         <dc:title>El explorador</dc:title>
         <dc:creator opf:file-as="Tana French" opf:role="aut">Tana French</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-05T22:00:00+00:00</dc:date>
         <dc:description>Una desaparición. Un pueblo pequeño. Una pregunta pendiente de respuesta...
 
@@ -19,8 +19,7 @@ La que es la más brillante escritora de suspense de nuestros días teje un magi
         <dc:publisher>Alianza Editorial</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B08ZDGM5TZ</dc:identifier>
         <dc:language>spa</dc:language>
-        <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2024-08-26T08:56:06.581943+00:00"/>
+        <meta name="calibre:timestamp" content="2024-08-26T08:56:06+00:00"/>
         <meta name="calibre:title_sort" content="El explorador"/>
     </metadata>
     <guide>

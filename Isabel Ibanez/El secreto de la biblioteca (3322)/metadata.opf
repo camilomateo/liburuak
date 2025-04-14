@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3322</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49cec492-60f7-429c-a8d6-ffd00f492784</dc:identifier>
+        <dc:title>El secreto de la biblioteca</dc:title>
+        <dc:creator opf:file-as="Ibañez, Isabel" opf:role="aut">Isabel Ibañez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-24T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Inez Olivera ha cruzado el mundo entero para llegar a Egipto en busca de respuestas sobre las recientes y misteriosas muertes de sus padres. Pero su búsqueda la ha llevado por un camino peligroso, lleno de dolor y traición, y con una magia peligrosa que la ha arrastrado de vuelta al pasado.&lt;br&gt;&lt;br&gt;Cuando su tío Ricardo le da un ultimátum con respecto a su herencia, solo le queda una opción para quedarse en Egipto: casarse con Whitford Hayes.&lt;br&gt;&lt;br&gt;Antiguo soldado británico, el ayudante de su tío y su antiguo enemigo, Whit tiene sus propios y misteriosos motivos para querer que se quede en Egipto. Con su corazón en juego, Inez tendrá que vincular su destino a la única persona cuyos planes secretos podrían arruinarla para siempre.&lt;br&gt;&lt;br&gt;Una fantasía explosiva y envolvente ambientada en el Egipto del siglo XIX, llena de aventuras y con un romance entre rivales sin igual.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Puck</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-13T12:58:23.693609+00:00"/>
+        <meta name="calibre:title_sort" content="secreto de la biblioteca, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

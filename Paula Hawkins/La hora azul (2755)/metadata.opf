@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4c70396e-91e8-401b-b6f0-1beb3a2585ce</dc:identifier>
         <dc:title>La hora azul</dc:title>
         <dc:creator opf:file-as="Hawkins, Paula" opf:role="aut">Paula Hawkins</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2024-10-16T14:29:28+00:00</dc:date>
         <dc:description>&lt;div&gt;&lt;p&gt;&lt;span&gt;Cuando la Tate Modern descubre que el hueso utilizado en una de
  las esculturas más famosas de la célebre y ya fallecida artista Vanessa
@@ -20,8 +20,7 @@ algo mucho más siniestro y mucho más imprevisible, que puede poner en
 peligro su propia vida.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Grupo Planeta</dc:publisher>
         <dc:language>spa</dc:language>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2024-12-22T10:36:55.063087+00:00"/>
+        <meta name="calibre:timestamp" content="2024-12-22T10:36:55+00:00"/>
         <meta name="calibre:title_sort" content="hora azul, La"/>
     </metadata>
     <guide>

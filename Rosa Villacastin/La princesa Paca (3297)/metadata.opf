@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f925863f-43d9-45f2-8e3f-097226c687d8</dc:identifier>
+        <dc:title>La princesa Paca</dc:title>
+        <dc:creator opf:file-as="Villacastín, Rosa &amp; Francisco Reina, Manuel" opf:role="aut">Rosa Villacastín</dc:creator>
+        <dc:creator opf:file-as="Villacastín, Rosa &amp; Francisco Reina, Manuel" opf:role="aut">Manuel Francisco Reina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-22T06:00:00+00:00</dc:date>
+        <dc:description>En el París de la bohemia, los poetas le dieron el título de «princesa Paca». Ella no era más que una muchacha enamorada, humilde y analfabeta, pero el amor enriquece y enseña muchas cosas. La pasión y el amor desinteresado fueron su única guía, y todos los caminos la condujeron hacia los brazos de aquel hombre de labios gruesos y sensibilidad herida que venía del otro lado del océano… Cuando Francisca Sánchez, la hija del jardinero del rey, conoce por casualidad en la Casa de Campo de Madrid a dos de los escritores más importantes del momento, Valle-Inclán y Rubén Darío, no sospecha que su vida vaya a cambiar para siempre. Rompiendo las barreras de clase y educación que los separan, Francisca inicia un apasionado romance con Rubén Darío. Su relación con el poeta nicaragüense la llevará del mundo rural de la España profunda a París, la cuna del arte y la poesía de principios del siglo XX. Pero las estrictas normas sociales de la época le harán pagar caro su deseo de ser feliz. Una extraordinaria novela que, a partir de una documentación exhaustiva y de cartas de amor inéditas, relata la increíble historia de la abuela de Rosa Villacastín. Una mujer fuerte y adelantada a su tiempo que, salida de la nada, enamoró a un príncipe de la palabra y cautivó a toda una generación de grandes poetas.</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:09+00:00"/>
+        <meta name="calibre:title_sort" content="princesa Paca, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

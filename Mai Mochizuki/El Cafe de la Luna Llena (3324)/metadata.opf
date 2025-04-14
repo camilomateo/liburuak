@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7756382b-055e-4f49-a0eb-3fd82641d22d</dc:identifier>
+        <dc:title>El Café de la Luna Llena</dc:title>
+        <dc:creator opf:file-as="Mochizuki, Mai" opf:role="aut">Mai Mochizuki</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-20T00:00:00+00:00</dc:date>
+        <dc:description>Adéntrate es esta delicia de la literatura japonesa, un libro lleno de música, astrología, riquísimos postres e increíbles ilustraciones, y con un bello mensaje sobre el poder de las emociones y la magia del destino. Cuenta la leyenda que, bajo la resplandeciente luna de Kioto, una cafetería mágica aparece ante aquellos que la necesitan...En Japón, los gatos son símbolo de buena suerte y dicen que, si eres amable con ellos, algún día te devolverán el favor. Pero resulta que si, además, te portas bien con el felino adecuado, puede que este te invite a entrar a una cafetería que no es como las demás, ya que no tiene una ubicación ni un horario fijo y se muestra solo a las personas que se encuentran en un momento crucial.Mientras los clientes de El Café de la Luna Llena disfrutan de sus deliciosos dulces, cafés y tés, un gato muy carismático lee su carta astral para así hacerles ver en qué punto han tomado el rumbo equivocado y devolverlos al camino que las estrellas tienen...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-13T12:58:25.039094+00:00"/>
+        <meta name="calibre:title_sort" content="Café de la Luna Llena, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

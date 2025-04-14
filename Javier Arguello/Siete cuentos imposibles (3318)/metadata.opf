@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09710f03-5c20-40c4-82f6-6a423f37b67c</dc:identifier>
+        <dc:title>Siete cuentos imposibles</dc:title>
+        <dc:creator opf:file-as="Argüello, Javier" opf:role="aut">Javier Argüello</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-02T00:00:00+00:00</dc:date>
+        <dc:description>«JavierArgüello es, sinduda, uno delosescritoresactualesmásinteresantesennuestra lengua».ZendaEn su primer y deslumbrante libro, Javier Argüello reúne siete cuentos de estirpe fantástica, deudores y renovadores de la tradición fundada por Gógol, Poe, Maupassant o Borges. Dueño de un estilo sutil y eficaz, Argüello nos cuenta historias inquietantes y turbadoras, a veces espeluznantes, hechas con la materia que se extiende tras el filo de la realidad.Cada una de estas siete piezas nos hipnotiza tanto por el bien medido ritmo de su prosa como por el dibujo de los personajes y su trama envolvente y sobrecogedora.En la primera, por ejemplo, Argüello narra las vicisitudes de un hombre que cree que escribe un relato cuando en verdad tan solo es el personaje de otro relato que vive atrapado en la telaraña de la ficción.En otro cuento nos mantendrá en vilo con la increíble y maravillosa historia de un hombre a quien un profesor de astronomía ordena que construya una casa al revés...</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-13T12:58:20.999429+00:00"/>
+        <meta name="calibre:title_sort" content="Siete cuentos imposibles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

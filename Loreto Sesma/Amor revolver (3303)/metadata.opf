@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3303</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">434a9a5d-87c6-40ce-8de1-2b058622109d</dc:identifier>
+        <dc:title>Amor revólver</dc:title>
+        <dc:creator opf:file-as="Sesma, Loreto" opf:role="aut">Loreto Sesma</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded"&gt; &lt;p&gt;&lt;span class="a-text-bold a-text-italic"&gt;Amor revólver&lt;/span&gt;
+ es un poemario con seis balas. Como ocurre en la ruleta rusa, quién 
+empieza y si le va a tocar a él o no es algo completamente arbitrario. 
+El lector tiene que jugar con las seis balas hasta que, inevitablemente,
+ una sea la que le traspase. Las balas, por supuesto, son las palabras 
+de Loreto.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:11+00:00"/>
+        <meta name="calibre:title_sort" content="Amor revólver"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

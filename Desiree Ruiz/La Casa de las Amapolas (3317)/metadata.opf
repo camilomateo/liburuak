@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a35b3aeb-20a2-4b1a-b6b0-e6b08f52a4a0</dc:identifier>
+        <dc:title>La Casa de las Amapolas</dc:title>
+        <dc:creator opf:file-as="Ruiz, Desirée" opf:role="aut">Desirée Ruiz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-04T11:42:25+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un secreto enterrado durante décadas. Un refugio donde cicatrizar las heridas&lt;/p&gt;
+&lt;p&gt;Flora, una solitaria mujer envuelta en un halo de misterio, vive retirada en La Casa de las Amapolas, un lugar idílico pero apartado de todo en plena sierra de Albarracín.&lt;/p&gt;
+&lt;p&gt;Tras la desaparición de su hija, Aurora, y de la amiga de esta, Blanca, Flora dejó atrás todo su mundo: su hijo Dani, su marido y el trabajo, y se trasladó allí. Eso fue hace más de veinte años. Nunca más se supo de las chicas desaparecidas y ambas familias quedaron destrozadas. La Casa de las Amapolas se convirtió entonces en el refugio donde intentar cicatrizar sus heridas.&lt;/p&gt;
+&lt;p&gt;Ahora que el hijo de Flora también ha fallecido, su nuera y su nieta planean mudarse a La Casa de las Amapolas con ella, lo que trastocará la vida de las tres mujeres, removerá el pasado y sacará a la luz la terrible verdad de la desaparición de Aurora y Blanca.&lt;/p&gt;
+&lt;p&gt;Una apasionante novela en la que la autora combina con gran sensibilidad una tragedia familiar y la esperanza de un nuevo comienzo. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>NdeNovela</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-13T12:58:20.362827+00:00"/>
+        <meta name="calibre:title_sort" content="Casa de las Amapolas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

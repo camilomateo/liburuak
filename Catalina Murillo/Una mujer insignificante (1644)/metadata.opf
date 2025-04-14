@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">405159e2-43e4-476b-8b5e-b0f7091e81a6</dc:identifier>
         <dc:title>Una mujer insignificante</dc:title>
         <dc:creator opf:file-as="Murillo, Catalina" opf:role="aut">Catalina Murillo</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2024-02-29T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;«Lo que hace cien años era una mujer enamorada, hoy es una mujer medicada».&lt;/p&gt;
@@ -15,8 +15,7 @@
         <dc:publisher>Alfaguara</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9786073844505</dc:identifier>
         <dc:language>spa</dc:language>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2024-06-22T12:04:43.356673+00:00"/>
+        <meta name="calibre:timestamp" content="2024-06-22T12:04:43+00:00"/>
         <meta name="calibre:title_sort" content="mujer insignificante, Una"/>
     </metadata>
     <guide>

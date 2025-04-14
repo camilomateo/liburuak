@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3319</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9e4bc2f-adda-4906-983c-3eaafcca6ab1</dc:identifier>
+        <dc:title>El ahorcado</dc:title>
+        <dc:creator opf:file-as="Kernick, Simon" opf:role="aut">Simon Kernick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-03T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Siete víctimas, tres asesinos y el secreto que los une. &lt;/p&gt;
+&lt;p&gt;Tres meses después de encontrar los restos de sietes mujeres en una granja remota en lo que los medios han bautizado como el Campo de Huesos, las víctimas siguen sin ser identificadas. &lt;/p&gt;
+&lt;p&gt;Un testigo que puede ser clave ha desaparecido. El agente Ray Mason y la detective privada Tina Boyd deben encontrarlo antes de que lo hagan los asesinos. &lt;/p&gt;
+&lt;p&gt;En una carrera a contrarreloj repleta de cadáveres y traiciones a cada paso, Ray está dispuesto a arriesgarlo todo para dar caza a los culpables. &lt;/p&gt;
+&lt;p&gt;Pero a veces el precio a pagar es demasiado alto…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jentas</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DK71N5WL</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Ray Mason"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-04-13T12:58:21.634230+00:00"/>
+        <meta name="calibre:title_sort" content="ahorcado, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

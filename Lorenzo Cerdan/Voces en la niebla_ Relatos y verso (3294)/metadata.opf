@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3294</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9d24a77-4f83-4064-86bd-2445c7a44a4b</dc:identifier>
+        <dc:title>Voces en la niebla: Relatos y versos de una noche de ensueño</dc:title>
+        <dc:creator opf:file-as="Cerdan, Lorenzo" opf:role="aut">Lorenzo Cerdan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-20T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La literatura ofrece un vasto abanico de posibilidades para dejarnos llevar o para escaparnos a realidades alternas. Desde la pluma poética hasta la narrativa, pasando por el ensayo y la prosa, cada género o estilo puede ofrecer una experiencia única para movilizar nuestros sentidos. A través de las palabras, se pueden evocar sentimientos tales como: la alegría, la esperanza, la tristeza, e incluso la melancolía. Cada línea escrita puede transportar al lector a mundos imaginarios o hacerle reflexionar sobre su propia experiencia. Lorenzo Cerdan amalgama la poesía con los relatos, transformándolos en vehículos poderosos para expresar emociones, y es a través de esos géneros que nos sumerge en temas filosóficamente profundos, que sacan a flote estados de ánimo y cuestiones existenciales como el amor, la amistad y los deseos. Definitivamente, Voces en la niebla es de esos libros que invitan a la reflexión y a la introspección. Tenerlo a mano puede ser reconfortante para encontrar claridad o simplemente para recordar que no estamos solos a la hora de iniciar nuestros viajes internos.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>El guardián literario</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">RdcHEQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789878346878</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Mashups</dc:subject>
+        <dc:subject>Family Life</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:08+00:00"/>
+        <meta name="calibre:title_sort" content="Voces en la niebla: Relatos y versos de una noche de ensueño"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

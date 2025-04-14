@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">709c4947-b210-42c1-9dad-fb78bb31f0ba</dc:identifier>
         <dc:title>El bosque Birnam</dc:title>
         <dc:creator opf:file-as="Catton, Eleanor" opf:role="aut">Eleanor Catton</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2024-07-01T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;strong&gt;La autora de&lt;/strong&gt; Las luminarias &lt;strong&gt;, galardonada con el Premio Booker, nos trae&lt;/strong&gt; El Bosque Birnam &lt;strong&gt;, un&lt;/strong&gt; thriller &lt;strong&gt;fascinante cargado de fuerza dramática y una visión caleidoscópica de lo que nos motiva a sobrevivir.&lt;/strong&gt;&lt;/p&gt;
@@ -17,8 +17,7 @@
 &lt;p&gt;«Una obra fruto de la genialidad: una trama elaborada, ideas fantásticas y una lectura más que agradable». KEVIN POWER, &lt;em&gt;THE GUARDIAN&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Plata</dc:publisher>
         <dc:language>spa</dc:language>
-        <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2024-09-02T14:41:23.730693+00:00"/>
+        <meta name="calibre:timestamp" content="2024-09-02T14:41:23+00:00"/>
         <meta name="calibre:title_sort" content="bosque Birnam, El"/>
     </metadata>
     <guide>

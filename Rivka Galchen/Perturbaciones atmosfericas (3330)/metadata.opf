@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3330</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edd1619c-024d-40f3-8183-2e0136b5ac0d</dc:identifier>
+        <dc:title>Perturbaciones atmosféricas</dc:title>
+        <dc:creator opf:file-as="Galchen, Rivka" opf:role="aut">Rivka Galchen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-02T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Una tarde cualquiera en Nueva York, el psiquiatra Leo Liebenstein se da cuenta de que la mujer que ha entrado en su casa con un perro y actúa como Rema&lt;/strong&gt; —su esposa de origen argentino sobre la que sabe casi todo pero también, en cierto sentido, poco y nada— no es Rema. O él cree que no es Rema. El simulacro, como él la llama, parece su mujer «representada por alguien un poco mayor». El doctor Liebenstein, que narra la historia, emprende entonces la búsqueda de su esposa real en simultáneo con la búsqueda de uno de sus pacientes, que ha desaparecido, y cuya psicosis (la creencia en que puede controlar el clima) se encuentra tratando con una terapia experimental ideada por Rema: encargarle misiones atmosféricas en nombre del meteorólogo Tzvi Gal-Chen, miembro de la Real Academia de Meteorología. Todas estas variables se combinan en la resolución del misterio de la sustitución de Rema: el paciente perdido en acción, las investigaciones de Tzvi Gal-Chen, el origen argentino de Rema y su pasado familiar, la burocracia de la Real Academia de Meteorología. De modo que la pesquisa lo lleva primero a Buenos Aires y luego a la Patagonia, donde algunos de los enigmas se resuelven y otros, por supuesto, se despliegan.&lt;/p&gt;
+&lt;p&gt;Comedia de enredos, historia de detectives, escrita a la manera de un relato clínico, Perturbaciones atmosféricas es ante todo una novela deliciosa sobre la dimensión ficcional de lo real, o la dimensión real de la ficción, que juega además con el costado poético de los lenguajes técnicos, el carácter tragicómico de las burocracias institucionales y la intuición de que el amor es, en esencia, un estado delirante. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Fiordo Editorial</dc:publisher>
+        <dc:identifier opf:scheme="DOI">9786316630049</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-13T12:58:29.078264+00:00"/>
+        <meta name="calibre:title_sort" content="Perturbaciones atmosféricas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

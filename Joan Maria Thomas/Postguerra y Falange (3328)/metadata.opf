@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">937c0453-61dc-4d01-a0d1-a024892786ee</dc:identifier>
+        <dc:title>Postguerra y Falange</dc:title>
+        <dc:creator opf:file-as="Joan Maria Thomàs" opf:role="aut">Joan Maria Thomàs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-14T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una visión inédita de la consolidación de la Falange como fundamental brazo civil organizado del Régimen franquista.&lt;/p&gt;
+&lt;p&gt;A partir de una ingente documentación inédita del archivo personal de José Luis de Arrese durante su primera etapa como ministro secretario general de FET y de las JONS entre 1941 y 1945, Joan Maria Thomàs explica en Postguerra y Falange cómo se consolidó el partido único como fundamental brazo civil organizado del Régimen franquista.&lt;/p&gt;
+&lt;p&gt;Las páginas de este exhaustivo estudio detallan el modo en que sus líderes ejercían el mando; la violencia estructural que practicaba la organización ―que formaba parte de su ADN―; su populismo, al presentarse como auténtico y único representante del pueblo y plantear medidas «sociales» en medio de un panorama de desolación, hambre y privaciones; su voluntad de lograr la hegemonía sobre el resto de sectores franquistas (algo que jamás conseguirían); y su gran oportunismo político.&lt;/p&gt;
+&lt;p&gt;El mesianismo de los falangistas fue, en última instancia, su principal seña de identidad. Creían en su papel señero e imprescindible en tanto que proveedores de la única doctrina capaz de llevar a España a su plenitud, liderada por un jefe nacional, Francisco Franco, flanqueado por un José Luis de Arrese que acabaría arrogándose ni más ni menos que el papel de intérprete máximo del pensamiento del fundador del partido, José Antonio Primo de Rivera. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>DEBATE</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-13T12:58:27.551153+00:00"/>
+        <meta name="calibre:title_sort" content="Postguerra y Falange"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

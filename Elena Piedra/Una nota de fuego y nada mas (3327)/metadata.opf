@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3327</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28564dab-906a-48b0-8efa-f5caec04ed4e</dc:identifier>
+        <dc:title>Una nota de fuego y nada más</dc:title>
+        <dc:creator opf:file-as="Piedra, Elena" opf:role="aut">Elena Piedra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-02T08:34:58+00:00</dc:date>
+        <dc:description>Íntima, sobrecogedora, abrasadora, en Una nota de fuego y nada más —ópera prima de Elena Piedra— se exponen las dolorosas motivaciones de un crimen, más trágico aún pues se asienta en el seno familiar y en el espinoso lazo de la maternidad.Desde que la palabra incendio irrumpió en su cabeza, Fernanda —una joven que nunca pudo tener una relación sana con su madre— no ha podido pensar en otra cosa. Avivado por una historia familiar de silencios y rencores, un ímpetu homicida poco a poco cobra forma dentro de su cabeza y el fuego se revela como el único camino hacia la libertad. Años atrás, abuela, madre, tías y primas eran su mundo entero, pero ahora urdir el modo más efectivo para acabar con ellas no le genera ningún cargo de conciencia. ¿Hasta dónde somos capaces de llegar para arrancar de raíz el dolor que nos provocan las acciones de quienes más queremos?</dc:description>
+        <dc:publisher>Tusquets México</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-13T12:58:26.903578+00:00"/>
+        <meta name="calibre:title_sort" content="nota de fuego y nada más, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

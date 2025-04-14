@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3314</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd1246f0-dca6-4e1e-ac49-1ba571da960a</dc:identifier>
+        <dc:title>Nuestros recuerdos</dc:title>
+        <dc:creator opf:file-as="ortega, Amalia" opf:role="aut">Amalia ortega</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-07T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"&gt; &lt;span class="a-text-bold"&gt;"nuestros recuerdos" &lt;/span&gt;es
+ una cautivadora colección de poesía que explora el amor, el desamor y 
+la sanación. El poeta guía a los lectores a través de una montaña rusa 
+de emociones, arrojando luz sobre las complejidades de las relaciones y 
+la resistencia del espíritu humano. Este libro sirve como testamento del
+ poder de la poesía para sanar corazones y encontrar consuelo durante 
+los desafíos de la vida.  &lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CHN74LG2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-11T07:27:14+00:00"/>
+        <meta name="calibre:title_sort" content="Nuestros recuerdos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -11,45 +11,6 @@
   "grouped_search_terms": {},
   "tag_browser_hidden_categories": [],
   "library_view books view state": {
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    },
-    "column_positions": {
-      "authors": 2,
-      "formats": 13,
-      "id": 12,
-      "languages": 11,
-      "last_modified": 10,
-      "ondevice": 0,
-      "path": 14,
-      "pubdate": 9,
-      "publisher": 8,
-      "rating": 5,
-      "series": 7,
-      "size": 4,
-      "tags": 6,
-      "timestamp": 3,
-      "title": 1
-    },
-    "column_sizes": {
-      "authors": 123,
-      "formats": 0,
-      "id": 0,
-      "languages": 0,
-      "last_modified": 0,
-      "path": 0,
-      "pubdate": 82,
-      "publisher": 283,
-      "rating": 87,
-      "series": 116,
-      "size": 100,
-      "tags": 128,
-      "timestamp": 83,
-      "title": 350
-    },
-    "formats_injected": true,
     "hidden_columns": [
       "id",
       "formats",
@@ -57,11 +18,20 @@
       "last_modified",
       "languages"
     ],
-    "id_injected": true,
-    "languages_injected": true,
     "last_modified_injected": true,
+    "languages_injected": true,
+    "formats_injected": true,
+    "id_injected": true,
     "path_injected": true,
     "sort_history": [
+      [
+        "timestamp",
+        true
+      ],
+      [
+        "rating",
+        false
+      ],
       [
         "timestamp",
         false
@@ -78,7 +48,45 @@
         "timestamp",
         false
       ]
-    ]
+    ],
+    "column_positions": {
+      "ondevice": 0,
+      "id": 12,
+      "title": 1,
+      "authors": 2,
+      "timestamp": 3,
+      "size": 4,
+      "rating": 5,
+      "tags": 6,
+      "series": 7,
+      "publisher": 8,
+      "formats": 13,
+      "path": 14,
+      "pubdate": 9,
+      "last_modified": 10,
+      "languages": 11
+    },
+    "column_sizes": {
+      "id": 0,
+      "title": 350,
+      "authors": 123,
+      "timestamp": 83,
+      "size": 100,
+      "rating": 87,
+      "tags": 128,
+      "series": 116,
+      "publisher": 283,
+      "formats": 0,
+      "path": 0,
+      "pubdate": 82,
+      "last_modified": 0,
+      "languages": 0
+    },
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    }
   },
   "books view split pane state": {
     "column_positions": {
@@ -661,6 +669,38 @@
   },
   "gui_view_history": [
     [
+      843,
+      "Cicatrices en el hielo"
+    ],
+    [
+      838,
+      "Los muertos no saben nadar"
+    ],
+    [
+      3335,
+      "LA CHICA SOLA"
+    ],
+    [
+      3352,
+      "Learning Patterns"
+    ],
+    [
+      3354,
+      "La Esposa Perfecta Un Thriller de Suspen-epub"
+    ],
+    [
+      3344,
+      "Cuentos para ni\u00f1os (y no tan ni\u00f1os)"
+    ],
+    [
+      3345,
+      "NO COMO NOSOTROS"
+    ],
+    [
+      3297,
+      "La princesa Paca"
+    ],
+    [
       1391,
       "Tenebra"
     ],
@@ -687,38 +727,6 @@
     [
       3188,
       "H\u00e1gase su voluntad"
-    ],
-    [
-      2901,
-      "Alguien se acerca"
-    ],
-    [
-      2943,
-      "Sue\u00f1os de bronce"
-    ],
-    [
-      3080,
-      "Microsoft Word - DIARIO DE GUERRA A DOS MANOS. b"
-    ],
-    [
-      2843,
-      "El Filatelista"
-    ],
-    [
-      2852,
-      "MingoFisuras Blogspot [ju., 30 ene. 2025]"
-    ],
-    [
-      2741,
-      "Mis libros"
-    ],
-    [
-      2718,
-      "Mingofisuras Youtube [ma., 26 nov. 2024]"
-    ],
-    [
-      2699,
-      "Atusparia"
     ]
   ],
   "news_to_be_synced": [],
@@ -733,7 +741,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1744354709.5270686,
+  "last_expired_trash_at": 1744548126.5358431,
   "catalog-field-data-for-catalog_csv_xml": {
     "fields": [
       "authors",

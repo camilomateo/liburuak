@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ca17c6a2-ea1d-4fa0-8574-1a70926a28c8</dc:identifier>
         <dc:title>El Puente</dc:title>
         <dc:creator opf:file-as="Brolly, Matt" opf:role="aut">Matt Brolly</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2024-08-30T03:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;&lt;p&gt;Cuando el cuerpo de una joven es descubierto en un contenedor 
 de carga en Bristol, la policía sospecha que era una inmigrante ilegal 
@@ -23,8 +23,7 @@ convence a Blackwell de que hay otras mujeres atrapadas... y que algunas
         <dc:identifier opf:scheme="MOBI-ASIN">B0CLFNG4Y2</dc:identifier>
         <dc:language>spa</dc:language>
         <dc:subject>Policial</dc:subject>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2024-09-03T07:33:53.974351+00:00"/>
+        <meta name="calibre:timestamp" content="2024-09-03T07:33:53+00:00"/>
         <meta name="calibre:title_sort" content="Puente, El"/>
     </metadata>
     <guide>

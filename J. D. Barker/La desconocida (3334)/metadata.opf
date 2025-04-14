@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3334</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6df16670-78a5-4dec-978e-05250f18f145</dc:identifier>
+        <dc:title>La desconocida</dc:title>
+        <dc:creator opf:file-as="J. D. Barker &amp; James Patterson" opf:role="aut">J. D. Barker</dc:creator>
+        <dc:creator opf:file-as="J. D. Barker &amp; James Patterson" opf:role="aut">James Patterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-05T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;UN PEQUEÑO PUEBLO&lt;br&gt;Hollows Bend es un pueblo idílico al que suelen acudir los turistas para relajarse los fines de semana, escapando del ruido de la ciudad, y que cuenta con una tasa de criminalidad del cero por ciento, índice del cual la sheriff Ellie Pritchet se enorgullece enormemente.&lt;/p&gt;
+&lt;p&gt;UNA MISTERIOSA ADOLESCENTE&lt;br&gt;Hasta que un día, y tras la llegada de una adolescente que aparece de la nada y a la que nadie parece conocer, la calma del lugar se pone en peligro.&lt;/p&gt;
+&lt;p&gt;Y UNA REPENTINA OLA DE CRÍMENES&lt;br&gt;Mientras la sheriff y su ayudante investigan quién es la desconocida, comienzan a sucederse una serie de acontecimientos que nadie puede comprender y que parecen tener algún tipo de conexión con un pasado desconocido de Hallows Bend.&lt;/p&gt;
+&lt;p&gt;¿QUÉ SECRETOS ESCONDE ESTE APACIBLE LUGAR? &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>RBA</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-13T13:01:08.013232+00:00"/>
+        <meta name="calibre:title_sort" content="desconocida, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

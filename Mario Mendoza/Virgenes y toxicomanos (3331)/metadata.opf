@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3331</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c05fab2b-4055-43a2-9640-3fcc119117f7</dc:identifier>
+        <dc:title>Vírgenes y toxicómanos</dc:title>
+        <dc:creator opf:file-as="Mendoza, Mario" opf:role="aut">Mario Mendoza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.2.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Vírgenes y toxicómanos es una de las novelas más aterradoras, desconcertantes y misteriosas escritas por Mario Mendoza.&lt;/p&gt;
+&lt;p&gt;Anton Echeverry, un padre ejemplar y un profesional comprometido con la defensa de los derechos humanos, sufre una crisis profunda tras la muerte de su esposa en extrañas circunstancias. Su mundo se resquebraja y lo único que logra frenar su caída al abismo es su hijo Martín, un brillante estudiante de Sociología, que quedó discapacitado en un accidente años atrás. Un día, escucha por casualidad una conversación entre el joven y su mejor amigo, un compañero de universidad, hijo de un político, que anda en muletas por una poliomielitis, en la que comentan que ellos son "la tristeza de Dios". Afligido por estas palabras, Anton pone en marcha un audaz plan para ayudarlo. Su estrategia impactará la vida de Martín y la de quienes lo rodean más allá de cualquiera de sus expectativas. Un suceso inesperado pondrá todo patas arriba e instalará al atribulado padre en la irrealidad y el delirio. En esta historia nada es lo que parece.&lt;/p&gt;
+&lt;p&gt;Hay muchos mundos, muchos estados. Todos estamos en tránsito. Nada aparece de la nada y nada desaparece del todo. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-13T12:58:29.719110+00:00"/>
+        <meta name="calibre:title_sort" content="Vírgenes y toxicómanos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
