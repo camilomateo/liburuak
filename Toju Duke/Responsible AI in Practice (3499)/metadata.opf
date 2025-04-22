@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8637ddda-e9ea-4003-b80f-2de12d7a3880</dc:identifier>
+        <dc:title>Responsible AI in Practice</dc:title>
+        <dc:creator opf:file-as="Duke, Toju" opf:role="aut">Toju Duke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-21T04:47:33+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;This book is the first practical book on AI risk assessment and management. It will enable you to evaluate and implement safe and accurate AI models and applications. The book features risk assessment frameworks, statistical metrics and code, a risk taxonomy curated from real-world case studies, and insights into AI regulation and policy, and is an essential tool for AI governance teams, AI auditors, AI ethicists, machine learning (ML) practitioners, Responsible AI practitioners, and computer science and data science students building safe and trustworthy AI systems across businesses, organizations, and universities.   &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'; color: #434343"&gt; &lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;The centerpiece of this book is a risk management and assessment framework titled “Safe Human-centered AI (SAFE-HAI),” which highlights AI risks across the following Responsible AI principles: accuracy, sustainability and robustness, explainability, transparency and accountability, fairness, privacy and human rights, human-centered AI, and AI governance. Using several statistical metrics such as Area Under Curve (AUC), Rank Graduation Accuracy, and Shapley values, you will learn to apply Lorenz curves to measure risk and inequality across the different principles and will be equipped with a taxonomy/scoring rubric to identify and mitigate identified risks.  &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'; color: #434343"&gt; &lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;This book is a true practical guide and covers a real-world case study using the proposed SAFE-HAI framework. The book will help you adopt standards and voluntary codes of conduct in compliance with AI risk and safety policies and regulations, including those from the NIST and EU AI Act.   What You Will Learn &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'; color: #434343"&gt; &lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;- Know the key principles behind Responsible AI and associated risks &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'; color: #434343"&gt; &lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;- Become familiar with risk assessment frameworks, statistical metrics, and mitigation measures for identified risks &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'; color: #434343"&gt; &lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;- Be aware of the fundamentals of AI regulations and policies and how to adopt them &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'; color: #434343"&gt; &lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;- Understand AI governance basics and implementation guidelines&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-22T13:33:58.058326+00:00"/>
+        <meta name="calibre:title_sort" content="Responsible AI in Practice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

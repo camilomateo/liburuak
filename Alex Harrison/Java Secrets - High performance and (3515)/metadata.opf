@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9976c85b-8a18-4556-aaf5-fc53043d8168</dc:identifier>
+        <dc:title>Java Secrets - High performance and scalability</dc:title>
+        <dc:creator opf:file-as="Harrison, Alex" opf:role="aut">Alex Harrison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;Java Secrets - High Performance and Scalability explores the intricacies of Java’s architecture, memory management, threading, and performance optimization techniques. This comprehensive guide covers key topics such as JVM internals, garbage collection, and concurrent programming, offering best practices and real-world examples for building high-performance Java applications. It delves into modern frameworks, reactive programming, microservices architecture, and cloud-native development. Advanced chapters discuss distributed systems, database optimization, and application security, highlighting techniques for fault tolerance, load balancing, and secure coding. With insights into future trends like Project Loom, GraalVM, and advanced observability tools, this book equips developers with the knowledge to craft scalable, robust, and efficient Java systems.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'; color: #434343"&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-22T13:34:01.772107+00:00"/>
+        <meta name="calibre:title_sort" content="Java Secrets - High performance and scalability"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

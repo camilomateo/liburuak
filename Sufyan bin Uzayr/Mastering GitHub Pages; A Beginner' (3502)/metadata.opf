@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abc86b30-fff5-47ee-986b-2e3b71681e10</dc:identifier>
+        <dc:title>Mastering GitHub Pages; A Beginner’s Guide</dc:title>
+        <dc:creator opf:file-as="Uzayr, Sufyan bin" opf:role="aut">Sufyan bin Uzayr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-14T22:00:00+00:00</dc:date>
+        <dc:description>Mastering GitHub Pages delves into static (and dynamic) websites as well as their advantages and disadvantages, but let's talk about static pages briefly again.</dc:description>
+        <dc:publisher>CRC Press</dc:publisher>
+        <dc:identifier opf:scheme="DOI">9781032149837</dc:identifier>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-22T13:33:58.608339+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering GitHub Pages; A Beginner’s Guide"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

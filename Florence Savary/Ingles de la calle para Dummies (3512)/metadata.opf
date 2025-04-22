@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3512</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">549faa8d-7a25-4130-a9ac-8da7049d2c57</dc:identifier>
+        <dc:title>Inglés de la calle para Dummies</dc:title>
+        <dc:creator opf:file-as="Savary, Florence" opf:role="aut">Florence Savary</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-03T22:00:00+00:00</dc:date>
+        <dc:description>Quizá lo de "Hello. My name is Marta. Nice to meet you." queda demasiado serio en un pub de Londres tomando unas cervecitas. A lo mejor un "Long time no see. What's up?" pega más. Y si no estás en Londres, pero te gusta ver las películas y series en versión original, todavía necesitas más este libro, porque ni siquiera puedes pedir que te lo repitan. Pero no te preocupes, en esta práctica guía de bolsillo encontrarás las expresiones más comunes en el inglés de la calle (o de la pantalla, según el caso). &lt;li&gt; Siempre de buen humor &amp;#8212; frases positivas y agradables para animar tu aprendizaje &lt;li&gt; Tal como se pronuncia &amp;#8212; todas las palabras tienen al lado la transcripción al castellano de a pie, para que sepas cómo hay que decirlo &lt;li&gt; Si buscas algo más &amp;#8212; por si te interesa, también hemos publicado Frases en inglés para Dummies, Business English para Dummies (2 volúmenes), Gramática inglesa para Dummies e Inglés para Dummies.</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432902253</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-22T13:34:00.742366+00:00"/>
+        <meta name="calibre:title_sort" content="Inglés de la calle para Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

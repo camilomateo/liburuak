@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3507</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1d25bd2-8322-4f13-b52b-3fb2c30ed373</dc:identifier>
+        <dc:title>Las 100 dudas más frecuentes del francés</dc:title>
+        <dc:creator opf:file-as="Française, Alliance" opf:role="aut">Alliance Française</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-09T17:20:25+00:00</dc:date>
+        <dc:description>A pesar de que nos defendamos más o menos en inglés, casi todos tenemos dudas a la hora de elegir la palabra, expresión o construcción adecuada de una frase. “¿Cuál es la diferencia entre specially y especially?”, “¿En serio que en inglés no se dice footing?”, “¿Por qué los ingleses dicen sorry todo el tiempo?”, “¿Los phrasal verbs son demasiado informales para un texto escrito?”, “¿Qué es un phrasal verb?”... El British Council, familiarizado desde hace varias décadas con las dudas que se plantean a los estudiantes que acuden a sus centros, ha recopilado las más frecuentes para que las resolvamos de un modo claro y para siempre, con ejemplos que ilustran los usos correctos e incorrectos. Además, incluye las formas de expresión más actuales, indicando cuáles están ya aceptadas y cuáles debemos evitar. Las 100 dudas más frecuentes del inglés pretende ayudar al lector hispanohablante a resolver sus incertidumbres y a manejar con soltura el inglés, seguramente el idioma más hablado del mundo, convertido en la lengua internacional de nuestro tiempo.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Idiomas</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-22T13:33:59.581761+00:00"/>
+        <meta name="calibre:title_sort" content="100 dudas más frecuentes del francés, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3520</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00167795-a6b0-4834-83c8-244524accd76</dc:identifier>
+        <dc:title>El libro negro del programador</dc:title>
+        <dc:creator opf:file-as="Gómez Blanes, Rafael" opf:role="aut">Rafael Gómez Blanes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-31T22:00:00+00:00</dc:date>
+        <dc:description>El siglo XXI es el de la sociedad de la información y las nuevas tecnologías: todo ello no sería posible sin la enorme industria del software que le sirve de base. No obstante, los desarrolladores de software no aprovechan todas las oportunidades para desempeñar una carrera profesional de éxito, cometiendo siempre los mismos errores una y otra vez. Un buen proyecto software tiene que ver con habilidades creativas y artísticas más que aquellas necesariamente técnicas. «El Libro Negro del Programador» muestra qué distingue a un programador neófito de quien actúa y trabaja profesionalmente. En la era del emprendimiento y de la nueva economía, el desarrollo profesional de software es su pilar fundamental. Si como programador quieres llegar a ser no sólo bueno sino profesional, no puedes dejar de conocer las gemas de sabiduría que contiene «El Libro Negro del Programador».</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">38402</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Tecnología</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-22T13:34:02.880929+00:00"/>
+        <meta name="calibre:title_sort" content="libro negro del programador, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

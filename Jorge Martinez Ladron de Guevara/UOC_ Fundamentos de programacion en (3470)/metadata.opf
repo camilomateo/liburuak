@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3470</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7ef0f59-9984-4a1c-8ad1-d701d6d4f65e</dc:identifier>
+        <dc:title>UOC: Fundamentos de programacion en Java</dc:title>
+        <dc:creator opf:file-as="Guevara, Jorge Martinez Ladron de" opf:role="aut">Jorge Martinez Ladron de Guevara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>JAVA</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-07T20:27:00+00:00"/>
+        <meta name="calibre:title_sort" content="UOC: Fundamentos de programacion en Java"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

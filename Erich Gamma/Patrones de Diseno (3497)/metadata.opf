@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0bca3a5-50f1-4e4b-a851-28ef27ca379a</dc:identifier>
+        <dc:title>Patrones de Diseño</dc:title>
+        <dc:creator opf:file-as="Gamma, Erich &amp; Helm, Richard &amp; Johnson, Ralph &amp; Vlissides, John" opf:role="aut">Erich Gamma</dc:creator>
+        <dc:creator opf:file-as="Gamma, Erich &amp; Helm, Richard &amp; Johnson, Ralph &amp; Vlissides, John" opf:role="aut">Richard Helm</dc:creator>
+        <dc:creator opf:file-as="Gamma, Erich &amp; Helm, Richard &amp; Johnson, Ralph &amp; Vlissides, John" opf:role="aut">Ralph Johnson</dc:creator>
+        <dc:creator opf:file-as="Gamma, Erich &amp; Helm, Richard &amp; Johnson, Ralph &amp; Vlissides, John" opf:role="aut">John Vlissides</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Este libro no trata de una introducción a la tecnología orientada a objetos ni al diseño orientado a objetos. Ya hay muchos libros que sirven bien a ese propósito. Por otro lado, tampoco es éste un avanzado tratado técnico. Es un libro de patrones de diseño que describe soluciones simples y elegantes para problemas específicos del diseño de software orientado a objetos. En este libro, Erich Gamma, Richard Helm, Ralph Johnson y John Vlissides introducen los principios de los patrones de diseño y ofrecen un catálogo de dichos patrones. Así, este libro realiza dos importantes contribuciones. En primer lugar, muestra el papel que los patrones pueden desempeñar diseñando la arquitectura de sistemas complejos. En segundo lugar, proporciona una referencia práctica de un conjunto de excelentes patrones que el desarrollador puede aplicar para construir sus propias aplicaciones. Una advertencia y unas palabras de ánimo: no se preocupe si no entiende del todo este libro en la primera lectura. (Recuerde que no es un libro para leer una vez y después ponerlo en una estantería) Esperamos que acuda a él una y otra vez en busca de pistas de diseño y de inspiración.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">16404</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>Manuales y cursos</dc:subject>
+        <dc:subject>Referencia</dc:subject>
+        <dc:subject>Tecnología</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-22T13:33:57.659338+00:00"/>
+        <meta name="calibre:title_sort" content="Patrones de Diseño"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

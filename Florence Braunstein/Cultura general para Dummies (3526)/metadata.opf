@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3526</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce033064-998a-40f4-bf06-8a6e84b8c5d6</dc:identifier>
+        <dc:title>Cultura general para Dummies</dc:title>
+        <dc:creator opf:file-as="Braunstein, Florence" opf:role="aut">Florence Braunstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Reconocer los hechos y personajes clave de la historia, geografia, artes, ciencias, deportes, religión y politica.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Recordar con facilidad fechas, datos e hitos importantes.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Identificar los personajes que han cambiado el curso del mundo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-22T13:34:04.013267+00:00"/>
+        <meta name="calibre:title_sort" content="Cultura general para Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

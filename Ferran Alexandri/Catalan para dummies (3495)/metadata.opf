@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3495</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27ba033c-f2d0-48fd-9464-eff798dc883f</dc:identifier>
+        <dc:title>Catalán para dummies</dc:title>
+        <dc:creator opf:file-as="Alexandri, Ferran" opf:role="aut">Ferran Alexandri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-22T22:00:00+00:00</dc:date>
+        <dc:description>¡Está escrito en castellano! Seguramente habrás curioseado en las librerías y te habrás enfrentado al fastidioso inconveniente de que todos los libros para aprender catalán están escritos ¡en catalán! Además, se mete de lleno en el cuerpo del idioma e incluye pinceladas de cultura y frases populares que reflejan las costumbres y la historia de los Países Catalanes. Por si fuera poco, pone al día la gramática y explica el catalán actual en términos tan sencillos que hace que su aprendizaje sea más rápido y más ameno. • 9 millones de personas ya hablan catalán ― con Catalán para Dummies tú también puedes hacerlo. • Más que una lengua ― Catalán para Dummies te conectará con la cultura y la geografía catalana. • A tu aire ― Catalán para Dummies te permite aprender a tu ritmo sin someterte a la rutina de las clases. • ¡Es la vida! ― podrás saludar, hacer preguntas, dar indicaciones e, incluso, resolver emergencias en catalán. • Aprenderás los fundamentos de la pronunciación y de la gramática catalana ― y toda la información para construir frases y comenzar a hablar.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Referencia</dc:subject>
+        <dc:subject>Idiomas</dc:subject>
+        <meta name="calibre:series" content="Para dummies"/>
+        <meta name="calibre:series_index" content="0"/>
+        <meta name="calibre:timestamp" content="2025-04-22T13:33:57.180343+00:00"/>
+        <meta name="calibre:title_sort" content="Catalán para dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

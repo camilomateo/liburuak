@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3510</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffa6b932-9656-4192-928a-4cf5c9ba5f36</dc:identifier>
+        <dc:title>Introducing GitHub</dc:title>
+        <dc:creator opf:file-as="Beer, Brent" opf:role="aut">Brent Beer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-05T00:00:00+00:00</dc:date>
+        <dc:description>If you're new to GitHub, this concise book shows you just what you need to get started and no more. It's perfect for project and product managers, stakeholders, and other team members who want to collaborate on a development project—whether it's to review and comment on work in progress or to contribute specific changes. It's also great for developers just learning GitHub.</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-22T13:34:00.162177+00:00"/>
+        <meta name="calibre:title_sort" content="Introducing GitHub"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

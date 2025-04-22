@@ -30,42 +30,6 @@
         false
       ],
       [
-        "rating",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "tags",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "rating",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "tags",
-        false
-      ],
-      [
         "marked",
         true
       ],
@@ -76,74 +40,6 @@
       [
         "title",
         true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "rating",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "tags",
-        false
-      ],
-      [
-        "marked",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "rating",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "tags",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "rating",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "rating",
-        false
       ],
       [
         "timestamp",
@@ -166,22 +62,6 @@
         false
       ],
       [
-        "rating",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "rating",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
         "marked",
         true
       ],
@@ -192,30 +72,6 @@
       [
         "title",
         true
-      ],
-      [
-        "timestamp",
-        true
-      ],
-      [
-        "rating",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "rating",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "rating",
-        false
       ],
       [
         "timestamp",
@@ -241,7 +97,7 @@
     },
     "column_sizes": {
       "id": 0,
-      "title": 350,
+      "title": 313,
       "authors": 123,
       "timestamp": 83,
       "size": 100,
@@ -842,6 +698,22 @@
   },
   "gui_view_history": [
     [
+      3529,
+      "untitled"
+    ],
+    [
+      3528,
+      "Frases en Ingl\u00e9s para Dummies"
+    ],
+    [
+      3526,
+      "Cover"
+    ],
+    [
+      3459,
+      "Dominando Chatgpt en 30 d\u00edas"
+    ],
+    [
       3489,
       "Linux for Dummies 6th Ed"
     ],
@@ -884,22 +756,6 @@
     [
       3361,
       "El ADN te condena"
-    ],
-    [
-      3359,
-      "La \u00faltima vez que pienso en ti"
-    ],
-    [
-      843,
-      "Cicatrices en el hielo"
-    ],
-    [
-      838,
-      "Los muertos no saben nadar"
-    ],
-    [
-      3335,
-      "LA CHICA SOLA"
     ]
   ],
   "news_to_be_synced": [],
@@ -914,7 +770,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1745253895.654615,
+  "last_expired_trash_at": 1745328660.0532703,
   "catalog-field-data-for-catalog_csv_xml": {
     "fields": [
       "authors",

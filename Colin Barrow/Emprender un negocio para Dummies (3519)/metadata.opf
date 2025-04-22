@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7e97ad2-a6ab-4e87-bf50-078264e3c583</dc:identifier>
+        <dc:title>Emprender un negocio para Dummies</dc:title>
+        <dc:creator opf:file-as="Barrow, Colin" opf:role="aut">Colin Barrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-13T23:00:00+00:00</dc:date>
+        <dc:description>Ya ha llegado el momento de hacer el salto de empleado a emprendedor. Montar un negocio propio puede requerir un buen esfuerzo, pero la satisfacción de sacar adelante una iniciativa personal y triunfar en el mundo de los negocios lo compensa con creces. Sin embargo, hay que tener una buena base para empezar: hay que redactar el plan de negocio, analizar las necesidades del mercado, cumplir la legislación vigente, conocer qué ofrece la competencia, ser consciente de los puntos fuertes y las debilidades del sector y muchos otros parámetros. Esta obra trata todos estos aspectos y le sugiere muchas fuentes en España donde encontrar información actualizada.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencias sociales</dc:subject>
+        <dc:subject>Divulgación</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-22T13:34:02.650802+00:00"/>
+        <meta name="calibre:title_sort" content="Emprender un negocio para Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

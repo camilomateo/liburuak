@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba23882b-c6c2-4c09-b18c-4068118f72e5</dc:identifier>
+        <dc:title>Covey, Stephen R. - Los 7 hábitos de la gente altamente ef…</dc:title>
+        <dc:creator opf:file-as="Covey, Stephen R." opf:role="aut">Stephen R. Covey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-09T12:39:45+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;En este libro Stephen R. Covey nos da una excelente recopilación de varios hábitos que las personas puede aplicar en su vida cotidiana para poder mejorar su organización personal, y el manejo de sus proyectos personales (hábitos 1, 2, y 3), y las relaciones que se tiene con otras personas (hábitos 4, 5, y 6), además de un último hábito para poder mejorar siempre en todas las áreas de nuestra vida (hábito 7). Al ser hábitos, se deben realizar de forma cotidiana. Una verdadera joya para las personas que quieran superar sus propios límites.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-22T13:33:58.805347+00:00"/>
+        <meta name="calibre:title_sort" content="Covey, Stephen R. - Los 7 hábitos de la gente altamente ef…"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
