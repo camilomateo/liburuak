@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3403</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0805c477-e319-44f4-a6a5-b778855ddf3c</dc:identifier>
+        <dc:title>Uxoa, el secreto del valle</dc:title>
+        <dc:creator opf:file-as="Basilio, Paloma San" opf:role="aut">Paloma San Basilio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-04T09:28:33+00:00</dc:date>
+        <dc:description>Tras la muerte de su hermana mayor y compañera de vida, Ágara abandona, desolada, el hogar de la familia en el madrileño barrio de Chamberí para refugiarse en Uxoa, el caserío heredado en el valle de Baztán, en Navarra.Allí va recuperando la calma perdida, al mismo tiempo se despierta en ella la necesidad de bucear en sus orígenes, para así saber cómo Uxoa, la preciada reliquia familiar, llegó a ellos. Poco a poco, los brumosos prados y las piedras ancestrales la atrapan, también sus misterios, y comienza una delicada investigación entre los vecinos, la parroquia y la abadía de Arizcun. En este particular peregrinaje, encuentra un aliado inesperado: Íñigo, un joven argentino descendiente de emigrantes, que ha vuelto para hacerse cargo de la herencia de un tío soltero en Irurita, un pueblo cercano...Paloma San Basilio logra cautivarnos con esta hermosa y emotiva novela, a caballo entre el presente, el siglo XVI y el XVIII; con ella viajamos desde el valle de Baztán al Tíbet, de...</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410643000</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:40:54.500190+00:00"/>
+        <meta name="calibre:title_sort" content="Uxoa, el secreto del valle"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

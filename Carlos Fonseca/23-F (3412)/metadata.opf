@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3412</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b1d5004-3df9-4874-820c-7d918d2309d3</dc:identifier>
+        <dc:title>23-F</dc:title>
+        <dc:creator opf:file-as="Fonseca, Carlos" opf:role="aut">Carlos Fonseca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-25T06:00:00+00:00</dc:date>
+        <dc:description>Una afilada investigación, basada en fuentes inéditas, que desarma la versión oficial del 23-F.Existe un relato comúnmente aceptado que explica el golpe de estado del 23 de febrero de 1981 como la acción de un grupo de militares exaltados y nostálgicos del franquismo, que fracasó gracias a la lealtad mayoritaria del Ejército a la Constitución y a la actuación decidida del rey Juan Carlos I. Una versión edulcorada de la Transición ejemplar que se sostiene desde hace más de cuatro décadas graciasa la censura institucional sobre la documentación existente en los archivos oficiales en torno a lo sucedido en aquellas fechas.Este no es un libro más sobre el 23-F, sino la autopsia de una investigación policial y judicial predeterminada que ignoró pistas, descartó indicios y ocultó pruebas para no ahondar en todas las complicidades de la asonada y condenar al menor número posible de implicados. Tras cuatro años de investigación con fuentes inéditas de incuestionable valor, como el...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401029905</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-13T21:11:04+00:00"/>
+        <meta name="calibre:title_sort" content="23-F"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

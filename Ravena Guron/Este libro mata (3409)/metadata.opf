@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ebd71b6-449c-4a2a-a31b-59804a683e01</dc:identifier>
+        <dc:title>Este libro mata</dc:title>
+        <dc:creator opf:file-as="Guron, Ravena" opf:role="aut">Ravena Guron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-12T11:38:23+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Cuando Jess escribió un relato de misterio para clase, jamás pensó que alguien en su escuela llevaría el crimen a la vida real. Ahora ella podría ser la próxima víctima. Un thriller trepidante para lectoras de Holly Jackson y Karen McManus.  &lt;/p&gt;
+&lt;p&gt;El único propósito de Jess es sobrevivir al instituto sin demasiados problemas. Como alumna becada en una prestigiosa escuela, sabe que su permanencia depende de su capacidad para no llamar la atención y mantener un expediente impecable. Pero todo cambia cuando uno de los chicos más populares y ricos del instituto aparece muerto de la misma manera que un personaje de un relato que escribió para clase.&lt;/p&gt;
+&lt;p&gt;Cuando parece que nada podría ir peor, recibe un mensaje anónimo dándole las gracias por la inspiración.&lt;/p&gt;
+&lt;p&gt;Mientras los rumores sobre la identidad del asesino corren por el colegio, Jess comprenderá que su futuro no es lo único en riesgo: si no descubre quién está detrás del crimen, ella podría ser la siguiente víctima.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Martínez Roca</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:44:49.321516+00:00"/>
+        <meta name="calibre:title_sort" content="Este libro mata"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

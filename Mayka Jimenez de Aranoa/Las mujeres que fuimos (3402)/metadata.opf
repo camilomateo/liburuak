@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3402</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">660620d4-900f-4394-b518-1ef9a70fa3e3</dc:identifier>
+        <dc:title>Las mujeres que fuimos</dc:title>
+        <dc:creator opf:file-as="Aranoa, Mayka Jiménez de" opf:role="aut">Mayka Jiménez de Aranoa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-03T00:00:00+00:00</dc:date>
+        <dc:description>UN RETRATO SOBRE LO QUE SIGNIFICA SER MUJER AYER, HOY Y SIEMPRE.Tres mujeres. Dos épocas. Un único secreto.Madrid, 2021. Paula siente una profunda tristeza al ver cómo el alzhéimer de su madre avanza a pasos agigantados. Durante años, su relación ha estado marcada por muchos altibajos, por lo que se le despiertan emociones contradictorias cuando se da cuenta de que la brillante doctora Amaia Clemente ya no reconoce a la gran mujer que fue. El olvido se ha llevado para siempre su amor y sus recuerdos.Barcelona, 1990. Adriana acaba de llegar a la ciudad para estudiar Medicina. Cargada de ilusión, comienza una etapa de nuevas amistades, experiencias apasionantes y romances fugaces. Sin embargo, sus sueños se quiebran cuando se ve obligada a tomar la decisión más difícil de su vida.Un retrato generacional escrito desde la madurez que reflexiona sobre el amor, los deseos y la nostalgia. Nunca es fácil enfrentarse al pasado, pero a veces necesitamos recordar a las mujeres que fuimos...</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:40:32.311610+00:00"/>
+        <meta name="calibre:title_sort" content="mujeres que fuimos, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

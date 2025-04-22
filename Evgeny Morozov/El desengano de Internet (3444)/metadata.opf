@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3444</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80875b6a-9a87-4e51-8901-400d49bedc77</dc:identifier>
+        <dc:title>El desengaño de Internet</dc:title>
+        <dc:creator opf:file-as="Morozov, Evgeny" opf:role="aut">Evgeny Morozov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788423328031</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>ARQUITECTURA</dc:subject>
+        <meta name="calibre:timestamp" content="2023-02-03T07:39:20+00:00"/>
+        <meta name="calibre:title_sort" content="desengaño de Internet, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

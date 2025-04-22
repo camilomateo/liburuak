@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f187e85-b0fb-4584-bbd0-0238840136e3</dc:identifier>
+        <dc:title>No quería parecerme a ti</dc:title>
+        <dc:creator opf:file-as="Ramaciotti, Amanda Marton" opf:role="aut">Amanda Marton Ramaciotti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-08T23:00:00+00:00</dc:date>
+        <dc:description>Una crónica que cuenta la historia de amor de una hija y su madre con esquizofrenia en un tono similar al de La memoria infinita.
+
+Amanda Marton Ramaciotti no quería llegar a los treinta años. El psiquiatra de su madre le había dicho que esa era la edad límite: si antes de cumplir las tres décadas tenía un brote psicótico, probablemente habría heredado la esquizofrenia de Cecilia.
+Moviéndose con fluidez entre la crónica, el ensayo biográfico y la divulgación científica, Marton describe la vida de su madre y cómo su diagnóstico cambió para siempre sus historias. En la búsqueda de respuestas, acude a todas las fuentes, contando su propia versión de la historia del trastorno.
+No quería parecerme a ti es el relato de la crisis de salud mental, es un testimonio que sirve para los miles de familias con realidades similares y, ante todo, es una historia de amor. La de una hija que no quería parecerse a su madre, a la que incluso temía, pero con la que termina encontrándose en las tradiciones, en los códigos comunes y en la admiración.</dc:description>
+        <dc:publisher>2024</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789566355106</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:22:20.278628+00:00"/>
+        <meta name="calibre:title_sort" content="No quería parecerme a ti"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

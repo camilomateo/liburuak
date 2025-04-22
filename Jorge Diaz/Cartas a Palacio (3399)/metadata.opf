@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3399</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c81b6a9-c73a-4d8c-973b-20c50d09b860</dc:identifier>
+        <dc:title>Cartas a Palacio</dc:title>
+        <dc:creator opf:file-as="Díaz, Jorge" opf:role="aut">Jorge Díaz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-17T17:07:34+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una historia de amor que atraviesa una época marcada por la guerra. Una labor humanitaria que salvó la vida de miles de personas. Por uno de los autores de Carmen Mola.&lt;/p&gt;
+&lt;p&gt;En medio de la devastación de la Primera Guerra Mundial, una carta escrita por una niña francesa llega al Palacio Real de España, pidiendo ayuda al rey Alfonso XIII para encontrar a su hermano desaparecido en el frente. Conmovido, el monarca utiliza su influencia para localizarlo, sin prever que este acto de bondad desatará una avalancha de solicitudes de familias desgarradas por el conflicto. Nace así la Oficina Pro-Cautivos, cuya labor se centrará en localizar a soldados y desaparecidos por la tragedia de la guerra.  &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:39:10.094686+00:00"/>
+        <meta name="calibre:title_sort" content="Cartas a Palacio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

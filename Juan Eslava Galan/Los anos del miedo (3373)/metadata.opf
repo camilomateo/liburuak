@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3373</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b93bdde7-f5f8-40a2-ab81-14ad1c114add</dc:identifier>
+        <dc:title>Los años del miedo</dc:title>
+        <dc:creator opf:file-as="Eslava Galán, Juan" opf:role="aut">Juan Eslava Galán</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;cite&gt;Los años del miedo&lt;/cite&gt; reconstruye la vida de los españoles durante la posguerra (1939-1952). Se lee como una apasionante novela, pero todo lo que cuenta es cierto y forma parte de nuestra historia. El lector acompañará a un Franco que preside en Madrid el Desfile de la Victoria con una Gran Cruz Laureada de San Fernando prestada por otro general —porque olvidó mandar hacerse una— mientras desde una ventana la duquesa de Pradoalto mira al caudillo pequeñito y panzón y se pregunta por qué no han podido tener un salvador de la patria que fuera buen mozo, como Queipo o Primo de Rivera. El lector pasará hambre con los hijos de los encarcelados y sentirá lo que es hacer cola para las cartillas de racionamiento.&lt;/p&gt;&lt;p&gt;Aprenderá que un tren «rápido» puede tardar siglos en llegar y que para aprobar las oposiciones a maestro nacional la respuesta correcta a «¿Quién descubrió América?», «¿Quién escribió el Quijote?» y «¿Quién pintó &lt;cite&gt;Las Meninas&lt;/cite&gt;?» es la misma: «Francisco Franco, nuestro glorioso Caudillo».&lt;/p&gt;</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:identifier opf:scheme="EPL">12032</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.5</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-21T15:21:51.025991+00:00"/>
+        <meta name="calibre:title_sort" content="años del miedo, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

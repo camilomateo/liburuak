@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3419</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca803e9d-09dd-493c-aca7-cec4c0bd4c36</dc:identifier>
+        <dc:title>Las agujas de la noche</dc:title>
+        <dc:creator opf:file-as="Fernando Repiso" opf:role="aut">Fernando Repiso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-18T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Después de una intensa sesión de sexo y drogas, el inspector Iván de Pablos recibe una llamada. El dueño de la sauna gay de Sevilla que suele frecuentar ha encontrado muerto a un joven en una de las cabinas. El chico, desnudo y con aspecto de estar dormido, ha recibido varios pinchazos, fruto tal vez de una práctica sexual, y le han amputado un dedo del pie. El forense, el doctor Carlos Sepúlveda, casualmente pareja de su exmujer, dictamina que ha sido un infarto. Iván confía en su palabra, pero su instinto no termina de ver claro el caso. Por ello no cesará en investigar todos los hechos alrededor de esta muerte. &lt;/p&gt;
+&lt;p align="justify"&gt;El policía, en entredicho por sus adicciones y por cómo vive su homosexualidad, terminará descubriendo una trama oscura, que llevará consigo más asesinatos vinculados al ambiente nocturno de la ciudad, y un criminal inesperado.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408259206</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">O6VkEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60722110</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-13T21:11:03+00:00"/>
+        <meta name="calibre:title_sort" content="Las agujas de la noche"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

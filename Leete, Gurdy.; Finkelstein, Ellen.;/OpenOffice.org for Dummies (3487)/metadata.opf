@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3487</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38843bc9-d0f3-4572-ad84-830e497ba4bf</dc:identifier>
+        <dc:title>OpenOffice.org for Dummies</dc:title>
+        <dc:creator opf:file-as="Leete, Gurdy.; Finkelstein, Ellen.; Leete, Mary." opf:role="aut">Leete, Gurdy.; Finkelstein, Ellen.; Leete, Mary.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Team DDU</dc:description>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>DUMMIES</dc:subject>
+        <dc:subject>OPENFIICE</dc:subject>
+        <meta name="calibre:timestamp" content="2023-12-28T14:51:59+00:00"/>
+        <meta name="calibre:title_sort" content="OpenOffice.org for Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

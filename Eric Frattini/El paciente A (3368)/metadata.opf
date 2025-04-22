@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3368</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8f0a0df-f792-4a6c-a684-cff1414cd647</dc:identifier>
+        <dc:title>El paciente A</dc:title>
+        <dc:creator opf:file-as="Eric Frattini" opf:role="aut">Eric Frattini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-29T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;La historia médica de Adolf Hitler&lt;/p&gt;
+&lt;p&gt;Una novedosa investigación para conocer al Hitler dependiente de la atención constante del Dr. Morell, su médico de cabecera, y sus dudosos remedios. Hace medio siglo Joachim Fest publicó una de las más importantes biografías sobre el dictador alemán, titulada Hitler. Entonces afirmó: «Esta es la versión más completa de los acontecimientos, que incluye todas las facetas de la vida de Adolf Hitler. [...] esta es la última palabra sobre este hombre, porque no habrá nuevas revelaciones sobre Hitler que aún no hayan sido de dominio público». Sin embargo, la desclasificación de todos los documentos de valor histórico relacionados con la Alemania nazi ha invalidado la afirmación de Fest. Entre los millones de páginas, los investigadores descubrieron varios registros que hablaban sobre la salud del Führer y sobre la adicción a las drogas por parte de los miembros del ejército alemán y del propio Adolf Hitler. Durante los últimos nueve años de su vida, Adolf Hitler, un hipocondríaco de toda la vida, tuvo como médico al doctor Theodor Morell. Los cambios de humor de Hitler, la enfermedad de Parkinson que sufría, los síntomas gastrointestinales, los problemas de la piel y su constante declive, hasta su suicidio en abril de 1945, están documentados en los minuciosos diarios de Morell. Conociendo las importantes decisiones que Hitler estaba tomando y que afectaban a millones de personas, cabe preguntarse cómo se vio afectada su conducta por los numerosos medicamentos que tomaba, desde estimulantes hasta sedantes, desde hormonas hasta multivitaminas, desde esteroides hasta belladona y cocaína.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788467076295</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">vGU3EQAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:17:54.322294+00:00"/>
+        <meta name="calibre:title_sort" content="El paciente A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

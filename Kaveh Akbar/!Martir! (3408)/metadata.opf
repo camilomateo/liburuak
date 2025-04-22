@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1dc6437c-2a00-4d22-a56e-1b2c0446230a</dc:identifier>
+        <dc:title>¡Mártir!</dc:title>
+        <dc:creator opf:file-as="Akbar, Kaveh" opf:role="aut">Kaveh Akbar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:44:27.409074+00:00"/>
+        <meta name="calibre:title_sort" content="¡Mártir!"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

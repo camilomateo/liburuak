@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3395</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e8834d9-384e-4599-9f18-101453c4632d</dc:identifier>
+        <dc:title>Tras la puerta</dc:title>
+        <dc:creator opf:file-as="McFadden, Freida" opf:role="aut">Freida McFadden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-03T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;De la autora best seller de La asistenta, llega un nuevo y fascinante thriller sobre secretos, culpa... y si es posible dejar atrás lo que corre por tus venas.&lt;/p&gt;
+&lt;p&gt;Mientras de niña Nora Davis dedicaba las tardes a hacer los deberes en su habitación, no tenía ni idea de que su padre estaba asesinando a mujeres en el sótano. Hasta el día en que la policía llamó a la puerta.&lt;br&gt;&lt;br&gt;Décadas más tarde, el padre de Nora pasa su vida entre rejas y ella es una cirujana de éxito con una existencia tranquila y solitaria. Nadie sabe que su padre es un famoso asesino en serie. Y ella está dispuesta a todo para que siga siendo así.&lt;br&gt;&lt;br&gt;Entonces Nora descubre que una de sus jóvenes pacientes ha sido asesinada. De la misma horrible y peculiar manera en la que su padre mataba a sus víctimas.&lt;br&gt;&lt;br&gt;Alguien sabe quién es Nora. Alguien quiere que cargue con la culpa de su espantoso crimen. Pero ella no es una asesina como su padre. La policía no puede acusarla de nada. Siempre y cuando no mire en su sótano... &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0DWPJJT3J</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:37:20.748378+00:00"/>
+        <meta name="calibre:title_sort" content="Tras la puerta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

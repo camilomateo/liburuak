@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3411</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85455216-c71f-4664-9212-2e5199991918</dc:identifier>
+        <dc:title>La mirada inquieta</dc:title>
+        <dc:creator opf:file-as="Tenenbaum, Eugenia" opf:role="aut">Eugenia Tenenbaum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-21T14:50:17+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;span class="a-text-bold"&gt;Eugenia Tenenbaum&lt;/span&gt;&lt;span&gt; revive en este libro períodos históricos desde la Antigüedad hasta el siglo XX, &lt;/span&gt;&lt;span class="a-text-bold"&gt;con el objetivo de disfrutar de las obras de arte que vieron la luz en esas épocas&lt;/span&gt;&lt;span&gt;. Gracias a su voz cercana y rigurosa, &lt;/span&gt;&lt;span class="a-text-bold"&gt;nos reconciliaremos con el placer inmenso que nos ofrece el arte&lt;/span&gt;&lt;span&gt; sin otro requisito que nuestras ganas.&lt;/span&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A lo largo de todo el recorrido, sin embargo, se nos obligará a volver a mirar, una y otra vez, &lt;/span&gt;&lt;span class="a-text-bold"&gt;para encontrar algo nuevo&lt;/span&gt;&lt;span&gt;. Porque cuestionar lo que sabemos es la única manera de comprender mejor quiénes somos, y de &lt;/span&gt;&lt;span class="a-text-bold"&gt;conseguir que el arte sea algo para todos&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-13T21:13:37+00:00"/>
+        <meta name="calibre:title_sort" content="mirada inquieta, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

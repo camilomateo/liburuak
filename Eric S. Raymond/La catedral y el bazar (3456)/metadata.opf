@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3456</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">830f0df8-f403-4178-9e75-7250faa8c94e</dc:identifier>
+        <dc:title>La catedral y el bazar</dc:title>
+        <dc:creator opf:file-as="Raymond, Eric S." opf:role="aut">Eric S. Raymond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-12-31T23:00:00+00:00</dc:date>
+        <dc:description>La catedral y el bazar es un libro sobre el software de código abierto escrito por el hacktivista Eric S. Raymond en 1997. Ha tenido dos secuelas tituladas Colonizando la noosfera y El caldero mágico. El ensayo analiza dos modelos de producción de software bien diferenciados. Por un lado, la catedral, que representa el modelo de desarrollo más hermético y vertical característico del Software propietario; y por el otro, el bazar, con su dinámica horizontal y «bulliciosa», que caracterizó al desarrollo del kernel Linux y otros proyectos de software libre que se potenciaron con el trabajo comunitario a través de Internet del código abierto.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">71162</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:25:08+00:00"/>
+        <meta name="calibre:title_sort" content="catedral y el bazar, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

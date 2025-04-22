@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3452</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19c61450-0e8a-4a1f-ae16-e570571fba96</dc:identifier>
+        <dc:title>Curso de programación Python</dc:title>
+        <dc:creator opf:file-as="Montejo Ráez, Arturo &amp; Jiménez Zafra, Salud María" opf:role="aut">Arturo Montejo Ráez</dc:creator>
+        <dc:creator opf:file-as="Montejo Ráez, Arturo &amp; Jiménez Zafra, Salud María" opf:role="aut">Salud María Jiménez Zafra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Tras desbancar a Java y C/C++, Python se ha convertido en el lenguaje de programación más popular de nuestros días. Las capacidades de cómputo de los ordenadores modernos, unida a la gran versatilidad de este lenguaje, su sencillez y la potencia de sus bibliotecas, hacen de Python y su dominio una competencia muy demandada en la industria informática, donde constituye la herramienta preferente de grandes compañías como Google, Facebook, Disney, Dreamworks u organismos como la NASA y el CERN.&lt;/p&gt;
+
+    &lt;p&gt;Más de la mitad de los autores de aplicaciones de carácter científico optan por Python para sus desarrollos. A la vez, Python es un lenguaje amigable que nos permite realizar operaciones muy complejas de manera sencilla y comprensible. Sin duda, es el recurso idóneo para iniciarse en el campo de la programación. Por ello, este curso constituye la oportunidad de adentrarse en los diversos aspectos de la programación de ordenadores, de la mano de una herramienta ya imprescindible en multitud de entornos académicos, científicos, empresariales e industriales.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">75975</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>Manuales y cursos</dc:subject>
+        <dc:subject>Referencia</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:25:08+00:00"/>
+        <meta name="calibre:title_sort" content="Curso de programación Python"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

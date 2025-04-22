@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3381</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b783841-d9f5-47f1-8cb3-ed6f7ccb1060</dc:identifier>
+        <dc:title>Para siempre es mucho tiempo</dc:title>
+        <dc:creator opf:file-as="Iglesias, Carolina" opf:role="aut">Carolina Iglesias</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-05T14:30:23+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La primera novela de Carolina Iglesias, guionista, cómica y presentadora ganadora del Ondas con el pódcast Estirando el chicle.&lt;/p&gt;
+&lt;p&gt;Paula tiene un trabajo estable, goza de buena salud y se da besos con gente cuando sale. A veces hasta folla. Es una adulta funcional y envidiable, de las que van al mercado a hacer la compra y se saben el nombre del frutero. Que paga su IRPF, aunque no sepa muy bien qué es porque usa siempre una plantilla que le hace los cálculos automáticamente. Que lleva quince años yendo a terapia porque no sabe gestionar el rechazo y la ausencia de responsabilidad afectiva y que cuando se encuentra en situaciones de este tipo se pone a llorar desconsolada. Igual no es una adulta tan envidiable, pero sí funcional.&lt;/p&gt;
+&lt;p&gt;Hasta que, sentada justo en frente de ella en el tren, se reencuentra con Claudia, su amor platónico de la adolescencia. Lo que siempre quiso, al alcance de la mano. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Temas de Hoy</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:26:21.841020+00:00"/>
+        <meta name="calibre:title_sort" content="Para siempre es mucho tiempo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

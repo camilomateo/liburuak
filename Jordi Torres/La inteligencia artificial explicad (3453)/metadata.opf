@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3453</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2960b20-38bf-4153-ba6f-145ce0f50f69</dc:identifier>
+        <dc:title>La inteligencia artificial explicada a los humanos</dc:title>
+        <dc:creator opf:file-as="Torres, Jordi" opf:role="aut">Jordi Torres</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Ante el avance de la IA en cada vez más ámbitos de la vida cotidiana, «La inteligencia artificial explicada a los humanos» propone al lector un acercamiento a esta revolucionaria tecnología a través de un lenguaje cercano y accesible para todos. Un libro divulgativo, ameno y claro que nos ayuda a comprender cómo funciona la IA y aclara algunos de los interrogantes que se plantean para el futuro cercano como, por ejemplo, ¿solucionará problemas que a la humanidad le llevaría siglos resolver? ¿Nos facilitará el trabajo o nos dejará sin él? ¿Qué puede hacer la IA por nosotros y en nuestra contra?</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">77112</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencias exactas</dc:subject>
+        <dc:subject>Divulgación</dc:subject>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>Tecnología</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:25:07+00:00"/>
+        <meta name="calibre:title_sort" content="inteligencia artificial explicada a los humanos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

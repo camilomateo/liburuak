@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07787737-3e18-4b00-b183-79b936cbe05c</dc:identifier>
+        <dc:title>Recuérdame bailando</dc:title>
+        <dc:creator opf:file-as="Torres, Mara" opf:role="aut">Mara Torres</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-05T14:38:12+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La vuelta a las librerías de Mara Torres con la historia de su hermana Aly, alguien que deseaba vivir pero no fue capaz de conseguirlo.&lt;/p&gt;
+&lt;p&gt;Mara Torres ha escrito un libro lleno de cariño y delicadeza. Un gran homenaje a su hermana Alicia para tratar de entender las razones que la llevaron al suicidio, y una forma también de seguir demostrándole su amor, más allá del tiempo y la existencia. Este relato en primera persona se cruza con un texto de su hermana que encontraron entre sus pertenencias. Un diario en el que Alicia Torres iba desgranando su vida. El resultado es esclarecedor y emocionante, porque nos sumerge en los sentimientos de alguien que se aferraba a cualquier atisbo de felicidad para superar la existencia. En palabras de la autora: «Este no es un libro sobre mi familia ni sobre el suicidio. Es un libro sobre la mente de mi hermana pequeña y el proceso que la sumerge en la oscuridad total. Es la historia de alguien que deseaba vivir, pero no fue capaz de conseguirlo». &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:40:01.799393+00:00"/>
+        <meta name="calibre:title_sort" content="Recuérdame bailando"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

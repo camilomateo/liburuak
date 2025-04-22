@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3450</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8f6ab95-dd62-4a34-b0c0-7d5fee20acbf</dc:identifier>
+        <dc:title>La revolución blockchain</dc:title>
+        <dc:creator opf:file-as="Tapscott, Don &amp; Tapscott, Alex" opf:role="aut">Don Tapscott</dc:creator>
+        <dc:creator opf:file-as="Tapscott, Don &amp; Tapscott, Alex" opf:role="aut">Alex Tapscott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Participar en la economía global y beneficiarse de su liberalidad. Las cadenas de bloques o blockchain aparecieron en 2009 y nos permiten enviar dinero de manera directa y segura de una persona a otra sin pasar por un banco, una tarjeta de crédito o PayPal manteniendo anónima la información del usuario. Esto significa que tu información personal es privada y segura mientras que toda actividad es transparente e incorruptible.&lt;/p&gt;
+
+    &lt;p&gt;Aunque el bitcoin es una de sus aplicaciones existentes y conocidas, esta tecnología abre un mundo de posibilidades, ya que, puede albergar cualquier tipo de documento legal, desde certificados de nacimiento hasta diplomas universitarios o historiales clínicos sin que ningún Estado, persona o empresa las controle o fiscalice.&lt;/p&gt;
+
+    &lt;p&gt;Los autores del libro nos revelan cómo esta tecnología cambiará el futuro de la economía mundial y cómo miles de millones de personas excluidas podrán, por fin, participar en la economía global y beneficiarse de su liberalidad.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">76502</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Economía</dc:subject>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>Tecnología</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:25:08+00:00"/>
+        <meta name="calibre:title_sort" content="revolución blockchain, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

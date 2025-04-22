@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3360</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c15f1a2-ffb7-4d4d-aae2-cefe15254f53</dc:identifier>
+        <dc:title>La chica que se llevaron</dc:title>
+        <dc:creator opf:file-as="Donlea, Charlie" opf:role="aut">Charlie Donlea</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-01T00:00:00+00:00</dc:date>
+        <dc:description>Ella no recuerda nada. Mejor así. Su verdad era solo la mitad de la historia.
+Megan McDonald está terminando el bachillerato, es popular, carismática, y tiene un futuro increíble por delante. En una de sus últimas noches en Emerson Bay, la secuestran.
+Megan está dos semanas en cautiverio hasta que escapa, y pasa a ser conocida como "la chica que se llevaron". Pero esa noche también desapareció Nicole Cutty y de ella nadie sabe nada.
+Megan escribe su libro, que se convierte en un bestseller, pero ella no está bien. Recuerda muy poco de lo que ocurrió y necesita saberlo. Livia, médica forense, es la hermana mayor de Nicole. Todavía se siente culpable por no haber contestado el teléfono cuando Nicole la llamó la noche en que desapareció.
+Megan y Livia deciden investigar qué pasó con Nicole. Cuanto más profundizan se dan cuenta de que el verdadero terror reside en encontrar exactamente lo que estabas buscando.
+Llega al español Charlie Donlea, autor de thrillers, best seller internacional #1, traducido a 12 idiomas en 20 países.
+"Donlea mantiene a sus lectores adivinando todo el tiempo. Las vueltas de la historia son inteligentes y atrapantes, para fans que disfrutan de las historias de misterios con giros inesperados". Library Journal.
+"Un excelente libro con todos los ingredientes necesarios, cautivante desde la primera a la última página. Charlie Donlea tiene un talento para no perder de vista dentro del género de thrillers". Steve Berry, bestseller de The New York Times</dc:description>
+        <dc:publisher>Motus</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788418711046</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:09:03.163901+00:00"/>
+        <meta name="calibre:title_sort" content="chica que se llevaron, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

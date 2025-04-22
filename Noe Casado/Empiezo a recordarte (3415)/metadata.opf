@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3415</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f32a779-7f42-47fe-b6ff-4ebc718ac02b</dc:identifier>
+        <dc:title>Empiezo a recordarte</dc:title>
+        <dc:creator opf:file-as="Casado, Noe" opf:role="aut">Noe Casado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>A nadie le sienta bien que le den plantón, pero solo duele la primera vez. Para cuando vuelve a ocurrir, uno ya está anestesiado. Eso, al menos, es lo que quiere creer Pierce, por lo que al abandono de su última
+pareja no le dedica siquiera cinco minutos de su tiempo, y menos aún cuando toda su atención está centrada en la remodelación de un antiguo palacete renacentista, propiedad de su familia, que quiere convertir en hotel de lujo. 
+
+Sin embargo, cuando llegue a Carcassonne, además de encontrarse con una joya arquitectónica, se topará también con un montón de secretos ocultos entre sus muros que retrasarán la obra.
+
+Y, por si fuera poco, recibirá una visita inesperada que pondrá su mundo patas arriba.</dc:description>
+        <dc:publisher>Esencia</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-13T21:11:04+00:00"/>
+        <meta name="calibre:title_sort" content="Empiezo a recordarte"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

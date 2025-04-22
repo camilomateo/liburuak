@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3404</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bda572e6-a9be-4327-991b-7ca8676357be</dc:identifier>
+        <dc:title>La novia de la paz</dc:title>
+        <dc:creator opf:file-as="Raro, Rosario" opf:role="aut">Rosario Raro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-27T13:59:43+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sur de África, 1901. Una mujer rompe sus cadenas y desafía a un imperio. Una historia sobre segundas oportunidades que te robará el corazón.&lt;/p&gt;
+&lt;p&gt;Shayna Orliens llega al sur de África en 1901 huyendo de un escándalo que ha sacudido a la alta sociedad londinense. Mientras lucha por reconstruirse y esquiva la investigación de Scotland Yard, que la considera sospechosa de la desaparición de su marido, conoce a un misterioso escultor escocés que guarda un grave secreto.&lt;/p&gt;
+&lt;p&gt;En su nuevo y exótico mundo, Shayna encuentra refugio en las palabras de Emily Hobhouse, quien, desde la prensa, denuncia con valentía los abusos del imperio británico en la guerra anglo-bóer.&lt;/p&gt;
+&lt;p&gt;La novia de la paz es una poderosa historia sobre segundas oportunidades con unas protagonistas arrebatadoras —una anónima, la otra célebre— que se atreven a poner en riesgo su libertad por desafiar el orden establecido. Ambas mudarán de piel y descubrirán que, tras una traición, no hay mejor venganza que la felicidad. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:41:20.241139+00:00"/>
+        <meta name="calibre:title_sort" content="novia de la paz, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

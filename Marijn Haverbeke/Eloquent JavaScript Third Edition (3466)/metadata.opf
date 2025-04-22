@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcbfd88f-34de-46e1-85a9-ef272db4db26</dc:identifier>
+        <dc:title>Eloquent JavaScript Third Edition</dc:title>
+        <dc:creator opf:file-as="Haverbeke, Marijn" opf:role="aut">Marijn Haverbeke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>JAVASCRIPT</dc:subject>
+        <meta name="calibre:timestamp" content="2023-01-17T22:26:48+00:00"/>
+        <meta name="calibre:title_sort" content="Eloquent JavaScript Third Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

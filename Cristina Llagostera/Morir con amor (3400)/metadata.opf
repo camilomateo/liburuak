@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64aa34f8-e564-437b-8e0d-8ee312ab02f8</dc:identifier>
+        <dc:title>Morir con amor</dc:title>
+        <dc:creator opf:file-as="Llagostera, Cristina" opf:role="aut">Cristina Llagostera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;¿Es posible vivir con sentido el tránsito final? ¿Cómo afrontar un proceso de enfermedad terminal?¿Qué significa «morir en paz»? La proximidad de la muerte llega siempre acompañada de dolor pero, en ocasiones, cuando hay un tiempo de preparación para la persona y su entorno, la muerte ofrece la oportunidad de completar la vida desde la conciencia. Ante el reto vital que supone el trance de la muerte, tan ineludible como a menudo negado o ignorado, necesitamos perspectivas que enriquezcan nuestra comprensión. Con el propósito de ofrecer guía y consuelo a personas que se encuentran en este proceso, Cristina Llagostera, psicóloga especialista en cuidados paliativos y pionera en nuestro país en el acompañamiento al morir, explora diez temas psicológicos y existenciales que aportan una dimensión más abierta y profunda de la muerte. Junto con estas enseñanzas, este libro comparte los conmovedores testimonios de personas de distintas edades y condiciones que lograron encontrar calma, trascender el sufrimiento y conectar con lo esencial. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Urano</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09SBFYXCN</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:39:33.644761+00:00"/>
+        <meta name="calibre:title_sort" content="Morir con amor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3359</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1a854fa-fb57-4c50-8210-e4ecd76d65d8</dc:identifier>
+        <dc:title>La última vez que pienso en ti</dc:title>
+        <dc:creator opf:file-as="Jeans, Blue" opf:role="aut">Blue Jeans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-28T13:01:15+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Una novela impactante y llena de misterio en torno al mundo editorial&lt;/p&gt;
+&lt;p&gt;Barcelona, unos días antes de Sant Jordi. La ciudad se prepara para celebrar uno de los eventos más importantes del año, pero lo que prometía ser una gran fiesta literaria se ve empañada por la misteriosa desaparición de la joven escritora Ángela Fletcher. Los sueños de Ángela se estaban haciendo realidad: había publicado su primera novela y la habían invitado a un festival de literatura juvenil para firmar su libro. Allí conoció a Arán, un chico muy interesante y peculiar. Entonces, ¿qué ha podido ocurrir para que desaparezca sin dejar rastro?&lt;/p&gt;
+&lt;p&gt;Los días pasan sin tener noticias de la joven. La policía se vuelca en una frenética búsqueda, pero lo que encuentran es el cadáverde otra de las escritoras de literatura juvenil más emergentes. La gente en Barcelona se queda conmocionada y no da crédito a lo que está sucediendo.&lt;/p&gt;
+&lt;p&gt;La última vez que pienso en ti es una novela trepidante y adictiva.&lt;/p&gt;
+&lt;p&gt;Advertencia: incluye contenido sensible. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:07:07.372699+00:00"/>
+        <meta name="calibre:title_sort" content="última vez que pienso en ti, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

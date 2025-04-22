@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3382</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7dec7fb0-1a3b-4e2c-8eda-5b1093b835ce</dc:identifier>
+        <dc:title>El loco de Dios en el fin del mundo</dc:title>
+        <dc:creator opf:file-as="Cercas, Javier" opf:role="aut">Javier Cercas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-02T00:00:00+00:00</dc:date>
+        <dc:description>El loco de Dios en el fin del mundo es el libro de un escritor en plenitud, que logra convertir una propuesta muy peculiar en un libro magistral.«El gran novelista español». Garth Risk Hallberg, The New York Times«El incontestable jefe de filas de su generación de escritores hispanohablantes[...]. Uno de los escritores más importantes de nuestro tiempo». Olivier Mony, Sud-Ouest«Soy ateo. Soy anticlerical. Soy un laicista militante, un racionalista contumaz, un impío riguroso. Pero aquí me tienen, volando en dirección a Mongolia con el anciano vicario de Cristo en la Tierra, dispuesto a interrogarle sobre la resurrección de la carne y la vida eterna. Para eso me he embarcado en este avión: para preguntarle al papa Francisco si mi madre verá a mi padre más allá de la muerte, y para llevarle a mi madre su respuesta. He aquí un loco sin Dios persiguiendo al loco de Dios hasta el fin del mundo».Este es el arranque fulgurante de este libro único, que nadie había tenido la...</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:26:52.647189+00:00"/>
+        <meta name="calibre:title_sort" content="loco de Dios en el fin del mundo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

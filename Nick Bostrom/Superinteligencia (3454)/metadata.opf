@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3454</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a14319f-0ced-4bd3-8817-b6d08e4a0ee8</dc:identifier>
+        <dc:title>Superinteligencia</dc:title>
+        <dc:creator opf:file-as="Bostrom, Nick" opf:role="aut">Nick Bostrom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-31T23:00:00+00:00</dc:date>
+        <dc:description>El cerebro humano tiene unas capacidades de las que carecen otros cerebros animales. Es debido a estas capacidades distintivas que nuestra especie ocupa una posición dominante. Otros animales tienen músculos más fuertes o garras más afiladas, pero nosotros tenemos cerebros más inteligentes. Si los cerebros artificiales llegaran algún día a superar a los cerebros humanos en inteligencia general, entonces esta nueva inteligencia llegaría a ser muy poderosa. De igual manera que el destino de los gorilas depende ahora más de los humanos que de ellos mismos, también el destino de nuestra especie pasaría a depender de las acciones de la superinteligencia artificial. Pero nosotros tenemos una ventaja: podemos hacer el primer movimiento. ¿Será posible construir una IA seminal o preparar las condiciones iniciales para que podamos sobrevivir a la explosión de inteligencia? ¿Cómo podríamos lograr una detonación controlada? Este libro profundamente ambicioso y original traza su camino cuidadosamente a través de un terreno vasto y de dificultad prohibitiva. Pero su escritura es tan lúcida que, de alguna manera, lo hace parecer fácil. Tras una travesía absorbente que nos lleva a pensar sobre los límites de la condición humana y el futuro de la vida inteligente, encontramos que el trabajo de Nick Bostrom supone toda una reconceptualización del tema esencial de nuestro tiempo.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">64130</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencias exactas</dc:subject>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Filosofía</dc:subject>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:25:09+00:00"/>
+        <meta name="calibre:title_sort" content="Superinteligencia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

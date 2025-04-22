@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3362</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5cf9fcd-1292-4f91-bfce-22538cbcf227</dc:identifier>
+        <dc:title>La casa de los suicidios</dc:title>
+        <dc:creator opf:file-as="Donlea, Charlie" opf:role="aut">Charlie Donlea</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-01T20:22:17+00:00</dc:date>
+        <dc:description>&lt;div aria-expanded="true" class="a-expander-content a-expander-partial-collapse-content a-expander-content-expanded" style="padding-bottom: 20px;"&gt; &lt;p&gt;&lt;b&gt;&lt;span class="a-text-bold"&gt;La novela más oscura del autor &lt;/span&gt;&lt;span class="a-text-bold a-text-italic"&gt;best seller &lt;/span&gt;&lt;span class="a-text-bold"&gt;internacional de thrillers&lt;/span&gt;&lt;br&gt;&lt;/b&gt;El
+ internado Westmont es un prestigioso instituto en el que las 
+expectativas son altas y las reglas, estrictas. Pero en el extremo más 
+alejado del bosque que rodea al edificio principal se encuentra una 
+residencia abandonada, conocida entre los estudiantes como punto de 
+encuentro nocturno. Allí solo hay una regla: no dejes que tu vela se 
+apague, a menos que quieras que el "Hombre del Espejo" te encuentre.&lt;br&gt;Hace
+ un año, dos estudiantes fueron brutalmente asesinados en ese lugar. 
+Desde entonces, el caso se ha convertido en el elemento principal de un 
+exitoso pódcast, &lt;span class="a-text-italic"&gt;La casa de los suicidios&lt;/span&gt;.
+ Todavía quedan muchas preguntas por contestar. ¿Por qué algunos 
+estudiantes que sobrevivieron a esa noche han vuelto al lugar para 
+suicidarse? &lt;br&gt;La investigadora Rory Moore, especialista en casos sin 
+resolver, y su compañero Lane Phillips, reconocido psicólogo forense, 
+inician una apasionante investigación que les conducirá por caminos 
+mucho más siniestros y terroríficos de los que en un principio habían 
+sospechado.&lt;/p&gt;  &lt;/div&gt;</dc:description>
+        <dc:publisher>Motus</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0000000000000</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:09:30.297309+00:00"/>
+        <meta name="calibre:title_sort" content="La casa de los suicidios"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3455</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4be6e039-9792-458c-81b4-693ba7a4fc26</dc:identifier>
+        <dc:title>La caza de hackers</dc:title>
+        <dc:creator opf:file-as="Sterling, Bruce" opf:role="aut">Bruce Sterling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Sterling, autor de novelas como Islas en la red, La máquina diferencial o El fuego sagrado, y considerado uno de los mayores expertos en el género ciberpunk, nos ofrece en La caza de hackers un apasionante reportaje desde el principio de la era de Internet, los ordenadores personales y la frontera electrónica.
+En 1990, la «Caída del Sistema» del día de Martin Luther King, que afectó a la compañía telefónica AT&amp;T y dejó sin comunicaciones a millones de norteamericanos, desencadenó la persecución y detención de decenas de hackers, acusados de causar «el Hundimiento» (the Crackdown).
+Con una entretenida prosa novelesca, Sterling nos lleva a conocer a todos los implicados en el asunto, desde los primeros activistas de Internet hasta los policías encargados del caso, que cimentó los pilares de lo que hoy es la libertad de expresión en Internet. 25 años después de los sucesos del día de Martin Luther King, La caza de hackers se ha convertido en un libro de culto, un documento histórico imprescindible para comprender y entender la transformación y el impacto de las nuevas comunicaciones en el siglo XXI.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">66781</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>Tecnología</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:25:09+00:00"/>
+        <meta name="calibre:title_sort" content="caza de hackers, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

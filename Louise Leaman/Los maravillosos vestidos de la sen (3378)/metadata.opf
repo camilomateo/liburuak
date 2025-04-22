@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3378</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75f87557-95c7-49ea-ab40-fa205f70d135</dc:identifier>
+        <dc:title>Los maravillosos vestidos de la señora Delaney</dc:title>
+        <dc:creator opf:file-as="Leaman, Louise" opf:role="aut">Louise Leaman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;BIENVENIDA A LA BOUTIQUE DE LAS SEGUNDAS OPORTUNIDADES&lt;/p&gt;
+&lt;p&gt;¿Puede un vestido de novia sanar un corazón roto?&lt;/p&gt;
+&lt;p&gt;Un Vestido con Alma no es una tienda de vestidos de novia cualquiera: todos y cada uno de ellos son únicos, vintage y esconden una maravillosa historia. Francesca Delaney, la dueña, tiene un don especial para encontrar el vestido perfecto para cada clienta. Sabe cómo hacer que resalte la auténtica personalidad de la mujer que lo lucirá y, sin duda, siempre logra sorprender.&lt;br&gt;Fran se encarga de descubrir piezas fabulosas y adentrarse en la historia de amor que se esconde detrás de ellas. Cuando encuentra un precioso vestido de los años cincuenta, su corazón se acelera. Es una joya de la alta costura, única y de gran valor. &lt;br&gt;Para conocer a la mujer a la quepertenecía, Fran debeá enfrentarse a su antipático hijo, Rafael Colt, e indagar en un secreto familiar que podría esconder la llave de su propia felicidad...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Newton Compton Editores</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:24:48.990360+00:00"/>
+        <meta name="calibre:title_sort" content="maravillosos vestidos de la señora Delaney, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

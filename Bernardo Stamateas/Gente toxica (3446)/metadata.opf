@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3446</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fa8f015-3f23-47eb-a27a-70644acfef22</dc:identifier>
+        <dc:title>Gente tóxica</dc:title>
+        <dc:creator opf:file-as="Stamateas, Bernardo" opf:role="aut">Bernardo Stamateas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En nuestra vida cotidiana no podemos evitar encontrarnos con personas problemáticas. Jefes autoritarios y descalificadores, vecinos quejosos, compañeros de trabajo o estudio envidiosos, parientes que siempre nos echan la culpa de todo, hombres y mujeres arrogantes, irascibles o mentirosos… Todas estas personas «tóxicas» nos producen malestar, pero algunas pueden arruinarnos la vida, destruir nuestros sueños o alejarnos de nuestras metas.</dc:description>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789501524765</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>LIDERAZGO</dc:subject>
+        <meta name="calibre:timestamp" content="2023-02-03T07:39:17+00:00"/>
+        <meta name="calibre:title_sort" content="Gente tóxica"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

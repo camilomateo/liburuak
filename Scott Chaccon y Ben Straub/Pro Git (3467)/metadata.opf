@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">466682a8-c48d-4f6a-b27b-c49d24538905</dc:identifier>
+        <dc:title>Pro Git</dc:title>
+        <dc:creator opf:file-as="Straub, Scott Chaccon y Ben" opf:role="aut">Scott Chaccon y Ben Straub</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-14T00:00:00+00:00</dc:date>
+        <dc:publisher>APRESS</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>GIT</dc:subject>
+        <meta name="calibre:timestamp" content="2023-01-17T22:02:28+00:00"/>
+        <meta name="calibre:title_sort" content="Pro Git"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

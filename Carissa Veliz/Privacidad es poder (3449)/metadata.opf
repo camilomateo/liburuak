@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3449</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf3608be-5a8f-434c-9303-9ee3a93a8074</dc:identifier>
+        <dc:title>Privacidad es poder</dc:title>
+        <dc:creator opf:file-as="Véliz, Carissa" opf:role="aut">Carissa Véliz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;La guía definitiva para afrontar uno de los problemas más acuciantes de nuestro tiempo: la pérdida de la privacidad.&lt;/b&gt;&lt;/p&gt;
+
+    &lt;p&gt;Nos vigilan. Saben que estás leyendo estas palabras. Gobiernos y cientos de empresas nos espían: a ti y a todos tus conocidos. A todas horas, todos los días. Rastrean y registran todo lo que pueden: nuestra ubicación, nuestras comunicaciones, nuestras búsquedas en internet, nuestra información biométrica, nuestras relaciones sociales, nuestras compras, nuestros problemas médicos y mucho más.&lt;/p&gt;
+
+    &lt;p&gt;Quieren saber quiénes somos, qué pensamos, dónde nos duele. Quieren predecir nuestro comportamiento e influir en él. Tienen demasiado poder. Su poder proviene de nosotros, de ti, de tus datos. Recuperar la privacidad es la única manera de que podamos asumir de nuevo el mando de nuestras vidas y de nuestras sociedades. La privacidad es tan colectiva como personal, y es hora de retomar el control.&lt;/p&gt;
+
+    &lt;p&gt;Privacidad es poder es el primer libro que propone el fin de la economía de los datos. Carissa Véliz explica cómo nuestros datos personales están cediendo demasiado poder a las grandes empresas tecnológicas y a los gobiernos, por qué esto es importante y qué podemos hacer al respecto.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">54936</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>Tecnología</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:25:08+00:00"/>
+        <meta name="calibre:title_sort" content="Privacidad es poder"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3391</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb2402c7-c114-41c6-bb57-f881128e9fc0</dc:identifier>
+        <dc:title>Retrato en sangre</dc:title>
+        <dc:creator opf:file-as="Katzenbach, John" opf:role="aut">John Katzenbach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-18T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un hombre, una mujer, un coche, una cámara fotográfica...&lt;/p&gt;
+&lt;p&gt;No es un viaje normal por carretera, pues él se dedica a secuestrar, matar y, después, fotografiar a sus víctimas; ella, a escribir sobre lo ocurrido y asegurarse de que ha plasmado correctamente la historia, porque sabe que luego su captor lo revisará todo.&lt;/p&gt;
+&lt;p&gt;La detective Mercedes Barren, de la policía de Miami, tiene motivos de sobra para perseguir a ese psicópata desconocido: su sobrina es una de sus presuntas víctimas. También el psiquiatra Martin Jeffers, especialista en delitos sexuales, está interesado en el caso.&lt;/p&gt;
+&lt;p&gt;El primer sospechoso que encuentran es un fundamentalista islámico, pero pronto descubren que el asunto es más complicado de lo que creían, y que ese islamista nada tiene que ver con el secuestro de la joven.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>B DE BOLSILLO</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:34:21.706621+00:00"/>
+        <meta name="calibre:title_sort" content="Retrato en sangre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

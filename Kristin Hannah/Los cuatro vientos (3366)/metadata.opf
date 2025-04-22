@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d717326-9c7e-4f4b-b863-fc326267799a</dc:identifier>
+        <dc:title>Los cuatro vientos</dc:title>
+        <dc:creator opf:file-as="Kristin Hannah" opf:role="aut">Kristin Hannah</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #333333; background-color: #ffffff"&gt;Texas, 1921. La Gran Guerra ha terminado y Estados Unidos parece entrar en una nueva era de optimismo y abundancia. Pero para Elsa, considerada demasiado mayor para casarse en una época en la que el matrimonio es la única opción de una mujer, el futuro es incierto. Hasta la noche en que conoce a Rafe Martinelli y decide cambiar la dirección de su vida. Con su reputación arruinada, solo le queda una opción respetable: casarse con un hombre al que apenas conoce. En 1934, el mundo ha cambiado. Millones de personas se han quedado sin trabajo y los granjeros luchan por conservar sus tierras. Las cosechas se pierden por la sequía, las fuentes de agua se secan y el polvo amenaza con enterrarlo todo. Cada día en la granja de los Martinelli es una desesperada batalla por la supervivencia. Y, como tantos otros, Elsa se ve obligada a tomar unaagónica decisión: luchar por la tierra que ama o marchar al oeste, a California, en busca de una vida mejor para su familia.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>SUMA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491295327</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:15:34.923473+00:00"/>
+        <meta name="calibre:title_sort" content="cuatro vientos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

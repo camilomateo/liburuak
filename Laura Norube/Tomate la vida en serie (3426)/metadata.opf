@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42a36371-c327-46e4-809d-101ca6a44f2f</dc:identifier>
+        <dc:title>Tómate la vida en serie</dc:title>
+        <dc:creator opf:file-as="Norube, Laura" opf:role="aut">Laura Norube</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-18T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h4&gt;&lt;span class="a-text-bold"&gt;¿Eres fan de los ochenta y los noventa? 
+¿Estás cansad@ de no entender las referencias televisivas que utilizan 
+las generaciones anteriores a la tuya? ¿Te encantan las series?&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;Si has respondido afirmativamente a alguna de las preguntas anteriores, &lt;span class="a-text-bold"&gt;Tómate la vida en serie&lt;/span&gt;
+ y sumérgete con este libro en el repaso de algunas de las series más 
+carismáticas de las dos últimas décadas del siglo XX. Descubre también 
+referencias de esos años en las producciones actuales.&lt;/p&gt;&lt;p&gt;Este
+ libro se aleja de ser una guía plagada de información que te abrume. 
+Con unos cuantos títulos y la descripción aportada, posiblemente podrás 
+entender qué es lo que suscita interés en cada una de las series que se 
+mencionan, y si pueden llegar a gustarte.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0BYXW153Z</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-13T21:11:02+00:00"/>
+        <meta name="calibre:title_sort" content="Tómate la vida en serie"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

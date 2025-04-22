@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3417</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">284cbe40-1a7f-46e5-84eb-9f4c0e247ede</dc:identifier>
+        <dc:title>Error fatal</dc:title>
+        <dc:creator opf:file-as="Martin, Faith" opf:role="aut">Faith Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un apasionante y enrevesado misterio de asesinato perfecto para todos los aficionados a la novela negra. Serie &lt;em&gt;Ryder y Loveday&lt;/em&gt; , Libro 2.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Verano de 1960, Oxford.&lt;/p&gt;
+&lt;p&gt;Bajo el glorioso sol de Oxford, en un día en el que todos deberían estar de celebración, la tragedia lo eclipsa todo cuando un estudiante universitario aparece flotando en el río, muerto.&lt;/p&gt;
+&lt;p&gt;La agente de policía en prácticas Trudy Loveday vuelve a ser asignada como compañera del médico forense Clement Ryder para llevar a cabo la investigación, y no tardarán en darse cuenta de que la resolución del caso no será fácil.&lt;/p&gt;
+&lt;p&gt;Todos los testigos se niegan a dar una respuesta directa, cada nueva pista los lleva en una dirección diferente y las historias de otras jóvenes desaparecidas añaden más misterio a la investigación.&lt;/p&gt;
+&lt;p&gt;Sin embargo, una cosa es cierta: hay algo que no encaja con los estudiantes más populares de la universidad...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410021471</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Ryder y Loveday"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-02-13T21:11:03+00:00"/>
+        <meta name="calibre:title_sort" content="Error fatal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3485</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07302d68-da2e-44af-9b46-01862623170e</dc:identifier>
+        <dc:title>SQL for Dummies</dc:title>
+        <dc:creator opf:file-as="Taylor, Allen G." opf:role="aut">Allen G. Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Team DDU</dc:description>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>DUMMIES</dc:subject>
+        <dc:subject>SQL</dc:subject>
+        <meta name="calibre:timestamp" content="2023-12-28T14:52:00+00:00"/>
+        <meta name="calibre:title_sort" content="SQL for Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3489</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9c21747-6b5c-45b6-b007-3ee68d638da2</dc:identifier>
+        <dc:title>Linux for Dummies 6th Ed</dc:title>
+        <dc:creator opf:file-as="LeBlanc, Dee-Ann." opf:role="aut">LeBlanc, Dee-Ann.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-04T16:48:49+00:00</dc:date>
+        <dc:description>Team DDU</dc:description>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>DUMMIES</dc:subject>
+        <dc:subject>LINUX</dc:subject>
+        <meta name="calibre:timestamp" content="2023-12-28T14:51:58+00:00"/>
+        <meta name="calibre:title_sort" content="Linux for Dummies 6th Ed"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

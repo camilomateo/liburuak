@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3474</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">884f0ec9-9ecc-4b3c-97ec-2f186b73584b</dc:identifier>
+        <dc:title>Programación concurrente</dc:title>
+        <dc:creator opf:file-as="Josep Jorba Esteve, Remo Suppl Boldrito" opf:role="aut">Josep Jorba Esteve, Remo Suppl Boldrito</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-29T23:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>UOC</dc:subject>
+        <meta name="calibre:timestamp" content="2024-11-13T16:41:10+00:00"/>
+        <meta name="calibre:title_sort" content="Programación concurrente"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3461</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">801558f9-e879-4e4b-af93-69b0863c348b</dc:identifier>
+        <dc:title>Professional Android Application Development</dc:title>
+        <dc:creator opf:file-as="Meier, Reto" opf:role="aut">Reto Meier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-05T15:47:34+00:00</dc:date>
+        <dc:publisher>WROX</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>ANDROID</dc:subject>
+        <meta name="calibre:timestamp" content="2023-01-19T12:22:42+00:00"/>
+        <meta name="calibre:title_sort" content="Professional Android Application Development"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3422</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">747ea193-582f-4fd0-980b-cf709bab4326</dc:identifier>
+        <dc:title>Bajo tierra seca</dc:title>
+        <dc:creator opf:file-as="Gellida, César Pérez" opf:role="aut">César Pérez Gellida</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;PREMIO NADAL 2024&lt;/p&gt;
+&lt;p align="justify"&gt;Extremadura, principios del siglo xx. Antonia Monterroso, más conocida como la Viuda, es la propietaria de una de las mayores haciendas de la región; intenta mantenerla a flote en un momento en el que la hambruna que afecta las zonas rurales no parece terminar jamás. Pero un incendio destruye todo lo que con tanto empeño ha logrado construir y, tras él, ella desaparece sin dejar rastro.&lt;/p&gt;
+&lt;p align="justify"&gt;El teniente Martín Gallardo se desplaza hasta el lugar junto con el sargento Pacheco para investigar lo sucedido. Cinco días atrás, la mujer interpuso una denuncia contra Jacinto Padilla, capataz de su finca y antiguo amante, a quien han detenido en la estación de Zafra con una bolsa llena de dinero y joyas. Él asegura que provocó el incendio por orden de Antonia y que la bolsa se la entregó ella porque iban a empezar una nueva vida lejos de allí. Durante el interrogatorio, Padilla confiesa una serie de hechos macabros que provocan un giro radical en una investigación que acabará tiñéndose de sangre. Gallardo, como todos los que viven por la zona, ha oído hablar de la enigmática Viuda, pero lo que todavía no sabe es que se enfrenta a un caso del que no saldrá indemne.&lt;/p&gt;
+&lt;p align="justify"&gt;Bajo tierra seca es un thriller rural al más puro estilo Gellida sobre una mujer que marcó el destino de quienes se cruzaron con ella.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Destino</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-13T21:11:02+00:00"/>
+        <meta name="calibre:title_sort" content="Bajo tierra seca"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

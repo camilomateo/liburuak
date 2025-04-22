@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3476</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83d2c213-2a71-4477-bb18-d775be225f2e</dc:identifier>
+        <dc:title>Aspectos avanzados de seguridad en redes</dc:title>
+        <dc:creator opf:file-as="Herrero, Jordi" opf:role="aut">Jordi Herrero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-02-20T17:37:56+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>UOC</dc:subject>
+        <meta name="calibre:timestamp" content="2024-11-13T16:41:09+00:00"/>
+        <meta name="calibre:title_sort" content="Aspectos avanzados de seguridad en redes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

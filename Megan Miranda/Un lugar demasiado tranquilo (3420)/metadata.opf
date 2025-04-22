@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3420</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17367c9b-48d1-49af-9d0c-fc4f9a4fc542</dc:identifier>
+        <dc:title>Un lugar demasiado tranquilo</dc:title>
+        <dc:creator opf:file-as="Miranda, Megan" opf:role="aut">Megan Miranda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Hollow's Edge solía ser un lugar tranquilo. Un vecindario privado idílico, donde los vecinos celebraban juntos cualquier ocasión y se cuidaban mutuamente. Tras el asesinato de Brandon y Fiona Truett, la utopía terminó. Ahora los residentes viven atrapados, incapaces de vender sus casas, enfrentándose diariamente a la casa vacía de los Truett y asfixiados por los testimonios que acusan del asesinato a Ruby Fletcher, una de ellos. Un año y medio después, Ruby ha vuelto porque anularon su condena. Regresa a la casa que compartió con su amiga Harper, quien siempre la trató como a una hermana menor. Sin embargo, Harper está aterrorizada: ¿por qué Ruby ha decidido volver a la escena del crimen? Queda claro que no todos dijeron la verdad sobre la noche del asesinato. Cuando Harper comienza a recibir amenazas, sabe que debe descubrir lo que realmente sucedió, antes de que muera alguien más.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Motus</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-13T21:11:03+00:00"/>
+        <meta name="calibre:title_sort" content="lugar demasiado tranquilo, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

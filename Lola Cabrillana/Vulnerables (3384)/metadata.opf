@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3384</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abcbd50b-cc6c-4e03-a574-4ab1b68c7237</dc:identifier>
+        <dc:title>Vulnerables</dc:title>
+        <dc:creator opf:file-as="Cabrillana, Lola" opf:role="aut">Lola Cabrillana</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-03T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;UNA NOVELA PARA ABRIR LOS OJOS ANTE LOS PELIGROS DE LAS REDES. &lt;/p&gt;
+&lt;p&gt;UN GOLPE DE REALIDAD. &lt;/p&gt;
+&lt;p&gt;UNA AUTORA QUE DESPIERTA CONCIENCIAS.&lt;/p&gt;
+&lt;p&gt;Tras el éxito de La maestra gitana, Lola Cabrillana vuelve con una novela sorprendente. &lt;/p&gt;
+&lt;p&gt;Hasta hace muy poco Tamo, Arabia y Estefanía no se conocían. Jamás se habían visto, pero las tres jóvenes han cometido el mismo error: confiar a ciegas en alguien. Y ahora sus destinos están unidos por el miedo.&lt;/p&gt;
+&lt;p&gt;Esos malditos vídeos podrían viralizarse en las redes sociales… ¿Qué pensarán en el instituto? ¿Y sus familias? Se sienten tan vulnerables que harán todo lo posible para evitar que las grabaciones salgan a la luz, aunque eso signifique pagar un precio demasiado alto. Cuando todo se complique, solo sus madres y una profesora lucharán por ellas.&lt;/p&gt;
+&lt;p&gt;Con una trama vibrante, Lola Cabrillana nos muestra en esta novela las muchas caras de las redes sociales y los peligros que esconden. Una historia sobre una realidad que tenemos más cerca de lo que pensamos. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grijalbo</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:28:44.945117+00:00"/>
+        <meta name="calibre:title_sort" content="Vulnerables"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

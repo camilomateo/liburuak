@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3413</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8965f8d-ac7e-4a67-af11-b3085ad648b9</dc:identifier>
+        <dc:title>La criada de Finton Hall</dc:title>
+        <dc:creator opf:file-as="Musson, Herter" opf:role="aut">Herter Musson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un sirvienta inusual. Una señora desconcertante. Un señor poderoso. Las cosas más bellas pueden ser también las más horripilantes. 1878. Harriet acaba de llegar a Finton Hall para trabajar como criada. Mientras la bella Clara Gethin languidece, su marido, un popular diputado, se encuentra en Londres. El humor errático y cambiante de la señora, así como el extraño comportamiento que tiene hacia su bebé, inquietan a Harriet, pero a fascinación y la devoción que siente por su señora la llevan a justificar cualquier cosa que ella haga. Sin embargo, ese no es el único enigma que encierra Finton Halll: los perturbadores objetos y cuadros esparcidos por la lujosa casa, las bellas y reservadas sirvientas, que parecen sorprendidas y resentidas por la presencia de Harriet, y el señor ausente, cuyo esperado regreso la llena de pavor. Cuando Harriet descubra la verdad de lo que sucede en la casa, no tendrá más remedio que romper con todo, pero la sombra de Finton Hall es tan alargada que puede amenazar incluso su libertad.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Versátil</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-13T21:11:04+00:00"/>
+        <meta name="calibre:title_sort" content="criada de Finton Hall, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

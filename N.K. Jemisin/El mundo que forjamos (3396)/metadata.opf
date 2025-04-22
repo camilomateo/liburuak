@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b580fc6-35f6-4fde-8f2e-396ecf70f01c</dc:identifier>
+        <dc:title>El mundo que forjamos</dc:title>
+        <dc:creator opf:file-as="Jemisin, N.K." opf:role="aut">N.K. Jemisin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-05-11T00:00:00+00:00</dc:date>
+        <dc:description>N.K. Jemisin, la tres veces ganadora del Premio Hugo a la mejor novela y superventas de The New York Times, nos trae un relato glorioso sobre la identidad, la resistencia, la magia y la mitología.La bilogía «Las Ciudades Grandiosas» es una obra maestra de ficción especulativa.Hay cosas que no van del todo bien en la ciudad que nunca duerme. Los avatares de Nueva York han conseguido evitar temporalmente la invasión de la Mujer de Blanco (y de paso la destrucción de todo el universo), pero el misterioso Enemigo con E mayúscula esconde poderes más sutiles bajo la manga. Un nuevo candidato a la alcaldía, experto en el arte de la retórica populista de la gentrificación, la xenofobia y la «ley y el orden», puede llegar a conseguir cambiar la naturaleza de la Gran Manzana.Para derrotarlo a él y al Enemigo que lo controla en las sombras, los avatares deberán unirse con el resto de las ciudades grandiosas. O arriesgarse a la aniquilación completa de su mundo.Críticas: «Un grito de...</dc:description>
+        <dc:publisher>Nova</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:37:49.726129+00:00"/>
+        <meta name="calibre:title_sort" content="mundo que forjamos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

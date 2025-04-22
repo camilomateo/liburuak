@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3361</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ab37cf1-47c6-4437-b01b-dbc1c40da62f</dc:identifier>
+        <dc:title>El ADN te condena</dc:title>
+        <dc:creator opf:file-as="Donlea, Charlie" opf:role="aut">Charlie Donlea</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sloan Hastings es adoptada y nunca quiso localizar a sus padres biológicos. Ahora está investigando para su tesis sobre patología forense y decide enviar su ADN a una empresa de genealogía.   &lt;/p&gt;
+&lt;p&gt;Los resultados de su búsqueda son impactantes. El perfil de ADN de Sloan sugiere que su verdadera identidad es Charlotte Margolis, también conocida como "bebé Charlotte". Este caso conmovió al país cuando desapareció misteriosamente junto a sus padres hace treinta años. Su descubrimiento la impacta tanto que viaja al pequeño pueblo de Cedar Creek (en Nevada), donde el poder de la familia Margolis impregna cada rincón del condado.   &lt;/p&gt;
+&lt;p&gt;Su regreso también es una amenaza. Las respuestas que busca están enterradas en un cementerio de secretos que algunos tratarán de mantener ocultos a cualquier precio... sin importar quién más tenga que morir.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Motus</dc:publisher>
+        <dc:language>es</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:09:17.299220+00:00"/>
+        <meta name="calibre:title_sort" content="ADN te condena, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

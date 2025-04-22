@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3464</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9d9b343-77a8-4e72-9403-22aee10354b8</dc:identifier>
+        <dc:title>WebGL - Up and Running</dc:title>
+        <dc:creator opf:file-as="Parisi, Tony" opf:role="aut">Tony Parisi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>O'REILLY</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>3D</dc:subject>
+        <meta name="calibre:timestamp" content="2023-01-19T08:10:55+00:00"/>
+        <meta name="calibre:title_sort" content="WebGL - Up and Running"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

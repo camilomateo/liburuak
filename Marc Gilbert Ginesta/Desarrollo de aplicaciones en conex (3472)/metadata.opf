@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3472</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0adb12d-883a-4679-a764-525e7c7a7f57</dc:identifier>
+        <dc:title>Desarrollo de aplicaciones en conexión con bases de datos</dc:title>
+        <dc:creator opf:file-as="Ginesta, Marc Gilbert" opf:role="aut">Marc Gilbert Ginesta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-30T15:53:18+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>UOC</dc:subject>
+        <meta name="calibre:timestamp" content="2024-11-13T16:41:10+00:00"/>
+        <meta name="calibre:title_sort" content="Desarrollo de aplicaciones en conexión con bases de datos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

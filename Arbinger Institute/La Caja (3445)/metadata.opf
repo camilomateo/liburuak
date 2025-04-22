@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3445</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">acb0e125-b80a-4950-b8c6-f8768627653d</dc:identifier>
+        <dc:title>La Caja</dc:title>
+        <dc:creator opf:file-as="Arbinger Institute" opf:role="aut">Arbinger Institute</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>LA CAJA
+UNA ENTRETENIDA HISTÓRIA DE CÓMO MULTIPLICAR NUESTRA PRODUCTIVIDAD</dc:description>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">5705547533428</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>LIDERAZGO</dc:subject>
+        <meta name="calibre:timestamp" content="2023-02-03T07:39:17+00:00"/>
+        <meta name="calibre:title_sort" content="Caja, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

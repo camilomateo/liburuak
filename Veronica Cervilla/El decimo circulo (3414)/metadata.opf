@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3414</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">949a7630-df4e-4e95-8941-2f6083573149</dc:identifier>
+        <dc:title>El décimo círculo</dc:title>
+        <dc:creator opf:file-as="Cervilla, Verónica" opf:role="aut">Verónica Cervilla</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-18T06:00:00+00:00</dc:date>
+        <dc:description>BIENVENIDO AL CÍRCULO. BIENVENIDO AL INFIERNO.El thrillerdark academiaque conquistará a los lectores de Las Doncellas de AlexMichaelides o Los crímenes de Oxford de Guillermo Martínez.UN CLUB DE LECTURA CLANDESTINOEl día que Gara llega a Granada, la belleza nostálgica de la ciudad la envuelve como un abrazo. Mirar al pasado duele demasiado y la culpa por una muerte que no puede asumir la persigue en cada aliento.UNA ORGANIZACIÓN CON UN OSCURO SECRETOQuizá por eso, entre los antiguos muros de la universidad donde se dedica en cuerpo y alma a su doctorado, Gara caerá en las redes deEl décimo círculo. Este extraño grupo, formado por estudiantes obsesionados con Dante, pretende demostrar que el averno, el reino descrito en la Divina Comedia, es real y que las almas de los condenados reciben allí sus castigos.UNA PUERTA AL INFIERNOPero unos inquietantes sucesos se ciernen sobre El círculo, y Gara pronto descubrirá que, para sus integrantes, el fin siempre justificalos medios: no...</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788466677431</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-13T21:11:04+00:00"/>
+        <meta name="calibre:title_sort" content="décimo círculo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

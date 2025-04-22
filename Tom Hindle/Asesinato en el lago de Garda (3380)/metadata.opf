@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3380</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a35ef24-3ea1-4e43-ad72-09e5630f9388</dc:identifier>
+        <dc:title>Asesinato en el lago de Garda</dc:title>
+        <dc:creator opf:file-as="Hindle, Tom" opf:role="aut">Tom Hindle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-23T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una pareja feliz.&lt;/p&gt;
+&lt;p&gt;Dos familias divididas.&lt;/p&gt;
+&lt;p&gt;Una boda de muerte.&lt;/p&gt;
+&lt;p&gt;En la isla privada de Castello Fiore, rodeada por las resplandecientes aguas del lago de Garda, en Italia, la ilustre familia Heywood se reúne para celebrar la esperada boda de su hijo Laurence con la&amp;#160;influencer italiana Eva Bianchi. Pero justo cuando empieza la ceremonia, un grito espeluznante hace que todos se queden atónitos. Alguien ha asesinado a Eva, la flamante novia.&lt;/p&gt;
+&lt;p&gt;Con los huéspedes atrapados en la isla a la espera de que llegue la policía, salen a la luz viejos secretos que ponen en riesgo el delicado equilibrio en el que se encuentran los invitados a la boda. Todos están ansiosos por averiguar quién es el asesino. Y más importante todavía, ¿lograrán encontrarlo antes de que vuelva a cometer un crimen?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ático de los Libros</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:25:47.554376+00:00"/>
+        <meta name="calibre:title_sort" content="Asesinato en el lago de Garda"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dac39af8-f95b-4b05-beb3-d5be0dfc560e</dc:identifier>
+        <dc:title>El Invitado</dc:title>
+        <dc:creator opf:file-as="Escobar, Mario" opf:role="aut">Mario Escobar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-03T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;UN THRILLER QUE TE ENGAÑA HASTA LA ÚLTIMA PÁGINA.&lt;br&gt;Promoción Limitada&lt;br&gt;&lt;br&gt;&lt;br&gt;Madrid se ha convertido en la ciudad peligrosa. En los barrios se respira un ambiente de miedo y tensión entre las diferentes comunidades. En los barrios altos, los problemas son muy distintos, la corrupción política y los sobornos empresariales impiden que las cosas cambien.&lt;br&gt;Una adictiva y nueva novela de la saga más esperada del momento.&lt;br&gt;&lt;br&gt;Mario Escobar ganador Premio Empik 2020 novela más leída en Polonia.&lt;br&gt;&lt;br&gt;&lt;br&gt;Adela regresa con un nuevo caso y un giro radical en su vida, el comisario Peral quiere que investigue al jefe de la sección de la UDEF de delitos Económicos y Blanqueo de la Jefatura Superior de Policía de Madrid. Mientras investiga el caso, se enamora de un viejo compañero mientras era policía en Ávila. Parece que todos son buenas noticias y Adela está dispuesta casarse con su amor, pero la enfermedad de su madre y un nuevo caso de su tío Cosme puede poner su felicidad en peligro. Una mafia que se aprovecha de los inmigrantes sin papeles está aterrorizado Pan Bendito y solo Cosme y Adela pueden impedirlo a tiempo.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0DRTLL1P2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Crímenes de Madrid"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:timestamp" content="2025-04-21T15:31:18.422026+00:00"/>
+        <meta name="calibre:title_sort" content="Invitado, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

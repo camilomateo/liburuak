@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26e1bab3-18b4-4825-91a5-64bf0c107e67</dc:identifier>
+        <dc:title>El gabinete del Dr. Leng</dc:title>
+        <dc:creator opf:file-as="Preston, Douglas &amp; Child, Lincoln" opf:role="aut">Douglas Preston</dc:creator>
+        <dc:creator opf:file-as="Preston, Douglas &amp; Child, Lincoln" opf:role="aut">Lincoln Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Aloysius Pendergast y Constance Green se enfrentan a un asesino en serie en unas circunstancias extraordinarias. Un criminal que es antepasado del agente del FBI. Constance Greene ha encontrado la manera de regresar a la ciudad de Nueva York del año 1880, decidida a hacer pagar al doctor Leng por todos sus delitos y evitar los hechos que provocaron la muerte de sus hermanos. Haciéndose pasar por una rica aristócrata británica, Constance se codea con algunas damas de la alta sociedad que la introducen en el círculo del poderoso criminal, al que seduce con la noticia de una fórmula secreta para la vida eterna que está dispuesta a compartir con él. Mientras tanto, en la actual ciudad de Nueva York Pendergast recurre a un científico que había colaborado con la NASA para que le ayude a reunirse con Constance y embarca a su amigo D'Agosta en el viaje. Reseña: «Pendergast es un héroe peculiar, un Sherlock Holmes moderno». Kirkus&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401032837</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Agente Pendergast"/>
+        <meta name="calibre:series_index" content="21"/>
+        <meta name="calibre:timestamp" content="2025-04-21T15:19:02.806605+00:00"/>
+        <meta name="calibre:title_sort" content="gabinete del Dr. Leng, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

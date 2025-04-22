@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbde2420-fcbb-463f-926e-e8cf27f27f51</dc:identifier>
+        <dc:title>Inteligencia artificial</dc:title>
+        <dc:creator opf:file-as="Mitchell, Melanie" opf:role="aut">Melanie Mitchell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-14T23:00:00+00:00</dc:date>
+        <dc:description>Melanie Mitchell separa la ciencia real de la ciencia ficción en este amplio examen del estado actual de la inteligencia artificial y de cómo está rehaciendo nuestro mundo. Ninguna empresa científica reciente ha resultado tan seductora, aterradora y llena de extravagantes promesas y frustrantes reveses como la IA. La galardonada científica informática Melanie Mitchell revela su turbulenta historia, la reciente oleada de aparentes éxitos, las grandes esperanzas y temores que la rodean, y las cuestiones más urgentes hoy: ¿hasta qué punto son realmente inteligentes los programas de IA? ¿Qué pueden hacer realmente? ¿Hasta qué punto esperamos que se asemejen a los humanos y cuándo debemos preocuparnos de que nos superen? Mitchell presenta los modelos dominantes de la IA y el aprendizaje automático modernos, describiendo los programas más avanzados, sus inventores humanos y las líneas de pensamiento históricas que sustentan los logros recientes. Explora la profunda desconexión entre el bombo publicitario y los logros reales de la IA, proporcionando una idea clara de lo que el campo ha logrado y cuánto le queda por recorrer. Una guía indispensable para entender la IA actual, su búsqueda de una inteligencia «de nivel humano» y su impacto en nuestro futuro.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">77451</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>Sociología</dc:subject>
+        <meta name="calibre:timestamp" content="2025-02-11T10:25:07+00:00"/>
+        <meta name="calibre:title_sort" content="Inteligencia artificial"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

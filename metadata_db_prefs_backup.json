@@ -4,6 +4,7 @@
   "saved_searches": {
     "Autoayuda": "tags:\"=Autoayuda\"",
     "Filosofia": "tags:\"=Filosof\u00eda\"",
+    "Inform\u00e1tica": "tags:\"=Inform\u00e1tica\"",
     "Isaac Asimov": "author:\"Isaac Asimov\"",
     "Jorn Lier": "Jorn Lier",
     "Stephen King": "author:\"Stephen King\""
@@ -26,7 +27,191 @@
     "sort_history": [
       [
         "timestamp",
+        false
+      ],
+      [
+        "rating",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "title",
         true
+      ],
+      [
+        "tags",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "rating",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "tags",
+        false
+      ],
+      [
+        "marked",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "rating",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "tags",
+        false
+      ],
+      [
+        "marked",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "rating",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "tags",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "rating",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "rating",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "marked",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "rating",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "rating",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "marked",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "timestamp",
+        true
+      ],
+      [
+        "rating",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "rating",
+        false
+      ],
+      [
+        "timestamp",
+        false
       ],
       [
         "rating",
@@ -657,6 +842,54 @@
   },
   "gui_view_history": [
     [
+      3489,
+      "Linux for Dummies 6th Ed"
+    ],
+    [
+      1456,
+      "El museo"
+    ],
+    [
+      3387,
+      "El canto de los corazones rebeldes"
+    ],
+    [
+      3383,
+      "Vivir sin miedo"
+    ],
+    [
+      3367,
+      "La chica de Woodstock"
+    ],
+    [
+      3365,
+      "Las mujeres de la guerra"
+    ],
+    [
+      3366,
+      "Los cuatro vientos"
+    ],
+    [
+      895,
+      "El ruise\u00f1or"
+    ],
+    [
+      3362,
+      "La casa de los suicidios"
+    ],
+    [
+      3360,
+      "La chica que se llevaron"
+    ],
+    [
+      3361,
+      "El ADN te condena"
+    ],
+    [
+      3359,
+      "La \u00faltima vez que pienso en ti"
+    ],
+    [
       843,
       "Cicatrices en el hielo"
     ],
@@ -667,54 +900,6 @@
     [
       3335,
       "LA CHICA SOLA"
-    ],
-    [
-      3352,
-      "Learning Patterns"
-    ],
-    [
-      3354,
-      "La Esposa Perfecta Un Thriller de Suspen-epub"
-    ],
-    [
-      3344,
-      "Cuentos para ni\u00f1os (y no tan ni\u00f1os)"
-    ],
-    [
-      3345,
-      "NO COMO NOSOTROS"
-    ],
-    [
-      3297,
-      "La princesa Paca"
-    ],
-    [
-      1391,
-      "Tenebra"
-    ],
-    [
-      2539,
-      "The Frogs"
-    ],
-    [
-      2543,
-      "Guy Mannering"
-    ],
-    [
-      2280,
-      "Grandes esperanzas"
-    ],
-    [
-      1922,
-      "El profeta"
-    ],
-    [
-      3139,
-      "140 dulces irresistibles"
-    ],
-    [
-      3188,
-      "H\u00e1gase su voluntad"
     ]
   ],
   "news_to_be_synced": [],
@@ -729,7 +914,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1744630154.884779,
+  "last_expired_trash_at": 1745253895.654615,
   "catalog-field-data-for-catalog_csv_xml": {
     "fields": [
       "authors",

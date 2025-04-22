@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3392</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2575290-6817-4a95-a23c-5dfa31049cd9</dc:identifier>
+        <dc:title>La dulce existencia</dc:title>
+        <dc:creator opf:file-as="Busquets, Milena" opf:role="aut">Milena Busquets</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-12T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;&lt;strong&gt;El rodaje de la película basada en También esto pasará desatará en Milena Busquets una avalancha de imágenes sobre el paso del tiempo.&lt;/strong&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;En 2015, Milena Busquets publicó También esto pasará, una novela que destilaba el dolor de la pérdida de su madre y la reafirmación de la vida con una mezcla inconfundible de ligereza y lucidez. Diez años después, mientras se rueda su adaptación cinematográfica, la autora regresa al mundo que ha descrito y reinventado. Y ese retorno es, a la vez, un vértigo y un anhelo: «Me quiero quedar aquí &amp;#8211;confiesa&amp;#8211;. Y que todo vuelva a empezar».&lt;/p&gt;&lt;p&gt;La dulce existencia es un relato atravesado por la búsqueda de la belleza y por el peso de la memoria. Los vientos y la luz dorada de Cadaqués, las mañanas en el Casino, el magnetismo de los actores y productores, el coqueteo, los restaurantes de playa, los libros de cabecera... Todo ello en un vaivén constante entre la realidad y la invención, entre lo que se vive y...</dc:description>
+        <dc:publisher>Editorial Anagrama</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:35:47.682428+00:00"/>
+        <meta name="calibre:title_sort" content="dulce existencia, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

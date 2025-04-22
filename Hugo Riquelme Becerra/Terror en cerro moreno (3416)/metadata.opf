@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3416</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74f4121c-fbac-44d2-8829-40b44764741f</dc:identifier>
+        <dc:title>Terror en cerro moreno</dc:title>
+        <dc:creator opf:file-as="Hugo Riquelme Becerra" opf:role="aut">Hugo Riquelme Becerra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En una base militar en medio del desierto, unos adolescentes enfrentan una amenaza fuera de este mundo. Febrero de 2000, Cerro Moreno, Antofagasta: Isaac y sus amigos son hijos de militares y viven en una base instalada en el desierto de Atacama. Su adolescencia transcurre entre juegos, rock y primeros amores hasta que una serie de extraños sucesos podrán fin a su inocencia: avistamientos de criaturas desconocidas, desapariciones, luces misteriosas en el cielo, agentes extranjeros con una misión confidencial y la NASA los enfrentarán a una enigmática aventura. Una historia escalofriante y llena de suspense que es mucho más real de lo que quisiéramos creer.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Suma de Letras</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">cnnpEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789566190271</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-13T21:11:04+00:00"/>
+        <meta name="calibre:title_sort" content="Terror en cerro moreno"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

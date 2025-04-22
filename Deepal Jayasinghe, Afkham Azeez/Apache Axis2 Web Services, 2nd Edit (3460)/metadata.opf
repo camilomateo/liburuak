@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3460</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7556df3e-8b45-437b-9746-8f313f451370</dc:identifier>
+        <dc:title>Apache Axis2 Web Services, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Deepal Jayasinghe, Afkham Azeez" opf:role="aut">Deepal Jayasinghe, Afkham Azeez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-16T05:18:34+00:00</dc:date>
+        <dc:publisher>PACKT</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>AXIS2</dc:subject>
+        <meta name="calibre:timestamp" content="2023-01-19T16:41:37+00:00"/>
+        <meta name="calibre:title_sort" content="Apache Axis2 Web Services, 2nd Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

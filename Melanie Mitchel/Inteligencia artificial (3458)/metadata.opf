@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e364c33b-60ba-45b8-bd8e-4321270c3f52</dc:identifier>
+        <dc:title>Inteligencia artificial</dc:title>
+        <dc:creator opf:file-as="Mitchel, Melanie" opf:role="aut">Melanie Mitchel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-03T08:16:13+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Melanie Mitchell separa la ciencia real de la ciencia ficción en 
+este amplio examen del estado actual de la inteligencia artificial y de 
+cómo está rehaciendo nuestro mundo. Ninguna empresa científica reciente 
+ha resultado tan seductora, aterradora y llena de extravagantes promesas
+ y frustrantes reveses como la IA. La galardonada científica informática
+ Melanie Mitchell revela su turbulenta historia, la reciente oleada de 
+aparentes éxitos, las grandes esperanzas y temores que la rodean, y las 
+cuestiones más urgentes hoy: ¿hasta qué punto son realmente inteligentes
+ los programas de IA? ¿Qué pueden hacer realmente? ¿Hasta qué punto 
+esperamos que se asemejen a los humanos y cuándo debemos preocuparnos de
+ que nos superen? &lt;/p&gt;</dc:description>
+        <dc:publisher>Bookwire Spain</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2024-07-07T13:41:57+00:00"/>
+        <meta name="calibre:title_sort" content="Inteligencia artificial"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

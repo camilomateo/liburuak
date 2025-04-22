@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36dba6e5-21a6-4a6a-9941-2c370eca8a20</dc:identifier>
+        <dc:title>Canción de sangre y oro</dc:title>
+        <dc:creator opf:file-as="Molist, Jorge" opf:role="aut">Jorge Molist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-10T00:00:00+00:00</dc:date>
+        <dc:description>«No naciste para ser feliz, naciste para ser reina». Jorge Molist nos entrega una historia de amor, intrigas y traiciones, que narra cómo la Corona de Aragón y los sicilianos han forjado el destino de Europa y han asombrado al mundo.Siglo XII, reino de Sicilia. Constanza, de tan solo trece años, debe cumplir su deber como princesa y casarse con del futuro rey de Aragón, para intentar salvar su reino, amenazado por Carlos de Anjou. Pero esta boda implica alejarse de su país, de su familia y de todo lo que conoce. Sin embargo, de poco sirve la alianza: al poco tiempo asesinan a su padre, Carlos de Anjou se corona como rey de Sicilia, y Constanza lo pierde todo.Esta es la épica historia que recorre el episodio de las Vísperas sicilianas, el levantamiento del pueblo siciliano contra la tiranía de Carlos de Anjou, evento que supuso un cambio radical en la historia europea y el dominio del mediterráneo por Pedro III el Grande.</dc:description>
+        <dc:publisher>DEBOLS!LLO</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:18:35.944692+00:00"/>
+        <meta name="calibre:title_sort" content="Canción de sangre y oro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

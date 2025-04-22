@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b04585b8-1efb-4faf-aa96-bed4f42f5b36</dc:identifier>
+        <dc:title>La diva</dc:title>
+        <dc:creator opf:file-as="Monforte, Reyes" opf:role="aut">Reyes Monforte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-03T00:00:00+00:00</dc:date>
+        <dc:description>Reyes Monforte regresa con la apasionante novela sobre Adelina Patti, la mujer española que nació en una pensión y se convirtió en la mejor cantante de la historia. La soprano mejor pagada de la historia.La mujer más famosa del siglo XIX.La voz que enmudeció al mundo.Nueva York, 1851. Una niña prodigio del bel canto llamada Adelina Patti atrae la atención del selecto circuito de la ópera americana. ¿Puede una cría nacida en una pensión de la calle Fuencarral de Madrid llegar a tener un talento tan incontestable? Adelina comienza una carrera meteórica que la hace cada vez más famosa -hasta el punto de convertirse en la soprano favorita de la reina Victoria y en confidente de la reina Isabel II de España-, pero también vulnerable a las trampas del amor, la fama, el dinero, la traición y la venganza.De Abraham Lincoln al príncipe de Gales, de Guiseppe Verdi al zar Alejandro II, de León Tolstói a Pérez Galdós, y pasando por Oscar Wilde, Giochino Rossini, Eugenia de Montijo,...</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:36:13.607668+00:00"/>
+        <meta name="calibre:title_sort" content="diva, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

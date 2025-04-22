@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3480</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84fb2c58-a264-41ed-8861-0c895ee13362</dc:identifier>
+        <dc:title>Ampliación de redes de computadoras</dc:title>
+        <dc:creator opf:file-as="Marques, Jon Manuel" opf:role="aut">Jon Manuel Marques</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-07-12T12:04:52+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>UOC</dc:subject>
+        <meta name="calibre:timestamp" content="2024-11-13T16:40:56+00:00"/>
+        <meta name="calibre:title_sort" content="Ampliación de redes de computadoras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

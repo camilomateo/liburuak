@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53a4185b-c62a-43d4-9fd8-556fffd49756</dc:identifier>
+        <dc:title>Programación web, febrero 2015</dc:title>
+        <dc:creator opf:file-as="Martínez, Carlos Casado &amp; Brustenga, Guillem Garcia &amp; Sancho, Marcos González &amp; Mas, Vicent Moncho &amp; Grau, Gemma Subirana &amp; Garrigós, Jordi Ustrell" opf:role="aut">Carlos Casado Martínez</dc:creator>
+        <dc:creator opf:file-as="Martínez, Carlos Casado &amp; Brustenga, Guillem Garcia &amp; Sancho, Marcos González &amp; Mas, Vicent Moncho &amp; Grau, Gemma Subirana &amp; Garrigós, Jordi Ustrell" opf:role="aut">Guillem Garcia Brustenga</dc:creator>
+        <dc:creator opf:file-as="Martínez, Carlos Casado &amp; Brustenga, Guillem Garcia &amp; Sancho, Marcos González &amp; Mas, Vicent Moncho &amp; Grau, Gemma Subirana &amp; Garrigós, Jordi Ustrell" opf:role="aut">Marcos González Sancho</dc:creator>
+        <dc:creator opf:file-as="Martínez, Carlos Casado &amp; Brustenga, Guillem Garcia &amp; Sancho, Marcos González &amp; Mas, Vicent Moncho &amp; Grau, Gemma Subirana &amp; Garrigós, Jordi Ustrell" opf:role="aut">Vicent Moncho Mas</dc:creator>
+        <dc:creator opf:file-as="Martínez, Carlos Casado &amp; Brustenga, Guillem Garcia &amp; Sancho, Marcos González &amp; Mas, Vicent Moncho &amp; Grau, Gemma Subirana &amp; Garrigós, Jordi Ustrell" opf:role="aut">Gemma Subirana Grau</dc:creator>
+        <dc:creator opf:file-as="Martínez, Carlos Casado &amp; Brustenga, Guillem Garcia &amp; Sancho, Marcos González &amp; Mas, Vicent Moncho &amp; Grau, Gemma Subirana &amp; Garrigós, Jordi Ustrell" opf:role="aut">Jordi Ustrell Garrigós</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-16T11:30:28+00:00</dc:date>
+        <dc:description>Recursos d'aprenentatge</dc:description>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>JAVASCRIPT</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-07T20:27:01+00:00"/>
+        <meta name="calibre:title_sort" content="Programación web, febrero 2015"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

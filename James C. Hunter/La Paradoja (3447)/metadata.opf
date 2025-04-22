@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3447</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c97682d6-4518-4b7c-92d4-d9c5658105bf</dc:identifier>
+        <dc:title>La Paradoja</dc:title>
+        <dc:creator opf:file-as="Hunter, James C." opf:role="aut">James C. Hunter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un relato sobre la verdadera esencia del LIDERAZGO</dc:description>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788495787132</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>LIDERAZGO</dc:subject>
+        <meta name="calibre:timestamp" content="2023-02-03T07:39:16+00:00"/>
+        <meta name="calibre:title_sort" content="Paradoja, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

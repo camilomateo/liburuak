@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3390</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">727adbfb-5638-459c-8b86-3b9db0d91bfd</dc:identifier>
+        <dc:title>Fiskadoro</dc:title>
+        <dc:creator opf:file-as="Johnson, Denis" opf:role="aut">Denis Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-27T00:00:00+00:00</dc:date>
+        <dc:description>«El tipo de libro que un joven Herman Melville podría haber escrito si viviera hoy y leyera obras tan dispares como la Biblia, La tierra baldía y Fahrenheit 451, si hubiera visto Star Wars yApocalypse Now varias veces, tomado mucho ácido y escuchado durante horas a Jimi Hendrix y los Rolling Stones». Michiko Kakutani, The New York TimesFiskadoro tiene catorce años y vive en los Cayos de Florida, en una comunidad de supervivientes del desastre nuclear que ha destruido el mundo. Durante el día ayuda a sus padres con la pesca en alta mar, aunque su verdadera aspiración es aprender a tocar el clarinete. Para lograrlo recurrirá a mister Cheung, manager de la Orquesta Sinfónica y viejo albacea de la cultura humana, que será su maestro y guía a través de las ruinas de la civilización y que además convive con su madre, una anciana obstinada en rememorar una y otra vez la caída de Saigón. En medio de este clima a un tiempo hostil y familiar, Fiskadoro deberá sobreponerse a las otras...</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-21T15:33:49.242225+00:00"/>
+        <meta name="calibre:title_sort" content="Fiskadoro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3465</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19bd5397-86ec-4756-a884-4fce854eebe0</dc:identifier>
+        <dc:title>How To Code in Node.js</dc:title>
+        <dc:creator opf:file-as="Landup, David &amp; Sanatan, Marcus" opf:role="aut">David Landup</dc:creator>
+        <dc:creator opf:file-as="Landup, David &amp; Sanatan, Marcus" opf:role="aut">Marcus Sanatan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-15T00:00:00+00:00</dc:date>
+        <dc:publisher>DIGITAL OCEAN</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>NODEJS</dc:subject>
+        <meta name="calibre:timestamp" content="2023-01-17T22:28:54+00:00"/>
+        <meta name="calibre:title_sort" content="How To Code in Node.js"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
