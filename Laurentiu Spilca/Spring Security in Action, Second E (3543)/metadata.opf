@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3543</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38c10552-08f1-4fbb-8876-4a9727317007</dc:identifier>
+        <dc:title>Spring Security in Action, Second Edition</dc:title>
+        <dc:creator opf:file-as="Spilca, Laurentiu" opf:role="aut">Laurentiu Spilca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;strong style="color: #434343; background-color: #fafafa"&gt;Don't let security be an afterthought. Spring Security in Action, Second Edition is your vital companion to robust, secure applications that are protected right from the first line of code.&lt;/strong&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;   &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;em style="color: #434343; background-color: #fafafa"&gt;Spring Security in Action, Second Edition&lt;/em&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt; is a revised version of the bestselling original, fully updated for Spring Boot 3 and Oauth2/OpenID Connect.   &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;In &lt;/span&gt;&lt;em style="color: #434343; background-color: #fafafa"&gt;Spring Security in Action, Second Edition&lt;/em&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt; you will learn essential security skills including how to:     &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;- Implement and customize authentication and authorization   &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;- Set up all components of an OAuth2/OpenID Connect system     &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;- Utilize CRSF and CORS configurations     &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;- Secure Spring reactive applications     &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;- Write tests for security configurations   &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;Whether you’re a beginner or a pro, &lt;/span&gt;&lt;em style="color: #434343; background-color: #fafafa"&gt;Spring Security in Action, Second Edition&lt;/em&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt; teaches you how to secure your Java applications from the ground up. Author Laurențiu Spilcă distills his years of experience as a skilled Java and Spring developer into an indispensable guide to everything security—from authentication and authorization, to testing security configurations. This new edition covers the latest patterns for application-level security in Spring apps, demonstrating how Spring Security simplifies every step of the security process. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;strong style="color: #434343; background-color: #fafafa"&gt;About the technology&lt;/strong&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt; Spring Security makes it much, much easier to secure enterprise-scale Java applications. This powerful framework integrates with Spring apps end to end, with “secure by design” principles and ready-to-use features that help you implement robust authorization and authentication and protect against data theft and intrusions. And like everything else in the Spring ecosystem, it’s free, open source, and backed by the awesome team at VMWare.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'; color: #434343"&gt; &lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;strong style="color: #434343; background-color: #fafafa"&gt;About the reader&lt;/strong&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt; For experienced Java and Spring developers.   &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'; color: #434343"&gt; &lt;/p&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;strong style="color: #434343; background-color: #fafafa"&gt;About the author&lt;/strong&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt; Laurențiu Spilcă is a skilled Java and Spring developer and an experienced technology instructor. He is also the author of Manning&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-23T14:39:40.785551+00:00"/>
+        <meta name="calibre:title_sort" content="Spring Security in Action, Second Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

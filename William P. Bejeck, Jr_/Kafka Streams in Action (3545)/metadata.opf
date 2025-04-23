@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3545</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f460dd6-4bf8-4151-ab6f-c3f78437db4f</dc:identifier>
+        <dc:title>Kafka Streams in Action</dc:title>
+        <dc:creator opf:file-as="William P. Bejeck, Jr. &amp; Bejeck, William P. &amp; Jr." opf:role="aut">William P. Bejeck, Jr.</dc:creator>
+        <dc:creator opf:file-as="William P. Bejeck, Jr. &amp; Bejeck, William P. &amp; Jr." opf:role="aut">William P. Bejeck</dc:creator>
+        <dc:creator opf:file-as="William P. Bejeck, Jr. &amp; Bejeck, William P. &amp; Jr." opf:role="aut">Jr.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #fafafa; font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'; font-size: 10pt" id="bookDescriptionBox"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;K&lt;/span&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;afka Streams in Action, Second Edition teaches you how to create event streaming applications on the amazing Apache Kafka platform. This thoroughly revised new edition now covers a wider range of streaming architectures and includes data integration with Kafka Connect. As you go, you’ll explore real-world examples that introduce components and brokers, schema management, and the other essentials. Along the way, you’ll pick up practical techniques for blending Kafka with Spring, low-level control of processors and state stores, storing event data with ksqlDB, and testing streaming applications.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #fafafa; font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #434343"&gt; Tags&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-23T14:39:41.131484+00:00"/>
+        <meta name="calibre:title_sort" content="Kafka Streams in Action"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89688592-ad04-4cc1-b236-c8640660eb7f</dc:identifier>
+        <dc:title>El gran libro de HTML5, CSS3 y Javascript</dc:title>
+        <dc:creator opf:file-as="Gauchat, Juan Diego" opf:role="aut">Juan Diego Gauchat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-28T23:00:00+00:00</dc:date>
+        <dc:description>Nos encontramos al límite de una revolución. La Web se está transformando en la principal plataforma de desarrollo y en la fuente primaria de información y recursos. En años recientes, los dispositivos móviles han convertido las aplicaciones de Internet en una necesidad y, en estos días, los ordenadores que trabajan exclusivamente en la web están siendo desarrolladas y vendidas. Nuevos y más sofisticados programas para la web surgen día a día, reemplazando efectivamente a las tradicionales aplicaciones de escritorio. Este nivel de cambio es a la vez radical y experimental, y HTML5 lo está haciendo posible. El gran libro de HTML5, CSS3 y Javascript guía al lector paso a paso en la adquisición de conocimientos básicos y el dominio de los temas más complejos incluidos en la especificación de HTML5. Luego de leer este libro usted sabrá cómo estructurar sus documentos con HTML5, cómo aplicar estilos utilizando CSS3, y cómo trabajar con las más poderosas APIs de Javascript. Este libro no es una introducción a HTML5 sino un curso completo que le enseñará cómo construir sitios web profesionales y aplicaciones web extraordinarias desde cero. Cada capítulo explora conceptos básicos así como complicados temas sobre HTML5, CSS3 y Javascript. Los conceptos vertidos son soportados por códigos completamente funcionales que guían al iniciado y al experto a través de cada simple etiqueta, estilo o función incluida en esta especificación. Los códigos son distribuidos a lo largo del libro en un orden específico que gradualmente introduce conceptos complejos y los hace accesibles a todos. Este libro abarca: API Canvas, API Drag and Drop, API Geolocation, API Web Storage, API IndexedDB, API File, API Communication, API Web Workers, API History, API Offline, API Forms, API Media, los nuevos elementos HTML, el modelo de caja tradicional, el elemento video, el elemento audio, los nuevos elementos para formularios, validación de formularios, los nuevos selectores CSS, las nuevas pseudo clases, sombras, fuentes, colores, gradientes, translación, transformación, los nuevos selectores Javascript, los nuevos estándares, las librerías externas y más…</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>HTML</dc:subject>
+        <dc:subject>css</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-23T14:39:40.282547+00:00"/>
+        <meta name="calibre:title_sort" content="gran libro de HTML5, CSS3 y Javascript, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

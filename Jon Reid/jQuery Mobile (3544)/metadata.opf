@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3544</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1bff2322-d9db-458b-a0b1-f4a4a65a7d84</dc:identifier>
+        <dc:title>jQuery Mobile</dc:title>
+        <dc:creator opf:file-as="Jon Reid" opf:role="aut">Jon Reid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-10T14:35:37+00:00</dc:date>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-23T14:39:40.968553+00:00"/>
+        <meta name="calibre:title_sort" content="jQuery Mobile"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

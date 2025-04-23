@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3547</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">116485d3-7c64-412c-9232-3d9a3f06a8a1</dc:identifier>
+        <dc:title>Guía HTML5: El presente de la web</dc:title>
+        <dc:creator opf:file-as="Vega, John Freddy &amp; Henst, Christian Van Der" opf:role="aut">John Freddy Vega</dc:creator>
+        <dc:creator opf:file-as="Vega, John Freddy &amp; Henst, Christian Van Der" opf:role="aut">Christian Van Der Henst</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-05T00:45:40+00:00</dc:date>
+        <dc:description>Guía HTML5: El presente de la web.  HTML5, CSS3 y javascript.</dc:description>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <dc:subject>HTML</dc:subject>
+        <dc:subject>css</dc:subject>
+        <dc:subject>JAVASCRIPT</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-23T14:39:41.591252+00:00"/>
+        <meta name="calibre:title_sort" content="Guía HTML5: El presente de la web"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

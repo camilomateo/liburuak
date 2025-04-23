@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e340088-de2b-4153-beb1-e79547979a5b</dc:identifier>
+        <dc:title>Aprender PHP, MySQL y JavaScript Con jQuery, CSS</dc:title>
+        <dc:creator opf:file-as="Nixon, Robin" opf:role="aut">Robin Nixon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-14T11:45:55+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;Si quiere crear sitios web interactivos apoyados en bases de datos con la potente combinación de tecnologías de código abierto y estándares web, incluso sin tener conocimientos básicos de HTML, ha llegado al libro indicado. Gracias a esta guía práctica, abordará la programación web dinámica con la última versión de las principales herramientas del momento: PHP, MySQL, CSS, HTML5 y las bibliotecas clave de jQuery. Asimismo, aprenderá a utilizar estas tecnologías en su conjunto y accederá a valiosas prácticas de programación web. Explorar MySQL desde la estructura de la base de datos hasta consultas complejas Utilizar la extensión MySQLi, la interfaz MySQL mejorada de PHP Crear páginas web dinámicas que se adaptan al usuario. Gestionar las cookies y las sesiones, y conservar un alto grado de seguridad Mejorar el lenguaje JavaScript con las bibliotecas jQuery y jQuery Mobile Utilizar las llamadas con AJAX para la comunicación en segundo plano entre el navegador y el servidor. Diseñar páginas web con las habilidades que adquirirá en CSS2 y CSS3 Implementar las características de HTML5, incluidas la geolocalización, el audio, el vídeo y el elemento lienzo.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-23T14:39:40.450547+00:00"/>
+        <meta name="calibre:title_sort" content="Aprender PHP, MySQL y JavaScript Con jQuery, CSS"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
