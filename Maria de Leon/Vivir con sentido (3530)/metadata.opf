@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3530</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7770556f-8b08-4338-84e0-c191c5a69253</dc:identifier>
+        <dc:title>Vivir con sentido</dc:title>
+        <dc:creator opf:file-as="León, María de" opf:role="aut">María de León</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-26T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un libro que profundiza en los diferentes caminos que dan sentido a la existencia: autoconocimiento, mirada, propósito, valores y espiritualidad. En estas páginas, la autora reflexiona sobre los aprendizajes que ayudarán al lector a alcanzar una existencia más plena y significativa invitándole a pensar en aspectos tan trascendentales como universales: * La motivación de descubrir el gran misterio que somos y el valorque tenemos dentro de nosotros. * La espiritualidadcomo un camino para alimentar la vida interior y colmar el anhelo de trascendencia. * Crear comunidad y experimentar la magia que hay en la dinámica del amar y ser amado. «Mis valores de referencia son unidad, verdad, bondad y belleza. Se han convertido en el gran faro de mi vida. Antes de decidir algo, trato de tomarme el tiempo de reflexionar si lo que voy a hacer está alineado con ellos». Reseñas: "Vivir con sentido es vivir con valores, con compromiso y con la elegancia de no hacer daño a los demás. Esa es la esencia de este precioso libro". Marta Robles, periodista "Un modo sencillo y valiente de compartir una trayectoria personal en busca del sentido de la vida". José Carlos Ruiz, filósofo "Si tienes dudas acerca de qué diantre significa eso del "sentido vital" y por qué es esencial que descubras el tuyo, en estas páginas te aguardan muchas respuestas interesantes". Alejandra Vallejo-Nágera, psicóloga&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410274839</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-23T10:42:13.014603+00:00"/>
+        <meta name="calibre:title_sort" content="Vivir con sentido"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

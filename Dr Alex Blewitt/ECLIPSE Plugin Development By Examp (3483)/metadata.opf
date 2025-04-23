@@ -3,7 +3,7 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">3483</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">d0c6e57f-6798-455b-8dc1-725723a6c267</dc:identifier>
-        <dc:title>ECLIPSE Plugin Development By Example Beginners Guide</dc:title>
+        <dc:title>ECLIPSE Plugin Development By Example</dc:title>
         <dc:creator opf:file-as="Blewitt, Alex" opf:role="aut">Dr Alex Blewitt</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-06-17T04:18:40+00:00</dc:date>
@@ -11,7 +11,7 @@
         <dc:subject>Informática</dc:subject>
         <dc:subject>ECLIPSE</dc:subject>
         <meta name="calibre:timestamp" content="2023-12-28T14:55:08+00:00"/>
-        <meta name="calibre:title_sort" content="ECLIPSE Plugin Development By Example Beginners Guide"/>
+        <meta name="calibre:title_sort" content="ECLIPSE Plugin Development By Example"/>
     </metadata>
     <guide>
         <reference type="cover" title="Portada" href="cover.jpg"/>

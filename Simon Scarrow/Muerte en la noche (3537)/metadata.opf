@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3537</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd235a3a-9090-4c55-b933-4d7bb06269cb</dc:identifier>
+        <dc:title>Muerte en la noche</dc:title>
+        <dc:creator opf:file-as="Scarrow, Simon" opf:role="aut">Simon Scarrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-20T22:00:00+00:00</dc:date>
+        <dc:description>UN THRILLER DEL INSPECTOR SCHENKE
+
+Berlín, enero de 1940. El poder del partido nazi es absoluto en la ciudad. Y, además, Alemania ya ha conquistado Polonia.
+
+Una noche gélida, un médico de las SS y su esposa regresan a casa tras una agradable velada junto con sus compañeros de partido en una sala de conciertos. Pero, al amanecer, encuentran el cuerpo del médico sin vida en medio de un charco de sangre.
+
+Hay quien pretende registrar el fallecimiento como un suicidio, pero las primeras pruebas halladas por el inspector criminal Horst Schenke apuntan a un asesinato escalofriantemente bien preparado. Y pronto, además, descubrirá ciertos vínculos con la misteriosa muerte de un niño... Entonces, y pese a que sus superiores deciden bloquear la investigación, Schenke sabe que no puede detenerse.
+
+Un aterrador secreto está a punto de salir a la luz. En tiempos de guerra, bajo un régimen despiadado, hay lugares a los que nadie debería entrar jamás. Y Schenke teme no regresar con vida…</dc:description>
+        <dc:publisher>2024</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788435049733</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-23T10:42:15.180572+00:00"/>
+        <meta name="calibre:title_sort" content="Muerte en la noche"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

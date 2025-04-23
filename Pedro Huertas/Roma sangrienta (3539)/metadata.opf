@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3539</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41b145b4-5540-41d9-b889-6105d5ec2834</dc:identifier>
+        <dc:title>Roma sangrienta</dc:title>
+        <dc:creator opf:file-as="Huertas, Pedro" opf:role="aut">Pedro Huertas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Toda sociedad se define por su violencia, y en Roma la sangre corre por cualquier rincón. Un libro que combina lo mejor de la divulgación histórica con el apasionante tono adictivo del true crime. Este libro es algo más que una historia de Roma. Al abordar el true crime ambientándolo en la Antigüedad, retrata la historia de una forma nueva y fascinante: Roma sangrienta reflexiona sobre el concepto de la violencia en una sociedad que entendía las rencillas, los agravios y el ajuste de cuentas de una forma muy distinta a como los vemos nosotros. Una obra que recoge algunos de los casos más truculentos, extraños o fascinantes de la historia de Roma: emperadores asesinados, acusaciones nunca resueltas o anécdotas que han trascendido hasta nuestros días y que componen un fresco fascinante de la forma en que la sangre podía llegar a derramarse entre las calles de la ciudad eterna. «Encontrar nuestro pasado es encontrar nuestro presente. Nada como este libro para acercarnos a una violencia que parece presente en cada sociedad». Patricia González Gutiérrez&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Rocaeditorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410096899</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-23T10:42:15.800623+00:00"/>
+        <meta name="calibre:title_sort" content="Roma sangrienta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

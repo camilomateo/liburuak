@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3531</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a220ee7-b37e-4c40-a180-df4a8a6c83a3</dc:identifier>
+        <dc:title>La princesa encantada</dc:title>
+        <dc:creator opf:file-as="Kasten, Mona" opf:role="aut">Mona Kasten</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-12T15:42:55+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;La nueva y adictiva duología &lt;em&gt;romantasy&lt;/em&gt; de Mona Kasten, autora de Maxton Hall, el éxito mundial de Amazon Prime Video.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Bienvenidos a Everfall. Donde la magia es un don… o una maldición.&lt;/p&gt;
+&lt;p&gt; Zoey King siempre creyó que su destino estaba escrito: con una madre célebre por sus habilidades curativas, estaba segura de heredar el mismo poder. Pero a los diecisiete años, su vida da un giro inesperado cuando tiene una visión aterradora: la muerte inminente de un compañero de clase. Zoey no es una sanadora. Es una banshee.&lt;/p&gt;
+&lt;p&gt;Su nueva realidad la obliga a aceptar como tutor a Dylan Dae Park, un misterioso estudiante, que debe ayudarla a controlar su recién despertado don, pero su mera presencia la llena de inquietud, por razones que van más allá de la magia. Sin embargo, la tragedia que vio no deja a Zoey en paz. Así, descubrirá que Everfall está lleno de secretos oscuros y que algunos compañeros ocultan verdades más peligrosas de lo que jamás imaginó.&lt;/p&gt;
+&lt;p&gt;Después de todo, en Everfall, la magia no solo salva vidas. También puede quitarlas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-23T10:42:13.369619+00:00"/>
+        <meta name="calibre:title_sort" content="princesa encantada, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

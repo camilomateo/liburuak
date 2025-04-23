@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3532</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cad8452e-b761-4319-80ed-63504bb2627f</dc:identifier>
+        <dc:title>Parientes pobres del diablo</dc:title>
+        <dc:creator opf:file-as="Cubas, Cristina Fernández" opf:role="aut">Cristina Fernández Cubas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-14T14:03:29+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;He aquí tres historias en las que el lector difícilmente podrá escapar de su irresistible capacidad hipnótica. Un comerciante sufre en África los efectos de una extraña maldición al alojarse en un pequeño hotel en apariencia tranquilo y confortable. Un joven de buena familia decide emplear su tiempo y sus viajes en investigar una casta humana nacida para el mal. Una anciana suspicaz, temerosa de que sus familiares la ingresen en una residencia, atribuye a un «simpático» moscardón su alteración de rutinas y el reencuentro con viejas compañeras de colegio, con las que revive de una forma muy especial algunas escenas del pasado. Son tres relatos deliciosamente perturbadores en los que, como en las mejores historias de Henry James, las apariciones, los fantasmas o los sueños nos hablan de las interioridades más recónditas del individuo y de los cambios irremediables a los que la vida nos aboca.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-23T10:42:13.669614+00:00"/>
+        <meta name="calibre:title_sort" content="Parientes pobres del diablo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

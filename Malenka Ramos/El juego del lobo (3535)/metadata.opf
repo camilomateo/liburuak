@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3535</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7724926-8c39-4d4a-8f04-dfcb31d50d8d</dc:identifier>
+        <dc:title>El juego del lobo</dc:title>
+        <dc:creator opf:file-as="Ramos, Malenka" opf:role="aut">Malenka Ramos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Conejos y lobos.&lt;/p&gt;
+&lt;p&gt;Es el momento de salvarse o dejarse cazar.&lt;/p&gt;
+&lt;p&gt;Juguemos una última vez al juego del lobo.&lt;/p&gt;
+&lt;p&gt;¿Quién eres tú?&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Cuando aparecen cuatro cuerpos en la iglesia de un pequeño pueblo del norte, el comisario Adam de la Cruz y el inspector Bruno Dávila se trasladan al lugar para ayudar en la investigación. Todo parece indicar que se trata de un suicidio, pero una de las víctimas tiene escrito en la pierna una frase: «Hola, comisario de la Cruz».&lt;/p&gt;
+&lt;p&gt;Alguien parece ir un paso por delante de la policía. La investigación se abre paso en un escenario lleno de incógnitas justo cuando el pueblo está a punto de celebrar su fiesta de la cosecha. El pasado une a más de un implicado y tiene que ver con un orfanato y el pabellón Rous y lo que sucedió a ciento ocho peldaños.&lt;/p&gt;
+&lt;p&gt;Un juego aterrador.&lt;/p&gt;
+&lt;p&gt;Es hora de jugar al juego del lobo.&lt;/p&gt;
+&lt;p&gt;Es hora de recordar. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Contraluz</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-23T10:42:14.559022+00:00"/>
+        <meta name="calibre:title_sort" content="juego del lobo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

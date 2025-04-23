@@ -38,42 +38,6 @@
         true
       ],
       [
-        "title",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "marked",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "marked",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
         "timestamp",
         false
       ]
@@ -770,7 +734,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1745328660.0532703,
+  "last_expired_trash_at": 1745409795.2649674,
   "catalog-field-data-for-catalog_csv_xml": {
     "fields": [
       "authors",
