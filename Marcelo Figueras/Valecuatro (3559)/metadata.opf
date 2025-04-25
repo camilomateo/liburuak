@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3559</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4baac9c-0552-4b38-8b14-b10864100bfc</dc:identifier>
+        <dc:title>Valecuatro</dc:title>
+        <dc:creator opf:file-as="Figueras, Marcelo" opf:role="aut">Marcelo Figueras</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un adolescente de doce años empieza la secundaria en una escuela nueva, a comienzos de la dictadura militar de 1976-1983. Amistad, envidias, amor y terror en la vida de un joven argentino.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;«Hablo de una partida cuyo resultado conozco, porque estuve entre quienes la jugaron. No revelaré el final pero diré, sí, que no involucra tan solo muertes simbólicas».&lt;/p&gt;
+&lt;p&gt;La juventud —y en particular, la adolescencia— es un tiempo explosivo, exuberante. «La sensación de que uno durará para siempre, más que el mar, la Tierra y la totalidad de los hombres», decía Joseph Conrad. Pero ser pibe durante una dictadura, como la de los 70 en la Argentina, supone un juego diferente. Que demanda no solo coraje, sino una dosis de picardía.&lt;/p&gt;
+&lt;p&gt;El narrador de Valecuatro cursa la escuela secundaria cuando irrumpe la dictadura; sin embargo, nada cambia. Todo sigue pareciendo normal. Hasta que percibe el terror que desborda el escenario de cartón piedra que montó el poder. Y descubre que, además de los desafíos que acucian a cada adolescente —su lugar en la sociedad, el sexo, el amor, una realidad tan injusta que subleva—, su situación entraña otros peligros. Para el cuerpo, sí, pero sobre todo para el alma.&lt;/p&gt;
+&lt;p&gt;Con humor y sensibilidad, la nueva novela de Marcelo Figueras se pregunta qué pasa cuando el mundo se pone espantoso y, en vez de «fingir demencia», todos fingen normalidad. En esa emergencia, aunque toquen cartas malas, no queda otra que encontrar un modo de ganar la partida.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial Argentina</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:rating" content="2"/>
+        <meta name="calibre:timestamp" content="2025-04-25T12:39:53.745155+00:00"/>
+        <meta name="calibre:title_sort" content="Valecuatro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

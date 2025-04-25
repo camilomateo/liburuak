@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3552</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22f83325-924d-4395-a46c-0716e2a685aa</dc:identifier>
+        <dc:title>La exiliada del emperador</dc:title>
+        <dc:creator opf:file-as="Simon Scarrow" opf:role="aut">Simon Scarrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Libro XIX de Quinto Licinio Cato. Corre el año 57 d. C. cuando el tribuno Cato y el centurión Macro regresan por fin a Roma. Pero el fracaso de su reciente campaña en la frontera oriental conlleva a un recibimiento hostil en la corte del Imperio. Están en juego su reputación y su futuro. Entretanto, los enemigos políticos del emperador tratan de derrocarlo aprovechando su enamoramiento por una joven y, cuando Nerón, de mala gana, la destierra, Cato, aunque se siente solo e incómodo en Roma, se ve obligado a acompañarla a su exilio en Cerdeña. Y sus problemas empezarán de nuevo allí: la isla vive una gran inquietud por un pequeño grupo de oficiales, y tres serán los problemas del tribuno: un mando fracturado, una plaga mortal y una insurgencia violenta que amenaza con llevar a toda la provincia a un caos sangriento.&lt;/p&gt;</dc:description>
+        <dc:publisher>Edhasa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09M7GYHVD</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">JEBQEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788435048392</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Quinto Licinio Cato"/>
+        <meta name="calibre:series_index" content="19"/>
+        <meta name="calibre:timestamp" content="2025-04-25T12:39:52.192742+00:00"/>
+        <meta name="calibre:title_sort" content="exiliada del emperador, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8efb59a-9d68-4b8d-b37a-dc245b87200b</dc:identifier>
+        <dc:title>Funeral en Greyfriars</dc:title>
+        <dc:creator opf:file-as="Santaella, Carmen" opf:role="aut">Carmen Santaella</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-08T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un amor prohibido, una muerte injusta y dos almas destinadas a encontrarse.&lt;br&gt;&lt;br&gt;Alba, una profesora de Inglés apasionada de la Historia y la moda, acaba de perderlo todo: una relación con el que creía que era el hombre de su vida, la calidez de su hogar, y su propósito. Pero hay alguien que nunca la abandona. Todas las noches, en sus sueños, aparece una mujer; una figura misteriosa capaz de hacerla sentir segura incluso en la más oscura de las pesadillas, y de cuya identidad solo conoce su nombre: Agnes. En un intento por reencontrarse, Alba decide comprar un viaje solo de ida a Edimburgo, donde tendrá que convivir con su hermano Adrián y su novia escocesa, Abby. También conocerá a William, un estudiante de Parapsicología con el que comparte una conexión sobrenatural. A medida que avanzan los días, se irá desentrañando la verdad detrás de la misteriosa relación entre aquella mujer que vela sus sueños y un amor capaz de trascender el tiempo.Embárcate en este viaje de autodescubrimiento y contágiate del amor de la protagonista por la ciudad que la acogerá en su momento más vulnerable: sus calles llenas de historia, sus paisajes inolvidables, y su inconfundible aroma a fermento de whiskey.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>LA ESFERA DE LOS LIBROS, S.L.</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-25T12:39:52.432368+00:00"/>
+        <meta name="calibre:title_sort" content="Funeral en Greyfriars"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

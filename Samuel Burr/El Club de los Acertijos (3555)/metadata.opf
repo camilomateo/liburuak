@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3555</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d900e2bd-902a-4536-9bd6-dd4824aeaba6</dc:identifier>
+        <dc:title>El Club de los Acertijos</dc:title>
+        <dc:creator opf:file-as="Burr, Samuel" opf:role="aut">Samuel Burr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una novela feelgood con una historia que emociona, te deja con una sonrisa y te reconcilia con el mundo. A veces, encontrar tu lugar en el mundo es el mayor enigma de todos. Clayton Stumper es un enigma. No tendrá más de 25 años pero viste como tu abuelo y bebe jerez como tu tía. Abandonado al nacer frente a la entrada del Club de los Acertijos, fue criado por las mentes más agudas de Gran Bretaña y ahora se encuentra entre los últimos supervivientes de una institución en decadencia. Cuando Pippa Allsbrook, crucigramista, fundadora y presidenta de dicha comunidad, fallece, le deja un último acertijo, su legado: la promesa de revelar el misterio de su procedencia y prepararlo para el futuro. Sin embargo, cuando Clay comienza a interpretar las pistas, descubre algo que nadie en el grupo ha podido resolver, un secreto que lo cambiará todo. «Simplemente maravilloso: honesto, conmovedor, divertido, agridulce y entrañable». Belfast Telegraph «Una lectura absolutamente cautivadora. Prepárate para enamorarte del enigma que es Clayton Stumper». S. J. Watson «Esta historia es una delicia para los amantes de los acertijos. Está impregnado de calidez y sentido de comunidad. Una alegría». S. J. Bennett «Un soplo de aire fresco, uno de esos escasos libros que llegan justo cuando más se los necesita». A. J. Pearce «Rebosante de amor y esperanza. Reí, lloré, amé a cada personaje. Este es el tipo de libro que el mundo necesita en estos momentos, es sencillamente magnífico». Jennie Godfrey&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419965585</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-25T12:39:52.873475+00:00"/>
+        <meta name="calibre:title_sort" content="Club de los Acertijos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

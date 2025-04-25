@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d5f87bb-d715-4bd0-8f21-39ea7ea25041</dc:identifier>
+        <dc:title>Una canción de mar</dc:title>
+        <dc:creator opf:file-as="Hoyos, Juan Luis Gomar" opf:role="aut">Juan Luis Gomar Hoyos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;«Recuerda, España, que tú registe el imperio de los mares». Año 1780. España y Gran Bretaña, los dos imperios que se disputan el mundo y sus océanos, vuelven a estar en guerra. Gibraltar es asediada por tierra y por mar, en un intento por recuperar el Peñón perdido con el Tratado de Utrecht, mientras que, en América, España se pone del lado de las rebeldes Trece Colonias contra el rey inglés. Es, entonces, cuando Jorge Damián de Aizkorri, oficial médico cirujano, parte a un nuevo destino  en el navío Santísima Trinidad, huyendo de un escándalo que puede hundir su carrera y destruir su reputación. A bordo de ese buque, el más grande y artillado de su tiempo, hará buenas migas con un rudo marinero, Juan el Viruta, justo cuando a la Real Armada se le presenta la ocasión de asestar un golpe fatal a la Marina británica. Ambos compartirán secretos y anhelos, levantes y ponientes, abordajes y atraques, versos en esta canción de mar. Una canción de mar es una novela de aventuras que gira alrededor de una amistad que rompe convencionalismos sociales, con personajes que desbordan carisma y humanidad, y que, además, rinde homenaje al periodo de esplendor de la Armada española. Cuando navegar era un arte y una ciencia, y hombres como Jorge Damián de Aizkorri y Juan el Viruta vivían y morían sobre las cubiertas de un navío, impregnados del mismo olor a sal que dejan estas inolvidables páginas. «Prefiero vivir con la gente de mar. Prefiero vivir con la mar. Y si he de morir, prefiero morir con la mar». Juan de Olvera, el Viruta&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bookwire Spain</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-25T12:39:53.286533+00:00"/>
+        <meta name="calibre:title_sort" content="canción de mar, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

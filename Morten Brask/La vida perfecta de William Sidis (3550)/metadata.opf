@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">203dc438-0c89-4938-9da1-148db274a676</dc:identifier>
+        <dc:title>La vida perfecta de William Sidis</dc:title>
+        <dc:creator opf:file-as="Brask, Morten" opf:role="aut">Morten Brask</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;LA HISTORIA REAL DEL HOMBRE MÁS INTELIGENTE DEL MUNDO&lt;/p&gt;
+&lt;p&gt;«El talento de Morten Brask es indudable.» Le Monde&lt;/p&gt;
+&lt;p&gt;Una novela sobre la vida de una de las mentes más prodigiosas de todos los tiempos&lt;br&gt;Una mañana de invierno de 1910, el Conant Hall de la Universi¬dad de Harvard está abarrotado. Destacados profesores de Mate¬máticas y Física de todas las universidades de Nueva Inglaterra se han congregado para escuchar a William Sidis. El tema de su con¬ferencia son sus propias teorías sobre la cuarta dimensión, y su edad, no más de once años. Al día siguiente, aparece en primera página. Los periodistas se deleitan con la historia del niño prodi-gio que lee The New York Times desde los cuatro años. Todos pre¬dicen que William será el nuevo Newton o Euclides, que creará maravillas y asombrará al mundo. ¿Cómo es posible que semejan¬te talento desapareciera sin dejar rastro en la historia?&lt;br&gt;Con un coeficiente intelectual superior al de Einstein o Hawking, Sidis fue una de las mentes más sobresalientes de todos los tiem¬pos. Brask recompone en esta novela las mil caras de un genio olvidado y marginado por la sociedad.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Duomo ediciones</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-25T12:39:51.716087+00:00"/>
+        <meta name="calibre:title_sort" content="vida perfecta de William Sidis, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

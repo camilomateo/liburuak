@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3558</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5a58890-b220-4e27-b018-d715a88c75d4</dc:identifier>
+        <dc:title>La séptima puerta</dc:title>
+        <dc:creator opf:file-as="Margaret Weis &amp; Tracy Hickman" opf:role="aut">Margaret Weis</dc:creator>
+        <dc:creator opf:file-as="Margaret Weis &amp; Tracy Hickman" opf:role="aut">Tracy Hickman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-08-31T16:00:00+00:00</dc:date>
+        <dc:description>La batalla de Abri ha terminado con victoria, pero a un terrible coste, Haplo, mortalmente herido, ha sido capturado por Xar y trasladado a Abarrach. Allí, Xar se propone convertir a Haplo en uno de los atormentados no muertos, para obligarlo a revelar dónde se encuentra la legendaria Séptima Puerta. Mientras tanto, Marit y Hugh "la Mano" se hallan atrapados en el Laberinto, donde buscan a Alfred. Aunque se le da por muerto, su poderosa magia es imprescindible para defenderse de las serpientes dragón y para rescatar a Haplo. Cuando Marit descubre que Alfred ha sido capturado con vida por los temibles dragones, casi cede a la desesperación. Pero, de pronto, la esperanza llega al Laberinto cuando los dragones buenos de Pryan, conducidos por el viejo Zifnab, el mago chiflado, hacen acto de presencia para unirse a la lucha contra sus malvados parientes. Asimismo los sartán también han sido convocados. Y si se pudiera convencer a Xar de que abandonara su obsesión por la Séptima Puerta y participara en el gran combate, tal vez habría alguna posibilidad...</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantasía</dc:subject>
+        <meta name="calibre:series" content="El Ciclo Puerta de la Muerte"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2025-04-25T12:39:53.504264+00:00"/>
+        <meta name="calibre:title_sort" content="séptima puerta, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

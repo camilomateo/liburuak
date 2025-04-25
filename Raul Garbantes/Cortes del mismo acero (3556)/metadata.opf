@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24c4a5c1-4a81-4a56-aced-c3b8e7d546e0</dc:identifier>
+        <dc:title>Cortes del mismo acero</dc:title>
+        <dc:creator opf:file-as="Garbantes, Raúl" opf:role="aut">Raúl Garbantes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un ritual ancestral, una secta oculta y una verdad que amenaza con devorarlas.&lt;/p&gt;
+&lt;p&gt;La agente Alexis Carter, dotada de una empatía sobrenatural, y su compañera Anne Ashton se adentran en un caso que las enfrenta a los secretos más antiguos de la humanidad. El asesinato del historiador Martín Pool en el misterioso Salón Mattison desvela un patrón siniestro: símbolos medievales, piedras plomizas y sesos extraídos, señas de un ritual vinculado a «Ascendere», una secta que ha operado en las sombras durante siglos.&lt;/p&gt;
+&lt;p&gt;Mientras el FBI, con su división experimental DEEM, oculta información clave, Alexis descubre que su pasado está entrelazado con la secta. Visiones de un legado familiar oscuro y la aparición de nuevas víctimas —humanas y animales— las obligan a cuestionar a todos, incluso a sus aliados.&lt;/p&gt;
+&lt;p&gt;¿Qué ocultan los Mattison en su imperio de acero y asfalto? ¿Por qué el asesino dejó una mesa macabra en el bosque, como ofrenda demente?&lt;/p&gt;
+&lt;p&gt;Con Anne como su único apoyo, Alexis lucha por controlar su habilidad, que ahora la arrastra hacia un abismo de paranoia. Cada paso las acerca a la verdad, pero también a un enemigo que anhela corromperlas.&lt;/p&gt;
+&lt;p&gt;Cortes de un mismo acero es el sexto libro de la serie Casos criminales complejos. Un thriller donde el ocultismo, la traición y el suspense psicológico se entrelazan en una carrera contra un mal que trasciende el tiempo... y la cordura.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Literanda</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Casos criminales complejos"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2025-04-25T12:39:53.088355+00:00"/>
+        <meta name="calibre:title_sort" content="Cortes del mismo acero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
