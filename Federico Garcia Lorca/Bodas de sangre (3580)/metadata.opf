@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3580</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5ad10f2-77bb-4216-a7e5-8ae5287e5f0b</dc:identifier>
+        <dc:title>Bodas de sangre</dc:title>
+        <dc:creator opf:file-as="Lorca, Federico García" opf:role="aut">Federico García Lorca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1932-12-31T22:00:00+00:00</dc:date>
+        <dc:description>“Bodas de sangre” es el ejemplo esencial de la obra dramática de Lorca, que construye a partir de un hecho real, una pequeña noticia del periódico, una tragedia cargada de lirismo y de elementos simbólicos. Escenifica, en prosa y en verso, la crónica llena de presagios de una pasión, de la lucha por una mujer que lleva hasta la muerte a los dos rivales. El que fue director de la Real Academia Española, Fernando Lázaro Carreter, analizó en su Introducción la génesis de la tragedia y su situación en la obra de Lorca, desvelando su simbología y su significación última.</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-28T07:08:21.125362+00:00"/>
+        <meta name="calibre:title_sort" content="Bodas de sangre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

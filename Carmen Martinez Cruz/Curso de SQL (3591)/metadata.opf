@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3591</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1cd1b115-59d7-4598-acb8-ba2aa7a3ab93</dc:identifier>
+        <dc:title>Curso de SQL</dc:title>
+        <dc:creator opf:file-as="Cruz, Carmen Martínez" opf:role="aut">Carmen Martínez Cruz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-14T17:46:25+00:00</dc:date>
+        <dc:publisher>ANAYA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788441546400</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:23:30.979001+00:00"/>
+        <meta name="calibre:title_sort" content="Curso de SQL"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

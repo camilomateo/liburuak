@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3576</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1719cf7e-dddd-4883-8249-75a5885f5eb4</dc:identifier>
+        <dc:title>Poeta en Nueva york</dc:title>
+        <dc:creator opf:file-as="García Lorca, Federico" opf:role="aut">Federico García Lorca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-11T23:00:00+00:00</dc:date>
+        <dc:description>«Poeta en Nueva York» es una de las obras más crípticas de Lorca, donde la dificultad interpretativa se une a un extremado problema textual. Su publicación póstuma en 1940, con dos primera ediciones, aparecidas con escasos días de diferencia y no totalmente coincidentes, convierten la fijación textual de este premario en una labor ardua, intensificada por la pérdida de su manuscrito original. Estas especiales circunstancias son revisadas por María Clementa Millán, que combina la fijación textual con el análisis literario de los temas esenciales debatidos en la obra, la ciudad y el poeta. En esta edición, se siguen fielmente los que hoy parecen ser los últimos criterios del autor, publicándose por vez primera las dieciocho ilustraciones fotográficas que debían acompañar sus versos. Igualmente, se incluye una paráfrasis de sus diferentes secciones y poemas.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788437607252</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:07:57.228771+00:00"/>
+        <meta name="calibre:title_sort" content="Poeta en Nueva york"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3579</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2566646b-fae6-484a-aa7e-776f6353a874</dc:identifier>
+        <dc:title>Building Android Apps with HTML, CSS, and JavaScript</dc:title>
+        <dc:creator opf:file-as="Stark, Jonathan" opf:role="aut">Jonathan Stark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-14T16:37:58+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">7229bc18-c0a3-43e4-9312-22fb62c1657f</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:08:20.716352+00:00"/>
+        <meta name="calibre:title_sort" content="Building Android Apps with HTML, CSS, and JavaScript"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3562</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e3f6c9b-4585-4ff7-b485-0c7455640096</dc:identifier>
+        <dc:title>Romancero Gitano</dc:title>
+        <dc:creator opf:file-as="Lorca, Federico García" opf:role="aut">Federico García Lorca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>El Romancero gitano es una de las creaciones líricas más significativas del siglo XX. Punto culminante de la primera etapa estética de Lorca, el propio poeta lo define como el poema de Andalucía, y lo llamo gitano porque el gitano es lo más elevado, lo más profundo, más aristocrático de mi país, lo más representativo de su modo y el que guarda el ascua, la sangre y el alfabeto de la verdad andaluza y universal. Es, sin embargo, un libro donde apenas sí está expresada la Andalucía que se ve, pero donde está temblando la que no se ve: un libro antipintoresco, antifolclórico, antiflamenco..., donde las figuras sirven a fondos milenarios y donde no hay más que un personaje grande y oscuro como un cielo de estío... la Pena. Ofrece este volumen la magnífica edición de Christian De Paepe, reconocido como uno de los principales lorquistas, con un estudio de la estética y la estructura del Romancero y una detallada anotación temática y estilística. A ello se añaden la Introducción general de Esperanza Ortega, un rico apéndice documental y comentarios a los romances.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:07:53.501298+00:00"/>
+        <meta name="calibre:title_sort" content="Romancero Gitano"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

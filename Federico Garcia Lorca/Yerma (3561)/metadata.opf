@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3561</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30ec4e4d-d14a-4538-9570-ddba1fe682f7</dc:identifier>
+        <dc:title>Yerma</dc:title>
+        <dc:creator opf:file-as="Lorca, Federico García" opf:role="aut">Federico García Lorca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1936-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Yerma tiene un único proyecto en el que se entremezclan el deseo personal y el mandato social de ser madre, es la tragedia en la que Lorca desarrolló con mayor amplitud y relieve un tema central en su obra: el de la esterilidad y la fecundidad. Sobre la protagonista proyectó, sin duda, un problema personal íntimo. Pero el alcance de la obra rebasa la significación en dos direcciones: la universal mítica, apoyada en la creencia de que la fecundidad es una forma de salvación, y la específicamente española. Yerma formaba parte de una «trilogía dramática de la tierra española» y en ella se plantea un proceso crítico a la moral sexual del país.</dc:description>
+        <dc:publisher>Anaconda</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-84-670-3363-2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Clásico</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Teatro</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:07:53.310522+00:00"/>
+        <meta name="calibre:title_sort" content="Yerma"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

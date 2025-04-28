@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3581</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a68a378-9148-4088-889f-a2607a3069e9</dc:identifier>
+        <dc:title>La casa de Bernarda Alba</dc:title>
+        <dc:creator opf:file-as="Lorca, Federico García" opf:role="aut">Federico García Lorca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1936-06-18T22:00:00+00:00</dc:date>
+        <dc:description>A la muerte de su marido, Bernarda impone a sus hijas un luto riguroso de 8 años. Tan riguroso que ni siquiera podrán salir de casa, frustrando así las necesidades de sus cuatro hijas, ”en edad de merecer”. Después de haber negado a Martirio como prometida a un Humanes ”por ser gañán”, compromete a Angustias con Pepe ”El Romano”. La aparición de este personaje desencadena una serie de acontecimientos que degenera en una confrontación entre la madre y las hijas y sobre todo entre éstas últimas. Poncia, una de las criadas de confianza de la casa, trata de advertir a la señora sobre las consecuencias de una disciplina tan rígida. Pero Bernarda rechaza todas las críticas; primero para no perder su aparente seguridad y, segundo, porque no puede aceptar consejos de una persona que está a su servicio.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Teatro</dc:subject>
+        <dc:subject>Tragedia</dc:subject>
+        <dc:subject>Clásico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:08:21.290131+00:00"/>
+        <meta name="calibre:title_sort" content="casa de Bernarda Alba, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

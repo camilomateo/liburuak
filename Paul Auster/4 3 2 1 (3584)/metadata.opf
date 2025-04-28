@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3584</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0dbbfb4-c374-495b-b281-fe005ae733a4</dc:identifier>
+        <dc:title>4 3 2 1</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;span itemprop="description"&gt;El único hecho inmutable en la vida de 
+Ferguson es que nació el 3 de marzo de 1947 en Newark, Nueva Jersey. A 
+partir de ese momento, varios caminos se abrirán ante él y le llevarán a
+ vivir cuatro vidas completamente distintas, a crecer y a explorar de 
+formas diferentes el amor, la amistad, la familia, el arte, la política e
+ incluso la muerte, con algunos de los acontecimientos que han marcado 
+la segunda mitad del siglo XX americano como telón de fondo.
+&lt;br&gt;
+&lt;br&gt;¿Y si hubieras tomado un camino diferente en un momento crucial de 
+tu vida? En 4 3 2 1, su primera novela después de siete años, Paul 
+Auster explora de forma magistral los límites del azar y las 
+consecuencias de nuestras decisiones. Porque todo suceso, por mínimo que
+ parezca, abre unos caminos y cierra otros. 
+&lt;br&gt;
+&lt;br&gt;«Siento que he estado preparándome toda la vida para escribir este 
+libro», reconocía el autor de La trilogía de Nueva York en una 
+entrevista con el director de cine Wim Wenders. Acogida por los medios 
+como «la mejor novela de Auster» (Harper’s Magazine), estamos ante una 
+obra maestra de la precisión narrativa y la imaginación, llamada a 
+coronar la carrera literaria de uno de los grandes escritores de nuestra
+ época.&lt;/span&gt;</dc:description>
+        <dc:publisher>desmix</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c48eac9a-038e-4fa0-8783-513735e32748</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Narrativa</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:15:42.973409+00:00"/>
+        <meta name="calibre:title_sort" content="4 3 2 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

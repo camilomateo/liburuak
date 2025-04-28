@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6feac8a9-49bc-40fe-ae10-fcfce2bf8b76</dc:identifier>
+        <dc:title>Beginning Spring 6: From Beginner to Pro</dc:title>
+        <dc:creator opf:file-as="Ottinger, Joseph B. &amp; Lombardi, Andrew" opf:role="aut">Joseph B. Ottinger</dc:creator>
+        <dc:creator opf:file-as="Ottinger, Joseph B. &amp; Lombardi, Andrew" opf:role="aut">Andrew Lombardi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>APRESS</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484298336</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:07:56.640986+00:00"/>
+        <meta name="calibre:title_sort" content="Beginning Spring 6: From Beginner to Pro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

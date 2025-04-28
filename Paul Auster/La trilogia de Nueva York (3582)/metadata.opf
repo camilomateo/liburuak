@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3582</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98dfd27f-68ae-47ff-bd70-952f03ae8ba6</dc:identifier>
+        <dc:title>La trilogia de Nueva York</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-11T23:00:00+00:00</dc:date>
+        <dc:description>Una llamada telefónica equivocada introduce a un escritor de novelas policiacas en una extraña historia de complejas relaciones paternofiliales y locura; un detective sigue a un hombre por un claustrofóbico universo urbano; la misteriosa desaparición de un amigo de la infancia confronta a un hombre con sus recuerdos. Tres novelas que proponen una relectura posmoderna del género policiaco y que supusieron la revelación de uno de los más interesantes novelistas de nuestro tiempo.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788433906991</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:15:42.585607+00:00"/>
+        <meta name="calibre:title_sort" content="La trilogia de Nueva York"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

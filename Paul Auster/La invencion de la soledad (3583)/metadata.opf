@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3583</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88256dbb-83d4-486e-ade2-ae627e2af613</dc:identifier>
+        <dc:title>La invencion de la soledad</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-11T23:00:00+00:00</dc:date>
+        <dc:description>«Una mañana de enero de 1979, Paul Auster se enteró de que su padre había muerto. Y comenzó a escribir LA INVENCIÓN DE LA SOLEDAD que, como dice él, fue el comienzo de todo. Entre la memoria, el ajuste de cuentas y la investigación de la "novela familiar", esta obra germinal de todo el edificio literario austeriano (que multiplica en enigmas diversos el gran enigma de la paternidad), se divide en dos partes. En "Retrato de un hombre invisible", se nos descubre el misterio de un asesinato ocurrido en la familia sesenta años antes, un episodio que permite sospechar las claves del frío y distante carácter del padre muerto. En "El libro de la memoria", Auster encadena la reflexión acerca de su papel de hijo con su propia paternidad y la soledad (¿orfandad?) del escritor.»</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788433920973</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:15:42.790609+00:00"/>
+        <meta name="calibre:title_sort" content="La invencion de la soledad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

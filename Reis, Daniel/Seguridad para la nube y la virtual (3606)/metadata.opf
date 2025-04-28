@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3606</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d08599b-0c87-4e7f-b880-c0f3092b5179</dc:identifier>
+        <dc:title>Seguridad para la nube y la virtualización For Dummies</dc:title>
+        <dc:creator opf:file-as="Reis, Daniel" opf:role="aut">Reis, Daniel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-11T16:22:49+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:23:35.107838+00:00"/>
+        <meta name="calibre:title_sort" content="Seguridad para la nube y la virtualización For Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

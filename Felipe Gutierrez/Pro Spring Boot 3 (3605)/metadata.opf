@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3605</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98b10e96-f131-40fc-8497-a1bd0e81b51d</dc:identifier>
+        <dc:title>Pro Spring Boot 3</dc:title>
+        <dc:creator opf:file-as="Gutierrez, Felipe" opf:role="aut">Felipe Gutierrez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-07-10T12:28:47+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:23:34.741663+00:00"/>
+        <meta name="calibre:title_sort" content="Pro Spring Boot 3"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

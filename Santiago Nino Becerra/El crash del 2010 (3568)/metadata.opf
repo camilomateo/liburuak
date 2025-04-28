@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3568</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e1a0e0d-e4e0-4043-997d-1ce0fa956c45</dc:identifier>
+        <dc:title>El crash del 2010</dc:title>
+        <dc:creator opf:file-as="Niño Becerra, Santiago" opf:role="aut">Santiago Niño Becerra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-03T23:00:00+00:00</dc:date>
+        <dc:description>Los ciudadanos del mundo entero vivimos con inquietud la grave situación económica de nuestros días: nos enfrentamos a una crisis profunda, sistémica, que muestra síntomas de agotamiento en el capitalismo. Entre esperanzados y desconfiados oímos los anuncios de planes salvadores con los que nos bombardean nuestros gobernantes. Pero, más que frases de aliento, lo que deseamos es saber la verdad, encontrar respuestas fiables a las preguntas que todos nos formulamos:
+
+• ¿Cuál es el origen de la actual situación económica?
+• ¿Se trata de una crisis más, de efectos pasajeros?
+• ¿Cuál podría ser su alcance? ¿Tiene remedio?</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788499083001</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Divulgación</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:07:55.514362+00:00"/>
+        <meta name="calibre:title_sort" content="El crash del 2010"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

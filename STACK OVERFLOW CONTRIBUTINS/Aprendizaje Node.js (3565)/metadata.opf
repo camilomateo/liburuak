@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3565</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76dc94ae-f096-4cb3-a787-776c41eaaed3</dc:identifier>
+        <dc:title>Aprendizaje Node.js</dc:title>
+        <dc:creator opf:file-as="STACK OVERFLOW CONTRIBUTINS" opf:role="aut">STACK OVERFLOW CONTRIBUTINS</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>spa</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:07:54.189574+00:00"/>
+        <meta name="calibre:title_sort" content="Aprendizaje Node.js"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3602</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">536189a9-3a94-4e46-84a9-d00b3a390f01</dc:identifier>
+        <dc:title>Practical Java Programming with ChatGPT</dc:title>
+        <dc:creator opf:file-as="Bluck, Alan S.;" opf:role="aut">Bluck, Alan S.;</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-11-15T00:00:00+00:00</dc:date>
+        <dc:publisher>Orange Education PVT Ltd</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Informática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-28T07:23:33.566631+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Java Programming with ChatGPT"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

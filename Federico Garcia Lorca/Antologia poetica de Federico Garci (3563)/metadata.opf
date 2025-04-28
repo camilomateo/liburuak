@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3563</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5215dae-70fa-46eb-83d2-8da8aee6a744</dc:identifier>
+        <dc:title>Antología poética de Federico García Lorca</dc:title>
+        <dc:creator opf:file-as="Federico García Lorca" opf:role="aut">Federico García Lorca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-09T22:00:00+00:00</dc:date>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-28T07:07:53.685386+00:00"/>
+        <meta name="calibre:title_sort" content="Antología poética de Federico García Lorca"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
