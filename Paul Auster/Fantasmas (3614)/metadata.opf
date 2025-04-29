@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10e55260-ef39-4040-9465-3247d9fc063a</dc:identifier>
+        <dc:title>Fantasmas</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-03T16:00:00+00:00</dc:date>
+        <dc:description>El caso parecía bastante sencillo. ELseñor Blanco, que apareció un día repentinamente, cuando en la vida del detective Azul parecía que ya nada iba a cambiar, quería que Azulsiguiera a un hombre llamado Negro, que lo vigilara sin pausa todo el tiempo que hiciera falta. Azul necesitaba un trabajo y no hizo demasiadas preguntas, aunque sospechara desde un principio que Blanco no era el hombre que decía ser. Lo que el detective no sabía era que el caso duraría años, y que cuando desvelara el misterio, o le pusiera un final, si es que a aquello puede llamársele un final, lo que descubriría sería quizá su propio misterio, lo que atisbaría sería su propio final...
+Situada entre los laberintos detectivescos de Chandler y los páramos existenciales de Beckett, Fantasmas comienza con todos los requisitos de una novela policíaca, pero adquiere muy pronto,y sin perder nada de su suspense, una dimensión metafísica. Y el lector se desliza de un misterio policíaco a un enigma metafísico, de la pregunta «¿quién es el culpable?», a otra mucho más difícil de responder, «¿qué es ser culpable?»
+
+Segundo relato de la conocida "Trilogía de Nueva York", tras "Ciudad de cristal".</dc:description>
+        <dc:publisher>Anagrama</dc:publisher>
+        <dc:language>es</dc:language>
+        <dc:subject>Spanish</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:series" content="Trilogía de Nueva York"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-04-29T07:09:51.717464+00:00"/>
+        <meta name="calibre:title_sort" content="Fantasmas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

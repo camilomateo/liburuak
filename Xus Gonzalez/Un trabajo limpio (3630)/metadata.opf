@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3630</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2b0b511-d185-4e3d-bd3d-6383a84930e6</dc:identifier>
+        <dc:title>Un trabajo limpio</dc:title>
+        <dc:creator opf:file-as="González, Xus" opf:role="aut">Xus González</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-02T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="center" style="font-style: italic; font-weight: bold"&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt;UN THRILLER VIOLENTO AMBIENTADO EN LA BARCELONA MÁS OSCURA&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;«Atrapa por su ritmo imparable y la solidez de su estilo, y por unos personajes que brillarían en una peli del mejor Tarantino.»&lt;br&gt;Toni Hill&lt;/p&gt;
+&lt;p&gt;«Seco y áspero como un puñetazo que te derriba a la lona. Y te levantas a por más, cada vez, hasta la última página.»&lt;br&gt;Marc Pastor&lt;/p&gt;
+&lt;p&gt;Todo indicaba que no habría problemas. Atracar un banco sin apenas oposición. Entrar y salir. Un golpe fácil para una banda bregada en asuntos más duros. Porque lo suyo es asaltar a traficantes de marihuana. Robar a los reyes del mercado de la hierba. Pero algo imprevisto sucede y las consecuencias serán demasiado profundas.&lt;/p&gt;
+&lt;p&gt;Al sur de Barcelona se extiende un vasto terreno formado por naves industriales y barrios olvidados. En esa tierra de nadie florece el mayor paraíso de la droga de Europa, casi amparado en la legalidad. El terreno está abonado para un nuevo tipo de crimen organizado.&lt;/p&gt;
+&lt;p&gt;Silvia Mercado, una mossa d'esquadra tozuda y sin miedo a crearse enemigos, deberá descubrir quién está detrás de la cadena de muertes y amenazas que el sangriento atraco ha causado. Y para ello deberá adentrarse en un pozo de corrupción cuyo fin es imposible de intuir.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-29T07:11:00.839617+00:00"/>
+        <meta name="calibre:title_sort" content="Un trabajo limpio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

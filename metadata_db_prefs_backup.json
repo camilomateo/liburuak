@@ -26,18 +26,6 @@
     "path_injected": true,
     "sort_history": [
       [
-        "marked",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
         "timestamp",
         false
       ],
@@ -774,7 +762,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1745823520.8220255,
+  "last_expired_trash_at": 1745907381.7239294,
   "catalog-field-data-for-catalog_csv_xml": {
     "fields": [
       "authors",

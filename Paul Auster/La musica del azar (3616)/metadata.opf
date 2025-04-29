@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3616</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f99ac18-dae7-4f9d-bd5e-f4defe898b4f</dc:identifier>
+        <dc:title>La música del azar</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-11T23:00:00+00:00</dc:date>
+        <dc:description>Cuando Jim Nashe es abandonado por su mujer, se lanza a la vida errante. Antes ha recibido una inesperada herencia de un padre que nunca conoció y que le permitirá vagabundear por América en un Saab rojo, el mejor coche que nunca tuvo. Nashe va de motel en motel, goza de la velocidad, vive en una soledad casi completa y experimenta la gozosa y desgarradora seducción del desarraigo absoluto. Tras un año de esta vida, y cuando apenas le quedan diez mil dólares de la herencia, conoce a Jack Pozzi, un jovencísimo jugador profesional de póquer. Los dos hombres entablan una peculiar relación y Jim Nashe se constituye en el socio capitalista de Pozzi. Una sola sesión de póquer podría hacerles ricos. Sus contrincantes serán Flower y Stone, dos curiosos millonarios que han ganado una fabulosa fortuna jugando a la lotería y viven juntos como dos modernos Bouvard y Pecuchet. A partir de aquí, la novela abandona el territorio de la «novela de la carretera» americana, y se interna en el dominio de la literatura gótica, entre Kafka y Beckett. Nashe y Pozzi penetran en un ámbito sutilmente terrorífico, y la morada de los millonarios se convertirá en una peculiar prisión, cuyos ilusorios límites y leyes no menos ilusorias deberán descubrir.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788433966117</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-29T07:09:52.029755+00:00"/>
+        <meta name="calibre:title_sort" content="La música del azar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

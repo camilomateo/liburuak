@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28cbb694-fb26-4499-b6a3-e014e4d72712</dc:identifier>
+        <dc:title>Brooklyn Follies</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Nathan Glass ha sobrevivido a un cáncer de pulmón y a un divorcio después de tres décadas de matrimonio, y ha vuelto a Brooklyn, el lugar donde pasó su infancia. Hasta que enfermó era un vendedor de seguros; ahora que ya no tiene que ganarse la vida, piensa escribir El libro del desvarí o humano. Contará todo lo que pasa a su alrededor, todo lo que le ocurre y lo que se le ocurre. Comienza a frecuentar el bar del barrio y está casi enamorado de la camarera. Y va también a la librerí a de segunda mano de Harry Brightman, un homosexual culto que no es quien dice ser. Y allí se encuentra con Tom, su sobrino, el hijo de su amada hermana muerta. El joven habí a sido un universitario brillante. Y ahora, solitario, conduce un taxi y ayuda a Brightman a clasificar sus libros… Poco a poco, Nathan irá descubriendo que no ha venido a Brooklyn a morir, sino a vivir.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-29T07:09:51.083626+00:00"/>
+        <meta name="calibre:title_sort" content="Brooklyn Follies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3631</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b3b25a3-d34b-44b9-9d89-59b07deebbb8</dc:identifier>
+        <dc:title>Para custodiar el fuego</dc:title>
+        <dc:creator opf:file-as="Epicoco, Luigi Maria" opf:role="aut">Luigi Maria Epicoco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La vida humana, cuando pierde su fuego, está destinada a volverse tan fría como la muerte. Esta era nuestra parece haber perdido su fuego. Cuando todo pierde sentido, solo buscamos algo que nos distraiga de esta ausencia de significado. Vivimos vidas aprisionadas en el entretenimiento, en una sociedad organizada para crear necesidades de consumo. Pero ¿y si todo esto terminara de repente? ¿Qué pasaría si todo el mundo que conocemos colapsara dejando sólo escombros y ruinas?&lt;br&gt;Cormac McCarthy (1933-2023) arroja luz en su novela La carretera. El protagonista logra mantener en lo más profundo de sí mismo un deseo de felicidad. La vida de su hijo es el aceite de su llama, el verdadero combustible de su fuego. Personas felices son aquellas que han encontrado el tesoro escondido. No tienen nada, pero tienen una razón, un fuego. Por eso lo tienen todo. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bookwire Spain</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-29T07:11:00.994198+00:00"/>
+        <meta name="calibre:title_sort" content="Para custodiar el fuego"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

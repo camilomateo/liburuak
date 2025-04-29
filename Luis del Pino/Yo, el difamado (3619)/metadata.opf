@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3619</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b83945c9-9ac2-498f-b8bd-746d7788640f</dc:identifier>
+        <dc:title>Yo, el difamado</dc:title>
+        <dc:creator opf:file-as="Pino, Luis Del" opf:role="aut">Luis del Pino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Si nos preguntasen por el monarca más denostado de la historia de España, la inmensa mayoría pensaríamos en Fernando VII, el «rey felón». Estúpido, tramposo, cobarde, retrógrado… nunca se han ahorrado calificativos y siempre se ha negado cualquier virtud a quien, sin embargo, supo vencer a todos sus enemigos y morir en su cama.&lt;/p&gt;
+&lt;p&gt;Tratando de equilibrar una interpretación de su figura a todas luces excesiva y sesgada, Luis del Pino ha acudido a las fuentes primarias en los archivos franceses y españoles, incluyendo decenas de cartas, documentos oficiales y las memorias de los protagonistas directos para comprobar que muchas de las afirmaciones sobre Fernando VII eran falsas, mientras que otros datos habían sido silenciados e ignorados.&lt;/p&gt;
+&lt;p&gt;En un juego literario en el que el propio Fernando VII se defiende ante el tribunal de la historia, Luis del Pino reconstruye la Conjura de El Escorial, los acontecimientos que desembocaron en la invasión napoleónica y el 2 de mayo, o el enfrentamiento con los liberales de Cádiz. El resultado es el retrato de una compleja personalidad inserta en el relato de un tiempo trepidante, repleto de conspiraciones, equilibrios de poder y alta política. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>LA ESFERA DE LOS LIBROS, S.L.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CTHSNG1X</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-29T07:10:41.538090+00:00"/>
+        <meta name="calibre:title_sort" content="Yo, el difamado"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

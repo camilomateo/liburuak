@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3612</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">340c050b-7c08-4c97-8cfa-c909a9c75561</dc:identifier>
+        <dc:title>Tombuctu</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-11T23:00:00+00:00</dc:date>
+        <dc:description>Míster Bones es un perro de raza indefinida, pero de una inteligencia muy precisa. No habla inglés –quizá porque se lo impide la forma de sus fauces–, pero tantos años escuchando el incesante
+torrente verbal de su amo han hecho que lo comprenda a la perfección, y que pueda pensar e interpretar el mundo con una sensibilidad muy canina y una sintaxis muy humana. Porque Míster Bones tiene siete años y ha vivido desde que era un cachorro con William Gurevitch, más conocido como Willy Christmas desde que Santa Claus le habló desde el televisor, provocando en él una auténtica experiencia mística. Willy es un vagabundo, un poeta errante, un excéntrico superviviente de las revoluciones de los sesenta. En un principio, se asoció con Míster Bones en busca de protección, porque la vida en las calles es muy dura, una alianza que se convirtió en un mutuo descubrimiento, un amor sin condiciones. Juntos recorrieron América, sobrevivieron a duros inviernos en Brooklyn y ahora están en Baltimore, viviendo la que quizá sea su última aventura en común...</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788433967459</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-29T07:09:51.403899+00:00"/>
+        <meta name="calibre:title_sort" content="Tombuctu"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

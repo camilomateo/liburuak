@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3623</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d1e7dde-dbac-448a-9ee7-4a125116085e</dc:identifier>
+        <dc:title>Supremacía cuántica</dc:title>
+        <dc:creator opf:file-as="Kaku, Michio" opf:role="aut">Michio Kaku</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-28T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Todo esposibleen la eracuántica.&lt;/p&gt;
+&lt;p&gt;«Su prosa lúcida y su proceso de reflexión dan mucho sentido&lt;/p&gt;
+&lt;p&gt;a este punto de inflexión tecnológico».&lt;br&gt;The New York Times&lt;/p&gt;
+&lt;p&gt;El prestigioso físico teórico Michio Kaku expone en Supremacíacuántica todas las promesas y los escollos que pueden surgir a partir del uso del ordenador cuántico, del que se espera que permita desvelar algunos de los mayores misterios de nuestro universo y resolver muchos de nuestros principales problemas.&lt;/p&gt;
+&lt;p&gt;Entre las posibilidades de esta ciencia sin precedentes estaría impulsar la reducción del coste de la energía solar, alimentar a todo el planeta gracias al desarrollo de nuevos fertilizantes, permitir a los médicos tratar enfermedades como el cáncer y el Parkinsona nivel atómico, reorientar la inteligencia artificial e incluso acercarse al mítico grial del nanobot. El autor del best seller Laecuación de Dios detalla con su perspicacia, energía y optimismo característicos cómo podría ser este futuro cuántico y ofrece al lector un asiento en primera fila para asistir a la mayor revolución en la carrera por nuestro futuro.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419951663</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-29T07:10:42.190289+00:00"/>
+        <meta name="calibre:title_sort" content="Supremacía cuántica"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

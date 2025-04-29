@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3622</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0616d05-be19-4645-bbbd-1a66aa987cfc</dc:identifier>
+        <dc:title>Amistad</dc:title>
+        <dc:creator opf:file-as="Jacobo Bergareche &amp; Mariano Sigman" opf:role="aut">Jacobo Bergareche</dc:creator>
+        <dc:creator opf:file-as="Jacobo Bergareche &amp; Mariano Sigman" opf:role="aut">Mariano Sigman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-20T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Unfascinante ensayo sobre laamistad.&lt;/p&gt;
+&lt;p&gt;«Sin amigos nadie querría vivir, aunque tuviera todos los otros bienes», escribió Aristóteles. Sin embargo, si bien la amistad es desde tiempos inmemoriales una de las aspiraciones fundamentales de la vida, no solemos reflexionar sobre su naturaleza. ¿Cómo se hace un amigo? ¿Por qué algunas personas nos caen bien al instante? ¿Puede la amistad sobrevivir en la distancia? ¿Se aprende? ¿Es cultural? ¿Ha de ser recíproca? ¿Puede darse entre padres e hijos? ¿Cuándo y por qué se acaba? ¿Qué pasa cuando se mezcla con el deseo?&lt;br&gt;&lt;br&gt;Dos amigos, el neurocientífico Mariano Sigman y el escritor Jacobo Bergareche, acudieron a la ciencia y la filosofía para explorar esas preguntas. Pero pronto sintieron que esa literatura no reflejaba la amplia diversidad de miradas sobre este tipo de relaciones, y convocaron entonces a personas de todo tipo y condición con las que conversaron en intimidad. Así, por estas páginas desfilan el octogenario presidente de un banco, un joven emigrante salvadoreño sin papeles, la directora de una residencia de ancianos, una actriz, un viticultor, una escritora y un colectivo de grafiteros. Entre todos ellos componen un fresco inmenso de aquello que llamamos «amistad». &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-29T07:10:42.023904+00:00"/>
+        <meta name="calibre:title_sort" content="Amistad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

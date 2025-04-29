@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b013c364-15df-4d53-85bc-cdb5fae1a3bb</dc:identifier>
+        <dc:title>El amor más grande</dc:title>
+        <dc:creator opf:file-as="Luna, Angie L." opf:role="aut">Angie L. Luna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-03T00:00:00+00:00</dc:date>
+        <dc:description>LA EMOCIONANTE HISTORIA DE AMOR PROPIO DE LA PRIMERA CREADORA DE CONTENIDO QUE SE HA ATREVIDO A ROMPER LOS TABÚES EN TORNO AL DIVORCIO Y LA "COPARENTALIDAD".¿Qué pasa cuando el padre de tus hijos deja de ser el amor de tu vida?Un día te das cuenta de que has dejado de reconocerte y no entiendes cómo llegaste hasta aquí. Deberías ser feliz: tienes unos hijos maravillosos y la familia que siempre habías soñado. Pero algo dentro de ti se ha apagado. La distancia con tu pareja ya ni siquiera es una preocupación, porque se ha convertido en rutina. Ya no sois un "nosotros", sino dos personas que simplemente viven bajo el mismo techo.¿Existe la familia después del divorcio?Con valentía y sin filtros, Angie L. Luna nos abre su corazón para hablar de un tema que hoy en día es todavía tabú: el divorcio. Este libro no es solo un testimonio, es una guía sincera para todas las mujeres que, por anteponer el bienestar de sus hijos, se sienten atrapadas en un matrimonio que dejó de hacerlas...</dc:description>
+        <dc:publisher>Ediciones B</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-29T07:10:43.003734+00:00"/>
+        <meta name="calibre:title_sort" content="amor más grande, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

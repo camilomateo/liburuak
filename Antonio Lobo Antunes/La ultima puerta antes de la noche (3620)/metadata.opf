@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3620</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd5baaa9-9e4a-4251-961f-8bca407b0b8f</dc:identifier>
+        <dc:title>La última puerta antes de la noche</dc:title>
+        <dc:creator opf:file-as="Antunes, António Lobo" opf:role="aut">António Lobo Antunes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La nueva novela de António Lobo Antunes. Una inmersión completa en las mentes detrás de un espantoso crimen real. «Uno de los retratistas de la psique humana más hábiles que existen». The New Yorker Un empresario es asesinado en presencia de su hija, y su cadáver es disuelto en ácido sulfúrico. La consigna es clara: «Sin cuerpo, no hay crimen». Son cinco los hombres involucrados, dos de ellos abogados; todos deberán dar la cara en un juicio vibrante. Lobo Antunes nos abre la puerta a la mente de los cinco asesinos, desgranando sus móviles, los traumas y secretos de cada uno de ellos, rincones donde habitan la infamia, la perversión y el exceso. En esta novela, nacida a partir de un crimen real que sacudió Portugal, Lobo Antunes pule el estilo que lo ha convertido en una figura clave de la literatura en portugués, adentrándose en capas aún más profundas del subconsciente, para después regresar a la superficie y explicarnos sus hallazgos con palabras de este mundo. Sobre el autor y su obra la crítica ha dicho: «Cada nuevo libro de Lobo Antunes expande los límites de la novela». El País «Un autor con una facilidad prodigiosa para atrapar obras maestras, que dentro de cinco mil años en arcilla o polvo de estrellas, continuará siendo leído con pasión». El País «De todos los escritores contemporáneos, António Lobo Antunes es uno de los pocos que poseen una pluma tan poderosamente original. Leerle es siempre una aventura intelectual y sensorial sin parangón. Una rara experiencia que sería insensato postergar». Le Monde «Las escenas de Lobo Antunes están animadas por la poesía de lo cotidiano y teñidas de la autoparodia más fina». J.M. Coetzee «El heredero de Conrad y Faulkner». George Steiner&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788439744757</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-29T07:10:41.696084+00:00"/>
+        <meta name="calibre:title_sort" content="última puerta antes de la noche, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

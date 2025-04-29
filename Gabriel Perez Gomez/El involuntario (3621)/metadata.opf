@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3621</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3c449cd-6dcd-4281-be48-9501c2a74217</dc:identifier>
+        <dc:title>El involuntario</dc:title>
+        <dc:creator opf:file-as="Gómez, Gabriel Pérez" opf:role="aut">Gabriel Pérez Gómez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-02T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El teniente Kurt Krauer, agente del Servicio de Inteligencia Militar de la Alemania nazi, debe alistarse como voluntario en las Brigadas Internacionales e introducirse en España sin levantar sospecha. Con su nueva identidad hebrea, Kurt es internado en un campo de concentración, donde su fuga y su conducta heroica debe alcanzar su propósito: alejar toda duda sobre su pasado y afanzarlo como persona de confanza. Solo así podrá contemplar desde primera línea la evolución de las Brigadas durante la guerra civil española...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Rialp, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788432169441</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-29T07:10:41.868033+00:00"/>
+        <meta name="calibre:title_sort" content="involuntario, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
