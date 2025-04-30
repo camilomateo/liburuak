@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3638</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c2c7948-683f-492e-874c-733a7850fbcb</dc:identifier>
+        <dc:title>El corazón helado</dc:title>
+        <dc:creator opf:file-as="Almudena Grandes" opf:role="aut">Almudena Grandes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-01T00:00:00+00:00</dc:date>
+        <dc:description>El día de su muerte, Julio Carrión, poderoso hombre de negocios cuya fortuna se remonta a los años del franquismo, deja a sus hijos una sustanciosa herencia pero también muchos puntos oscuros de su pasado y de su experiencia en la Guerra Civil y en la División Azul. En su entierro, en febrero de 2005, su hijo Álvaro, el único que no ha querido dedicarse a los negocios familiares, se sorprende por la presencia de una mujer joven y atractiva, a la que nadie había visto antes y que parece delatar aspectos desconocidos de la vida íntima de su padre. Raquel Fernández Perea, por su parte, hija y nieta de exiliados en Francia, lo sabe en cambio casi todo sobre el pasado de sus progenitores y abuelos, a los que ha preguntado sobre su experiencia de la guerra y del exilio. Para ella sólo una historia permane-ce sin aclarar: la de una tarde en que acompañó a su abuelo, recién regresado a Madrid, y visitaron a unos desconocidos con los que intuyó que existía una deuda pendiente. Álvaro y Raquel están condenados a encontrarse porque sus respectivas historias familiares, que son también la historia de muchas familias en España, desde la Guerra Civil hasta la Transición, forman parte de sí mismos y explican además sus orígenes, su presente. También porque, sin saberlo, se sentirán atraídos sin remedio. Con El corazón helado Almudena Grandes nos entrega sin duda su novela más ambiciosa, en la que traza a través de dos familias un panorama emocionante de la historia reciente de nuestro país, y también del conflicto de las nuevas generaciones con la memoria.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-30T06:49:27.354485+00:00"/>
+        <meta name="calibre:title_sort" content="El corazón helado"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3640</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94086f39-3b4d-4a20-b9cb-b3457e7bb642</dc:identifier>
+        <dc:title>Los aires difíciles</dc:title>
+        <dc:creator opf:file-as="Grandes, Almudena" opf:role="aut">Almudena Grandes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Juan Olmedo y Sara Gómez son dos extraños que se instalan a principios de agosto en una urbanización de la costa gaditana dispuestos a reiniciar sus vidas. Pronto sabemos que ambos arrastran un pasado bien diferente en Madrid. Sin buscarlo, “abocados a convivir con los únicos supervivientes de un naufragio”, intercambiarán confidencias y camaraderías gracias a la inesperada complicidad que propicia compartir una asistenta, Maribel, y el cuidado de los niños. Sara, hija de padres menesterosos, que vivió una “singular infancia de vida prestada” con su madrina en el barrio de Salamanca, sufre el estigma de quien lo tuvo todo y luego lo perdió. Juan, por su parte, huye de otras injusticias: la de una tragedia familiar y un amor secreto y torturante, que han estado a punto de arruinar su vida. Como el poniente y el levante, esos aires difíciles que soplan bonancibles o borrascosos en la costa atlántica, sus existencias parecen agitarse al dictado de un destino inhóspito, pero ellos afirman su voluntad férrea de encauzarlo a su favor.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-30T06:49:27.883091+00:00"/>
+        <meta name="calibre:title_sort" content="aires difíciles, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

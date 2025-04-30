@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3648</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">638cf000-c8d8-455c-bdd4-0258793582b7</dc:identifier>
+        <dc:title>El imperio de los vencidos</dc:title>
+        <dc:creator opf:file-as="Goodkind, Terry" opf:role="aut">Terry Goodkind</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Una aventura inconmensurable.&lt;/p&gt;
+&lt;p&gt;Una aventura inconmensurable, llena de intriga épica, conflictos violentos y peligros aterradores para la bella Kahlan Amnell y su marido, el heroico Richard Rahl, la Espada de la Verdad. &lt;/p&gt;
+&lt;p&gt;Richard Rahl ha sido envenenado, y salvar un imperio de la aniquilación es el precio a pagar por el antídoto. Con la sombra de la muerte cada vez más cerca, el imperio desmoronándose ante la horda de invasores y con cada vez menos tiempo, a Richard le ofrecen no solo salvar su vida, sino también la de un pueblo entero, a cambio de entregar a su mujer, Kahlan, a los brazos del enemigo. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="La Espada de la Verdad"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="2025-04-30T07:28:04.317089+00:00"/>
+        <meta name="calibre:title_sort" content="imperio de los vencidos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3609</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc5038ad-36a7-4f23-9a3c-b609763b101a</dc:identifier>
+        <dc:title>Un hombre en la oscuridad</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-08T22:00:00+00:00</dc:date>
+        <dc:description>August Brill ha sufrido un accidente de coche y se está recuperando en casa de su hija, en Vermont. No puede dormir, e inventa historias en la oscuridad. En una de ellas, Owen Brick, un joven mago, despierta en el fondo de un foso. Aparece entonces el sargento Serge, que le ayuda a salir. América está inmersa en una guerra civil. Los atentados del once de septiembre no han tenido lu­gar, y tampoco la guerra de Irak. Los Estados Unidos combaten desde hace tiempo, pero contra ellos mismos. Unos cuantos estados han declarado la independencia. Brick no entiende nada. Pero su misión es asesinar a un tal Blake, o Block, o Black, un hombre que no puede dormir, y que, como un dios, inventa en la noche esa guerra que no acabará nunca si él no muere. Aunque no se llama Blake ni Block ni Black, Brill es un crítico litera­rio y puede contarnos una feroz fábula de nuestros días. Y así, en un juego fascinante, se despliegan dos novelas: una reveladora versión de la política americana actual y sus dilemas éticos, mientras que la otra es la «novela fa­miliar» del narrador, donde Brill nos cuenta su propia vida y nos descubre amores, secretos y traiciones.</dc:description>
+        <dc:publisher>2010</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-84-339-3258-7</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-29T07:09:50+00:00"/>
+        <meta name="calibre:title_sort" content="hombre en la oscuridad, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

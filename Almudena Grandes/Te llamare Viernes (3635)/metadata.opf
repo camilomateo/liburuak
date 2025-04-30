@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3635</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91b5b9d5-9886-42e8-8079-af5eeffe09de</dc:identifier>
+        <dc:title>Te llamaré Viernes</dc:title>
+        <dc:creator opf:file-as="Grandes, Almudena" opf:role="aut">Almudena Grandes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Con ésta su segunda novela, Almudena Grandes se consagró como una de las autoras más aclamadas. Repleta de ternura y malicia, nos presenta la turbulenta relación sentimental de Benito, un tranquilo funcionario municipal, y Manuela, una joven llena de vitalidad y ganas de vivir.Cuando empiezan las discusiones, los consejos de Polibio, una especie de barman filosófico, ayudarán a la pareja a limar sus diferencias.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-30T06:49:26.535481+00:00"/>
+        <meta name="calibre:title_sort" content="Te llamaré Viernes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3641</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88531519-3e55-4ae5-a634-70e8f3fdbf7f</dc:identifier>
+        <dc:title>La madre de Frankenstein</dc:title>
+        <dc:creator opf:file-as="Almudena Grandes" opf:role="aut">Almudena Grandes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-03T23:00:00+00:00</dc:date>
+        <dc:description>Finales de los años 50 en España; al sur de Madrid, en Ciempozuelos, un manicomio femenino regentado por las monjas del Sagrado Corazón de Jesús. Allí vive recluida una interna esquizofrénica, Aurora Rodríguez Carballeira, un personaje estrafalario que consigue asombrar a las monjas, a las internas y a las limpiadoras en cuanto se arranca a tocar el piano. Una de las asistentas, María, una joven a la que doña Aurora ha enseñado a leer, le guarda absoluta lealtad por lo mucho que ha aprendido con ella.&amp;lt;br&amp;gt;A ese lugar irá destinado el doctor Germán Velázquez, formado en Ginebra, que ha regresado a España por varios asuntos pendientes. Germán va a descubrir cómo el microcosmos del manicomio es en realidad un reflejo de las condiciones de represión en las que están viviendo los españoles durante la dictadura. Allí comprueba que el puritanismo permite los abusos, y que las leyes están hechas para ocultar los atropellos. Y en ese contexto surge una improbable historia de amor, que será en realidad una inolvidable historia de redención.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">52640</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:series" content="Episodios de una guerra interminable"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2025-04-30T06:49:28.131271+00:00"/>
+        <meta name="calibre:title_sort" content="madre de Frankenstein, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

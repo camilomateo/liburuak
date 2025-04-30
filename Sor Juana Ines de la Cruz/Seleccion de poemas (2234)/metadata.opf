@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">2234</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">cc5d42a3-7f49-4a53-8c37-560e90aa4ed2</dc:identifier>
         <dc:title>Selección de poemas</dc:title>
-        <dc:creator opf:file-as="Cruz, Sor Juana Inés de la &amp; Desconocido" opf:role="aut">Sor Juana Inés de la Cruz</dc:creator>
-        <dc:creator opf:file-as="Cruz, Sor Juana Inés de la &amp; Desconocido" opf:role="aut">Desconocido</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="Cruz, Sor Juana Inés de la" opf:role="aut">Sor Juana Inés de la Cruz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>Fundación Carlos Slim</dc:publisher>
         <dc:language>spa</dc:language>

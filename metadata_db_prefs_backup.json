@@ -3,11 +3,13 @@
   "user_categories": {},
   "saved_searches": {
     "Autoayuda": "tags:\"=Autoayuda\"",
+    "Desconocido": "authors:\"=Desconocido\"",
     "Filosofia": "tags:\"=Filosof\u00eda\"",
     "Inform\u00e1tica": "tags:\"=Inform\u00e1tica\"",
     "Isaac Asimov": "author:\"Isaac Asimov\"",
     "Jorn Lier": "Jorn Lier",
-    "Stephen King": "author:\"Stephen King\""
+    "Stephen King": "author:\"Stephen King\"",
+    "Unknown": "authors:\"=Unknown\""
   },
   "grouped_search_terms": {},
   "tag_browser_hidden_categories": [],
@@ -30,26 +32,6 @@
         false
       ],
       [
-        "marked",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "marked",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
         "title",
         true
       ],
@@ -66,16 +48,20 @@
         true
       ],
       [
-        "timestamp",
-        false
-      ],
-      [
         "marked",
         true
       ],
       [
         "authors",
         true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "timestamp",
+        false
       ],
       [
         "title",
@@ -174,7 +160,7 @@
     "column_sizes": {
       "id": 0,
       "title": 313,
-      "authors": 123,
+      "authors": 255,
       "timestamp": 83,
       "size": 100,
       "rating": 87,
@@ -774,6 +760,14 @@
   },
   "gui_view_history": [
     [
+      3609,
+      "Un hombre en la oscuridad"
+    ],
+    [
+      3601,
+      "Oracle 11g for Dummies"
+    ],
+    [
       3529,
       "untitled"
     ],
@@ -824,14 +818,6 @@
     [
       3362,
       "La casa de los suicidios"
-    ],
-    [
-      3360,
-      "La chica que se llevaron"
-    ],
-    [
-      3361,
-      "El ADN te condena"
     ]
   ],
   "news_to_be_synced": [],
@@ -846,7 +832,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1745910988.7454164,
+  "last_expired_trash_at": 1745995609.5418375,
   "catalog-field-data-for-catalog_csv_xml": {
     "fields": [
       "authors",

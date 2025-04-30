@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3636</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3457570f-8143-403d-b899-c0c3d61c050d</dc:identifier>
+        <dc:title>Modelos de mujer</dc:title>
+        <dc:creator opf:file-as="Grandes, Almudena" opf:role="aut">Almudena Grandes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Como insinúa el propio título, Modelos de mujer, estos siete relatos están todos protagonizados por mujeres que, en distintas edades y circunstancias, se enfrentan todas ellas, en algún momento, a hechos extraordinarios. Todos, menos el que da título al libro, están de un modo u otro ligados a la infancia, a la capacidad de desear como motor de la voluntad, de los actos de voluntad que las protagonistas deberán asumir para impedir que la vida las avasalle. En los tres primeros cuentos —Los ojos rotos, Malena, una vida hervida y Bárbara contra la muerte—, los personajes femeninos vencen, cada uno a su manera, a la muerte: la pequeña Miguela, la mujer mongólica que se enamora de un fantasma; Malena, que se pasa la vida haciendo régimen por amor; y Bárbara, que acompaña a su abuelo a pescar. En los cuatro últimos —El vocabulario de los balcones, Amor de madre, Modelos de mujer y La buena hija—, las protagonistas tuercen el destino a su favor recurriendo unas al poder de seducción y otras a la fuerza de la razón, y todas con la voluntad que les otorga el firme deseo de no tolerar que la vida se les escape de las manos.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2025-04-30T06:49:26.782101+00:00"/>
+        <meta name="calibre:title_sort" content="Modelos de mujer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

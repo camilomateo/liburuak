@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3646</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99fde304-308d-48af-a260-2fb11e4074c3</dc:identifier>
+        <dc:title>Tres días de noviembre</dc:title>
+        <dc:creator opf:file-as="Riera, José Manuel Sánchez" opf:role="aut">José Manuel Sánchez Riera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt; El 29 de noviembre de 2003, ocho miembros del CNI, pertenecientes a los equipos de Contrainteligencia y Seguridad que acompañan el despliegue militar español en Irak, se desplazan con sus vehículos desde Bagdad hacia sus bases en Diwaniya y Nayaf, en el suroeste del país. En Latifiya, a unos treinta kilómetros de Bagdad, sufren un ataque de la insurgencia del que solo sobrevive una persona.  &lt;/p&gt;
+&lt;p&gt; Esta es la historia de ese superviviente. Más de veinte años después del atentado, José Manuel Sánchez Riera todavía se emociona cuando recuerda lo que vivió al dar forma a un relato escalofriante en el que narra su experiencia en el Ejército y en el Centro, la misión que lo llevó a Irak y lo que sucedió ese fatídico día, así como los problemas psicológicos que se desencadenaron tras la terrible experiencia, cómo afectaron a su familia y cómo logró superarlos. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-04-30T07:28:03.189171+00:00"/>
+        <meta name="calibre:title_sort" content="Tres días de noviembre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
