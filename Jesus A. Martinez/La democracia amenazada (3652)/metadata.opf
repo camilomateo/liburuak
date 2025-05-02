@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3652</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b22b3364-9dac-46fb-a600-fe5c18616c84</dc:identifier>
+        <dc:title>La democracia amenazada</dc:title>
+        <dc:creator opf:file-as="Martínez, Jesús A." opf:role="aut">Jesús A. Martínez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-14T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Los años transcurridos entre la muerte del general Franco y la llegada de un Estado democrático (que no se consolidó hasta después de 1982) constituyen una de las etapas más interesantes de la historia de España, pero hoy necesita ser repensada. Ni estos siete años representaron un período coherente y lineal, ni vale la idea de "Transición democrática", a menudo percibida como un personaje histórico con vida propia, porque este concepto se ha construido en función de lo que ocurrió después, es decir, atendiendo a su desembocadura en un Estado democrático, en apariencia prevista y calculada. Este ensayo reinterpreta estos años, cambiando la perspectiva para situarla en "su tiempo histórico", y da cuenta de un proceso más improvisado que planificado que culminó en una democracia no dibujada antes de 1977 y permanentemente amenazada desde 1978.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cátedra</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:13.026919+00:00"/>
+        <meta name="calibre:title_sort" content="democracia amenazada, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

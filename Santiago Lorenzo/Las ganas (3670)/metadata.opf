@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23e36562-cf9b-4038-a472-250b5b74f39b</dc:identifier>
+        <dc:title>Las ganas</dc:title>
+        <dc:creator opf:file-as="Lorenzo, Santiago" opf:role="aut">Santiago Lorenzo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Benito vive desganado, aunque se muere de ganas: anda destrozado porque lleva tres años sin sexo. Por eso colecciona llaveros, sufre lo indecible cuando ve a una mujer bonita en el metro y bebe demasiado chinchón. Sólo se lo ha contado a su hermana, aunque todo el mundo, también en el trabajo, nota su abstinencia y su angustia.  Benito es químico y emprendedor (es decir: empresario pobre). Ha inventado una sustancia milagrosa que regenera la madera, pero lleva meses esperando el cierre del acuerdo con la compañía de Bristol que podría comercializarla.  Su problema íntimo y su incógnita laboral sólo podrían tener una salida: María, una chica que trabaja en una tesis sobre la madera policromada. Benito no se atreve a quedar con ella, pero se echa colonia para mandarle correos electrónicos y guarda una carpeta de «No enviados» donde le escribe cosas como: «Te quiero porque quiero parecerme a ti». Le da miedo decírselo, pero le sobran ganas de hacerlo.  Santiago Lorenzo, inventor de lenguaje y de mundos, el nieto más legítimo de Rafael Azcona y el sobrino del Eduardo Mendoza más hilarante, ofrece su novela más tierna, que se suma a otros afinados retratos de la precariedad tragicómica como «Los millones» y «Los huerfanitos». Las ganas sacia las ídem de sus ya numerosos lectores, lo consagra como un autor clave de la narrativa española y lo consolida como el máximo exponente de la risa melancólica.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">28996</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:52.944980+00:00"/>
+        <meta name="calibre:title_sort" content="ganas, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

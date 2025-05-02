@@ -7,9 +7,18 @@
         <dc:creator opf:file-as="Scott, Adam D." opf:role="aut">Adam D. Scott</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-06T16:08:50+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;JavaScript is the little scripting language that could. Once used chiefly to add interactivity to web browser windows, JavaScript is now a primary building block of powerful and robust applications. In this practical book, new and experienced JavaScript developers will learn how to use this language to create APIs as well as web, mobile, and desktop applications.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;Author and engineering leader Adam D. Scott covers technologies such as Node.js, GraphQL, React, React Native, and Electron. Ideal for developers who want to build full stack applications and ambitious web development beginners looking to bootstrap a startup, this book shows you how to create a single CRUD-style application that will work across several platforms.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Explore GraphQL's simple process for querying data&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Learn about shared authentication for APIs, web apps, and native applications&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Build performant web applications with React and Styled Components&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Use React Native to write cross-platform applications for iOS and Android that compile to native code&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Learn how to write desktop applications with Electron&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
         <dc:language>es</dc:language>
         <dc:subject>Informática</dc:subject>
-        <meta name="calibre:timestamp" content="2025-04-28T07:23:32.096598+00:00"/>
+        <meta name="calibre:timestamp" content="2025-04-28T07:23:32+00:00"/>
         <meta name="calibre:title_sort" content="JavaScript Everywhere"/>
     </metadata>
     <guide>

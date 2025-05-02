@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3655</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b31b55dd-5aa6-4bb4-95a9-747775a43751</dc:identifier>
+        <dc:title>Proust, novela familiar</dc:title>
+        <dc:creator opf:file-as="Murat, Laure" opf:role="aut">Laure Murat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-10T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mientras se encuentra inmersa en la escritura del prólogo para una antología de artículos sobre Marcel Proust, Laure Murat topa con una escena de Downton Abbey en la que un mayordomo pone la mesa midiendo la distancia entre cubiertos con ayuda de una regla. Esta diminuta ceremonia, ejecutada con solemnidad sacramental, evoca en Murat, desde lo más recóndito de su memoria, una figura arcaica: las puras «formas vacías» que rigen el entorno aristocrático; el principio sobre el que se equilibra toda una casta, su casta. Porque lo que Murat reconoce en esa atención a las cosas inútiles es, a su pesar, una parte de sí misma, descendiente al mismo tiempo de los Luynes y de los Murat, dos célebres y centenarias dinastías francesas.&lt;/p&gt;
+&lt;p&gt;A raíz de esta pequeña epifanía, y guiada por la fascinación que despertó en su juventud la lectura de En busca del tiempo perdido, acabará emprendiendo una revisión de su propio y muy proustiano pasado que la llevará, a su vez, a explorar la vida y obra de Proust a través de una historia y un París que no le son nada ajenos: dos universos vinculados sin solución de continuidad, pues «el mundo pasado en el que crecí seguía siendo el de Proust, que había conocido a mis bisabuelos, cuyos nombres aparecen en su novela».&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Anagrama</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:13.980867+00:00"/>
+        <meta name="calibre:title_sort" content="Proust, novela familiar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -7,11 +7,14 @@
         <dc:creator opf:file-as="Cruz, Carmen Martínez" opf:role="aut">Carmen Martínez Cruz</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-08-14T17:46:25+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;SQL (&lt;/span&gt;&lt;em style="color: #0f1111"&gt;Structured Query Language&lt;/em&gt;&lt;span style="color: #0f1111"&gt; o Lenguaje Estructurado de Consultas) es un lenguaje que nos permite realizar consultas y gestionar datos en cualquier base de datos relacional. Desde su primera versión en 1986 hasta la actualidad, se ha convertido en el estándar más utilizado, gracias a su ubicuidad y facilidad de uso. Existen implementaciones de SQL en todos los Sistemas de Gestión de Bases de Datos Relacionales (SGBDR) del mercado, y también se han incluido subconjuntos del mismo en otros modelos de datos, relacionados con el Big Data y las tecnologías móviles.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;Con este libro damos al lector una visión general y actualizada de las capacidades de SQL que incluye desde su funcionamiento más básico hasta las operaciones más avanzadas, para que pueda sacar el máximo provecho a su base de datos. Para ello, se usa un enfoque práctico y muy didáctico que parte principalmente de su implementación en el SGBDR MySQL. Asimismo, se analizan sus diferencias con otros dos SGBDR muy usados en el mercado, como son Oracle y SQLite.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>ANAYA</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9788441546400</dc:identifier>
         <dc:language>spa</dc:language>
         <dc:subject>Informática</dc:subject>
-        <meta name="calibre:timestamp" content="2025-04-28T07:23:30.979001+00:00"/>
+        <meta name="calibre:timestamp" content="2025-04-28T07:23:30+00:00"/>
         <meta name="calibre:title_sort" content="Curso de SQL"/>
     </metadata>
     <guide>

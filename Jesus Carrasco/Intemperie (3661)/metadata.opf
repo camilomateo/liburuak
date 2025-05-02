@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3661</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6a52dba-950f-4daa-add0-a3576935ca20</dc:identifier>
+        <dc:title>Intemperie</dc:title>
+        <dc:creator opf:file-as="Carrasco, Jesús" opf:role="aut">Jesús Carrasco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Un niño escapado de casa escucha, agazapado en el fondo de su escondrijo, los gritos de los hombres que lo buscan. Cuando la partida pasa, lo que queda ante él es una llanura infinita y árida que deberá atravesar si quiere alejarse definitivamente de aquello que le ha hecho huir. Una noche, sus pasos se cruzan con los de un viejo cabrero y, a partir de ese momento, ya nada será igual para ninguno de los dos.Intemperie narra la huida de un niño a través de un país castigado por la sequía y gobernado por la violencia. Un mundo cerrado, sin nombres ni fechas, en el que la moral ha escapado por el mismo sumidero por el que se ha ido el agua. En ese escenario, el niño, aún no del todo malogrado, tendrá la oportunidad de iniciarse en los dolorosos rudimentos del juicio o, por el contrario, de ejercer para siempre la violencia que ha mamado.A través de arquetipos como el niño, el cabrero o el alguacil, Jesús Carrasco construye un relato duro, salpicado de momentos de gran lirismo. Una novela tallada palabra a palabra, donde la presencia de una naturaleza inclemente hilvana toda la historia hasta confundirse con la trama y en la que la dignidad del ser humano brota entre las grietas secas de la tierra con una fuerza inusitada.&lt;/p&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:50.324146+00:00"/>
+        <meta name="calibre:title_sort" content="Intemperie"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -7,10 +7,12 @@
         <dc:creator opf:file-as="Benedettelli, Rafael" opf:role="aut">Rafael Benedettelli</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-09-25T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;Libro Spring Boot más vendido de habla hispana. Java 17, Lombok, API REST y JPA. Paso a paso se desarrollan las diferentes capas de una arquitectura de Back End Standard y profesional. Una guía fundamental para todo desarrollador o estudiante de informática. En este libro se abordan conceptos de diseño orientados a objetos como polimorfismo, inyección de dependencias y patrones. Todos con analogías y una sencilla didáctica.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:identifier opf:scheme="MOBI-ASIN">B0BGJK3GHD</dc:identifier>
         <dc:language>spa</dc:language>
         <dc:subject>Informática</dc:subject>
-        <meta name="calibre:timestamp" content="2025-04-28T07:23:30.085904+00:00"/>
+        <meta name="calibre:timestamp" content="2025-04-28T07:23:30+00:00"/>
         <meta name="calibre:title_sort" content="Spring Boot 2022: Arquitectura de Back End"/>
     </metadata>
     <guide>

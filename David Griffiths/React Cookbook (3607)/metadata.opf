@@ -8,9 +8,20 @@
         <dc:creator opf:file-as="Griffiths, David &amp; Griffiths, Dawn" opf:role="aut">Dawn Griffiths</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-08-10T22:16:17+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-weight: 300; font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px"&gt;&lt;span style="color: #3d3b49; background-color: #ffffff"&gt;React helps you create and work on an app in just a few minutes. But learning how to put all the pieces together is hard. How do you validate a form? Or implement a complex multistep user action without writing messy code? How do you test your code? Make it reusable? Wire it to a backend? Keep it easy to understand? The&lt;/span&gt;&lt;span style="color: #3d3b49"&gt; &lt;/span&gt;&lt;em style="color: #3d3b49"&gt;React Cookbook&lt;/em&gt;&lt;span style="color: #3d3b49"&gt; delivers answers fast.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-weight: 300; font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px"&gt;&lt;span style="color: #3d3b49; background-color: #ffffff"&gt;Many books teach you how to get started, understand the framework, or use a component library with React, but very few provide examples to help you solve particular problems. This easy-to-use cookbook includes the example code developers need to unravel the most common problems when using React, categorized by topic area and problem.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-weight: 300; font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px"&gt;&lt;span style="color: #3d3b49; background-color: #ffffff"&gt;You'll learn how to:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff" id="titleDescriptionExtra"&gt;Build a single-page application in React using a rich UI&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Create progressive web applications that users can install and work with offline&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Integrate with backend services such as REST and GraphQL&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Automatically test for accessibility problems in your application&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Secure applications with fingerprints and security tokens using WebAuthn&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Deal with bugs and avoid common functional and performance problems&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
         <dc:language>es</dc:language>
         <dc:subject>Informática</dc:subject>
-        <meta name="calibre:timestamp" content="2025-04-28T07:23:35.293841+00:00"/>
+        <meta name="calibre:timestamp" content="2025-04-28T07:23:35+00:00"/>
         <meta name="calibre:title_sort" content="React Cookbook"/>
     </metadata>
     <guide>

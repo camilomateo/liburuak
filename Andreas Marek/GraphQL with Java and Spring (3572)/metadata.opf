@@ -8,9 +8,33 @@
         <dc:creator opf:file-as="Marek, Andreas &amp; Zhou, Donna" opf:role="aut">Donna Zhou</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-05-14T23:18:22+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;Learn first-hand from the founder of GraphQL Java and co-author of Spring for GraphQL how to develop GraphQL services in Java.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;By the end of this book, you will be confident building your own production GraphQL service with Spring for GraphQL, the official Spring integration built on top of the GraphQL Java engine. You'll learn key GraphQL concepts, paired with practical advice from running production GraphQL services at scale.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;This book is suitable for beginners building their first production GraphQL service. There are also advanced topics for intermediate readers.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;&lt;br&gt;&lt;/span&gt;&lt;strong style="color: #0f1111; background-color: #ffffff"&gt;Table of contents&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Introduction&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Overview&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Schema&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Query language&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;DataFetchers&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Building a GraphQL service&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Subscriptions&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Request and response&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;GraphQL errors&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Schema design&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;DataFetchers in depth&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Directives&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Execution&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Instrumentation&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;DataLoader&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Testing&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Security&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Java client&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
         <dc:language>eng</dc:language>
         <dc:subject>Informática</dc:subject>
-        <meta name="calibre:timestamp" content="2025-04-28T07:07:56.290344+00:00"/>
+        <meta name="calibre:timestamp" content="2025-04-28T07:07:56+00:00"/>
         <meta name="calibre:title_sort" content="GraphQL with Java and Spring"/>
     </metadata>
     <guide>

@@ -7,9 +7,18 @@
         <dc:creator opf:file-as="Bahree, Amit" opf:role="aut">Amit Bahree</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;strong style="color: #0f1111"&gt;Generative AI can transform your business by streamlining the process of creating text, images, and code. This book will show you how to get in on the action!&lt;/strong&gt;&lt;span style="color: #0f1111"&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;em style="color: #0f1111"&gt;Generative AI in Action&lt;/em&gt;&lt;span style="color: #0f1111"&gt; is the comprehensive and concrete guide to generative AI you've been searching for. It introduces both AI's fundamental principles and its practical applications in an enterprise context―from generating text and images for product catalogs and marketing campaigns, to technical reporting, and even writing software. Inside, author Amit Bahree shares his experience leading Generative AI projects at Microsoft for nearly a decade, starting well before the current GPT revolution.&lt;br&gt;&lt;br&gt;Inside &lt;/span&gt;&lt;em style="color: #0f1111"&gt;Generative AI in Action&lt;/em&gt;&lt;span style="color: #0f1111"&gt; you will find:&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;A practical overview of of generative AI applications&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Architectural patterns, integration guidance, and best practices for generative AI&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;The latest techniques like RAG, prompt engineering, and multi-modality&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;The challenges and risks of generative AI like hallucinations and jailbreaks&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;How to integrate generative AI into your business and IT strategy&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;&lt;br&gt;&lt;/span&gt;&lt;em style="color: #0f1111"&gt;Generative AI in Action&lt;/em&gt;&lt;span style="color: #0f1111"&gt; is full of real-world use cases for generative AI, showing you where and how to start integrating this powerful technology into your products and workflows. You'll benefit from tried-and-tested implementation advice, as well as application architectures to deploy GenAI in production at enterprise scale.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:language>es</dc:language>
         <dc:subject>Informática</dc:subject>
-        <meta name="calibre:timestamp" content="2025-04-23T14:39:41.773782+00:00"/>
+        <meta name="calibre:timestamp" content="2025-04-23T14:39:41+00:00"/>
         <meta name="calibre:title_sort" content="Generative AI in Action"/>
     </metadata>
     <guide>

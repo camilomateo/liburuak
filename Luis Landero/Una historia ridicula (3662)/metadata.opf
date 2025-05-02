@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3662</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b6bab33-6267-481d-bf39-b816da80d8c5</dc:identifier>
+        <dc:title>Una historia ridícula</dc:title>
+        <dc:creator opf:file-as="Luis Landero" opf:role="aut">Luis Landero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-13T11:54:09+00:00</dc:date>
+        <dc:description>«Landero es uno de los mejores novelistas españoles.» José-Carlos Mainer, Babelia (El País)
+
+«Uno de nuestros grandes narradores… discípulo verdadero de Cervantes.» J. M. Pozuelo Yvancos, Abc Cultural
+
+«Yo, de este hombre leería hasta la lista de la compra. Borges menciona a quienes agradecen que exista en la tierra la literatura de Stevenson. A mí me pasa lo mismo con la de Luis Landero.»
+Fernando Aramburu
+
+Marcial es un hombre exigente, con don de palabra, y orgulloso de su formación autodidacta. Un día se encuentra con una mujer que no solo le fascina, sino que reúne todo aquello que le gustaría tener en la vida: buen gusto, alta posición, relaciones con gente interesante. Él, que tiene un alto concepto de sí mismo, es de hecho encargado en una empresa cárnica. Ella, que se ha presentado como Pepita, es estudiosa del arte y pertenece a una familia adinerada. Marcial necesita contarnos su historia de amor, el despliegue de sus talentos para conquistarla, su estrategia para desbancar a los otros pretendientes y sobre todo qué ocurrió cuando fue invitado a una fiesta en casa de su amada.</dc:description>
+        <dc:publisher>2022</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788411070805</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:50.592685+00:00"/>
+        <meta name="calibre:title_sort" content="Una historia ridícula"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75b9c296-ef0d-4902-8021-13fd04dc158d</dc:identifier>
+        <dc:title>Los asquerosos</dc:title>
+        <dc:creator opf:file-as="Lorenzo, Santiago" opf:role="aut">Santiago Lorenzo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-02T22:00:00+00:00</dc:date>
+        <dc:description>Manuel acuchilla a un policía antidisturbios que quería pegarle. Huye. Se esconde en una aldea abandonada. Sobrevive de libros Austral, vegetales de los alrededores, una pequeña compra en el Lidl que le envía su tío. Y se da cuenta de que cuanto menos tiene, menos necesita. Un thriller estático, una versión de Robinson Crusoe ambientada en la España vacía, una redefinición del concepto «austeridad». Una historia que nos hace plantearnos si los únicos sanos son los que saben que esta sociedad está enferma. Santiago Lorenzo ha escrito su novela más rabiosamente política, lírica y hermosa.</dc:description>
+        <dc:publisher>13insurgentes</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:52.668459+00:00"/>
+        <meta name="calibre:title_sort" content="asquerosos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

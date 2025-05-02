@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3671</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37adfe49-954c-4ce3-a260-85e36c431058</dc:identifier>
+        <dc:title>Los combatientes</dc:title>
+        <dc:creator opf:file-as="Morales, Cristina" opf:role="aut">Cristina Morales</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Esto va de una juventud rabiosa que ﬂota entre los restos del naufragio; de un grupo de actores teatrales que se convierten en actores políticos y deciden que la realidad solo se puede retratar a través de la ridiculización, y que esta, para ser creíble y eﬁcaz, debe empezar por uno mismo y alcanzar a nuestros maestros literarios.&lt;/p&gt;&lt;p&gt;Quiénes son los combatientes: los que saltan a la comba (como los boxeadores en sus entrenamientos), los integrantes de una compañía de teatro universitario, los jóvenes que en la España del s.&amp;nbsp;&lt;small&gt;XXI&lt;/small&gt; sobreviven hartándose de amor ya que no pueden hartarse de pan, en palabras de la socióloga Layla Martínez.&lt;/p&gt;&lt;p&gt;Este es un libro —acaso una novela, acaso una obra de teatro— que cuenta a través de la ﬁcción una historia verdadera, que habla de representación y realidad, de radicalismos impostados y transgresión auténtica, del arte como provocación y de la provocación como arte, y lo hace retando a la lectora (y también al lector) en un juego nada inocente que incorpora, a veces citando y a veces sin citar, textos ajenos.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">54515</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:53.270606+00:00"/>
+        <meta name="calibre:title_sort" content="combatientes, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

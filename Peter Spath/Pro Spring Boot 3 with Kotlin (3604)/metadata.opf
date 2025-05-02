@@ -7,9 +7,24 @@
         <dc:creator opf:file-as="Spath, Peter" opf:role="aut">Peter Spath</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2025-01-16T02:31:49+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;Quickly and productively build complex Kotlin-based Spring applications and microservices out of the box, with minimal concern over things such as configurations. This revised edition will show you how to fully leverage the Spring Boot 3 micro-framework and apply it to create enterprise-ready Kotlin-based cloud-native applications, microservices, and web applications that just work.  &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;The book covers what has been added to the new Spring Boot 3 release, including improved support for the Kotlin programming language, changes to Stream Editor UI, Maven Preemptive Authentication, building Docker images using cloud-native build packs, building layered jars for optimized Docker images, E2E traceability for configuration properties, many dependency upgrades, support for Spring Data, and much more.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;This book is your in-depth pragmatic guide for increasing your enterprise Kotlin and cloud application productivity while decreasing development time. It is a no-nonsense guide with case studies of increasing complexity throughout the book. The main author, a senior solutions architect and Principal Technical instructor at Pivotal, the company behind the Spring Framework, shares his experience, insights, and first-hand knowledge about how Spring Boot technology works, and best practices.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;This is an essential book for your Kotlin-based Spring learning and reference library.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:language>es</dc:language>
         <dc:subject>Informática</dc:subject>
-        <meta name="calibre:timestamp" content="2025-04-28T07:23:34.530059+00:00"/>
+        <meta name="calibre:timestamp" content="2025-04-28T07:23:34+00:00"/>
         <meta name="calibre:title_sort" content="Pro Spring Boot 3 with Kotlin"/>
     </metadata>
     <guide>

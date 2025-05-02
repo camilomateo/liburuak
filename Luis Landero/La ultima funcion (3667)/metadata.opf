@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b373952-c8d2-4f5d-879d-a2f461420c45</dc:identifier>
+        <dc:title>La última función</dc:title>
+        <dc:creator opf:file-as="Luis Landero" opf:role="aut">Luis Landero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-01-31T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Un grupo de amigos jubilados todavía recuerda la tarde de aquel domingo de enero de 1994 en que un Tito Gil maduro hizo su aparición en el bar restaurante del pueblo, en la Sierra de Madrid. Lo reconocieron por su prodigiosa voz. Regresaba a su lugar natal el afamado actor, el niño prodigio, la gran promesa teatral que parecía haber triunfado en los escenarios de la capital, o tal vez de medio mundo. Quizá en busca de notoriedad, Tito Gil no tardará en proponerles una gran representación colectiva con la que revitalizar el turismo y atraer a gente. Será la última oportunidad de evitar el despoblamiento paulatino. Nadie parece resistirse, pero necesitan a una gran actriz que le dé a él la réplica. En esas fechas, Paula, una mujer que ha visto aplastados sus sueños por la rutina laboral, toma el último tren en Atocha y despierta, sin saberlo, en la estación de un pueblo para ella desconocido.&lt;/p&gt;
+&lt;p align="justify"&gt;Bajo el sortilegio de un relato oral colectivo, en La última función Luis Landero vuelve a deleitarnos con la fascinación de una historia y de unos personajes que parecen salir de la bruma y tomar la escena para sentirse transformados. Una historia de amor inesperada, y un sinfín de personajes secundarios humorísticos y admirables que culminan en un magistral desenlace.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">202748305</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8411074129</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788411074230</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">mTHqEAAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:52.062674+00:00"/>
+        <meta name="calibre:title_sort" content="La última función"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

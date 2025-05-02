@@ -7,6 +7,35 @@
         <dc:creator opf:file-as="Solier, Antonio Padial" opf:role="aut">Antonio Padial Solier</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-01-10T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;Sin necesidad de conocimientos previos. Aprende a manipular y consultar bases de datos de forma rápida y sencilla.&lt;br&gt;&lt;br&gt;¿Estás desarrollando una web y quieres utilizar MySQL para almacenar información? ¿estás estudiando y se te atraganta la asignatura de base de datos? ¿quieres aprender SQL para mejorar tu currículum o dar un giro a tu vida laboral? ¿quieres convertirte en un Científico de Datos y no sabes por dónde empezar? o ¿símplemente tienes curiosidad por conocer este lenguaje y sus posibilidades? A todos vosotros bienvenidos, habéis dado con el libro adecuado.&lt;br&gt;&lt;br&gt;Más de 100 sentencias de ejemplo, numerosos ejercicios y temas adicionales con los que aprenderás todo lo necesario para utilizar SQL en tus proyectos profesionales.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;strong style="color: #0f1111; background-color: #ffffff"&gt;Contenido del curso&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;PREÁMBULO&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 1.1 - INTRODUCCIÓN&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 1.2 - ¿QUÉ ES UNA BASE DE DATOS RELACIONAL?&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 1.3 - PREPARAR EL ENTORNO&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 1.4 - ¿QUÉ PUEDO GUARDAR EN UNA BASE DE DATOS?&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 1.5 - TU PRIMERA BASE DE DATOS&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 1.6 - CREACIÓN DE TABLAS&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 1.7 - GUARDAR Y CONSULTAR INFORMACIÓN&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 1.8 - RESUMEN DEL PRIMER DÍA&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 2.1 - EL LENGUAJE SQL&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 2.2 - CREATE, ALTER Y DROP TABLE&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 2.3 - INSERT INTO&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 2.4 - USO DE PRIMARY KEY&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 2.5 - SELECT BÁSICO&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 2.6 - SELECT + WHERE&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 2.7 - JOIN&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 2.8 - UNION Y EXCEPT&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 2.9 - UPDATE Y DELETE&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 2.10 - RESUMEN DEL SEGUNDO DÍA&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 3.1 - FUNCIONES&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 3.2 - GROUP BY&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 3.3 - SUBCONSULTAS&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 3.4 - VISTAS&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 3.5 - OUTER JOIN&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 3.6 - OPERACIONES CON DATETIME&lt;/li&gt;
+&lt;li style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;CAPÍTULO 3.7 - PROYECTO FINAL&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
         <dc:identifier opf:scheme="MOBI-ASIN">B01N7RCF07</dc:identifier>
         <dc:language>spa</dc:language>
         <dc:subject>Informática</dc:subject>

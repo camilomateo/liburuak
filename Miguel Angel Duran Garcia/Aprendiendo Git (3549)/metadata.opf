@@ -7,9 +7,14 @@
         <dc:creator opf:file-as="García, Miguel Angel Durán" opf:role="aut">Miguel Angel Durán García</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;Hoy en día es imposible imaginar el desarrollo de software sin Git. Según la encuesta de Stack Overflow de 2018, &lt;/span&gt;&lt;strong style="color: #0f1111"&gt;casi el 90% de los desarrolladores usaban Git para manejar su código fuente&lt;/strong&gt;&lt;span style="color: #0f1111"&gt;. Si te preguntas por qué no hay encuestas más recientes... ¡Es simplemente porque no preguntaron más! Su dominio empezaba a ser tan evidente que no dejaba margen a la curiosidad.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;Siendo tan importante entender Git, su manejo y dominio, he decidido escribir este libro. Un libro que yo mismo hubiera estado encantado de leer cuándo empecé. Un libro del que estoy seguro que podrás extraer algún aprendizaje y que te podrá servir de guía en el futuro.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;En el libro te explico los orígenes de Git y por qué ahora lo usa todo el mundo. ¿De dónde nació? ¿Quién lo creó? Además, te explico todos sus fundamentos para que entiendas qué es lo que esconden todos los comando que utilizas en tu día a día.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;Después de ayudarte a instalar y configurar Git, te explicaré cómo puedes trabajar en Git de forma local y remota y qué diferencias existe entre esos dos modos. Luego haremos repaso de algunas buenas prácticas, cómo usar los alias, los hooks, trucos imprescindibles y muchas cosas más.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:language>es</dc:language>
         <dc:subject>Informática</dc:subject>
-        <meta name="calibre:timestamp" content="2025-04-23T14:39:42.645158+00:00"/>
+        <meta name="calibre:timestamp" content="2025-04-23T14:39:42+00:00"/>
         <meta name="calibre:title_sort" content="Aprendiendo Git"/>
     </metadata>
     <guide>

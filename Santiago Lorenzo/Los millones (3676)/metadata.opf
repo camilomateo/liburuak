@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb39a0f6-849d-4e8a-ac8f-042f5fd5bae1</dc:identifier>
+        <dc:title>Los millones</dc:title>
+        <dc:creator opf:file-as="Lorenzo, Santiago" opf:role="aut">Santiago Lorenzo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T22:00:00+00:00</dc:date>
+        <dc:description>A uno del GRAPO cuyas ilusiones son tan austeras que más que soñarse, se padecen, le gusta consolarse perfumándose con Nenito (remedo de Nenuco) y fumando Rex (en cajetilla de Marlboro). En uno de sus muchos días de rutina miserable y clandestina le toca la primitiva pero cuando aprieta en su puño el boleto premiado con 200 millones de pesetas, 2.12.13.14.45.49, constata que para no haber creído jamás en la suerte, bastante mala la tiene. Ese 13 se lo recuerda, mientras que el 45 lo lleva a pensar en Hiroshima y el 49, en el autobús con el que enfila cada día el taller de Benetton en el que cose etiquetas para polos que, como su vida, son una imitación. Porque no puede cobrar aunque tiene 90 días para hacerlo. En ese tiempo le tocará otra Primitiva: conocerá a una periodista que, ironía extra, responde por ese nombre. Ella, que buscaba al ganador desaparecido, encontrará a este perdedor con el que comparte un alto déficit de cariño y una pasión casi infantil, y por tanto genuinamente pura, por los trenes. ¿Pero entonces por qué no cobra y coge uno con ella? Porque no tiene DNI y sin embargo existe y, por todo eso, sufre. Manual de supervivencia para tiempos de crisis y prefijos infames (microsueldos, infraviviendas, seudovida) y retrato de la búsqueda de identidad, «Los Millones» es, además, un clásico instantáneo y una historia de amor gigante.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">6873</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:54.765850+00:00"/>
+        <meta name="calibre:title_sort" content="millones, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

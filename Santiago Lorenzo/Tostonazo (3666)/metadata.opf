@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75ef5594-955c-4bed-9250-02bc9578aee8</dc:identifier>
+        <dc:title>Tostonazo</dc:title>
+        <dc:creator opf:file-as="Lorenzo, Santiago" opf:role="aut">Santiago Lorenzo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-04T22:00:00+00:00</dc:date>
+        <dc:description>Nuestro protagonista es un tipo sin oficio ni beneficio que se ve, de repente, trabajando como becario en el centro de las cosas: una película en Madrid. Un rodaje mangoneado por un ignorante cínico que manda sobre todos. Para olvidarse de la capital, se ve obligado a aceptar un trabajo en un lugar aparentemente peor: una ciudad de provincias, de esas de las que se dice que están muertas y en las que parece que nunca pasa nada. Sin embargo, allí es donde él descubre la amistad, la alegría de ser y la vida vivible.</dc:description>
+        <dc:publisher>13nsurgentes</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="13ID">50002200</dc:identifier>
+        <dc:identifier opf:scheme="PAGINAS">192</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:51.754332+00:00"/>
+        <meta name="calibre:title_sort" content="Tostonazo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

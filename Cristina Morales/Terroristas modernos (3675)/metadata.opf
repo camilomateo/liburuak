@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">900458fd-9b17-481e-85d3-77e1abf66ccc</dc:identifier>
+        <dc:title>Terroristas modernos</dc:title>
+        <dc:creator opf:file-as="Morales, Cristina" opf:role="aut">Cristina Morales</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-28T22:00:00+00:00</dc:date>
+        <dc:description>Las nociones de terrorismo, modernidad, burguesía y democracia conviven pacíficamente en el tránsito de los siglos XVIII a XIX. El primer acusado en la Historia de terrorista, esto es, de ser un agente o partidario del régimen del terror (según reza el diccionario de la Academia Francesa de 1798, que inagura el término), no fue ni un anarquista, ni un comunista, ni un neonazi, ni un abertzale, ni un yihadista, sino el neonato Estado liberal francés, la primera democracia moderna de Europa.
+
+Con esto muy presente y con España hecha un barrizal tras la invasión napoleónica, en 1816 un grupo de españoles, urdió un plan para convertir su Reino, aburrida cocinilla de Dios, en Estado, flamante máquina humana. Entre ellos había algún prohombre de la resistencia contra los franceses y algún líder de la guerrilla, pero la mayoría eran militares degradados sin más muda de ropa que el uniforme, exguerrilleros vueltos mendigos, sastras cuyas confecciones eran censuradas por la Iglesia y poetas cansados de neoclasicismo y por ello ninguneados en las imprentas ilustradas.
+
+El plan no consistía ni en un pronuncionamiento, ni en un motín popular, ni en una conjura palaciega, ni en una revolución a la francesa. Lo que la historiografía dio en llamar "la Conspiración del Triángulo" constituyó una infrecuente experiencia de rebelión en la que desclasados de diversos escalones de la jerarquía social se aliaron y hasta invirtieron sus roles de clase, género y raza. Cristina Morales narra en Terroristas modernos el forjamiento de esas alianzas políticas inesperadas, la intrahistoria de esa subversión, y traslada los profusos conflictos de la trama al estilo literario, problematizando el lenguaje y el sustento ideológico del lector.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">53062</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:54.485478+00:00"/>
+        <meta name="calibre:title_sort" content="Terroristas modernos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

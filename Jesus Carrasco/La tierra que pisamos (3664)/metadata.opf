@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3664</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8251a2d9-acfa-4ec3-bd42-674b2ccc9f2d</dc:identifier>
+        <dc:title>La tierra que pisamos</dc:title>
+        <dc:creator opf:file-as="Carrasco, Jesús" opf:role="aut">Jesús Carrasco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-01T00:00:00+00:00</dc:date>
+        <dc:description>A comienzos del siglo XX España ha sido anexionada al mayor imperio que Europa ha conocido. Tras la pacificación, las élites militares eligen un pequeño pueblo de Extremadura como gratificación para los mandos a cargo de la ocupación. Eva Holman, esposa de uno de ellos, vive su idílico retiro en la paz de su conciencia hasta que recibe la visita inesperada de un hombre que empezará ocupando su propiedad y acabará por invadir su vida entera. La tierra que pisamos habla del modo en que nos relacionamos con la tierra; con el lugar en el que nacemos pero también con el planeta que nos sostiene. Formas que van desde el atroz mercantilismo que ejerce el poder hasta la emoción de un hombre que cultiva a la sombra de una encina. Y entre esos dos extremos, la lucha de una mujer por encontrar el auténtico sentido de su vida y del que su propia educación la ha desviado. Con la misma riqueza y precisión con que escribió Intemperie, Jesús Carrasco indaga en esta novela en la infinita capacidad de resiliencia del ser humano, el deslumbramiento de la empatía cuando el otro deja de ser un extraño a nuestros ojos y la naturaleza de un amor más grande que nosotros. Una lectura emocionante; un libro capaz de cambiarte.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:51.189619+00:00"/>
+        <meta name="calibre:title_sort" content="tierra que pisamos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

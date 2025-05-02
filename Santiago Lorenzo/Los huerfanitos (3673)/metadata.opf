@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad3871f2-7436-418c-99ca-ead6a47a561f</dc:identifier>
+        <dc:title>Los huerfanitos</dc:title>
+        <dc:creator opf:file-as="Lorenzo, Santiago" opf:role="aut">Santiago Lorenzo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Cuando las deudas sobrepasaban sus excusas, Ausias Susmozas —manirroto patriarca del Pigalle, un teatro de pasado glorioso— agarró el petate y se mudó al otro barrio. Su muerte reúne por primera vez en mucho tiempo a sus tres hijos, Argimiro, Bartolomé y Críspulo, dispuestos a recoger un consuelo monetario que compense el nulo cariño que les dispensó su progenitor. Pero se dan de bruces con una deuda inabordable: el banco se quedará el Pigalle si no logran saldarla. La única solución pasa por ganar una subvención mediante el estreno, en un plazo de cinco meses, de una obra que llevará por título La vida.Los tres deberán lidiar con el desastre vital y económico, un director inepto, un grupo de pensionistas como único apoyo técnico y unos actores reclutados en un grupo de terapia.En Los huerfanitos, obra de culto aclamada por la crítica y con gran éxito de público, Santiago Lorenzo congela la sonrisa del lector con una prosa que se debate entre el humor, el terror y la ternura. Más allá de la mera sátira del mundo teatral, nos recuerda, sobre todo, que un paseo por la calle esconde más claves sobre la crisis moral y económica que cualquier estadística.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Humor</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:53.940580+00:00"/>
+        <meta name="calibre:title_sort" content="huerfanitos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

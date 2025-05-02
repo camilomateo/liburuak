@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3660</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97e33cb2-bfde-4a5f-a327-3939f9c2757f</dc:identifier>
+        <dc:title>Entre líneas: el cuento o la vida</dc:title>
+        <dc:creator opf:file-as="Landero, Luis" opf:role="aut">Luis Landero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Manuel Pérez Aguado (Manolito para los amigos; en el estrado, don Manuel) es profesor de literatura, y además lector y escritor. La vida de Manuel, que va atisbándose al filo de la obra, es bastante común: nació en un pueblecito en el que sólo dos casas tenían luz eléctrica; hijo de las clases de Historia Sagrada y de un Hollywood legendario, vivió en su infancia la llegada de la Coca-Cola, y fue a estudiar la carrera a la capital, para lo que tuvo que ganarse el pan. Sin embargo, ahora, en nuestros días, se ha convertido en una figura muy peculiar: es alguien-que-sabe. Enamorado de los libros, reflexiona sobre la ficción y la realidad. Amante de la vida, medita sobre su pasado y sobre unpresente lleno de contrastes que nos concierne a todos. Landero, con la seductora prosa a la que nos tiene acostumbrados, intercala entre las páginas dedicadas a Manuel Pérez Aguado ideas, apuntes y retazos que hacen de contrapunto y añaden al libro otra voz: una voz que habla en primera persona, que narra otras historias, y que casi, diríase, acaba transformándose en otro personaje.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">50959</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Filosófico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:50.018166+00:00"/>
+        <meta name="calibre:title_sort" content="Entre líneas: el cuento o la vida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

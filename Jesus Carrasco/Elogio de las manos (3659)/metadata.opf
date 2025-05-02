@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52babe0f-8eb8-4779-a56e-60dff562a700</dc:identifier>
+        <dc:title>Elogio de las manos</dc:title>
+        <dc:creator opf:file-as="Carrasco, Jesús" opf:role="aut">Jesús Carrasco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-07T16:17:08+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Work Sans','Source Sans Pro','-apple-system','BlinkMacSystemFont','Segoe UI','Roboto','Helvetica Neue','Arial','sans-serif'; font-size: 16px"&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt;En el año 2011, el narrador de esta novela y su familia llegaron, de un modo azaroso, a una vivienda casi en ruinas situada en un pequeño pueblo del sur de España. Un acuerdo con el propietario les permitiría hacer uso de ella mientras el encontraba financiación para construir allí unos apartamentos. Era solo cuestión de tiempo que la casa fuera derribada. Sin embargo, durante los años siguientes, pasaron largos periodos en ella, reparándola con sus propias manos, transformándola en un acogedor lugar de encuentro y celebración.á Allí recibieron a vecinos y amigos; con ellos compartieron comida, música, trabajo y risa. Allí la familia llegó a convivir con una docena de gallinas, varios caballos y burros, dos perros y algún ratón. Nunca perdieron de vista que terminarían llegando las máquinas excavadoras, lo que convirtió la experiencia en aquella casa en una elocuente metáfora de la vida: nos entregamos a ella aun sabiendo que termina.&lt;/span&gt;&lt;em style="color: #000000; background-color: #ffffff"&gt;á Elogio de las manos&lt;/em&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt; es una novela tan extraordinaria como la peripecia vital de sus protagonistas, una historia en la que caben la aventura, la reflexión y el recuerdo. Con el talento expresivo que le caracteriza, Jesús Carrasco log&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grupo Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:49.738868+00:00"/>
+        <meta name="calibre:title_sort" content="Elogio de las manos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">287db29c-dae9-4519-89c9-61694ecc8212</dc:identifier>
+        <dc:title>Introducción a Teresa de Jesús</dc:title>
+        <dc:creator opf:file-as="Morales, Cristina" opf:role="aut">Cristina Morales</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Corre 1562 y Teresa de Jesús, a sus cuarenta y siete años, está alojada en el palacio de Luisa de la Cerda en Toledo. Consuela a su anfitriona de la melancolía provocada por la muerte de su esposo, espera a que prospere la fundación de su nuevo convento y se dedica a escribir un texto destinado a convertirse en una obra decisiva en el nacimiento del género autobiográfico, El libro de la Vida, que deberá complacer a sus superiores eclesiásticos y defenderla ante sus detractores.&lt;/p&gt;&lt;p&gt;Pero… ¿y si la santa hubiera redactado en paralelo otro manuscrito, un diario más íntimo, no destinado a complacer ni a defenderla ante nadie, sino a evocar su vida pasada y tratar de explicarse como ser humano? Eso es lo que imagina Cristina Morales, dando voz a una Teresa, si no libre de ataduras y compromisos, sí consciente de ellos y contra ellos luchando. Una Teresa que se busca en sus recuerdos y se autoexplora en su escritura: evoca su infancia con juegos de romanos y mártires, los padecimientos y humillaciones de su madre en sus múltiples embarazos, su vida entre la disciplina y la rebeldía, su destino como mujer en una sociedad pensada por y para los hombres…&lt;/p&gt;&lt;p&gt;«Dios mío, ¿debo escribir que en mi juventud fui ruin y vanidosa y que por eso ahora Dios me premia? ¿Debo escribir para dar gusto al padre confesor, para dar gusto a los grandes letrados, para dar gusto a la Inquisición o para darme gusto a mí misma? ¿Debo escribir que no abrazo reforma alguna? ¿Debo escribir porque me lo han mandado y he hecho voto de obediencia? Dios mío, ¿debo escribir?» El resultado es la sugestiva reinvención de una figura imprescindible de la literatura universal, escrita desde la libertad y la radicalidad que la propia Teresa de Jesús representó.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">54566</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:50.903653+00:00"/>
+        <meta name="calibre:title_sort" content="Introducción a Teresa de Jesús"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -7,9 +7,20 @@
         <dc:creator opf:file-as="Jon Reid" opf:role="aut">Jon Reid</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-06-10T14:35:37+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-weight: 300; font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px"&gt;&lt;span style="color: #3d3b49; background-color: #ffffff"&gt;Native apps have distinct advantages, but the future belongs to mobile web apps that function on a broad range of smartphones and tablets. Get started with jQuery Mobile, the touch-optimized framework for creating apps that look and behave consistently across many devices. This concise book provides HTML5, CSS3, and JavaScript code examples, screen shots, and step-by-step guidance to help you build a complete working app with jQuery Mobile.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-weight: 300; font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px"&gt;&lt;span style="color: #3d3b49; background-color: #ffffff"&gt;If you're already familiar with the jQuery JavaScript library, you can use your existing skills to build cross-platform mobile web apps right now. This book shows you how.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Get a high-level overview of jQuery Mobile: how it works and how to use it&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Learn about paging and navigation, including dialogs, Ajax content, and history&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Employ jQuery Mobile’s extensive event system to create rich interactions&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Work with toolbars, buttons, lists, forms, and other UI elements&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Create a variety of visual designs with jQuery Mobile’s sophisticated theming system&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Use the jQuery Mobile API for finer control over elements and interactions&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Put everything together and build a mobile app from start to finish&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
         <dc:language>spa</dc:language>
         <dc:subject>Informática</dc:subject>
-        <meta name="calibre:timestamp" content="2025-04-23T14:39:40.968553+00:00"/>
+        <meta name="calibre:timestamp" content="2025-04-23T14:39:40+00:00"/>
         <meta name="calibre:title_sort" content="jQuery Mobile"/>
     </metadata>
     <guide>

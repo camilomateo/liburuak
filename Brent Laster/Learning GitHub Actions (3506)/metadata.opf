@@ -7,9 +7,22 @@
         <dc:creator opf:file-as="Laster, Brent" opf:role="aut">Brent Laster</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-08-16T17:59:50+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-weight: 300; font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px"&gt;&lt;span style="color: #3d3b49; background-color: #ffffff"&gt;Automate your software development processes with GitHub Actions, the continuous integration and continuous delivery platform that integrates seamlessly with GitHub. With this practical book, open source author, trainer, and DevOps director Brent Laster explains everything you need to know about using and getting value from GitHub Actions. You'll learn what actions and workflows are and how they can be used, created, and incorporated into your processes to simplify, standardize, and automate your work in GitHub.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-weight: 300; font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px"&gt;&lt;span style="color: #3d3b49; background-color: #ffffff"&gt;This book explains the platform, components, use cases, implementation, and integration points of actions, so you can leverage them to provide the functionality and features needed in today's complex pipelines and software development processes. You'll learn how to design and implement automated workflows that respond to common events like pushes, pull requests, and review updates. You'll understand how to use the components of the GitHub Actions platform to gain maximum automation and benefit.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-weight: 300; font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px"&gt;&lt;span style="color: #3d3b49; background-color: #ffffff"&gt;With this book, you will:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff" id="titleDescriptionExtra"&gt;Learn what GitHub Actions are, the various use cases for them, and how to incorporate them into your processes&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Understand GitHub Actions' structure, syntax, and semantics&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Automate processes and implement functionality&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Create your own custom actions with Docker, JavaScript, or shell approaches&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Troubleshoot and debug workflows that use actions&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Combine actions with GitHub APIs and other integration options&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Identify ways to securely implement workflows with GitHub Actions&lt;/li&gt;
+&lt;li style="font-family: 'guardian-text-oreilly','Helvetica','sans-serif'; font-size: 20px; font-weight: 300; color: #3d3b49; background-color: #ffffff"&gt;Understand how GitHub Actions compares to other options&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
         <dc:language>es</dc:language>
         <dc:subject>Informática</dc:subject>
-        <meta name="calibre:timestamp" content="2025-04-22T13:33:59.335630+00:00"/>
+        <meta name="calibre:timestamp" content="2025-04-22T13:33:59+00:00"/>
         <meta name="calibre:title_sort" content="Learning GitHub Actions"/>
     </metadata>
     <guide>

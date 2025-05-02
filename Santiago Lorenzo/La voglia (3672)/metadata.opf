@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3672</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">915b30e2-ab10-4bb8-bcc5-b3bbf1c9ccb6</dc:identifier>
+        <dc:title>La voglia</dc:title>
+        <dc:creator opf:file-as="Lorenzo, Santiago" opf:role="aut">Santiago Lorenzo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Benito vive la sua vita senza entusiasmo, ma è tormentato dalla voglia: sono tre anni che non fa sesso. Per questo colleziona portachiavi, soffre l’indicibile quando vede una bella donna sulla metro e beve troppa sambuca. Ha confidato il suo dramma soltanto alla sorella, anche se tutti, al lavoro come in giro per strada, notano la sua angoscia. E la sua astinenza.
+Benito è un chimico e un imprenditore. Ha inventato una sostanza miracolosa che rigenera il legno, ma aspetta da mesi la conclusione dell’accordo con l’azienda che potrebbe commercializzarla e intanto fa la fame.
+A un certo punto la soluzione a tutti i suoi problemi, quelli lavorativi e quelli più intimi, si materializza davanti ai suoi occhi. Ha le sembianze di María, una ragazza che sta lavorando a una tesi sul legno policromo.
+Benito non osa incontrarla, ma si mette il profumo per mandarle le mail e conserva una cartella di messaggi non inviati dove le scrive cose come: «Ti amo perché voglio assomigliare a te». Ha paura di dirglielo, ma avrebbe molta voglia di farlo.</dc:description>
+        <dc:publisher>© dell’edizione: Blackie Edizioni S.r.l., 2024</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9791281631335</dc:identifier>
+        <dc:language>ita</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:53.564842+00:00"/>
+        <meta name="calibre:title_sort" content="voglia, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

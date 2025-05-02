@@ -48,14 +48,6 @@
         true
       ],
       [
-        "marked",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
         "title",
         true
       ],
@@ -65,74 +57,6 @@
       ],
       [
         "title",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "marked",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "marked",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "marked",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "marked",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "marked",
-        true
-      ],
-      [
-        "authors",
         true
       ],
       [
@@ -832,7 +756,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1745995609.5418375,
+  "last_expired_trash_at": 1746166682.533638,
   "catalog-field-data-for-catalog_csv_xml": {
     "fields": [
       "authors",

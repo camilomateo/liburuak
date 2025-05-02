@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3656</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">978d952c-aa6c-4231-b9b2-8f737ba89d97</dc:identifier>
+        <dc:title>Todas las primeras veces</dc:title>
+        <dc:creator opf:file-as="Ortega, Gemma Pérez" opf:role="aut">Gemma Pérez Ortega</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-20T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Todo lo que siempre has querido saber sobre la adolescencia y nadie te ha contado.&lt;/p&gt;
+&lt;p&gt;En cada una de nuestras primeras veces hay lecciones muy valiosas esperándonos. Crecer, descubrir quién eres y enfrentarte a tus sentimientos puede ser muy difícil… ¡Lo sé bien!&lt;/p&gt;
+&lt;p&gt;En este libro encontrarás todas las primeras veces que me marcaron y, más importante,&lt;strong&gt; lo que aprendí de cada una de ellas&lt;/strong&gt;: de mi primer amor, el sexo, bullying, alcohol, ansiedad, relaciones tóxicas… y de cómo, a través de todo eso, &lt;strong&gt;logré encontrarme y empoderarme&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;La confesión más íntima de una joven en su diario, con todo lo que a mí me hubiera gustado saber. Ojalá mis experiencias te ayuden y &lt;strong&gt;te hagan sentir menos solo.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;¿Estás listo para abrazar la magia de las primeras veces?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ediciones Martínez Roca</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-02T06:24:14.258587+00:00"/>
+        <meta name="calibre:title_sort" content="Todas las primeras veces"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
