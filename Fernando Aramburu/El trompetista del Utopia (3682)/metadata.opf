@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f8f16cd-b809-4509-af15-0de33e878ac8</dc:identifier>
+        <dc:title>El trompetista del Utopía</dc:title>
+        <dc:creator opf:file-as="Fernando Aramburu" opf:role="aut">Fernando Aramburu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Benito Lacunza, metido ya en los treinta, flaco y ojeroso debido a una existencia más bien crapulosa, ayuda por las noches en la barra del bar Utopía, en el madrileño barrio de Almenara. Y algunas veces, si el jefe se lo permite, ameniza a los clientes tocando la trompeta. Mientras sueña con que alguien reconozca un día su talento jazzístico, recibe la noticia de que su padre —un antiguo requeté y hombre severo de quien no guarda buen recuerdo, dueño de unas tierras y una casa solariega en Estella— está agonizando. Azuzado por la Pauli —su pareja, y la mujer por la que come caliente y duerme bajo techo—, marcha al pueblo natal de la familia para reclamar su parte de la herencia. Pero en Estella le aguardan problemas imprevistos: su hermano Lalo, un joven conocido por su generosidad, está a punto de casarse con una mujer de intenciones más que dudosas.Benito decide tomar cartas en el asunto, aunque ignora que un extraño encadenamiento de circunstancias está a punto de cambiar su vida para siempre. Esta novela ha sido adaptada al cine por Félix Viscarret con el título de Bajo las estrellas.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-04T16:36:29.968775+00:00"/>
+        <meta name="calibre:title_sort" content="El trompetista del Utopía"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3701</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e04a3181-68f0-4cd2-a00e-181386a6f99d</dc:identifier>
+        <dc:title>Las lagartijas huelen a hierba</dc:title>
+        <dc:creator opf:file-as="Sánchez-Andrade, Cristina" opf:role="aut">Cristina Sánchez-Andrade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;–¿Te dan miedo las lagartijas? –Sí, porque, aun muertas, coletean. Éranse una vez dos viejas o érase dos veces una vieja, o tal vez érase un quiste de una carne vieja en una casa de pueblo. Érase una noche sin estrellas. Un niño negrito y una niña azul, que no quería crecer, cavaban una fosa en un jardín. Éranse una madre ausente (sólo su risa burlona desde el altillo) y un cura sin fe. Andaba Satán suelto, buscando algo, en el cuerpo pellejudo de una lagartija.&lt;/p&gt;
+&lt;p&gt;Las lagartijas huelen a hierba es una obra hermosa y terrible, con la que Cristina Sánchez-Andrade incorpora a la novela española todo el lirismo y la aspereza de la tradición europea del relato popular. Un cuento sin moraleja que, como las pesadillas de Kafka o los esperpentos de Valle-Inclán, nos descubre que la vida es drama y la bondad es sospechosa&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bookwire Spain</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-05T06:32:42.440771+00:00"/>
+        <meta name="calibre:title_sort" content="lagartijas huelen a hierba, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

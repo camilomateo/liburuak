@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3684</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cbf5ba06-6615-4809-b0c3-af73fda4df5b</dc:identifier>
+        <dc:title>Los vencejos</dc:title>
+        <dc:creator opf:file-as="Aramburu, Fernando" opf:role="aut">Fernando Aramburu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-24T22:00:00+00:00</dc:date>
+        <dc:publisher>Tusquets Editores S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B097QGPGHT</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-04T16:36:30.836149+00:00"/>
+        <meta name="calibre:title_sort" content="vencejos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

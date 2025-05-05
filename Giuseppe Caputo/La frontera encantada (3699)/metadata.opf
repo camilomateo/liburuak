@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fd285a0-fa6c-4919-a31e-431c34daa847</dc:identifier>
+        <dc:title>La frontera encantada</dc:title>
+        <dc:creator opf:file-as="Caputo, Giuseppe" opf:role="aut">Giuseppe Caputo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"Giuseppe Caputo escribe sobre los vínculos más íntimos y las soledades urbanas como un aventurero en nuevos mundos, en busca deun lenguaje propio para narrar el presente. Es un poeta y un narrador de la ternura y la sordidez: lo admiro profundamente". Mariana Enriquez &lt;/p&gt;
+&lt;p&gt;En Barranquilla, un niño es partido en dos por su abuela. "Un lado de tu cara es elegante y el otro es vulgar", le dice ante el espejo, mientras traza una línea desde la frente hasta la boca, lanzando una suerte de hechizo social. Aunque ella, a toda costa, intenta que el lado "distinguido" del niño reluzca, la casa se sume en una bancarrota que provoca el quiebre mental del padre y que revela, de maneras insospechadas e hilarantes, esa procedencia plebe que la abuela insiste en ocultar.&lt;/p&gt;
+&lt;p&gt;La frontera encantada es la historia de la vida que sigue a ese suceso fundacional. Es la indagación profunda, descarnada y entrañable de los meandros que recorre el narrador mientras el hechizo crece y se manifiesta en el amor, el sexo y la amistad. Y es, sobre todo, el recuento del enorme esfuerzo que hace por recomponer la libertad y el amparo a través del gozo del cuerpo. A la manera de unas "mil y una noches costeñas", esta novela oscila con delicadeza entre la narrativa, el ensayo, el archivo y la fantasía. Como un largo cuento de hadas, condensa la propuesta estética y política de un autor extraordinario. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial Colombia</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-05T06:32:41.799714+00:00"/>
+        <meta name="calibre:title_sort" content="frontera encantada, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

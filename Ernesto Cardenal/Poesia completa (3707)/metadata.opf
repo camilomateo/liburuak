@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3707</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a62ecc39-00eb-4326-98b2-602cb7191c41</dc:identifier>
+        <dc:title>Poesía completa</dc:title>
+        <dc:creator opf:file-as="Cardenal, Ernesto" opf:role="aut">Ernesto Cardenal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-11T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;«Es un lugar común repetir que la palabra es un arma, pero en el caso de Ernesto Cardenal, la poesía vino a completar la palabra "pueblo"». Elena Poniatowska&lt;/p&gt;
+&lt;p&gt;La obra de Ernesto Cardenal (Granada, 1925-Nicaragua, 2020), de una importancia capital y calidad incontestable, se sitúa en las encrucijadas históricas y estéticas de una parte muy relevante de la poesía contemporánea. Desde que en los años cincuenta empezaron a circular copias mimeografiadas de algunos de sus epigramas, su capacidad para conectar con los lectores ha sido extraordinaria: así, Salmos, Oración por Marilyn Monroe y otros poemas, los «poemas indios», Oráculo sobre Managua, Cántico cósmico o Telescopio en la noche oscura han ampliado las posibilidades de la palabra poética en el ámbito hispánico.&lt;/p&gt;
+&lt;p&gt;Su obra tuvo una especial voluntad de comunicación, de sencillez y claridad; a partir de su objetivismo, de incorporar elementos de la vida real, cosas concretas, tanto datos históricos como detalles precisos de cifras, hechos y anécdotas, alcanzó las más altas cotas líricas, en la relación con los otros, consigo mismo y su fe, así como con el universo totalizador en un encuentro místico: «En mi poesía cabe absolutamente todo», afirmaba. Asimismo abrió nuevas vías poéticas, que darían figuras de la talla de Nicanor Parra, Mario Benedetti y el primer Gelman.&lt;/p&gt;
+&lt;p&gt;Al compilar el conjunto de la obra del gran maestro nicaragüense en el centenario de su nacimiento, trazamos un arco de búsqueda, inquietudes y respuestas creativas, que va de los Epigramas hasta En el camino de Emaús, su última obra escrita y que no fue incluida en su poesía completa hasta esta ocasión. Un monumento poético y humano que nos sigue interpelando. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Espasa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-05T06:32:50.848315+00:00"/>
+        <meta name="calibre:title_sort" content="Poesía completa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

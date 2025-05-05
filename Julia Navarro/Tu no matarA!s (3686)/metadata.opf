@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a41e2063-cc9c-4e7e-b56d-7cbe704da79f</dc:identifier>
+        <dc:title>Tu no matarÃ¡s</dc:title>
+        <dc:creator opf:file-as="Navarro, Julia" opf:role="aut">Julia Navarro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-01T22:00:00+00:00</dc:date>
+        <dc:description>«No matarás, hijo, tú no matarás. Porque ningún hombre vuelve a ser el mismo después de haber quitado la vida a otro hombre.»La nueva novela de Julia Navarro.Fernando, joven editor hijo de un republicano represaliado, decide huir de una España abatida por la Guerra Civil junto a sus amigos Catalina y Eulogio. Los tres son esclavos de los secretos que los acompañan y que los empujan sin remedio a vivir lejos de los suyos.Una historia absorbente que nos habla sobre la culpa, la venganza, el peso de la conciencia y los fantasmas que nos persiguen y condicionan nuestras decisiones.</dc:description>
+        <dc:publisher>papyrefb2tdk6czd.onion</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Dramática</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-05T06:08:36.032835+00:00"/>
+        <meta name="calibre:title_sort" content="Tu no matarÃ¡s"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

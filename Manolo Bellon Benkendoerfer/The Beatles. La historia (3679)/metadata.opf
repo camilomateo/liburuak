@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f213baa4-97a1-4d29-82cb-7a056b8b6008</dc:identifier>
+        <dc:title>The Beatles. La historia</dc:title>
+        <dc:creator opf:file-as="Manolo Bellon Benkendoerfer" opf:role="aut">Manolo Bellon Benkendoerfer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-25T22:00:00+00:00</dc:date>
+        <dc:description>Las mejores historias de The Beatles. El gran experto en The Beatles tiene nombre propio: Manolo Bellón. En el 2002 Bellón publicó este libro, que recoge una de las historias más completas sobre este cuarteto que se hayan escrito antes en cualquier idioma. Ahora, cuando se cumplen los 51 años del último concierto que dieron The Beatles (29 de agosto de 1966), Manolo vuelve sobre las líneas escritas y presenta una edición totalmente revisada, corregida y sobre todo aumentada: cada detalle, presentación, problema, canción o dato relevante de Lennon y sus amigos se recoge en este libro. Además, cuenta con una completísima discografía que va hasta el año 2016, pues la disquera dueña de los derechos musicales del grupo ha hecho un sin número de remasterizaciones, que son recogidas en detalle por Manolo Bellón, el gran beatlemano lationamericano.</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Arte</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <dc:subject>Divulgación</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-04T16:36:28.910150+00:00"/>
+        <meta name="calibre:title_sort" content="The Beatles. La historia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -7,6 +7,17 @@
         <dc:creator opf:file-as="Parisi, Tony" opf:role="aut">Tony Parisi</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;Get a quick introduction to WebGL, the new standard for 3D rendering on the Web and a member of HTML5’s family of technologies. With this hands-on guide, you’ll learn essential WebGL development and production concepts, using the JavaScript 3D engine Three.js. At the end of the book, you’ll put everything together and build a full 3D application with WebGL.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;You don’t have to be a game development wizard or have 3D graphics experience to get started. If you use HTML, CSS, and JavaScript―and have familiarity with JQuery and Ajax―this book will help you gain a working knowledge of WebGL through clear and simple examples.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-family: 'Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Understand core 3D graphics concepts and how to implement them in WebGL&lt;/li&gt;
+&lt;li style="font-family: 'Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Create WebGL sample pages as you learn, and build a racing game application in the final chapter&lt;/li&gt;
+&lt;li style="font-family: 'Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Get to know the Three.js open source library in detail&lt;/li&gt;
+&lt;li style="font-family: 'Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Develop working knowledge of graphics rendering, texturing, animation, interaction, and behaviors&lt;/li&gt;
+&lt;li style="font-family: 'Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Seamlessly integrate 3D graphics with other content on the page&lt;/li&gt;
+&lt;li style="font-family: 'Arial','sans-serif'; font-size: 14px; color: #0f1111; background-color: #ffffff"&gt;Learn the tools, file formats, and techniques for developing robust and secure applications in a production environment&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-family: 'Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;"WebGL: Up and Running is an ideal introduction to the world of 3D programming on the web. It’s well-written, clear, and fun. I wish it had been around when I started learning!"&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'REILLY</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>Informática</dc:subject>

@@ -5,12 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6678a096-6ed9-4d67-a7ee-69eebddb868d</dc:identifier>
         <dc:title>Libro de poemas</dc:title>
         <dc:creator opf:file-as="Federico García Lorca" opf:role="aut">Federico García Lorca</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111; background-color: #ffffff"&gt;Para su primer libro poético, Federico García Lorca (1898-1936) poda ramas y follaje de su frondoso árbol lírico, como él gustaba decir, y entrega a la imprenta la colección más amplia de las que publicó. El sentimental, vehemente, irónico "Libro de poemas" (1921) registra los mundos de introspección del joven poeta con plasticidad metafórica y desgarrado acento elegíaco. La introducción a este volumen establece un sugestivo análisis biográfico del autor, mientras que un riguroso aparato de notas desenmaraña la compleja problemática de la edición de la poesía lorquiana.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>www.elejandria.com</dc:publisher>
         <dc:language>spa</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Federico García Lorca&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-18T17:28:16.542958+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-18T17:28:16+00:00"/>
         <meta name="calibre:title_sort" content="Libro de poemas"/>
     </metadata>
     <guide>

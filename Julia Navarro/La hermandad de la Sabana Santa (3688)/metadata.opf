@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3688</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb2e59fa-cd78-490a-a1c3-d5f6bc44a9d8</dc:identifier>
+        <dc:title>La hermandad de la Sábana Santa</dc:title>
+        <dc:creator opf:file-as="Navarro, Julia" opf:role="aut">Julia Navarro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-16T22:00:00+00:00</dc:date>
+        <dc:description>Desde la catedral de Turín, donde tienen lugar sospechosos atentados, a una secreta hermandad de hombres mudos. Pasado y presente en una intriga trepidante.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788483461495</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>BestSeller</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-05T06:08:36.395670+00:00"/>
+        <meta name="calibre:title_sort" content="La hermandad de la Sábana Santa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

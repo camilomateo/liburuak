@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b9069e5-bd22-4c70-bc70-f3fe81072e46</dc:identifier>
+        <dc:title>Historia de un canalla</dc:title>
+        <dc:creator opf:file-as="Navarro, Julia" opf:role="aut">Julia Navarro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-10T22:00:00+00:00</dc:date>
+        <dc:description>Esta novela supone un audaz cambio de registro de Julia Navarro que sorprenderá a sus lectores habituales. Historia de un canalla es una implacable indagación de la condición humana que refleja con maestría la ambición, la codicia y el egoísmo del ser humano. En ese sentido, podríamos decir que estamos ante la novela más psicológica de Julia Navarro. Es también una novela actual, urbana y cosmopolita, ambientada entre Nueva York y Londres, con un par de breves incursiones en España. La trama se sustenta sobre dos ejes como telón de fondo: el mundo de la comunicación y el de la política. Las sombras del poder, los hilos que se mueven para conseguir los objetivos políticos a cualquier precio y la relación de dependencia entre el periodismo y la política son algunos de los principales temas del libro. Impactante y desgarradora, la narración de Thomas Spencer de los momentos que le llevaron a triunfar como publicista y asesor de imagen, desde los años ochenta hasta la actualidad, describe con gran acierto y un sobrecogedor realismo los turbios mecanismos de los que se sirve el poder, así como el sofisticado escenario que las grandes fortunas y los medios de comunicación ponen al servicio de los políticos, en ocasiones simples actores en una representación escrita por otros. Una narración absorbente por la que desfila todo el esplendor y la miseria de una época, al tiempo que desnuda la verdadera esencia de quienes manejan los hilos de nuestras vidas. La impúdica confesión de Thomas Spencer interpela al lector sin tregua y nos obliga a ver la naturaleza del poder en toda su crudeza a través de la historia del mayor de los canallas.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-05T06:08:36.553735+00:00"/>
+        <meta name="calibre:title_sort" content="Historia de un canalla"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

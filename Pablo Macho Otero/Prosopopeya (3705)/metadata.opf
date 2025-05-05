@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3705</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9abe5a2-f9b4-4f15-9cc3-638d7dbece6f</dc:identifier>
+        <dc:title>Prosopopeya</dc:title>
+        <dc:creator opf:file-as="Otero, Pablo Macho" opf:role="aut">Pablo Macho Otero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un actor en plena crisis existencial encuentra un mito sobre el origen del teatro. Sin saberlo, se zambullirá en un juego de espejos, rostros y máscaras en el que intentará encontrar respuestas al enigma de la identidad. ¿Y si el mito primigenio fuera uno mismo? Al estilo de los autores del Siglo de Oro, Pablo Macho Otero explora a través de personajes mitológicos la epopeya de enfrentarse a los misterios del yo. Ante el auge de la identidad individual y la autoficción, el autor propone una ficción verdadera y no ahonda en las etiquetas que nos distinguen, sino en lo que nos asemeja. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Comanegra</dc:publisher>
+        <dc:language>cat</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-05T06:32:43.745537+00:00"/>
+        <meta name="calibre:title_sort" content="Prosopopeya"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3691</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36865e9f-e3ec-4c61-8450-a101d9a800f8</dc:identifier>
+        <dc:title>El silencio de la ciudad blanca</dc:title>
+        <dc:creator opf:file-as="García Sáenz de Urturi, Eva" opf:role="aut">Eva García Saénz de Urturi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-14T22:00:00+00:00</dc:date>
+        <dc:description>Tasio Ortiz de Zárate, el brillante arqueólogo condenado por los extraños asesinatos que aterrorizaron la tranquila ciudad de Vitoria hace dos décadas, está a punto de salir de prisión en su primer permiso cuando los crímenes se reanudan de nuevo: en la emblemática Catedral Vieja de Vitoria, una pareja de veinte años aparece desnuda y muerta por picaduras de abeja en la garganta. Poco después, otra pareja de veinticinco años es asesinada en la Casa del Cordón, un conocido edificio medieval.El joven inspector Unai López de Ayala —alias Kraken—, experto en perfiles criminales, está obsesionado con prevenir los crímenes antes de que ocurran, una tragedia personal aún fresca no le permite encarar el caso como uno más. Sus métodos poco ortodoxos enervan a su jefa, Alba, la subcomisaria con la que mantiene una ambigua relación marcada por los crímenes… El tiempo corre en su contra y la amenaza acecha en cualquier rincón de la ciudad. ¿Quién será el siguiente?Una novela negra absorbente que se mueve entre la mitología y las leyendas de Álava, la arqueología, los secretos de familia y la psicología criminal. Un noir elegante y complejo que demuestra cómo los errores del pasado pueden influir en el presente.</dc:description>
+        <dc:publisher>2016</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-84-08-15467-9</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-05T06:08:36.903503+00:00"/>
+        <meta name="calibre:title_sort" content="silencio de la ciudad blanca, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

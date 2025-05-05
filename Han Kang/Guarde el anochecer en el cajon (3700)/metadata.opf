@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0aafc249-323e-4429-ad9c-7c84bf7583fd</dc:identifier>
+        <dc:title>Guardé el anochecer en el cajón</dc:title>
+        <dc:creator opf:file-as="Kang, Han" opf:role="aut">Han Kang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-10T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;PREMIO NOBEL DE LITERATURA 2024 &lt;/p&gt;
+&lt;p&gt;La autora que ha cautivado a millones de lectores en el mundo con novelas como La vegetariana y La clase de griego nos sorprende y deslumbra también como poeta. &lt;/p&gt;
+&lt;p&gt;«Una de las escritoras más sublimes que pueblan el escenario contemporáneo».&lt;/p&gt;
+&lt;p&gt;Berna González Harbour, El País&lt;/p&gt;
+&lt;p&gt;Premio Nobel de Literatura en 2024, Han Kang se revela en Guardé el anochecer en el cajón como la gran poeta que alienta tras sus muy celebradas ficciones.&lt;/p&gt;
+&lt;p&gt;El «anochecer», ese espacio ambiguo entre dos luces, se convierte en el escenario en el que una voz dolida e inteligente nos habla de la soledad, la enfermedad, el encuentro entre muertos y vivos, la fuerza frágil de la palabra, la necesidad del arte.&lt;/p&gt;
+&lt;p&gt;Sin conocer en detalle la anécdota que genera el poema, el lector ingresa sin embargo en un ámbito de inmediata y poderosa intimidad que acaba haciéndole partícipe de una especial trascendencia cotidiana.&lt;/p&gt;
+&lt;p&gt;Se trata de una poesía delicada, oscura, inquietante y tremendamente visceral, que pone el cuerpo y las emociones en su mismo centro. Como ha dicho la autora en The New Yorker, «el lenguaje es como una flecha que siempre falla el blanco por un margen estrecho y es también algo que transmite emociones y sensaciones que producen dolor».&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-05T06:32:42.122536+00:00"/>
+        <meta name="calibre:title_sort" content="Guardé el anochecer en el cajón"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79b580ca-80c0-4259-ae54-99ddd3703010</dc:identifier>
+        <dc:title>El libro negro de las horas</dc:title>
+        <dc:creator opf:file-as="Urturi, Eva García Saénz de" opf:role="aut">Eva García Saénz de Urturi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-01T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Alguien que lleva muerto cuarenta años no puede ser secuestrado y, desde luego, no puede sangrar.&lt;/p&gt;&lt;p&gt;Vitoria, 2022. El exinspector Unai López de Ayala —alias Kraken— recibe una llamada anónima que cambiará lo que cree saber de su pasado familiar: tiene una semana para encontrar el legendario &lt;i&gt;Libro Negro de las Horas&lt;/i&gt;, una joya bibliográfica exclusiva, si no, su madre, quien descansa en el cementerio desde hace décadas, morirá.&lt;/p&gt;&lt;p&gt;¿Cómo es esto posible?&lt;/p&gt;&lt;p&gt;Una carrera contra reloj entre Vitoria y el Madrid de los bibliófilos para trazar el perfil criminal más importante de su vida, uno capaz de modificar el pasado, para siempre.&lt;/p&gt;&lt;p&gt;Me llamo Unai. Me llaman Kraken.&lt;/p&gt;&lt;p&gt;Aquí termina tu caza, aquí comienza la mía.&lt;/p&gt;&lt;p&gt;¿Y si tu madre fuera la mejor falsificadora de libros antiguos de la historia?&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">64106</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-05T06:08:36.726324+00:00"/>
+        <meta name="calibre:title_sort" content="libro negro de las horas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

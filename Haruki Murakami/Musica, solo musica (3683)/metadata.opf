@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">789487a9-fd96-40ef-b070-9c00ad7b420c</dc:identifier>
+        <dc:title>Música, sólo música</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki &amp; Ozawa, Seiji" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:creator opf:file-as="Murakami, Haruki &amp; Ozawa, Seiji" opf:role="aut">Seiji Ozawa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Amazon Ember','Arial','sans-serif'"&gt;&lt;span style="color: #000000"&gt;Todo el mundo sabe que a Haruki Murakami le apasiona tanto la música moderna y el jazz como la música clásica. Esta pasión no solo le llevó a regentar en su juventud un club de jazz, sino a impregnar de referencias y vivencias musicales la mayoría de sus novelas y obras. En esta ocasión, el escritor japonés más famoso del mundo comparte con sus lectores sus querencias, sus opiniones y, sobre todo, sus ansias de saber sobre un arte, el musical, que hermana a millones de seres humanos en todo el mundo. Para ello, a lo largo de dos años, Murakami y su amigo Seiji Ozawa, antiguo director de la Boston Symphony Orchestra, mantuvieron estas deliciosas conversaciones sobre conocidas piezas de Brahms y Beethoven, de Bartok y Mahler, sobre directores de orquesta como Leonard Bernstein y solistas excepcionales como Glenn Gould, sobre piezas de cámara y sobre ópera. Así, mientras escuchan discos y comentan distintas interpretaciones, el lector asiste a jugosas confidencias y curiosidades que le contagiarán el entusiasmo y el placer inacabable de disfrutar de la música con oídos nuevos. &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">4bbbdc7e-8de6-4caa-ad05-26013d55cf66</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-04T16:36:30.185062+00:00"/>
+        <meta name="calibre:title_sort" content="Música, sólo música"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

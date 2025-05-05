@@ -5,15 +5,18 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b3b68722-19cf-439d-8d15-915e336512fe</dc:identifier>
         <dc:title>El ingenioso hidalgo Don Quijote de la Mancha</dc:title>
         <dc:creator opf:file-as="Cervantes, Miguel" opf:role="aut">Miguel Cervantes</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1605-10-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Work Sans','Source Sans Pro','-apple-system','BlinkMacSystemFont','Segoe UI','Roboto','Helvetica Neue','Arial','sans-serif'; font-size: 16px"&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt;Un clásico inagotable, que sigue hablándonos como en la epoca de su primera publicación.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Work Sans','Source Sans Pro','-apple-system','BlinkMacSystemFont','Segoe UI','Roboto','Helvetica Neue','Arial','sans-serif'; font-size: 16px"&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt;Edición de Florencio Sevilla Arroyo, catedrático de literatura española en la Universidad Autónoma de Madrid&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Work Sans','Source Sans Pro','-apple-system','BlinkMacSystemFont','Segoe UI','Roboto','Helvetica Neue','Arial','sans-serif'; font-size: 16px"&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt;Un exito desde su publicación en dos partes (1605 y 1615),&lt;/span&gt;&lt;span style="color: #000000"&gt; &lt;/span&gt;&lt;em style="color: #000000"&gt;Don Quijote de la Mancha&lt;/em&gt;&lt;span style="color: #000000"&gt; es con toda seguridad la mayor novela jamás escrita. Cuenta la historia de un hidalgo que, enloquecido por la lectura excesiva, recorre España en busca de aventura, justicia y gloria. Las múltiples interpretaciones de la obra&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>www.elejandria.com</dc:publisher>
         <dc:identifier opf:scheme="URN">urn:uuid:2d9a634c-1959-11e7-8fff-4c72b9252ec6</dc:identifier>
         <dc:language>spa</dc:language>
         <dc:subject>Ficción</dc:subject>
         <dc:subject>Clásicos</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Miguel Cervantes&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-18T16:51:23.039013+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-18T16:51:23+00:00"/>
         <meta name="calibre:title_sort" content="ingenioso hidalgo Don Quijote de la Mancha, El"/>
     </metadata>
     <guide>

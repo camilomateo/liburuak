@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4b7ee6c-643f-4e0f-986b-3be54c23e92a</dc:identifier>
+        <dc:title>La Biblia de Barro</dc:title>
+        <dc:creator opf:file-as="Julia Navarro" opf:role="aut">Julia Navarro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-15T02:01:49+00:00</dc:date>
+        <dc:description>En Roma, un hombre se confiesa: Padre, me acuso de que voy a matar a un hombre. Al mismo tiempo Clara Tannenberg, una joven arqueóloga nieta de un poderoso hombre de oscuro pasado, anuncia en el transcurso de un congreso el descubrimiento de unas tablillas que, de ser auténticas, serían la prueba científica de la existencia del patriarca Abraham: se trata de la obra de un escriba que recogió el relato del profeta sobre la creación del mundo, la confusión de las lenguas en Babel y el Diluvio Universal. Una auténtica Biblia de Barro. Junto a un equipo de arqueólogos, poco antes del inicio de la última guerra del Golfo, Clara pondrá en marcha unas arriesgadas excavaciones que alientan a muchas personas a acabar con su vida y la de su abuelo: desde millonarios traficantes de arte hasta cuatro amigos que no desistirán hasta culminar una implacable venganza.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Lang:es</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-05T06:08:47.034939+00:00"/>
+        <meta name="calibre:title_sort" content="Biblia de Barro, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

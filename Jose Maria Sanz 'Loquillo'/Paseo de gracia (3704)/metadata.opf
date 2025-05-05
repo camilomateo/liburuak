@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3704</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c2308b7-3830-4d85-87f4-6c42cab7d970</dc:identifier>
+        <dc:title>Paseo de gracia</dc:title>
+        <dc:creator opf:file-as="'Loquillo', José María Sanz" opf:role="aut">José María Sanz 'Loquillo'</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-03T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La Barcelona actual, a través de los cinematográficos ojos de Loquillo.&lt;/p&gt;
+&lt;p&gt;Paseo degracia, más allá de una autobiografía, es un recorrido por la ciudad de Barcelona, por sus calles y su esencia. Por todos los cambios y evoluciones que ha vivido la Ciudad Condal y quienes viven en ella.&lt;/p&gt;
+&lt;p&gt;La propia historia, pasada y presente, de Loquillo es parte intrínseca de esa ciudad y la influencia en su arte es palpable. Paseo degracia también rescata aquellos artistas, de diversos ámbitos, que ayudaron a conformar al Loquillo actual. Todo ello es narrado con un estilo muy lírico y que se dirige al lector para hacerle partícipe de toda esta historia.&lt;/p&gt;
+&lt;p&gt;Además de un testimonio de su evolución y crecimiento como artista, es un homenaje a su ciudad y a sus raíces, aquella que lo vio convertirse en un icono del rock español.&lt;/p&gt;
+&lt;p&gt;"En todos y cada uno de esos espacios, que conciernen al ser humano y al profesional, ha brillado Loquillo con luz propia".&lt;/p&gt;
+&lt;p&gt;Luis Alberto de Cuenca&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Roca Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-05T06:32:43.433141+00:00"/>
+        <meta name="calibre:title_sort" content="Paseo de gracia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c9f3794-2a73-4c09-8f10-d5650ef501f0</dc:identifier>
+        <dc:title>Utilidad de las desgracias</dc:title>
+        <dc:creator opf:file-as="Aramburu, Fernando" opf:role="aut">Fernando Aramburu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Su infancia en un arrabal de San Sebastián, su memoria del dolor en los años oscuros en el País Vasco, su experiencia como maestro en Alemania, sus rituales a la hora de escribir y de encontrarse con los lectores, algunos paseos y viajes, las lecciones extraídas de una atenta lectura de Albert Camus: este volumen reúne los mejores artículos literarios de Fernando Aramburu. Son piezas deliciosas cargadas de humor, sensibilidad y sabiduría, y pueden leerse como apuntes narrativos, retazos de memorias o como un pequeño tratado vital a partir de unas cuantas certezas que sirven como brújula moral. Un libro acogedor, en la senda del humanismo, sereno, colorista, de gusto por los detalles cotidianos, de celebración de los pájaros y las ardillas, de amor a la literatura y de humor contra las pedanterías, de ridiculización de los fanáticos y de solidaridad con las víctimas.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tusquets</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e2eac8a5-ada7-40f7-a582-a2794111bbbf</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-04T16:36:29.631973+00:00"/>
+        <meta name="calibre:title_sort" content="Utilidad de las desgracias"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

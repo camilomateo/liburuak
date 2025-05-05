@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3696</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b57a84a9-28ed-4060-8d0c-b559d71bef85</dc:identifier>
+        <dc:title>El barco fantasma</dc:title>
+        <dc:creator opf:file-as="Mosse, Kate" opf:role="aut">Kate Mosse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una apasionante novela histórica de aventuras escrita por Kate Mosse, la dama de la novela histórica. Una autora con más de 8 millones de lectores en todo el mundo. Corre el año 1612 y en las costas de las Islas Canarias surca sus aguas un misterioso barco envuelto siempre en una espesa neblina: se trata del Old Moon, un pequeño navío que da caza a barcos piratas. Capitaneado por Louise, una mujer adelantada a su tiempo, y tripulado por marineros leales a ella en un mundo dominado por los hombres, todos saben muy bien que lsu misión debe permanecer en secreto, por lo que libran sus batallas a escondidas de una ley que nunca los defenderá. Acechada por fantasmas del pasado, cuando se ponga precio a sucabeza deberá tomar una decisión que cambiará el rumbo de su vida, y de toda su tripulación, para siempr&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Planeta</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788408301943</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">mqtCEQAAQBAJ</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Las crónicas de la familia Joubert"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2025-05-05T06:32:40.594082+00:00"/>
+        <meta name="calibre:title_sort" content="barco fantasma, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

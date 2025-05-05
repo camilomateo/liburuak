@@ -5,10 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">cb2ae502-ad3d-41e5-88df-65c3cb79e491</dc:identifier>
         <dc:title>La República</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Platón</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-09-25T22:00:00+00:00</dc:date>
-        <dc:language>es</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Platón&quot;: &quot;&quot;}"/>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Work Sans','Source Sans Pro','-apple-system','BlinkMacSystemFont','Segoe UI','Roboto','Helvetica Neue','Arial','sans-serif'; font-size: 16px"&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt;La República es la obra más conocida de Platón y es uno de los diálogos más importantes en donde expresa su concepción del arte, lo político, la sociedad, la justicia, la inmortalidad, la virtud, el bien y el mal. Se trata de un diálogo entre Sócrates y otros personajes. El propósito de Platón es el estudio de lo justo y de lo injusto, y la demostración de la necesidad moral, tanto para el Estado como para el individuo, de regir toda su conducta según la justicia; esto es, según la virtud, o precisamente más, según la idea del bien, principio de buen orden para las sociedades y para las almas. La obra está compuesta por diez libros.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>spa</dc:language>
         <meta name="calibre:timestamp" content="2023-01-18T17:26:53+00:00"/>
         <meta name="calibre:title_sort" content="República, La"/>
     </metadata>
