@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1665b9f4-6406-4c7f-9484-d97c77b711e6</dc:identifier>
+        <dc:title>El Madrid de Antonia Scott</dc:title>
+        <dc:creator opf:file-as="Gómez-Jurado, Juan" opf:role="aut">Juan Gómez-Jurado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #fafafa; font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;Prólogo de Reina Roja.&lt;/span&gt;&lt;span style="color: #434343"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #fafafa; font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;En noviembre de 2018, cuando salió a la venta Reina Roja, muchos periodistas y lectores me preguntaron por qué había decidido escribir un «thriller madrileño», en el que mi ciudad no es solo un escenario, sino que se convierte en un personaje más de la historia.&lt;/span&gt;&lt;span style="color: #434343"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #fafafa; font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;La respuesta es sencilla: nací en Madrid y, después de un tiempo fuera, volví aquí hace algunos años. Al regresar encontré una ciudad muy distinta de la que recordaba; o tal vez fuera yo el que había cambiado. Fue entonces cuando pensé que, después de las modas de los thrillers ambientados en Estados Unidos o en fríos y solitarios pueblos nórdicos, tal vez había llegado el momento de contar una trama de intriga que solo pudiera suceder en Madrid.&lt;/span&gt;&lt;span style="color: #434343"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #fafafa; font-family: 'Stolzl Book','Helvetica','Arial','sans-serif'"&gt;&lt;span style="color: #434343; background-color: #fafafa"&gt;Este librito contiene una ruta tras los pasos de Antonia Scott por algunos lugares y rincones de la ciudad. Hay grandes avenidas llenas de ruido y de gente, iglesias antiguas en barrios castizos, museos famosos que todavía guardan secretos y calles donde aún palpitan los mejores versos del Siglo de Oro. Y, por supuesto, bares donde se sirven las mejores croquetas del mundo.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">56488</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:series" content="Antonia Scott"/>
+        <meta name="calibre:series_index" content="0.5"/>
+        <meta name="calibre:timestamp" content="2025-05-06T06:30:04.838459+00:00"/>
+        <meta name="calibre:title_sort" content="Madrid de Antonia Scott, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

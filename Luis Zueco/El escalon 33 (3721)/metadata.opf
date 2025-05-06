@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3721</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89d75676-fb32-4721-89d2-7921f09f4743</dc:identifier>
+        <dc:title>El escalón 33</dc:title>
+        <dc:creator opf:file-as="Zueco, Luis" opf:role="aut">Luis Zueco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-10T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;UN EXTRAÑO MANUSCRITO&lt;/p&gt;
+&lt;p&gt;Madrid, 2012. Silvia disfruta de una vida bastante tranquila; trabaja en la Biblioteca Nacional, tiene un grupo de amigas estupendas y todas las noches se pierde entre las páginas de uno de esos libros antiguos que colecciona con devoción. Hasta que un día llega a sus manos un misterioso manuscrito que lo cambia todo para siempre.&lt;/p&gt;
+&lt;p&gt;UN SECRETO ENTRE CASTILLOS MEDIEVALES&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Cuando se dé cuenta de que la persiguen y de que su vida corre peligro, pedirá ayuda a Alex, un experto en castillos medievales, para descifrar el enigma. Juntos recorrerán España en una frenética carrera mientras esquivan a ladrones de arte, policías veteranos y sicarios sin escrúpulos.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;UN ENIGMA HISTÓRICO A RITMO DE THRILLER&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Escrita con el estilo trepidante e inconfundible de Luis Zueco, El escalón 33 nos transporta a un viaje por los castillos medievales y nos demuestra que, entre las piedras de sus muros, se pueden ocultar los mayores secretos de la Historia.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-06T09:29:20.806938+00:00"/>
+        <meta name="calibre:title_sort" content="escalón 33, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

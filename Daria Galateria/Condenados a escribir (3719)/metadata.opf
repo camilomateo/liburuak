@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3719</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e28bb1e7-e5f0-41ce-85bc-8a2130dab1d8</dc:identifier>
+        <dc:title>Condenados a escribir</dc:title>
+        <dc:creator opf:file-as="Galateria, Daria" opf:role="aut">Daria Galateria</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-10T06:19:29+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Un heterodoxo breviario de la autora de Trabajos forzados que desvela la peripecia de algunos astros de la literatura que en algún momento de su vida dieron con sus huesos en la cárcel. &lt;/p&gt;
+&lt;p&gt;Atraco a mano armada, difamación, asesinato, conspiración, sustracción de obras de arte, composición de poemas elegiacos a la muerte de Hitler. De Verlaine a Burroughs, de Norman Mailer a Hans Fallada, de Giacomo Casanova a Curzio Malaparte, muchos han sido los literatos que, a lo largo de la historia, han purgado sus ofensas y delitos en la cárcel. Y han sobrevivido para contarlo. Chester Himes o Jean Genet se pasaron buena parte de su vida en el fondo de un calabozo infecto. Otros, como el Marqués de Sade o Heinrich von Kleist, iniciaron sus carreras literarias tras los barrotes de una prisión. Incluso se han dado casos, como los de Louise Michel o Goliarda Sapienza, de escritoras que experimentaron una irónica sensación de emancipación y libertad tras entrar en presidio. De un modo u otro, la cárcel ha marcado la obra de aquellos que pasaron por ella, porque la imaginación crece cuando es prisionera, y, sobre todo, crece el deseo.&lt;/p&gt;
+&lt;p&gt;Daria Galateria nos invita a un erudito y divertido peregrinaje de celda en celda: desde las oscuras y húmedas estancias donde sufrieron y amaron Voltaire y Diderot, hasta los calabozos que acogieron a William Burroughs o Ezra Pound.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Editorial Impedimenta SL</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-06T09:29:20.482691+00:00"/>
+        <meta name="calibre:title_sort" content="Condenados a escribir"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

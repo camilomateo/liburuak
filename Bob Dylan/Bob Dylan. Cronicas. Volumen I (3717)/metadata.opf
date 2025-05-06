@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3717</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14fc01ab-a95a-44f4-b9a1-4b3d82084dfa</dc:identifier>
+        <dc:title>Bob Dylan. Crónicas. Volumen I</dc:title>
+        <dc:creator opf:file-as="Dylan, Bob" opf:role="aut">Bob Dylan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Los prolegómenos de la crónica vital y profesional de Bob Dylan nos remontan, a través de una mirada abierta, al Greenwich Village de 1961, testigo principal de su llegada a Nueva York. De ahí parte la andadura iniciática que el bardo desgrana en este primer volumen de la trilogía autobiográfica cuando, recién llegado a Nueva York, merodea por el Village en pos de su destino. El Nueva York de los sesenta es una ciudad mágica llena de posibilidades: fiestas cargadas de humo que duran hasta el amanecer; despertares literarios; amores efímeros y amistades a prueba de fuego. Dylan alterna observaciones elegiacas con retazos de recuerdos aderezados con comentarios agudos e incisivos. Los relatos de sus incursiones a otros lugares como Nueva Orleans, Woodstock, Minnesota y el Oeste convierten a Crónicas en un vivido recordatorio personal de una época irrepetible.
+Revelador, poético, apasionado e ingenioso, este primer volumen de las memorias es una ventana fascinante a las ideas de Bob Dylan y las influencias que lo marcaron. La voz de Dylan es inconfundiblemente americana: de espíritu generoso, comprometida, fantasiosa y rítmica. Las incomparables dotes de narrador y la exquisita expresividad que constituyen el sello distintivo de su música hacen de Crónicas una reflexión penetrante sobre la vida y sobre las personas y los lugares que moldearon al hombre y su arte.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>Arte</dc:subject>
+        <dc:subject>memorias</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-06T06:30:05.683342+00:00"/>
+        <meta name="calibre:title_sort" content="Bob Dylan. Crónicas. Volumen I"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

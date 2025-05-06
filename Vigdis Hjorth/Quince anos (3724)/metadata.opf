@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3724</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30092631-b3c9-4cc5-9a70-1a6ebcc82f43</dc:identifier>
+        <dc:title>Quince años</dc:title>
+        <dc:creator opf:file-as="Hjorth, Vigdis" opf:role="aut">Vigdis Hjorth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-02-15T09:49:28+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La calma en la vida de Paula se rompe el verano en que descubre el montón de cartas que su madre le ha escrito a la abuela. La vida que su madre describe en las cartas es irreconocible: dice que su hermana Elisabet obtuvo buenos resultados en sus exámenes, cuando en realidad los suspendió; dice que Elisabet cantó un solo en el recital de Navidad, cosa que no hizo; y dice que el padre ha sido ascendido a jefe de su oficina. A Paula apenas se la menciona.&lt;br&gt;&lt;br&gt;La simulación de su madre sorprende a Paula, que ahora está rodeada de mentiras inventadas por un adulto. ¿Cómo debería relacionarse con su madre? ¿Quién puede ser ella en la familia ahora? Paula está a punto de convertirse en una adolescente y el mundo se abre ante ella como un lugar terrible y maravilloso a la vez.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Nórdica Libros</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-06T09:29:42.298135+00:00"/>
+        <meta name="calibre:title_sort" content="Quince años"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

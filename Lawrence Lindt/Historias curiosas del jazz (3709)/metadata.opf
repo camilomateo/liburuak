@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3709</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2755324-a83d-450a-8cd8-3def7dbf37b4</dc:identifier>
+        <dc:title>Historias curiosas del jazz</dc:title>
+        <dc:creator opf:file-as="Lindt, Lawrence" opf:role="aut">Lawrence Lindt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-24T22:00:00+00:00</dc:date>
+        <dc:description>Lawrence Lindt, periodista, escritor y autor de los libros "Historias curiosas de la música" e "Historias insólitas de la música" nos propone un acercamiento al fabuloso mundo del jazz a través de las pequeñas historias que jalonan este estilo musical desde sus primeros compases. El jazz nació en Nueva Orleans. Fue el ritmo que los esclavos africanos trajeron consigo y que pronto hicieron suyo los pobladores blancos de América. Su contacto con los himnos religiosos de las iglesias y con la música de las bandas que recorrían las calles de las ciudades lo transformaron en lo que conocemos hoy en día. Algunas de las historias que abarcan su trayectoria hasta hoy florecen en la apasionante crónica de este libro para dar color e ilustrar a una música que empezó de forma marginal y se ha convertido en un patrimonio universal. &lt;li&gt; ¿De que forma curiosa surgió Rhapsody in Blue? &lt;li&gt; ¿Cuál es el peor disco de la historia del jazz? &lt;li&gt; ¿Qué grupo musical ha sido el más longevo? &lt;li&gt; ¿Cuál...</dc:description>
+        <dc:publisher>Vorpal Editorial</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Historia musical</dc:subject>
+        <dc:subject>Jazz</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-06T06:30:04.133732+00:00"/>
+        <meta name="calibre:title_sort" content="Historias curiosas del jazz"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

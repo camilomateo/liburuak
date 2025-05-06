@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3716</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">922c4d89-a48c-4550-817b-ba5a5b8196ec</dc:identifier>
+        <dc:title>Bob Dylan. Letras completas</dc:title>
+        <dc:creator opf:file-as="Dylan, Bob" opf:role="aut">Bob Dylan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-27T23:00:00+00:00</dc:date>
+        <dc:description>Bob Dylan, cantautor de cantautores, recientemente galardonado con el Premio Nobel de Literatura -del que sólo hizo acuse de recibo por unas horas en su web-, presenta la edición integral de su cancionero completo, en edición bilingüe. Esta edición ofrece, por fin, la posibilidad de explorar el vastísimo -casi inconmensurable- universo poético del bardo de Minnesota, desde sus primeros tientos profesionales como cantautor contestatario e ídolo de su generación, hasta el día de la revelación en el que se obró el milagro -sacrilegio para muchos- que le llevó a abrazar las armas del rocanrol y electrificar su imaginario musical, despojándolo de las esencias folk que hasta entonces lo habían caracterizado. Con esa transformación también llegaría un nuevo lenguaje poético y su inclusión definitiva en el olimpo de los grandes del rock. De sus fugaces conversiones religiosas a otros credos y otros tantos desvaríos también da noticia el propio cancionero, una obra que deviene en hoja de ruta lírica de la singladura vital de Bob Dylan. Con este volumen Malpaso inicia la publicación de sus obras completas. Le seguirán 'Crónicas I', 'Tarántula' y 'Fotorretórica de Hollywood'.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-06T06:30:05.355100+00:00"/>
+        <meta name="calibre:title_sort" content="Bob Dylan. Letras completas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

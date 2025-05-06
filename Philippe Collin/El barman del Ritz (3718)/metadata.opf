@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3718</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15f6e22a-edb8-4315-9465-3e21bd08b211</dc:identifier>
+        <dc:title>El barman del Ritz</dc:title>
+        <dc:creator opf:file-as="Collin, Philippe" opf:role="aut">Philippe Collin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Una ciudad mítica, París. Un lugar mítico, el Grand Hotel Ritz. Un barman mítico, Frank Meier, el barman del Ritz. Todos habían degustado sus célebres cócteles: Ernest Hemingway, Scott Fitzgerald, Coco Chanel, Mistinguett, Sacha Guitry, Jean Cocteau, Arletty. Pero en julio de 1940, las tropas alemanas ocupan París y sus responsables deciden hospedarse en el Ritz, como lo harán los jerarcas nazis como Göring y Goebbels cuando visiten la capital francesa. El bar del Ritz se convierte entonces en uno de los centros del París ocupado donde confluyen los mandos de la Gestapo, las SS y la Wehrmacht, los colaboracionistas franceses, hombres de negocios sin escrúpulos, aduladores, artistas, espías, miembros de la Resistencia. Mientras, fuera reinan el hambre, los oportunistas, la violencia contra los judíos, el miedo. Frank Meier, conocedor de los gustos de cada uno, sigue preparando sus cócteles, atento a todo lo que se dice, imperturbable en apariencia. Pero el barman del Ritz guarda un secreto que nadie conoce, y es mejor que nadie sepa: el barman del Ritz es judío. La novela que se ha convertido en una fenómeno editorial en Francia con más de 300.000 ejemplares vendidos en menos de ocho meses.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Galaxia Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788410317598</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-06T09:29:20.319689+00:00"/>
+        <meta name="calibre:title_sort" content="barman del Ritz, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

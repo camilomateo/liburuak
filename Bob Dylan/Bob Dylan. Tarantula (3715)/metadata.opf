@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3715</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ac002f3-dc40-402b-a711-2555bb9b09db</dc:identifier>
+        <dc:title>Bob Dylan. Tarántula</dc:title>
+        <dc:creator opf:file-as="Dylan, Bob" opf:role="aut">Bob Dylan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1970-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Tarántula es una novela atípica dentro de la prosa narrativa. Escrita entre los años 1965 y 1966, aunque no publicada hasta 1971, el autor despliega una enorme capacidad para abrumar con el uso de metáforas y juegos de palabras que, como una auténtica catarata de imágenes, se ciernen sobre el lector impulsándolo a buscar conexiones entre ellas o servir de semilla, o sugerencia, hacia otras apenas insinuadas. Una novela que, en su momento, sembró el desconcierto entre admiradores y críticos y que ahora se puede disfrutar en edición bilingüe.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">49119</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-06T06:30:05.189181+00:00"/>
+        <meta name="calibre:title_sort" content="Bob Dylan. Tarántula"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

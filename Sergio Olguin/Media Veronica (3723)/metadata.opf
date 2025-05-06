@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3723</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1fdc3b33-01ac-40cd-a662-b784e66c0727</dc:identifier>
+        <dc:title>Media Verónica</dc:title>
+        <dc:creator opf:file-as="Olguín, Sergio" opf:role="aut">Sergio Olguín</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La nueva y esperada entrega de la saga de Verónica Rosenthal. Una novela llena de emoción y amor.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;«Y le dio un suave beso en los labios. En ese breve momento sintió que podía compartir los sueños con ese hombre que lloraba».&lt;/p&gt;
+&lt;p&gt;Verónica Rosenthal, nuestra audaz periodista de investigación, pasa por una etapa dolorosa e incierta: su padre, Aarón Rosenthal, uno de los abogados más prestigiosos de la Argentina, tiene una enfermedad terminal. Además, Federico, su expareja, está por tener un bebé con una joven colega. Su mundo está destrozado, y Vero decide poner en pausa su vida para dedicarse a cuidar a Aarón y aprovechar el último tiempo con él. Así, conoce de primera mano la historia de amor que tuvo con una hermosa militante en los años 70, hija de la familia militar y de quien no sabe nada hace más de cuarenta años. Por otra parte, Manuel Cobos García, un renombrado médico sevillano que vive en Estados Unidos, adopta a Aarón como su paciente favorito y se muda a Buenos Aires, donde empieza a frecuentar a su familia. Cuando conoce a Verónica, estalla una pasión imprevista e irrefrenable que les va a cambiar la vida a los dos. La nueva entrega de la saga de Verónica Rosenthal nos ofrece una historia repleta de aventuras, secretos, declaraciones de amor y el doloroso final que implican todas las despedidas.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial Argentina</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Verónica Rosenthal"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2025-05-06T09:29:21.125697+00:00"/>
+        <meta name="calibre:title_sort" content="Media Verónica"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

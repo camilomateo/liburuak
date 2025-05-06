@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3711</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3134ad66-abeb-4fae-90ee-72428e8a12c4</dc:identifier>
+        <dc:title>La historia secreta del señor White</dc:title>
+        <dc:creator opf:file-as="Gómez-Jurado, Juan" opf:role="aut">Juan Gómez-Jurado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Si has leído El Paciente, el espectacular thriller de Juan Gómez-Jurado, esta novela corta te descubrirá muchas de las claves de lo que ocurre con el señor White, el antagonista de la novela. Si no lo has leído, no sabemos qué estás haciendo con tu vida.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-06T06:30:04.538733+00:00"/>
+        <meta name="calibre:title_sort" content="historia secreta del señor White, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

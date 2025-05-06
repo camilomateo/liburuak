@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3722</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06da3d2e-65c4-4bf3-b028-b225fd3a031b</dc:identifier>
+        <dc:title>Extranjera</dc:title>
+        <dc:creator opf:file-as="Heredia, Gonzalo" opf:role="aut">Gonzalo Heredia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;En la cama de un hospital, una mujer al borde de la muerte mueve los párpados de modo casi imperceptible. A su lado, su nieta, que apenas la conoce, le acaricia la mano con dulzura. En ese territorio de misterio y silencio que las une accidentalmente, las dos mujeres bucean desesperadas en sus linajes para comprender quiénes son. La experiencia de inmigración, los lazos rotos, el alcoholismo, la distancia imposible con el mundo que las rodea. Extranjera es un canon a dos voces y a dos tiempos, en el que los relatos se trenzan y forman un canto doloroso. ¿Cuánto tiempo se puede mantener escondido un secreto? ¿Cuál es la densidad de lo oculto? Inevitablemente, las obsesiones, las miserias y las virtudes de los personajes se reproducen. En su tercera novela, Gonzalo Heredia combina lo brutal y lo sutil con una destreza asombrosa para reflexionar sobre lo imprevisible de los vínculos.&lt;/p&gt;
+&lt;p&gt;«Esta historia mezcla la sutileza de un diario íntimo y la contundencia del alarido de un tren. Es dura y es cierta: a veces, en la vida real, eso es lo mismo. Se requiere de una pluma habilidosa para transformar lo sombrío en una bellísima pieza literaria».&lt;br&gt;Margarita García Robayo&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial Argentina</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-06T09:29:20.957650+00:00"/>
+        <meta name="calibre:title_sort" content="Extranjera"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
