@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3728</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a8f4c8a-476b-4819-b85c-7a366201a5da</dc:identifier>
+        <dc:title>Línea de fuego</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-05T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Julio de 1938, miles de jóvenes combaten en la trágica batalla del Ebro.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-weight: 600; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Sus nombres no son los que recuerda la Historia, pero cuanto les sucedió forma parte de nuestra memoria.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-style: italic; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;«Es lo malo de estas guerras civiles, ¿verdad?... Oyes a un enemigo llamar a su madre en el mismo idioma que tú, y como que así, ¿no?... Se te quitan las ganas.»&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Durante la noche del 24 al 25 de julio de 1938, la XI Brigada Mixta del ejército de la República cruza el río para establecer una cabeza de puente en Castellets del Segre. En las inmediaciones del pueblo, medio batallón de infantería, un tabor marroquí y una compañía de la Legión defienden la zona. Está a punto de comenzar la batalla del Ebro, la más cruda y sangrienta que se libró nunca en suelo español.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Combinando de forma magistral la ficción con datos históricos y testimonios personales, Arturo Pérez-Reverte sitúa al lector, con sobrecogedor realismo, entre quienes, voluntarios o a la fuerza, lucharon en los frentes de batalla de la Guerra Civil. Sus nombres no son los que recuerda la Historia, pero cuanto les sucedió resuena en estas páginas con el dramatismo de una memoria que nos pertenece a todos.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-weight: 600; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #000000"&gt;Ésta no es una novela sobre la Guerra Civil, sino sobre los hombres y mujeres que combatieron en ella. La historia de los padres y abuelos de numerosos españoles de hoy.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fb82c547-4b2e-48cf-8dd9-5fe3b740c487</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-07T08:00:33.112027+00:00"/>
+        <meta name="calibre:title_sort" content="Línea de fuego"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

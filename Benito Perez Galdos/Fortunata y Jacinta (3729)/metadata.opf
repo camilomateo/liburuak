@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ebf75dc-22c5-42b4-974b-6b24cda9c24a</dc:identifier>
+        <dc:title>Fortunata y Jacinta</dc:title>
+        <dc:creator opf:file-as="Galdós, Benito Pérez" opf:role="aut">Benito Pérez Galdós</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1886-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Entre otros equívocos que ha suscitado esta obra, no es el menor el creer —a juzgar por el título— que los personajes centrales de la novela son las dos mujeres. Antes bien, la acción gira en todo momento en torno de un hombre, ya por presencia ya por influencia, y ése es sin duda el personaje central: Don Juan Santa Cruz, joven, rico y señorito, burgués pero sin empuje, de buen fondo pero absolutamente superficial, afectuoso y egoísta y sin duda muy madrileño y muy español. Porque ella era guapa y porque así era el uso, toma como amante a una muchacha de clase baja —Fortunata—, a la que conoce, visita y luego devuelve a un ambiente de menestrales y artesanos de poca monta, situados a medio camino entre el proletariado y la mala vida, y donde es común el dolor y complicadas la moral y las costumbres. Como en una mala historia de folletín, Fortunata se enamora del señorito, pero Juan se casa con su prima Jacinta, mucho mejor partido y que, además, le gusta. Por supuesto, Fortunata, seducida y abandonada, tiene un hijo de Juan, mientras él inicia una serena vida amorosa y conyugal con Jacinta, pero al tiempo se ve que la feliz pareja es estéril.</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-07T08:00:33.308094+00:00"/>
+        <meta name="calibre:title_sort" content="Fortunata y Jacinta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

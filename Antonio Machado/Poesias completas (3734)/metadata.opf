@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3734</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1149b1e9-6f2b-4cc4-a5ce-dcba2c39c324</dc:identifier>
+        <dc:title>Poesías completas</dc:title>
+        <dc:creator opf:file-as="Machado, Antonio" opf:role="aut">Antonio Machado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-22T23:00:00+00:00</dc:date>
+        <dc:description>A pesar de su excepcional categoría literaria no ha tenido don Antonio Machado demasiada suerte en la transmisión de sus textos y con razón solía decir: Y al cabo nada os debo; debéisme cuanto he escrito. España le debía, ante todo, una edición completa y limpia. Y la ofrecemos a los innumerables lectores de Machado, precedida de una introducción que facilita las claves de comprensión y constituye una guía segura para adentrarse en uno de los más ricos mundos poéticos creados en la Literatura Universal.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788467021509</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-07T08:00:34.293852+00:00"/>
+        <meta name="calibre:title_sort" content="Poesías completas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

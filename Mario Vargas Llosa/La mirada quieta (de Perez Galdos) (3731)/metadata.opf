@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1a70dc5-267c-493a-af6c-70cdedf843e8</dc:identifier>
+        <dc:title>La mirada quieta (de Perez Galdos)</dc:title>
+        <dc:creator opf:file-as="Mario Vargas Llosa" opf:role="aut">Mario Vargas Llosa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-10T18:07:26+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Fort-Book','Helvetica Neue','Helvetica','Arial','sans-serif'; font-size: 16px"&gt;&lt;strong style="color: #000000; background-color: #ffffff"&gt;«¿Fue un gran escritor? Lo fue. En el siglo XIX y comienzos del XX, no hay ninguno de sus compatriotas que tenga semejante dedicación, inventiva, empeño y la soltura literaria de Pérez Galdós».&lt;/strong&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt; &lt;br&gt;&lt;br&gt;Pérez Galdós es un autor esencial en la literatura española contemporánea. En este ensayo, a partir del análisis de sus novelas, de sus obras teatrales y de los &lt;/span&gt;&lt;em style="color: #000000; background-color: #ffffff"&gt;Episodios nacionales&lt;/em&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt;, Mario Vargas Llosa crea un perfil completo, personal y sugerente del escritor español. Nadie como el Nobel peruano es capaz de leer de manera tan sagaz y con tanta libertad y pasión la obra de un creador. Como el propio autor afirma en la introducción a &lt;/span&gt;&lt;em style="color: #000000; background-color: #ffffff"&gt;La mirada quieta&lt;/em&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt;, «Galdós hizo lo que Balzac, Zola y Dickens hicieron en sus respectivas naciones: contar la historia y la realidad social de su país. Con sus &lt;/span&gt;&lt;em style="color: #000000; background-color: #ffffff"&gt;Episodios &lt;/em&gt;&lt;span style="color: #000000; background-color: #ffffff"&gt;estuvo en la línea de aquéllos, convirtiendo en materia literaria el pasado vivido, poniendo al alcance del gran público una versión quieta pero amena, bien escrita, con personajes vivos y documentación solvente, de un siglo decisivo en la historia española».&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-07T08:00:33.787031+00:00"/>
+        <meta name="calibre:title_sort" content="La mirada quieta (de Perez Galdos)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
