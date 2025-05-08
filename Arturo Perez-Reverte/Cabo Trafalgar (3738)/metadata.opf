@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3738</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">891c3eab-89af-485f-a65d-13affb4794ef</dc:identifier>
+        <dc:title>Cabo Trafalgar</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-14T23:00:00+00:00</dc:date>
+        <dc:description>En vísperas del bicentenario de la batalla de Trafalgar, Alfaguara pidió a Arturo Pérez-Reverte un relato sobre su particular visión del combate naval más famoso de la historia, que enfrentó a la armada combinada hispano-francesa con la británica, mandada por el almirante Nelson, en las aguas españolas del Cabo Trafalgar. La combinación de rigor histórico y acción espectacular, unida a la habilidad narrativa del autor, convierten estas páginas en una apasionante pieza clave para comprender la trágica jornada de aquel 21 de octubre de 1805 que cambió la historia de Europa y del mundo.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789707700581</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Spanish</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-08T06:18:13.946561+00:00"/>
+        <meta name="calibre:title_sort" content="Cabo Trafalgar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

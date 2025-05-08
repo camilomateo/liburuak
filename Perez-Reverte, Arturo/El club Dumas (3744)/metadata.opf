@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3744</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c36ba0d7-1b5f-4feb-b262-613d9bbde2a7</dc:identifier>
+        <dc:title>El club Dumas</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Pérez-Reverte, Arturo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-27T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;Lucas Corso, mercenario de la bibliofilia, cazador de libros por cuenta ajena, se enfrenta a esa pregunta cuando recibe un doble encargo de sus clientes: autentificar un manuscrito de &lt;/span&gt;&lt;em style="color: #0f1111"&gt;Los&lt;/em&gt;&lt;span style="color: #0f1111"&gt; &lt;/span&gt;&lt;em style="color: #0f1111"&gt;tres mosqueteros&lt;/em&gt;&lt;span style="color: #0f1111"&gt; y descifrar el enigma de un extraño libro que fue quemado en 1667 con el hombre que lo imprimió. La peligrosa indagación le llevará de los archivos del Santo Oficio a los libros condenados, y de las polvorientas librerías de viejo a las más selectas bibliotecas de los coleccionistas internacionales.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;Con esta edición limitada y numerada, que incluye, además, un prólogo escrito por el autor para la ocasión y nuevas ilustraciones&lt;/span&gt;&lt;em style="color: #0f1111"&gt;,&lt;/em&gt;&lt;span style="color: #0f1111"&gt; Alfaguara celebra el 30.º aniversario de la publicación de &lt;/span&gt;&lt;em style="color: #0f1111"&gt;El&lt;/em&gt;&lt;span style="color: #0f1111"&gt; &lt;/span&gt;&lt;em style="color: #0f1111"&gt;club Dumas,&lt;/em&gt;&lt;span style="color: #0f1111"&gt; la novela que abrió el camino literario internacional a los thrillers inspirados en el mundo de los libros.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-family: 'Amazon Ember','Arial','sans-serif'; font-size: 14px"&gt;&lt;span style="color: #0f1111"&gt;Esta novela fue llevada al cine por el director Roman Polanski con el título&lt;/span&gt;&lt;em style="color: #0f1111"&gt; La novena puerta&lt;/em&gt;&lt;span style="color: #0f1111"&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>es</dc:language>
+        <dc:subject>General Interest</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-08T06:18:15.748682+00:00"/>
+        <meta name="calibre:title_sort" content="club Dumas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3740</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d66a3b7f-3a24-4dd5-b384-aa6e793d9cd5</dc:identifier>
+        <dc:title>Territorio comanche</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Un relato apasionado que se lee como una novela y obliga a preguntarse si existe una ética en el filo entre la vida y la muerte. En Territorio comanche, abandonando por primera vez su faceta de narrador de ficciones, Pérez-Reverte nos enfrenta con la visión más real y descarnada, no exenta de ternura e ironía, sobre el trabajo de los corresponsales de guerra en Yugoslavia. "Para un reportero en una guerra, territorio comanche es el lugar donde el instinto dice que pares el coche y des media vuelta; donde siempre parece a punto de anochecer y caminas pegado a las paredes, hacia los tiros que suenan a lo lejos, mientras escuchas el ruido de tus pasos sobre los cristales rotos. Territorio comanche es allí donde los oyes crujir bajo tus botas, y aunque no ves a nadie sabes que te están mirando". Así define Arturo Pérez-Reverte el escenario inquietante en que se ha movido como reportero de guerra durante los últimos veintiún años.</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-08T06:18:14.558448+00:00"/>
+        <meta name="calibre:title_sort" content="Territorio comanche"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

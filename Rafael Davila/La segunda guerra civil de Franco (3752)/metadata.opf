@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a9042cb-f9cb-46f6-9469-8568d9b5bea5</dc:identifier>
+        <dc:title>La segunda guerra civil de Franco</dc:title>
+        <dc:creator opf:file-as="Dávila, Rafael" opf:role="aut">Rafael Dávila</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-04-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Cuando el 1 de abril de 1939 callaron los cañones y los fusiles de la Guerra Civil, para Francisco Franco terminaba una primera lucha que lo había encumbrado como Caudillo de un movimiento militar y político, y como jefe de un nuevo Estado aún por construir. Comenzaba entonces una batalla a veces latente, en ocasiones explícita, por la forma y la dirección de ese Estado, por la posición de España en el concierto internacional y por la conservación del poder.&lt;/p&gt;
+&lt;p&gt;Rafael Dávila acude a la correspondencia entre el general Fidel Dávila, Franco, los militares y los círculos monárquicos, además de a la documentación diplomática, manifiestos e informes para reconstruir las tensiones entre el Ejército, La Falange y los monárquicos, la presión de Hitler y de los aliados en la Segunda Guerra Mundial, la lucha contra el maquis, la guerra soterrada por el espionaje y la información, la pugna con don Juan, con los generales díscolos o la posterior lucha contra ETA. Fueron episodios de aquella larga «segunda guerra civil» (1939-1975) que Franco, pese a todas las amenazas, fue capaz de superar. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>LA ESFERA DE LOS LIBROS, S.L.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0CY9YYBPN</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-08T06:30:38.412007+00:00"/>
+        <meta name="calibre:title_sort" content="segunda guerra civil de Franco, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

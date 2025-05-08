@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3750</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cbebb41-b4a6-4780-afff-2a1d212648d7</dc:identifier>
+        <dc:title>La maletita azul</dc:title>
+        <dc:creator opf:file-as="VICTORIA, MARIA DE LOURDES" opf:role="aut">María de Lourdes Victoria</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-06T18:31:29+00:00</dc:date>
+        <dc:description>Un adiós forzado. Un amor inquebrantable. Un destino marcado por la guerra.Barcelona, 1937. En medio del caos de la Guerra Civil Española, Pere Roda toma una decisión que lo perseguirá toda la vida: envía a sus tres hijas a México convencido de que así las salvará del hambre y la guerra. Pere oculta su decisión a Celia, la madre de las niñas, sabiendo que ella preferiría cualquier cosa antes de apartarse de ellas. Las tres hermanas viajan junto con más de quinientos niños refugiados hacia el otro lado del océano, donde enfrentarán los crueles desafíos del exilio: la separación de los padres, la pérdida de la identidad y el miedo constante de no saber qué les deparará el futuro. Mientras la distancia entre la familia crece y el tiempo avanza, Pere desaparece por completo de la vida de Celia, y ella, sin conocer la verdad, comienza la búsqueda incansable de sus hijas, temiendo siempre lo peor: que hayan perecido víctimas de los bombardeos y la guerra.La maletita azul es una...</dc:description>
+        <dc:publisher>Martínez Roca México</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-08T06:30:37.593982+00:00"/>
+        <meta name="calibre:title_sort" content="MALETITA AZUL, LA"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

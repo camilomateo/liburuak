@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f58c8cd6-d629-49bc-be91-0672d8c79154</dc:identifier>
+        <dc:title>Tres días de junio</dc:title>
+        <dc:creator opf:file-as="Tyler, Anne" opf:role="aut">Anne Tyler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-04-24T00:00:00+00:00</dc:date>
+        <dc:description>«La mejor cronista de la vida familiar» (Daily Mail), ganadora de los premios Pulitzer, National Book Critics Circle y Pen/Faulkner, regresa con una de sus mejores novelas: una historia llena de humor y esperanza sobre el amor, la familia y la afirmación de la independencia. Gail Baines ha tenido un mal día. No está segura de si ha dejado su trabajo de forma voluntaria o si la han echado. Es la víspera de la boda de Debbie, su hija, y esta no ha tenido la delicadeza de invitarla al día de spa organizado por su futura consuegra. Para terminar de rematar todo, su exmarido Max se ha instalado en su casa sin avisar, cargado con un gato y sin tan siquiera un traje para asistir a la boda. Pero la verdadera crisis llega cuando Debbie les confía un secreto, del que acaba de enterarse, sobre su futuro marido, que podría dar al traste con el enlace, además de remover el pasado de Gail y Max.Una novela construida sobre las alegrías y los sinsabores del amor, el matrimonio y la vida...</dc:description>
+        <dc:publisher>Lumen</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-08T06:30:38.065788+00:00"/>
+        <meta name="calibre:title_sort" content="Tres días de junio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

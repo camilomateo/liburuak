@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3739</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80f9f911-db8a-42b4-bc43-62177262e92e</dc:identifier>
+        <dc:title>Una historia de España</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-01T00:00:00+00:00</dc:date>
+        <dc:description>El presente libro es una recopilación de este editor digital de los artículos escritos por don Arturo sobre la historia de nuestro país y que se ven reflejados en su blog Patente de corso. Estos artículos llevan todos por título Una historia de España y tienen una clara unidad. Las palabras son suyas, la recopilación es mía. Si hay algún error, lo mas probable es que sea mío.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Historia</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-08T06:18:14.289389+00:00"/>
+        <meta name="calibre:title_sort" content="historia de España, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

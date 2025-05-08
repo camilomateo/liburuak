@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3743</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04ca970a-ebb3-4e79-a775-3da8c60a51c5</dc:identifier>
+        <dc:title>La Guerra Civil Contada a Los Jóvenes</dc:title>
+        <dc:creator opf:file-as="Arturo Pérez-Reverte" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-04T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;**La Guerra Civil española contada de forma escueta, objetiva y rigurosa, sin clichés partidarios ni etiquetas fáciles, en textos de Arturo Pérez-Reverte e ilustrada de forma espléndida por Fernando Vicente.**&lt;/p&gt;
+&lt;p class="description"&gt;«Hace casi ochenta años, entre 1936 y 1939, en tiempos de nuestros abuelos y bisabuelos, una espantosa guerra civil tuvo lugar en España. Causó miles de muertos, destruyó hogares, arruinó el país y llevó a mucha gente al exilio. Para evitar que tan desoladora tragedia vuelva a repetirse nunca, es conveniente recordar cómo ocurrió. Así, de aquella desgracia podrán extraerse conclusiones útiles sobre la paz y la convivencia que jamás se deben perder. Lecciones terribles que nunca debemos olvidar.»  &lt;br&gt;**Arturo Pérez-Reverte**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B016NDEA8K</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">a8O6CgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">27420138</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788420484228</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/la-guerra-civil-contada-a-los-j-venes-arturo-p-rez-reverte/1122798747</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:series" content="Arturo Perez"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-05-08T06:18:15.385850+00:00"/>
+        <meta name="calibre:title_sort" content="La Guerra Civil Contada a Los Jóvenes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

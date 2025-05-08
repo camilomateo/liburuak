@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3745</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9aef8c23-1c51-449f-8658-1aac61e9ae5f</dc:identifier>
+        <dc:title>Tokio Blues. Norwegian Wood</dc:title>
+        <dc:creator opf:file-as="Haruki Murakami" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-02T18:15:10+00:00</dc:date>
+        <dc:description>Mientras aterriza en un aeropuerto europeo, Toru Watanabe, un ejecutivo de 37 a�os, escucha una vieja canci�n de los Beatles que le hace retroceder a su juventud, al turbulento Tokio de los a�os sesenta. Con una mezcla de melancol�a y desasosiego, Toru recuerda entonces a la inestable y misteriosa Naoko, la novia de su mejor y �nico amigo de la adolescencia, Kizuki. El suicidio de �ste distanci� a Toru y a Naoko durante un a�o, hasta que se reencontraron e iniciaron una relaci�n �ntima. Sin embargo, la aparici�n de otra mujer en la vida de Toru le lleva a experimentar el deslumbramiento y el desenga�o all� donde todo deber�a cobrar sentido: el sexo, el amor y la muerte. Y ning�n de los personajes parece capaz de alcanzar el fr�gil equilibrio entre las esperanzas juveniles y la necesidad de encontrar un lugar en el mundo.</dc:description>
+        <dc:publisher>Editorial Planeta Mexicana</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786074211214</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">2c28b121-52b2-4b22-b42a-b09377ee10c9</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Language Arts</dc:subject>
+        <dc:subject>Juvenile Nonfiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-08T06:24:03.174535+00:00"/>
+        <meta name="calibre:title_sort" content="Tokio Blues. Norwegian Wood"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

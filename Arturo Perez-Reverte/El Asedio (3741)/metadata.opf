@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3741</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be649de5-255e-4d9f-a0c0-df4d89ff3837</dc:identifier>
+        <dc:title>El Asedio</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-29T16:00:00+00:00</dc:date>
+        <dc:description>v2.0
+
+Cádiz, 1811. España lucha por su independencia mientras América lo hace por la suya. En las calles de la ciudad más liberal de Europa se libran batallas de otra índole. Mujeres jóvenes aparecen desolladas a latigazos. En cada lugar, antes del hallazgo del cadáver, ha caído una bomba francesa. Eso traza sobre la ciudad un mapa superpuesto y siniestro: un complejo tablero de ajedrez donde la mano de un jugador oculto -un asesino despiadado, el azar, las curvas de artillería, la dirección de los vientos, el cálculo de probabilidades- mueve piezas que deciden el destino de los protagonistas: un policía corrupto y brutal, la heredera de una importante casa comercial gaditana, un capitán corsario de pocos escrúpulos, un taxidermista misántropo y espía, un enternecedor guerrillero de las salinas y un excéntrico artillero a quien las guerras importan menos que resolver el problema técnico del corto alcance de sus obuses.El asedio narra el pulso asombroso de un mundo que pudo ser y no fue. El fin de una época y unos personajes condenados por la Historia, sentenciados a un vida que, como la ciudad que los alberga -una Cádiz equívoca, enigmática, sólo en apariencia luminosa y blanca-, nunca volverá a ser la misma.</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786071104427</dc:identifier>
+        <dc:language>es</dc:language>
+        <dc:subject>Spanish</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-08T06:18:14.801216+00:00"/>
+        <meta name="calibre:title_sort" content="El Asedio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

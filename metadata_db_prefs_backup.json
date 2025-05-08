@@ -28,26 +28,6 @@
     "path_injected": true,
     "sort_history": [
       [
-        "marked",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "title",
-        true
-      ],
-      [
         "timestamp",
         false
       ],
@@ -66,6 +46,114 @@
       [
         "timestamp",
         false
+      ],
+      [
+        "authors",
+        false
+      ],
+      [
+        "marked",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "marked",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "authors",
+        false
+      ],
+      [
+        "marked",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "marked",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "authors",
+        false
+      ],
+      [
+        "marked",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "marked",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "authors",
+        false
+      ],
+      [
+        "marked",
+        true
+      ],
+      [
+        "authors",
+        true
       ],
       [
         "title",
@@ -768,7 +856,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1746604803.130491,
+  "last_expired_trash_at": 1746684139.948108,
   "catalog-field-data-for-catalog_csv_xml": {
     "fields": [
       "authors",

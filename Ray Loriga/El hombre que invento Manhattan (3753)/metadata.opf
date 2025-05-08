@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3753</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">496c760b-3b42-409a-a57a-ba15a53f6970</dc:identifier>
+        <dc:title>El hombre que inventó Manhattan</dc:title>
+        <dc:creator opf:file-as="Loriga, Ray" opf:role="aut">Ray Loriga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-10T13:06:28+00:00</dc:date>
+        <dc:description>Llega a Alfaguara el gran libro de historias de Nueva York de Ray Loriga, premio Alfaguara de novela 2017, cuando se cumplen veinte años de su primera publicación.El hombre que inventó Manhattan se llamaba en realidad Gerald Ulsrak, estaba casado y tenía dos hijas. O quizá sólo una. Había nacido en un pequeño pueblo en las montañas de Rumania y siempre había soñado con un sitio mejor, Manhattan, y un nombre distinto, Charlie. Trabajaba en el mantenimiento de un bloque de apartamentos y se repetía noche tras noche como un mantra que el siguiente sería un buen día. La mañana de Año Nuevo de 2002 amaneció colgado de una viga del techo.Su suicidio pone en marcha la recreación por parte del narrador un inquilino del inmueble de un mundo en el que se mezclan la realidad y la ficción. A través de historias cortas, agudas como flechas, marcadas por los juegos de identidades, el humor irónico y unos personajes inolvidables, se erige una ciudad mítica: un Manhattan personal, exacto y al...</dc:description>
+        <dc:publisher>Alfaguara</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-08T06:30:38.844117+00:00"/>
+        <meta name="calibre:title_sort" content="hombre que inventó Manhattan, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3747</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8866924d-027a-4707-8b97-b97756629b29</dc:identifier>
+        <dc:title>Catalina</dc:title>
+        <dc:creator opf:file-as="Cornejo Villavicencio, Karla" opf:role="aut">Karla Cornejo Villavicencio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Los 100 mejores libros del 2024 de Time MagazineUn año en la vida de la inolvidable Catalina Ituralde, una estudiante terriblemente sardónica y desgarradoramente vulnerable en un colegio de élite, obligada a navegar un pasado opaco, un futuro incierto, tragedias en dos continentes y las tentadoras posibilidades del amor y la libertad.Cuando aceptan a Catalina en Harvard, se siente como si el destino se cumpliera: una niña milagro que escapa de la muerte en Latinoamérica, se muda a Queens para ser criada por sus abuelos indocumentados y se convierte en una de las elegidas. Pero nada es así de simple para Catalina, y mucho menos su propia mente complicada, contradictoria y despiadadamente inquisitiva. Ya en su último año, de cara a graduarse para salir a un mundo que no tiene lugar para los indocumentados, su sensación de fatalismo intensifica sus curiosidades y sus deseos. Catalina infiltra las subculturas de élite de la escuela —pasantías y revistas literarias, fiestas elegantes...</dc:description>
+        <dc:publisher>VINTAGE ESPAÑOL</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-08T06:30:36.523942+00:00"/>
+        <meta name="calibre:title_sort" content="Catalina"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
