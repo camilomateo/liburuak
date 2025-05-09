@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3761</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">357a05eb-6478-4fcb-973b-cf08afc0694e</dc:identifier>
+        <dc:title>La soledad era esto</dc:title>
+        <dc:creator opf:file-as="Millás, Juan José" opf:role="aut">Juan José Millás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-02-13T22:00:00+00:00</dc:date>
+        <dc:description>«La soledad era esto» o cómo incorporar en un libro los más genuinos saberes y reflexiones de la literatura contemporánea. Por medio de un sutil entramado de voces narrativas, la novela cuenta la historia de una mujer —Elena Rincón— que a partir de la muerte de su madre inicia una lenta metamorfosis que sólo a través del aprendizaje de la soledad puede conducir a la liberación. Dotado de un talento narrativo que sabe hacer de lo cotidiano el inicio de lo angustioso. Juan José Millás nos ofrece una desgarrada y contundente crónica de la vida de hoy, donde no falta el reflejo de las actitudes de quienes, tras una militancia de izquierdas, han sustituido la ideología por la tarjeta de crédito. Un omnipresente paisaje urbano es el contrapunto de los sentimientos de la protagonista, que se encuentra en una encrucijada cuya única salida parece ser ahondar en el propio aislamiento. Como en otras novelas del autor, también aquí la trama remite a un original análisis de los alcances de la ficción. No en vano el relato se articula a través de diversos registros narrativos —el diario de la madre. los informes de un detective y las propias reflexiones de Elena— que nos ofrecen las varias y paradójicas facetas de la realidad. Sin embargo, acaso el mayor mérito de este libro radique en la capacidad del escritor para transformar lo más próximo en materia de imaginación. Con unos ingredientes que nos parecían de sobra conocidos —una mujer de cuarenta y tres años que alterna el hachís con el whisky, las infidelidades conyugales, el anonimato en las grandes ciudades…— Millás ha sabido construir una obra de apariencia sencilla. esencial y verdadera, pero también subterránea, dura y sensual.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">16634</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:series" content="Premio Nadal"/>
+        <meta name="calibre:series_index" content="1990"/>
+        <meta name="calibre:timestamp" content="2025-05-09T06:33:44.036332+00:00"/>
+        <meta name="calibre:title_sort" content="soledad era esto, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

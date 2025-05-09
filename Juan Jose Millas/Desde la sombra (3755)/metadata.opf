@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3755</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7bc9a50-2774-451f-82f0-5bae345657ac</dc:identifier>
+        <dc:title>Desde la sombra</dc:title>
+        <dc:creator opf:file-as="Millás, Juan José" opf:role="aut">Juan José Millás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-31T22:00:00+00:00</dc:date>
+        <dc:description>Damián se siente confuso desde que perdió su trabajo. Un día comete un pequeño hurto en un mercado de anticuarios y se esconde en el interior de un armario. Antes de que pueda salir, el armario es vendido y trasladado a la habitación de matrimonio de Lucía y Fede, donde Damián termina instalado, como si formara parte del mueble. La habilidad con que se lleva hasta las últimas consecuencias una premisa imposible, aunque verosímil, imprime a esta novela una tensión extraordinaria. Así, desde su escondite, Damián observa a esta familia. Así, se irá acercando al corazón de Lucía, a sus temores y a sus sueños, y al hacerlo se sabrá por fin respetado y comprobará de todo lo que es capaz al sentirse vivo. El Juan José Millás lector y el gran escritor se dan la mano en esta novela que contiene un fuerte valor simbólico en su aparente sencillez. La mejor prosa millasiana al servicio de una historia brillante que articula las obsesiones del maestro de la extrañeza.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-09T06:33:43.125998+00:00"/>
+        <meta name="calibre:title_sort" content="Desde la sombra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

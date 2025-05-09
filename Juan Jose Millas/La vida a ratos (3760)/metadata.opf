@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3760</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec4bc605-7a5a-474b-b75b-cc551876f351</dc:identifier>
+        <dc:title>La vida a ratos</dc:title>
+        <dc:creator opf:file-as="Millás, Juan José" opf:role="aut">Juan José Millás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-03T22:00:00+00:00</dc:date>
+        <dc:description>Vuelve el ingenio de Millás con el diario divertido y surrealista de un neurótico brillante. En La vida a ratos el lector es tan protagonista como el narrador, porque descubre en secreto un relato que, en la ficción, no ha sido creado para ser conocido por nadie más que aquel que lo escribe. Es el diario de más de tres años de vida de un personaje -curiosamente también llamado Juan José Millás-, que se muestra tan libre, tan neurótico, y divertido, e irónico e hipocondriaco como solo nos mostramos cuando nadie nos ve. Las visitas a la psicoanalista, el taller de escritura, los paseos por una ciudad que no deja de colocarle ante situaciones sorpresivas, la familia, los amigos... Todo es normal, todo parece anodino hasta que, al volver una esquina de la realidad, aparece lo extraordinario, lo surrealista. Y nos deslumbra.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-09T06:33:43.884401+00:00"/>
+        <meta name="calibre:title_sort" content="vida a ratos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

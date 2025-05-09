@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f61e149-cc75-41bc-951f-12acfdf1eb56</dc:identifier>
+        <dc:title>El desorden de tu nombre</dc:title>
+        <dc:creator opf:file-as="Millás, Juan José" opf:role="aut">Juan José Millás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-12-31T22:00:00+00:00</dc:date>
+        <dc:description>Cuando Julio Orgaz, ejecutivo de una empresa editorial, sale cada martes y viernes de la consulta del psicoanalista, encuentra en el parque a Laura, una mujer casada que le atrae inexplicablemente y de la que en poco tiempo se enamora. Pero la mirada de Julio descubre a veces, en el rostro de Laura, los rasgos de otra mujer a la que amó.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">30686</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-09T06:33:44.199970+00:00"/>
+        <meta name="calibre:title_sort" content="desorden de tu nombre, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

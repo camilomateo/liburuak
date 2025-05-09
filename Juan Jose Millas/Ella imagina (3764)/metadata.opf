@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3764</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65bdde61-0bfb-483a-93e9-5d3ffaf187ca</dc:identifier>
+        <dc:title>Ella imagina</dc:title>
+        <dc:creator opf:file-as="Millás, Juan José" opf:role="aut">Juan José Millás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-05-11T22:00:00+00:00</dc:date>
+        <dc:description>Esta obra reúne 32 relatos cortos, encabezados por el monólogo que da título al libro, y que fue representado con gran éxito por la actriz Magüi Mira. El hilo conductor de todas las narraciones es un personaje llamado Vicente Holgado, procedente de un cuento anterior del autor, «Trastornos del Carácter», que es un tipo neutro, de naturaleza inestable, a veces hombre, a veces mujer, casado, viudo o soltero según la ocasión, inconcreto y con déficit de identidad, que vive pero en ocasiones muere y resucita. En definitiva, un prodigio, como la imaginación de su creador.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-09T06:33:44.503729+00:00"/>
+        <meta name="calibre:title_sort" content="Ella imagina"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

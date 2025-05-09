@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3759</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3a57cd5-a9fb-40b2-9106-1c6c429f4085</dc:identifier>
+        <dc:title>Laura y Julio</dc:title>
+        <dc:creator opf:file-as="Millás, Juan José" opf:role="aut">Juan José Millás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-22T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Recién separado, Julio decide ocupar en secreto el piso vacío de un vecino. Al hacerlo, usurpa también su ropa, sus costumbres, incluso su mirada sobre el mundo, sobre su exmujer y sobre sí mismo. En el transcurso de esta metamorfosis, Julio descubre una vida nueva que tendrá que modelar para convertir su impostura en realidad.&lt;/p&gt;
+
+    &lt;p&gt;La mezcla de extrañeza y lucidez con que Julio afronta su nueva situación, en la que entabla, entre otras novedades, una curiosa relación con una niña de seis años, constituye la médula de esta historia intensa y sugerente.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">58749</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-09T06:33:43.729550+00:00"/>
+        <meta name="calibre:title_sort" content="Laura y Julio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

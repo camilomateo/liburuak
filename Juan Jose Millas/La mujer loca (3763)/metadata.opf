@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11e96b2c-09c5-45ca-bab1-ddcae0dc21bb</dc:identifier>
+        <dc:title>La mujer loca</dc:title>
+        <dc:creator opf:file-as="Millas, Juan Jose" opf:role="aut">Juan Jose Millas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Julia trabaja en una pescadería y de noche estudia gramática porque está enamorada de su jefe, que en realidad es filólogo. En sus ratos libres, la joven ayuda en el cuidado de una enferma terminal, Emérita, en cuya casa coincide con Millás, que está haciendo un reportaje sobre la eutanasia. Durante sus visitas, el escritor se siente atraído por la idea de novelar la vida de Julia, aunque para lograrlo deberá enfrentarse a su bloqueo creativo con la ayuda de una psicoterapeuta. La realidad trastoca los planes del escritor cuando Emérita revela un secreto que ha guardado celosamente toda su vida. Lo que había comenzado como una crónica periodística se convierte entonces en una suerte de novela en la que él se verá involucrado como personaje.
+El mejor Juan José Millás regresa a la novela con La mujer loca, una historia en la que el lector habrá de decidir qué es verdadero y qué es falso, una investigación sobre los límites de la realidad y la ficción en una obra que condensa la esencia del maestro de la extrañeza: humor inteligente, diálogos excepcionales y una escritura provocativa. Un ejercicio de honestidad con el que afronta sus cuitas como autor desde la verosimilitud de la pura ficción.</dc:description>
+        <dc:publisher>www.papyrefb2.net</dc:publisher>
+        <dc:language>es</dc:language>
+        <dc:subject>antique</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-09T06:33:44.350792+00:00"/>
+        <meta name="calibre:title_sort" content="mujer loca, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

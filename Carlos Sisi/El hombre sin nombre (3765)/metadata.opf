@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3765</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd0e70c8-5afa-4826-b0b4-c087693a0b33</dc:identifier>
+        <dc:title>El hombre sin nombre</dc:title>
+        <dc:creator opf:file-as="Sisí, Carlos" opf:role="aut">Carlos Sisí</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-03-26T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El nuevo thriller con elementos sobrenaturales de Carlos Sisí mezcla acción trepidante con una reflexión sobre el más alla.&lt;/p&gt;
+&lt;p&gt;El brote y espectacular auge de una nueva droga, el Luminis, o Aetheris, según dónde preguntes, ha provocado una crisis sanitaria nacional. El Grupo de Homicidios de la Policía Nacional de Madrid, encabezado por Rebeca Laza investiga una serie de asesinatos relacionados con la droga, que tiene un efecto sorprendente sobre sus consumidores: los que la toman, terminan por ver y comunicarse con fantasmas.&lt;/p&gt;
+&lt;p&gt;Aunque las autoridades sanitarias advierten que se trata tan solo de un efecto alucinógeno del estupefaciente, la realidad parece demostrar otra cosa. La situación se complica cuando aparece la figura de un hombre sin nombre, un sicario; un asesino invicto, concentrado y despiadado, que tendrá mucho que decir en la trayectoria del Aetheris y la vida de Rebeca. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Minotauro</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-05-09T06:41:11.423502+00:00"/>
+        <meta name="calibre:title_sort" content="hombre sin nombre, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

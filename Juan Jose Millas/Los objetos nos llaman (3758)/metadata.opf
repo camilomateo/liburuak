@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3758</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68f5e6ae-a535-4bb0-b312-fec0e978cc0c</dc:identifier>
+        <dc:title>Los objetos nos llaman</dc:title>
+        <dc:creator opf:file-as="Millás, Juan José" opf:role="aut">Juan José Millás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Lo misterioso acecha a la vuelta de la esquina, en el interior de uno mismo. Mujeres grandes que sueñan con hombres diminutos. Maniquíes que sudan. Pollos que llegan desde el mercado a casa, pero que jamás aparecen en la mesa. Mentiras que se convierten en realidades inexplicables. Cerillas viejas que iluminan habitaciones antiguas. Pequeños malentendidos que dan lugar a preguntas fundamentales. Delirios sensatos. Corduras delirantes… Bienvenido al mundo de Juan José Millás.&lt;/p&gt;
+
+    &lt;p&gt;Si puedes dejar de leer un segundo para prepararte un café, ese café quedará contaminado por la lectura de &lt;cite&gt;Los objetos nos llaman&lt;/cite&gt;. Será un café especial, único, un café inolvidable, porque estará preparado por uno de sus personajes. Este libro, ese café y tú os habréis convertido en un relato. Prueba. No se puede leer a Millás sin que algo, a nuestro alrededor, cambie, sin que la realidad cotidiana nos asombre.&lt;/p&gt;
+
+    &lt;p&gt;Millás ejerce en este libro como un maestro de la distancia corta. Cada uno de estos cuentos, breves como un fogonazo, ilumina un secreto, revela un misterio, provoca una pregunta. Todos, bajo esa escritura precisa y veloz, esconden una sorpresa. Inimitable mezcla de humor, de pánico, de ironía, en esa atmósfera entre realista y onírica que caracteriza la escritura de Millás.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">58750</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2025-05-09T06:33:43.578236+00:00"/>
+        <meta name="calibre:title_sort" content="objetos nos llaman, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
